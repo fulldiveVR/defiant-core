@@ -13,6 +13,7 @@ bool IsBraveExtension(extensions::ExtensionViewHost* host) {
   const auto extensionId = host->extension()->id();
   return (extensionId == brave_extension_id ||
           extensionId == dissenter_extension_id ||
+          extensionId == fulldive_extension_id ||
           extensionId == brave_rewards_extension_id);
 #endif
   return false;

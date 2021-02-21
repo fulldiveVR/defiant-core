@@ -11,6 +11,7 @@
 #include "brave/common/extensions/extension_constants.h"
 #include "brave/components/brave_extension/grit/brave_extension.h"
 #include "brave/components/dissenter_extension/grit/dissenter_extension.h"
+#include "brave/components/fulldive_extension/grit/fulldive_extension.h"
 #include "components/grit/brave_components_resources.h"
 //#include "brave/components/brave_rewards/resources/extension/grit/brave_rewards_extension_resources.h"
 //#include "brave/components/brave_sync/grit/brave_sync_resources.h"
@@ -23,6 +24,7 @@ namespace extensions {
       brave_extension_id,
       ethereum_remote_client_extension_id,
       dissenter_extension_id,
+      fulldive_extension_id,
       //brave_rewards_extension_id,
       //brave_sync_extension_id,
       brave_webtorrent_extension_id
@@ -42,6 +44,7 @@ namespace extensions {
       case IDR_DISSENTER_EXTENSION:
       case IDR_BRAVE_EXTENSION:
       case IDR_BRAVE_WEBTORRENT:
+      case IDR_FULLDIVE_EXTENSION:
         return true;
       //case IDR_BRAVE_REWARDS:
       //case IDR_BRAVE_SYNC_EXTENSION:

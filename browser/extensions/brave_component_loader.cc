@@ -18,6 +18,7 @@
 #include "brave/components/brave_component_updater/browser/brave_on_demand_updater.h"
 #include "brave/components/brave_extension/grit/brave_extension.h"
 #include "brave/components/dissenter_extension/grit/dissenter_extension.h"
+#include "brave/components/fulldive_extension/grit/fulldive_extension.h"
 #include "brave/components/brave_rewards/browser/buildflags/buildflags.h"
 #include "brave/components/brave_rewards/common/pref_names.h"
 //#include "brave/components/brave_rewards/resources/extension/grit/brave_rewards_extension_resources.h"
@@ -102,10 +103,15 @@ void BraveComponentLoader::AddDefaultComponentExtensions(
     Add(IDR_BRAVE_EXTENSION, brave_extension_path);
   }
 
-  base::FilePath dissenter_extension_path(FILE_PATH_LITERAL(""));
-  dissenter_extension_path =
-      dissenter_extension_path.Append(FILE_PATH_LITERAL("dissenter_extension"));
-  Add(IDR_DISSENTER_EXTENSION, dissenter_extension_path);
+  //base::FilePath dissenter_extension_path(FILE_PATH_LITERAL(""));
+  //dissenter_extension_path =
+  //    dissenter_extension_path.Append(FILE_PATH_LITERAL("dissenter_extension"));
+  //Add(IDR_DISSENTER_EXTENSION, dissenter_extension_path);
+
+  base::FilePath fulldive_extension_path(FILE_PATH_LITERAL(""));
+  fulldive_extension_path =
+      fulldive_extension_path.Append(FILE_PATH_LITERAL("fulldive_extension"));
+  Add(IDR_FULLDIVE_EXTENSION, fulldive_extension_path);
 
 #if BUILDFLAG(BRAVE_REWARDS_ENABLED)
   // Enable rewards extension if already opted-in

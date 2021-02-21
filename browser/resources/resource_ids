@@ -55,6 +55,9 @@
   "brave/components/brave_rewards/resources/brave_rewards_static_resources.grd": {
     "includes": [38320]
   },
+  "brave/components/fulldive_extension/extension/resources.grd": {
+    "includes": [38400],
+  },
   "brave/components/dissenter_extension/extension/resources.grd": {
     "includes": [38620],
   },
@@ -68,6 +71,9 @@
   },
   "<(ROOT_GEN_DIR)/brave/web-ui-dissenter_extension/dissenter_extension.grd": {
     "includes": [38680],
+  },
+  "<(ROOT_GEN_DIR)/brave/web-ui-fulldive_extension/fulldive_extension.grd": {
+    "includes": [38690],
   },
   # This file is generated during the build.
   "<(ROOT_GEN_DIR)/brave/web-ui-brave_rewards/brave_rewards.grd": {

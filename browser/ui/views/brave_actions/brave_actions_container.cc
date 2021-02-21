@@ -150,8 +150,8 @@ void BraveActionsContainer::Init() {
   // make sure separator is at index 0
   AddChildViewAt(brave_button_separator_, 0);
   // Populate actions
-  actions_[dissenter_extension_id].position_ = 1;
-  actions_[brave_extension_id].position_ = ACTION_ANY_POSITION;
+  actions_[fulldive_extension_id].position_ = 1;
+  actions_[dissenter_extension_id].position_ = ACTION_ANY_POSITION;
 
   // React to Brave Rewards preferences changes.
   /*
@@ -390,6 +390,7 @@ void BraveActionsContainer::OnExtensionSystemReady() {
   // Check if extensions already loaded
   AddAction(brave_extension_id);
   AddAction(dissenter_extension_id);
+  AddAction(fulldive_extension_id);
 #if BUILDFLAG(BRAVE_REWARDS_ENABLED)
   AddAction(brave_rewards_extension_id);
 #endif
