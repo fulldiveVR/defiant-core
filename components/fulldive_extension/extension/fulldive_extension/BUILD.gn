@@ -1,0 +1,25 @@
+import("//brave/components/common/typescript.gni")
+import("//build/config/locales.gni")
+
+transpile_web_ui("fulldive_extension") {
+  # Need this to fire re-pack if changed, nevertheless extension is repacked on each 2nd build
+  # what is the output bundle called and what is the entry point file
+
+  entry_points = [
+    ["fulldive_extension", rebase_path("app.js")],
+    ["fullduve_extension_background", rebase_path("bg/bundle.js")],
+    ["content", rebase_path("content/bundle.js")],
+    ["vendor", rebase_path("vendor.js")],
+    ["vendors", rebase_path("vendors/bundle.js")],
+  ]
+
+  # what is the directory / pack name
+  resource_name = "fulldive_extension"
+
+
+  # Must match the relative path from the static GRD to the manifest.json
+  # plus any other relative path we want these files to live in the extension
+  extra_relative_path = "/fulldive_extension/out"
+
+  public_asset_path = "/out/"
+}
