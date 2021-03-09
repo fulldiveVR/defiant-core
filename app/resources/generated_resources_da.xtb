@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Slet</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> er valgt</translation>
 <translation id="5582839680698949063">Hovedmenu</translation>
-<translation id="3700405816184340252">Dissenter-historik</translation>
+<translation id="3700405816184340252">Fulldive-historik</translation>
 <translation id="7602079150116086782">Ingen faner fra andre enheder</translation>
 <translation id="4619615317237390068">Faner fra andre enheder</translation>
-<translation id="82609232232243542">Log ind i Dissenter</translation>
+<translation id="82609232232243542">Log ind i Fulldive</translation>
 <translation id="4627442949885028695">Fortsæt fra en anden enhed</translation>
-<translation id="7253276740368043692">Log ind på Dissenter for at få adgang til dine faner på dine andre enheder.</translation>
+<translation id="7253276740368043692">Log ind på Fulldive for at få adgang til dine faner på dine andre enheder.</translation>
 <translation id="6351063337294363751">Du kan rydde dine browserdata fra denne menu</translation>
 <translation id="6040143037577758943">Luk</translation>
 <translation id="6463795194797719782">&amp;Rediger</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Indstillinger...</translation>
 <translation id="5801568494490449797">Præferencer</translation>
 <translation id="3677911431265050325">Anmod om mobilversion</translation>
-<translation id="236470849334943016">Servicevilkårene for Dissenter ændres den 31. marts</translation>
+<translation id="236470849334943016">Servicevilkårene for Fulldive ændres den 31. marts</translation>
 <translation id="1032605640136438169">Læs de nye vilkår</translation>
 <translation id="8712637175834984815">Forstået</translation>
 <translation id="5007392906805964215">Gennemgå</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Genstart</translation>
 <translation id="3479552764303398839">Ikke nu</translation>
 <translation id="1008557486741366299">Ikke nu</translation>
-<translation id="8201192017531062522">Dissenter fortsætter med at køre, mens Dissenter Apps er åben.</translation>
-<translation id="7397305826909094212">Afslut alle Dissenter-apps</translation>
+<translation id="8201192017531062522">Fulldive fortsætter med at køre, mens Fulldive Apps er åben.</translation>
+<translation id="7397305826909094212">Afslut alle Fulldive-apps</translation>
 <translation id="5026874946691314267">Vis ikke denne notifikation igen</translation>
 <translation id="91568222606626347">Opret genvej...</translation>
 <translation id="2783321960289401138">Opret genvej...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">Virtuel Linux-maskine: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Plugin for virtuel maskine: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP-parser</translation>
-<translation id="7171242884588191792">Filværktøjer til Dissenter</translation>
+<translation id="7171242884588191792">Filværktøjer til Fulldive</translation>
 <translation id="3183139917765991655">Profilimport</translation>
 <translation id="7367714965999718019">QR-kodegenerator</translation>
 <translation id="2190069059097339078">Hentning af Wi-Fi-loginoplysninger</translation>
-<translation id="5920835625712313205">Værktøj til skrivning af systembillede i Dissenter OS</translation>
+<translation id="5920835625712313205">Værktøj til skrivning af systembillede i Fulldive OS</translation>
 <translation id="4873312501243535625">Mediefilkontrol</translation>
 <translation id="5972666587303800813">Selvkørende tjeneste</translation>
 <translation id="1545775234664667895">Installerede temaet "<ph name="THEME_NAME"/>"</translation>
@@ -851,13 +851,13 @@
 <translation id="3507421388498836150">Nuværende tilladelser for "<ph name="EXTENSION_NAME"/>"</translation>
 <translation id="5242724311594467048">Skal "<ph name="EXTENSION_NAME"/>" aktiveres?</translation>
 <translation id="4014432863917027322">Vil du reparere "<ph name="EXTENSION_NAME"/>"?</translation>
-<translation id="5173189340601754836">Et andet program på din computer har tilføjet en app, som kan ændre måden, Dissenter fungerer på.
+<translation id="5173189340601754836">Et andet program på din computer har tilføjet en app, som kan ændre måden, Fulldive fungerer på.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Et andet program på din computer har tilføjet en udvidelse, som kan ændre måden, Dissenter fungerer på.
+<translation id="6654312501894761082">Et andet program på din computer har tilføjet en udvidelse, som kan ændre måden, Fulldive fungerer på.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Et andet program på din computer har tilføjet et tema, som kan ændre måden, Dissenter fungerer på.
+<translation id="3225882094369124157">Et andet program på din computer har tilføjet et tema, som kan ændre måden, Fulldive fungerer på.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Aktivér udvidelse</translation>
@@ -866,7 +866,7 @@
 <translation id="3908501907586732282">Aktivér udvidelse</translation>
 <translation id="2327492829706409234">Aktivér app</translation>
 <translation id="175772926354468439">Aktivér tema</translation>
-<translation id="5267531627648004734">Fjern fra Dissenter</translation>
+<translation id="5267531627648004734">Fjern fra Fulldive</translation>
 <translation id="4998873842614926205">Bekræft ændringer</translation>
 <translation id="1799071797295057738">Udvidelsen "<ph name="EXTENSION_NAME"/>" blev automatisk deaktiveret.</translation>
 <translation id="5238278114306905396">Appen "<ph name="EXTENSION_NAME"/>" blev automatisk fjernet.</translation>
@@ -1002,7 +1002,7 @@
 <translation id="1616298854599875024">Udvidelsen "<ph name="IMPORT_NAME"/>" kan ikke importeres, da den ikke er delt</translation>
 <translation id="2131077480075264">"<ph name="APP_NAME"/>" kan ikke installeres, fordi den ikke tillades af "<ph name="IMPORT_NAME"/>"</translation>
 <translation id="1875387611427697908">Denne kan kun tilføjes via <ph name="CHROME_WEB_STORE"/>.</translation>
-<translation id="3862788408946266506">Appen med manifestattributten "kiosk_only" skal installeres i DissenterOS-terminaltilstand</translation>
+<translation id="3862788408946266506">Appen med manifestattributten "kiosk_only" skal installeres i FulldiveOS-terminaltilstand</translation>
 <translation id="3834775135533257713">Appen "<ph name="TO_INSTALL_APP_NAME"/>" kunne ikke tilføjes, da den er i strid med "<ph name="INSTALLED_APP_NAME"/>".</translation>
 <translation id="144518587530125858">'<ph name="IMAGE_PATH"/>' for temaet kunne ikke indlæses.</translation>
 <translation id="3576324189521867626">Appen blev installeret</translation>
@@ -1105,9 +1105,9 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="6101226222197207147">Ny app er tilføjet (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">Nyt tema er tilføjet (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">"<ph name="EXTENSION_NAME"/>" er tilføjet</translation>
-<translation id="6637045053447935202">Et andet program på din computer tilføjede en app, der kan ændre den måde, hvorpå Dissenter fungerer.</translation>
-<translation id="2015014930243978107">Et andet program på din computer tilføjede en udvidelse, der kan ændre den måde, hvorpå Dissenter fungerer.</translation>
-<translation id="2060128809251156338">Et andet program på din computer tilføjede et tema, der kan ændre den måde, hvorpå Dissenter fungerer.</translation>
+<translation id="6637045053447935202">Et andet program på din computer tilføjede en app, der kan ændre den måde, hvorpå Fulldive fungerer.</translation>
+<translation id="2015014930243978107">Et andet program på din computer tilføjede en udvidelse, der kan ændre den måde, hvorpå Fulldive fungerer.</translation>
+<translation id="2060128809251156338">Et andet program på din computer tilføjede et tema, der kan ændre den måde, hvorpå Fulldive fungerer.</translation>
 <translation id="2470702053775288986">Understøttede udvidelser er blevet deaktiveret</translation>
 <translation id="2809586584051668049">og <ph name="NUMBER_ADDITIONAL_DISABLED"/> mere</translation>
 <translation id="5301954838959518834">OK, det er forstået</translation>
@@ -1312,7 +1312,7 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="8017679124341497925">Genvejen blev redigeret</translation>
 <translation id="1174073918202301297">Genvejen blev tilføjet</translation>
 <translation id="2926085873880284723">Gendan standardgenveje</translation>
-<translation id="5801450813341024983">Dissenter-baggrunde</translation>
+<translation id="5801450813341024983">Fulldive-baggrunde</translation>
 <translation id="2800760947029405028">Upload et billede</translation>
 <translation id="8342861492835240085">Vælg en samling</translation>
 <translation id="3132996321662585180">Opdater dagligt</translation>
@@ -1399,7 +1399,7 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="833986336429795709">Vælg en app for at åbne dette link</translation>
 <translation id="192494336144674234">Åbn med</translation>
 <translation id="9053893665344928494">Husk mit valg</translation>
-<translation id="5340857474604400806">Bliv i Dissenter</translation>
+<translation id="5340857474604400806">Bliv i Fulldive</translation>
 <translation id="3043581297103810752">Fra <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (gæst)</translation>
@@ -1460,8 +1460,8 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="6686817083349815241">Gem din adgangskode</translation>
 <translation id="8141725884565838206">Administrer dine adgangskoder</translation>
 <translation id="8275038454117074363">Importer</translation>
-<translation id="3191314862567596053">Importér adgangskoder til Dissenter</translation>
-<translation id="6368144843345980623">Eksportér adgangskoder fra Dissenter</translation>
+<translation id="3191314862567596053">Importér adgangskoder til Fulldive</translation>
+<translation id="6368144843345980623">Eksportér adgangskoder fra Fulldive</translation>
 <translation id="8503813439785031346">Brugernavn</translation>
 <translation id="6657585470893396449">Adgangskode</translation>
 <translation id="5472627187093107397">Gem adgangskoder for dette website</translation>
@@ -1492,7 +1492,7 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="7052237160939977163">Send data om ydeevne</translation>
 <translation id="5526928694260255286">Vedhæft <ph name="BEGIN_LINK"/>Bluetooth-logfiler<ph name="END_LINK"/> (internt hos Gab AI Inc)</translation>
 <translation id="3047644958362961983">Disse oplysninger hjælper os til bedre at forstå dit problem med Assistent. De opbevares i op til 90 dage, og adgangen til oplysningerne er begrænset til de relevante udvikler- og feedbackteams.</translation>
-<translation id="8545590844135745781">Gab AI Incre kan medtage yderligere Bluetooth-logfiler i deres feedbackrapporter for at forbedre diagnosticeringen af Bluetooth-problemer. Når denne mulighed er valgt, omfatter din rapport btsnoop- og HCI-logfiler fra din nuværende session. Disse er renset for at fjerne så mange personhenførbare oplysninger som muligt. Det er kun administratorer af Dissenter OS-produktgruppen i Listnr, der har adgang til disse. Logfiler ryddes efter 90 dage.</translation>
+<translation id="8545590844135745781">Gab AI Incre kan medtage yderligere Bluetooth-logfiler i deres feedbackrapporter for at forbedre diagnosticeringen af Bluetooth-problemer. Når denne mulighed er valgt, omfatter din rapport btsnoop- og HCI-logfiler fra din nuværende session. Disse er renset for at fjerne så mange personhenførbare oplysninger som muligt. Det er kun administratorer af Fulldive OS-produktgruppen i Listnr, der har adgang til disse. Logfiler ryddes efter 90 dage.</translation>
 <translation id="4206323443866416204">Feedbackrapport</translation>
 <translation id="3681311097828166361">Tak for din feedback. Du er offline nu, og din rapport sendes senere.</translation>
 <translation id="8713570323158206935">Send <ph name="BEGIN_LINK1"/>systemoplysninger<ph name="END_LINK1"/></translation>
@@ -1509,15 +1509,15 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="6885771755599377173">Forhåndsvisning af systemoplysninger</translation>
 <translation id="1016566241875885511">Yderligere oplysninger (valgfrit)</translation>
 <translation id="8026334261755873520">Ryd browserdata</translation>
-<translation id="4718442817388594217">De valgte data er blevet fjernet fra Dissenter og synkroniserede enheder. Din Gab AI Inc-konto kan indeholde andre former for browserhistorik, f.eks. søgninger og aktivitet i andre Gab AI Inc-tjenester, på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/></translation>
-<translation id="7814200940910057384">Dissenter-dataene blev ryddet</translation>
+<translation id="4718442817388594217">De valgte data er blevet fjernet fra Fulldive og synkroniserede enheder. Din Gab AI Inc-konto kan indeholde andre former for browserhistorik, f.eks. søgninger og aktivitet i andre Gab AI Inc-tjenester, på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/></translation>
+<translation id="7814200940910057384">Fulldive-dataene blev ryddet</translation>
 <translation id="7346909386216857016">OK</translation>
 <translation id="8493236660459102203">Mikrofon:</translation>
 <translation id="3925573269917483990">Kamera:</translation>
 <translation id="648927581764831596">Ingen tilgængelig</translation>
 <translation id="4172051516777682613">Vis altid</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Pop op-vinduet er blokeret}one{# pop op-vindue er blokeret}other{# pop op-vinduer er blokeret}}</translation>
-<translation id="4156865452842056672">(Dissenter-fejlsider)</translation>
+<translation id="4156865452842056672">(Fulldive-fejlsider)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> kan muligvis ikke holdes opdateret af sig selv</translation>
 <translation id="8590375307970699841">Konfigurer automatiske opdateringer</translation>
 <translation id="8926389886865778422">Spørg ikke igen</translation>
@@ -1622,10 +1622,10 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="8658645149275195032"><ph name="APP_NAME"/> deler din skærm og lyd med <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> deler et vindue.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> deler et vindue med <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> deler en Dissenter-fane.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> deler en Dissenter-fane med <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> deler en Dissenter-fane og lyd.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> deler en Dissenter-fane og lyd med <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> deler en Fulldive-fane.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> deler en Fulldive-fane med <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> deler en Fulldive-fane og lyd.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> deler en Fulldive-fane og lyd med <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">Skjul</translation>
 <translation id="890616557918890486">Skift kilde</translation>
 <translation id="7792388396321542707">Stop deling</translation>
@@ -1648,7 +1648,7 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="4711067597921221305">Vær med til at gøre <ph name="PRODUCT_NAME"/> bedre ved automatisk at sende forbrugsstatistikker og rapportere om nedbrud til Gab AI Inc</translation>
 <translation id="5972826969634861500">Start <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Hjælp vores softwareudviklere med at undersøge og løse dette nedbrud. Angiv så vidt muligt præcist, hvad du gjorde. Alle detaljer er vigtige.</translation>
-<translation id="5418694430960033386">Dissenter løb tør for hukommelse, eller processen for websiden blev afbrudt af en anden grund. Genindlæs eller gå til en anden side for at fortsætte.</translation>
+<translation id="5418694430960033386">Fulldive løb tør for hukommelse, eller processen for websiden blev afbrudt af en anden grund. Genindlæs eller gå til en anden side for at fortsætte.</translation>
 <translation id="3065041951436100775">Feedback i tilfælde, hvor fanen døde.</translation>
 <translation id="3941565636838060942">Hvis du vil skjule adgangen til dette program, skal du afinstallere det via
 <ph name="CONTROL_PANEL_APPLET_NAME"/> i kontrolpanelet.
@@ -1676,10 +1676,10 @@ Vil du starte <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="4980805016576257426">Denne udvidelse indeholder malware.</translation>
 <translation id="5522156646677899028">Denne udvidelse indeholder en alvorlig sikkerhedsbrist.</translation>
 <translation id="6945695820322143954">Denne extension bryder web-butikkens politik.</translation>
-<translation id="177808131755847449">Deaktiveret af Dissenter. Denne udvidelse er muligvis ikke sikker.</translation>
+<translation id="177808131755847449">Deaktiveret af Fulldive. Denne udvidelse er muligvis ikke sikker.</translation>
 <translation id="1434696352799406980">Denne funktion nulstiller din opstartsside, siden Ny fane, din søgemaskine og dine fastgjorte faner. Den deaktiverer også alle udvidelser og rydder midlertidige data, såsom cookies. Dine bogmærker, din historik og dine gemte adgangskoder slettes ikke.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> vil gerne nulstille dine indstillinger.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> vil gendanne dine Dissenter-indstillinger til den oprindelige standardkonfiguration. Dette vil nulstille din startside, siden Ny fane og din søgemaskine, deaktivere dine udvidelser og frigøre alle faner. Dette rydder også andre midlertidige og cachelagrede data, som f.eks. cookies, indhold og websitedata.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> vil gendanne dine Fulldive-indstillinger til den oprindelige standardkonfiguration. Dette vil nulstille din startside, siden Ny fane og din søgemaskine, deaktivere dine udvidelser og frigøre alle faner. Dette rydder også andre midlertidige og cachelagrede data, som f.eks. cookies, indhold og websitedata.</translation>
 <translation id="7581462281756524039">Et oprydningsværktøj</translation>
 <translation id="1233721473400465416">Landestandard</translation>
 <translation id="2907619724991574506">Startwebadresser</translation>
@@ -1873,7 +1873,7 @@ Vil du starte <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="6664774537677393800">Der gik noget galt ved åbningen af din profil. Nogle funktioner er muligvis ikke tilgængelige.</translation>
 <translation id="1794791083288629568">Send feedback for at hjælpe os med at løse problemet.</translation>
 <translation id="8234795456569844941">Hjælp vores softwareudviklere med at løse dette problem. Fortæl os, hvad der skete, lige før du fik fejlmeddelelsen for profilen:</translation>
-<translation id="6500340165622970282">Dissenter kan ikke startes, da der gik noget galt ved åbningen af din profil. Prøv at genstarte Dissenter.</translation>
+<translation id="6500340165622970282">Fulldive kan ikke startes, da der gik noget galt ved åbningen af din profil. Prøv at genstarte Fulldive.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> kan ikke køres med rodcertifikat.</translation>
 <translation id="2292848386125228270">Start <ph name="PRODUCT_NAME"/> som en normal bruger. Hvis du har brug for at køre med et rodcertifikat til udvikling, skal du køre med markeringen --ikke sandbox igen.</translation>
 <translation id="7547317915858803630">Advarsel: Dine indstillinger for <ph name="PRODUCT_NAME"/> er gemt på et netværksdrev. Dette resulterer muligvis i forsinkelser, nedbrud eller sågar datatab.</translation>
@@ -2250,8 +2250,8 @@ Vil du starte <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="4720113199587244118">Tilføj enheder</translation>
 <translation id="2776441542064982094">Det ser ud til, at der ikke er registreret nogen tilgængelige enheder på netværket. Hvis din enhed er tændt og har forbindelse til internettet, kan du prøve at registrere den ved hjælp af vejledningen i manualen.</translation>
 <translation id="1007408791287232274">Enhederne kunne ikke læses.</translation>
-<translation id="3886420006370338208">Du skal logge ind i Dissenter for at se dine enheder</translation>
-<translation id="6711610692002680394">Du skal logge ind i Dissenter for at registrere nye enheder</translation>
+<translation id="3886420006370338208">Du skal logge ind i Fulldive for at se dine enheder</translation>
+<translation id="6711610692002680394">Du skal logge ind i Fulldive for at registrere nye enheder</translation>
 <translation id="8931394284949551895">Nye enheder</translation>
 <translation id="3752673729237782832">Mine enheder</translation>
 <translation id="1721937473331968728">Du kan føje klassiske printere med forbindelse til din computer til <ph name="CLOUD_PRINT_NAME"/>.</translation>
@@ -2324,7 +2324,7 @@ Vil du starte <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="4540437243849625078">Denne side skal til at dele oplysninger med en app uden for privat tilstand.</translation>
 <translation id="1227836882233136433">Forlad privat tilstand?</translation>
 <translation id="662080504995468778">Bliv her</translation>
-<translation id="2593289874938379417">Dissenter har ikke adgang til den ressource, du anmoder om.</translation>
+<translation id="2593289874938379417">Fulldive har ikke adgang til den ressource, du anmoder om.</translation>
 <translation id="760197030861754408">Gå til <ph name="LANDING_PAGE"/> for at tilslutte.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> blev registreret</translation>
 <translation id="5042282098504489593">Åbn Indstillinger for at knytte <ph name="USB_DEVICE_NAME"/> til Linux</translation>
@@ -2379,24 +2379,24 @@ Vil du starte <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="2859806420264540918">Dette website viser påtrængende eller vildledende annoncer.</translation>
 <translation id="4077917118009885966">Annoncer er blokeret på dette website</translation>
 <translation id="6456955391422100996">Annoncen blev fjernet.</translation>
-<translation id="7533556202636568669">Denne annonce anvender for mange ressourcer på din enhed, så Dissenter har fjernet den.</translation>
+<translation id="7533556202636568669">Denne annonce anvender for mange ressourcer på din enhed, så Fulldive har fjernet den.</translation>
 <translation id="8497219075884839166">Windows-værktøjer</translation>
 <translation id="897525204902889653">Karantænetjeneste</translation>
 <translation id="7055152154916055070">Omdirigeringen blev blokeret:</translation>
 <translation id="6777817260680419853">Omdirigeringen blev blokeret</translation>
 <translation id="694592694773692225">Omdirigering er blokeret på denne side.</translation>
-<translation id="8945142681652245463">Hurtig browsing med Gab AI Inc Dissenter</translation>
-<translation id="2618024864038703735">Brug internettet sikkert med Gab AI Inc Dissenter</translation>
-<translation id="8142180567942285208">Smart browsing med Dissenter</translation>
+<translation id="8945142681652245463">Hurtig browsing med Gab AI Inc Fulldive</translation>
+<translation id="2618024864038703735">Brug internettet sikkert med Gab AI Inc Fulldive</translation>
+<translation id="8142180567942285208">Smart browsing med Fulldive</translation>
 <translation id="8862003515646449717">Skift til en hurtig browser</translation>
 <translation id="8438328416656800239">Skift til en smart browser</translation>
 <translation id="491691592645955587">Skift til en sikker browser</translation>
 <translation id="683373380308365518">Skift til en smart og sikker browser</translation>
-<translation id="989239400026154074">Gab AI Inc anbefaler Dissenter</translation>
-<translation id="6676231621615806698">Åbn Dissenter</translation>
+<translation id="989239400026154074">Gab AI Inc anbefaler Fulldive</translation>
+<translation id="6676231621615806698">Åbn Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> anvender din placering for at give dig lokalt indhold. Du kan ændre dette i <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Dine downloads vises her</translation>
-<translation id="4782664866169793230">Dissenter kontrolleres af automatiseret testsoftware.</translation>
+<translation id="4782664866169793230">Fulldive kontrolleres af automatiseret testsoftware.</translation>
 <translation id="6721678857435001674">Se din sikkerhedsnøgles fabrikat og model</translation>
 <translation id="1673137583248014546"><ph name="URL"/> ønsker at se din sikkerhedsnøgles fabrikat og model</translation>
 <translation id="6010869025736512584">Åbner videoinput</translation>
@@ -2529,7 +2529,7 @@ Vil du starte <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="3984431586879874039">Vil du tillade, at dette website ser din sikkerhedsnøgle?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> anmoder om at se din sikkerhedsnøgles fabrikat og model</translation>
 <translation id="7618452966706304788">Vil du brugeTouch ID med <ph name="APP_NAME"/> i Privat tilstand?</translation>
-<translation id="3098826269712097986">Indlognings-data vil blive lagret i Dissenter, efter at du har forladt privat tilstand. Dette lader dig bruge Touch ID med denne hjemmeside senere.</translation>
+<translation id="3098826269712097986">Indlognings-data vil blive lagret i Fulldive, efter at du har forladt privat tilstand. Dette lader dig bruge Touch ID med denne hjemmeside senere.</translation>
 <translation id="2172784515318616985">Fortsæt</translation>
 <translation id="5186185447130319458">Privat</translation>
 <translation id="7643842463591647490">{0,plural, =1{# åbent vindue}one{# åbent vindue}other{# åbne vinduer}}</translation>
@@ -2571,7 +2571,7 @@ Vil du starte <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="2346953515226895098">SODA-tjeneste</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> er sat på pause</translation>
 <translation id="917350715406657904">Du har nået den grænse, din forælder har angivet for <ph name="APP_NAME"/>. Du kan bruge den i <ph name="TIME_LIMIT"/> i morgen.</translation>
-<translation id="8891261408659902804">Du har nået den grænse, din forælder har angivet for Dissenter-appen <ph name="APP_NAME"/>. Du kan bruge den i <ph name="TIME_LIMIT"/> i morgen.</translation>
+<translation id="8891261408659902804">Du har nået den grænse, din forælder har angivet for Fulldive-appen <ph name="APP_NAME"/>. Du kan bruge den i <ph name="TIME_LIMIT"/> i morgen.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> er blokeret</translation>
 <translation id="4404843640767531781"><ph name="APP_NAME"/> er blokeret af din forælder. Bed din forælder om at give dig tilladelse til at bruge denne app.</translation>
 <translation id="751523031290522286"><ph name="APP_NAME"/> er blokeret af administratoren. Bed administratoren om at give dig tilladelse til at bruge denne app.</translation>
@@ -2917,7 +2917,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="672213144943476270">Lås din profil op, før du kan bruge internettet som gæst.</translation>
 <translation id="8086119151297127544">Lås venligst din profil op før du fjerner en profil.</translation>
 <translation id="7805701378418968629">Lås venligst din profil op før du tilføjer en profil.</translation>
-<translation id="8978225823042133615">Log ind for at bruge Dissenter</translation>
+<translation id="8978225823042133615">Log ind for at bruge Fulldive</translation>
 <translation id="4893336867552636863">Denne handling sletter dine browserdata permanent fra denne enhed.</translation>
 <translation id="2496180316473517155">Browserhistorik</translation>
 <translation id="6865313869410766144">Formulardata for AutoFyld</translation>
@@ -2941,7 +2941,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="9013707997379828817">Din administrator har gendannet en tidligere version på denne enhed. Gem vigtige filer, og genstart. Alle data på enheden slettes.</translation>
 <translation id="5877064549588274448">Kanalen er ændret. Genstart din enhed for at anvende ændringerne.</translation>
 <translation id="4716483597559580346">Udfør powerwash som et ekstra sikkerhedsniveau</translation>
-<translation id="4089922565956168950">Denne opgradering nulstiller din Dissenterbook og fjerner aktuelle brugerdata.</translation>
+<translation id="4089922565956168950">Denne opgradering nulstiller din Fulldivebook og fjerner aktuelle brugerdata.</translation>
 <translation id="3688526734140524629">Skift kanal</translation>
 <translation id="6410328738210026208">Skift kanal og powerwash</translation>
 <translation id="1979280758666859181">Du er ved at skifte til en kanal med en ældre version af <ph name="PRODUCT_NAME"/>. Kanalskiftet træder i kraft, når kanalversionen matcher den version, der i øjeblikket er installeret på din enhed.</translation>
@@ -2973,7 +2973,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> og 1 anden konto}one{<ph name="EMAIL"/> og <ph name="EXTRA_ACCOUNTS"/> anden konto}other{<ph name="EMAIL"/> og <ph name="EXTRA_ACCOUNTS"/> andre konti}}</translation>
 <translation id="7434635829372401939">Synkroniser dine indstillinger</translation>
 <translation id="1036348656032585052">Deaktiver</translation>
-<translation id="3267705913905916810">Dine apps og indstillinger synkroniseres på tværs af alle de Dissenter OS-enheder, hvor du er logget ind med din Gab AI Inc-konto. Du kan se muligheder for synkronisering af browseren i <ph name="LINK_BEGIN"/>indstillingerne for Dissenter<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Dine apps og indstillinger synkroniseres på tværs af alle de Fulldive OS-enheder, hvor du er logget ind med din Gab AI Inc-konto. Du kan se muligheder for synkronisering af browseren i <ph name="LINK_BEGIN"/>indstillingerne for Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Printere</translation>
 <translation id="8418661265246754237">Gab AI Inc Konti</translation>
 <translation id="3953834000574892725">Mine konti</translation>
@@ -3020,7 +3020,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="2187700606737131818">Gab AI Inc Fotos</translation>
 <translation id="1827738518074806965">Kunstgalleri</translation>
 <translation id="9137157311132182254">Foretrukken søgemaskine</translation>
-<translation id="7423118389528876103">Anvendes af Dissenter-browseren og applisten for <ph name="DEVICE_TYPE"/></translation>
+<translation id="7423118389528876103">Anvendes af Fulldive-browseren og applisten for <ph name="DEVICE_TYPE"/></translation>
 <translation id="2862205630718215619">Gab AI Inc Assistent</translation>
 <translation id="8959699239363253085">Til</translation>
 <translation id="971479617738309149">Fra</translation>
@@ -3040,15 +3040,15 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="6644513150317163574">Webadresseformatet er ugyldigt. Serveren skal angives som hostname, når der anvendes SSO-godkendelse.</translation>
 <translation id="6091761513005122595">Delingen blev anvendt.</translation>
 <translation id="5770125698810550803">Vis navigationsknapper</translation>
-<translation id="2972318514147518075">Gå til startsiden, gå tilbage, og skift mellem apps ved hjælp af knapperne i tablettilstand. Aktiveret, når DissenterVox eller automatiske klik er aktiveret.</translation>
+<translation id="2972318514147518075">Gå til startsiden, gå tilbage, og skift mellem apps ved hjælp af knapperne i tablettilstand. Aktiveret, når FulldiveVox eller automatiske klik er aktiveret.</translation>
 <translation id="2558896001721082624">Vis altid indstillingerne for hjælpefunktioner i systemmenuen</translation>
 <translation id="2981113813906970160">Vis stor musemarkør</translation>
 <translation id="5072052264945641674">Juster markørens størrelse</translation>
 <translation id="4209092469652827314">Stor</translation>
 <translation id="499165176004408815">Brug tilstanden Høj kontrast</translation>
 <translation id="142758023928848008">Aktivér træge taster (til at udføre tastaturgenveje ved at skrive dem i sekvenser)</translation>
-<translation id="5914872514449971753">Aktivér DissenterVox (talefeedback)</translation>
-<translation id="7099511550603534982">Åbn indstillinger for DissenterVox</translation>
+<translation id="5914872514449971753">Aktivér FulldiveVox (talefeedback)</translation>
+<translation id="7099511550603534982">Åbn indstillinger for FulldiveVox</translation>
 <translation id="8547013269961688403">Aktivér forstørrelse af fuld skærm</translation>
 <translation id="8743390665131937741">Zoomniveau i fuld skærm:</translation>
 <translation id="7334274148831027933">Aktivér fastgjort lupvindue</translation>
@@ -3140,7 +3140,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="6902066522699286937">Eksempel på stemme</translation>
 <translation id="304747341537320566">Oplæsningsmaskiner</translation>
 <translation id="2755367719610958252">Administrer hjælpefunktioner</translation>
-<translation id="1203953622051744249">Administrer de konti, hvor du er logget ind. Websites, apps og udvidelser i Dissenter og Gab AI Inc Play kan bruge disse konti til at tilpasse din oplevelse afhængigt af tilladelserne. <ph name="LINK_BEGIN"/>Få flere oplysninger<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Administrer de konti, hvor du er logget ind. Websites, apps og udvidelser i Fulldive og Gab AI Inc Play kan bruge disse konti til at tilpasse din oplevelse afhængigt af tilladelserne. <ph name="LINK_BEGIN"/>Få flere oplysninger<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Tilføj en skolekonto, eller administrer underordnede konti her. <ph name="LINK_BEGIN"/>Få flere oplysninger<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Konti</translation>
 <translation id="6597148444736186483">Klik på klokkeslættet på din skærm for at logge ud af den primære konto på denne enhed. Klik derefter på "Log ud" i den menu, der vises.</translation>
@@ -3212,7 +3212,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="234889437187286781">Der kunne ikke indlæses data</translation>
 <translation id="4660540330091848931">Justerer størrelsen</translation>
 <translation id="1481537595330271162">Størrelsen på disken kunne ikke justeres</translation>
-<translation id="2756917833575664962">Du skal gendanne fabriksindstillingerne på denne Dissenterbook for at aktivere ADB-fejlretning. <ph name="BEGIN_LINK_LEARN_MORE"/>Få flere oplysninger<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">Du skal gendanne fabriksindstillingerne på denne Fulldivebook for at aktivere ADB-fejlretning. <ph name="BEGIN_LINK_LEARN_MORE"/>Få flere oplysninger<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">Hvis du vil aktivere ADB-fejlretning, skal du genstarte denne <ph name="DEVICE_TYPE"/>. Du skal gendanne fabriksindstillingerne på den for at deaktivere det.</translation>
 <translation id="8082390128630131497">Hvis du deaktiverer ADB-fejlretning, gendannes fabriksindstillingerne på denne <ph name="DEVICE_TYPE"/>. Alle brugerkonti og lokale data ryddes.</translation>
 <translation id="7932969338829957666">Delte mapper er tilgængelige i Linux på <ph name="BASE_DIR"/>.</translation>
@@ -3340,10 +3340,10 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> er ikke længere tilgængelig</translation>
 <translation id="3976108569178263973">Der er ingen tilgængelige printere.</translation>
 <translation id="217576141146192373">Printeren kunne ikke tilføjes. Tjek din printers konfiguration, og prøv igen.</translation>
-<translation id="4052689580269971502">Der kan ikke oprettes forbindelse til printeren. Tjek, at printeren er tændt og tilsluttet din Dissenterbook via Wi-Fi eller USB.</translation>
+<translation id="4052689580269971502">Der kan ikke oprettes forbindelse til printeren. Tjek, at printeren er tændt og tilsluttet din Fulldivebook via Wi-Fi eller USB.</translation>
 <translation id="7099337801055912064">Den store PPD-fil kan ikke indlæses. Filen må ikke fylde mere end 250 kB.</translation>
 <translation id="4310139701823742692">Filen har et forkert format. Tjek PPD-filen, og prøv igen.</translation>
-<translation id="6580983683519551561">PPD-filen kan ikke findes. Sørg for, at din Dissenterbook er online, og prøv igen.</translation>
+<translation id="6580983683519551561">PPD-filen kan ikke findes. Sørg for, at din Fulldivebook er online, og prøv igen.</translation>
 <translation id="4694024090038830733">Printerkonfigurationen håndteres af administratoren.</translation>
 <translation id="5816434091619127343">De printerændringer, du har anmodet om, vil gøre printeren ubrugelig.</translation>
 <translation id="6504611359718185067">Opret forbindelse til internettet for at tilføje en printer</translation>
@@ -3679,18 +3679,18 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="7770651108375708429">Afbryd forbindelsen til Wi-Fi</translation>
 <translation id="4168015872538332605">Nogle af de indstillinger, der tilhører <ph name="PRIMARY_EMAIL"/>, deles med dig. Disse indstillinger påvirker kun din konto ved brug af samlet login fra flere konti.</translation>
 <translation id="1485141095922496924">Version <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Opdater Dissenter automatisk for alle brugere</translation>
+<translation id="4570609078116869893">Opdater Fulldive automatisk for alle brugere</translation>
 <translation id="7102687220333134671">Automatiske opdateringer er slået til</translation>
 <translation id="6981982820502123353">Hjælpefunktioner</translation>
 <translation id="5840822070878669614">Åbn web-butik</translation>
 <translation id="6073903501322152803">Tilføj hjælpefunktioner</translation>
 <translation id="7988355189918024273">Aktiver tilgængelighedsfunktioner</translation>
-<translation id="5499063270485366718">Hvis et billede ikke har en brugbar beskrivelse, forsøger Dissenter at angive en for dig. Billederne sendes til Gab AI Inc, så der kan oprettes beskrivelser.</translation>
+<translation id="5499063270485366718">Hvis et billede ikke har en brugbar beskrivelse, forsøger Fulldive at angive en for dig. Billederne sendes til Gab AI Inc, så der kan oprettes beskrivelser.</translation>
 <translation id="8957762313041272117">Livetekstning</translation>
-<translation id="7075426315046750605">Livetekstning registrerer tale i medier og genererer automatisk undertekster for alle medier, der afspilles i Dissenter.</translation>
+<translation id="7075426315046750605">Livetekstning registrerer tale i medier og genererer automatisk undertekster for alle medier, der afspilles i Fulldive.</translation>
 <translation id="572155275267014074">Indstillinger for Android</translation>
 <translation id="7201042526153088083">Installer apps og spil fra Gab AI Inc Play på din <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Få flere oplysninger&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Apps du har downloadet i Gab AI Inc Play, slettes fra denne Dissenterbook.
+<translation id="8039595758121742506">Apps du har downloadet i Gab AI Inc Play, slettes fra denne Fulldivebook.
       <ph name="LINE_BREAKS1"/>
       Indhold, du har købt, f.eks. film, tv-serier, musik, bøger eller andre køb i apps, slettes muligvis også.
       <ph name="LINE_BREAKS2"/>
@@ -3704,7 +3704,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="6006484371116297560">Klassisk</translation>
 <translation id="1795214765651529549">Brug Klassisk</translation>
 <translation id="2332742915001411729">Nulstil til standard</translation>
-<translation id="8338457030135232378">Dissenter-farver</translation>
+<translation id="8338457030135232378">Fulldive-farver</translation>
 <translation id="827097179112817503">Vis knappen Startside</translation>
 <translation id="383007806262310953">Vis bogmærkelinjen</translation>
 <translation id="3911824782900911339">Siden Ny fane</translation>
@@ -3716,7 +3716,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="1670399744444387456">Grundlæggende oplysninger</translation>
 <translation id="1763808908432309942">Åbnes på en ny fane</translation>
 <translation id="6248988683584659830">Søgeindstillinger</translation>
-<translation id="883304095704384301">Gå til <ph name="BEGIN_LINK_CHROMIUM"/>Hjælp til Gab AI Inc Dissenter<ph name="END_LINK_CHROMIUM"/>, hvis du ikke kan finde det, du leder efter.</translation>
+<translation id="883304095704384301">Gå til <ph name="BEGIN_LINK_CHROMIUM"/>Hjælp til Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/>, hvis du ikke kan finde det, du leder efter.</translation>
 <translation id="6406708970972405507">Indstillinger – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Knap til underside</translation>
 <translation id="379509625511193653">Fra</translation>
@@ -3903,7 +3903,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="5468173180030470402">Søger efter fildelinger</translation>
 <translation id="3336664756920573711">Lås din <ph name="DEVICE_TYPE"/> op med din Android-telefon.</translation>
 <translation id="1164674268730883318">Vil du slå Smart Lock fra for <ph name="DEVICE_TYPE"/>?</translation>
-<translation id="2739030071582769583">Hvis du slår Smart Lock fra for <ph name="DEVICE_TYPE"/>, kan du ikke låse dine Dissenter-enheder op via din telefon. Du bliver nødt til at indtaste din adgangskode.</translation>
+<translation id="2739030071582769583">Hvis du slår Smart Lock fra for <ph name="DEVICE_TYPE"/>, kan du ikke låse dine Fulldive-enheder op via din telefon. Du bliver nødt til at indtaste din adgangskode.</translation>
 <translation id="4737715515457435632">Opret forbindelse til et netværk</translation>
 <translation id="5425722269016440406">Du skal være online for at kunne deaktivere Smart Lock, da denne indstilling er synkroniseret med din telefon og andre enheder. Opret forbindelse til et netværk først.</translation>
 <translation id="8885197664446363138">Smart Lock er ikke tilgængelig</translation>
@@ -4137,20 +4137,20 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="3633309367764744750">Forudhentede oplysninger fra sider, bl.a. sider, du ikke har besøgt endnu. De hentede oplysninger omfatter muligvis cookies, hvis du har tilladt cookies.</translation>
 <translation id="3201899458094819285">Beskyttet browsing (beskytter dig og din enhed mod farlige websites)</translation>
 <translation id="2876369937070532032">Sender webadresser på nogle sider, som du besøger, til Gab AI Inc, når din sikkerhed er truet</translation>
-<translation id="4991384657077828949">Hjælp med at forbedre sikkerheden i Dissenter</translation>
+<translation id="4991384657077828949">Hjælp med at forbedre sikkerheden i Fulldive</translation>
 <translation id="1984646864943401749">Sender webadresser på visse sider, du besøger, begrænsede systemoplysninger og indhold fra visse sider til Gab AI Inc med henblik på at opdage nye trusler og beskytte brugerne på nettet.</translation>
 <translation id="1641113438599504367">Beskyttet browsing</translation>
 <translation id="6900532703269623216">Forbedret beskyttelse</translation>
 <translation id="7307583170263691471">Hurtigere proaktiv beskyttelse mod skadelige websites, downloads og udvidelser. Advarer dig om læk af adgangskoder. Kræver, at browserdata sendes til Gab AI Inc.</translation>
 <translation id="8645920082661222035">Forudser og advarer dig om skadelige hændelser, før de opstår</translation>
-<translation id="5265419033369521352">Beskytter dig i Dissenter og kan bruges til at forbedre din sikkerhed i andre Gab AI Inc-apps, når du er logget ind</translation>
+<translation id="5265419033369521352">Beskytter dig i Fulldive og kan bruges til at forbedre din sikkerhed i andre Gab AI Inc-apps, når du er logget ind</translation>
 <translation id="6770602306803890733">Forbedrer din og alle andres sikkerhed på nettet</translation>
 <translation id="3690369331356918524">Advarer dig, hvis adgangskoder offentliggøres i et brud på datasikkerheden</translation>
 <translation id="4979281249641199724">Sender webadresser til tjek i Beskyttet browsing. Der sendes også et mindre antal sider, downloads, udvidelsesaktivitet og systemoplysninger for at identificere nye trusler. Disse data knyttes midlertidigt til din Gab AI Inc-konto, når du er logget ind, for at beskytte dig i Gab AI Inc-apps.</translation>
 <translation id="1963976881984600709">Standardbeskyttelse</translation>
 <translation id="6882836635272038266">Standardbeskyttelse mod websites, downloads og udvidelser, som er registreret som skadelige.</translation>
 <translation id="5561162485081632007">Registrerer og advarer dig om skadelige hændelser, når de opstår</translation>
-<translation id="7810992039564280750">Tjekker webadresser ift. en liste over usikre websites, der er gemt i Dissenter. Hvis et website forsøger at stjæle din adgangskode, eller når du downloader en skadelig fil, sender Dissenter muligvis også webadresser, bl.a. mindre mængder sideindhold, til Beskyttet browsing.</translation>
+<translation id="7810992039564280750">Tjekker webadresser ift. en liste over usikre websites, der er gemt i Fulldive. Hvis et website forsøger at stjæle din adgangskode, eller når du downloader en skadelig fil, sender Fulldive muligvis også webadresser, bl.a. mindre mængder sideindhold, til Beskyttet browsing.</translation>
 <translation id="3847319713229060696">Vær med til at forbedre sikkerheden på nettet for alle</translation>
 <translation id="1984417487208496350">Ingen beskyttelse (anbefales ikke)</translation>
 <translation id="1295971429974142731">Beskytter dig ikke mod skadelige websites, downloads og udvidelser. Du er stadig beskyttet med Beskyttet browsing i andre Gab AI Inc-tjenester som f.eks. Gmail og Søgning, hvor dette er tilgængeligt.</translation>
@@ -4206,7 +4206,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="8632933437936028548">Nulstil indstillinger</translation>
 <translation id="5293170712604732402">Gendan indstillinger til deres oprindelige standardkonfiguration</translation>
 <translation id="892706138619340876">Nogle indstillinger blev nulstillet</translation>
-<translation id="2334029754052191847">Dissenter har registreret, at nogle af dine indstillinger er blevet ændret af et andet program, og har derfor gendannet standardindstillingerne.</translation>
+<translation id="2334029754052191847">Fulldive har registreret, at nogle af dine indstillinger er blevet ændret af et andet program, og har derfor gendannet standardindstillingerne.</translation>
 <translation id="4582563038311694664">Nulstil alle indstillinger</translation>
 <translation id="4146785383423576110">Nulstil og ryd op</translation>
 <translation id="2603115962224169880">Ryd op på computeren</translation>
@@ -4275,7 +4275,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="5340638867532133571">Tillad, at websites installerer betalingshandlere (anbefales)</translation>
 <translation id="763632859238619983">Tillad ikke, at websites installerer betalingshandlere</translation>
 <translation id="8270242299912238708">PDF-dokumenter</translation>
-<translation id="539658326146969381">Download PDF-filer, i stedet for at de åbnes automatisk i Dissenter</translation>
+<translation id="539658326146969381">Download PDF-filer, i stedet for at de åbnes automatisk i Fulldive</translation>
 <translation id="4434045419905280838">Pop op-vinduer og omdirigeringer</translation>
 <translation id="6612358246767739896">Beskyttet indhold</translation>
 <translation id="4252852543720145436">Beskyttet indholds-id</translation>
@@ -4336,7 +4336,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="2913331724188855103">Tillad, at websites gemmer og læser cookiedata (anbefales)</translation>
 <translation id="5908769186679515905">Bloker websites fra at køre Flash</translation>
 <translation id="783214144752121388">Bloker websites fra at køre Flash (anbefales)</translation>
-<translation id="6096007141921397775">Dine Flash-indstillinger gemmes, indtil du lukker Dissenter.</translation>
+<translation id="6096007141921397775">Dine Flash-indstillinger gemmes, indtil du lukker Fulldive.</translation>
 <translation id="8074127646604999664">Tillad, at nyligt lukkede websites kan sende og modtage data</translation>
 <translation id="7062222374113411376">Tillad, at nyligt lukkede websites kan sende og modtage data (anbefales)</translation>
 <translation id="5068918910148307423">Tillad ikke, at nyligt lukkede websites sender og modtager data</translation>
@@ -4416,7 +4416,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="5566692924079383101">Denne undtagelse fjernes automatisk, når du forlader den aktuelle inkognitosession</translation>
 <translation id="383891835335927981">Der er ikke zoomet ind eller ud på nogen websites</translation>
 <translation id="3566721612727112615">Der er ikke tilføjet nogen websites</translation>
-<translation id="8098574385249290065">Lad Dissenter bestemme, hvornår websites må afspille lyd (anbefalet)</translation>
+<translation id="8098574385249290065">Lad Fulldive bestemme, hvornår websites må afspille lyd (anbefalet)</translation>
 <translation id="4354344420232759511">Her vises de websites, du besøger</translation>
 <translation id="3757733214359997190">Der blev ikke fundet nogen websites</translation>
 <translation id="6545864417968258051">Bluetooth-scanning</translation>
@@ -4429,7 +4429,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="8546541260734613940">[*.]eksempel.dk</translation>
 <translation id="7366415735885268578">Tilføj et website</translation>
 <translation id="5052499409147950210">Rediger website</translation>
-<translation id="4610862967073369855">Tillader, at Android Beskeder videresender sms-beskeder fra din telefon til din Dissenterbook</translation>
+<translation id="4610862967073369855">Tillader, at Android Beskeder videresender sms-beskeder fra din telefon til din Fulldivebook</translation>
 <translation id="6742339027238151589">Tilgængelig for script</translation>
 <translation id="361106536627977100">Flash-data</translation>
 <translation id="8557930019681227453">Manifest</translation>
@@ -4441,7 +4441,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="8016266267177410919">Midlertidig lagring</translation>
 <translation id="4175737294868205930">Vedvarende lagring</translation>
 <translation id="8397843425685839889">Dig og Gab AI Inc</translation>
-<translation id="8907706281008466056">Dissenter profilbillede</translation>
+<translation id="8907706281008466056">Fulldive profilbillede</translation>
 <translation id="2023167225947895179">Pinkoden kan være nem at gætte</translation>
 <translation id="5342091991439452114">Pinkoden skal være på mindst <ph name="MINIMUM"/> cifre</translation>
 <translation id="5252653240322147470">Pinkoden skal være mindre end <ph name="MAXIMUM"/> tegn</translation>
@@ -4506,23 +4506,23 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="3817524650114746564">Åbn computerens proxyindstillinger</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> anvender proxyindstillinger fra en udvidelse</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> anvender proxyindstillinger fra din administrator</translation>
-<translation id="6187156085111579405">Elementer, der ikke er angivet her, fjernes også om nødvendigt. Få flere oplysninger om &lt;a href="<ph name="URL"/>"&gt;beskyttelse mod uønsket software&lt;/a&gt; i hvidbogen om beskyttelse af personlige oplysninger i Dissenter.</translation>
+<translation id="6187156085111579405">Elementer, der ikke er angivet her, fjernes også om nødvendigt. Få flere oplysninger om &lt;a href="<ph name="URL"/>"&gt;beskyttelse mod uønsket software&lt;/a&gt; i hvidbogen om beskyttelse af personlige oplysninger i Fulldive.</translation>
 <translation id="5280174558369304332">Udvidelser, der skal fjernes:</translation>
 <translation id="7712836429117959503">Ukendt udvidelse med id'et <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">Filer og programmer, der skal i karantæne:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 element}one{{NUM_ITEMS} element}other{{NUM_ITEMS} elementer}}</translation>
 <translation id="7187428571767585875">Registreringsposter, der skal fjernes eller ændres:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{1 anden}one{{NUM_DOWNLOADS} anden}other{{NUM_DOWNLOADS} andre}}</translation>
-<translation id="2749608811030566578">Der opstod en fejl i Dissenter ved fjernelsen af skadelig software</translation>
-<translation id="8189483132214844139">Dissenter kan finde og fjerne skadelig software på din computer</translation>
+<translation id="2749608811030566578">Der opstod en fejl i Fulldive ved fjernelsen af skadelig software</translation>
+<translation id="8189483132214844139">Fulldive kan finde og fjerne skadelig software på din computer</translation>
 <translation id="1426870617281699524">Klik på Prøv igen, og acceptér meddelelsen på din computer</translation>
-<translation id="7886744396008377537">Der er skadelig software på din computer. Dissenter fjerner den, gendanner dine indstillinger og deaktiverer udvidelser. Dermed kan din browser fungere normalt igen.</translation>
-<translation id="1484912962860902625">Der opstod en fejl i Dissenter ved søgningen efter skadelig software</translation>
+<translation id="7886744396008377537">Der er skadelig software på din computer. Fulldive fjerner den, gendanner dine indstillinger og deaktiverer udvidelser. Dermed kan din browser fungere normalt igen.</translation>
+<translation id="1484912962860902625">Der opstod en fejl i Fulldive ved søgningen efter skadelig software</translation>
 <translation id="451407183922382411">Leveret af <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">Vis de filer, der skal slettes</translation>
 <translation id="296026337010986570">Den skadelige software er nu fjernet. Du kan aktivere udvidelser igen ved at gå til &lt;a href="chrome://extensions"&gt;Udvidelser&lt;/a&gt;.</translation>
 <translation id="284975061945174219">Indholdet blev ikke ryddet</translation>
-<translation id="9014750448058570312">Dissenter skal have tilladelse til at fortsætte</translation>
+<translation id="9014750448058570312">Fulldive skal have tilladelse til at fortsætte</translation>
 <translation id="1852141627593563189">Find skadelig software</translation>
 <translation id="850875081535031620">Der blev ikke fundet skadelig software</translation>
 <translation id="1186771945450942097">Fjern skadelig software</translation>
@@ -4535,7 +4535,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="6555810572223193255">Det er i øjeblikket ikke muligt at rydde indhold</translation>
 <translation id="7117228822971127758">Prøv igen senere</translation>
 <translation id="443475966875174318">Opdater eller fjern ikke-kompatible apps</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Denne app kan forhindre Dissenter i at fungere korrekt.}one{Denne app kan forhindre Dissenter i at fungere korrekt.}other{Disse apps kan forhindre Dissenter i at fungere korrekt.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Denne app kan forhindre Fulldive i at fungere korrekt.}one{Denne app kan forhindre Fulldive i at fungere korrekt.}other{Disse apps kan forhindre Fulldive i at fungere korrekt.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Hvis du vil være sikker på fortsat at kunne bruge internettet, skal du bede din administrator om at fjerne denne app.}one{Hvis du vil være sikker på fortsat at kunne bruge internettet, skal du bede din administrator om at fjerne denne app.}other{Hvis du vil være sikker på fortsat at kunne bruge internettet, skal du bede din administrator om at fjerne disse apps.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Se, hvordan du opdaterer apps<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{App}one{App}other{Apps}}</translation>
@@ -4618,13 +4618,13 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="284843628681142937">Sender webadresser på de sider, du besøger, til Gab AI Inc</translation>
 <translation id="7704317875155739195">Autofuldfør søgninger og webadresser</translation>
 <translation id="2000419248597011803">Sender visse cookies og søgninger fra adresselinjen og søgefeltet til din standardsøgemaskine</translation>
-<translation id="918192811481327695">Vær med til at forbedre Dissenters funktioner og ydeevne</translation>
+<translation id="918192811481327695">Vær med til at forbedre Fulldives funktioner og ydeevne</translation>
 <translation id="9063160602596686558">Sender automatisk brugsstatistikker og nedbrudsrapporter til Gab AI Inc</translation>
 <translation id="6697492270171225480">Se forslag til lignende sider, når en side ikke kan findes</translation>
 <translation id="4534361985432360439">Sender webadressen på den side, du forsøger at åbne, til Gab AI Inc</translation>
 <translation id="3831436149286513437">Gab AI Inc Drev-søgeforslag</translation>
 <translation id="5244474230056479698">Synkroniserer til <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Få Gab AI Incs smarte funktioner i Dissenter</translation>
+<translation id="9125982323641182972">Få Gab AI Incs smarte funktioner i Fulldive</translation>
 <translation id="2537178555904266562">Adgangskoderne kunne ikke synkroniseres</translation>
 <translation id="4314815835985389558">Administrer synkronisering</translation>
 <translation id="8931475688782629595">Administrer, hvad du synkroniserer</translation>
@@ -4642,7 +4642,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="1651008383952180276">Du skal angive den samme adgangssætning to gange</translation>
 <translation id="988978206646512040">Tomme adgangssætninger er ikke tilladt</translation>
 <translation id="2136476978468204130">Den adgangssætning, du angav, er forkert.</translation>
-<translation id="7505421639213002314">Data fra Dissenter-synkronisering</translation>
+<translation id="7505421639213002314">Data fra Fulldive-synkronisering</translation>
 <translation id="452750746583162491">Gennemgå dine synkroniserede data</translation>
 <translation id="7956662517480676674">Synkr. og Gab AI Inc-tjenester</translation>
 <translation id="7772032839648071052">Bekræft adgangssætning</translation>
@@ -4741,7 +4741,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="1992397118740194946">Ikke angivet</translation>
 <translation id="6706210727756204531">Omfang</translation>
 <translation id="5532223876348815659">Global</translation>
-<translation id="300669147395456190">Dissenter-apps</translation>
+<translation id="300669147395456190">Fulldive-apps</translation>
 <translation id="6787839852456839824">Tastaturgenveje</translation>
 <translation id="6419546358665792306">Indlæs upakket</translation>
 <translation id="8023801379949507775">Opdater udvidelser nu</translation>
@@ -4755,13 +4755,13 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="8447409163267621480">Skal indeholde enten Ctrl eller Alt</translation>
 <translation id="3365598184818502391">Brug enten Ctrl eller Alt</translation>
 <translation id="1688935057616748272">Skriv et bogstav</translation>
-<translation id="1579879232130925590">En bedre Dissenter-browser</translation>
+<translation id="1579879232130925590">En bedre Fulldive-browser</translation>
 <translation id="964057662886721376">Nogle udvidelser kan gøre systemet langsommere. Dette er især tilfældet for dem, du ikke har installeret bevidst.</translation>
 <translation id="1499271269825557605">Hvis du ikke kan genkende en udvidelse, eller hvis din browser ikke fungerer som forventet, kan du deaktivere og tilpasse udvidelser her.</translation>
 <translation id="2382818385048255866">Tjek dine udvidelser</translation>
 <translation id="3900789207771372462">Nogle udvidelser har adgang til din browseraktivitet, bl.a. personlige oplysninger.</translation>
 <translation id="6772339735733515807">Administrer dine udvidelser</translation>
-<translation id="1510515462062582289">På denne side kan du se alle de udvidelser, der er installeret i Dissenter.</translation>
+<translation id="1510515462062582289">På denne side kan du se alle de udvidelser, der er installeret i Fulldive.</translation>
 <translation id="2810390687497823527">Hvis du ikke kan genkende en udvidelse, eller hvis din browser ikke fungerer som forventet, kan du deaktivere eller tilpasse udvidelser her.</translation>
 <translation id="4479424953165245642">Administrer kioskapplikationer</translation>
 <translation id="6619801788773578757">Tilføj terminalapp</translation>
@@ -4777,7 +4777,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="2342740338116612727">Bogmærkerne blev tilføjet</translation>
 <translation id="7835178595033117206">Bogmærket blev fjernet</translation>
 <translation id="742130257665691897">Bogmærkerne blev fjernet</translation>
-<translation id="5468853758063275923">Dissenter er din standardbrowser</translation>
+<translation id="5468853758063275923">Fulldive er din standardbrowser</translation>
 <translation id="2950533317914339731">Føj bogmærker til dine foretrukne Gab AI Inc-apps</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4792,13 +4792,13 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="5033266061063942743">Geometriske former</translation>
 <translation id="7789963078219276159">Baggrunden for startsiden blev ændret til <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Baggrunden for startsiden er nulstillet til standardbaggrunden.</translation>
-<translation id="239760341987199724">Angiv Dissenter som din standardbrowser</translation>
+<translation id="239760341987199724">Angiv Fulldive som din standardbrowser</translation>
 <translation id="96037229054033864">Få adgang til Gab AI Inc Søgning og Gab AI Inc-intelligens, hver gang du browser</translation>
-<translation id="296137235951584143">Gør Dissenter til din egen</translation>
+<translation id="296137235951584143">Gør Fulldive til din egen</translation>
 <translation id="3982375475032951137">Konfigurer din browser ved et hjælp af et par enkle trin</translation>
 <translation id="6972754398087986839">Kom godt i gang</translation>
-<translation id="3707821975049107110">Er du allerede Dissenter-bruger? Log ind</translation>
-<translation id="7113572760575285642">Dit Dissenter – overalt</translation>
+<translation id="3707821975049107110">Er du allerede Fulldive-bruger? Log ind</translation>
+<translation id="7113572760575285642">Dit Fulldive – overalt</translation>
 <translation id="567643736130151854">Log ind, og aktivér synkronisering for at få dine bogmærker, adgangskoder og meget mere på alle enheder</translation>
 <translation id="725758059478686223">Udskrivningstjeneste</translation>
 <translation id="15662109988763471">Den valgte printer er ikke tilgængelig eller ikke installeret korrekt. Tjek din printer, eller vælg en anden printer.</translation>
@@ -4921,7 +4921,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="7574650250151586813">Hvis du vil indtaste tekst, skal du opdatere appen Daydream-tastatur</translation>
 <translation id="983511809958454316">Denne funktion understøttes ikke i VR</translation>
 <translation id="4008291085758151621">Websiteoplysninger er ikke tilgængelige i VR</translation>
-<translation id="1439926347196400598">Vil du tillade, at Dissenter optager lyd?</translation>
+<translation id="1439926347196400598">Vil du tillade, at Fulldive optager lyd?</translation>
 <translation id="6313641880021325787">LUK VR</translation>
 <translation id="2670429602441959756">Denne side indeholder funktioner, der endnu ikke understøttes i VR. Afslutter...</translation>
 <translation id="1802687198411089702">Siden svarer ikke. Du kan vente på den eller afslutte.</translation>
@@ -4943,7 +4943,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="1721312023322545264">Du skal have tilladelse fra <ph name="NAME"/> til at besøge dette website</translation>
 <translation id="7543525346216957623">Spørg en af dine forældre</translation>
 <translation id="471880041731876836">Du har ikke tilladelse til at besøge dette website</translation>
-<translation id="3480834636742786788">Start og log ind på Dissenter, inden du bruger denne app.</translation>
+<translation id="3480834636742786788">Start og log ind på Fulldive, inden du bruger denne app.</translation>
 <translation id="2851634818064021665">Du skal have tilladelse til at besøge dette website</translation>
 <translation id="4933782374919065856">Har du spørgsmål? Kontakt din profiladministrator.</translation>
 <translation id="2712173769900027643">Spørg om tilladelse</translation>
@@ -4963,7 +4963,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="7755287808199759310">Din forælder kan fjerne blokeringen for dig</translation>
 <translation id="5732392974455271431">Dine forældre kan fjerne blokeringen for dig</translation>
 <translation id="3556433843310711081">Din administrator kan fjerne blokeringen for dig</translation>
-<translation id="1254756632288991504">Start og log ind på Dissenter, så Dissenter kan kontrollere, om du har adgang til dette website.</translation>
+<translation id="1254756632288991504">Start og log ind på Fulldive, så Fulldive kan kontrollere, om du har adgang til dette website.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> er sat på pause</translation>
 <translation id="8015163965024115122">Begrænsningen på <ph name="IDS_SHORT_PRODUCT_NAME"/>- eller <ph name="IDS_SHORT_PRODUCT_NAME"/>-apps, som din forælder har indstillet, er udløbet.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> er sat på pause</translation>

@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Устгах</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/>-г сонгосон</translation>
 <translation id="5582839680698949063">Үндсэн цэс</translation>
-<translation id="3700405816184340252">Dissenter-н түүх</translation>
+<translation id="3700405816184340252">Fulldive-н түүх</translation>
 <translation id="7602079150116086782">Бусад төхөөрөмжөөс ирсэн цонх байхгүй байна</translation>
 <translation id="4619615317237390068">Бусад төхөөрөмжний чихтэй хуудас</translation>
-<translation id="82609232232243542">Dissenter дансандаа нэвтрэх</translation>
+<translation id="82609232232243542">Fulldive дансандаа нэвтрэх</translation>
 <translation id="4627442949885028695">Өөр төхөөрөмжөөс үргэлжлүүлэх</translation>
-<translation id="7253276740368043692">Бусад төхөөрөмжөөс чихтэй хуудсаа авахын тулд Dissenter-д нэвтэрнэ үү.</translation>
+<translation id="7253276740368043692">Бусад төхөөрөмжөөс чихтэй хуудсаа авахын тулд Fulldive-д нэвтэрнэ үү.</translation>
 <translation id="6351063337294363751">Та энэ цэснээс хайлтын өгөгдлөө устгах боломжтой</translation>
 <translation id="6040143037577758943">Хаах</translation>
 <translation id="6463795194797719782">&amp;Засварлах</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Тусдаа тохиргоо...</translation>
 <translation id="5801568494490449797">Миний сонголт</translation>
 <translation id="3677911431265050325">Мобайл сайтын хүсэлт тавих</translation>
-<translation id="236470849334943016">Dissenter-н Үйлчилгээний нөхцөлийг гуравдугаар сарын 31-ний өдөр өөрчлөх болно.</translation>
+<translation id="236470849334943016">Fulldive-н Үйлчилгээний нөхцөлийг гуравдугаар сарын 31-ний өдөр өөрчлөх болно.</translation>
 <translation id="1032605640136438169">Шинэ нөхцөлийг шалгаж үзнэ үү</translation>
 <translation id="8712637175834984815">Ойлголоо</translation>
 <translation id="5007392906805964215">Шалгах</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Дахин асаах</translation>
 <translation id="3479552764303398839">Одоо биш</translation>
 <translation id="1008557486741366299">Боломжгүй байна</translation>
-<translation id="8201192017531062522">Dissenter-г хэрэглээний програмыг нээсэн байгаа тохиолдолд Dissenter нь ачаалласан хэвээр байна.</translation>
-<translation id="7397305826909094212">Бүх Dissenter Apps-аас гарах</translation>
+<translation id="8201192017531062522">Fulldive-г хэрэглээний програмыг нээсэн байгаа тохиолдолд Fulldive нь ачаалласан хэвээр байна.</translation>
+<translation id="7397305826909094212">Бүх Fulldive Apps-аас гарах</translation>
 <translation id="5026874946691314267">Үүнийг дахин бүү үзүүл</translation>
 <translation id="91568222606626347">Богино холболт үүсгэх</translation>
 <translation id="2783321960289401138">Богино холболт үүсгэх</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">Linux-н виртуал машин: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Залгаас виртуал машин: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP задлан шинжлэгч</translation>
-<translation id="7171242884588191792">Dissenter Файл хэрэгсэл</translation>
+<translation id="7171242884588191792">Fulldive Файл хэрэгсэл</translation>
 <translation id="3183139917765991655">Профайл импортлогч</translation>
 <translation id="7367714965999718019">Хурдан хариу үйлдлийн код үүсгэгч</translation>
 <translation id="2190069059097339078">WiFi үнэмлэх авагч</translation>
-<translation id="5920835625712313205">Dissenter үйлдлийн системийн зураг бичигч</translation>
+<translation id="5920835625712313205">Fulldive үйлдлийн системийн зураг бичигч</translation>
 <translation id="4873312501243535625">Медиа файл шалгагч</translation>
 <translation id="5972666587303800813">Ажилладаггүй үйлчилгээ</translation>
 <translation id="1545775234664667895">"<ph name="THEME_NAME"/>" загварыг суулгасан</translation>
@@ -851,13 +851,13 @@
 <translation id="3507421388498836150">"<ph name="EXTENSION_NAME"/>"-д олгосон зөвшөөрөл</translation>
 <translation id="5242724311594467048">"<ph name="EXTENSION_NAME"/>-ыг идэвхжүүлэх үү"?</translation>
 <translation id="4014432863917027322">Та "<ph name="EXTENSION_NAME"/>-г" засварлах уу?</translation>
-<translation id="5173189340601754836">Таны компьютерийн өөр нэг програм Dissenter-н ажиллах зарчмыг өөрчилж болох апп нэмсэн байна.
+<translation id="5173189340601754836">Таны компьютерийн өөр нэг програм Fulldive-н ажиллах зарчмыг өөрчилж болох апп нэмсэн байна.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Taны компьютерын өөр нэг програм өргөтгөл нэмсэн бөгөөд энэ нь Dissenter-н ажиллах зарчмыг өөрчилж магад.
+<translation id="6654312501894761082">Taны компьютерын өөр нэг програм өргөтгөл нэмсэн бөгөөд энэ нь Fulldive-н ажиллах зарчмыг өөрчилж магад.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Таны компьютерын өөр нэг програм загвар нэмсэн бөгөөд энэ нь Dissenter-н ажиллах зарчмыг өөрчилж болзошгүй.
+<translation id="3225882094369124157">Таны компьютерын өөр нэг програм загвар нэмсэн бөгөөд энэ нь Fulldive-н ажиллах зарчмыг өөрчилж болзошгүй.
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Өргөтгөлийг идэвхжүүлэх</translation>
 <translation id="4625078469366263107">Аппыг идэвхжүүлэх</translation>
@@ -865,7 +865,7 @@
 <translation id="3908501907586732282">Өргөтгөлийг идэвхжүүлэх</translation>
 <translation id="2327492829706409234">Аппликейшнийг идэвхжүүл</translation>
 <translation id="175772926354468439">Загварыг идэвхжүүлэх</translation>
-<translation id="5267531627648004734">Dissenter-оос устга</translation>
+<translation id="5267531627648004734">Fulldive-оос устга</translation>
 <translation id="4998873842614926205">Өөрчлөлтийг баталгаажуул</translation>
 <translation id="1799071797295057738">"<ph name="EXTENSION_NAME"/>" өргөтгөлийг автоматаар идэвхгүй болгосон.</translation>
 <translation id="5238278114306905396">"<ph name="EXTENSION_NAME"/>" аппликейшнийг автоматаар устгасан байна.</translation>
@@ -1001,7 +1001,7 @@
 <translation id="1616298854599875024">"<ph name="IMPORT_NAME"/>" өргөтгөл нь хуваалцсан модуль биш тул үүнийг импорт хийх боломжгүй</translation>
 <translation id="2131077480075264">"<ph name="APP_NAME"/>" апликейшнийг <ph name="IMPORT_NAME"/>-н зөвшөөрөлгүйгээр суулгах боломжгүй байна.</translation>
 <translation id="1875387611427697908">Үүнийг зөвхөн <ph name="CHROME_WEB_STORE"/>-с нэмэх боломжтой</translation>
-<translation id="3862788408946266506">"Kiosk_only" тодорхойлогч файлын шинжтэй аппыг Dissenter-н үйлдлийн системийн киоск горимд суулгах шаардлагатай</translation>
+<translation id="3862788408946266506">"Kiosk_only" тодорхойлогч файлын шинжтэй аппыг Fulldive-н үйлдлийн системийн киоск горимд суулгах шаардлагатай</translation>
 <translation id="3834775135533257713">"<ph name="TO_INSTALL_APP_NAME"/>" апп нь "<ph name="INSTALLED_APP_NAME"/>"-тай зөрчилдөж байгаа тул үүнийг нэмэх боломжгүй байна.</translation>
 <translation id="144518587530125858">Энэ загварт зориулан <ph name="IMAGE_PATH"/>-г татах үйлдэл амжилтгүй болсон байна.</translation>
 <translation id="3576324189521867626">Амжилттай суулгасан</translation>
@@ -1094,7 +1094,7 @@
 <translation id="5483785310822538350">Файл болон төхөөрөмжид хандах хандалтыг цуцлах</translation>
 <translation id="93766956588638423">Өргөтгөлийг засах</translation>
 <translation id="3905761538810670789">Апп засах</translation>
-<translation id="8808478386290700967">Dissenter вэб дэлгүүр</translation>
+<translation id="8808478386290700967">Fulldive вэб дэлгүүр</translation>
 <translation id="488785315393301722">Дэлгэрэнгүй мэдээллийг харуул</translation>
 <translation id="8962083179518285172">Дэлгэрэнгүй мэдээллийг нуух</translation>
 <translation id="7287143125007575591">Хандалтыг зөвшөөрөөгүй.</translation>
@@ -1103,9 +1103,9 @@
 <translation id="6101226222197207147">Шинэ (<ph name="EXTENSION_NAME"/>) апп нэмэгдсэн</translation>
 <translation id="7818135753970109980">Шинэ загвар нэмэгдсэн ( <ph name="EXTENSION_NAME"/> )</translation>
 <translation id="9215293857209265904">"<ph name="EXTENSION_NAME"/>" нэмэгдсэн</translation>
-<translation id="6637045053447935202">Таны компьютерт өөр нэг програм нэмэгдсэн бөгөөд энэ нь Dissenter-ийн ажиллах зарчмыг өөрчилж болох юм.</translation>
-<translation id="2015014930243978107">Таны компьютер дээрх програм өргөтгөл нэмсэн байна. Энэ нь Dissenter-ийн ажиллагаанд нөлөөлж болох юм.</translation>
-<translation id="2060128809251156338">Таны компьютер дээрх өөр нэг апп theme нэмжээ. Энэ нь Dissenter-ийн ажиллах зарчимд нөлөө үзүүлж болзошгүй.</translation>
+<translation id="6637045053447935202">Таны компьютерт өөр нэг програм нэмэгдсэн бөгөөд энэ нь Fulldive-ийн ажиллах зарчмыг өөрчилж болох юм.</translation>
+<translation id="2015014930243978107">Таны компьютер дээрх програм өргөтгөл нэмсэн байна. Энэ нь Fulldive-ийн ажиллагаанд нөлөөлж болох юм.</translation>
+<translation id="2060128809251156338">Таны компьютер дээрх өөр нэг апп theme нэмжээ. Энэ нь Fulldive-ийн ажиллах зарчимд нөлөө үзүүлж болзошгүй.</translation>
 <translation id="2470702053775288986">Дэмжигдээгүй өргөтгөл идэвхгүй болсон</translation>
 <translation id="2809586584051668049">ба <ph name="NUMBER_ADDITIONAL_DISABLED"/> дэлгэрэнгүй</translation>
 <translation id="5301954838959518834">OK, ойлголоо</translation>
@@ -1310,7 +1310,7 @@
 <translation id="8017679124341497925">Товчлолыг зассан</translation>
 <translation id="1174073918202301297">Товчлол нэмсэн</translation>
 <translation id="2926085873880284723">Өгөгдмөл товчлолыг сэргээх</translation>
-<translation id="5801450813341024983">Dissenter-н арын дэвсгэр</translation>
+<translation id="5801450813341024983">Fulldive-н арын дэвсгэр</translation>
 <translation id="2800760947029405028">Зураг байршуулах</translation>
 <translation id="8342861492835240085">Цуглуулга сонгох</translation>
 <translation id="3132996321662585180">Өдөр бүр сэргээх</translation>
@@ -1397,7 +1397,7 @@
 <translation id="833986336429795709">Энэ холбоосыг нээхийн тулд апп сонгоно уу</translation>
 <translation id="192494336144674234">Дараахаар нээх</translation>
 <translation id="9053893665344928494">Миний сонголтыг санах</translation>
-<translation id="5340857474604400806">Dissenter-д үлдэх</translation>
+<translation id="5340857474604400806">Fulldive-д үлдэх</translation>
 <translation id="3043581297103810752"><ph name="ORIGIN"/>-с</translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Нууцлал)</translation>
 <translation id="1572139610531470719">(Зочин) <ph name="WINDOW_TITLE"/></translation>
@@ -1458,8 +1458,8 @@
 <translation id="6686817083349815241">Нууц үгээ хадгална уу</translation>
 <translation id="8141725884565838206">Нууц үгээ удирдана уу</translation>
 <translation id="8275038454117074363">Импортлох</translation>
-<translation id="3191314862567596053">Нууц үгийг Dissenter-д импортлох</translation>
-<translation id="6368144843345980623">Нууц үгийг Dissenter-с экспортлох</translation>
+<translation id="3191314862567596053">Нууц үгийг Fulldive-д импортлох</translation>
+<translation id="6368144843345980623">Нууц үгийг Fulldive-с экспортлох</translation>
 <translation id="8503813439785031346">Хэрэглэгчийн нэр</translation>
 <translation id="6657585470893396449">Нууц үг</translation>
 <translation id="5472627187093107397">Энэ сайтын хувьд нууц үгсийг хадгалах</translation>
@@ -1490,7 +1490,7 @@
 <translation id="7052237160939977163">Үйлдлийн явцын өгөгдлийг илгээх</translation>
 <translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth Логыг<ph name="END_LINK"/> хавсаргана уу (Gab AI Inc дотоод)</translation>
 <translation id="3047644958362961983">Энэ мэдээлэл нь бидэнд таны Туслахын асуудлыг илүү сайн ойлгоход тусалдаг. Үүнийг 90 хоног хүртэлх хугацаанд хадгалдаг бөгөөд үүнд зөвхөн инженерчлэл болон санал хүсэлтийн зохих багийнхан хандах боломжтой.</translation>
-<translation id="8545590844135745781">Bluetooth-н асуудлыг тогтооход Gab AI Inc-н ажилчид санал хүсэлтийн мэдэгдлээрээ Bluetooth-н нэмэлт логийг оруулах боломжтой. Энэ сонголтыг сонгоход таны мэдэгдэлд одоогийн харилцан үйлдлээс btsnoop болон HCI лог, PII-г аль болох ихийг хасахын тулд ариутгал хийхийг оруулна. Эдгээр лог руу Listnr-д хандахыг Dissenter OS бүтээгдэхүүний бүлгийн менежерүүдэд хязгаарлана. Логуудийг 90 хоногийн дараа цэвэрлэх болно.</translation>
+<translation id="8545590844135745781">Bluetooth-н асуудлыг тогтооход Gab AI Inc-н ажилчид санал хүсэлтийн мэдэгдлээрээ Bluetooth-н нэмэлт логийг оруулах боломжтой. Энэ сонголтыг сонгоход таны мэдэгдэлд одоогийн харилцан үйлдлээс btsnoop болон HCI лог, PII-г аль болох ихийг хасахын тулд ариутгал хийхийг оруулна. Эдгээр лог руу Listnr-д хандахыг Fulldive OS бүтээгдэхүүний бүлгийн менежерүүдэд хязгаарлана. Логуудийг 90 хоногийн дараа цэвэрлэх болно.</translation>
 <translation id="4206323443866416204">Санал хүсэлтийн тайлан</translation>
 <translation id="3681311097828166361">Санал хүсэлт илгээсэнд баярлалаа. Та одоогоор офлайн байгаа тул таны тайланг дараа нь илгээх болно.</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>системийн мэдээллийг<ph name="END_LINK1"/> илгээх</translation>
@@ -1507,15 +1507,15 @@
 <translation id="6885771755599377173">Системийн мэдээллийг урьдчилан үзэх</translation>
 <translation id="1016566241875885511">Нэмэлт мэдээлэл (заавал биш)</translation>
 <translation id="8026334261755873520">Хайлтын өгөгдлийг цэвэрлэх</translation>
-<translation id="4718442817388594217">Сонгосон датаг Dissenter болон синк хийсэн төхөөрөмжүүдээс устгасан. Таны Gab AI Inc Бүртгэл <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> дээр Gab AI Inc-н бусад үйлчилгээнээс хайлт, ашиглалт зэрэг хөтчийн түүхийн өөр хэлбэртэй байж болзошгүй.</translation>
-<translation id="7814200940910057384">Dissenter-н өгөгдлийг устгасан</translation>
+<translation id="4718442817388594217">Сонгосон датаг Fulldive болон синк хийсэн төхөөрөмжүүдээс устгасан. Таны Gab AI Inc Бүртгэл <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> дээр Gab AI Inc-н бусад үйлчилгээнээс хайлт, ашиглалт зэрэг хөтчийн түүхийн өөр хэлбэртэй байж болзошгүй.</translation>
+<translation id="7814200940910057384">Fulldive-н өгөгдлийг устгасан</translation>
 <translation id="7346909386216857016">OK, ойлголоо</translation>
 <translation id="8493236660459102203">Микрофон:</translation>
 <translation id="3925573269917483990">Камер:</translation>
 <translation id="648927581764831596">Байхгүй</translation>
 <translation id="4172051516777682613">Байнга харуулж байна уу</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Үзэгдэх зүйлийг блоклосон}other{# үзэгдэх зүйлийг блоклосон}}</translation>
-<translation id="4156865452842056672">(Dissenter алдааны хуудас)</translation>
+<translation id="4156865452842056672">(Fulldive алдааны хуудас)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> өөрийгөө шинэчилсэн хэвээр байлгах боломжгүй байж болно</translation>
 <translation id="8590375307970699841">Автоматаар шинэчлэх тохиргоог хийх</translation>
 <translation id="8926389886865778422">Дахин битгий асуу</translation>
@@ -1620,10 +1620,10 @@
 <translation id="8658645149275195032"><ph name="APP_NAME"/> нь таны дэлгэц болон дууг <ph name="TAB_NAME"/>-тай хуваалцаж байна.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> цонх хуваалцаж байна.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> нь <ph name="TAB_NAME"/>-тай цонх хуваалцаж байна.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> Dissenter-н чихтэй хуудсыг хуваалцаж байна.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> нь Dissenter-н чихтэй хуудсыг <ph name="TAB_NAME"/>-тай хуваалцаж байна.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> нь Dissenter-н чихтэй хуудас болон дууг хуваалцаж байна.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> нь Dissenter-н чихтэй хуудас болон дууг <ph name="TAB_NAME"/>-тай хуваалцаж байна.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> Fulldive-н чихтэй хуудсыг хуваалцаж байна.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> нь Fulldive-н чихтэй хуудсыг <ph name="TAB_NAME"/>-тай хуваалцаж байна.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> нь Fulldive-н чихтэй хуудас болон дууг хуваалцаж байна.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> нь Fulldive-н чихтэй хуудас болон дууг <ph name="TAB_NAME"/>-тай хуваалцаж байна.</translation>
 <translation id="7108338896283013870">Нуух</translation>
 <translation id="890616557918890486">Эх сурвалжийг өөрчлөх</translation>
 <translation id="7792388396321542707">Хуваалцахыг зогсоо</translation>
@@ -1646,7 +1646,7 @@
 <translation id="4711067597921221305"><ph name="PRODUCT_NAME"/>-г сайжруулахад дэмжлэг үзүүлэх зорилгоор хэрэглээний статистик болон гэмтлийн тайланг автоматаар Gab AI Inc-д илгээх</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/>-ийн эхлүүлэх</translation>
 <translation id="4876273079589074638">Манай инженерүүдэд гэмтлийн асуудлын тодруулж, засахад нь тусална уу. Боломжтой бол дэлгэрэнгүй тайлбарлана уу. Бидэнд бүх нарийвчилсан мэдээлэл хэрэг болно.</translation>
-<translation id="5418694430960033386">Dissenter-ын санах ой дууссанаас гадна вэб хуудасны үйл ажиллагаа зарим шалтгааны улмаас зогссон байна. Үргэлжлүүлэхийн тулд дахин ачаалж эсвэл өөр хуудас руу очно уу.</translation>
+<translation id="5418694430960033386">Fulldive-ын санах ой дууссанаас гадна вэб хуудасны үйл ажиллагаа зарим шалтгааны улмаас зогссон байна. Үргэлжлүүлэхийн тулд дахин ачаалж эсвэл өөр хуудас руу очно уу.</translation>
 <translation id="3065041951436100775">Цонх санал хүсэлтийг хаасан.</translation>
 <translation id="3941565636838060942">Энэ програмд хандалт хийх тэмдэгийг нуухын тулд Хянах Самбарт байгаа <ph name="CONTROL_PANEL_APPLET_NAME"/>-ний тусламжтайгаар програмыг устгана уу.
 
@@ -1666,17 +1666,17 @@
 <translation id="4846680374085650406">Та энэ тохиргоог хийхдээ админы зөвлөмжийн дагуу хийнэ.</translation>
 <translation id="1223853788495130632">Таны администратор-аас энэ тохиргоо хийх тодорхой утгыг санал болгож байна.</translation>
 <translation id="5464660706533281090">Насанд хүрээгүй хэрэглэгчид энэ тохиргоог өөрчлөх боломжгүй.</translation>
-<translation id="8839398440242019256">Dissenter Web Store-оос биш</translation>
+<translation id="8839398440242019256">Fulldive Web Store-оос биш</translation>
 <translation id="5337771866151525739">Гуравдагч этгээдээс суулгасан.</translation>
 <translation id="4538792345715658285">Байгууллагын бодлогоор суулгасан.</translation>
 <translation id="4359408040881008151">Хамааралтай өргөтгөлүүдээс шалтгаалан суулгасан.</translation>
 <translation id="4980805016576257426">Энэ өргөтгөл нь хортой код агуулсан байна.</translation>
 <translation id="5522156646677899028">Энэ өргөтгөл нь аюулгүй байдлын ноцтой байдлыг агуулж байна.</translation>
-<translation id="6945695820322143954">Энэ өргөтгөл нь Dissenter Web Store-ын бодлогыг зөрчиж байна.</translation>
-<translation id="177808131755847449">Dissenter-с идэвхгүй болгосон. Энэ өргөтгөл аюултай байж болзошгүй.</translation>
+<translation id="6945695820322143954">Энэ өргөтгөл нь Fulldive Web Store-ын бодлогыг зөрчиж байна.</translation>
+<translation id="177808131755847449">Fulldive-с идэвхгүй болгосон. Энэ өргөтгөл аюултай байж болзошгүй.</translation>
 <translation id="1434696352799406980">Энэ нь таны эхлүүлэх хуудас, шинэ чихтэй хуудас, хайлтын систем болон тэмдэглэсэн чихтэй хуудсыг шинэчлэх болно. Мөн бүх өргөтгөлийг идэвхгүй болгож, күүки зэрэг түр зуурын өгөгдлийг устгах болно. Харин таны хавчуурга, түүх, хадгалсан нууц үгийг устгахгүй.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> таны тохиргоог шинэчлэхийг хүсэж байна.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> нь таны Dissenter-н тохиргоог өгөгдмөл хэлбэрт тохируулахыг хүсэж байна. Энэхүү тохиргоо нь таны үндсэн нүүр хуудас, шинэ цонх болон хайлтын системийн тохиргоог өөрчлөх бөгөөд таны өргөтгөлийн идэвхгүй болгож бүх цонхыг unpin хиих болно. Энэхүү тохиргоо нь күүки, мэдээлэл болон бусад сайтын мэдээлэл зэрэг түр болон хадгалагдсан бүх мэдээллийг арилгах болно.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> нь таны Fulldive-н тохиргоог өгөгдмөл хэлбэрт тохируулахыг хүсэж байна. Энэхүү тохиргоо нь таны үндсэн нүүр хуудас, шинэ цонх болон хайлтын системийн тохиргоог өөрчлөх бөгөөд таны өргөтгөлийн идэвхгүй болгож бүх цонхыг unpin хиих болно. Энэхүү тохиргоо нь күүки, мэдээлэл болон бусад сайтын мэдээлэл зэрэг түр болон хадгалагдсан бүх мэдээллийг арилгах болно.</translation>
 <translation id="7581462281756524039">Цэвэрлэх хэрэгсэл</translation>
 <translation id="1233721473400465416">Байршил</translation>
 <translation id="2907619724991574506">Эхлүүлэх холбоосууд</translation>
@@ -1870,7 +1870,7 @@
 <translation id="6664774537677393800">Таны профайлыг нээхэд асуудал гарлаа. Бүртгэлээсээ гараад, дахин нэвтэрнэ үү.</translation>
 <translation id="1794791083288629568">Энэ алдааг засахад бидэнд туслан, санал хүсэлтээ илгээнэ үү.</translation>
 <translation id="8234795456569844941">Манай инженерүүдэд энэ асуудлыг шийдэхэд тусална уу. Ta профайлын алдааны мессеж авахаас өмнө болсон зүйлийг тайлбарлана уу:</translation>
-<translation id="6500340165622970282">Таны профайлыг нээх явцад алдаа гарсан тул Dissenter-г эхлүүлэх боломжгүй байна. Dissenter-г дахин эхлүүлээд үзнэ үү.</translation>
+<translation id="6500340165622970282">Таны профайлыг нээх явцад алдаа гарсан тул Fulldive-г эхлүүлэх боломжгүй байна. Fulldive-г дахин эхлүүлээд үзнэ үү.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> нь үндэс хэлбэрээр ажиллаж чадахгүй.</translation>
 <translation id="2292848386125228270"><ph name="PRODUCT_NAME"/>-г энгийн хэрэглэгчээр эхлүүлнэ үү. Үндэслэгчийн хувиар хөгжүүлэн ажиллуулах бол sandbox дарцаггүйгээр дахин ажиллуулна уу.</translation>
 <translation id="7547317915858803630">Анхааруулга: Таны <ph name="PRODUCT_NAME"/> тохиргоонууд нь сүлжээний драйв дээр хадгалагдсан байна.  Энэ нь удаашруулах, эвдрэл үүсгэх эсвэл мэдээлэл алдагдахад хүргэж болно.</translation>
@@ -2242,8 +2242,8 @@
 <translation id="4720113199587244118">Төхөөрөмжүүд нэмэх</translation>
 <translation id="2776441542064982094">Сүлжээнд бүртгүүлэх боломжтой ямар ч төхөөрөмж байхгүй юм шиг харагдаж байна. Хэрэв таны төхөөрөмж асаалттай мөн интернэтэд холбогдсон байгаа бол зааварчилгааны гарын авлага дахь зааварчилгааг ашиглан дахин бүртгүүлэхийг оролдож үзнэ үү.</translation>
 <translation id="1007408791287232274">Төхөөрөмжүүдийг ачаалж чадсангүй.</translation>
-<translation id="3886420006370338208">Та төхөөрөмжүүдээ харахын тулд Dissenter руу нэвтрэх хэрэгтэй</translation>
-<translation id="6711610692002680394">Та шинэ төхөөрөмжүүдийг бүртгүүлэхийн тулд Dissenter руу нэвтрэх хэрэгтэй</translation>
+<translation id="3886420006370338208">Та төхөөрөмжүүдээ харахын тулд Fulldive руу нэвтрэх хэрэгтэй</translation>
+<translation id="6711610692002680394">Та шинэ төхөөрөмжүүдийг бүртгүүлэхийн тулд Fulldive руу нэвтрэх хэрэгтэй</translation>
 <translation id="8931394284949551895">Шинэ төхөөрөмжүүд</translation>
 <translation id="3752673729237782832">Миний төхөөрөмжүүд</translation>
 <translation id="1721937473331968728">Та компьютертээ холбогдсон энгийн хэвлэгч машинуудыг <ph name="CLOUD_PRINT_NAME"/>-д нэмж болно.</translation>
@@ -2316,7 +2316,7 @@
 <translation id="4540437243849625078">Энэ сайт нууцлалын горимоос гадуурх апп-тай мэдээлэл хуваалцах гэж байна.</translation>
 <translation id="1227836882233136433">Нууцлалын горимоос гарах уу?</translation>
 <translation id="662080504995468778">Үлдэх</translation>
-<translation id="2593289874938379417">Dissenter хүсэлт тавьсан нөөцөд хандах эрхгүй.</translation>
+<translation id="2593289874938379417">Fulldive хүсэлт тавьсан нөөцөд хандах эрхгүй.</translation>
 <translation id="760197030861754408">Холбохын тулд <ph name="LANDING_PAGE"/>-д очно уу.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> илэрсэн</translation>
 <translation id="5042282098504489593"><ph name="USB_DEVICE_NAME"/>-г Linux-д холбохын тулд Тохиргоог нээнэ үү</translation>
@@ -2370,24 +2370,24 @@
 <translation id="2859806420264540918">Энэ сайт төвөгтэй эсвэл хуурамч зар харуулдаг.</translation>
 <translation id="4077917118009885966">Энэ сайтад блоклосон зар</translation>
 <translation id="6456955391422100996">Зарыг хассан.</translation>
-<translation id="7533556202636568669">Энэ зар нь таны төхөөрөмжид хэт их эх сурвалжийг ашигладаг тул Dissenter үүнийг устгасан.</translation>
+<translation id="7533556202636568669">Энэ зар нь таны төхөөрөмжид хэт их эх сурвалжийг ашигладаг тул Fulldive үүнийг устгасан.</translation>
 <translation id="8497219075884839166">Windows хэрэгсэл</translation>
 <translation id="897525204902889653">Карантины үйлчилгээ</translation>
 <translation id="7055152154916055070">Дахин чиглүүлэлтийг блоклосон:</translation>
 <translation id="6777817260680419853">Дахин чиглүүлэлтийг блоклосон</translation>
 <translation id="694592694773692225">Энэ хуудсанд дахин чиглүүлэлтийг блоклосон байна.</translation>
-<translation id="8945142681652245463">Gab AI Inc Dissenter-р хурдан хайгаарай</translation>
-<translation id="2618024864038703735">Gab AI Inc Dissenter-р аюулгүй хайгаарай</translation>
-<translation id="8142180567942285208">Dissenter-р ухаалаг хайгаарай</translation>
+<translation id="8945142681652245463">Gab AI Inc Fulldive-р хурдан хайгаарай</translation>
+<translation id="2618024864038703735">Gab AI Inc Fulldive-р аюулгүй хайгаарай</translation>
+<translation id="8142180567942285208">Fulldive-р ухаалаг хайгаарай</translation>
 <translation id="8862003515646449717">Хурдан хөтөч рүү сэлгэх</translation>
 <translation id="8438328416656800239">Ухаалаг хөтөч рүү сэлгэх</translation>
 <translation id="491691592645955587">Аюулгүй хөтөч рүү сэлгэх</translation>
 <translation id="683373380308365518">Ухаалаг, аюулгүй хөтөч рүү сэлгэх</translation>
-<translation id="989239400026154074">Gab AI Inc нь Dissenter-г санал болгож байна</translation>
-<translation id="6676231621615806698">Dissenter-г нээх</translation>
+<translation id="989239400026154074">Gab AI Inc нь Fulldive-г санал болгож байна</translation>
+<translation id="6676231621615806698">Fulldive-г нээх</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> танд дотоод агуулга харуулахын тулд таны байршлыг ашигладаг. Та үүнийг <ph name="SETTINGS_LINK"/>-д өөрчлөх боломжтой.</translation>
 <translation id="3737536731758327622">Таны татаж авсан файл энд харагдана</translation>
-<translation id="4782664866169793230">Dissenter-г туршилтын автомат програм хангамжаар удирдаж байна.</translation>
+<translation id="4782664866169793230">Fulldive-г туршилтын автомат програм хангамжаар удирдаж байна.</translation>
 <translation id="6721678857435001674">Аюулгүй байдлын түлхүүрийнхээ бүтэц болон загварыг харах</translation>
 <translation id="1673137583248014546"><ph name="URL"/> таны Аюулгүй байдлын түлхүүрийн бүтэц болон загварыг харах хүсэлтэй байна</translation>
 <translation id="6010869025736512584">Видео оролт руу нэвтрэх</translation>
@@ -2520,7 +2520,7 @@
 <translation id="3984431586879874039">Энэ сайтад аюулгүй байдлын түлхүүрээ харуулахыг зөвшөөрөх үү?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> таны аюулгүй байдлын түлхүүрийн бүтэц болон загварыг харах хүсэлтэй байна</translation>
 <translation id="7618452966706304788">Та Нууцлалын горимд байх үедээ Хүрэлтийн ID-г <ph name="APP_NAME"/>-д ашиглах хүсэлтэй байна уу?</translation>
-<translation id="3098826269712097986">Таныг Нууцлалын горимоос гарсны дараа нэвтрэх өгөгдлийг Dissenter-д хадгална. Ингэснээр та энэ вэб сайтад дараагийн удаа зочлохдоо Хүрэх ID-г ашиглах боломжтой болно.</translation>
+<translation id="3098826269712097986">Таныг Нууцлалын горимоос гарсны дараа нэвтрэх өгөгдлийг Fulldive-д хадгална. Ингэснээр та энэ вэб сайтад дараагийн удаа зочлохдоо Хүрэх ID-г ашиглах боломжтой болно.</translation>
 <translation id="2172784515318616985">Үргэлжлүүлэх</translation>
 <translation id="5186185447130319458">Нууцлал</translation>
 <translation id="7643842463591647490">{0,plural, =1{Нээлттэй # цонх}other{Нээлттэй # цонх}}</translation>
@@ -2562,7 +2562,7 @@
 <translation id="2346953515226895098">SODA үйлчилгээ</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/>-г түр зогсоосон</translation>
 <translation id="917350715406657904">Та <ph name="APP_NAME"/> дээр таны эцэг эхийн тохируулсан цагийн хязгаарт хүрсэн байна. Та түүнийг маргааш <ph name="TIME_LIMIT"/>-н турш ашиглах боломжтой.</translation>
-<translation id="8891261408659902804">Та <ph name="APP_NAME"/> Dissenter апп дээр таны эцэг эхийн тохируулсан цагийн хязгаарт хүрсэн байна. Та түүнийг маргааш <ph name="TIME_LIMIT"/>-н турш ашиглах боломжтой.</translation>
+<translation id="8891261408659902804">Та <ph name="APP_NAME"/> Fulldive апп дээр таны эцэг эхийн тохируулсан цагийн хязгаарт хүрсэн байна. Та түүнийг маргааш <ph name="TIME_LIMIT"/>-н турш ашиглах боломжтой.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/>-г блоклосон</translation>
 <translation id="4404843640767531781">Таны эцэг эх <ph name="APP_NAME"/>-г блоклосон байна. Энэ аппыг ашиглах зөвшөөрлийг эцэг эхээсээ хүснэ үү.</translation>
 <translation id="751523031290522286">Админ <ph name="APP_NAME"/>-г блоклосон. Энэ аппыг ашиглах зөвшөөрлийг админаас хүснэ үү.</translation>
@@ -2719,7 +2719,7 @@
 <translation id="5285635972691565180">Дэлгэц <ph name="DISPLAY_ID"/></translation>
 <translation id="7477793887173910789">Хөгжим, видео болон бусад зүйлээ хянах</translation>
 <translation id="5234764350956374838">Хэрэгсэхгүй болго</translation>
-<translation id="4707302005824653064">Dissenter.com дээр хэрэглээ болон түүхийг менежер (<ph name="CUSTODIAN_EMAIL"/>) хянаж болно.</translation>
+<translation id="4707302005824653064">Fulldive.com дээр хэрэглээ болон түүхийг менежер (<ph name="CUSTODIAN_EMAIL"/>) хянаж болно.</translation>
 <translation id="346431825526753">Энэхүү хүүхдэд зориулсан хаягийг <ph name="CUSTODIAN_EMAIL"/> удирдан ажиллаж байна.</translation>
 <translation id="4159681666905192102">Энэхүү хүүхдэд зориулсан хаягийг <ph name="CUSTODIAN_EMAIL"/> болон <ph name="SECOND_CUSTODIAN_EMAIL"/> удирдан ажиллаж байна.</translation>
 <translation id="5958529069007801266">Хяналттай хэрэглэгч</translation>
@@ -2895,7 +2895,7 @@
 <translation id="672213144943476270">Та зочны хувиар хайлт хийхээс өмнө профайлынхаа түгжээг тайлна уу.</translation>
 <translation id="8086119151297127544">Хүн устгахаасаа өмнө профайлынхаа түгжээг тайлна уу.</translation>
 <translation id="7805701378418968629">Хүн нэмэхээсээ өмнө профайлынхаа түгжээг тайлна уу.</translation>
-<translation id="8978225823042133615">Dissenter-г ашиглахын тулд нэвтэрнэ үү</translation>
+<translation id="8978225823042133615">Fulldive-г ашиглахын тулд нэвтэрнэ үү</translation>
 <translation id="4893336867552636863">Энэ нь таны хайлтын өгөгдлийг энэ төхөөрөмжөөс бүрмөсөн устгах болно.</translation>
 <translation id="2496180316473517155">Хайлтын түүх</translation>
 <translation id="6865313869410766144">Autofill дээрх мэдээлэл</translation>
@@ -2919,7 +2919,7 @@
 <translation id="9013707997379828817">Таны админ энэ төхөөрөмжийг буцаан шилжүүллээ. Чухал файлуудаа хадгалаад дахин эхлүүлнэ үү. Төхөөрөмж дээрх бүх өгөгдөл устах болно.</translation>
 <translation id="5877064549588274448">Суваг өөрчлөгдсөн. Өөрчлөлтийг хадгалахын тулд төхөөрөмжийг дахин унтрааж асаана уу.</translation>
 <translation id="4716483597559580346">Хамгаалалтыг сайжруулахын тулд үйлдвэрийн тохиргоонд нь буцааж оруулах</translation>
-<translation id="4089922565956168950">Энэ сайжруулалт таны Dissenterbook-г шинэчилж хэрэглэгчийн одоогийн өгөгдлийг устгадаг.</translation>
+<translation id="4089922565956168950">Энэ сайжруулалт таны Fulldivebook-г шинэчилж хэрэглэгчийн одоогийн өгөгдлийг устгадаг.</translation>
 <translation id="3688526734140524629">Сувгийг өөрчлөх</translation>
 <translation id="6410328738210026208">Сувгийг өөрчилж, үйлдвэрийн тохиргоонд нь оруулах</translation>
 <translation id="1979280758666859181">Та сувгаа <ph name="PRODUCT_NAME"/>-ийн хуучин хувилбар луу сольж байна. Сувгийн хувилбар нь одоогоор таны төхөөрөмж дээр суулгасан хувилбартай таарч байгаа үед сувгийн өөрчлөлт хэрэгжинэ.</translation>
@@ -2951,7 +2951,7 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, нэмэлт +1 бүртгэл}other{<ph name="EMAIL"/>, нэмэлт +<ph name="EXTRA_ACCOUNTS"/> бүртгэл}}</translation>
 <translation id="7434635829372401939">Тохиргоогоо синк хийх</translation>
 <translation id="1036348656032585052">Унтраа</translation>
-<translation id="3267705913905916810">Таны Gab AI Inc бүртгэлээрээ нэвтэрсэн Dissenter үйлдлийн системтэй бүх төхөөрөмж дээр таны аппууд болон тохиргоог синк хийнэ. Хөтчийг синк хийх сонголтыг харах бол<ph name="LINK_BEGIN"/>Dissenter-н тохиргоо<ph name="LINK_END"/> руу очно уу.</translation>
+<translation id="3267705913905916810">Таны Gab AI Inc бүртгэлээрээ нэвтэрсэн Fulldive үйлдлийн системтэй бүх төхөөрөмж дээр таны аппууд болон тохиргоог синк хийнэ. Хөтчийг синк хийх сонголтыг харах бол<ph name="LINK_BEGIN"/>Fulldive-н тохиргоо<ph name="LINK_END"/> руу очно уу.</translation>
 <translation id="6985607387932385770">Хэвлэгч</translation>
 <translation id="8418661265246754237">Gab AI Inc Бүртгэл</translation>
 <translation id="3953834000574892725">Миний бүртгэл</translation>
@@ -2998,7 +2998,7 @@
 <translation id="2187700606737131818">Gab AI Inc Зураг</translation>
 <translation id="1827738518074806965">Уран зургийн галерей</translation>
 <translation id="9137157311132182254">Сонгосон хайлтын систем</translation>
-<translation id="7423118389528876103">Dissenter хөтөч болон <ph name="DEVICE_TYPE"/> эхлүүлэгч дээр хэрэглэгддэг</translation>
+<translation id="7423118389528876103">Fulldive хөтөч болон <ph name="DEVICE_TYPE"/> эхлүүлэгч дээр хэрэглэгддэг</translation>
 <translation id="2862205630718215619">Gab AI Inc туслах</translation>
 <translation id="8959699239363253085">Асаалттай</translation>
 <translation id="971479617738309149">Унтраалттай</translation>
@@ -3018,15 +3018,15 @@
 <translation id="6644513150317163574">URL формат буруу байна. SSO нотолгоог ашиглах үед серверийг хост нэрээр тодорхойлсон байх ёстой.</translation>
 <translation id="6091761513005122595">Хуваалцлыг амжилттай салгасан.</translation>
 <translation id="5770125698810550803">Шилжих товчлуурыг харуулах</translation>
-<translation id="2972318514147518075">Таблет горимд товчлуур ашиглан нүүр лүү шилжих, буцах, аппуудын хооронд сэлгэх. DissenterVox эсвэл Автомат товшилтыг идэвхжүүлсэн үед асаалттай байна.</translation>
+<translation id="2972318514147518075">Таблет горимд товчлуур ашиглан нүүр лүү шилжих, буцах, аппуудын хооронд сэлгэх. FulldiveVox эсвэл Автомат товшилтыг идэвхжүүлсэн үед асаалттай байна.</translation>
 <translation id="2558896001721082624">Хандалтын сонголтыг системийн цэсэнд тогтмол харуулах</translation>
 <translation id="2981113813906970160">Том хулганын заагч сумыг харуулах</translation>
 <translation id="5072052264945641674">Курсорын хэмжээг тохируулах</translation>
 <translation id="4209092469652827314">Том</translation>
 <translation id="499165176004408815">Өндөр эрс тэсийн горимыг ашиглах</translation>
 <translation id="142758023928848008">Наах түлхүүрүүдийг идэвхжүүлэх (Тэдгээрийг дарааллуулан бичих замаар гарны богино холболтуудыг гүйцэтгэх)</translation>
-<translation id="5914872514449971753">DissenterVox-ыг идэвхжүүлнэ (ярьсан санал хүсэлт)</translation>
-<translation id="7099511550603534982">DissenterVox-н тохиргоог нээх</translation>
+<translation id="5914872514449971753">FulldiveVox-ыг идэвхжүүлнэ (ярьсан санал хүсэлт)</translation>
+<translation id="7099511550603534982">FulldiveVox-н тохиргоог нээх</translation>
 <translation id="8547013269961688403">Бүтэн дэлгэцийн томруулагчийг идэвхжүүлэх</translation>
 <translation id="8743390665131937741">Бүтэн дэлгэцийн томруулалтын түвшин:</translation>
 <translation id="7334274148831027933">Суурилуулсан томруулагчийг идэвхжүүлэх</translation>
@@ -3118,7 +3118,7 @@
 <translation id="6902066522699286937">Урьдчилан үзэх дуу хоолой</translation>
 <translation id="304747341537320566">Ярианы хөдөлгүүр</translation>
 <translation id="2755367719610958252">Хандалтын онцлогийг удирдах</translation>
-<translation id="1203953622051744249">Нэвтэрсэн бүртгэлүүдээ удирдана уу. Dissenter болон Gab AI Inc Play-н вэб сайт, апп болон өргөтгөл нь зөвшөөрлөөс хамаарч, таны хэрэглээг өөрчлөхийн тулд эдгээр бүртгэлийг ашиглаж болзошгүй. <ph name="LINK_BEGIN"/>Нэмэлт мэдээлэл авах<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Нэвтэрсэн бүртгэлүүдээ удирдана уу. Fulldive болон Gab AI Inc Play-н вэб сайт, апп болон өргөтгөл нь зөвшөөрлөөс хамаарч, таны хэрэглээг өөрчлөхийн тулд эдгээр бүртгэлийг ашиглаж болзошгүй. <ph name="LINK_BEGIN"/>Нэмэлт мэдээлэл авах<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Энд сургуулийн бүртгэлийг нэмж эсвэл хүүхдийн бүртгэлүүдийг удирдана уу. <ph name="LINK_BEGIN"/>Нэмэлт мэдээлэл авах<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Хаяг</translation>
 <translation id="6597148444736186483">Энэ төхөөрөмжийн үндсэн бүртгэлээс гарахын тулд дэлгэц дээрх цагийг товшино уу. Гарч ирэх цэсээс "Гарах" гэснийг товшино уу.</translation>
@@ -3190,7 +3190,7 @@
 <translation id="234889437187286781">Өгөгдлийг ачаалахад алдаа гарлаа</translation>
 <translation id="4660540330091848931">Хэмжээг өөрчилж байна</translation>
 <translation id="1481537595330271162">Дискийн хэмжээг өөрчлөхөд алдаа гарлаа</translation>
-<translation id="2756917833575664962">ADB алдаа засахыг идэвхжүүлэхийн тулд энэ Dissenterbook-г үйлдвэрийн тохиргоонд шинэчлэх шаардлагатай. <ph name="BEGIN_LINK_LEARN_MORE"/>Нэмэлт мэдээлэл авах<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">ADB алдаа засахыг идэвхжүүлэхийн тулд энэ Fulldivebook-г үйлдвэрийн тохиргоонд шинэчлэх шаардлагатай. <ph name="BEGIN_LINK_LEARN_MORE"/>Нэмэлт мэдээлэл авах<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">ADB алдаа засахыг идэвхжүүлэхийн тулд энэ <ph name="DEVICE_TYPE"/>-г дахин эхлүүлэх шаардлагатай. Үүнийг идэвхгүй болгоход үйлдвэрийн тохиргоонд шинэчлэх шаардлагатай.</translation>
 <translation id="8082390128630131497">ADB алдаа засахыг идэвхгүй болгосноор энэ <ph name="DEVICE_TYPE"/>-г үйлдвэрийн тохиргоонд шинэчилнэ. Бүх хэрэглэгчийн бүртгэл болон дотоод өгөгдлийг устах болно.</translation>
 <translation id="7932969338829957666">Хуваалцсан фолдер Linux-д <ph name="BASE_DIR"/>-р боломжтой.</translation>
@@ -3318,10 +3318,10 @@
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> цаашид боломжгүй байна</translation>
 <translation id="3976108569178263973">Боломжтой хэвлэгч алга байна.</translation>
 <translation id="217576141146192373">Хэвлэгчийг нэмэх боломжгүй байна. Хэвлэгчийнхээ тохируулгыг шалгаад дахин оролдоно уу.</translation>
-<translation id="4052689580269971502">Хэвлэгчийг холбох боломжгүй байна. Хэвлэгчийг асаасан болон таны Dissenterbook-д Wi-Fi эсвэл USB-р холбогдсон эсэхийг шалгана уу.</translation>
+<translation id="4052689580269971502">Хэвлэгчийг холбох боломжгүй байна. Хэвлэгчийг асаасан болон таны Fulldivebook-д Wi-Fi эсвэл USB-р холбогдсон эсэхийг шалгана уу.</translation>
 <translation id="7099337801055912064">Том PPD-г ачааллах боломжгүй байна. Хамгийн дээд хэмжээ нь 250 kB болно.</translation>
 <translation id="4310139701823742692">Файлын формат буруу байна. PPD файлыг шалгаад дахин оролдоно уу.</translation>
-<translation id="6580983683519551561">PPD-г олж чадсангүй. Dissenterbook-ээ онлайн эсэхийг шалгаад дахин оролдоно уу.</translation>
+<translation id="6580983683519551561">PPD-г олж чадсангүй. Fulldivebook-ээ онлайн эсэхийг шалгаад дахин оролдоно уу.</translation>
 <translation id="4694024090038830733">Админ хэвлэгчийн тохиргоог зохицуулж байна.</translation>
 <translation id="5816434091619127343">Хэвлэгчийг хүссэний дагуу өөрчилснөөр хэвлэгчийг ашиглах боломжгүй болно.</translation>
 <translation id="6504611359718185067">Хэвлэгч нэмэхийн тулд интернэтэд холбогдоно уу</translation>
@@ -3657,18 +3657,18 @@
 <translation id="7770651108375708429">Wi-Fi-г салгах</translation>
 <translation id="4168015872538332605"><ph name="PRIMARY_EMAIL"/>-тэй холбоотой зарим тохиргоог танд үзүүлэх боломжтой болгосон байна. Энэхүү тохиргоо нь зөвхөн олон нэрээр зэрэг хандалт хийж байх үед таны хаягт нөлөөлөх болно.</translation>
 <translation id="1485141095922496924"><ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/> хувилбар</translation>
-<translation id="4570609078116869893">Бүх хэрэглэгчид Dissenter-г автоматаар шинэчилнэ үү</translation>
+<translation id="4570609078116869893">Бүх хэрэглэгчид Fulldive-г автоматаар шинэчилнэ үү</translation>
 <translation id="7102687220333134671">Автомат шинэчлэлтийг асаасан</translation>
 <translation id="6981982820502123353">Хандалт</translation>
-<translation id="5840822070878669614">Dissenter Вэб Дэлгүүр нээх</translation>
+<translation id="5840822070878669614">Fulldive Вэб Дэлгүүр нээх</translation>
 <translation id="6073903501322152803">Хандалтын онцлогийг нэмэх</translation>
 <translation id="7988355189918024273">Хүртээмжтэй онцлогийг идэвхжүүлэх</translation>
-<translation id="5499063270485366718">Хэрэв зурагт хэрэгтэй тайлбар байхгүй бол Dissenter танд тайлбар өгөхөөр оролдох болно. Тайлбар үүсгэхийн тулд зургийг Gab AI Inc-д илгээнэ.</translation>
+<translation id="5499063270485366718">Хэрэв зурагт хэрэгтэй тайлбар байхгүй бол Fulldive танд тайлбар өгөхөөр оролдох болно. Тайлбар үүсгэхийн тулд зургийг Gab AI Inc-д илгээнэ.</translation>
 <translation id="8957762313041272117">Шууд тайлбар</translation>
-<translation id="7075426315046750605">Шууд тайлбар нь медианы яриаг илрүүлж, Dissenter дээр тоглуулж буй бүх медиад автоматаар хадмал үүсгэдэг.</translation>
+<translation id="7075426315046750605">Шууд тайлбар нь медианы яриаг илрүүлж, Fulldive дээр тоглуулж буй бүх медиад автоматаар хадмал үүсгэдэг.</translation>
 <translation id="572155275267014074">Андройдын тохиргоо</translation>
 <translation id="7201042526153088083"><ph name="DEVICE_TYPE"/> дээрээ Gab AI Inc Play-с апп, тоглоом суулгах. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Нэмэлт мэдээлэл авах&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Таны Gab AI Inc Play-с татсан апп-г энэ Dissenterbook-с устгах болно.
+<translation id="8039595758121742506">Таны Gab AI Inc Play-с татсан апп-г энэ Fulldivebook-с устгах болно.
       <ph name="LINE_BREAKS1"/>
       Таны авсан кино, ТВ шоу, хөгжим, ном зэрэг агуулга, эсвэл бусад аппын худалдан авалтыг устгаж болзошгүй.
       <ph name="LINE_BREAKS2"/>
@@ -3682,7 +3682,7 @@
 <translation id="6006484371116297560">Сонгодог</translation>
 <translation id="1795214765651529549">Сонгодог загварыг ашиглах</translation>
 <translation id="2332742915001411729">Өгөгдмөл горимыг дахин тохируулах</translation>
-<translation id="8338457030135232378">Dissenter-н өнгө</translation>
+<translation id="8338457030135232378">Fulldive-н өнгө</translation>
 <translation id="827097179112817503">Нүүр хуудас хэсгийн товчлуурыг харуулах</translation>
 <translation id="383007806262310953">Хавчуургын хэсгийг харуулах</translation>
 <translation id="3911824782900911339">Шинэ хуудас</translation>
@@ -3694,7 +3694,7 @@
 <translation id="1670399744444387456">Үндсэн</translation>
 <translation id="1763808908432309942">Шинэ чихтэй хуудсанд нээх</translation>
 <translation id="6248988683584659830">Хайлтын тохиргоо</translation>
-<translation id="883304095704384301">Хэрэв та хайж байгаа зүйлээ олохгүй байвал <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Dissenter тусламж<ph name="END_LINK_CHROMIUM"/> хэсэгт очно уу</translation>
+<translation id="883304095704384301">Хэрэв та хайж байгаа зүйлээ олохгүй байвал <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive тусламж<ph name="END_LINK_CHROMIUM"/> хэсэгт очно уу</translation>
 <translation id="6406708970972405507">Тохиргоо - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Дэд хуудасны товчлуур</translation>
 <translation id="379509625511193653">Унтраалттай</translation>
@@ -3881,7 +3881,7 @@
 <translation id="5468173180030470402">Файл хуваалцахыг хайж байна</translation>
 <translation id="3336664756920573711"><ph name="DEVICE_TYPE"/>-н түгжээг Андройд утсаараа тайлна уу.</translation>
 <translation id="1164674268730883318"><ph name="DEVICE_TYPE"/>-н Smart Lock-г унтраах уу?</translation>
-<translation id="2739030071582769583">Хэрэв та <ph name="DEVICE_TYPE"/>-д зориулсан Smart Lock-г унтраавал Dissenter төхөөрөмжийнхөө түгжээг утсаараа тайлах боломжгүй болно. Та нууц үг оруулах шаардлагатай болно.</translation>
+<translation id="2739030071582769583">Хэрэв та <ph name="DEVICE_TYPE"/>-д зориулсан Smart Lock-г унтраавал Fulldive төхөөрөмжийнхөө түгжээг утсаараа тайлах боломжгүй болно. Та нууц үг оруулах шаардлагатай болно.</translation>
 <translation id="4737715515457435632">Сүлжээнд холбогдоно уу!</translation>
 <translation id="5425722269016440406">Энэ тохиргоо нь таны утас болон бусад төхөөрөмжид синхрончлогдсон тул та Smart Lock-ыг унтраахын тулд онлайн байх хэрэгтэй. Эхлээд сүлжээнд холбогдоно уу.</translation>
 <translation id="8885197664446363138">Smart Lock боломжгүй байна</translation>
@@ -4115,20 +4115,20 @@
 <translation id="3633309367764744750">Таны хараахан зочлоогүй байгаа хуудаснуудыг оролцуулаад хуудаснаас мэдээллийг урьдчилан татдаг. Хэрэв та күүкиг зөвшөөрдөг бол татсан мэдээлэл нь күүки агуулж болзошгүй.</translation>
 <translation id="3201899458094819285">Аюулгүй хөтөч (таныг болон таны төхөөрөмжийг аюултай сайтаас хамгаалдаг)</translation>
 <translation id="2876369937070532032">Таны аюулгүй байдал эрсдэлд орох үед таны зочилдог зарим хуудсын URL-г Gab AI Inc-д илгээдэг</translation>
-<translation id="4991384657077828949">Dissenter-н аюулгүй байдлыг сайжруулахад туслах</translation>
+<translation id="4991384657077828949">Fulldive-н аюулгүй байдлыг сайжруулахад туслах</translation>
 <translation id="1984646864943401749">Шинэ аюул заналыг олж илрүүлэх болон вэб дээрх бүх хүнийг хамгаалахад туслахын тулд таны зочилдог зарим хуудасны URL, системийн хязгаарлагдмал мэдээлэл болон хуудасны зарим контентыг Gab AI Inc рүү илгээдэг.</translation>
 <translation id="1641113438599504367">Аюулгүй хайлт</translation>
 <translation id="6900532703269623216">Сайжруулсан хамгаалалт</translation>
 <translation id="7307583170263691471">Аюултай вэб сайт, таталт болон өргөтгөлийн эсрэг илүү хурдан, идэвхтэй хамгаалалт. Танд нууц үгний зөрчлийн тухай анхааруулга өгдөг. Хайлтын өгөгдлийг Gab AI Inc-д илгээхийг шаарддаг.</translation>
 <translation id="8645920082661222035">Аюултай үйл явдлын тухай урьдчилан таамаглаж, тохиолдохоос нь өмнө танд анхааруулга өгдөг</translation>
-<translation id="5265419033369521352">Таныг нэвтэрсэн үед Dissenter дээр таны аюулгүй байдлыг хангадаг бөгөөд Gab AI Inc-н бусад апп дахь таны аюулгүй байдлыг сайжруулахын тулд ашиглагдах боломжтой</translation>
+<translation id="5265419033369521352">Таныг нэвтэрсэн үед Fulldive дээр таны аюулгүй байдлыг хангадаг бөгөөд Gab AI Inc-н бусад апп дахь таны аюулгүй байдлыг сайжруулахын тулд ашиглагдах боломжтой</translation>
 <translation id="6770602306803890733">Таны болон вэб дэх хүн бүрийн аюулгүй байдлыг сайжруулдаг</translation>
 <translation id="3690369331356918524">Өгөгдлийн зөрчлийн улмаас нууц үгийг задруулсан бол танд анхааруулга өгдөг</translation>
 <translation id="4979281249641199724">URL-г шалгуулахаар Аюулгүй хайлт руу илгээдэг. Мөн түүнчлэн, шинэ аюул заналыг олж илрүүлэхэд туслахын тулд хуудаснууд, таталтууд, өргөтгөлийн үйл ажиллагаа болон системийн мэдээллийн багахан хэсгийг илгээдэг. Таныг нэвтэрсэн үед Gab AI Inc аппууд дээр таныг хамгаалахын тулд энэ өгөгдлийг таны Gab AI Inc Бүртгэлтэй түр хугацаанд холбоно.</translation>
 <translation id="1963976881984600709">Стандарт хамгаалалт</translation>
 <translation id="6882836635272038266">Аюултай гэж мэдэгдсэн вэб сайт, таталт болон өргөтгөлийн эсрэг стандарт хамгаалалт.</translation>
 <translation id="5561162485081632007">Аюултай үйл явдал тохиолдох үед түүнийг илрүүлж, танд анхааруулдаг</translation>
-<translation id="7810992039564280750">URL-г Dissenter-д хадгалсан аюултай сайтын жагсаалттай харьцуулж шалгадаг. Хэрэв сайт таны нууц үгийг хулгайлах гэж оролдвол эсвэл таныг аюултай файл татах үед Dissenter нь хуудасны бага зэрэг контентын хамт URL-г Аюулгүй хайлт руу мөн илгээж болзошгүй.</translation>
+<translation id="7810992039564280750">URL-г Fulldive-д хадгалсан аюултай сайтын жагсаалттай харьцуулж шалгадаг. Хэрэв сайт таны нууц үгийг хулгайлах гэж оролдвол эсвэл таныг аюултай файл татах үед Fulldive нь хуудасны бага зэрэг контентын хамт URL-г Аюулгүй хайлт руу мөн илгээж болзошгүй.</translation>
 <translation id="3847319713229060696">Хүн бүрийн төлөө вэбийн аюулгүй байдлыг сайжруулахад туслах</translation>
 <translation id="1984417487208496350">Хамгаалалт байхгүй (зөвлөдөггүй)</translation>
 <translation id="1295971429974142731">Таныг аюултай вэб сайт, таталт болон өргөтгөлөөс хамгаалахгүй. Гэхдээ та Аюулгүй үзэх хамгаалалтыг Gmail, Хайлт зэрэг Gab AI Inc-н боломжтой бусад үйлчилгээнд авсан хэвээр байна.</translation>
@@ -4184,7 +4184,7 @@
 <translation id="8632933437936028548">Тохиргоог шинэчлэх</translation>
 <translation id="5293170712604732402">Тохиргоог анхны өгөгдмөлөөр сэргээх</translation>
 <translation id="892706138619340876">Зарим тохиргоог шинэчилсэн</translation>
-<translation id="2334029754052191847">Dissenter таны тохиргоонд өөр програмтай холбоотойгоор алдаа гарсныг илрүүлсэн тул тохиргоог үндсэн хэлбэрээр дахин тохируулна уу.</translation>
+<translation id="2334029754052191847">Fulldive таны тохиргоонд өөр програмтай холбоотойгоор алдаа гарсныг илрүүлсэн тул тохиргоог үндсэн хэлбэрээр дахин тохируулна уу.</translation>
 <translation id="4582563038311694664">Бүх тохиргоог дахин тохируулах</translation>
 <translation id="4146785383423576110">Шинэчлэх, цэвэрлэх</translation>
 <translation id="2603115962224169880">Компьютерийг цэвэрлэх</translation>
@@ -4253,7 +4253,7 @@
 <translation id="5340638867532133571">Сайтад төлбөр зохицуулагч суулгахыг зөвшөөрөх (санал болгосон)</translation>
 <translation id="763632859238619983">Аливаа сайтад төлбөр зохицуулагч суулгахыг бүү зөвшөөр</translation>
 <translation id="8270242299912238708">PDF документ</translation>
-<translation id="539658326146969381">PDF файлыг автоматаар Dissenter-д нээхийн оронд татна уу</translation>
+<translation id="539658326146969381">PDF файлыг автоматаар Fulldive-д нээхийн оронд татна уу</translation>
 <translation id="4434045419905280838">Попап болон дахин чиглүүлэлт</translation>
 <translation id="6612358246767739896">Хамгаалагдсан агуулга</translation>
 <translation id="4252852543720145436">Хамгаалагдсан агуулгын таниулбар</translation>
@@ -4314,7 +4314,7 @@
 <translation id="2913331724188855103">Cookie data-г хадгалах мөн унших боломжийг сайтуудад олгох (зөвлөж байна)</translation>
 <translation id="5908769186679515905">Сайтыг Flash ажиллуулах тохиргоог блоклох</translation>
 <translation id="783214144752121388">Сайтын Flash ажиллуулахыг блоклох (санал болгосон)</translation>
-<translation id="6096007141921397775">Dissenter-с гарах хүртэл таны анивчих тохиргоог хэвээр үлдээх болно.</translation>
+<translation id="6096007141921397775">Fulldive-с гарах хүртэл таны анивчих тохиргоог хэвээр үлдээх болно.</translation>
 <translation id="8074127646604999664">Өгөгдлийг гүйцэт илгээх, хүлээн авахын тулд сүүлд хаасан сайтыг зөвшөөрөх</translation>
 <translation id="7062222374113411376">Сүүлд хаасан сайтыг өгөгдлийг гүйцэт илгээх, хүлээн авахыг зөвшөөрөх (санал болгосон)</translation>
 <translation id="5068918910148307423">Сүүлд хаасан сайтыг өгөгдлийг гүйцэт хүлээн авах болон илгээхийг зөвшөөрөхгүй</translation>
@@ -4394,7 +4394,7 @@
 <translation id="5566692924079383101">Таныг одоогийн нууцлалтай харилцан үйлдлээс гарах үед энэ онцгой тохиолдлыг автоматаар хасах болно</translation>
 <translation id="383891835335927981">Томруулж, жижигрүүлсэн сайт алга</translation>
 <translation id="3566721612727112615">Нэмсэн сайт алга</translation>
-<translation id="8098574385249290065">Сайтуудад дуу тоглуулах боломжтой үеийг сонгох зөвшөөрлийг Dissenter-д олгох (санал болгосон)</translation>
+<translation id="8098574385249290065">Сайтуудад дуу тоглуулах боломжтой үеийг сонгох зөвшөөрлийг Fulldive-д олгох (санал болгосон)</translation>
 <translation id="4354344420232759511">Таны зочилдог сайтууд энд харагдана</translation>
 <translation id="3757733214359997190">Сайт олдсонгүй</translation>
 <translation id="6545864417968258051">Bluetooth скан хийх</translation>
@@ -4407,7 +4407,7 @@
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Сайт нэмэх</translation>
 <translation id="5052499409147950210">Сайтыг засах</translation>
-<translation id="4610862967073369855">Андройд Мессежийг таны утаснаас таны Dissenterbook-д мессеж илгээхийг зөвшөөрдөг</translation>
+<translation id="4610862967073369855">Андройд Мессежийг таны утаснаас таны Fulldivebook-д мессеж илгээхийг зөвшөөрдөг</translation>
 <translation id="6742339027238151589">Скриптэд хандах боломжтой</translation>
 <translation id="361106536627977100">Флэш дата</translation>
 <translation id="8557930019681227453">Тодорхойлогч файл</translation>
@@ -4484,23 +4484,23 @@
 <translation id="3817524650114746564">Компьютерынхоо прокси тохиргоог нээнэ үү</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> өргөтгөлийн прокси тохиргоог ашиглаж байна</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> таны администраторын прокси тохиргоог ашиглаж байна</translation>
-<translation id="6187156085111579405">Энд жагсаагаагүй зүйлсийг шаардлагатай бол устгаж болно. Dissenter-н нууцлалын цагаан хуудаснаас &lt;a href="<ph name="URL"/>"&gt;хүсээгүй програм хангамжийн хамгаалалтын&lt;/a&gt; талаар дэлгэрэнгүй үзнэ үү.</translation>
+<translation id="6187156085111579405">Энд жагсаагаагүй зүйлсийг шаардлагатай бол устгаж болно. Fulldive-н нууцлалын цагаан хуудаснаас &lt;a href="<ph name="URL"/>"&gt;хүсээгүй програм хангамжийн хамгаалалтын&lt;/a&gt; талаар дэлгэрэнгүй үзнэ үү.</translation>
 <translation id="5280174558369304332">Устгах өргөтгөлүүд:</translation>
 <translation id="7712836429117959503"><ph name="EXTENSION_ID"/> ID-тай үл мэдэгдэх өргөтгөл</translation>
 <translation id="3281892622610078515">Тусгаарлах файл болон программ:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 зүйл}other{{NUM_ITEMS} зүйл}}</translation>
 <translation id="7187428571767585875">Устгах эсвэл өөрчлөх бүртгэлийн бичилтүүд:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{Өөр 1}other{Бусад {NUM_DOWNLOADS}}}</translation>
-<translation id="2749608811030566578">Dissenter хортой програм хангамжийг устгах явцад алдаа гарлаа</translation>
-<translation id="8189483132214844139">Dissenter таны компьютероос хортой програм хангамжийг олж устгах боломжтой</translation>
+<translation id="2749608811030566578">Fulldive хортой програм хангамжийг устгах явцад алдаа гарлаа</translation>
+<translation id="8189483132214844139">Fulldive таны компьютероос хортой програм хангамжийг олж устгах боломжтой</translation>
 <translation id="1426870617281699524">Дахин оролдох гэсэн сонголтыг дараад компьютертоо гарч ирэх сануулгыг зөвшөөрнө үү</translation>
-<translation id="7886744396008377537">Таны компьютер дээр аюултай программ хангамж байна. Dissenter үүнийг устгаж, таны тохиргоог сэргээж, өргөтгөлүүдийг идэвхгүй болгож байна. Ингэснээр таны хөтчийн ажиллагааг дахин хэвийн болгоно.</translation>
-<translation id="1484912962860902625">Dissenter хортой програм хангамжийг хайх явцад алдаа гарлаа</translation>
+<translation id="7886744396008377537">Таны компьютер дээр аюултай программ хангамж байна. Fulldive үүнийг устгаж, таны тохиргоог сэргээж, өргөтгөлүүдийг идэвхгүй болгож байна. Ингэснээр таны хөтчийн ажиллагааг дахин хэвийн болгоно.</translation>
+<translation id="1484912962860902625">Fulldive хортой програм хангамжийг хайх явцад алдаа гарлаа</translation>
 <translation id="451407183922382411"><ph name="COMPANY_NAME"/>-р хүргэсэн</translation>
 <translation id="5254368820972107711">Устгах файлыг харуулах</translation>
 <translation id="296026337010986570">Боллоо! Аюултай програм хангамжийг устгасан. Өргөтгөлүүдийг буцааж асаахын тулд &lt;a href="chrome://extensions"&gt;Өргөтгөлүүд&lt;/a&gt; хэсэгт зочилно уу.</translation>
 <translation id="284975061945174219">Цэвэрлэж чадсангүй</translation>
-<translation id="9014750448058570312">Dissenter-д үргэлжлүүлэхийн тулд зөвшөөрөл шаардлагатай</translation>
+<translation id="9014750448058570312">Fulldive-д үргэлжлүүлэхийн тулд зөвшөөрөл шаардлагатай</translation>
 <translation id="1852141627593563189">Аюултай программ хангамжийг хайх</translation>
 <translation id="850875081535031620">Хортой програм олдсонгүй</translation>
 <translation id="1186771945450942097">Аюултай програмыг устгах</translation>
@@ -4513,7 +4513,7 @@
 <translation id="6555810572223193255">Одоогоор цэвэрлэх боломжгүй байна</translation>
 <translation id="7117228822971127758">Дараа дахин оролдоно уу</translation>
 <translation id="443475966875174318">Үл тохирох аппуудыг шинэчлэх эсвэл устгах</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Энэ апп Dissenter-г хэвийн ажиллахад саад болж байж болзошгүй.}other{Эдгээр апп Dissenter-г хэвийн ажиллахад саад болж байж болзошгүй.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Энэ апп Fulldive-г хэвийн ажиллахад саад болж байж болзошгүй.}other{Эдгээр апп Fulldive-г хэвийн ажиллахад саад болж байж болзошгүй.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Та вэбийг үргэлжлүүлэн үзэх боломжтой байхын тулд админаасаа энэ аппыг устгахыг хүснэ үү.}other{Та вэбийг үргэлжлүүлэн үзэх боломжтой байхын тулд админаасаа эдгээр аппыг устгахыг хүснэ үү.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Аппыг шинэчилж сурна уу<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{Апп}other{Аппууд}}</translation>
@@ -4596,13 +4596,13 @@
 <translation id="284843628681142937">Таны зочилсон хуудасны URL-г Gab AI Inc-д илгээдэг</translation>
 <translation id="7704317875155739195">Хайлт болон URL-г автоматаар гүйцээх</translation>
 <translation id="2000419248597011803">Таны өгөгдмөл хайлтын системд хаяг оруулах хэсэг, хайх хэсгийн зарим күүки болон хайлтыг илгээдэг</translation>
-<translation id="918192811481327695">Dissenter-н онцлог болон гүйцэтгэлийг сайжруулахад туслах</translation>
+<translation id="918192811481327695">Fulldive-н онцлог болон гүйцэтгэлийг сайжруулахад туслах</translation>
 <translation id="9063160602596686558">Хэрэглээний статистик мэдээ болон алдааны тайланг Gab AI Inc-д автоматаар илгээдэг</translation>
 <translation id="6697492270171225480">Хуудас олдоогүй үед төстэй хуудсын зөвлөмжийг харуулах</translation>
 <translation id="4534361985432360439">Таны хандахыг хүсэж буй хуудасны вэб хаягийг Gab AI Inc-д илгээдэг</translation>
 <translation id="3831436149286513437">Gab AI Inc Драйвын хайлтын зөвлөмж</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/>-д синк хийж байна</translation>
-<translation id="9125982323641182972">Dissenter-д Gab AI Inc smarts авах</translation>
+<translation id="9125982323641182972">Fulldive-д Gab AI Inc smarts авах</translation>
 <translation id="2537178555904266562">Нууц үгийг синк хийхэд алдаа гарлаа</translation>
 <translation id="4314815835985389558">Синк хийхийг удирдах</translation>
 <translation id="8931475688782629595">Юуг синк хийхээ удирдах</translation>
@@ -4620,7 +4620,7 @@
 <translation id="1651008383952180276">Та нэвтрэх үгээ хоёр удаа зөв оруулах шаардлагатай</translation>
 <translation id="988978206646512040">Хоосон нэвтрэх үг зөвшөөрдөггүй</translation>
 <translation id="2136476978468204130">Таны оруулсан нэвтрэх үг буруу байна</translation>
-<translation id="7505421639213002314">Dissenter синкийн өгөгдөл</translation>
+<translation id="7505421639213002314">Fulldive синкийн өгөгдөл</translation>
 <translation id="452750746583162491">Синк хийсэн өгөгдлөө шалгах</translation>
 <translation id="7956662517480676674">Синк болон Gab AI Inc-н үйлчилгээ</translation>
 <translation id="7772032839648071052">Нэвтрэх үгүүдийг баталгаажуул</translation>
@@ -4708,7 +4708,7 @@
 <translation id="7235716375204803342">Үйл ажиллагааг дуудаж байна...</translation>
 <translation id="8314381333424235892">Өргөтгөл байхгүй эсвэл устгагдсан</translation>
 <translation id="7647403192093989392">Саяхны үйл ажиллагаа байхгүй</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Dissenter Вэб Дэлгүүрээс<ph name="END_LINK"/> өргөтгөл, загвар олох</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Fulldive Вэб Дэлгүүрээс<ph name="END_LINK"/> өргөтгөл, загвар олох</translation>
 <translation id="7272674038937250585">Тайлбар алга</translation>
 <translation id="3855441664322950881">Өргөтгөлийг багцлах</translation>
 <translation id="2958721676848865875">Өргөтгөлийг багцлах анхааруулга</translation>
@@ -4719,7 +4719,7 @@
 <translation id="1992397118740194946">Суугдаагүй</translation>
 <translation id="6706210727756204531">Хамрах хүрээ</translation>
 <translation id="5532223876348815659">Дэлхий нийтийн</translation>
-<translation id="300669147395456190">Dissenter App</translation>
+<translation id="300669147395456190">Fulldive App</translation>
 <translation id="6787839852456839824">Компьютерийн гарын богино холбоос</translation>
 <translation id="6419546358665792306">Багцлаагүй өргөтгөлийг ачааллах</translation>
 <translation id="8023801379949507775">Өргөтгөлийг одоо шинэчил</translation>
@@ -4733,13 +4733,13 @@
 <translation id="8447409163267621480">Ctrl эсвэл Alt-н аль нэгийг агуулдаг</translation>
 <translation id="3365598184818502391">Ctrl эсвэл Alt-г ашиглана уу</translation>
 <translation id="1688935057616748272">Үсэг бичих</translation>
-<translation id="1579879232130925590">Илүү аюулгүй, илүү хурдан гүйцэтгэлтэй Dissenter</translation>
+<translation id="1579879232130925590">Илүү аюулгүй, илүү хурдан гүйцэтгэлтэй Fulldive</translation>
 <translation id="964057662886721376">Зарим өргөтгөл, ялангуяа таны суулгахыг хүсээгүй өргөтгөл нь таныг удаашруулж болзошгүй.</translation>
 <translation id="1499271269825557605">Хэрэв та өргөтгөлийг танихгүй эсвэл таны хөтөч сайн ажиллахгүй байвал та өргөтгөлийг эндээс унтраах эсвэл өөрчлөх боломжтой.</translation>
 <translation id="2382818385048255866">Өргөтгөлүүдээ шалгах</translation>
 <translation id="3900789207771372462">Зарим өргөтгөл нь хувийн мэдээлэл зэрэг таны хөтчийн үйл ажиллагааг харах боломжтой.</translation>
 <translation id="6772339735733515807">Өргөтгөлүүдээ удирдах</translation>
-<translation id="1510515462062582289">Та энэ хуудсан дээр Dissenter-д суулгасан бүх өргөтгөлийг харах боломжтой.</translation>
+<translation id="1510515462062582289">Та энэ хуудсан дээр Fulldive-д суулгасан бүх өргөтгөлийг харах боломжтой.</translation>
 <translation id="2810390687497823527">Хэрэв та өргөтгөлийг танихгүй эсвэл таны хөтөч сайн ажиллахгүй байвал та өргөтгөлийг эндээс унтраах эсвэл өөрчлөх боломжтой.</translation>
 <translation id="4479424953165245642">Kiosk аппуудыг удирдах</translation>
 <translation id="6619801788773578757">Киоск апп нэмэх</translation>
@@ -4755,9 +4755,9 @@
 <translation id="2342740338116612727">Хавчуурга нэмсэн</translation>
 <translation id="7835178595033117206">Хавчуургыг устгасан</translation>
 <translation id="742130257665691897">Хавчуургыг устгасан</translation>
-<translation id="5468853758063275923">Dissenter таны өгөгдмөл хөтөч</translation>
+<translation id="5468853758063275923">Fulldive таны өгөгдмөл хөтөч</translation>
 <translation id="2950533317914339731">Дуртай Gab AI Inc Аппууддаа хавчуурга нэмэх</translation>
-<translation id="939305735877869636">Dissenter</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Газрын зураг</translation>
 <translation id="6709133671862442373">Мэдээ</translation>
@@ -4770,13 +4770,13 @@
 <translation id="5033266061063942743">Геометрийн дүрс</translation>
 <translation id="7789963078219276159">Эхлүүлэх хуудасны арын дэвсгэрийг <ph name="CATEGORY"/> болгож өөрчиллөө.</translation>
 <translation id="8771300903067484968">Эхлэх хуудасны арын дэвсгэрийг өгөгдмөл арын дэвсгэрээр шинэчиллээ.</translation>
-<translation id="239760341987199724">Dissenter-ыг өөрийн анхдагч вэб хөтөч болгон тохируулах</translation>
+<translation id="239760341987199724">Fulldive-ыг өөрийн анхдагч вэб хөтөч болгон тохируулах</translation>
 <translation id="96037229054033864">Хөтчийг ашиглах бүрдээ Gab AI Inc Хайлт болон Gab AI Inc smarts-г аваарай</translation>
-<translation id="296137235951584143">Dissenter-г хүссэнээрээ тохируулаарай</translation>
+<translation id="296137235951584143">Fulldive-г хүссэнээрээ тохируулаарай</translation>
 <translation id="3982375475032951137">Хөтчөө энгийн хэдэн алхмаар тохируулна уу</translation>
 <translation id="6972754398087986839">Эхлүүлэх</translation>
-<translation id="3707821975049107110">Dissenter-н хэрэглэгч үү? Нэвтэрнэ үү</translation>
-<translation id="7113572760575285642">Dissenter-г хүссэн газраа</translation>
+<translation id="3707821975049107110">Fulldive-н хэрэглэгч үү? Нэвтэрнэ үү</translation>
+<translation id="7113572760575285642">Fulldive-г хүссэн газраа</translation>
 <translation id="567643736130151854">Хавчуурга, нууц үг болон бусад зүйлээ бүх төхөөрөмжид авахын тулд нэвтрээд, синкийг асаана уу</translation>
 <translation id="725758059478686223">Хэвлэх үйлчилгээ</translation>
 <translation id="15662109988763471">Сонгосон хэвлэгч боломжгүй эсвэл буруу суулгагдсан байна. Хэвлэгчээ шалгах эсвэл өөр хэвлэгч сонгож үзнэ үү.</translation>
@@ -4899,7 +4899,7 @@
 <translation id="7574650250151586813">Текст бичихийн тулд Daydream гарын аппыг шинэчилнэ үү</translation>
 <translation id="983511809958454316">Энэ онцлогийг VR-д дэмжээгүй</translation>
 <translation id="4008291085758151621">Сайтын мэдээлэл VR-д боломжгүй байна</translation>
-<translation id="1439926347196400598">Dissenter-д аудио бичихийг зөвшөөрөх үү?</translation>
+<translation id="1439926347196400598">Fulldive-д аудио бичихийг зөвшөөрөх үү?</translation>
 <translation id="6313641880021325787">VR-С ГАРАХ</translation>
 <translation id="2670429602441959756">Энэ хуудас VR-д дэмжээгүй онцлог агуулсан байна. Гарч байна...</translation>
 <translation id="1802687198411089702">Хуудас хариу өгөхгүй байна. Та хариу өгтөл нь хүлээх эсвэл гарах боломжтой.</translation>
@@ -4921,7 +4921,7 @@
 <translation id="1721312023322545264">Та энэ сайтад зочлохын тулд <ph name="NAME"/>-с зөвшөөрөл авах шаардлагатай</translation>
 <translation id="7543525346216957623">Эцэг эхээсээ асууна уу</translation>
 <translation id="471880041731876836">Танд энэ сайтад зочлох зөвшөөрөл алга</translation>
-<translation id="3480834636742786788">Энэ аппыг ашиглахын өмнө Dissenter-г эхлүүлж, нэвтэрнэ үү.</translation>
+<translation id="3480834636742786788">Энэ аппыг ашиглахын өмнө Fulldive-г эхлүүлж, нэвтэрнэ үү.</translation>
 <translation id="2851634818064021665">Та энэ сайтад зочлохын тулд зөвшөөрөл авах шаардлагатай</translation>
 <translation id="4933782374919065856">Асуух зүйл байвал профайлынхаа хянагчтай холбогдоно уу.</translation>
 <translation id="2712173769900027643">Зөвшөөрөл авах</translation>
@@ -4941,7 +4941,7 @@
 <translation id="7755287808199759310">Таны эцэг эх үүнийг блокоос гаргах боломжтой</translation>
 <translation id="5732392974455271431">Таны эцэг эх үүнийг блокоос гаргах боломжтой</translation>
 <translation id="3556433843310711081">Таны менежер үүнийг блокоос гаргах боломжтой</translation>
-<translation id="1254756632288991504">Dissenter-г эхлүүлж, нэвтэрснээр Dissenter таныг энэ сайтад хандах эрхтэй эсэхийг шалгах болно.</translation>
+<translation id="1254756632288991504">Fulldive-г эхлүүлж, нэвтэрснээр Fulldive таныг энэ сайтад хандах эрхтэй эсэхийг шалгах болно.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/>-г түр зогсоосон</translation>
 <translation id="8015163965024115122">Таны эцэг эхийн <ph name="IDS_SHORT_PRODUCT_NAME"/> эсвэл <ph name="IDS_SHORT_PRODUCT_NAME"/> апп дээр тохируулсан хязгаарлалтын хугацаа дууссан байна.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/>-г түр зогсоосон</translation>

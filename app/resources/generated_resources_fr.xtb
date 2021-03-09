@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Supprimer</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> sélectionnés</translation>
 <translation id="5582839680698949063">Menu principal</translation>
-<translation id="3700405816184340252">Historique Dissenter</translation>
+<translation id="3700405816184340252">Historique Fulldive</translation>
 <translation id="7602079150116086782">Aucun onglet depuis d'autres appareils.</translation>
 <translation id="4619615317237390068">Onglets d'autres appareils</translation>
-<translation id="82609232232243542">Connectez-vous à Dissenter</translation>
+<translation id="82609232232243542">Connectez-vous à Fulldive</translation>
 <translation id="4627442949885028695">Continuer sur un autre appareil</translation>
-<translation id="7253276740368043692">Connectez-vous à Dissenter pour accéder à vos onglets sur vos autres appareils.</translation>
+<translation id="7253276740368043692">Connectez-vous à Fulldive pour accéder à vos onglets sur vos autres appareils.</translation>
 <translation id="6351063337294363751">Vous pouvez effacer vos données de navigation à partir de ce menu.</translation>
 <translation id="6040143037577758943">Fermer</translation>
 <translation id="6463795194797719782">&amp;Modifier</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Préférences...</translation>
 <translation id="5801568494490449797">Préférences</translation>
 <translation id="3677911431265050325">Demander le site mobile</translation>
-<translation id="236470849334943016">Les conditions d'utilisation de Dissenter vont changer le 31 mars</translation>
+<translation id="236470849334943016">Les conditions d'utilisation de Fulldive vont changer le 31 mars</translation>
 <translation id="1032605640136438169">Veuillez consulter les nouvelles conditions</translation>
 <translation id="8712637175834984815">OK</translation>
 <translation id="5007392906805964215">Afficher</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Redémarrer</translation>
 <translation id="3479552764303398839">Pas maintenant</translation>
 <translation id="1008557486741366299">Pas maintenant</translation>
-<translation id="8201192017531062522">Dissenter continuera à fonctionner tant que des applications Dissenter sont ouvertes.</translation>
-<translation id="7397305826909094212">Quitter toutes les applications Dissenter</translation>
+<translation id="8201192017531062522">Fulldive continuera à fonctionner tant que des applications Fulldive sont ouvertes.</translation>
+<translation id="7397305826909094212">Quitter toutes les applications Fulldive</translation>
 <translation id="5026874946691314267">Ne plus afficher ce message</translation>
 <translation id="91568222606626347">Créer un raccourci…</translation>
 <translation id="2783321960289401138">Créer un raccourci…</translation>
@@ -821,11 +821,11 @@ Assurez-vous de ne pas dévoiler d'informations sensibles.</translation>
 <translation id="5799508265798272974">Machine virtuelle Linux : <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Plug-in de machine virtuelle : <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">Analyseur IPP</translation>
-<translation id="7171242884588191792">Utilitaires de fichiers Dissenter</translation>
+<translation id="7171242884588191792">Utilitaires de fichiers Fulldive</translation>
 <translation id="3183139917765991655">Importation de profils</translation>
 <translation id="7367714965999718019">Générateur de code QR</translation>
 <translation id="2190069059097339078">Obtention des identifiants Wi-Fi</translation>
-<translation id="5920835625712313205">Écriture des images système Dissenter OS</translation>
+<translation id="5920835625712313205">Écriture des images système Fulldive OS</translation>
 <translation id="4873312501243535625">Vérification de fichiers multimédias</translation>
 <translation id="5972666587303800813">Service expérimental</translation>
 <translation id="1545775234664667895">Thème "<ph name="THEME_NAME"/>" installé</translation>
@@ -852,14 +852,14 @@ Assurez-vous de ne pas dévoiler d'informations sensibles.</translation>
 <translation id="3507421388498836150">Autorisations actuelles pour <ph name="EXTENSION_NAME"/></translation>
 <translation id="5242724311594467048">Activer "<ph name="EXTENSION_NAME"/>" ?</translation>
 <translation id="4014432863917027322">Réparer "<ph name="EXTENSION_NAME"/>" ?</translation>
-<translation id="5173189340601754836">Une application qui risque de modifier le fonctionnement de Dissenter a été ajoutée sur votre ordinateur via un autre programme.
+<translation id="5173189340601754836">Une application qui risque de modifier le fonctionnement de Fulldive a été ajoutée sur votre ordinateur via un autre programme.
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Une extension qui risque de modifier le fonctionnement de Dissenter a été ajoutée via un autre programme sur votre ordinateur.
+<translation id="6654312501894761082">Une extension qui risque de modifier le fonctionnement de Fulldive a été ajoutée via un autre programme sur votre ordinateur.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Un thème qui risque de modifier le fonctionnement de Dissenter a été ajouté via un autre programme sur votre ordinateur.
+<translation id="3225882094369124157">Un thème qui risque de modifier le fonctionnement de Fulldive a été ajouté via un autre programme sur votre ordinateur.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Activer l'extension</translation>
@@ -868,7 +868,7 @@ Assurez-vous de ne pas dévoiler d'informations sensibles.</translation>
 <translation id="3908501907586732282">Activer l'extension</translation>
 <translation id="2327492829706409234">Activer l'application</translation>
 <translation id="175772926354468439">Activer le thème</translation>
-<translation id="5267531627648004734">Supprimer de Gab AI Inc Dissenter</translation>
+<translation id="5267531627648004734">Supprimer de Gab AI Inc Fulldive</translation>
 <translation id="4998873842614926205">Confirmer les modifications</translation>
 <translation id="1799071797295057738">L'extension "<ph name="EXTENSION_NAME"/>" a été désactivée automatiquement.</translation>
 <translation id="5238278114306905396">L'application "<ph name="EXTENSION_NAME"/>" a été automatiquement supprimée.</translation>
@@ -876,7 +876,7 @@ Assurez-vous de ne pas dévoiler d'informations sensibles.</translation>
 <translation id="4522570452068850558">Détails</translation>
 <translation id="4340515029017875942"><ph name="ORIGIN"/> souhaite communiquer avec l'application "<ph name="EXTENSION_NAME"/>".</translation>
 <translation id="4918021164741308375"><ph name="ORIGIN"/> souhaite communiquer avec l'extension "<ph name="EXTENSION_NAME"/>".</translation>
-<translation id="8353683614194668312">Cette extension Dissenter peut :</translation>
+<translation id="8353683614194668312">Cette extension Fulldive peut :</translation>
 <translation id="1485015260175968628">Elle peut désormais :</translation>
 <translation id="3788401245189148511">Elle pourrait :</translation>
 <translation id="1965624977906726414">Ne dispose d'aucune autorisation spéciale.</translation>
@@ -1004,7 +1004,7 @@ Assurez-vous de ne pas dévoiler d'informations sensibles.</translation>
 <translation id="1616298854599875024">Impossible d'importer l'extension <ph name="IMPORT_NAME"/>, car il ne s'agit pas d'un module partagé</translation>
 <translation id="2131077480075264">Impossible d'installer l'application "<ph name="APP_NAME"/>", car elle n'est pas autorisée par "<ph name="IMPORT_NAME"/>".</translation>
 <translation id="1875387611427697908">Cet élément doit être installé depuis le <ph name="CHROME_WEB_STORE"/></translation>
-<translation id="3862788408946266506">L'application dont le fichier manifeste comporte un attribut "kiosk_only" doit être installée en mode Kiosque pour Dissenter OS</translation>
+<translation id="3862788408946266506">L'application dont le fichier manifeste comporte un attribut "kiosk_only" doit être installée en mode Kiosque pour Fulldive OS</translation>
 <translation id="3834775135533257713">Impossible d'ajouter l'application <ph name="TO_INSTALL_APP_NAME"/>, car elle crée un conflit avec <ph name="INSTALLED_APP_NAME"/>.</translation>
 <translation id="144518587530125858">Impossible de charger "<ph name="IMAGE_PATH"/>" pour le thème.</translation>
 <translation id="3576324189521867626">L'application a bien été installée.</translation>
@@ -1107,9 +1107,9 @@ Conservez votre fichier de clé en lieu sûr. Vous en aurez besoin lors de la cr
 <translation id="6101226222197207147">Nouvelle application (<ph name="EXTENSION_NAME"/>) ajoutée.</translation>
 <translation id="7818135753970109980">Nouveau thème (<ph name="EXTENSION_NAME"/>) ajouté.</translation>
 <translation id="9215293857209265904">"<ph name="EXTENSION_NAME"/>" ajoutée</translation>
-<translation id="6637045053447935202">Un autre programme sur votre ordinateur a ajouté une application qui risque de modifier le fonctionnement de Gab AI Inc Dissenter.</translation>
-<translation id="2015014930243978107">Un autre programme sur votre ordinateur a ajouté une extension qui risque de modifier le fonctionnement de Gab AI Inc Dissenter.</translation>
-<translation id="2060128809251156338">Un autre programme sur votre ordinateur a ajouté un thème qui risque de modifier le fonctionnement de Gab AI Inc Dissenter.</translation>
+<translation id="6637045053447935202">Un autre programme sur votre ordinateur a ajouté une application qui risque de modifier le fonctionnement de Gab AI Inc Fulldive.</translation>
+<translation id="2015014930243978107">Un autre programme sur votre ordinateur a ajouté une extension qui risque de modifier le fonctionnement de Gab AI Inc Fulldive.</translation>
+<translation id="2060128809251156338">Un autre programme sur votre ordinateur a ajouté un thème qui risque de modifier le fonctionnement de Gab AI Inc Fulldive.</translation>
 <translation id="2470702053775288986">Désactivation des extensions non compatibles</translation>
 <translation id="2809586584051668049">ainsi que <ph name="NUMBER_ADDITIONAL_DISABLED"/> autre(s) extension(s)</translation>
 <translation id="5301954838959518834">OK</translation>
@@ -1314,7 +1314,7 @@ Conservez votre fichier de clé en lieu sûr. Vous en aurez besoin lors de la cr
 <translation id="8017679124341497925">Raccourci modifié</translation>
 <translation id="1174073918202301297">Raccourci ajouté</translation>
 <translation id="2926085873880284723">Restaurer les raccourcis par défaut</translation>
-<translation id="5801450813341024983">Arrière-plans de Dissenter</translation>
+<translation id="5801450813341024983">Arrière-plans de Fulldive</translation>
 <translation id="2800760947029405028">Importer une image</translation>
 <translation id="8342861492835240085">Sélectionner une collection</translation>
 <translation id="3132996321662585180">Actualiser quotidiennement</translation>
@@ -1401,7 +1401,7 @@ Conservez votre fichier de clé en lieu sûr. Vous en aurez besoin lors de la cr
 <translation id="833986336429795709">Pour ouvrir ce lien, sélectionner une application</translation>
 <translation id="192494336144674234">Ouvrir avec</translation>
 <translation id="9053893665344928494">Mémoriser mon choix</translation>
-<translation id="5340857474604400806">Rester dans Dissenter</translation>
+<translation id="5340857474604400806">Rester dans Fulldive</translation>
 <translation id="3043581297103810752">De <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Navigation privée)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (invité)</translation>
@@ -1462,8 +1462,8 @@ Conservez votre fichier de clé en lieu sûr. Vous en aurez besoin lors de la cr
 <translation id="6686817083349815241">Enregistrer votre mot de passe</translation>
 <translation id="8141725884565838206">Gérer les mots de passe</translation>
 <translation id="8275038454117074363">Importer</translation>
-<translation id="3191314862567596053">Importer des mots de passe dans Dissenter</translation>
-<translation id="6368144843345980623">Exporter des mots de passe depuis Dissenter</translation>
+<translation id="3191314862567596053">Importer des mots de passe dans Fulldive</translation>
+<translation id="6368144843345980623">Exporter des mots de passe depuis Fulldive</translation>
 <translation id="8503813439785031346">Nom d'utilisateur</translation>
 <translation id="6657585470893396449">Mot de passe</translation>
 <translation id="5472627187093107397">Enregistrer les mots de passe pour ce site</translation>
@@ -1494,7 +1494,7 @@ Conservez votre fichier de clé en lieu sûr. Vous en aurez besoin lors de la cr
 <translation id="7052237160939977163">Envoyer des informations relatives au suivi des performances</translation>
 <translation id="5526928694260255286">Joindre les <ph name="BEGIN_LINK"/>journaux Bluetooth<ph name="END_LINK"/> (usage interne de Gab AI Inc)</translation>
 <translation id="3047644958362961983">Ces informations nous aident à mieux comprendre le problème que vous rencontrez avec l'Assistant. Elles sont conservées pendant un maximum de 90 jours et ne peuvent être consultées que par nos ingénieurs et nos équipes responsables du traitement des commentaires.</translation>
-<translation id="8545590844135745781">Afin de mieux analyser les problèmes liés au Bluetooth, les Gab AI Incurs peuvent fournir des journaux Bluetooth supplémentaires en plus de leurs rapports de commentaires. Lorsque cette option est cochée, le rapport contient les journaux btsnoop et HCI de la session en cours, qui ont été vérifiés pour retirer le maximum d'informations personnelles. Seuls les responsables du groupe de produits Dissenter OS ont accès aux journaux dans Listnr. Ceux-ci sont définitivement supprimés au bout de 90 jours.</translation>
+<translation id="8545590844135745781">Afin de mieux analyser les problèmes liés au Bluetooth, les Gab AI Incurs peuvent fournir des journaux Bluetooth supplémentaires en plus de leurs rapports de commentaires. Lorsque cette option est cochée, le rapport contient les journaux btsnoop et HCI de la session en cours, qui ont été vérifiés pour retirer le maximum d'informations personnelles. Seuls les responsables du groupe de produits Fulldive OS ont accès aux journaux dans Listnr. Ceux-ci sont définitivement supprimés au bout de 90 jours.</translation>
 <translation id="4206323443866416204">Rapport de commentaires</translation>
 <translation id="3681311097828166361">Merci de vos commentaires. Vous êtes hors connexion pour le moment, et votre rapport sera envoyé plus tard.</translation>
 <translation id="8713570323158206935">Envoyer des <ph name="BEGIN_LINK1"/>informations système<ph name="END_LINK1"/></translation>
@@ -1511,15 +1511,15 @@ Conservez votre fichier de clé en lieu sûr. Vous en aurez besoin lors de la cr
 <translation id="6885771755599377173">Aperçu des informations système</translation>
 <translation id="1016566241875885511">Informations supplémentaires (facultatif)</translation>
 <translation id="8026334261755873520">Effacer les données de navigation</translation>
-<translation id="4718442817388594217">Les données sélectionnées ont été supprimées de Dissenter et des appareils synchronisés. Votre compte Gab AI Inc conserve peut-être d'autres formes d'historique de navigation, comme vos recherches ou vos activités via d'autres services Gab AI Inc sur la page <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="7814200940910057384">Données de Dissenter effacées</translation>
+<translation id="4718442817388594217">Les données sélectionnées ont été supprimées de Fulldive et des appareils synchronisés. Votre compte Gab AI Inc conserve peut-être d'autres formes d'historique de navigation, comme vos recherches ou vos activités via d'autres services Gab AI Inc sur la page <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="7814200940910057384">Données de Fulldive effacées</translation>
 <translation id="7346909386216857016">OK</translation>
 <translation id="8493236660459102203">Micro :</translation>
 <translation id="3925573269917483990">Appareil photo :</translation>
 <translation id="648927581764831596">Aucun média disponible</translation>
 <translation id="4172051516777682613">Toujours afficher</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{ fenêtre pop-up bloquée}one{# fenêtre pop-up bloquée}other{# fenêtres pop-up bloquées}}</translation>
-<translation id="4156865452842056672">(pages d'erreur Dissenter)</translation>
+<translation id="4156865452842056672">(pages d'erreur Fulldive)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> risque de ne pas rester à jour</translation>
 <translation id="8590375307970699841">Configurer les mises à jour automatiques</translation>
 <translation id="8926389886865778422">Ne plus afficher ce message</translation>
@@ -1624,10 +1624,10 @@ Conservez votre fichier de clé en lieu sûr. Vous en aurez besoin lors de la cr
 <translation id="8658645149275195032"><ph name="APP_NAME"/> partage votre écran et un contenu audio avec <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> partage une fenêtre.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> partage une fenêtre avec <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> partage un onglet Dissenter.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> partage un onglet Dissenter avec <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> partage un onglet Dissenter et un contenu audio.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> partage un onglet Dissenter et un contenu audio avec <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> partage un onglet Fulldive.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> partage un onglet Fulldive avec <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> partage un onglet Fulldive et un contenu audio.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> partage un onglet Fulldive et un contenu audio avec <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">Masquer</translation>
 <translation id="890616557918890486">Modifier la source</translation>
 <translation id="7792388396321542707">Arrêter le partage</translation>
@@ -1650,7 +1650,7 @@ Conservez votre fichier de clé en lieu sûr. Vous en aurez besoin lors de la cr
 <translation id="4711067597921221305">Nous aider à améliorer <ph name="PRODUCT_NAME"/> en envoyant automatiquement les statistiques d'utilisation et les rapports d'erreur à Gab AI Inc</translation>
 <translation id="5972826969634861500">Lancer <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Aidez nos ingénieurs à trouver l'origine de ce plantage pour y apporter une solution. Dans la mesure du possible, indiquez précisément les étapes suivies. Chaque détail compte.</translation>
-<translation id="5418694430960033386">Gab AI Inc Dissenter n'avait pas suffisamment de mémoire ou le processus de la page Web a été arrêté pour une autre raison. Pour continuer, actualisez la page ou ouvrez-en une autre.</translation>
+<translation id="5418694430960033386">Gab AI Inc Fulldive n'avait pas suffisamment de mémoire ou le processus de la page Web a été arrêté pour une autre raison. Pour continuer, actualisez la page ou ouvrez-en une autre.</translation>
 <translation id="3065041951436100775">Commentaires relatifs à l'arrêt de l'onglet</translation>
 <translation id="3941565636838060942">Pour masquer l'accès à ce programme, vous devez le désinstaller
 au moyen de <ph name="CONTROL_PANEL_APPLET_NAME"/> dans le panneau de configuration.
@@ -1678,10 +1678,10 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="4980805016576257426">Cette extension contient des logiciels malveillants.</translation>
 <translation id="5522156646677899028">Cette extension contient une grave faille de sécurité.</translation>
 <translation id="6945695820322143954">Cette extension enfreint la politique du Web Store.</translation>
-<translation id="177808131755847449">Désactivée par Dissenter. Cette extension est peut-être dangereuse.</translation>
+<translation id="177808131755847449">Désactivée par Fulldive. Cette extension est peut-être dangereuse.</translation>
 <translation id="1434696352799406980">Cette fonctionnalité réinitialise la page de démarrage, la page Nouvel onglet, le moteur de recherche et les onglets épinglés. Elle désactive en outre toutes les extensions, et efface les données temporaires telles que les cookies. Vos favoris, votre historique et vos mots de passe enregistrés ne sont pas supprimés.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> souhaite rétablir vos paramètres.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> souhaite rétablir les valeurs par défaut des paramètres Dissenter. Suite à cette opération, votre page d'accueil, la page Nouvel onglet et le moteur de recherche seront la réinitialisés, vos extensions seront désactivées et tous les onglets épinglés seront supprimés. D'autres données temporaires et mises en cache seront également effacées, comme les cookies, les données relatives au contenu et les données de sites.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> souhaite rétablir les valeurs par défaut des paramètres Fulldive. Suite à cette opération, votre page d'accueil, la page Nouvel onglet et le moteur de recherche seront la réinitialisés, vos extensions seront désactivées et tous les onglets épinglés seront supprimés. D'autres données temporaires et mises en cache seront également effacées, comme les cookies, les données relatives au contenu et les données de sites.</translation>
 <translation id="7581462281756524039">Un outil de nettoyage</translation>
 <translation id="1233721473400465416">Paramètres régionaux</translation>
 <translation id="2907619724991574506">URL de démarrage</translation>
@@ -1875,7 +1875,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="6664774537677393800">Une erreur s'est produite lors de l'ouverture de votre profil. Veuillez vous déconnecter, puis vous connecter de nouveau.</translation>
 <translation id="1794791083288629568">Envoyer des commentaires pour nous aider à résoudre ce problème.</translation>
 <translation id="8234795456569844941">Pour aider nos ingénieurs à corriger ce problème, veuillez nous indiquer ce qui s'est passé juste avant de recevoir le message d'erreur concernant le profil :</translation>
-<translation id="6500340165622970282">Impossible de démarrer Dissenter, car une erreur s'est produite lors de l'ouverture de votre profil. Essayez de relancer Dissenter.</translation>
+<translation id="6500340165622970282">Impossible de démarrer Fulldive, car une erreur s'est produite lors de l'ouverture de votre profil. Essayez de relancer Fulldive.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> ne peut pas être exécuté en tant que root.</translation>
 <translation id="2292848386125228270">Veuillez démarrer <ph name="PRODUCT_NAME"/> en mode utilisateur standard. Si vous devez l'exécuter à la racine dans le cadre du développement, relancez-le avec l'indicateur --no-sandbox.</translation>
 <translation id="7547317915858803630">Avertissement : Vos paramètres <ph name="PRODUCT_NAME"/> sont enregistrés sur un lecteur réseau, ce qui peut entraîner des ralentissements, des plantages, voire la perte de données.</translation>
@@ -2251,8 +2251,8 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="4720113199587244118">Ajouter des périphériques</translation>
 <translation id="2776441542064982094">Il semblerait qu'il n'y ait aucun périphérique à enregistrer sur le réseau. Si votre périphérique est allumé et connecté à Internet, essayez de l'enregistrer en vous référant à son manuel d'instructions.</translation>
 <translation id="1007408791287232274">Impossible de charger la liste des périphériques.</translation>
-<translation id="3886420006370338208">Vous devez vous connecter à Dissenter pour voir vos périphériques.</translation>
-<translation id="6711610692002680394">Vous devez vous connecter à Dissenter pour enregistrer de nouveaux périphériques.</translation>
+<translation id="3886420006370338208">Vous devez vous connecter à Fulldive pour voir vos périphériques.</translation>
+<translation id="6711610692002680394">Vous devez vous connecter à Fulldive pour enregistrer de nouveaux périphériques.</translation>
 <translation id="8931394284949551895">Nouveaux périphériques</translation>
 <translation id="3752673729237782832">Mes appareils</translation>
 <translation id="1721937473331968728">Vous pouvez ajouter des imprimantes standards connectées à votre ordinateur à <ph name="CLOUD_PRINT_NAME"/>.</translation>
@@ -2325,7 +2325,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="4540437243849625078">Ce site est sur le point de partager des informations avec une application en dehors du mode privé.</translation>
 <translation id="1227836882233136433">Quitter le mode privé ?</translation>
 <translation id="662080504995468778">Rester</translation>
-<translation id="2593289874938379417">Dissenter n'a pas accès à la ressource demandée.</translation>
+<translation id="2593289874938379417">Fulldive n'a pas accès à la ressource demandée.</translation>
 <translation id="760197030861754408">Accédez à la page "<ph name="LANDING_PAGE"/>" pour vous connecter.</translation>
 <translation id="3648348069317717750">L'appareil "<ph name="USB_DEVICE_NAME"/>" a été détecté</translation>
 <translation id="5042282098504489593">Ouvrir les paramètres pour connecter <ph name="USB_DEVICE_NAME"/> à Linux</translation>
@@ -2380,24 +2380,24 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="2859806420264540918">Ce site affiche des annonces intrusives ou trompeuses.</translation>
 <translation id="4077917118009885966">Annonces bloquées sur ce site</translation>
 <translation id="6456955391422100996">Annonce supprimée.</translation>
-<translation id="7533556202636568669">Cette annonce utilise trop de ressources pour votre appareil. Dissenter l'a donc supprimée.</translation>
+<translation id="7533556202636568669">Cette annonce utilise trop de ressources pour votre appareil. Fulldive l'a donc supprimée.</translation>
 <translation id="8497219075884839166">Utilitaires Windows</translation>
 <translation id="897525204902889653">Service de zone de quarantaine</translation>
 <translation id="7055152154916055070">Redirection bloquée :</translation>
 <translation id="6777817260680419853">Redirection bloquée</translation>
 <translation id="694592694773692225">Redirection bloquée sur cette page.</translation>
-<translation id="8945142681652245463">Naviguez à toute vitesse avec Gab AI Inc Dissenter</translation>
-<translation id="2618024864038703735">Naviguez en toute sécurité avec Gab AI Inc Dissenter</translation>
-<translation id="8142180567942285208">Naviguez intelligemment avec Dissenter</translation>
+<translation id="8945142681652245463">Naviguez à toute vitesse avec Gab AI Inc Fulldive</translation>
+<translation id="2618024864038703735">Naviguez en toute sécurité avec Gab AI Inc Fulldive</translation>
+<translation id="8142180567942285208">Naviguez intelligemment avec Fulldive</translation>
 <translation id="8862003515646449717">Passez à un navigateur rapide</translation>
 <translation id="8438328416656800239">Passez à un navigateur intelligent</translation>
 <translation id="491691592645955587">Passez à un navigateur sécurisé</translation>
 <translation id="683373380308365518">Passez à un navigateur intelligent et sécurisé</translation>
-<translation id="989239400026154074">Gab AI Inc recommande Dissenter</translation>
-<translation id="6676231621615806698">Ouvrir Dissenter</translation>
+<translation id="989239400026154074">Gab AI Inc recommande Fulldive</translation>
+<translation id="6676231621615806698">Ouvrir Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> utilise votre position pour vous proposer des contenus locaux. Pour modifier ce paramètre, accédez à la page <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Vos téléchargements s'affichent ici</translation>
-<translation id="4782664866169793230">Dissenter est contrôlé par un logiciel de test automatisé.</translation>
+<translation id="4782664866169793230">Fulldive est contrôlé par un logiciel de test automatisé.</translation>
 <translation id="6721678857435001674">Voir la marque et le modèle de votre clé de sécurité</translation>
 <translation id="1673137583248014546"><ph name="URL"/> souhaite voir la marque et le modèle de votre clé de sécurité</translation>
 <translation id="6010869025736512584">Accès à l'entrée vidéo en cours…</translation>
@@ -2471,7 +2471,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="1116639326869298217">Impossible de valider votre identité</translation>
 <translation id="8379878387931047019">Cet appareil n'est pas compatible avec la clé de sécurité demandée par le site Web</translation>
 <translation id="7135729336746831607">Activer le Bluetooth ?</translation>
-<translation id="6176043333338857209">Dissenter va activer provisoirement le Bluetooth pour pouvoir communiquer avec votre clé de sécurité</translation>
+<translation id="6176043333338857209">Fulldive va activer provisoirement le Bluetooth pour pouvoir communiquer avec votre clé de sécurité</translation>
 <translation id="4252899949534773101">Bluetooth désactivé</translation>
 <translation id="8188389033983459049">Activez le Bluetooth dans les paramètres de votre appareil pour continuer</translation>
 <translation id="6022705094403139349">Prêt à associer votre clé de sécurité ?</translation>
@@ -2530,7 +2530,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="3984431586879874039">Autoriser ce site à lire les informations qui identifient votre clé de sécurité ?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> souhaite voir la marque et le modèle de votre clé de sécurité</translation>
 <translation id="7618452966706304788">Voulez-vous utiliser Touch ID avec <ph name="APP_NAME"/> en mode privé ?</translation>
-<translation id="3098826269712097986">Les données de connexion seront stockées dans Dissenter après avoir quitté le mode privé. Cela vous permettra d'utiliser Touch ID avec ce site ultérieurement.</translation>
+<translation id="3098826269712097986">Les données de connexion seront stockées dans Fulldive après avoir quitté le mode privé. Cela vous permettra d'utiliser Touch ID avec ce site ultérieurement.</translation>
 <translation id="2172784515318616985">Continuer</translation>
 <translation id="5186185447130319458">Privé</translation>
 <translation id="7643842463591647490">{0,plural, =1{# fenêtre ouverte}one{# fenêtre ouverte}other{# fenêtres ouvertes}}</translation>
@@ -2572,7 +2572,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="2346953515226895098">Service SODA</translation>
 <translation id="7516981202574715431">L'appli <ph name="APP_NAME"/> est mise en pause</translation>
 <translation id="917350715406657904">Tu as atteint la limite de temps définie par l'un de tes parents pour <ph name="APP_NAME"/>. Tu pourras de nouveau l'utiliser demain pendant <ph name="TIME_LIMIT"/>.</translation>
-<translation id="8891261408659902804">Tu as atteint la limite de temps fixée par l'un de tes parents pour l'application Dissenter <ph name="APP_NAME"/>. Tu pourras l'utiliser demain pendant <ph name="TIME_LIMIT"/>.</translation>
+<translation id="8891261408659902804">Tu as atteint la limite de temps fixée par l'un de tes parents pour l'application Fulldive <ph name="APP_NAME"/>. Tu pourras l'utiliser demain pendant <ph name="TIME_LIMIT"/>.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> est bloqué</translation>
 <translation id="4404843640767531781">L'application <ph name="APP_NAME"/> est bloquée par l'un de tes parents. Tu as besoin de leur autorisation pour l'utiliser.</translation>
 <translation id="751523031290522286"><ph name="APP_NAME"/> est bloqué par l'administrateur. Vous avez besoin de son autorisation pour l'utiliser.</translation>
@@ -2917,7 +2917,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="672213144943476270">Veuillez déverrouiller votre profil avant de naviguer en tant qu'invité.</translation>
 <translation id="8086119151297127544">Veuillez déverrouiller votre profil avant de supprimer un profil.</translation>
 <translation id="7805701378418968629">Veuillez déverrouiller votre profil avant d'ajouter un profil.</translation>
-<translation id="8978225823042133615">Pour utiliser Dissenter, veuillez vous connecter</translation>
+<translation id="8978225823042133615">Pour utiliser Fulldive, veuillez vous connecter</translation>
 <translation id="4893336867552636863">Cette action aura pour effet de supprimer définitivement vos données de navigation de cet appareil.</translation>
 <translation id="2496180316473517155">Historique de navigation</translation>
 <translation id="6865313869410766144">Données de saisie automatique</translation>
@@ -2941,7 +2941,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="9013707997379828817">Votre administrateur a rétabli cet appareil. Veuillez enregistrer les fichiers importants, puis redémarrer. Toutes les données enregistrées sur cet appareil seront supprimées.</translation>
 <translation id="5877064549588274448">La version a été modifiée. Redémarrez votre appareil pour appliquer les modifications.</translation>
 <translation id="4716483597559580346">Powerwash pour plus de sécurité</translation>
-<translation id="4089922565956168950">Cette mise à niveau entraîne la réinitialisation de votre Dissenterbook et la suppression des informations sur l'utilisateur actuelles.</translation>
+<translation id="4089922565956168950">Cette mise à niveau entraîne la réinitialisation de votre Fulldivebook et la suppression des informations sur l'utilisateur actuelles.</translation>
 <translation id="3688526734140524629">Changer de version</translation>
 <translation id="6410328738210026208">Changer de version et Powerwash</translation>
 <translation id="1979280758666859181">Vous souhaitez installer une ancienne version de <ph name="PRODUCT_NAME"/>. Ce changement sera appliqué dès que cette version correspondra à celle qui est installée sur votre appareil.</translation>
@@ -2973,7 +2973,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> et 1 autre compte}one{<ph name="EMAIL"/> et <ph name="EXTRA_ACCOUNTS"/> autre compte}other{<ph name="EMAIL"/> et <ph name="EXTRA_ACCOUNTS"/> autres comptes}}</translation>
 <translation id="7434635829372401939">Synchroniser vos paramètres</translation>
 <translation id="1036348656032585052">Désactiver</translation>
-<translation id="3267705913905916810">Vos applications et paramètres seront synchronisés sur tous les appareils Dissenter OS où vous êtes connecté à votre compte Gab AI Inc. Pour les options de synchronisation du navigateur, accédez aux <ph name="LINK_BEGIN"/>paramètres Dissenter<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Vos applications et paramètres seront synchronisés sur tous les appareils Fulldive OS où vous êtes connecté à votre compte Gab AI Inc. Pour les options de synchronisation du navigateur, accédez aux <ph name="LINK_BEGIN"/>paramètres Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Imprimantes</translation>
 <translation id="8418661265246754237">Comptes Gab AI Inc</translation>
 <translation id="3953834000574892725">Mes comptes</translation>
@@ -3020,7 +3020,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="2187700606737131818">Gab AI Inc Photos</translation>
 <translation id="1827738518074806965">Galerie d'art</translation>
 <translation id="9137157311132182254">Moteur de recherche préféré</translation>
-<translation id="7423118389528876103">Utilisé par le navigateur Dissenter et le lanceur d'applications pour <ph name="DEVICE_TYPE"/></translation>
+<translation id="7423118389528876103">Utilisé par le navigateur Fulldive et le lanceur d'applications pour <ph name="DEVICE_TYPE"/></translation>
 <translation id="2862205630718215619">Assistant Gab AI Inc</translation>
 <translation id="8959699239363253085">Activé</translation>
 <translation id="971479617738309149">Désactivé</translation>
@@ -3040,15 +3040,15 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="6644513150317163574">Le format d'URL n'est pas valide. Le serveur doit être spécifié en tant que nom d'hôte lorsque l'authentification SSO est utilisée.</translation>
 <translation id="6091761513005122595">Le partage a bien été installé.</translation>
 <translation id="5770125698810550803">Afficher les boutons de navigation</translation>
-<translation id="2972318514147518075">Utilisez les boutons pour accéder à la page d'accueil, revenir en arrière et changer d'application en mode tablette. Ce paramètre est activé lorsque DissenterVox ou les clics automatiques sont activés.</translation>
+<translation id="2972318514147518075">Utilisez les boutons pour accéder à la page d'accueil, revenir en arrière et changer d'application en mode tablette. Ce paramètre est activé lorsque FulldiveVox ou les clics automatiques sont activés.</translation>
 <translation id="2558896001721082624">Toujours afficher les options d'accessibilité dans le menu système</translation>
 <translation id="2981113813906970160">Afficher le grand curseur</translation>
 <translation id="5072052264945641674">Ajuster la taille du curseur</translation>
 <translation id="4209092469652827314">Grande</translation>
 <translation id="499165176004408815">Utiliser le mode Contraste élevé</translation>
 <translation id="142758023928848008">Activer les touches persistantes (pour exécuter les raccourcis clavier en appuyant sur les touches les unes à la suite des autres)</translation>
-<translation id="5914872514449971753">Activer DissenterVox (commentaires audio)</translation>
-<translation id="7099511550603534982">Ouvrir les paramètres DissenterVox</translation>
+<translation id="5914872514449971753">Activer FulldiveVox (commentaires audio)</translation>
+<translation id="7099511550603534982">Ouvrir les paramètres FulldiveVox</translation>
 <translation id="8547013269961688403">Activer la loupe plein écran</translation>
 <translation id="8743390665131937741">Niveau de zoom plein écran :</translation>
 <translation id="7334274148831027933">Activer la loupe ancrée</translation>
@@ -3140,7 +3140,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="6902066522699286937">Voix à écouter</translation>
 <translation id="304747341537320566">Moteurs de synthèse vocale</translation>
 <translation id="2755367719610958252">Gérer les fonctionnalités d'accessibilité</translation>
-<translation id="1203953622051744249">Gérez les comptes auxquels vous êtes connecté. Les sites Web, les applications ainsi que les extensions Dissenter et Gab AI Inc Play peuvent utiliser ces comptes pour personnaliser votre expérience, en fonction des autorisations accordées. <ph name="LINK_BEGIN"/>En savoir plus<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Gérez les comptes auxquels vous êtes connecté. Les sites Web, les applications ainsi que les extensions Fulldive et Gab AI Inc Play peuvent utiliser ces comptes pour personnaliser votre expérience, en fonction des autorisations accordées. <ph name="LINK_BEGIN"/>En savoir plus<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Ajoutez un compte scolaire ou gérez les comptes de jeunes utilisateurs ici. <ph name="LINK_BEGIN"/>En savoir plus<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Comptes</translation>
 <translation id="6597148444736186483">Pour vous déconnecter du compte principal sur cet appareil, cliquez sur l'heure indiquée sur votre écran. Dans le menu qui s'affiche, cliquez sur "Déconnexion".</translation>
@@ -3212,7 +3212,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="234889437187286781">Erreur lors du chargement des données.</translation>
 <translation id="4660540330091848931">Redimensionnement…</translation>
 <translation id="1481537595330271162">Erreur lors du redimensionnement du disque</translation>
-<translation id="2756917833575664962">Pour réactiver le débogage, vous devez rétablir la configuration d'usine de ce Dissenterbook. <ph name="BEGIN_LINK_LEARN_MORE"/>En savoir plus<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">Pour réactiver le débogage, vous devez rétablir la configuration d'usine de ce Fulldivebook. <ph name="BEGIN_LINK_LEARN_MORE"/>En savoir plus<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">Pour activer le débogage ADB, vous devrez redémarrer votre <ph name="DEVICE_TYPE"/>. Et, pour le désactiver, vous devrez rétablir la configuration d'usine.</translation>
 <translation id="8082390128630131497">La désactivation du débogage ADB rétablira la configuration d'usine de <ph name="DEVICE_TYPE"/>. Tous les comptes utilisateur et toutes les données locales seront supprimés.</translation>
 <translation id="7932969338829957666">Les dossiers partagés sont disponibles dans Linux sous <ph name="BASE_DIR"/>.</translation>
@@ -3340,10 +3340,10 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> n'est plus disponible</translation>
 <translation id="3976108569178263973">Aucune imprimante n'est disponible.</translation>
 <translation id="217576141146192373">Impossible d'ajouter une imprimante. Vérifiez la configuration de votre imprimante et réessayez.</translation>
-<translation id="4052689580269971502">Impossible de se connecter à l'imprimante. Vérifiez qu'elle est sous tension et connectée à votre Dissenterbook par Wi-Fi ou USB.</translation>
+<translation id="4052689580269971502">Impossible de se connecter à l'imprimante. Vérifiez qu'elle est sous tension et connectée à votre Fulldivebook par Wi-Fi ou USB.</translation>
 <translation id="7099337801055912064">Impossible de charger un fichier PPD volumineux. Le fichier ne doit pas dépasser 250 Ko.</translation>
 <translation id="4310139701823742692">Le format du fichier n'est pas valide. Vérifiez le fichier PPD, puis réessayez.</translation>
-<translation id="6580983683519551561">Impossible de trouver le fichier PPD. Vérifiez que votre Dissenterbook est connecté, puis réessayez.</translation>
+<translation id="6580983683519551561">Impossible de trouver le fichier PPD. Vérifiez que votre Fulldivebook est connecté, puis réessayez.</translation>
 <translation id="4694024090038830733">La configuration de l'imprimante est gérée par l'administrateur.</translation>
 <translation id="5816434091619127343">Les modifications demandées concernant l'imprimante risquent de rendre celle-ci inutilisable.</translation>
 <translation id="6504611359718185067">Connectez-vous à Internet pour ajouter une imprimante</translation>
@@ -3679,18 +3679,18 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="7770651108375708429">Se déconnecter du Wi-Fi</translation>
 <translation id="4168015872538332605">Certains paramètres appartenant à <ph name="PRIMARY_EMAIL"/> sont partagés avec vous. Ces paramètres n'ont une influence sur votre compte que lorsque vous utilisez une connexion multicompte.</translation>
 <translation id="1485141095922496924">Version <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Mettre à jour Dissenter automatiquement pour tous les utilisateurs</translation>
+<translation id="4570609078116869893">Mettre à jour Fulldive automatiquement pour tous les utilisateurs</translation>
 <translation id="7102687220333134671">Les mises à jour automatiques sont activées</translation>
 <translation id="6981982820502123353">Accessibilité</translation>
 <translation id="5840822070878669614">Ouvrir le Web Store</translation>
 <translation id="6073903501322152803">Ajouter des fonctionnalités d'accessibilité</translation>
 <translation id="7988355189918024273">Activer les fonctionnalités d'accessibilité</translation>
-<translation id="5499063270485366718">Si une image n'est pas accompagnée d'une description utile, Dissenter essaiera de vous en proposer une. Pour nous permettre de créer des descriptions, les images sont envoyées à Gab AI Inc.</translation>
+<translation id="5499063270485366718">Si une image n'est pas accompagnée d'une description utile, Fulldive essaiera de vous en proposer une. Pour nous permettre de créer des descriptions, les images sont envoyées à Gab AI Inc.</translation>
 <translation id="8957762313041272117">Sous-titres instantanés</translation>
-<translation id="7075426315046750605">La fonctionnalité Sous-titres instantanés détecte les paroles prononcées dans les contenus multimédias et génère automatiquement des sous-titres pour tous les contenus de ce type diffusés dans Dissenter.</translation>
+<translation id="7075426315046750605">La fonctionnalité Sous-titres instantanés détecte les paroles prononcées dans les contenus multimédias et génère automatiquement des sous-titres pour tous les contenus de ce type diffusés dans Fulldive.</translation>
 <translation id="572155275267014074">Paramètres Android</translation>
 <translation id="7201042526153088083">Installez des applications et des jeux sur votre <ph name="DEVICE_TYPE"/> depuis Gab AI Inc Play. &lt;a target="_blank" href="<ph name="URL"/>"&gt;En savoir plus&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Les applications que vous avez téléchargées depuis Gab AI Inc Play seront supprimées de ce Dissenterbook.
+<translation id="8039595758121742506">Les applications que vous avez téléchargées depuis Gab AI Inc Play seront supprimées de ce Fulldivebook.
       <ph name="LINE_BREAKS1"/>
       De même, les contenus que vous avez achetés, tels que les films, les séries TV, les titres musicaux, les livres ou tout autre achat via une application risquent d'être supprimés.
       <ph name="LINE_BREAKS2"/>
@@ -3704,7 +3704,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="6006484371116297560">Classique</translation>
 <translation id="1795214765651529549">Utiliser le thème classique</translation>
 <translation id="2332742915001411729">Rétablir le thème par défaut</translation>
-<translation id="8338457030135232378">Couleurs de Dissenter</translation>
+<translation id="8338457030135232378">Couleurs de Fulldive</translation>
 <translation id="827097179112817503">Afficher le bouton Accueil</translation>
 <translation id="383007806262310953">Afficher la barre de favoris</translation>
 <translation id="3911824782900911339">Page Nouvel onglet</translation>
@@ -3716,7 +3716,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="1670399744444387456">Général</translation>
 <translation id="1763808908432309942">La page s'ouvre dans un nouvel onglet</translation>
 <translation id="6248988683584659830">Rechercher</translation>
-<translation id="883304095704384301">Si vous ne trouvez pas ce que vous recherchez, consultez l'<ph name="BEGIN_LINK_CHROMIUM"/>Aide Gab AI Inc Dissenter<ph name="END_LINK_CHROMIUM"/>.</translation>
+<translation id="883304095704384301">Si vous ne trouvez pas ce que vous recherchez, consultez l'<ph name="BEGIN_LINK_CHROMIUM"/>Aide Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/>.</translation>
 <translation id="6406708970972405507">Paramètres – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Bouton pour accéder à la sous-page</translation>
 <translation id="379509625511193653">Désactivé</translation>
@@ -3903,7 +3903,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="5468173180030470402">Recherche de partages de fichiers…</translation>
 <translation id="3336664756920573711">Déverrouillez votre <ph name="DEVICE_TYPE"/> avec votre téléphone Android</translation>
 <translation id="1164674268730883318">Désactiver Smart Lock pour l'appareil <ph name="DEVICE_TYPE"/> ?</translation>
-<translation id="2739030071582769583">Si vous désactivez Smart Lock pour <ph name="DEVICE_TYPE"/>, vous ne pourrez pas déverrouiller vos appareils Dissenter avec votre téléphone. Vous devrez saisir votre mot de passe.</translation>
+<translation id="2739030071582769583">Si vous désactivez Smart Lock pour <ph name="DEVICE_TYPE"/>, vous ne pourrez pas déverrouiller vos appareils Fulldive avec votre téléphone. Vous devrez saisir votre mot de passe.</translation>
 <translation id="4737715515457435632">Veuillez vous connecter à un réseau</translation>
 <translation id="5425722269016440406">Vous devez être en ligne pour pouvoir désactiver Smart Lock, car ce paramètre est synchronisé avec votre téléphone et d'autres appareils. Pour commencer, veuillez vous connecter à un réseau.</translation>
 <translation id="8885197664446363138">Smart Lock indisponible</translation>
@@ -4137,20 +4137,20 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="3633309367764744750">Précharge les informations des pages, y compris des pages que nous n'avez pas encore consultées. Les informations préchargées peuvent inclure des cookies, si vous les autorisez.</translation>
 <translation id="3201899458094819285">Navigation sécurisée (assure votre protection et celle de votre appareil contre les sites dangereux)</translation>
 <translation id="2876369937070532032">Envoyer à Gab AI Inc les URL des pages que vous consultez présentant un risque pour votre sécurité</translation>
-<translation id="4991384657077828949">Contribuer à améliorer la sécurité de Dissenter</translation>
+<translation id="4991384657077828949">Contribuer à améliorer la sécurité de Fulldive</translation>
 <translation id="1984646864943401749">Les URL de certaines pages que vous consultez, ainsi que des informations système limitées et une partie du contenu de certaines pages sont envoyées à Gab AI Inc, à la fois pour identifier les nouvelles menaces et pour protéger tous les utilisateurs sur le Web.</translation>
 <translation id="1641113438599504367">Navigation sécurisée</translation>
 <translation id="6900532703269623216">Protection renforcée</translation>
 <translation id="7307583170263691471">Ce mode offre une protection proactive et plus rapide contre les téléchargements, les extensions et les sites Web dangereux. Il vous permet d'être averti en cas de piratage de mots de passe et nécessite d'envoyer les données de navigation à Gab AI Inc.</translation>
 <translation id="8645920082661222035">Prédit les événements dangereux et vous en informe avant qu'ils ne surviennent</translation>
-<translation id="5265419033369521352">Ce mode assure votre sécurité dans Dissenter et peut être utilisé pour améliorer votre sécurité dans d'autres applications Gab AI Inc lorsque vous êtes connecté</translation>
+<translation id="5265419033369521352">Ce mode assure votre sécurité dans Fulldive et peut être utilisé pour améliorer votre sécurité dans d'autres applications Gab AI Inc lorsque vous êtes connecté</translation>
 <translation id="6770602306803890733">Renforce votre sécurité et celle de tous les utilisateurs sur le Web</translation>
 <translation id="3690369331356918524">Vous alerte si des mots de passe sont compromis lors d'une violation des données</translation>
 <translation id="4979281249641199724">Il envoie des URL à la navigation sécurisée pour les vérifier. Il transmet également un petit échantillon de pages, de téléchargements, d'informations système et de l'activité des extensions afin d'identifier de nouvelles menaces. De même, pour vous protéger dans l'ensemble des applications Gab AI Inc, il associe temporairement ces données à votre compte Gab AI Inc lorsque vous êtes connecté.</translation>
 <translation id="1963976881984600709">Protection standard</translation>
 <translation id="6882836635272038266">Ce mode offre une protection standard contre les téléchargements, les extensions et les sites Web connus pour être dangereux.</translation>
 <translation id="5561162485081632007">Il détecte les événements dangereux et vous en informe lorsqu'ils surviennent</translation>
-<translation id="7810992039564280750">Il vérifie les URL d'après une liste de sites dangereux stockée dans Dissenter. Si un site tente de voler votre mot de passe ou si vous téléchargez un fichier dangereux, Dissenter peut également envoyer les URL concernées, y compris des extraits du contenu de pages, à la fonctionnalité de navigation sécurisée.</translation>
+<translation id="7810992039564280750">Il vérifie les URL d'après une liste de sites dangereux stockée dans Fulldive. Si un site tente de voler votre mot de passe ou si vous téléchargez un fichier dangereux, Fulldive peut également envoyer les URL concernées, y compris des extraits du contenu de pages, à la fonctionnalité de navigation sécurisée.</translation>
 <translation id="3847319713229060696">Contribuer à améliorer la sécurité sur le Web pour tous</translation>
 <translation id="1984417487208496350">Aucune protection (non recommandé)</translation>
 <translation id="1295971429974142731">Ce mode ne vous protège pas contre les téléchargements, les extensions et les sites Web dangereux. Le cas échéant, vous bénéficierez toujours de la protection offerte par la navigation sécurisée dans d'autres services Gab AI Inc, tels que Gmail et la recherche.</translation>
@@ -4206,7 +4206,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="8632933437936028548">Réinitialiser les paramètres</translation>
 <translation id="5293170712604732402">Restaurer les paramètres par défaut</translation>
 <translation id="892706138619340876">Certains paramètres ont été réinitialisés</translation>
-<translation id="2334029754052191847">Dissenter a détecté que certains de vos paramètres ont été corrompus par un autre programme. Leurs valeurs par défaut ont été rétablies.</translation>
+<translation id="2334029754052191847">Fulldive a détecté que certains de vos paramètres ont été corrompus par un autre programme. Leurs valeurs par défaut ont été rétablies.</translation>
 <translation id="4582563038311694664">Réinitialiser tous les paramètres</translation>
 <translation id="4146785383423576110">Réinitialiser et nettoyer</translation>
 <translation id="2603115962224169880">Nettoyer l'ordinateur</translation>
@@ -4275,7 +4275,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="5340638867532133571">Autoriser les sites à installer des gestionnaires de paiement (recommandé)</translation>
 <translation id="763632859238619983">Interdire à tous les sites d'installer des gestionnaires de paiement</translation>
 <translation id="8270242299912238708">Documents PDF</translation>
-<translation id="539658326146969381">Télécharger les fichiers PDF au lieu de les ouvrir automatiquement dans Dissenter</translation>
+<translation id="539658326146969381">Télécharger les fichiers PDF au lieu de les ouvrir automatiquement dans Fulldive</translation>
 <translation id="4434045419905280838">Pop-up et redirections</translation>
 <translation id="6612358246767739896">Contenu protégé</translation>
 <translation id="4252852543720145436">Identifiants de contenu protégé</translation>
@@ -4336,7 +4336,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="2913331724188855103">Autoriser les sites à enregistrer et à lire les données des cookies (recommandé)</translation>
 <translation id="5908769186679515905">Interdire aux sites d'exécuter Flash</translation>
 <translation id="783214144752121388">Empêcher les sites d'exécuter Flash (recommandé)</translation>
-<translation id="6096007141921397775">Vos paramètres Flash seront conservés jusqu'à ce que vous quittiez Dissenter.</translation>
+<translation id="6096007141921397775">Vos paramètres Flash seront conservés jusqu'à ce que vous quittiez Fulldive.</translation>
 <translation id="8074127646604999664">Autoriser les sites fermés récemment à terminer l'envoi et la réception de données</translation>
 <translation id="7062222374113411376">Autoriser les sites fermés récemment à terminer l'envoi et la réception de données (recommandé)</translation>
 <translation id="5068918910148307423">Ne pas autoriser les sites fermés récemment à terminer l'envoi et la réception de données</translation>
@@ -4416,7 +4416,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="5566692924079383101">Cette exception sera automatiquement supprimée une fois que vous aurez quitté la session de navigation privée en cours</translation>
 <translation id="383891835335927981">Vous n'avez fait de zoom avant ou arrière sur aucun site</translation>
 <translation id="3566721612727112615">Aucun site ajouté</translation>
-<translation id="8098574385249290065">Dissenter détermine quand activer le son des sites (recommandé)</translation>
+<translation id="8098574385249290065">Fulldive détermine quand activer le son des sites (recommandé)</translation>
 <translation id="4354344420232759511">Les sites que vous consultez s'affichent ici</translation>
 <translation id="3757733214359997190">Aucun site trouvé</translation>
 <translation id="6545864417968258051">Recherche Bluetooth</translation>
@@ -4429,7 +4429,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Ajouter un site</translation>
 <translation id="5052499409147950210">Modifier le site</translation>
-<translation id="4610862967073369855">Autorise Android Messages à transmettre les SMS de votre téléphone à votre Dissenterbook</translation>
+<translation id="4610862967073369855">Autorise Android Messages à transmettre les SMS de votre téléphone à votre Fulldivebook</translation>
 <translation id="6742339027238151589">Accessible aux scripts</translation>
 <translation id="361106536627977100">Données Flash</translation>
 <translation id="8557930019681227453">Manifeste</translation>
@@ -4441,7 +4441,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="8016266267177410919">Stockage temporaire</translation>
 <translation id="4175737294868205930">Stockage persistant</translation>
 <translation id="8397843425685839889">Gab AI Inc et vous</translation>
-<translation id="8907706281008466056">Photo de profil Dissenter</translation>
+<translation id="8907706281008466056">Photo de profil Fulldive</translation>
 <translation id="2023167225947895179">Ce code est facile à deviner</translation>
 <translation id="5342091991439452114">Le code doit comprendre au moins <ph name="MINIMUM"/> chiffres</translation>
 <translation id="5252653240322147470">Le code doit comprendre moins de <ph name="MAXIMUM"/> chiffres</translation>
@@ -4506,23 +4506,23 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="3817524650114746564">Accéder aux paramètres de proxy de votre ordinateur</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> utilise les paramètres de proxy provenant d'une extension</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> utilise les paramètres de proxy définis par votre administrateur</translation>
-<translation id="6187156085111579405">Au besoin, les éléments non indiqués ici seront également supprimés. Pour en savoir plus sur la &lt;a href="<ph name="URL"/>"&gt;protection contre les logiciels malveillants&lt;/a&gt;, consultez le livre blanc sur les règles de confidentialité de Dissenter.</translation>
+<translation id="6187156085111579405">Au besoin, les éléments non indiqués ici seront également supprimés. Pour en savoir plus sur la &lt;a href="<ph name="URL"/>"&gt;protection contre les logiciels malveillants&lt;/a&gt;, consultez le livre blanc sur les règles de confidentialité de Fulldive.</translation>
 <translation id="5280174558369304332">Extensions à supprimer :</translation>
 <translation id="7712836429117959503">Extension inconnue avec l'ID <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">Fichiers et programmes à placer en quarantaine :</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 élément}one{{NUM_ITEMS} items}other{{NUM_ITEMS} éléments}}</translation>
 <translation id="7187428571767585875">Entrées de registre à supprimer ou à modifier :</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{1 de plus}one{{NUM_DOWNLOADS} more}other{{NUM_DOWNLOADS} de plus}}</translation>
-<translation id="2749608811030566578">Une erreur s'est produite lors de la suppression du logiciel malveillant par Dissenter</translation>
-<translation id="8189483132214844139">Dissenter peut détecter et supprimer les logiciels malveillants sur votre ordinateur</translation>
+<translation id="2749608811030566578">Une erreur s'est produite lors de la suppression du logiciel malveillant par Fulldive</translation>
+<translation id="8189483132214844139">Fulldive peut détecter et supprimer les logiciels malveillants sur votre ordinateur</translation>
 <translation id="1426870617281699524">Cliquez sur "Réessayer" et acceptez l'invite sur votre ordinateur</translation>
-<translation id="7886744396008377537">Un logiciel malveillant a été détecté sur votre ordinateur. Dissenter va le supprimer, restaurer vos paramètres et désactiver les extensions. Ceci permettra à votre navigateur de fonctionner à nouveau normalement.</translation>
-<translation id="1484912962860902625">Une erreur s'est produite lors de la recherche de logiciels malveillants par Dissenter</translation>
+<translation id="7886744396008377537">Un logiciel malveillant a été détecté sur votre ordinateur. Fulldive va le supprimer, restaurer vos paramètres et désactiver les extensions. Ceci permettra à votre navigateur de fonctionner à nouveau normalement.</translation>
+<translation id="1484912962860902625">Une erreur s'est produite lors de la recherche de logiciels malveillants par Fulldive</translation>
 <translation id="451407183922382411">Fourni par <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">Affichez les fichiers à supprimer</translation>
 <translation id="296026337010986570">Le logiciel malveillant a été supprimé. Pour réactiver les extensions, consultez la page &lt;a href="chrome://extensions"&gt;Extensions&lt;/a&gt;.</translation>
 <translation id="284975061945174219">Échec du nettoyage</translation>
-<translation id="9014750448058570312">Gab AI Inc Dissenter a besoin de votre autorisation pour continuer</translation>
+<translation id="9014750448058570312">Gab AI Inc Fulldive a besoin de votre autorisation pour continuer</translation>
 <translation id="1852141627593563189">Détecter des logiciels malveillants</translation>
 <translation id="850875081535031620">Aucun logiciel malveillant détecté</translation>
 <translation id="1186771945450942097">Supprimez le logiciel malveillant</translation>
@@ -4535,7 +4535,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="6555810572223193255">Le nettoyage n'est pas disponible actuellement</translation>
 <translation id="7117228822971127758">Veuillez réessayer plus tard</translation>
 <translation id="443475966875174318">Mettre à jour ou supprimer des applications incompatibles</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Cette application peut empêcher Dissenter de fonctionner correctement.}one{Cette application peut empêcher Dissenter de fonctionner correctement.}other{Ces applications peuvent empêcher Dissenter de fonctionner correctement.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Cette application peut empêcher Fulldive de fonctionner correctement.}one{Cette application peut empêcher Fulldive de fonctionner correctement.}other{Ces applications peuvent empêcher Fulldive de fonctionner correctement.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Pour pouvoir continuer à naviguer sur Internet, demandez à votre administrateur de supprimer cette application.}one{Pour pouvoir continuer à naviguer sur Internet, demandez à votre administrateur de supprimer cette application.}other{Pour pouvoir continuer à naviguer sur Internet, demandez à votre administrateur de supprimer ces applications.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Découvrir comment mettre à jour des applications<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{Application}one{Application}other{Applications}}</translation>
@@ -4618,13 +4618,13 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="284843628681142937">Envoie les URL des pages que vous consultez à Gab AI Inc</translation>
 <translation id="7704317875155739195">Saisir semi-automatiquement les recherches et les URL</translation>
 <translation id="2000419248597011803">Envoie des cookies et des recherches effectuées à partir de la barre d'adresse et du champ de recherche à votre moteur de recherche par défaut</translation>
-<translation id="918192811481327695">Contribuer à l'amélioration des fonctionnalités et des performances de Dissenter</translation>
+<translation id="918192811481327695">Contribuer à l'amélioration des fonctionnalités et des performances de Fulldive</translation>
 <translation id="9063160602596686558">Envoie automatiquement des statistiques d'utilisation et des rapports d'erreur à Gab AI Inc</translation>
 <translation id="6697492270171225480">Afficher des suggestions de pages similaires lorsqu'une page est introuvable</translation>
 <translation id="4534361985432360439">Envoie l'adresse Web de la page que vous essayez d'ouvrir à Gab AI Inc</translation>
 <translation id="3831436149286513437">Suggestions de recherche Gab AI Inc Drive</translation>
 <translation id="5244474230056479698">Synchronisation avec <ph name="EMAIL"/>…</translation>
-<translation id="9125982323641182972">Profitez des fonctionnalités intelligentes de Gab AI Inc dans Dissenter</translation>
+<translation id="9125982323641182972">Profitez des fonctionnalités intelligentes de Gab AI Inc dans Fulldive</translation>
 <translation id="2537178555904266562">Erreur lors de la synchronisation des mots de passe</translation>
 <translation id="4314815835985389558">Gérer la synchronisation</translation>
 <translation id="8931475688782629595">Gérer les contenus que vous synchronisez</translation>
@@ -4642,7 +4642,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="1651008383952180276">Vous devez saisir deux fois la même phrase secrète</translation>
 <translation id="988978206646512040">Phrase secrète obligatoire</translation>
 <translation id="2136476978468204130">La phrase secrète que vous avez saisie est incorrecte</translation>
-<translation id="7505421639213002314">Données de la synchronisation Dissenter</translation>
+<translation id="7505421639213002314">Données de la synchronisation Fulldive</translation>
 <translation id="452750746583162491">Examiner vos données synchronisées</translation>
 <translation id="7956662517480676674">Services Gab AI Inc/Synchronisation</translation>
 <translation id="7772032839648071052">Confirmer la phrase secrète</translation>
@@ -4741,7 +4741,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="1992397118740194946">Non défini</translation>
 <translation id="6706210727756204531">Portée</translation>
 <translation id="5532223876348815659">Raccourcis globaux</translation>
-<translation id="300669147395456190">Applications Dissenter</translation>
+<translation id="300669147395456190">Applications Fulldive</translation>
 <translation id="6787839852456839824">Raccourcis clavier</translation>
 <translation id="6419546358665792306">Chargez l'extension non empaquetée</translation>
 <translation id="8023801379949507775">Mettre à jour les extensions maintenant</translation>
@@ -4755,13 +4755,13 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="8447409163267621480">Vous devez inclure la touche Ctrl ou la touche Alt</translation>
 <translation id="3365598184818502391">Utilisez soit Ctrl, soit Alt</translation>
 <translation id="1688935057616748272">Saisissez une lettre</translation>
-<translation id="1579879232130925590">Améliorez les performances de Dissenter</translation>
+<translation id="1579879232130925590">Améliorez les performances de Fulldive</translation>
 <translation id="964057662886721376">Certaines extensions peuvent ralentir votre navigation, en particulier celles que vous n'avez pas installées volontairement.</translation>
 <translation id="1499271269825557605">Si vous ne reconnaissez pas une extension ou si votre navigateur ne fonctionne pas comme prévu, vous pouvez désactiver ou personnaliser les extensions sur cette page.</translation>
 <translation id="2382818385048255866">Vérifiez vos extensions</translation>
 <translation id="3900789207771372462">Certaines extensions peuvent consulter votre activité de navigation, y compris les informations personnelles.</translation>
 <translation id="6772339735733515807">Gérez vos extensions</translation>
-<translation id="1510515462062582289">Sur cette page, vous pouvez consulter toutes les extensions installées dans Dissenter.</translation>
+<translation id="1510515462062582289">Sur cette page, vous pouvez consulter toutes les extensions installées dans Fulldive.</translation>
 <translation id="2810390687497823527">Si vous ne reconnaissez pas une extension ou si votre navigateur ne fonctionne pas comme prévu, vous pouvez désactiver ou personnaliser les extensions ici.</translation>
 <translation id="4479424953165245642">Gérer les applications du kiosque</translation>
 <translation id="6619801788773578757">Ajouter une application kiosque</translation>
@@ -4777,7 +4777,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="2342740338116612727">Favoris ajoutés</translation>
 <translation id="7835178595033117206">Favori supprimé</translation>
 <translation id="742130257665691897">Favoris supprimés</translation>
-<translation id="5468853758063275923">Dissenter est votre navigateur par défaut</translation>
+<translation id="5468853758063275923">Fulldive est votre navigateur par défaut</translation>
 <translation id="2950533317914339731">Ajouter des favoris à vos applications Gab AI Inc préférées</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4792,13 +4792,13 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="5033266061063942743">Formes géométriques</translation>
 <translation id="7789963078219276159">L'arrière-plan par défaut de la page d'accueil a été remplacé par <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">L'arrière-plan par défaut de la page d'accueil a été rétabli.</translation>
-<translation id="239760341987199724">Définir Dissenter comme navigateur par défaut</translation>
+<translation id="239760341987199724">Définir Fulldive comme navigateur par défaut</translation>
 <translation id="96037229054033864">Naviguez sur le Web en bénéficiant des fonctionnalités intelligentes de Gab AI Inc et de la recherche Gab AI Inc</translation>
-<translation id="296137235951584143">Personnalisez Dissenter</translation>
+<translation id="296137235951584143">Personnalisez Fulldive</translation>
 <translation id="3982375475032951137">Configurez votre navigateur en quelques étapes faciles</translation>
 <translation id="6972754398087986839">Démarrer</translation>
-<translation id="3707821975049107110">Vous utilisez déjà Dissenter ? Connexion</translation>
-<translation id="7113572760575285642">Votre Dissenter, où que vous soyez</translation>
+<translation id="3707821975049107110">Vous utilisez déjà Fulldive ? Connexion</translation>
+<translation id="7113572760575285642">Votre Fulldive, où que vous soyez</translation>
 <translation id="567643736130151854">Connectez-vous et activez la synchronisation pour accéder à vos favoris, mots de passe et bien plus sur tous vos appareils</translation>
 <translation id="725758059478686223">Service d'impression</translation>
 <translation id="15662109988763471">L'imprimante sélectionnée n'est pas disponible ou n'est pas installée correctement. Vérifiez votre imprimante ou sélectionnez-en une autre.</translation>
@@ -4921,7 +4921,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="7574650250151586813">Pour saisir du texte, mettez à jour l'application Clavier Daydream</translation>
 <translation id="983511809958454316">Cette fonctionnalité n'est pas compatible avec la RV</translation>
 <translation id="4008291085758151621">Les informations sur le site ne sont pas disponibles en mode réalité virtuelle</translation>
-<translation id="1439926347196400598">Autoriser Dissenter à enregistrer du contenu audio ?</translation>
+<translation id="1439926347196400598">Autoriser Fulldive à enregistrer du contenu audio ?</translation>
 <translation id="6313641880021325787">QUITTER LA RV</translation>
 <translation id="2670429602441959756">Cette page contient des fonctionnalités non compatibles avec la RV. Fermeture…</translation>
 <translation id="1802687198411089702">La page ne répond plus. Vous pouvez attendre qu'elle soit de nouveau accessible ou la fermer.</translation>
@@ -4943,7 +4943,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="1721312023322545264">Vous devez disposer de l'autorisation de <ph name="NAME"/> pour consulter ce site</translation>
 <translation id="7543525346216957623">Demande à tes parents</translation>
 <translation id="471880041731876836">Vous n'êtes pas autorisé à consulter ce site</translation>
-<translation id="3480834636742786788">Veuillez démarrer Dissenter et vous connecter à votre compte avant d'utiliser cette application</translation>
+<translation id="3480834636742786788">Veuillez démarrer Fulldive et vous connecter à votre compte avant d'utiliser cette application</translation>
 <translation id="2851634818064021665">Tu n'es pas autorisé à consulter ce site</translation>
 <translation id="4933782374919065856">Des questions ? Contactez la personne qui supervise votre profil.</translation>
 <translation id="2712173769900027643">Demander l'autorisation</translation>
@@ -4963,7 +4963,7 @@ Souhaitez-vous lancer <ph name="CONTROL_PANEL_APPLET_NAME"/> ?</translation>
 <translation id="7755287808199759310">Ton parent peut te le débloquer</translation>
 <translation id="5732392974455271431">Tes parents peuvent te le débloquer</translation>
 <translation id="3556433843310711081">Votre responsable peut vous le débloquer</translation>
-<translation id="1254756632288991504">Veuillez démarrer Dissenter et vous connecter à votre compte pour que le navigateur puisse vérifier que vous êtes autorisé à accéder à ce site.</translation>
+<translation id="1254756632288991504">Veuillez démarrer Fulldive et vous connecter à votre compte pour que le navigateur puisse vérifier que vous êtes autorisé à accéder à ce site.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> mis en pause</translation>
 <translation id="8015163965024115122">Tu as atteint la limite que tes parents ont définie pour l'application "<ph name="IDS_SHORT_PRODUCT_NAME"/>" ou "<ph name="IDS_SHORT_PRODUCT_NAME"/>".</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> est mis en pause</translation>

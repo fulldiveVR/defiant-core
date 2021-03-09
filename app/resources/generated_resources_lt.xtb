@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Ištrinti</translation>
 <translation id="144283815522798837">Pasirinkta: <ph name="NUMBER_OF_ITEMS_SELECTED"/></translation>
 <translation id="5582839680698949063">Pagrindinis meniu</translation>
-<translation id="3700405816184340252">„Dissenter“ istorija</translation>
+<translation id="3700405816184340252">„Fulldive“ istorija</translation>
 <translation id="7602079150116086782">Nėra kitų įrenginių skirtukų</translation>
 <translation id="4619615317237390068">Skirtukai iš kitų įrenginių</translation>
-<translation id="82609232232243542">Prisijungti prie „Dissenter“</translation>
+<translation id="82609232232243542">Prisijungti prie „Fulldive“</translation>
 <translation id="4627442949885028695">Tęsiama kitu įrenginiu</translation>
-<translation id="7253276740368043692">Prisijunkite prie „Dissenter“, kad pasiektumėte skirtukus iš kitų įrenginių.</translation>
+<translation id="7253276740368043692">Prisijunkite prie „Fulldive“, kad pasiektumėte skirtukus iš kitų įrenginių.</translation>
 <translation id="6351063337294363751">Galite išvalyti naršymo duomenis iš šio meniu</translation>
 <translation id="6040143037577758943">Uždaryti</translation>
 <translation id="6463795194797719782">&amp;Redaguoti</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Nuostatos...</translation>
 <translation id="5801568494490449797">Nuostatos</translation>
 <translation id="3677911431265050325">Pateikti užklausą dėl svetainės mobiliesiems</translation>
-<translation id="236470849334943016">Kovo 31 dieną bus pakeistos „Dissenter“ paslaugų teikimo sąlygos</translation>
+<translation id="236470849334943016">Kovo 31 dieną bus pakeistos „Fulldive“ paslaugų teikimo sąlygos</translation>
 <translation id="1032605640136438169">Peržiūrėkite naujas sąlygas</translation>
 <translation id="8712637175834984815">Supratau</translation>
 <translation id="5007392906805964215">Peržiūrėti</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Paleisti iš naujo</translation>
 <translation id="3479552764303398839">Ne dabar</translation>
 <translation id="1008557486741366299">Ne dabar</translation>
-<translation id="8201192017531062522">„Dissenter“ ir toliau veiks, kol bus atidarytos „Dissenter“ programos.</translation>
-<translation id="7397305826909094212">Uždaryti visas „Dissenter“ programas</translation>
+<translation id="8201192017531062522">„Fulldive“ ir toliau veiks, kol bus atidarytos „Fulldive“ programos.</translation>
+<translation id="7397305826909094212">Uždaryti visas „Fulldive“ programas</translation>
 <translation id="5026874946691314267">Daugiau nerodyti</translation>
 <translation id="91568222606626347">Kurti spartųjį klavišą...</translation>
 <translation id="2783321960289401138">Kurti spartųjį klavišą...</translation>
@@ -821,11 +821,11 @@
 <translation id="5799508265798272974">„Linux“ virtualus įrenginys: „<ph name="LINUX_VM_NAME"/>“</translation>
 <translation id="6058567592298841668">Virtualiojo įrenginio papildinys: „<ph name="PLUGIN_VM_NAME"/>“</translation>
 <translation id="7851720427268294554">IPP analizavimo įrankis</translation>
-<translation id="7171242884588191792">„Dissenter“ failų paslaugų programos</translation>
+<translation id="7171242884588191792">„Fulldive“ failų paslaugų programos</translation>
 <translation id="3183139917765991655">Profilio importavimo priemonė</translation>
 <translation id="7367714965999718019">QR kodo generatorius</translation>
 <translation id="2190069059097339078">„Wi-Fi“ prisijungimo duomenų atsisiuntimo priemonė</translation>
-<translation id="5920835625712313205">„Dissenter“ OS sistemos turinio kopijos rašymo priemonė</translation>
+<translation id="5920835625712313205">„Fulldive“ OS sistemos turinio kopijos rašymo priemonė</translation>
 <translation id="4873312501243535625">Medijos failų tikrinimo priemonė</translation>
 <translation id="5972666587303800813">Neveikianti paslauga</translation>
 <translation id="1545775234664667895">Įdiegta „<ph name="THEME_NAME"/>“ tema</translation>
@@ -852,14 +852,14 @@
 <translation id="3507421388498836150">Dabartiniai „<ph name="EXTENSION_NAME"/>“ leidimai</translation>
 <translation id="5242724311594467048">Įgalinti „<ph name="EXTENSION_NAME"/>“?</translation>
 <translation id="4014432863917027322">Pataisyti „<ph name="EXTENSION_NAME"/>“?</translation>
-<translation id="5173189340601754836">Kita kompiuterio programa pridėjo programą, kuri gali pakeisti, kaip veikia „Dissenter“.
+<translation id="5173189340601754836">Kita kompiuterio programa pridėjo programą, kuri gali pakeisti, kaip veikia „Fulldive“.
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Kita kompiuterio programa pridėjo plėtinį, kuris gali pakeisti, kaip veikia „Dissenter“.
+<translation id="6654312501894761082">Kita kompiuterio programa pridėjo plėtinį, kuris gali pakeisti, kaip veikia „Fulldive“.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Kita kompiuterio programa pridėjo temą, kuri gali pakeisti, kaip veikia „Dissenter“.
+<translation id="3225882094369124157">Kita kompiuterio programa pridėjo temą, kuri gali pakeisti, kaip veikia „Fulldive“.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Įgalinti plėtinį</translation>
@@ -868,7 +868,7 @@
 <translation id="3908501907586732282">Įgalinti plėtinį</translation>
 <translation id="2327492829706409234">Įgalinti programą</translation>
 <translation id="175772926354468439">Įgalinti temą</translation>
-<translation id="5267531627648004734">Pašalinti iš „Dissenter“</translation>
+<translation id="5267531627648004734">Pašalinti iš „Fulldive“</translation>
 <translation id="4998873842614926205">Patvirtinti pakeitimus</translation>
 <translation id="1799071797295057738">Plėtinys „<ph name="EXTENSION_NAME"/>“ buvo automatiškai išjungtas.</translation>
 <translation id="5238278114306905396">Programa „<ph name="EXTENSION_NAME"/>“ automatiškai pašalinta.</translation>
@@ -1004,7 +1004,7 @@
 <translation id="1616298854599875024">Nepavyko importuoti plėtinio „<ph name="IMPORT_NAME"/>“, nes tai nėra bendrinamas modulis</translation>
 <translation id="2131077480075264">Nepavyko įdiegti „<ph name="APP_NAME"/>“, nes to neleidžia „<ph name="IMPORT_NAME"/>“</translation>
 <translation id="1875387611427697908">Tai galima pridėti tik iš sistemos <ph name="CHROME_WEB_STORE"/></translation>
-<translation id="3862788408946266506">Programa su aprašo atributu „kiosk_only“ turi būti įdiegta „Dissenter“ OS viešojo terminalo režimu</translation>
+<translation id="3862788408946266506">Programa su aprašo atributu „kiosk_only“ turi būti įdiegta „Fulldive“ OS viešojo terminalo režimu</translation>
 <translation id="3834775135533257713">Nepavyko pridėti programos „<ph name="TO_INSTALL_APP_NAME"/>“, nes ji nesuderinama su „<ph name="INSTALLED_APP_NAME"/>“.</translation>
 <translation id="144518587530125858">Temai nepavyko įkelti „<ph name="IMAGE_PATH"/>“.</translation>
 <translation id="3576324189521867626">Sėkmingai įdiegta</translation>
@@ -1107,9 +1107,9 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="6101226222197207147">Pridėta nauja programa (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">Pridėta nauja tema (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">Pridėtas „<ph name="EXTENSION_NAME"/>“</translation>
-<translation id="6637045053447935202">Kita jūsų kompiuteryje esanti programa pridėjo programą, kuri gali pakeisti „Dissenter“ veikimo būdą.</translation>
-<translation id="2015014930243978107">Kita jūsų kompiuteryje esanti programa pridėjo plėtinį, kuris gali pakeisti „Dissenter“ veikimo būdą.</translation>
-<translation id="2060128809251156338">Kita jūsų kompiuteryje esanti programa pridėjo temą, kuri gali pakeisti „Dissenter“ veikimo būdą.</translation>
+<translation id="6637045053447935202">Kita jūsų kompiuteryje esanti programa pridėjo programą, kuri gali pakeisti „Fulldive“ veikimo būdą.</translation>
+<translation id="2015014930243978107">Kita jūsų kompiuteryje esanti programa pridėjo plėtinį, kuris gali pakeisti „Fulldive“ veikimo būdą.</translation>
+<translation id="2060128809251156338">Kita jūsų kompiuteryje esanti programa pridėjo temą, kuri gali pakeisti „Fulldive“ veikimo būdą.</translation>
 <translation id="2470702053775288986">Nepalaikomi plėtiniai išjungti</translation>
 <translation id="2809586584051668049">ir dar <ph name="NUMBER_ADDITIONAL_DISABLED"/></translation>
 <translation id="5301954838959518834">Gerai, supratau</translation>
@@ -1314,7 +1314,7 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="8017679124341497925">Spartusis klavišas redaguotas</translation>
 <translation id="1174073918202301297">Spartusis klavišas pridėtas</translation>
 <translation id="2926085873880284723">Atkurti numatytuosius sparčiuosius klavišus</translation>
-<translation id="5801450813341024983">„Dissenter“ fonai</translation>
+<translation id="5801450813341024983">„Fulldive“ fonai</translation>
 <translation id="2800760947029405028">Įkelti vaizdą</translation>
 <translation id="8342861492835240085">Pasirinkti kolekciją</translation>
 <translation id="3132996321662585180">Atnaujinti kasdien</translation>
@@ -1401,7 +1401,7 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="833986336429795709">Kad atidarytumėte šią nuorodą, pasirinkite programą</translation>
 <translation id="192494336144674234">Atidaryti naudojant</translation>
 <translation id="9053893665344928494">Prisiminti mano pasirinkimą</translation>
-<translation id="5340857474604400806">Toliau naršyti „Dissenter“</translation>
+<translation id="5340857474604400806">Toliau naršyti „Fulldive“</translation>
 <translation id="3043581297103810752">Iš <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (inkognito)</translation>
 <translation id="1572139610531470719">„<ph name="WINDOW_TITLE"/>“ (svečias)</translation>
@@ -1462,8 +1462,8 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="6686817083349815241">Išsaugokite slaptažodį</translation>
 <translation id="8141725884565838206">Tvarkykite slaptažodžius</translation>
 <translation id="8275038454117074363">Importuoti</translation>
-<translation id="3191314862567596053">Slaptažodžių importavimas į „Dissenter“</translation>
-<translation id="6368144843345980623">Slaptažodžių eksportavimas iš „Dissenter“</translation>
+<translation id="3191314862567596053">Slaptažodžių importavimas į „Fulldive“</translation>
+<translation id="6368144843345980623">Slaptažodžių eksportavimas iš „Fulldive“</translation>
 <translation id="8503813439785031346">Vartotojo vardas</translation>
 <translation id="6657585470893396449">Slaptažodis</translation>
 <translation id="5472627187093107397">Išsaugoti šios svetainės slaptažodžius</translation>
@@ -1494,7 +1494,7 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="7052237160939977163">Siųsti našumo stebėjimo duomenis</translation>
 <translation id="5526928694260255286">Pridėti <ph name="BEGIN_LINK"/>„Bluetooth“ žurnalus<ph name="END_LINK"/> („Gab AI Inc“ darbuotojams)</translation>
 <translation id="3047644958362961983">Ši informacija padeda mums geriau suprasti jums iškilusią Padėjėjo problemą. Ji saugoma iki 90 dienų ir ją gali pasiekti tik atitinkami inžinierių ir atsiliepimų komandų nariai.</translation>
-<translation id="8545590844135745781">Siekdami geriau diagnozuoti „Bluetooth“ problemas, „Gab AI Inc“ darbuotojai gali įtraukti papildomų „Bluetooth“ žurnalų į savo atsiliepimų ataskaitas. Kai ši parinktis pažymėta, į ataskaitą iš dabartinės sesijos bus įtraukti „btsnoop“ ir HCI žurnalai, pašalinus kuo daugiau AAI. Pasiekti šiuos žurnalus galės tik „Listnr“ „Dissenter“ OS produkto grupės valdytojai. Žurnalai bus panaikinti po 90 dienų.</translation>
+<translation id="8545590844135745781">Siekdami geriau diagnozuoti „Bluetooth“ problemas, „Gab AI Inc“ darbuotojai gali įtraukti papildomų „Bluetooth“ žurnalų į savo atsiliepimų ataskaitas. Kai ši parinktis pažymėta, į ataskaitą iš dabartinės sesijos bus įtraukti „btsnoop“ ir HCI žurnalai, pašalinus kuo daugiau AAI. Pasiekti šiuos žurnalus galės tik „Listnr“ „Fulldive“ OS produkto grupės valdytojai. Žurnalai bus panaikinti po 90 dienų.</translation>
 <translation id="4206323443866416204">Pranešimai apie atsiliepimus</translation>
 <translation id="3681311097828166361">Dėkojame už atsiliepimus. Dabar esate neprisijungę, todėl jūsų pranešimas bus išsiųstas vėliau.</translation>
 <translation id="8713570323158206935">Siųsti <ph name="BEGIN_LINK1"/>sistemos informaciją<ph name="END_LINK1"/></translation>
@@ -1511,15 +1511,15 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="6885771755599377173">Sistemos informacijos peržiūra</translation>
 <translation id="1016566241875885511">Papildoma informacija (nebūtina)</translation>
 <translation id="8026334261755873520">Išvalyti naršymo duomenis</translation>
-<translation id="4718442817388594217">Pasirinkti duomenys pašalinti iš „Dissenter“ ir sinchronizuojamų įrenginių. „Gab AI Inc“ paskyroje galite būti kitų formų naršymo istorijos, pvz., paieškų ir veiklos iš kitų „Gab AI Inc“ paslaugų, kuri pasiekiama adresu <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="7814200940910057384">Išvalyti „Dissenter“ duomenys</translation>
+<translation id="4718442817388594217">Pasirinkti duomenys pašalinti iš „Fulldive“ ir sinchronizuojamų įrenginių. „Gab AI Inc“ paskyroje galite būti kitų formų naršymo istorijos, pvz., paieškų ir veiklos iš kitų „Gab AI Inc“ paslaugų, kuri pasiekiama adresu <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="7814200940910057384">Išvalyti „Fulldive“ duomenys</translation>
 <translation id="7346909386216857016">Gerai, supratau</translation>
 <translation id="8493236660459102203">Mikrofonas:</translation>
 <translation id="3925573269917483990">Fotoaparatas:</translation>
 <translation id="648927581764831596">Nėra</translation>
 <translation id="4172051516777682613">Visada rodyti</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Iššokantysis langas užblokuotas}one{# iššokantysis langas užblokuotas}few{# iššokantieji langai užblokuoti}many{# iššokančiojo lango užblokuota}other{# iššokančiųjų langų užblokuota}}</translation>
-<translation id="4156865452842056672">(„Dissenter“ klaidų puslapiai)</translation>
+<translation id="4156865452842056672">(„Fulldive“ klaidų puslapiai)</translation>
 <translation id="1734824808160898225">„<ph name="PRODUCT_NAME"/>“ gali nesugebėti atsinaujinti</translation>
 <translation id="8590375307970699841">Nustatyti automatinius naujinius</translation>
 <translation id="8926389886865778422">Neklauskite dar kartą</translation>
@@ -1624,10 +1624,10 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="8658645149275195032">„<ph name="APP_NAME"/>“ bendrina jūsų ekraną ir garsą su <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491">„<ph name="APP_NAME"/>“ bendrina langą.</translation>
 <translation id="8944964446326379280">„<ph name="APP_NAME"/>“ bendrina langą su <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555">„<ph name="APP_NAME"/>“ bendrina „Dissenter“ skirtuką.</translation>
-<translation id="5727851901710884484">„<ph name="APP_NAME"/>“ bendrina „Dissenter“ skirtuką su <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338">„<ph name="APP_NAME"/>“ bendrina „Dissenter“ skirtuką ir garsą.</translation>
-<translation id="859454237594354073">„<ph name="APP_NAME"/>“ bendrina „Dissenter“ skirtuką ir garsą su <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555">„<ph name="APP_NAME"/>“ bendrina „Fulldive“ skirtuką.</translation>
+<translation id="5727851901710884484">„<ph name="APP_NAME"/>“ bendrina „Fulldive“ skirtuką su <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338">„<ph name="APP_NAME"/>“ bendrina „Fulldive“ skirtuką ir garsą.</translation>
+<translation id="859454237594354073">„<ph name="APP_NAME"/>“ bendrina „Fulldive“ skirtuką ir garsą su <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">Slėpti</translation>
 <translation id="890616557918890486">Keisti šaltinį</translation>
 <translation id="7792388396321542707">Nebebendrinti</translation>
@@ -1650,7 +1650,7 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="4711067597921221305">Padėkite tobulinti „<ph name="PRODUCT_NAME"/>“ automatiškai siųsdami „Gab AI Inc“ naudojimo statistiką ir trikčių ataskaitas</translation>
 <translation id="5972826969634861500">Paleisti „<ph name="PRODUCT_NAME"/>“</translation>
 <translation id="4876273079589074638">Padėkite mūsų inžinieriams ištirti ir ištaisyti šią strigtį. Nurodykite tikslius veiksmus, jei galite. Nėra nesvarbios informacijos!</translation>
-<translation id="5418694430960033386">Nebėra laisvos „Dissenter“ atminties vietos arba tinklalapio procesas buvo nutrauktas dėl kitos priežasties. Jei norite tęsti, įkelkite iš naujo arba eikite į kitą puslapį.</translation>
+<translation id="5418694430960033386">Nebėra laisvos „Fulldive“ atminties vietos arba tinklalapio procesas buvo nutrauktas dėl kitos priežasties. Jei norite tęsti, įkelkite iš naujo arba eikite į kitą puslapį.</translation>
 <translation id="3065041951436100775">Atsiliepimai dėl uždaryto skirtuko.</translation>
 <translation id="3941565636838060942">Jei norite paslėpti prieigą prie šios programos, ją turite pašalinti naudodami
 „<ph name="CONTROL_PANEL_APPLET_NAME"/>“ valdymo skydelyje.
@@ -1678,10 +1678,10 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="4980805016576257426">Šiame plėtinyje yra kenkėjiškų programų.</translation>
 <translation id="5522156646677899028">Šiame plėtinyje aptiktas rimtas saugos pažeidžiamumas.</translation>
 <translation id="6945695820322143954">Šis plėtinys pažeidžia internetinės parduotuvės politiką.</translation>
-<translation id="177808131755847449">„Dissenter“ neleidžia. Šis plėtinys gali būti nesaugus.</translation>
+<translation id="177808131755847449">„Fulldive“ neleidžia. Šis plėtinys gali būti nesaugus.</translation>
 <translation id="1434696352799406980">Atlikus šį veiksmą paleidimo puslapis, naujo skirtuko puslapis, paieškos variklis ir prisegti skirtukai bus iš nustatyti naujo. Taip pat bus išjungti visi plėtiniai ir išvalyti laikini duomenys, pvz., slapukai. Žymės, istorija ir išsaugoti slaptažodžiai išvalyti nebus.</translation>
 <translation id="1242633766021457174">„<ph name="THIRD_PARTY_TOOL_NAME"/>“ nori iš naujo nustatyti nustatymus.</translation>
-<translation id="8073477228424628709">„<ph name="THIRD_PARTY_TOOL_NAME"/>“ nori atkurti „Dissenter “ nustatymus į pradinius numatytuosius nustatymus. Bus iš naujo nustatyti pagrindinis puslapis, naujo skirtuko puslapis ir paieškos variklis, išjungti plėtiniai ir atsegti visi skirtukai. Taip pat bus išvalyti kiti laikini ir talpykloje esantys duomenys, pvz., slapukai, turinio ir svetainių duomenys.</translation>
+<translation id="8073477228424628709">„<ph name="THIRD_PARTY_TOOL_NAME"/>“ nori atkurti „Fulldive “ nustatymus į pradinius numatytuosius nustatymus. Bus iš naujo nustatyti pagrindinis puslapis, naujo skirtuko puslapis ir paieškos variklis, išjungti plėtiniai ir atsegti visi skirtukai. Taip pat bus išvalyti kiti laikini ir talpykloje esantys duomenys, pvz., slapukai, turinio ir svetainių duomenys.</translation>
 <translation id="7581462281756524039">Valymo įrankis</translation>
 <translation id="1233721473400465416">Lokalė</translation>
 <translation id="2907619724991574506">Paleidimo URL</translation>
@@ -1875,7 +1875,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="6664774537677393800">Atidarant profilį įvyko klaida. Atsijunkite, tada vėl prisijunkite.</translation>
 <translation id="1794791083288629568">Atsiųskite atsiliepimų, kad padėtumėte mums išspręsti šią problemą.</translation>
 <translation id="8234795456569844941">Padėkite inžinieriams išspręsti šią problemą. Papasakokite, kas vyko prieš parodant profilio klaidos pranešimą:</translation>
-<translation id="6500340165622970282">Negalima paleisti „Dissenter“, nes atidarant jūsų profilį įvyko klaida. Pabandykite paleisti „Dissenter“ iš naujo.</translation>
+<translation id="6500340165622970282">Negalima paleisti „Fulldive“, nes atidarant jūsų profilį įvyko klaida. Pabandykite paleisti „Fulldive“ iš naujo.</translation>
 <translation id="6812349420832218321">„<ph name="PRODUCT_NAME"/>“ negalima paleisti pagrindinio naudotojo vardu.</translation>
 <translation id="2292848386125228270">Paleiskite „<ph name="PRODUCT_NAME"/>“ kaip įprastas naudotojas. Jei norite paleisti kaip pagrindinis naudotojas, kad galėtumėte kurti, iš naujo paleiskite naudodami žymą „--no-sandbox“.</translation>
 <translation id="7547317915858803630">Įspėjimas: „<ph name="PRODUCT_NAME"/>“ nustatymai saugomi tinklo diske. Dėl to gali sulėtėti veikimas, atsirasti strigčių ar net būti prarasti duomenys.</translation>
@@ -2251,8 +2251,8 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="4720113199587244118">Pridėti įrenginių</translation>
 <translation id="2776441542064982094">Atrodo, kad nėra įrenginių, kuriuos būtų galima užregistruoti tinkle. Jei įrenginys yra įjungtas ir prisijungęs prie interneto, pabandykite jį užregistruoti naudodami instrukcijų vadove pateiktomis instrukcijomis.</translation>
 <translation id="1007408791287232274">Nepavyko kelti įrenginių.</translation>
-<translation id="3886420006370338208">Turite prisijungti prie „Dissenter“, kad matytumėte savo įrenginius</translation>
-<translation id="6711610692002680394">Reikia prisijungti prie „Dissenter“, kad būtų galima užregistruoti naujus įrenginius</translation>
+<translation id="3886420006370338208">Turite prisijungti prie „Fulldive“, kad matytumėte savo įrenginius</translation>
+<translation id="6711610692002680394">Reikia prisijungti prie „Fulldive“, kad būtų galima užregistruoti naujus įrenginius</translation>
 <translation id="8931394284949551895">Nauji įrenginiai</translation>
 <translation id="3752673729237782832">Mano įrenginiai</translation>
 <translation id="1721937473331968728">Prie <ph name="CLOUD_PRINT_NAME"/> galite pridėti įprastų spausdintuvų, prijungtų prie jūsų kompiuterio.</translation>
@@ -2325,7 +2325,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="4540437243849625078">Ši svetainė rengiasi bendrinti informaciją programai už inkognito režimo ribų.</translation>
 <translation id="1227836882233136433">Išeiti iš inkognito režimo?</translation>
 <translation id="662080504995468778">Likti</translation>
-<translation id="2593289874938379417">„Dissenter“ negali pasiekti pageidaujamo ištekliaus.</translation>
+<translation id="2593289874938379417">„Fulldive“ negali pasiekti pageidaujamo ištekliaus.</translation>
 <translation id="760197030861754408">Eikite į <ph name="LANDING_PAGE"/>, kad prisijungtumėte.</translation>
 <translation id="3648348069317717750">Aptiktas „<ph name="USB_DEVICE_NAME"/>“</translation>
 <translation id="5042282098504489593">Norėdami prisijungti „<ph name="USB_DEVICE_NAME"/>“ prie „Linux“, atidarykite nustatymus</translation>
@@ -2380,24 +2380,24 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="2859806420264540918">Šioje svetainėje rodomi nepageidaujami arba klaidinantys skelbimai.</translation>
 <translation id="4077917118009885966">Skelbimai užblokuoti šioje svetainėje</translation>
 <translation id="6456955391422100996">Skelbimas pašalintas.</translation>
-<translation id="7533556202636568669">Šis skelbimas naudoja per daug įrenginio išteklių, tad „Dissenter“ jį pašalino.</translation>
+<translation id="7533556202636568669">Šis skelbimas naudoja per daug įrenginio išteklių, tad „Fulldive“ jį pašalino.</translation>
 <translation id="8497219075884839166">„Windows“ paslaugų programos</translation>
 <translation id="897525204902889653">Izoliavimo paslauga</translation>
 <translation id="7055152154916055070">Peradresavimas užblokuotas:</translation>
 <translation id="6777817260680419853">Peradresavimas užblokuotas</translation>
 <translation id="694592694773692225">Peradresavimas užblokuotas šiame puslapyje.</translation>
-<translation id="8945142681652245463">Greitai naršykite naudodami „Gab AI Inc Dissenter“</translation>
-<translation id="2618024864038703735">Saugiai naršykite naudodami „Gab AI Inc Dissenter“</translation>
-<translation id="8142180567942285208">Naršykite išmaniai naudodami „Dissenter“</translation>
+<translation id="8945142681652245463">Greitai naršykite naudodami „Gab AI Inc Fulldive“</translation>
+<translation id="2618024864038703735">Saugiai naršykite naudodami „Gab AI Inc Fulldive“</translation>
+<translation id="8142180567942285208">Naršykite išmaniai naudodami „Fulldive“</translation>
 <translation id="8862003515646449717">Perjunkite į sparčią naršyklę</translation>
 <translation id="8438328416656800239">Perjunkite į išmanią naršyklę</translation>
 <translation id="491691592645955587">Perjunkite į saugią naršyklę</translation>
 <translation id="683373380308365518">Perjunkite į išmanią ir saugią naršyklę</translation>
-<translation id="989239400026154074">„Gab AI Inc“ rekomenduoja „Dissenter“</translation>
-<translation id="6676231621615806698">Atidaryti „Dissenter“</translation>
+<translation id="989239400026154074">„Gab AI Inc“ rekomenduoja „Fulldive“</translation>
+<translation id="6676231621615806698">Atidaryti „Fulldive“</translation>
 <translation id="5250372599208556903">„<ph name="SEARCH_ENGINE_NAME"/>“ naudoja jūsų vietovę, kad pateiktų vietinį turinį. Tai galite pakeisti apsilankę skiltyje „<ph name="SETTINGS_LINK"/>“.</translation>
 <translation id="3737536731758327622">Čia rodomi jūsų atsisiuntimai</translation>
-<translation id="4782664866169793230">„Dissenter“ valdoma naudojant automatinę bandomąją programinę įrangą.</translation>
+<translation id="4782664866169793230">„Fulldive“ valdoma naudojant automatinę bandomąją programinę įrangą.</translation>
 <translation id="6721678857435001674">Peržiūrėti jūsų saugos rakto tipą ir modelį</translation>
 <translation id="1673137583248014546"><ph name="URL"/> nori sužinoti jūsų saugos rakto tipą ir modelį</translation>
 <translation id="6010869025736512584">Pasiekiama vaizdo įrašų įvestis</translation>
@@ -2530,7 +2530,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="3984431586879874039">Leisti šiai svetainei peržiūrėti jūsų saugos raktą?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> nori sužinoti jūsų saugos rakto tipą ir modelį</translation>
 <translation id="7618452966706304788">Ar norite naudoti „Touch ID“ su <ph name="APP_NAME"/> inkognito režimu?</translation>
-<translation id="3098826269712097986">Kai išeisite iš inkognito režimo, prisijungimo duomenys bus laikomi „Dissenter“. Taip galėsite ir vėliau su šia svetaine naudoti „Touch ID“.</translation>
+<translation id="3098826269712097986">Kai išeisite iš inkognito režimo, prisijungimo duomenys bus laikomi „Fulldive“. Taip galėsite ir vėliau su šia svetaine naudoti „Touch ID“.</translation>
 <translation id="2172784515318616985">Tęsti</translation>
 <translation id="5186185447130319458">Inkognito</translation>
 <translation id="7643842463591647490">{0,plural, =1{# atidarytas langas}one{# atidarytas langas}few{# atidaryti langai}many{# atidaryto lango}other{# atidarytų langų}}</translation>
@@ -2572,7 +2572,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="2346953515226895098">SODA paslauga</translation>
 <translation id="7516981202574715431">„<ph name="APP_NAME"/>“ pristabdyta</translation>
 <translation id="917350715406657904">Pasiekėte laiko apribojimą, kurį vienas iš tėvų nustatė „<ph name="APP_NAME"/>“. Rytoj galėsite ją naudoti <ph name="TIME_LIMIT"/>.</translation>
-<translation id="8891261408659902804">Pasiekėte laiko apribojimą, kurį vienas iš tėvų nustatė „Dissenter“ programai „<ph name="APP_NAME"/>“. Rytoj galėsite ją naudoti <ph name="TIME_LIMIT"/>.</translation>
+<translation id="8891261408659902804">Pasiekėte laiko apribojimą, kurį vienas iš tėvų nustatė „Fulldive“ programai „<ph name="APP_NAME"/>“. Rytoj galėsite ją naudoti <ph name="TIME_LIMIT"/>.</translation>
 <translation id="142655739075382478">„<ph name="APP_NAME"/>“ užblokuota</translation>
 <translation id="4404843640767531781">Programą „<ph name="APP_NAME"/>“ užblokavo vienas iš tėvų. Paprašykite vieno iš tėvų leidimo naudoti šią programą.</translation>
 <translation id="751523031290522286">Programą „<ph name="APP_NAME"/>“ užblokavo administratorius. Paprašykite administratoriaus leidimo naudoti šią programą.</translation>
@@ -2917,7 +2917,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="672213144943476270">Prieš naršydami kaip svečias atrakinkite savo profilį.</translation>
 <translation id="8086119151297127544">Prieš pašalindami profilį, atrakinkite savo profilį.</translation>
 <translation id="7805701378418968629">Prieš pridėdami profilį, atrakinkite savo profilį.</translation>
-<translation id="8978225823042133615">Jei norite naudoti „Dissenter“, prisijunkite</translation>
+<translation id="8978225823042133615">Jei norite naudoti „Fulldive“, prisijunkite</translation>
 <translation id="4893336867552636863">Atlikus šį veiksmą bus visam laikui ištrinti naršymo duomenys iš šio įrenginio.</translation>
 <translation id="2496180316473517155">Naršymo istorija</translation>
 <translation id="6865313869410766144">Automatinio pildymo formos duomenys</translation>
@@ -2941,7 +2941,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="9013707997379828817">Administratorius atkūrė šį įrenginį. Išsaugokite svarbius failus, tada paleiskite jį iš naujo. Visi šiame įrenginyje esantys duomenys bus ištrinti.</translation>
 <translation id="5877064549588274448">Kanalas pakeistas. Kad pritaikytumėte pakeitimus, iš naujo paleiskite įrenginį.</translation>
 <translation id="4716483597559580346">Atlikite veiksmą „Powerwash“, kad užtikrintumėte geresnę saugą</translation>
-<translation id="4089922565956168950">Šis naujovinimas iš naujo nustato „Dissenterbook“ ir pašalina dabartinio naudotojo duomenis.</translation>
+<translation id="4089922565956168950">Šis naujovinimas iš naujo nustato „Fulldivebook“ ir pašalina dabartinio naudotojo duomenis.</translation>
 <translation id="3688526734140524629">Keisti kanalą</translation>
 <translation id="6410328738210026208">Pakeisti kanalą ir paleisti „Powerwash“</translation>
 <translation id="1979280758666859181">Keičiate į kanalą, kuriame naudojama senesnė „<ph name="PRODUCT_NAME"/>“ versija. Kanalo pakeitimas bus pritaikytas, kai kanalo versija atitiks šiuo metu įrenginyje įdiegtą versiją.</translation>
@@ -2973,7 +2973,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> ir dar 1 paskyra}one{<ph name="EMAIL"/> ir dar <ph name="EXTRA_ACCOUNTS"/> paskyra}few{<ph name="EMAIL"/> ir dar <ph name="EXTRA_ACCOUNTS"/> paskyros}many{<ph name="EMAIL"/> ir dar <ph name="EXTRA_ACCOUNTS"/> paskyros}other{<ph name="EMAIL"/> ir dar <ph name="EXTRA_ACCOUNTS"/> paskyrų}}</translation>
 <translation id="7434635829372401939">Nustatymų sinchronizavimas</translation>
 <translation id="1036348656032585052">Išjungti</translation>
-<translation id="3267705913905916810">Programos ir nustatymai bus sinchronizuojami visuose „Dissenter“ įrenginiuose, kuriuose esate prisijungę naudodami „Gab AI Inc“ paskyrą. Jei reikia naršyklės sinchronizavimo parinkčių, eikite į <ph name="LINK_BEGIN"/>„Dissenter“ nustatymų skiltį<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Programos ir nustatymai bus sinchronizuojami visuose „Fulldive“ įrenginiuose, kuriuose esate prisijungę naudodami „Gab AI Inc“ paskyrą. Jei reikia naršyklės sinchronizavimo parinkčių, eikite į <ph name="LINK_BEGIN"/>„Fulldive“ nustatymų skiltį<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Spausdintuvai</translation>
 <translation id="8418661265246754237">„Gab AI Inc“ paskyros</translation>
 <translation id="3953834000574892725">Mano paskyros</translation>
@@ -3020,7 +3020,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="2187700606737131818">„Gab AI Inc“ nuotraukos</translation>
 <translation id="1827738518074806965">Meno galerija</translation>
 <translation id="9137157311132182254">Pageidaujamas paieškos variklis</translation>
-<translation id="7423118389528876103">Naudojama naršyklėje „Dissenter“ ir „<ph name="DEVICE_TYPE"/>“ paleidimo priemonėje</translation>
+<translation id="7423118389528876103">Naudojama naršyklėje „Fulldive“ ir „<ph name="DEVICE_TYPE"/>“ paleidimo priemonėje</translation>
 <translation id="2862205630718215619">„Gab AI Inc“ padėjėjas</translation>
 <translation id="8959699239363253085">Įjungta</translation>
 <translation id="971479617738309149">Išjungta</translation>
@@ -3040,15 +3040,15 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="6644513150317163574">Netinkamas URL formatas. Serveris turi būti nurodytas kaip prieglobos pavadinimas, kai naudojamas vieno prisijungimo paslaugos autentifikavimas.</translation>
 <translation id="6091761513005122595">Bendrinamas objektas įdėtas sėkmingai.</translation>
 <translation id="5770125698810550803">Rodyti naršymo mygtukus</translation>
-<translation id="2972318514147518075">Eikite į pagrindinį puslapį, naršykite atgal ir perjunkite programas naudodami mygtukus planšetinio kompiuterio režimu. Įjungta, kai įgalinta „DissenterVox“ arba automatinių paspaudimų funkcija.</translation>
+<translation id="2972318514147518075">Eikite į pagrindinį puslapį, naršykite atgal ir perjunkite programas naudodami mygtukus planšetinio kompiuterio režimu. Įjungta, kai įgalinta „FulldiveVox“ arba automatinių paspaudimų funkcija.</translation>
 <translation id="2558896001721082624">Visada rodyti pritaikymo neįgaliesiems parinktis sistemos meniu</translation>
 <translation id="2981113813906970160">Rodyti didelį pelės žymeklį</translation>
 <translation id="5072052264945641674">Koreguoti žymeklio dydį</translation>
 <translation id="4209092469652827314">Didelis</translation>
 <translation id="499165176004408815">Naudoti didelio kontrasto režimą</translation>
 <translation id="142758023928848008">Įgalinti pritraukiančius klavišus (norint naudoti sparčiuosius klavišus įvedus juos iš eilės)</translation>
-<translation id="5914872514449971753">Įgalinti „DissenterVox“ (ekrano skaitymą balsu)</translation>
-<translation id="7099511550603534982">Atidaryti „DissenterVox“ nustatymus</translation>
+<translation id="5914872514449971753">Įgalinti „FulldiveVox“ (ekrano skaitymą balsu)</translation>
+<translation id="7099511550603534982">Atidaryti „FulldiveVox“ nustatymus</translation>
 <translation id="8547013269961688403">Įgalinti viso ekrano didintuvą</translation>
 <translation id="8743390665131937741">Viso ekrano didintuvo mastelio keitimo lygis:</translation>
 <translation id="7334274148831027933">Įgalinti prie doko prijungtą didintuvą</translation>
@@ -3140,7 +3140,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="6902066522699286937">Balsas, kurio galite paklausyti</translation>
 <translation id="304747341537320566">Kalbų varikliai</translation>
 <translation id="2755367719610958252">Tvarkyti pritaikymo neįgaliesiems funkcijas</translation>
-<translation id="1203953622051744249">Tvarkykite paskyras, prie kurių esate prisijungę. Svetainės, programos ir plėtiniai naršyklėje „Dissenter“ ir „Gab AI Inc Play“ gali naudoti šias paskyras jums teikiamoms funkcijoms tinkinti pagal jūsų leidimus. <ph name="LINK_BEGIN"/>Sužinokite daugiau<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Tvarkykite paskyras, prie kurių esate prisijungę. Svetainės, programos ir plėtiniai naršyklėje „Fulldive“ ir „Gab AI Inc Play“ gali naudoti šias paskyras jums teikiamoms funkcijoms tinkinti pagal jūsų leidimus. <ph name="LINK_BEGIN"/>Sužinokite daugiau<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Čia pridėkite mokyklos paskyrą arba tvarkykite vaikų paskyras. <ph name="LINK_BEGIN"/>Sužinokite daugiau<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Paskyros</translation>
 <translation id="6597148444736186483">Jei norite šiame įrenginyje atsijungti nuo pagrindinės paskyros, palieskite ekrane rodomą laiką. Pateiktame meniu spustelėkite „Atsijungti“.</translation>
@@ -3212,7 +3212,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="234889437187286781">Klaida įkeliant duomenis</translation>
 <translation id="4660540330091848931">Dydžio keitimas</translation>
 <translation id="1481537595330271162">Keičiant disko dydį įvyko klaida</translation>
-<translation id="2756917833575664962">Norint įgalinti ADB derinimą reikia iš naujo nustatyti gamyklinius šio „Dissenterbook“ nustatymus. <ph name="BEGIN_LINK_LEARN_MORE"/>Sužinokite daugiau<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">Norint įgalinti ADB derinimą reikia iš naujo nustatyti gamyklinius šio „Fulldivebook“ nustatymus. <ph name="BEGIN_LINK_LEARN_MORE"/>Sužinokite daugiau<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">Jei norite įgalinti ADB derinimą, turite iš naujo paleisti šį „<ph name="DEVICE_TYPE"/>“. Išjungus reikia iš naujo nustatyti gamyklinius nustatymus.</translation>
 <translation id="8082390128630131497">Išjungus ADB derinimą bus iš naujo nustatyti šio „<ph name="DEVICE_TYPE"/>“ gamykliniai nustatymai. Bus ištrintos visos naudotojo paskyros ir vietiniai duomenys.</translation>
 <translation id="7932969338829957666">Bendrinami aplankai pasiekiami sistemoje „Linux“ adresu <ph name="BASE_DIR"/>.</translation>
@@ -3340,10 +3340,10 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="8002670234429879764">Spausdintuvas „<ph name="PRINTER_NAME"/>“ nebepasiekiamas.</translation>
 <translation id="3976108569178263973">Nėra pasiekiamų spausdintuvų.</translation>
 <translation id="217576141146192373">Nepavyko pridėti spausdintuvo. Patikrinkite spausdintuvo konfigūraciją ir bandykite dar kartą.</translation>
-<translation id="4052689580269971502">Nepavyko prijungti spausdintuvo. Patikrinkite, ar spausdintuvas yra įjungtas ir prijungtas prie „Dissenterbook“ naudojant „Wi-Fi“ arba USB.</translation>
+<translation id="4052689580269971502">Nepavyko prijungti spausdintuvo. Patikrinkite, ar spausdintuvas yra įjungtas ir prijungtas prie „Fulldivebook“ naudojant „Wi-Fi“ arba USB.</translation>
 <translation id="7099337801055912064">Nepavyko įkelti didelio PPD. Didžiausias galimas dydis yra 250 KB.</translation>
 <translation id="4310139701823742692">Failas netinkamo formato. Patikrinkite PPD failą ir bandykite dar kartą.</translation>
-<translation id="6580983683519551561">Nepavyko rasti PPD. Įsitikinkite, kad „Dissenterbook“ prijungtas, ir bandykite dar kartą.</translation>
+<translation id="6580983683519551561">Nepavyko rasti PPD. Įsitikinkite, kad „Fulldivebook“ prijungtas, ir bandykite dar kartą.</translation>
 <translation id="4694024090038830733">Spausdintuvą konfigūruoja administratorius.</translation>
 <translation id="5816434091619127343">Atlikus prašomus spausdintuvo pakeitimus, spausdintuvo nebebus galima naudoti.</translation>
 <translation id="6504611359718185067">Prisijunkite prie interneto, kad pridėtumėte spausdintuvą</translation>
@@ -3679,18 +3679,18 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="7770651108375708429">Atsijungti nuo „Wi-Fi“</translation>
 <translation id="4168015872538332605">Kai kurie <ph name="PRIMARY_EMAIL"/> priklausantys nustatymai bendrinami su jumis. Šie nustatymai turi įtakos jūsų paskyrai, tik kai naudojate kelias paskyras.</translation>
 <translation id="1485141095922496924"><ph name="PRODUCT_VERSION"/> versija (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Automatiškai atnaujinti „Dissenter“ visiems naudotojams</translation>
+<translation id="4570609078116869893">Automatiškai atnaujinti „Fulldive“ visiems naudotojams</translation>
 <translation id="7102687220333134671">Automatiniai naujiniai įjungti</translation>
 <translation id="6981982820502123353">Pritaikymas neįgaliesiems</translation>
 <translation id="5840822070878669614">Atidarykite internetinę parduotuvę</translation>
 <translation id="6073903501322152803">Pridėti pritaikymo neįgaliesiems funkcijų</translation>
 <translation id="7988355189918024273">Įgalinti pasiekiamumo funkcijas</translation>
-<translation id="5499063270485366718">Jei nebus naudingo vaizdo aprašo, „Dissenter“ bandys jums jį pateikti. Kad būtų galima kurti aprašus, vaizdai siunčiami į sistemą „Gab AI Inc“.</translation>
+<translation id="5499063270485366718">Jei nebus naudingo vaizdo aprašo, „Fulldive“ bandys jums jį pateikti. Kad būtų galima kurti aprašus, vaizdai siunčiami į sistemą „Gab AI Inc“.</translation>
 <translation id="8957762313041272117">Subtitrai realiuoju laiku</translation>
-<translation id="7075426315046750605">Subtitrų realiuoju laiku funkcija aptinka kalbą medijoje ir automatiškai generuoja visos „Dissenter“ leidžiamos medijos subtitrus.</translation>
+<translation id="7075426315046750605">Subtitrų realiuoju laiku funkcija aptinka kalbą medijoje ir automatiškai generuoja visos „Fulldive“ leidžiamos medijos subtitrus.</translation>
 <translation id="572155275267014074">„Android“ nustatymai</translation>
 <translation id="7201042526153088083">Diekite programas ir žaidimus iš „Gab AI Inc Play“ įrenginyje „<ph name="DEVICE_TYPE"/>“. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Sužinokite daugiau&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Programos, kurias atsisiuntėte iš „Gab AI Inc Play“, bus ištrintos iš šio „Dissenterbook“.
+<translation id="8039595758121742506">Programos, kurias atsisiuntėte iš „Gab AI Inc Play“, bus ištrintos iš šio „Fulldivebook“.
       <ph name="LINE_BREAKS1"/>
       Įsigytas turinys, pvz., filmai, TV laidos, muzika, knygos ar kiti pirkiniai programoje, taip pat gali būti ištrintas.
       <ph name="LINE_BREAKS2"/>
@@ -3704,7 +3704,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="6006484371116297560">Klasikinė</translation>
 <translation id="1795214765651529549">Naudoti klasikinę</translation>
 <translation id="2332742915001411729">Nustatyti iš naujo numatytąjį</translation>
-<translation id="8338457030135232378">„Dissenter“ spalvos</translation>
+<translation id="8338457030135232378">„Fulldive“ spalvos</translation>
 <translation id="827097179112817503">Rodyti mygtuką „Pagrindinis“</translation>
 <translation id="383007806262310953">Rodyti žymių juostą</translation>
 <translation id="3911824782900911339">Naujo skirtuko puslapis</translation>
@@ -3716,7 +3716,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="1670399744444387456">Bendrieji</translation>
 <translation id="1763808908432309942">Atidaromas naujame skirtuke</translation>
 <translation id="6248988683584659830">Paieškos nuostatos</translation>
-<translation id="883304095704384301">Jei nerandate to, ko ieškote, eikite į <ph name="BEGIN_LINK_CHROMIUM"/>„Gab AI Inc Dissenter“ pagalbos puslapį<ph name="END_LINK_CHROMIUM"/></translation>
+<translation id="883304095704384301">Jei nerandate to, ko ieškote, eikite į <ph name="BEGIN_LINK_CHROMIUM"/>„Gab AI Inc Fulldive“ pagalbos puslapį<ph name="END_LINK_CHROMIUM"/></translation>
 <translation id="6406708970972405507">Nustatymai – „<ph name="SECTION_TITLE"/>“</translation>
 <translation id="3019285239893817657">Papildomo puslapio mygtukas</translation>
 <translation id="379509625511193653">Išjungta</translation>
@@ -3740,7 +3740,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="3032188998195902534">Jei norite pridėti „Gab AI Inc Pay“ metodų arba juos tvarkyti, eikite į savo <ph name="BEGIN_LINK"/>„Gab AI Inc“ paskyrą<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">Ši kortelė bus išsaugota tik šiame įrenginyje</translation>
 <translation id="5087580092889165836">Pridėti kortelę</translation>
-<translation id="4835914736509775287">Įrašyti korteles į „Dissenter“ paskyrą</translation>
+<translation id="4835914736509775287">Įrašyti korteles į „Fulldive“ paskyrą</translation>
 <translation id="7255002516883565667">Dabar turite vieną kortelę, kurią galima naudoti šiame įrenginyje</translation>
 <translation id="6848388270925200958">Dabar turite kortelių, kurias galima naudoti šiame įrenginyje</translation>
 <translation id="4807098396393229769">Kortelėje nurodytas vardas ir pavardė</translation>
@@ -3903,7 +3903,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="5468173180030470402">Ieškoma failų bendrinimo įrenginių</translation>
 <translation id="3336664756920573711">Atrakinkite „<ph name="DEVICE_TYPE"/>“ naudodami „Android“ telefoną</translation>
 <translation id="1164674268730883318">Išjungti „Smart Lock“, skirtą „<ph name="DEVICE_TYPE"/>“?</translation>
-<translation id="2739030071582769583">Jei išjungsite „Smart Lock“, skirtą „<ph name="DEVICE_TYPE"/>“, negalėsite atrakinti „Dissenter“ įrenginių naudodami telefoną. Turėsite įvesti slaptažodį.</translation>
+<translation id="2739030071582769583">Jei išjungsite „Smart Lock“, skirtą „<ph name="DEVICE_TYPE"/>“, negalėsite atrakinti „Fulldive“ įrenginių naudodami telefoną. Turėsite įvesti slaptažodį.</translation>
 <translation id="4737715515457435632">Prisijunkite prie tinklo</translation>
 <translation id="5425722269016440406">Kad išjungtumėte „Smart Lock“, turite būti prisijungę, nes šis nustatymas sinchronizuojamas su telefonu ir kitais įrenginiais. Pirmiausia prisijunkite prie tinklo.</translation>
 <translation id="8885197664446363138">„Smart Lock“ nepasiekiama</translation>
@@ -4137,20 +4137,20 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="3633309367764744750">Iš anksto iškviečiama informacija iš puslapių, įskaitant tuos, kuriuose dar nesate lankęsi. Iškviesta informacija gali būti slapukai, jei juos leidžiate.</translation>
 <translation id="3201899458094819285">Saugus naršymas (apsaugo jus ir jūsų įrenginį nuo pavojingų svetainių)</translation>
 <translation id="2876369937070532032">Siunčia „Gab AI Inc“ kai kurių puslapių, kuriuose lankotės, URL, kai kyla pavojus jūsų saugai</translation>
-<translation id="4991384657077828949">Padėkite tobulinti „Dissenter“ saugą</translation>
+<translation id="4991384657077828949">Padėkite tobulinti „Fulldive“ saugą</translation>
 <translation id="1984646864943401749">„Gab AI Inc“ siunčiami kai kurių lankomų puslapių URL, ribota sistemos informacija ir kai kurių puslapių turinys, kad būtų galima aptikti naujas grėsmes ir apsaugoti visus žiniatinklio naudotojus.</translation>
 <translation id="1641113438599504367">Saugus naršymas</translation>
 <translation id="6900532703269623216">Sustiprinta apsauga</translation>
 <translation id="7307583170263691471">Spartesnė, veiksni apsauga nuo pavojingų svetainių, atsisiuntimų ir plėtinių. Įspėjama apie slaptažodžių pažeidimus. Naršymo duomenys turi būti siunčiami į sistemą „Gab AI Inc“.</translation>
 <translation id="8645920082661222035">Numato ir įspėja jus apie pavojingus įvykius, prieš jiems nutinkant</translation>
-<translation id="5265419033369521352">Apsaugo jus naršyklėje „Dissenter“ ir gali būti naudojama apsaugai kitose „Gab AI Inc“ programose pagerinti, kai esate prisijungę</translation>
+<translation id="5265419033369521352">Apsaugo jus naršyklėje „Fulldive“ ir gali būti naudojama apsaugai kitose „Gab AI Inc“ programose pagerinti, kai esate prisijungę</translation>
 <translation id="6770602306803890733">Sustiprina jūsų ir visų žiniatinklio naudotojų saugą</translation>
 <translation id="3690369331356918524">Įspėjama, jei slaptažodžiai buvo atskleisti įvykus duomenų saugos pažeidimui</translation>
 <translation id="4979281249641199724">Siunčia URL Saugaus naršymo funkcijai, kad juos patikrintų. Taip pat siunčia nedaug puslapių, atsisiuntimų, plėtinių veiklos ir sistemos informacijos, kad padėtų aptikti naujas grėsmes. Laikinai susieja šiuos duomenis su „Gab AI Inc“ paskyra, kai esate prisijungę, kad apsaugotų jus „Gab AI Inc“ programose.</translation>
 <translation id="1963976881984600709">Įprasta apsauga</translation>
 <translation id="6882836635272038266">Įprasta apsauga nuo svetainių, atsisiuntimų ir plėtinių, kurie yra žinomi kaip pavojingi.</translation>
 <translation id="5561162485081632007">Aptinka ir įspėja jus apie pavojingus įvykius, kai jų nutinka</translation>
-<translation id="7810992039564280750">Tikrinami URL pagal nesaugių svetainių sąrašą, saugomą naršyklėje „Dissenter“. Jei svetainė bando pavogti slaptažodį ar atsisiuntėte žalingą failą, „Dissenter“ taip pat gali siųsti URL, įskaitant puslapio turinio dalis, Saugaus naršymo funkcijai.</translation>
+<translation id="7810992039564280750">Tikrinami URL pagal nesaugių svetainių sąrašą, saugomą naršyklėje „Fulldive“. Jei svetainė bando pavogti slaptažodį ar atsisiuntėte žalingą failą, „Fulldive“ taip pat gali siųsti URL, įskaitant puslapio turinio dalis, Saugaus naršymo funkcijai.</translation>
 <translation id="3847319713229060696">Pagalba didinant visų naudotojų saugą žiniatinklyje</translation>
 <translation id="1984417487208496350">Apsaugos nėra (nerekomenduojama)</translation>
 <translation id="1295971429974142731">Neapsaugo jūsų nuo pavojingų svetainių, atsisiuntimų ir plėtinių. Kai yra galimybė, vis tiek gausite saugaus naršymo pranešimus kitose „Gab AI Inc“ paslaugose, pvz., „Gmail“ ir paieškoje.</translation>
@@ -4206,7 +4206,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="8632933437936028548">Nustatymų nustatymas iš naujo</translation>
 <translation id="5293170712604732402">Atkurti pradinius numatytuosius nustatymus</translation>
 <translation id="892706138619340876">Kai kurie nustatymai nustatyti iš naujo</translation>
-<translation id="2334029754052191847">„Dissenter“ aptiko, kad kai kuriuos nustatymus sugadino kita programa, ir nustatė juos iš naujo į pirminius numatytuosius nustatymus.</translation>
+<translation id="2334029754052191847">„Fulldive“ aptiko, kad kai kuriuos nustatymus sugadino kita programa, ir nustatė juos iš naujo į pirminius numatytuosius nustatymus.</translation>
 <translation id="4582563038311694664">Nustatyti visus nustatymus iš naujo</translation>
 <translation id="4146785383423576110">Nustatykite iš naujo ir išvalykite</translation>
 <translation id="2603115962224169880">Išvalykite kompiuterį</translation>
@@ -4275,7 +4275,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="5340638867532133571">Leisti svetainėms diegti mokėjimų dorokles (rekomenduojama)</translation>
 <translation id="763632859238619983">Neleisti jokioms svetainėms diegti mokėjimų doroklių</translation>
 <translation id="8270242299912238708">PDF dokumentai</translation>
-<translation id="539658326146969381">Atsisiųskite PDF failus, užuot automatiškai atidarę juos naršyklėje „Dissenter“</translation>
+<translation id="539658326146969381">Atsisiųskite PDF failus, užuot automatiškai atidarę juos naršyklėje „Fulldive“</translation>
 <translation id="4434045419905280838">Iššok. langai ir peradresavimai</translation>
 <translation id="6612358246767739896">Apsaugotas turinys</translation>
 <translation id="4252852543720145436">Apsaugoto turinio identifikatoriai</translation>
@@ -4336,7 +4336,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="2913331724188855103">Leisti svetainėms išsaugoti ir nuskaityti slapukų duomenis (rekomenduojama)</translation>
 <translation id="5908769186679515905">Užblokuoti svetaines, kad nebūtų galima vykdyti „Flash“</translation>
 <translation id="783214144752121388">Blokuoti, kad svetainėse nebūtų vykdoma „Flash“ (rekomenduojama)</translation>
-<translation id="6096007141921397775">„Flash“ nustatymai bus taikomi, kol išeisite iš „Dissenter“.</translation>
+<translation id="6096007141921397775">„Flash“ nustatymai bus taikomi, kol išeisite iš „Fulldive“.</translation>
 <translation id="8074127646604999664">Leisti pastaruoju metu uždarytoms svetainėms baigti duomenų siuntimą ir gavimą</translation>
 <translation id="7062222374113411376">Leisti pastaruoju metu uždarytoms svetainėms baigti duomenų siuntimą ir gavimą (rekomenduojama)</translation>
 <translation id="5068918910148307423">Neleisti pastaruoju metu uždarytoms svetainėms baigti duomenų siuntimo ir gavimo</translation>
@@ -4416,7 +4416,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="5566692924079383101">Ši išimtis bus automatiškai pašalinta, kai išeisite iš dabartinės inkognito režimu veikiančios sesijos</translation>
 <translation id="383891835335927981">Nėra svetainių, kurių turinys priartintas arba atitolintas</translation>
 <translation id="3566721612727112615">Nepridėta jokių svetainių</translation>
-<translation id="8098574385249290065">Leisti „Dissenter“ pasirinkti, kada svetainės gali leisti garsą (rekomenduojama)</translation>
+<translation id="8098574385249290065">Leisti „Fulldive“ pasirinkti, kada svetainės gali leisti garsą (rekomenduojama)</translation>
 <translation id="4354344420232759511">Lankytos svetainės bus rodomos čia</translation>
 <translation id="3757733214359997190">Svetainių nerasta</translation>
 <translation id="6545864417968258051">„Bluetooth“ nuskaitymas</translation>
@@ -4429,7 +4429,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Svetainės pridėjimas</translation>
 <translation id="5052499409147950210">Svetainės redagavimas</translation>
-<translation id="4610862967073369855">Leidžiama „Android Messages“ perduoti tekstus iš telefono į „Dissenterbook“</translation>
+<translation id="4610862967073369855">Leidžiama „Android Messages“ perduoti tekstus iš telefono į „Fulldivebook“</translation>
 <translation id="6742339027238151589">Pasiekiama scenarijaus</translation>
 <translation id="361106536627977100">„Flash“ duomenys</translation>
 <translation id="8557930019681227453">Aprašas</translation>
@@ -4441,7 +4441,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="8016266267177410919">Laikina saugykla</translation>
 <translation id="4175737294868205930">Nuolatinė saugykla</translation>
 <translation id="8397843425685839889">Jūs ir „Gab AI Inc“</translation>
-<translation id="8907706281008466056">„Dissenter“ profilio nuotrauka</translation>
+<translation id="8907706281008466056">„Fulldive“ profilio nuotrauka</translation>
 <translation id="2023167225947895179">PIN kodas gali būti lengvai atspėjamas</translation>
 <translation id="5342091991439452114">PIN kodą turi sudaryti bent <ph name="MINIMUM"/> skaitm.</translation>
 <translation id="5252653240322147470">PIN kodą turi sudaryti mažiau nei <ph name="MAXIMUM"/> skaitm.</translation>
@@ -4506,23 +4506,23 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="3817524650114746564">Atidaryti kompiuterio tarpinio serverio nustatymus</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> naudoja plėtinio tarpinio serverio nustatymus</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> naudoja administratoriaus tarpinio serverio nustatymus</translation>
-<translation id="6187156085111579405">Jei reikės, bus pašalinti ir elementai, kurie čia nenurodyti. Sužinokite daugiau apie &lt;a href="<ph name="URL"/>"&gt;apsaugą nuo nepageidaujamos programinės įrangos&lt;/a&gt; „Dissenter“ privatumo baltojoje knygoje.</translation>
+<translation id="6187156085111579405">Jei reikės, bus pašalinti ir elementai, kurie čia nenurodyti. Sužinokite daugiau apie &lt;a href="<ph name="URL"/>"&gt;apsaugą nuo nepageidaujamos programinės įrangos&lt;/a&gt; „Fulldive“ privatumo baltojoje knygoje.</translation>
 <translation id="5280174558369304332">Plėtiniai, kurie bus pašalinti:</translation>
 <translation id="7712836429117959503">Nežinomas plėtinys su ID <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">Failas ir programos, kurie bus izoliuoti:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 elementas}one{{NUM_ITEMS} elementas}few{{NUM_ITEMS} elementai}many{{NUM_ITEMS} elemento}other{{NUM_ITEMS} elementų}}</translation>
 <translation id="7187428571767585875">Registro vertės, kurios bus pašalintos arba pakeistos:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{Dar 1}one{Dar {NUM_DOWNLOADS}}few{Dar {NUM_DOWNLOADS}}many{Dar {NUM_DOWNLOADS}}other{Dar {NUM_DOWNLOADS}}}</translation>
-<translation id="2749608811030566578">„Dissenter“ šalinant kenkėjišką programinę įrangą įvyko klaida</translation>
-<translation id="8189483132214844139">„Dissenter“ gali rasti kenkėjišką programinę įrangą jūsų kompiuteryje ir ją pašalinti</translation>
+<translation id="2749608811030566578">„Fulldive“ šalinant kenkėjišką programinę įrangą įvyko klaida</translation>
+<translation id="8189483132214844139">„Fulldive“ gali rasti kenkėjišką programinę įrangą jūsų kompiuteryje ir ją pašalinti</translation>
 <translation id="1426870617281699524">Spustelėkite „Bandyti dar kartą“ ir priimkite paraginimą kompiuteryje</translation>
-<translation id="7886744396008377537">Kompiuteryje yra kenkėjiškos programinės įrangos. „Dissenter“ ją pašalina, atkuria nustatymus ir išjungia plėtinius. Tai leis naršyklei vėl įprastai veikti.</translation>
-<translation id="1484912962860902625">„Dissenter“ ieškant kenkėjiškos programinės įrangos įvyko klaida</translation>
+<translation id="7886744396008377537">Kompiuteryje yra kenkėjiškos programinės įrangos. „Fulldive“ ją pašalina, atkuria nustatymus ir išjungia plėtinius. Tai leis naršyklei vėl įprastai veikti.</translation>
+<translation id="1484912962860902625">„Fulldive“ ieškant kenkėjiškos programinės įrangos įvyko klaida</translation>
 <translation id="451407183922382411">Parėmė „<ph name="COMPANY_NAME"/>“</translation>
 <translation id="5254368820972107711">Rodyti norimus pašalinti failus</translation>
 <translation id="296026337010986570">Atlikta! Žalinga programinė įranga pašalinta. Jei norite vėl įjungti plėtinius, apsilankykite puslapyje &lt;a href="chrome://extensions"&gt;„Plėtiniai“&lt;/a&gt;.</translation>
 <translation id="284975061945174219">Nepavyko išvalyti</translation>
-<translation id="9014750448058570312">Norint tęsti „Dissenter“ reikia leidimo</translation>
+<translation id="9014750448058570312">Norint tęsti „Fulldive“ reikia leidimo</translation>
 <translation id="1852141627593563189">Žalingos programinės įrangos radimas</translation>
 <translation id="850875081535031620">Neaptikta kenkėjiškos programinės įrangos</translation>
 <translation id="1186771945450942097">Žalingos programinės įrangos pašalinimas</translation>
@@ -4535,7 +4535,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="6555810572223193255">Valymo funkcija šiuo metu nepasiekiama</translation>
 <translation id="7117228822971127758">Vėliau bandykite dar kartą</translation>
 <translation id="443475966875174318">Nesuderinamų programų atnaujinimas arba pašalinimas</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Gali būti, kad ši programa neleidžia „Dissenter“ tinkamai veikti.}one{Gali būti, kad šios programos neleidžia „Dissenter“ tinkamai veikti.}few{Gali būti, kad šios programos neleidžia „Dissenter“ tinkamai veikti.}many{Gali būti, kad šios programos neleidžia „Dissenter“ tinkamai veikti.}other{Gali būti, kad šios programos neleidžia „Dissenter“ tinkamai veikti.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Gali būti, kad ši programa neleidžia „Fulldive“ tinkamai veikti.}one{Gali būti, kad šios programos neleidžia „Fulldive“ tinkamai veikti.}few{Gali būti, kad šios programos neleidžia „Fulldive“ tinkamai veikti.}many{Gali būti, kad šios programos neleidžia „Fulldive“ tinkamai veikti.}other{Gali būti, kad šios programos neleidžia „Fulldive“ tinkamai veikti.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Kad galėtumėte toliau naršyti žiniatinklį, paprašykite administratoriaus pašalinti šią programą.}one{Kad galėtumėte toliau naršyti žiniatinklį, paprašykite administratoriaus pašalinti šias programas.}few{Kad galėtumėte toliau naršyti žiniatinklį, paprašykite administratoriaus pašalinti šias programas.}many{Kad galėtumėte toliau naršyti žiniatinklį, paprašykite administratoriaus pašalinti šias programas.}other{Kad galėtumėte toliau naršyti žiniatinklį, paprašykite administratoriaus pašalinti šias programas.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Sužinokite, kaip atnaujinti programas<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{Programa}one{Programos}few{Programos}many{Programos}other{Programos}}</translation>
@@ -4618,13 +4618,13 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="284843628681142937">Siunčiami „Gab AI Inc“ puslapių, kuriuose lankotės, URL</translation>
 <translation id="7704317875155739195">Automatiškai užbaigti paieškas ir URL</translation>
 <translation id="2000419248597011803">Numatytajam paieškos varikliui siunčiami kai kurie slapukai ir į adreso juostą bei paieškos laukelį įvestos paieškos</translation>
-<translation id="918192811481327695">Padėti tobulinti „Dissenter“ funkcijas ir našumą</translation>
+<translation id="918192811481327695">Padėti tobulinti „Fulldive“ funkcijas ir našumą</translation>
 <translation id="9063160602596686558">Automatiškai siunčia naudojimo statistiką ir strigčių ataskaitas „Gab AI Inc“</translation>
 <translation id="6697492270171225480">Rodyti panašių puslapių pasiūlymus, kai nepavyksta rasti puslapio</translation>
 <translation id="4534361985432360439">Siunčia puslapio, kurį bandote pasiekti, žiniatinklio adresą „Gab AI Inc“</translation>
 <translation id="3831436149286513437">„Gab AI Inc“ disko paieškos pasiūlymai</translation>
 <translation id="5244474230056479698">Sinchronizavimas su <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">„Gab AI Inc“ išm. funkc. „Dissenter“</translation>
+<translation id="9125982323641182972">„Gab AI Inc“ išm. funkc. „Fulldive“</translation>
 <translation id="2537178555904266562">Sinchronizuojant slaptažodžius įvyko klaida</translation>
 <translation id="4314815835985389558">Sinchronizavimo tvarkymas</translation>
 <translation id="8931475688782629595">Sinchronizuojamo turinio tvarkymas</translation>
@@ -4642,7 +4642,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="1651008383952180276">Reikia dukart įvesti tą pačią slaptafrazę</translation>
 <translation id="988978206646512040">Neleidžiama naudoti tuščio slaptafrazės lauko</translation>
 <translation id="2136476978468204130">Įvesta slaptafrazė netinka</translation>
-<translation id="7505421639213002314">„Dissenter“ sinchronizavimo duomenys</translation>
+<translation id="7505421639213002314">„Fulldive“ sinchronizavimo duomenys</translation>
 <translation id="452750746583162491">Peržiūrėti sinchronizuotus duomenis</translation>
 <translation id="7956662517480676674">Sinchron. ir „Gab AI Inc“ paslaugos</translation>
 <translation id="7772032839648071052">Patvirtinti slaptafrazę</translation>
@@ -4741,7 +4741,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="1992397118740194946">Nenustatyta</translation>
 <translation id="6706210727756204531">Taikymo sritis</translation>
 <translation id="5532223876348815659">Visuotinės</translation>
-<translation id="300669147395456190">„Dissenter“ programos</translation>
+<translation id="300669147395456190">„Fulldive“ programos</translation>
 <translation id="6787839852456839824">Spartieji klavišai</translation>
 <translation id="6419546358665792306">Įkelti neišpakuotą</translation>
 <translation id="8023801379949507775">Atnaujinti plėtinius dabar</translation>
@@ -4755,13 +4755,13 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="8447409163267621480">Naudokite „Ctrl“ arba „Alt“</translation>
 <translation id="3365598184818502391">Naudokite „Ctrl“ arba „Alt“</translation>
 <translation id="1688935057616748272">Įveskite raidę</translation>
-<translation id="1579879232130925590">Saugesnė ir smagesnė „Dissenter“</translation>
+<translation id="1579879232130925590">Saugesnė ir smagesnė „Fulldive“</translation>
 <translation id="964057662886721376">Kai kurie plėtiniai gali lėtinti jūsų darbą, ypač tie, kurių įdiegti neplanavote.</translation>
 <translation id="1499271269825557605">Jei neatpažįstate plėtinio arba jei jūsų naršyklė neveikia, kaip numatyta, galite išjungti arba tinkinti plėtinius čia.</translation>
 <translation id="2382818385048255866">Patikrinkite plėtinius</translation>
 <translation id="3900789207771372462">Kai kurie plėtiniai gali peržiūrėti jūsų naršymo veiklą, įskaitant asmens informaciją.</translation>
 <translation id="6772339735733515807">Plėtinių valdymas</translation>
-<translation id="1510515462062582289">Šiame puslapyje galite peržiūrėti visus „Dissenter“ įdiegtus plėtinius.</translation>
+<translation id="1510515462062582289">Šiame puslapyje galite peržiūrėti visus „Fulldive“ įdiegtus plėtinius.</translation>
 <translation id="2810390687497823527">Jei neatpažįstate plėtinio arba jei jūsų naršyklė neveikia, kaip numatyta, galite išjungti arba tinkinti plėtinius čia.</translation>
 <translation id="4479424953165245642">Tvarkyti viešojo terminalo programas</translation>
 <translation id="6619801788773578757">Pridėkite viešojo terminalo programą</translation>
@@ -4777,7 +4777,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="2342740338116612727">Žymės pridėtos</translation>
 <translation id="7835178595033117206">Žymė pašalinta</translation>
 <translation id="742130257665691897">Žymės pašalintos</translation>
-<translation id="5468853758063275923">„Dissenter“ yra numatytoji naršyklė</translation>
+<translation id="5468853758063275923">„Fulldive“ yra numatytoji naršyklė</translation>
 <translation id="2950533317914339731">Pridėkite žymių prie mėgstamiausių „Gab AI Inc“ programų</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4792,13 +4792,13 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="5033266061063942743">Geometrinės figūros</translation>
 <translation id="7789963078219276159">Pradžios puslapio fonas pakeistas į <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Pradžios puslapio fonas iš naujo nustatytas kaip numatytasis fonas.</translation>
-<translation id="239760341987199724">Nustatyti „Dissenter“ kaip numatytąją naršyklę</translation>
+<translation id="239760341987199724">Nustatyti „Fulldive“ kaip numatytąją naršyklę</translation>
 <translation id="96037229054033864">Naudokitės „Gab AI Inc“ paieška ir „Gab AI Inc“ išmaniosiomis funkcijomis kiekvieną kartą naršydami</translation>
-<translation id="296137235951584143">Suasmeninkite „Dissenter“</translation>
+<translation id="296137235951584143">Suasmeninkite „Fulldive“</translation>
 <translation id="3982375475032951137">Nustatykite naršyklę atlikdami kelis paprastus veiksmus</translation>
 <translation id="6972754398087986839">Darbo pradžia</translation>
-<translation id="3707821975049107110">Jau naudojate „Dissenter“? Prisijunkite</translation>
-<translation id="7113572760575285642">Jūsų „Dissenter“, visur</translation>
+<translation id="3707821975049107110">Jau naudojate „Fulldive“? Prisijunkite</translation>
+<translation id="7113572760575285642">Jūsų „Fulldive“, visur</translation>
 <translation id="567643736130151854">Prisijunkite ir įjunkite sinchronizavimą, kad gautumėte žymes, slaptažodžius ir daugiau visuose įrenginiuose</translation>
 <translation id="725758059478686223">Spausdinimo paslauga</translation>
 <translation id="15662109988763471">Pasirinktas spausdintuvas nepasiekiamas arba netinkamai įdiegtas. Patikrinkite spausdintuvą arba pabandykite pasirinkti kitą spausdintuvą.</translation>
@@ -4921,7 +4921,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="7574650250151586813">Jei norite vesti tekstą, atnaujinkite „Daydream“ klaviatūros programą</translation>
 <translation id="983511809958454316">Ši funkcija nepalaikoma VR režimu</translation>
 <translation id="4008291085758151621">Svetainės informacija nepasiekiama VR formatu</translation>
-<translation id="1439926347196400598">Leisti „Dissenter“ įrašyti garsą?</translation>
+<translation id="1439926347196400598">Leisti „Fulldive“ įrašyti garsą?</translation>
 <translation id="6313641880021325787">IŠEITI IŠ VR</translation>
 <translation id="2670429602441959756">Šiame puslapyje yra funkcijų, kurios dar nepalaikomos VR. Išeinama...</translation>
 <translation id="1802687198411089702">Puslapis neatsako. Galite palaukti arba išeiti.</translation>
@@ -4943,7 +4943,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="1721312023322545264">Turite gauti <ph name="NAME"/> leidimą apsilankyti šioje svetainėje</translation>
 <translation id="7543525346216957623">Paprašykite vieno iš tėvų</translation>
 <translation id="471880041731876836">Neturite leidimo, kad galėtumėte apsilankykite šioje svetainėje</translation>
-<translation id="3480834636742786788">Prieš naudodami šią programą prisijunkite prie „Dissenter“.</translation>
+<translation id="3480834636742786788">Prieš naudodami šią programą prisijunkite prie „Fulldive“.</translation>
 <translation id="2851634818064021665">Jums reikalingas leidimas, kad galėtumėte apsilankykite šioje svetainėje</translation>
 <translation id="4933782374919065856">Turite klausimų? Susisiekite su jūsų profilį prižiūrinčiu asmeniu.</translation>
 <translation id="2712173769900027643">Prašyti leidimo</translation>
@@ -4963,7 +4963,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="7755287808199759310">Jūsų tėtis ar mama gali ją atblokuoti už jus</translation>
 <translation id="5732392974455271431">Jūsų tėvai gali atblokuoti ją už jus</translation>
 <translation id="3556433843310711081">Jūsų valdytojas gali atblokuoti ją už jus</translation>
-<translation id="1254756632288991504">Pirmiausia prisijunkite prie „Dissenter“, kad „Dissenter“ galėtų patikrinti, ar jums leidžiama pasiekti šią svetainę.</translation>
+<translation id="1254756632288991504">Pirmiausia prisijunkite prie „Fulldive“, kad „Fulldive“ galėtų patikrinti, ar jums leidžiama pasiekti šią svetainę.</translation>
 <translation id="2507397597949272797">„<ph name="NAME"/>“ pristabdyta</translation>
 <translation id="8015163965024115122">Pasiektas tėvų nustatytas „<ph name="IDS_SHORT_PRODUCT_NAME"/>“ arba „<ph name="IDS_SHORT_PRODUCT_NAME"/>“ programų apribojimas.</translation>
 <translation id="2748061034695037846">„<ph name="DOMAIN"/>“ pristabdyta</translation>

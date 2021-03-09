@@ -22,7 +22,7 @@
 <translation id="5342314432463739672">Рұқсат сұраулары</translation>
 <translation id="3749259744154402564">Қолдау көрсетілмейді</translation>
 <translation id="629730747756840877">Есептік жазба</translation>
-<translation id="82609232232243542">Dissenter жүйесіне кіру</translation>
+<translation id="82609232232243542">Fulldive жүйесіне кіру</translation>
 <translation id="7956662517480676674">Синхрондау және Gab AI Inc қызметтері</translation>
 <translation id="5294439808117722387">Синхрондау және Gab AI Inc қызметі параметрлерін реттеудесіз. Синхрондауды қосуды аяқтау үшін экранның төменгі жағындағы "Растау" түймесін түртіңіз. Жоғары қарай өту</translation>
 <translation id="2096012225669085171">Барлық құрылғыларда синхрондау және жекелендіру</translation>
@@ -34,7 +34,7 @@
 <translation id="6303969859164067831">Есептік жазбадан шығу және синхрондау функциясын өшіру</translation>
 <translation id="1125261911132334651">Gab AI Inc есептік жазбасын басқару</translation>
 <translation id="6406506848690869874">Синхрондау</translation>
-<translation id="714362445477979774">Dissenter деректеріңізді синхрондау</translation>
+<translation id="714362445477979774">Fulldive деректеріңізді синхрондау</translation>
 <translation id="4314815835985389558">Синхрондауды басқару</translation>
 <translation id="5428209950370661546">Басқа Gab AI Inc қызметтері</translation>
 <translation id="7704317875155739195">Іздеулер мен URL мекенжайларын автотолтыру</translation>
@@ -46,7 +46,7 @@
 <translation id="8438566539970814960">Іздеу және сайттарды шолу жұмысын жақсарту</translation>
 <translation id="284843628681142937">Кірген беттердің URL мекенжайларын Gab AI Inc-ға жібереді</translation>
 <translation id="7222718784508482526">Құпиялылық, қауіпсіздік және дерек жинағына қатысты басқа да параметрлерді <ph name="BEGIN_LINK"/>Синхрондау және Gab AI Inc қызметтері<ph name="END_LINK"/> бөлімінен қараңыз</translation>
-<translation id="918192811481327695">Dissenter мүмкіндіктері мен жұмысын жақсартуға көмектесу</translation>
+<translation id="918192811481327695">Fulldive мүмкіндіктері мен жұмысын жақсартуға көмектесу</translation>
 <translation id="9063160602596686558">Қолданыс статистикасын және жаңылыс туралы есептерді Gab AI Inc жүйесіне автоматты түрде жібереді</translation>
 <translation id="4824958205181053313">Синхрондауды тоқтату қажет пе?</translation>
 <translation id="3058498974290601450">Синхрондау функциясын кез келген уақытта "Параметрлер" бөлімінен қоса аласыз.</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">Карта нөмірі</translation>
 <translation id="869891660844655955">Аяқталу мерзімі</translation>
 <translation id="2286841657746966508">Төлем мекенжайы</translation>
-<translation id="663059986967017181">Dissenter жүйесіне көшірілген</translation>
+<translation id="663059986967017181">Fulldive жүйесіне көшірілген</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 және тағы <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 және тағы <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 және тағы <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 және тағы <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 және тағы <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 және тағы <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}}</translation>
@@ -112,7 +112,7 @@
 <translation id="6154478581116148741">Құпия сөздерді бұл құрылғыдан экспорттау үшін "Параметрлер" бөлімінде экран құлпын қосыңыз</translation>
 <translation id="4842092870884894799">Құпия сөз жасау қалқымалы терезесін көрсету</translation>
 <translation id="2259659629660284697">Құпия сөздерді экспорттау...</translation>
-<translation id="133012818630824069">Dissenter арқылы сақталған құпия сөздерді экспорттау</translation>
+<translation id="133012818630824069">Fulldive арқылы сақталған құпия сөздерді экспорттау</translation>
 <translation id="6914783257214138813">Құпия сөз экспортталған құпия сөздер файлын көре алатын кез келген адамға қолжетімді болады.</translation>
 <translation id="2321086116217818302">Құпия сөздер дайындалуда…</translation>
 <translation id="8445448999790540984">Құпия сөздерді экспорттау мүмкін емес</translation>
@@ -123,11 +123,11 @@
 <translation id="6891726759199484455">Құпия сөзді көшіру үшін құлыпты ашыңыз</translation>
 <translation id="5515439363601853141">Құпия сөзді көру үшін құлыпты ашыңыз</translation>
 <translation id="6221633008163990886">Құпия сөздерді экспорттау үшін құлпын ашыңыз</translation>
-<translation id="230699814587342492">Dissenter құпия сөздері</translation>
+<translation id="230699814587342492">Fulldive құпия сөздері</translation>
 <translation id="1925021887439448749">Арнаулы вебмекенжайды енгізу</translation>
 <translation id="8127542551745560481">Негізгі бетті өзгерту</translation>
 <translation id="854522910157234410">Осы бетті ашу</translation>
-<translation id="5063487983358782016">Dissenter браузерінің негізгі беті</translation>
+<translation id="5063487983358782016">Fulldive браузерінің негізгі беті</translation>
 <translation id="2482878487686419369">Хабарламалар</translation>
 <translation id="6255999984061454636">Мазмұн ұсыныстары</translation>
 <translation id="805047784848435650">Шолу тарихы негізінде</translation>
@@ -139,8 +139,8 @@
 <translation id="2760989362628427051">Құрылғыдағы қараңғы тақырып немесе Battery saver режимі қосылып тұрғанда, қараңғы тақырыпты қосу</translation>
 <translation id="6381421346744604172">Веб-сайттарды қараңғылау</translation>
 <translation id="5040262127954254034">Құпиялылық</translation>
-<translation id="4991384657077828949">Dissenter қауіпсіздігін жетілдіруге көмектесу</translation>
-<translation id="1943176487615318915">Қауіпті қолданбалар мен сайттарды анықтау үшін Dissenter браузері сіз кірген кейбір беттердің URL сілтемелерін, жүйе туралы шектеулі ақпаратты және беттің кейбір мазмұнын Gab AI Inc-ға жібереді.</translation>
+<translation id="4991384657077828949">Fulldive қауіпсіздігін жетілдіруге көмектесу</translation>
+<translation id="1943176487615318915">Қауіпті қолданбалар мен сайттарды анықтау үшін Fulldive браузері сіз кірген кейбір беттердің URL сілтемелерін, жүйе туралы шектеулі ақпаратты және беттің кейбір мазмұнын Gab AI Inc-ға жібереді.</translation>
 <translation id="3201899458094819285">Safe Browsing қызметі (сізді және құрылғыңызды қауіпті сайттардан қорғайды)</translation>
 <translation id="2876369937070532032">Қауіп төніп тұрғанда, сіз кірген кейбір беттердің URL сілтемелерін Gab AI Inc-ға жібереді.</translation>
 <translation id="3738139272394829648">Touch to Search</translation>
@@ -160,8 +160,8 @@
 <translation id="7359002509206457351">Төлеу әдістерін көру</translation>
 <translation id="8026334261755873520">Шолу деректерін өшіру</translation>
 <translation id="1291207594882862231">Тарихты, cookie файлдарын, сайт деректерін, кэшті жою…</translation>
-<translation id="7814200940910057384">Dissenter деректері өшірілді</translation>
-<translation id="1664855196866195614">Таңдалған деректер Dissenter жүйесінен және синхрондалған құрылғылардан өшірілген.
+<translation id="7814200940910057384">Fulldive деректері өшірілді</translation>
+<translation id="1664855196866195614">Таңдалған деректер Fulldive жүйесінен және синхрондалған құрылғылардан өшірілген.
 
 Gab AI Inc есептік жазбасының шолу тарихы басқа Gab AI Inc қызметтеріндегі іздеулер мен әрекеттер тізімі түрінде де болуы мүмкін, оларды <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/>бетінен табуға болады.</translation>
 <translation id="4699172675775169585">Кэштелген кескіндер мен файлдар</translation>
@@ -311,12 +311,12 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="8156139159503939589">Қай тілде оқисыз?</translation>
 <translation id="5689516760719285838">Орын</translation>
 <translation id="2440823041667407902">Орналасқан жерін көру</translation>
-<translation id="2023546461831060654"><ph name="BEGIN_LINK"/>Android параметрлері<ph name="END_LINK"/> ішінен Dissenter үшін рұқсаттар қосыңыз.</translation>
-<translation id="6665548517310046133"><ph name="BEGIN_LINK"/>Android параметрлері<ph name="END_LINK"/> ішінен Dissenter үшін рұқсат қосыңыз.</translation>
-<translation id="2928908108430545745">Dissenter браузері геодерегіңізді пайдалануы үшін, оны <ph name="BEGIN_LINK"/>Android параметрлерінде<ph name="END_LINK"/> де іске қосыңыз.</translation>
-<translation id="1028853271388022585">Dissenter браузері камераны пайдалануы үшін, оны <ph name="BEGIN_LINK"/>Android параметрлерінде<ph name="END_LINK"/> де қосыңыз.</translation>
-<translation id="2913721282607281710">Dissenter-нан хабарландырулар алу үшін оларды <ph name="BEGIN_LINK"/>Android параметрлерінде<ph name="END_LINK"/> іске қосыңыз.</translation>
-<translation id="8753483718490035722">Dissenter браузері микрофонды пайдалануы үшін, оны <ph name="BEGIN_LINK"/>Android параметрлерінде<ph name="END_LINK"/> де іске қосыңыз.</translation>
+<translation id="2023546461831060654"><ph name="BEGIN_LINK"/>Android параметрлері<ph name="END_LINK"/> ішінен Fulldive үшін рұқсаттар қосыңыз.</translation>
+<translation id="6665548517310046133"><ph name="BEGIN_LINK"/>Android параметрлері<ph name="END_LINK"/> ішінен Fulldive үшін рұқсат қосыңыз.</translation>
+<translation id="2928908108430545745">Fulldive браузері геодерегіңізді пайдалануы үшін, оны <ph name="BEGIN_LINK"/>Android параметрлерінде<ph name="END_LINK"/> де іске қосыңыз.</translation>
+<translation id="1028853271388022585">Fulldive браузері камераны пайдалануы үшін, оны <ph name="BEGIN_LINK"/>Android параметрлерінде<ph name="END_LINK"/> де қосыңыз.</translation>
+<translation id="2913721282607281710">Fulldive-нан хабарландырулар алу үшін оларды <ph name="BEGIN_LINK"/>Android параметрлерінде<ph name="END_LINK"/> іске қосыңыз.</translation>
+<translation id="8753483718490035722">Fulldive браузері микрофонды пайдалануы үшін, оны <ph name="BEGIN_LINK"/>Android параметрлерінде<ph name="END_LINK"/> де іске қосыңыз.</translation>
 <translation id="1887786770086287077">Бұл құрылғыда орынды анықтау қызметі өшірулі. Оны <ph name="BEGIN_LINK"/>Android параметрлері<ph name="END_LINK"/> арқылы қосыңыз.</translation>
 <translation id="2570922361219980984">Бұл құрылғыда да орынды анықтау қызметі өшірулі. Оны <ph name="BEGIN_LINK"/>Android параметрлері<ph name="END_LINK"/> арқылы қосыңыз.</translation>
 <translation id="1620510694547887537">Камера</translation>
@@ -334,8 +334,8 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="7821588508402923572">Деректерді үнемдеу ақпараты осы жерде көрсетіледі</translation>
 <translation id="2131665479022868825"><ph name="DATA"/> сақталды</translation>
 <translation id="8569404424186215731"><ph name="DATE"/> бері</translation>
-<translation id="3252158532344029638">Lite режимінде Dissenter беттерді жылдамырақ жүктейді және трафикті 60 пайызға дейін аз жұмсайды.</translation>
-<translation id="1438581767753657407">Lite режимі қосулы кезде, беттер жылдам жүктелуі үшін, Dissenter браузері Gab AI Inc серверлерін пайдаланады. Lite режимі маңызды мазмұнды ғана жүктеу үшін тым баяу беттерді қайта жазады. Lite режимі инкогнито қойындыларына қолданылмайды.</translation>
+<translation id="3252158532344029638">Lite режимінде Fulldive беттерді жылдамырақ жүктейді және трафикті 60 пайызға дейін аз жұмсайды.</translation>
+<translation id="1438581767753657407">Lite режимі қосулы кезде, беттер жылдам жүктелуі үшін, Fulldive браузері Gab AI Inc серверлерін пайдаланады. Lite режимі маңызды мазмұнды ғана жүктеу үшін тым баяу беттерді қайта жазады. Lite режимі инкогнито қойындыларына қолданылмайды.</translation>
 <translation id="6159335304067198720"><ph name="PERCENT"/> дерек үнемделді</translation>
 <translation id="7494974237137038751">үнемделген деректер</translation>
 <translation id="6111020039983847643">пайдаланылған деректер</translation>
@@ -358,15 +358,15 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="3658159451045945436">Бастапқы күйге қайтарылған кезде, деректерді үнемдеу тарихы, сонымен қатар кірген сайттардың тізімі өшіріледі.</translation>
 <translation id="5939518447894949180">Қалпына келтіру</translation>
 <translation id="3295530008794733555">Интернетті жылдам шолып, трафикті үнемдейсіз.</translation>
-<translation id="7340390500800578919">Lite режимінде Dissenter браузері беттерді жылдамырақ жүктейді және трафикті 60%-ға дейін аз жұмсайды. Кірген беттерді оңтайландыру үшін Dissenter интернет трафигін Gab AI Inc-ға жібереді. <ph name="BEGIN_LINK"/>Толығырақ<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">Lite режимінде Fulldive браузері беттерді жылдамырақ жүктейді және трафикті 60%-ға дейін аз жұмсайды. Кірген беттерді оңтайландыру үшін Fulldive интернет трафигін Gab AI Inc-ға жібереді. <ph name="BEGIN_LINK"/>Толығырақ<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Lite режимін қосу</translation>
 <translation id="4493497663118223949">Lite режимі қосулы</translation>
 <translation id="7559975015014302720">Lite режимі өшірулі</translation>
 <translation id="7606077192958116810">Lite режимі қосулы. Оны "Параметрлер" бөлімінде реттеңіз.</translation>
 <translation id="4714588616299687897">Трафикті 60%-ға дейін үнемдеңіз</translation>
 <translation id="1006927014032731288">Gab AI Inc серверлері сіз кірген беттерді оңтайландырады.</translation>
-<translation id="3257320067425202300">Dissenter браузері <ph name="MEGABYTES"/> МБ деректі сақтады</translation>
-<translation id="5813223329348543512">Dissenter <ph name="GIGABYTES"/> ГБ деректі сақтады</translation>
+<translation id="3257320067425202300">Fulldive браузері <ph name="MEGABYTES"/> МБ деректі сақтады</translation>
+<translation id="5813223329348543512">Fulldive <ph name="GIGABYTES"/> ГБ деректі сақтады</translation>
 <translation id="8266862848225348053">Жүктеп алынған файлдар орны</translation>
 <translation id="7077143737582773186">SD картасы</translation>
 <translation id="7762668264895820836"><ph name="SD_CARD_NUMBER"/>-ші SD картасы</translation>
@@ -392,15 +392,15 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="7290209999329137901">Атын өзгерту мүмкін емес.</translation>
 <translation id="3334729583274622784">Файл кеңейтімін өзгертесіз бе?</translation>
 <translation id="107147699690128016">Файл кеңейтімін өзгертсеңіз, файл басқа қолданбада ашылып, құрылғыны зақымдауы мүмкін.</translation>
-<translation id="8541922081612557424">Dissenter туралы ақпарат</translation>
+<translation id="8541922081612557424">Fulldive туралы ақпарат</translation>
 <translation id="5311273890481188673">Copyright <ph name="YEAR"/> Gab AI Inc LLC. Барлық құқықтары қорғалған.</translation>
 <translation id="1416550906796893042">Қолданба нұсқасы</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (Жаңартылған <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Операциялық жүйе</translation>
-<translation id="3968054912784331254">Dissenter браузері Android жүйесінің бұл нұсқасында енді жаңартылмайды</translation>
+<translation id="3968054912784331254">Fulldive браузері Android жүйесінің бұл нұсқасында енді жаңартылмайды</translation>
 <translation id="7665369617277396874">Есептік жазба қосу</translation>
 <translation id="649070405679044769">Gab AI Inc жүйесіне келесі пайдаланушы атымен кірген:</translation>
-<translation id="6234515504547364178">Dissenter жүйесінен шығу</translation>
+<translation id="6234515504547364178">Fulldive жүйесінен шығу</translation>
 <translation id="5324858694974489420">Басыңқы параметрлер</translation>
 <translation id="8920114477895755567">Ата-аналар туралы толық ақпаратты қажет.</translation>
 <translation id="5512137114520586844">Бұл есептік жазбаны <ph name="PARENT_NAME"/> басқарады.</translation>
@@ -409,7 +409,7 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="5403644198645076998">Тек белгілі бір сайттарға рұқсат беру</translation>
 <translation id="8641930654639604085">Ересектерге арналған сайттарды бөгеу</translation>
 <translation id="5639724618331995626">Барлық сайттарға рұқсат беру</translation>
-<translation id="796823723482603597">Dissenter арқылы</translation>
+<translation id="796823723482603597">Fulldive арқылы</translation>
 <translation id="6324034347079777476">Android жүйесін синхрондау өшірілді</translation>
 <translation id="5127805178023152808">Синхрондау өшірулі</translation>
 <translation id="7015203776128479407">Бастапқы синхрондауды реттеу аяқталмады. Синхрондау өшірулі.</translation>
@@ -418,26 +418,26 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="6108923351542677676">Орнатылуда…</translation>
 <translation id="4062305924942672200">Құқықтық ақпарат</translation>
 <translation id="4256782883801055595">Ашық кодты бағдарлама лицензиялары</translation>
-<translation id="1138681184697033370">Dissenter қызмет шарттары</translation>
-<translation id="2368444735104192323">Dissenter және Dissenter OS Қосымша қызмет көрсету шарттары</translation>
-<translation id="7392539049993970338">Dissenter құпиялылық ескертпесі</translation>
+<translation id="1138681184697033370">Fulldive қызмет шарттары</translation>
+<translation id="2368444735104192323">Fulldive және Fulldive OS Қосымша қызмет көрсету шарттары</translation>
+<translation id="7392539049993970338">Fulldive құпиялылық ескертпесі</translation>
 <translation id="2968755619301702150">Сертификат көру құралы</translation>
 <translation id="1360432990279830238">Шығып, синхрондауды өшіру керек пе?</translation>
-<translation id="8581481290581777242">Dissenter деректері осы құрылғыдан жойылсын ба?</translation>
-<translation id="1318865768845061710">Бетбелгілер, тарих, құпия сөздер және Dissenter браузерінің басқа деректері сіздің Gab AI Inc есептік жазбаңызбен синхрондалмайды.</translation>
-<translation id="3325020657155065477">Бұл құрылғыдан Dissenter браузерінің деректерін де өшіру</translation>
-<translation id="6136448902816743006">Сіз <ph name="DOMAIN_NAME"/> басқаратын есептік жазбадан шығып бара жатқандықтан, Dissenter браузеріңіздегі деректер осы құрылғыдан жойылады. Ол Gab AI Inc есептік жазбаңызда сақталады.</translation>
+<translation id="8581481290581777242">Fulldive деректері осы құрылғыдан жойылсын ба?</translation>
+<translation id="1318865768845061710">Бетбелгілер, тарих, құпия сөздер және Fulldive браузерінің басқа деректері сіздің Gab AI Inc есептік жазбаңызбен синхрондалмайды.</translation>
+<translation id="3325020657155065477">Бұл құрылғыдан Fulldive браузерінің деректерін де өшіру</translation>
+<translation id="6136448902816743006">Сіз <ph name="DOMAIN_NAME"/> басқаратын есептік жазбадан шығып бара жатқандықтан, Fulldive браузеріңіздегі деректер осы құрылғыдан жойылады. Ол Gab AI Inc есептік жазбаңызда сақталады.</translation>
 <translation id="1853026300647876496">Gab AI Inc қызметімен байланыс орнатылуда. Бір минуттай уақыт алуы мүмкін…</translation>
 <translation id="2328985652426384049">Кіру мүмкін емес</translation>
 <translation id="7723158744459952869">Gab AI Inc ұзақ уақыт жауап бермеуде</translation>
 <translation id="4572422548854449519">Басқарылатын есептік жазбаға кіру</translation>
-<translation id="2689656545739939160"><ph name="MANAGED_DOMAIN"/> басқаратын есептік жазбамен кірудесіз және оның әкімшісіне Dissenter деректерін басқару құқығы берілуде. Деректер бұл есептік жазбаға біржола байланыстырылады. Dissenter жүйесінен шыққанда, деректер бұл құрылғыдан жойылады, бірақ Gab AI Inc есептік жазбасында сақталады.</translation>
+<translation id="2689656545739939160"><ph name="MANAGED_DOMAIN"/> басқаратын есептік жазбамен кірудесіз және оның әкімшісіне Fulldive деректерін басқару құқығы берілуде. Деректер бұл есептік жазбаға біржола байланыстырылады. Fulldive жүйесінен шыққанда, деректер бұл құрылғыдан жойылады, бірақ Gab AI Inc есептік жазбасында сақталады.</translation>
 <translation id="1749561566933687563">Бетбелгілерді синхрондау</translation>
 <translation id="4242533952199664413">Параметрлерді ашу</translation>
 <translation id="1111673857033749125">Басқа құрылғыларда сақталған бетбелгілер осы жерде шығады.</translation>
 <translation id="8636825310635137004">Басқа құрылғылардағы қойындыларды алу үшін, синхрондауды қосыңыз</translation>
 <translation id="3269956123044984603">Басқа құрылғылардағы қойындыларды алу үшін Android есептік жазба параметрлеріндегі "Деректерді автоматты синхрондау" опциясын қосыңыз.</translation>
-<translation id="5157964048453367290">Басқа құрылғыларда Dissenter браузерінен ашылған қойындылар осы жерде шығады.</translation>
+<translation id="5157964048453367290">Басқа құрылғыларда Fulldive браузерінен ашылған қойындылар осы жерде шығады.</translation>
 <translation id="5795872532621730126">Іздеу және шолу</translation>
 <translation id="9086302186042011942">Синхрондау</translation>
 <translation id="4684427112815847243">Барлығын синхрондау</translation>
@@ -476,11 +476,11 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="7624880197989616768"><ph name="BEGIN_LINK1"/>Анықтама алыңыз<ph name="END_LINK1"/> немесе <ph name="BEGIN_LINK2"/>қайта сканерлеңіз<ph name="END_LINK2"/></translation>
 <translation id="230115972905494466">Үйлесімді құрылғылар табылмады</translation>
 <translation id="3773755127849930740">Жұптау үшін <ph name="BEGIN_LINK"/>Bluetooth қосыңыз<ph name="END_LINK"/></translation>
-<translation id="998321811308652668">Dissenter қолданбасы Bluetooth адаптерін қоса алмайды</translation>
+<translation id="998321811308652668">Fulldive қолданбасы Bluetooth адаптерін қоса алмайды</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Анықтама алу<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">Құрылғыларды тексеру үшін Dissenter орналасқан жер мәліметтерін пайдалануы қажет. <ph name="BEGIN_LINK"/>Рұқсаттарды жаңарту<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">Құрылғыларды іздеу үшін Dissenter жүйесіне орналасу орны деректеріне кіру рұқсаты қажет. Мұндай рұқсат <ph name="BEGIN_LINK"/>бұл құрылғы үшін өшірілген<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">Құрылғыларды іздеу үшін Dissenter жүйесіне орналасу орны деректеріне кіру рұқсаты қажет. <ph name="BEGIN_LINK1"/>Рұқсаттарды жаңартыңыз<ph name="END_LINK1"/>. Орналасу орны деректеріне кіру рұқсаты <ph name="BEGIN_LINK2"/>бұл құрылғы үшін өшірулі<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">Құрылғыларды тексеру үшін Fulldive орналасқан жер мәліметтерін пайдалануы қажет. <ph name="BEGIN_LINK"/>Рұқсаттарды жаңарту<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">Құрылғыларды іздеу үшін Fulldive жүйесіне орналасу орны деректеріне кіру рұқсаты қажет. Мұндай рұқсат <ph name="BEGIN_LINK"/>бұл құрылғы үшін өшірілген<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">Құрылғыларды іздеу үшін Fulldive жүйесіне орналасу орны деректеріне кіру рұқсаты қажет. <ph name="BEGIN_LINK1"/>Рұқсаттарды жаңартыңыз<ph name="END_LINK1"/>. Орналасу орны деректеріне кіру рұқсаты <ph name="BEGIN_LINK2"/>бұл құрылғы үшін өшірулі<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">Қосылған құрылғы</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{Сигнал деңгейі: # сызықша}other{Сигнал деңгейі: # сызықша}}</translation>
 <translation id="5230560987958996918"><ph name="SITE"/> маңайдағы Bluetooth құрылғыларын іздеуде. Мына құрылғылар табылды:</translation>
@@ -488,11 +488,11 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="7605594153474022051">Синхрондау жұмыс істемейді</translation>
 <translation id="2537178555904266562">Құпия сөздерді синхрондау кезінде қате шықты</translation>
 <translation id="1810845389119482123">Синхронизация параметрлері орнатылмады</translation>
-<translation id="3235722914093408050">Android параметрлерін ашып, Dissenter Sync қолданбасын іске қосу үшін Android жүйесін синхрондауды қайта қосыңыз</translation>
+<translation id="3235722914093408050">Android параметрлерін ашып, Fulldive Sync қолданбасын іске қосу үшін Android жүйесін синхрондауды қайта қосыңыз</translation>
 <translation id="3367813778245106622">Синхрондауды бастау үшін қайтадан кіріңіз</translation>
 <translation id="3701167022068948696">Қазір түзету</translation>
 <translation id="974555521953189084">Синхрондауды бастау үшін құпия фразаны енгізіңіз</translation>
-<translation id="2997266899014181325">Синхрондауды бастау үшін "Dissenter деректерін синхрондау" параметрін қосыңыз.</translation>
+<translation id="2997266899014181325">Синхрондауды бастау үшін "Fulldive деректерін синхрондау" параметрін қосыңыз.</translation>
 <translation id="8260126382462817229">Қайта кіріп көріңіз</translation>
 <translation id="5919204609460789179">Синхрондауды бастау үшін <ph name="PRODUCT_NAME"/> өнімін жаңартыңыз</translation>
 <translation id="397583555483684758">Синхрондау тоқтап қалды</translation>
@@ -526,14 +526,14 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037"><ph name="MESSAGE"/> <ph name="LINK_NAME"/> түймесі</translation>
 <translation id="3205824638308738187">Аз қалды!</translation>
-<translation id="3960299545138990065">Dissenter браузерін қайта іске қосу</translation>
+<translation id="3960299545138990065">Fulldive браузерін қайта іске қосу</translation>
 <translation id="3771001275138982843">Жаңартылған нұсқа жүктеп алынбады.</translation>
-<translation id="3888648114124182147">Dissenter браузерінің жаңа нұсқасы жүктеп алынуда…</translation>
-<translation id="1705567146636171298">Dissenter жаңарту</translation>
-<translation id="6195417478702700398">Барынша жақсы жұмыс істеуі үшін, Dissenter браузерін жаңартыңыз.</translation>
-<translation id="3512968675351418494">Интернетті өз тіліңізде қолдану үшін Dissenter браузерінің соңғы нұсқасын орнатыңыз.</translation>
+<translation id="3888648114124182147">Fulldive браузерінің жаңа нұсқасы жүктеп алынуда…</translation>
+<translation id="1705567146636171298">Fulldive жаңарту</translation>
+<translation id="6195417478702700398">Барынша жақсы жұмыс істеуі үшін, Fulldive браузерін жаңартыңыз.</translation>
+<translation id="3512968675351418494">Интернетті өз тіліңізде қолдану үшін Fulldive браузерінің соңғы нұсқасын орнатыңыз.</translation>
 <translation id="6427112570124116297">Веб-беттерді басқа тілге аудару</translation>
-<translation id="1379423114029199501">Dissenter браузерінің соңғы нұсқасын өз тіліңізде қолданғыңыз келсе, оны жаңартыңыз.</translation>
+<translation id="1379423114029199501">Fulldive браузерінің соңғы нұсқасын өз тіліңізде қолданғыңыз келсе, оны жаңартыңыз.</translation>
 <translation id="5684874026226664614">Бұл бетті аудару мүмкін емес.</translation>
 <translation id="6831043979455480757">Аудару</translation>
 <translation id="1285320974508926690">Бұл сайтты ешқашан аудармау</translation>
@@ -557,7 +557,7 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="2532336938189706096">Веб-көрініс</translation>
 <translation id="6005538289190791541">Ұсынылған құпия сөз</translation>
 <translation id="4634124774493850572">Құпия сөзді пайдалану</translation>
-<translation id="3088191967551450609">Файлдарды жүктеп алу үшін, Dissenter-ға сақтау орнын пайдалану құқығы қажет.</translation>
+<translation id="3088191967551450609">Файлдарды жүктеп алу үшін, Fulldive-ға сақтау орнын пайдалану құқығы қажет.</translation>
 <translation id="8942627711005830162">Басқа терезеде ашу</translation>
 <translation id="4195643157523330669">Жаңа қойындыда ашу</translation>
 <translation id="1100066534610197918">Топтағы жаңа қойындыдан ашу</translation>
@@ -580,7 +580,7 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="3384347053049321195">Сурет бөлісу</translation>
 <translation id="5833984609253377421">Сілтемені бөлісу</translation>
 <translation id="6475951671322991020">Бейнені жүктеу</translation>
-<translation id="2317945146070194624">Жаңа Dissenter қойындысынан ашу</translation>
+<translation id="2317945146070194624">Жаңа Fulldive қойындысынан ашу</translation>
 <translation id="7975379999046275268">Бетті алдын ала қарау <ph name="BEGIN_NEW"/>Жаңа<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Жылдам сайт</translation>
 <translation id="6112702117600201073">Бетті жаңарту</translation>
@@ -709,14 +709,14 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="6820686453637990663">CVC коды</translation>
 <translation id="3244271242291266297">АА</translation>
 <translation id="605721222689873409">ЖЖ</translation>
-<translation id="724102042129299115">Dissenter браузерін алғаш іске қосу</translation>
-<translation id="7766792282581704663">Dissenter браузерін пайдалану арқылы <ph name="BEGIN_LINK1"/>Gab AI Inc Қызмет көрсету шарттарына<ph name="END_LINK1"/> және <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter және Dissenter OS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2"/> келісім бересіз.</translation>
-<translation id="4301045550182524767">Dissenter браузерін пайдалану арқылы <ph name="BEGIN_LINK1"/>Gab AI Inc Қызмет көрсету шарттарына<ph name="END_LINK1"/> және <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter және Dissenter OS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2"/> келісім бересіз. <ph name="BEGIN_LINK3"/>Family Link арқылы басқарылатын Gab AI Inc есептік жазбаларына арналған Құпиялылық мәлімдемесі<ph name="END_LINK3"/> де қолданылады.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> қолданбасы Dissenter браузерінде ашылады. Жалғастыру арқылы <ph name="BEGIN_LINK1"/>Gab AI Inc Қызмет көрсету шарттарына<ph name="END_LINK1"/> және <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter және Dissenter OS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2"/> келісім бересіз.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> қолданбасы Dissenter браузерінде ашылады. Жалғастыру арқылы <ph name="BEGIN_LINK1"/>Gab AI Inc Қызмет көрсету шарттарына<ph name="END_LINK1"/> және <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter және Dissenter OS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2"/> келісім бересіз. <ph name="BEGIN_LINK3"/>Family Link арқылы басқарылатын Gab AI Inc есептік жазбаларына арналған Құпиялылық мәлімдемесі<ph name="END_LINK3"/> де қолданылады.</translation>
-<translation id="673197144963363525">Пайдалану статистикасы мен жаңылыс туралы есептерді Gab AI Inc компаниясына жіберу арқылы Dissenter қызметін жақсартуға көмектесіңіз.</translation>
+<translation id="724102042129299115">Fulldive браузерін алғаш іске қосу</translation>
+<translation id="7766792282581704663">Fulldive браузерін пайдалану арқылы <ph name="BEGIN_LINK1"/>Gab AI Inc Қызмет көрсету шарттарына<ph name="END_LINK1"/> және <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive және Fulldive OS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2"/> келісім бересіз.</translation>
+<translation id="4301045550182524767">Fulldive браузерін пайдалану арқылы <ph name="BEGIN_LINK1"/>Gab AI Inc Қызмет көрсету шарттарына<ph name="END_LINK1"/> және <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive және Fulldive OS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2"/> келісім бересіз. <ph name="BEGIN_LINK3"/>Family Link арқылы басқарылатын Gab AI Inc есептік жазбаларына арналған Құпиялылық мәлімдемесі<ph name="END_LINK3"/> де қолданылады.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> қолданбасы Fulldive браузерінде ашылады. Жалғастыру арқылы <ph name="BEGIN_LINK1"/>Gab AI Inc Қызмет көрсету шарттарына<ph name="END_LINK1"/> және <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive және Fulldive OS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2"/> келісім бересіз.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> қолданбасы Fulldive браузерінде ашылады. Жалғастыру арқылы <ph name="BEGIN_LINK1"/>Gab AI Inc Қызмет көрсету шарттарына<ph name="END_LINK1"/> және <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive және Fulldive OS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2"/> келісім бересіз. <ph name="BEGIN_LINK3"/>Family Link арқылы басқарылатын Gab AI Inc есептік жазбаларына арналған Құпиялылық мәлімдемесі<ph name="END_LINK3"/> де қолданылады.</translation>
+<translation id="673197144963363525">Пайдалану статистикасы мен жаңылыс туралы есептерді Gab AI Inc компаниясына жіберу арқылы Fulldive қызметін жақсартуға көмектесіңіз.</translation>
 <translation id="3518985090088779359">Қабылдап, жалғастыру</translation>
-<translation id="7207456302801184289">Dissenter жүйесіне қош келдіңіз</translation>
+<translation id="7207456302801184289">Fulldive жүйесіне қош келдіңіз</translation>
 <translation id="7189372733857464326">Gab AI Inc Play қызметтерінің жаңартылып бітуі күтілуде</translation>
 <translation id="1231733316453485619">Синхрондау қосылсын ба?</translation>
 <translation id="5132942445612118989">Құпия сөздеріңізді, әрекеттеріңіздің тарихын және басқа деректерді барлық құрылғыда синхрондау</translation>
@@ -779,7 +779,7 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="6336451774241870485">Жаңа жасырын қойынды</translation>
 <translation id="4521874409998847950"><ph name="PUBLISHER_ORIGIN"/> жариялаған, <ph name="BEGIN_DEEMPHASIZED"/>Gab AI Inc ұсынады<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Жаңа нұсқасы қолжетімді</translation>
-<translation id="4058091506841967397">Dissenter жаңартылмайды</translation>
+<translation id="4058091506841967397">Fulldive жаңартылмайды</translation>
 <translation id="6316139424528454185">Android: қолдау көрсетілмейді</translation>
 <translation id="6989267951144302301">Жүктеп алынбады</translation>
 <translation id="624789221780392884">Жаңарту дайын</translation>
@@ -829,7 +829,7 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="2536728043171574184">Бұл беттің желіден тыс күйдегі көшірмесі көрсетілуде</translation>
 <translation id="4698034686595694889"><ph name="APP_NAME"/> қолданбасы арқылы офлайн режимде көріңіз</translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> және басқа сайттар</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Дайын болған кезде, Dissenter бетті жүктейді.}other{Дайын болған кезде, Dissenter беттерді жүктейді.}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Дайын болған кезде, Fulldive бетті жүктейді.}other{Дайын болған кезде, Fulldive беттерді жүктейді.}}</translation>
 <translation id="6811034713472274749">Бетті көре беруге болады.</translation>
 <translation id="4561979708150884304">Байланыс жоқ</translation>
 <translation id="8274165955039650276">Жүктеп алынғандарды көру</translation>
@@ -841,14 +841,14 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="3298243779924642547">Lite</translation>
 <translation id="393697183122708255">Дауыспен іздеу функциясы қосылмаған</translation>
 <translation id="7191430249889272776">Қойынды фонда ашылды.</translation>
-<translation id="8445059357334030806">Dissenter жүйесінде ашу</translation>
+<translation id="8445059357334030806">Fulldive жүйесінде ашу</translation>
 <translation id="4720023427747327413"><ph name="PRODUCT_NAME"/> ішінен ашу</translation>
 <translation id="7022756207310403729">Браузерден ашу</translation>
 <translation id="1113597929977215864">Қарапайым көріністі көрсету</translation>
 <translation id="1513352483775369820">Бетбелгілер мен веб-журнал</translation>
-<translation id="4939482511480190003">Dissenter браузерін жақсартуға көмектесіңіз. <ph name="BEGIN_LINK"/>Сауалнамаға қатысыңыз<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Fulldive браузерін жақсартуға көмектесіңіз. <ph name="BEGIN_LINK"/>Сауалнамаға қатысыңыз<ph name="END_LINK"/></translation>
 <translation id="3522247891732774234">Жаңа нұсқа қолжетімді. Қосымша опциялар</translation>
-<translation id="6773423637732432200">Dissenter браузерін жаңарту мүмкін емес. Басқа опциялар</translation>
+<translation id="6773423637732432200">Fulldive браузерін жаңарту мүмкін емес. Басқа опциялар</translation>
 <translation id="1383876407941801731">Іздеу</translation>
 <translation id="3328801116991980348">Сайт ақпараты</translation>
 <translation id="9070377983101773829">Дауыспен іздеуді іске қосу</translation>
@@ -900,7 +900,7 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="3211426585530211793"><ph name="ITEM_TITLE"/> жойылды.</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> бетбелгі жойылды</translation>
 <translation id="3819178904835489326">Жүктелген <ph name="NUMBER_OF_DOWNLOADS"/> файл жойылды</translation>
-<translation id="1248710015876067820">Dissenter нұсқаларының қайшылығы орын алды.</translation>
+<translation id="1248710015876067820">Fulldive нұсқаларының қайшылығы орын алды.</translation>
 <translation id="4259722352634471385">Навигация тыйылған: <ph name="URL"/></translation>
 <translation id="8959122750345127698"><ph name="URL"/> мекенжайына өту мүмкін емес</translation>
 <translation id="5210365745912300556">Қойындыны жабу</translation>
@@ -923,10 +923,10 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="1376578503827013741">Есептелуде…</translation>
 <translation id="583281660410589416">Белгісіз</translation>
 <translation id="2323763861024343754">Сайт деректері</translation>
-<translation id="3587672679800759167">Dissenter пайдаланатын жалпы деректер, соның ішінде есептік жазбалар, бетбелгілер және сақталған параметрлер</translation>
+<translation id="3587672679800759167">Fulldive пайдаланатын жалпы деректер, соның ішінде есептік жазбалар, бетбелгілер және сақталған параметрлер</translation>
 <translation id="6545017243486555795">Барлық деректерді өшіру</translation>
 <translation id="4095146165863963773">Қолданба деректерін жою керек пе?</translation>
-<translation id="53119194224775367">Dissenter жүйесінің барлық қолданба деректері (бүкіл файлдар, параметрлер, есептік жазбалар, дерекқорлар, т.б.) біржола жойылады.</translation>
+<translation id="53119194224775367">Fulldive жүйесінің барлық қолданба деректері (бүкіл файлдар, параметрлер, есептік жазбалар, дерекқорлар, т.б.) біржола жойылады.</translation>
 <translation id="5307446750509046227">Сайт деректерін жою</translation>
 <translation id="300526633675317032">Вебсайттың барлық деректері жойылады (<ph name="SIZE_IN_KB"/>).</translation>
 <translation id="8068648041423924542">Сертификатты таңдау мүмкін емес.</translation>
@@ -953,15 +953,15 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="3114012059975132928">Бейне ойнатқыш</translation>
 <translation id="5489227211564503167">Өткен уақыт: <ph name="ELAPSED_TIME"/>/<ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Sogou қызметімен іздеу</translation>
-<translation id="5406914950576900927">Dissenter браузері <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> жүйесін Қытайда іздеу үшін пайдалана алады. Мұны <ph name="BEGIN_LINK"/>Параметрлер<ph name="END_LINK"/> бөлімінен өзгертуге болады.</translation>
+<translation id="5406914950576900927">Fulldive браузері <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> жүйесін Қытайда іздеу үшін пайдалана алады. Мұны <ph name="BEGIN_LINK"/>Параметрлер<ph name="END_LINK"/> бөлімінен өзгертуге болады.</translation>
 <translation id="6456271171669383967">Gab AI Inc қызметін әдепкісінше пайдалану</translation>
 <translation id="4384468725000734951">Sogou іздеу жүйесін пайдаланып іздеу</translation>
 <translation id="6103327872225198548">Gab AI Inc қызметімен іздеу</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
-<translation id="919933208285147476">Бұл қолданба Dissenter браузерінде жұмыс істеп тұр</translation>
-<translation id="6143689084714664628">Dissenter браузерінде ашылған</translation>
-<translation id="7675869148432102528"><ph name="APP_NAME"/> қолданбасының да Dissenter браузерінде деректері бар</translation>
-<translation id="2734140769649165081">Деректерді Dissenter параметрлерінде өшіруге болады.</translation>
+<translation id="919933208285147476">Бұл қолданба Fulldive браузерінде жұмыс істеп тұр</translation>
+<translation id="6143689084714664628">Fulldive браузерінде ашылған</translation>
+<translation id="7675869148432102528"><ph name="APP_NAME"/> қолданбасының да Fulldive браузерінде деректері бар</translation>
+<translation id="2734140769649165081">Деректерді Fulldive параметрлерінде өшіруге болады.</translation>
 <translation id="8232956427053453090">Деректерді сақтау</translation>
 <translation id="4298388696830689168">Байланыстырылған сайттар</translation>
 <translation id="5763514718066511291">Бұл қолданбаның URL мекенжайын көшіру үшін түртіңіз</translation>
@@ -986,13 +986,13 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="8015452622527143194">Беттегі элементтерді әдепкі өлшеміне қайтару</translation>
 <translation id="3443221991560634068">Ағымдағы бетті жаңарту</translation>
 <translation id="123724288017357924">Кэштелген мазмұнды елемей, ағымдағы бетті жаңарту</translation>
-<translation id="305870044889644984">Dissenter анықтама орталығын жаңа қойындыда ашу</translation>
+<translation id="305870044889644984">Fulldive анықтама орталығын жаңа қойындыда ашу</translation>
 <translation id="3166827708714933426">Қойынды мен терезенің пернелер тіркесімі</translation>
-<translation id="3169981355900570544">Gab AI Inc Dissenter функциясының пернелер тіркесімі</translation>
+<translation id="3169981355900570544">Gab AI Inc Fulldive функциясының пернелер тіркесімі</translation>
 <translation id="4558311620361989323">Веббет пернелер тіркесімдері</translation>
-<translation id="1908301351964700579">Dissenter виртуалды шындықты әлі дайындап жатыр. Dissenter браузерін кейінірек қайта қосыңыз.</translation>
+<translation id="1908301351964700579">Fulldive виртуалды шындықты әлі дайындап жатыр. Fulldive браузерін кейінірек қайта қосыңыз.</translation>
 <translation id="8970887620466824814">Бірдеңе дұрыс болмады.</translation>
-<translation id="1875543012935658554">Dissenter браузерін қайта ашыңыз.</translation>
+<translation id="1875543012935658554">Fulldive браузерін қайта ашыңыз.</translation>
 <translation id="79859296434321399">Толықтырылған шындық мазмұнын көру үшін ARCore платформасын орнатыңыз</translation>
 <translation id="8558485628462305855">Толықтырылған шындық мазмұнын көру үшін ARCore платформасын жаңартыңыз</translation>
 <translation id="3513704683820682405">Толықтырылған шындық</translation>
@@ -1004,9 +1004,9 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 Камерадағы суреттерді тек сіз көре аласыз. Бұл сайт камераның суреттерін көре алмайды.</translation>
 <translation id="1188239144602654184">AR режиміне кіру</translation>
 <translation id="473775607612524610">Жаңарту</translation>
-<translation id="3133489217401741157">Dissenter браузері үшін <ph name="MODULE"/> орнатылуда…</translation>
+<translation id="3133489217401741157">Fulldive браузері үшін <ph name="MODULE"/> орнатылуда…</translation>
 <translation id="1791662854739702043">Орнатылды</translation>
-<translation id="5131234170665854056">Dissenter браузеріне арналған <ph name="MODULE"/> орнату мүмкін болмады.</translation>
+<translation id="5131234170665854056">Fulldive браузеріне арналған <ph name="MODULE"/> орнату мүмкін болмады.</translation>
 <translation id="2567385386134582609">КЕСКІН</translation>
 <translation id="6395288395575013217">СІЛТЕМЕ</translation>
 <translation id="7352939065658542140">БЕЙНЕ</translation>
@@ -1026,7 +1026,7 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="1792959175193046959">Әдепкі жүктеп алу орнын кез келген уақытта өзгертіңіз</translation>
 <translation id="6942665639005891494">"Параметрлер" мәзірі опциясын пайдаланып, әдепкі жүктеп алу орнын кез келген уақытта өзгертіңіз</translation>
 <translation id="6850409657436465440">Жүктеп алу әлі аяқталған жоқ</translation>
-<translation id="5817715962196959877">Dissenter енді файлдарды жылдам жүктеп алады</translation>
+<translation id="5817715962196959877">Fulldive енді файлдарды жылдам жүктеп алады</translation>
 <translation id="3976396876660209797">Таңбашаны өшіріңіз немесе қайта жасаңыз</translation>
 <translation id="6766622839693428701">Жабу үшін төмен сырғытыңыз.</translation>
 <translation id="1028699632127661925"><ph name="DEVICE_NAME"/> құрылғысына жіберілуде…</translation>
@@ -1042,17 +1042,17 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="1521774566618522728">Бүгін белсенді болды</translation>
 <translation id="3631987586758005671"><ph name="DEVICE_NAME"/> қолданбасынан жіберілуде</translation>
 <translation id="9028914725102941583">Барлық құрылғылармен бөлісу үшін синхрондауды іске қосыңыз.</translation>
-<translation id="6162454065885854378">Телефоннан басқа құрылғыға бірдеңе жіберу үшін екі құрылғының Dissenter параметрлерінде синхрондауды іске қосыңыз.</translation>
-<translation id="6084271560289605378">Dissenter параметрлеріне өту</translation>
-<translation id="2746024117903470217">Бұл бетті басқа құрылғымен бөлісу үшін екінші құрылғыдағы Dissenter параметрлерінен синхрондау функциясын қосыңыз.</translation>
-<translation id="7760665516427405230">Бұл бетті басқа құрылғымен бөлісу үшін Dissenter параметрлерінде синхрондау функциясын қосыңыз.</translation>
+<translation id="6162454065885854378">Телефоннан басқа құрылғыға бірдеңе жіберу үшін екі құрылғының Fulldive параметрлерінде синхрондауды іске қосыңыз.</translation>
+<translation id="6084271560289605378">Fulldive параметрлеріне өту</translation>
+<translation id="2746024117903470217">Бұл бетті басқа құрылғымен бөлісу үшін екінші құрылғыдағы Fulldive параметрлерінен синхрондау функциясын қосыңыз.</translation>
+<translation id="7760665516427405230">Бұл бетті басқа құрылғымен бөлісу үшін Fulldive параметрлерінде синхрондау функциясын қосыңыз.</translation>
 <translation id="2318045970523081853">Қоңырау шалу үшін түртіңіз.</translation>
 <translation id="9209888181064652401">Қоңырау шалу мүмкін емес</translation>
 <translation id="2860954141821109167">Бұл құрылғыда телефон қолданбасы қосулы екенін тексеріңіз.</translation>
 <translation id="2067805253194386918">мәтін</translation>
 <translation id="1450753235335490080"><ph name="CONTENT_TYPE"/> бөлісу мүмкін емес</translation>
 <translation id="1266864766717917324"><ph name="CONTENT_TYPE"/> бөлісу мүмкін болмады.</translation>
-<translation id="8287068819750208230"><ph name="TARGET_DEVICE_NAME"/> құрылғысындағы Dissenter браузерінде синхронизация қосулы екеніне көз жеткізіңіз.</translation>
+<translation id="8287068819750208230"><ph name="TARGET_DEVICE_NAME"/> құрылғысындағы Fulldive браузерінде синхронизация қосулы екеніне көз жеткізіңіз.</translation>
 <translation id="3016635187733453316">Бұл құрылғы интернетке қосулы екенін тексеріңіз.</translation>
 <translation id="8466613982764129868"><ph name="TARGET_DEVICE_NAME"/> құрылғысы интернетке қосулы екенін тексеріңіз.</translation>
 <translation id="6539092367496845964">Бірдеңе дұрыс болмады. Кейінірек қайталап көріңіз.</translation>
@@ -1078,14 +1078,14 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="5805364706385912897">Бұл парақша тым көп жадты пайдаланатындықтан, Chromе оны тоқтатып қойды.</translation>
 <translation id="5138664332909611586">Бұл бет тым көп жадты пайдаланатындықтан, Chromе кейбір мазмұнды өшірді.</translation>
 <translation id="9137013805542155359">Түпнұсқаны көрсету</translation>
-<translation id="6361779936989026201">Dissenter браузеріндегі Gab AI Inc Assistant</translation>
+<translation id="6361779936989026201">Fulldive браузеріндегі Gab AI Inc Assistant</translation>
 <translation id="7291387454912369099">Assistant арқылы төлеу</translation>
 <translation id="9037412730408024068">Жұмыстарыңызға көмектесу үшін Assistant қызметі қолданылған сайттардың URL мекенжайлары және мазмұны, сонымен қатар Assistant арқылы жіберілген ақпарат Gab AI Inc-ға жіберіледі.</translation>
-<translation id="4565206163201411670">Digital Wellbeing қызметінде Dissenter браузерін пайдалану деректері көрсетілсін бе?</translation>
-<translation id="9055113864158719823">Dissenter браузерінде ашқан сайттарды көріп, оларға таймер орната аласыз.\n\nGab AI Inc таймер орнатылған сайттар және болған уақытыңыз туралы ақпарат алады. Бұл ақпарат Digital Wellbeing функциясын жақсартуға пайдаланылады.</translation>
-<translation id="4596514158372210596">Digital Wellbeing функциясынан Dissenter браузерін пайдалану деректерін өшіру</translation>
-<translation id="1174893863889683998">Dissenter браузерін пайдалану деректері Digital Wellbeing қызметінен өшірілсін бе?</translation>
-<translation id="708829030563435351">Dissenter браузерінде ашқан сайттар көрсетілмейді. Барлық сайт таймерлері жойылады.</translation>
+<translation id="4565206163201411670">Digital Wellbeing қызметінде Fulldive браузерін пайдалану деректері көрсетілсін бе?</translation>
+<translation id="9055113864158719823">Fulldive браузерінде ашқан сайттарды көріп, оларға таймер орната аласыз.\n\nGab AI Inc таймер орнатылған сайттар және болған уақытыңыз туралы ақпарат алады. Бұл ақпарат Digital Wellbeing функциясын жақсартуға пайдаланылады.</translation>
+<translation id="4596514158372210596">Digital Wellbeing функциясынан Fulldive браузерін пайдалану деректерін өшіру</translation>
+<translation id="1174893863889683998">Fulldive браузерін пайдалану деректері Digital Wellbeing қызметінен өшірілсін бе?</translation>
+<translation id="708829030563435351">Fulldive браузерінде ашқан сайттар көрсетілмейді. Барлық сайт таймерлері жойылады.</translation>
 <translation id="2056878612599315956">Сайттың жұмысы уақытша тоқтады.</translation>
 <translation id="671481426037969117"><ph name="FQDN"/> таймерінің уақыты бітті. Ол ертең қайта басталады.</translation>
 <translation id="7479104141328977413">Қойындыны басқару</translation>
@@ -1101,7 +1101,7 @@ Gab AI Inc есептік жазбасының шолу тарихы басқа 
 <translation id="6201345951596836663">Сілтеме көшірілді.</translation>
 <translation id="6597891566292541626">QR кодын/штрихкодты осы кадрға қойыңыз.</translation>
 <translation id="3140134512074889489">QR кодын сканерлеу үшін камераңызды қосыңыз.</translation>
-<translation id="5149323899804758325">QR кодын сканерлеу үшін Dissenter параметрлерін камера пайдалана алатындай етіп өзгертіңіз.</translation>
+<translation id="5149323899804758325">QR кодын сканерлеу үшін Fulldive параметрлерін камера пайдалана алатындай етіп өзгертіңіз.</translation>
 <translation id="2359808026110333948">Жалғастыру</translation>
 <translation id="8233540874193135768">QR кодын сканерлеу үшін камерасы бар құрылғыны пайдаланыңыз.</translation>
 <translation id="6297765934698848803">Құрылғыңызды басқаратын ұйым камерыңызды өшірді.</translation>

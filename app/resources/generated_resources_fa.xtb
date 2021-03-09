@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">حذف</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> انتخاب شد</translation>
 <translation id="5582839680698949063">منوی اصلی</translation>
-<translation id="3700405816184340252">‏سابقه Dissenter</translation>
+<translation id="3700405816184340252">‏سابقه Fulldive</translation>
 <translation id="7602079150116086782">هیچ برگه‌ای از دستگاه‌های وجود ندارد</translation>
 <translation id="4619615317237390068">برگه‌ها از دستگاه‌های دیگر</translation>
-<translation id="82609232232243542">‏ورود به Dissenter</translation>
+<translation id="82609232232243542">‏ورود به Fulldive</translation>
 <translation id="4627442949885028695">ادامه از دستگاه دیگری</translation>
-<translation id="7253276740368043692">‏برای دسترسی به برگه‌هایتان در دستگاه‌های دیگر، به سیستم Dissenter وارد شوید.</translation>
+<translation id="7253276740368043692">‏برای دسترسی به برگه‌هایتان در دستگاه‌های دیگر، به سیستم Fulldive وارد شوید.</translation>
 <translation id="6351063337294363751">می‌توانید داده‌های مرور را از این منو پاک کنید</translation>
 <translation id="6040143037577758943">بستن</translation>
 <translation id="6463795194797719782">&amp;ویرایش</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">موارد برگزیده...</translation>
 <translation id="5801568494490449797">موارد برگزیده</translation>
 <translation id="3677911431265050325">درخواست سایت ویژه دستگاه همراه</translation>
-<translation id="236470849334943016">‏«شرایط خدمات» Dissenter، ‏۳۱ مارس تغییر می‌کند</translation>
+<translation id="236470849334943016">‏«شرایط خدمات» Fulldive، ‏۳۱ مارس تغییر می‌کند</translation>
 <translation id="1032605640136438169">لطفاً «شرایط» جدید را مرور کنید</translation>
 <translation id="8712637175834984815">متوجه شدم</translation>
 <translation id="5007392906805964215">مرور</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">راه‌اندازی مجدد</translation>
 <translation id="3479552764303398839">اکنون نه</translation>
 <translation id="1008557486741366299">اکنون نه</translation>
-<translation id="8201192017531062522">‏وقتی برنامه‌های Dissenter باز هستند، Dissenter همچنان اجرا می‌شود.</translation>
-<translation id="7397305826909094212">‏خروج از همه برنامه‌های Dissenter</translation>
+<translation id="8201192017531062522">‏وقتی برنامه‌های Fulldive باز هستند، Fulldive همچنان اجرا می‌شود.</translation>
+<translation id="7397305826909094212">‏خروج از همه برنامه‌های Fulldive</translation>
 <translation id="5026874946691314267">این مورد دیگر نشان داده نشود.</translation>
 <translation id="91568222606626347">ایجاد میان‌بر...</translation>
 <translation id="2783321960289401138">ایجاد میان‌بر...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">‏ماشین مجازی Linux: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">دستگاه مجاز افزایه: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">‏تجزیه‌کننده IPP</translation>
-<translation id="7171242884588191792">‏امکانات فایل‌ها در Dissenter</translation>
+<translation id="7171242884588191792">‏امکانات فایل‌ها در Fulldive</translation>
 <translation id="3183139917765991655">واردکننده نمایه</translation>
 <translation id="7367714965999718019">‏سازنده کد QR</translation>
 <translation id="2190069059097339078">‏گیرنده اعتبارنامه‌های WiFi</translation>
-<translation id="5920835625712313205">‏ایجادکننده تصویر سیستمی سیستم‌عامل Dissenter</translation>
+<translation id="5920835625712313205">‏ایجادکننده تصویر سیستمی سیستم‌عامل Fulldive</translation>
 <translation id="4873312501243535625">بررسی‌کننده فایل رسانه‌ای</translation>
 <translation id="5972666587303800813">سرویس غیرفعال</translation>
 <translation id="1545775234664667895">طرح زمینه نصب شده "<ph name="THEME_NAME"/>"</translation>
@@ -851,13 +851,13 @@
 <translation id="3507421388498836150">اجازه‌های فعلی برای «<ph name="EXTENSION_NAME"/>»</translation>
 <translation id="5242724311594467048">«<ph name="EXTENSION_NAME"/>» فعال شود؟</translation>
 <translation id="4014432863917027322">«<ph name="EXTENSION_NAME"/>» را اصلاح می‌کنید؟</translation>
-<translation id="5173189340601754836">‏برنامه دیگری در رایانه شما برنامه‌ای اضافه کرده که ممکن است نحوه کارکرد Dissenter را تغییر دهد.
+<translation id="5173189340601754836">‏برنامه دیگری در رایانه شما برنامه‌ای اضافه کرده که ممکن است نحوه کارکرد Fulldive را تغییر دهد.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">‏برنامه دیگری در رایانه شما یک افزونه اضافه کرده است که ممکن است نحوه کارکرد Dissenter را تغییر دهد.
+<translation id="6654312501894761082">‏برنامه دیگری در رایانه شما یک افزونه اضافه کرده است که ممکن است نحوه کارکرد Fulldive را تغییر دهد.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">‏برنامه دیگری در رایانه شما یک طرح زمینه اضافه کرده است که ممکن است نحوه کارکرد Dissenter را تغییر دهد.
+<translation id="3225882094369124157">‏برنامه دیگری در رایانه شما یک طرح زمینه اضافه کرده است که ممکن است نحوه کارکرد Fulldive را تغییر دهد.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">فعال کردن افزونه</translation>
@@ -866,7 +866,7 @@
 <translation id="3908501907586732282">فعال کردن برنامه افزودنی</translation>
 <translation id="2327492829706409234">فعال کردن برنامه</translation>
 <translation id="175772926354468439">فعال کردن طرح زمینه</translation>
-<translation id="5267531627648004734">‏حذف از Dissenter</translation>
+<translation id="5267531627648004734">‏حذف از Fulldive</translation>
 <translation id="4998873842614926205">تأیید تغییرها</translation>
 <translation id="1799071797295057738">افزونه «<ph name="EXTENSION_NAME"/>» به‌طور خودکار غیرفعال شد.</translation>
 <translation id="5238278114306905396">برنامه «<ph name="EXTENSION_NAME"/>» به‌طور خودکار حذف شد.</translation>
@@ -1002,7 +1002,7 @@
 <translation id="1616298854599875024">نمی‌توان افزونه «<ph name="IMPORT_NAME"/>» را وارد کرد زیرا مدول هم‌رسانی‌شده‌ای نیست.</translation>
 <translation id="2131077480075264">نصب «<ph name="APP_NAME"/>» انجام نشد، زیرا «<ph name="IMPORT_NAME"/>» آن را مجاز نکرده است</translation>
 <translation id="1875387611427697908">این مورد را فقط می‌توان از <ph name="CHROME_WEB_STORE"/> اضافه کرد</translation>
-<translation id="3862788408946266506">‏برنامه‌ای با ویژگی مانیفست «kiosk_only» باید در حالت کیوسک سیستم عامل Dissenter نصب شود</translation>
+<translation id="3862788408946266506">‏برنامه‌ای با ویژگی مانیفست «kiosk_only» باید در حالت کیوسک سیستم عامل Fulldive نصب شود</translation>
 <translation id="3834775135533257713">برنامه «<ph name="TO_INSTALL_APP_NAME"/>» اضافه نشد، چون با «<ph name="INSTALLED_APP_NAME"/>» ناسازگار است.</translation>
 <translation id="144518587530125858">بارگیری "<ph name="IMAGE_PATH"/>" برای طرح زمینه ممکن نیست.</translation>
 <translation id="3576324189521867626">نصب موفقیت‌آمیز بود</translation>
@@ -1105,9 +1105,9 @@
 <translation id="6101226222197207147">برنامه جدید اضافه شده (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">طرح‌های زمینه جدید اضافه شده (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">"<ph name="EXTENSION_NAME"/>" اضافه شد</translation>
-<translation id="6637045053447935202">‏برنامه‌ای دیگر بر روی رایانه شما یک برنامه را اضافه کرده است که ممکن است نحوه کارکرد Dissenter را تغییر دهد.</translation>
-<translation id="2015014930243978107">‏برنامه‌ای دیگر بر روی رایانه شما یک برنامه افزودنی را اضافه کرده است که ممکن است نحوه کارکرد Dissenter را تغییر دهد.</translation>
-<translation id="2060128809251156338">‏برنامه‌ای دیگر بر روی رایانه شما یک طرح زمینه را اضافه کرده است که ممکن است نحوه کارکرد Dissenter را تغییر دهد.</translation>
+<translation id="6637045053447935202">‏برنامه‌ای دیگر بر روی رایانه شما یک برنامه را اضافه کرده است که ممکن است نحوه کارکرد Fulldive را تغییر دهد.</translation>
+<translation id="2015014930243978107">‏برنامه‌ای دیگر بر روی رایانه شما یک برنامه افزودنی را اضافه کرده است که ممکن است نحوه کارکرد Fulldive را تغییر دهد.</translation>
+<translation id="2060128809251156338">‏برنامه‌ای دیگر بر روی رایانه شما یک طرح زمینه را اضافه کرده است که ممکن است نحوه کارکرد Fulldive را تغییر دهد.</translation>
 <translation id="2470702053775288986">افزونه‌های پشتیبانی نشده غیرفعال شدند.</translation>
 <translation id="2809586584051668049">و <ph name="NUMBER_ADDITIONAL_DISABLED"/> مورد دیگر</translation>
 <translation id="5301954838959518834">بله، متوجه شدم</translation>
@@ -1312,7 +1312,7 @@
 <translation id="8017679124341497925">میان‌بر ویرایش شد</translation>
 <translation id="1174073918202301297">میان‌بر اضافه شد</translation>
 <translation id="2926085873880284723">بازیابی میان‌برهای پیش‌فرض</translation>
-<translation id="5801450813341024983">‏پس‌زمینه‌های Dissenterbook</translation>
+<translation id="5801450813341024983">‏پس‌زمینه‌های Fulldivebook</translation>
 <translation id="2800760947029405028">بارگذاری تصویر</translation>
 <translation id="8342861492835240085">انتخاب مجموعه</translation>
 <translation id="3132996321662585180">بازخوانی روزانه</translation>
@@ -1399,7 +1399,7 @@
 <translation id="833986336429795709">برای باز کردن این پیوند، برنامه‌ای انتخاب کنید</translation>
 <translation id="192494336144674234">باز کردن با</translation>
 <translation id="9053893665344928494">انتخاب من به خاطر سپرده شود</translation>
-<translation id="5340857474604400806">‏ماندن در Dissenter</translation>
+<translation id="5340857474604400806">‏ماندن در Fulldive</translation>
 <translation id="3043581297103810752">از <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (خصوصی)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (مهمان)</translation>
@@ -1460,8 +1460,8 @@
 <translation id="6686817083349815241">ذخیره گذرواژه‌تان</translation>
 <translation id="8141725884565838206">مدیریت گذرواژه‌های شما</translation>
 <translation id="8275038454117074363">وارد کردن</translation>
-<translation id="3191314862567596053">‏وارد کردن گذرواژه‌ها به Dissenter</translation>
-<translation id="6368144843345980623">‏صادر کردن گذرواژه‌ها از Dissenter</translation>
+<translation id="3191314862567596053">‏وارد کردن گذرواژه‌ها به Fulldive</translation>
+<translation id="6368144843345980623">‏صادر کردن گذرواژه‌ها از Fulldive</translation>
 <translation id="8503813439785031346">نام کاربری</translation>
 <translation id="6657585470893396449">گذرواژه</translation>
 <translation id="5472627187093107397">ذخیره کردن گذرواژه‌های این سایت</translation>
@@ -1492,7 +1492,7 @@
 <translation id="7052237160939977163">ارسال داده‌های ردیابی عملکرد</translation>
 <translation id="5526928694260255286">‏پیوست <ph name="BEGIN_LINK"/>گزارش‌های بلوتوث<ph name="END_LINK"/> (داخلی Gab AI Inc)</translation>
 <translation id="3047644958362961983">این اطلاعات به ما کمک می‌کند مشکل «دستیار» شما را بهتر تشخیص دهیم. این اطلاعات تا ۹۰ روز ذخیره می‌شود و دسترسی به آن به تیم‌های مهندسی و بازخورد مربوطه محدود می‌شود.</translation>
-<translation id="8545590844135745781">‏برای بهبود رفع مشکلات بلوتوث، کارمندان Gab AI Inc می‌توانند گزارش‌های بلوتوث اضافی‌ای را با گزارش‌های بازخورد شما همراه کنند. وقتی این گزینه انتخاب شود، گزارشتان شامل گزارش‌های btsnoop و HCI جلسهٔ اخیرتان نیز می‌شود، که با برداشتن اطلاعات قابل‌شناسایی شخصی (PII) تا جای ممکن پاک‌سازی شده است. فقط مدیران گروه محصول سیستم‌عامل Dissenter در Listnr به این گزارش‌ها دسترسی دارند. گزارش‌ها پس از ۹۰ روز حذف دائم می‌شود.</translation>
+<translation id="8545590844135745781">‏برای بهبود رفع مشکلات بلوتوث، کارمندان Gab AI Inc می‌توانند گزارش‌های بلوتوث اضافی‌ای را با گزارش‌های بازخورد شما همراه کنند. وقتی این گزینه انتخاب شود، گزارشتان شامل گزارش‌های btsnoop و HCI جلسهٔ اخیرتان نیز می‌شود، که با برداشتن اطلاعات قابل‌شناسایی شخصی (PII) تا جای ممکن پاک‌سازی شده است. فقط مدیران گروه محصول سیستم‌عامل Fulldive در Listnr به این گزارش‌ها دسترسی دارند. گزارش‌ها پس از ۹۰ روز حذف دائم می‌شود.</translation>
 <translation id="4206323443866416204">گزارش بازخورد</translation>
 <translation id="3681311097828166361">از بازخوردتان سپاسگزاریم. درحال‌حاضر آفلاین هستید و گزارشتان بعداً ارسال می‌شود.</translation>
 <translation id="8713570323158206935">ارسال <ph name="BEGIN_LINK1"/>اطلاعات سیستم<ph name="END_LINK1"/></translation>
@@ -1509,15 +1509,15 @@
 <translation id="6885771755599377173">پیش‌نمایش اطلاعات سیستم</translation>
 <translation id="1016566241875885511">اطلاعات تکمیلی (اختیاری)</translation>
 <translation id="8026334261755873520">پاک کردن داده‌های مرور</translation>
-<translation id="4718442817388594217">‏داده‌های انتخاب‌شده از Dissenter و دستگاه‌های همگام‌سازی‌شده برداشته شده‌اند. ممکن است حساب Gab AI Inc شما در <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> شکل‌های دیگری از سابقه مرور (مانند جستجوها و فعالیت از سایر سرویس‌های Gab AI Inc) داشته باشد.</translation>
-<translation id="7814200940910057384">‏داده‌های Dissenter پاک شد</translation>
+<translation id="4718442817388594217">‏داده‌های انتخاب‌شده از Fulldive و دستگاه‌های همگام‌سازی‌شده برداشته شده‌اند. ممکن است حساب Gab AI Inc شما در <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> شکل‌های دیگری از سابقه مرور (مانند جستجوها و فعالیت از سایر سرویس‌های Gab AI Inc) داشته باشد.</translation>
+<translation id="7814200940910057384">‏داده‌های Fulldive پاک شد</translation>
 <translation id="7346909386216857016">بله متوجه شدم.</translation>
 <translation id="8493236660459102203">میکروفن:</translation>
 <translation id="3925573269917483990">دوربین:</translation>
 <translation id="648927581764831596">هیچ کدام در دسترس نیست</translation>
 <translation id="4172051516777682613">همیشه نشان داده شود</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{پنجره بازشو مسدود شد}one{# پنجره بازشو مسدود شد}other{# پنجره بازشو مسدود شد}}</translation>
-<translation id="4156865452842056672">‏(صفحه‌های خطای Dissenter)</translation>
+<translation id="4156865452842056672">‏(صفحه‌های خطای Fulldive)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> ممکن است نتواند خود را به‌روز نگه دارد</translation>
 <translation id="8590375307970699841">راه‌اندازی به‌روزرسانی‌های خودکار</translation>
 <translation id="8926389886865778422">دوباره سؤال نشود</translation>
@@ -1622,10 +1622,10 @@
 <translation id="8658645149275195032"><ph name="APP_NAME"/> درحال اشتراک‌گذاری صفحه و صوت شما با <ph name="TAB_NAME"/> است.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> در حال اشتراک‌گذاری یک پنجره است.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> درحال اشتراک‌گذاری یک پنجره با <ph name="TAB_NAME"/> است.</translation>
-<translation id="351520635355732555">‏<ph name="APP_NAME"/> درحال اشتراک‌گذاری یک برگه Dissenter است.</translation>
-<translation id="5727851901710884484">‏<ph name="APP_NAME"/> در حال اشتراک‌گذاری یک برگه Dissenter با <ph name="TAB_NAME"/> است.</translation>
-<translation id="5770515304879261338">‏<ph name="APP_NAME"/> در حال اشتراک‌گذاری یک برگه Dissenter و صوت است.</translation>
-<translation id="859454237594354073">‏<ph name="APP_NAME"/> درحال اشتراک‌گذاری یک برگه Dissenter و صوت با <ph name="TAB_NAME"/> است.</translation>
+<translation id="351520635355732555">‏<ph name="APP_NAME"/> درحال اشتراک‌گذاری یک برگه Fulldive است.</translation>
+<translation id="5727851901710884484">‏<ph name="APP_NAME"/> در حال اشتراک‌گذاری یک برگه Fulldive با <ph name="TAB_NAME"/> است.</translation>
+<translation id="5770515304879261338">‏<ph name="APP_NAME"/> در حال اشتراک‌گذاری یک برگه Fulldive و صوت است.</translation>
+<translation id="859454237594354073">‏<ph name="APP_NAME"/> درحال اشتراک‌گذاری یک برگه Fulldive و صوت با <ph name="TAB_NAME"/> است.</translation>
 <translation id="7108338896283013870">عدم نمایش</translation>
 <translation id="890616557918890486">تغییر منبع</translation>
 <translation id="7792388396321542707">توقف اشتراک‌گذاری</translation>
@@ -1648,7 +1648,7 @@
 <translation id="4711067597921221305">‏با ارسال خودکار آمار استفاده و گزارش‌های خرابی به Gab AI Inc، به بهتر شدن <ph name="PRODUCT_NAME"/> کمک کنید.</translation>
 <translation id="5972826969634861500">شروع <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">به مهندسان ما کمک کنید این خرابی را بررسی و برطرف کنند. در صورت امکان مراحل را دقیق فهرست کنید. هیچ جزئیاتی بی‌اهمیت نیست!</translation>
-<translation id="5418694430960033386">‏ممکن است حافظه Dissenter تمام شده باشد یا فرآیند مربوط به صفحهٔ وب به دلایل دیگری متوقف شده باشد. برای ادامه، صفحه را تازه‌سازی کنید یا به یک صفحه دیگر بروید.</translation>
+<translation id="5418694430960033386">‏ممکن است حافظه Fulldive تمام شده باشد یا فرآیند مربوط به صفحهٔ وب به دلایل دیگری متوقف شده باشد. برای ادامه، صفحه را تازه‌سازی کنید یا به یک صفحه دیگر بروید.</translation>
 <translation id="3065041951436100775">بازخورد بسته شدن برگه.</translation>
 <translation id="3941565636838060942">برای پنهان کردن دسترسی به این برنامه، باید با استفاده از
   <ph name="CONTROL_PANEL_APPLET_NAME"/> در صفحه کنترل آن را حذف کنید.
@@ -1676,10 +1676,10 @@
 <translation id="4980805016576257426">این افزونه بدافزار دارد.</translation>
 <translation id="5522156646677899028">این برنامه افزودنی از لحاظ امنیتی اصلاً مطمئن نیست.</translation>
 <translation id="6945695820322143954">این افزونه خط‌مشی «فروشگاه وب» را نقض می‌کند.</translation>
-<translation id="177808131755847449">‏توسط Dissenter غیرفعال شده است. ممکن است این افزونه ناامن باشد.</translation>
+<translation id="177808131755847449">‏توسط Fulldive غیرفعال شده است. ممکن است این افزونه ناامن باشد.</translation>
 <translation id="1434696352799406980">این گزینه صفحه شروع، صفحه برگه جدید، موتور جستجو و برگه‌های پین‌شده شما را بازنشانی می‌کند. همچنین همه افزونه‌ها را غیرفعال می‌کند و داده‌های موقتی مانند کوکی‌ها را پاک می‌کند. نشانک‌ها، سابقه و گذرواژه‌های ذخیره‌شده شما پاک نمی‌شوند.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> می‌خواهد تنظیمات شما را بازنشانی کند.</translation>
-<translation id="8073477228424628709">‏<ph name="THIRD_PARTY_TOOL_NAME"/> می‌خواهد تنظیمات Dissenter شما را به پیش‌فرض‌های اصلی‌شان بازیابی کند. با این کار صفحه اصلی، صفحه برگه جدید و موتور جستجویتان بازنشانی می‌شود، افزونه‌های شما غیرفعال می‌شوند و پین همه برگه‌ها برداشته می‌شود. همچنین سایر داده‌های موقت و داده‌های ذخیره شده در حافظه موقت، مانند کوکی‌ها، اطلاعات سایت و محتوا پاک می‌شوند.</translation>
+<translation id="8073477228424628709">‏<ph name="THIRD_PARTY_TOOL_NAME"/> می‌خواهد تنظیمات Fulldive شما را به پیش‌فرض‌های اصلی‌شان بازیابی کند. با این کار صفحه اصلی، صفحه برگه جدید و موتور جستجویتان بازنشانی می‌شود، افزونه‌های شما غیرفعال می‌شوند و پین همه برگه‌ها برداشته می‌شود. همچنین سایر داده‌های موقت و داده‌های ذخیره شده در حافظه موقت، مانند کوکی‌ها، اطلاعات سایت و محتوا پاک می‌شوند.</translation>
 <translation id="7581462281756524039">یک ابزار پاکسازی</translation>
 <translation id="1233721473400465416">زبان و کشور</translation>
 <translation id="2907619724991574506">نشانی‌های وب راه‌اندازی</translation>
@@ -1873,7 +1873,7 @@
 <translation id="6664774537677393800">هنگام باز کردن نمایه‌تان مشکلی پیش آمد. لطفاً از سیستم خارج شوید و دوباره به آن وارد شوید.</translation>
 <translation id="1794791083288629568">برای کمک به ما در رفع این مشکل بازخورد ارسال کنید.</translation>
 <translation id="8234795456569844941">لطفاً در رفع این مشکل به مهندسان ما کمک کنید. بگویید درست قبل از اینکه پیام خطای نمایه را دریافت کنید، چه اتفاقی افتاد.</translation>
-<translation id="6500340165622970282">‏راه‌اندازی Dissenter ممکن نیست زیرا هنگام باز کردن نمایه‌تان مشکلی پیش آمد. Dissenter را راه‌اندازی مجدد کنید.</translation>
+<translation id="6500340165622970282">‏راه‌اندازی Fulldive ممکن نیست زیرا هنگام باز کردن نمایه‌تان مشکلی پیش آمد. Fulldive را راه‌اندازی مجدد کنید.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> را نمی‌توان به‌عنوان ریشه اجرا کرد.</translation>
 <translation id="2292848386125228270">‏لطفاً <ph name="PRODUCT_NAME"/> را به‌عنوان یک کاربر معمولی راه‌اندازی کنید. اگر می‌خواهید آن را به‌عنوان ریشه برای طراحی اجرا کنید، با پرچم no-sandbox آن را دوباره اجرا کنید.</translation>
 <translation id="7547317915858803630">اخطار: تنظیمات <ph name="PRODUCT_NAME"/> شما در درایو شبکه ذخیره می‌شود. این کار ممکن است منجر به از دست رفتن دادهٰ‌ها٬ کند شدن و خرابی شود.</translation>
@@ -2249,8 +2249,8 @@
 <translation id="4720113199587244118">افزودن دستگاه‌ها</translation>
 <translation id="2776441542064982094">به‌نظر می‌رسد هیچ دستگاهی برای ثبت در شبکه در دسترس نیست. اگر دستگاهتان روشن و به اینترنت متصل است، با استفاده از دستورالعمل‌های موجود در دفترچه راهنمای آن، دوباره سعی کنید آن را ثبت کنید.</translation>
 <translation id="1007408791287232274">بارگیری دستگاه‌ها انجام نشد.</translation>
-<translation id="3886420006370338208">‏برای مشاهده دستگاه‌هایتان باید به سیستم Dissenter وارد شوید</translation>
-<translation id="6711610692002680394">‏برای ثبت دستگاه‌های جدید باید به سیستم Dissenter وارد شوید</translation>
+<translation id="3886420006370338208">‏برای مشاهده دستگاه‌هایتان باید به سیستم Fulldive وارد شوید</translation>
+<translation id="6711610692002680394">‏برای ثبت دستگاه‌های جدید باید به سیستم Fulldive وارد شوید</translation>
 <translation id="8931394284949551895">دستگاه‌های جدید</translation>
 <translation id="3752673729237782832">دستگاه‌های من</translation>
 <translation id="1721937473331968728">می‌توانید چاپگرهای کلاسیک متصل به رایانه‌تان را به <ph name="CLOUD_PRINT_NAME"/> اضافه کنید.</translation>
@@ -2323,7 +2323,7 @@
 <translation id="4540437243849625078">این سایت می‌خواهد اطلاعاتی را با برنامه‌ای خارج از حالت خصوصی به اشتراک بگذارد.</translation>
 <translation id="1227836882233136433">از حالت خصوصی خارج می‌شوید؟</translation>
 <translation id="662080504995468778">ماندن</translation>
-<translation id="2593289874938379417">‏Dissenter به منبع درخواستی دسترسی ندارد.</translation>
+<translation id="2593289874938379417">‏Fulldive به منبع درخواستی دسترسی ندارد.</translation>
 <translation id="760197030861754408">رفتن به <ph name="LANDING_PAGE"/> جهت اتصال.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> شناسایی شد</translation>
 <translation id="5042282098504489593">‏برای اتصال <ph name="USB_DEVICE_NAME"/> به Linux، «تنظیمات» را باز کنید</translation>
@@ -2378,24 +2378,24 @@
 <translation id="2859806420264540918">این سایتْ آگهی‌های مزاحم یا گمراه‌کننده نشان می‌دهد.</translation>
 <translation id="4077917118009885966">آگهی‌های این سایت مسدود شدند</translation>
 <translation id="6456955391422100996">آگهی حذف شد.</translation>
-<translation id="7533556202636568669">‏این آگهی از منابع زیادی برای دستگاهتان استفاده می‌کند، بنابراین Dissenter آن را حذف کرد.</translation>
+<translation id="7533556202636568669">‏این آگهی از منابع زیادی برای دستگاهتان استفاده می‌کند، بنابراین Fulldive آن را حذف کرد.</translation>
 <translation id="8497219075884839166">‏امکانات WIndows</translation>
 <translation id="897525204902889653">سرویس قرنطینه</translation>
 <translation id="7055152154916055070">هدایت کردن مسدود شده است:</translation>
 <translation id="6777817260680419853">هدایت کردن مسدود شده است</translation>
 <translation id="694592694773692225">در این صفحه، هدایت کردن مسدود شده است.</translation>
-<translation id="8945142681652245463">‏با Gab AI Inc Dissenter سریع مرور کنید</translation>
-<translation id="2618024864038703735">‏با Gab AI Inc Dissenter ایمن مرور کنید</translation>
-<translation id="8142180567942285208">‏با Dissenter هوشمندانه مرور کنید</translation>
+<translation id="8945142681652245463">‏با Gab AI Inc Fulldive سریع مرور کنید</translation>
+<translation id="2618024864038703735">‏با Gab AI Inc Fulldive ایمن مرور کنید</translation>
+<translation id="8142180567942285208">‏با Fulldive هوشمندانه مرور کنید</translation>
 <translation id="8862003515646449717">به مرورگر سریعی جابه‌جا شوید</translation>
 <translation id="8438328416656800239">به مرورگر هوشمندی جابه‌جا شوید</translation>
 <translation id="491691592645955587">به مرورگر ایمنی جابه‌جا شوید</translation>
 <translation id="683373380308365518">به مرورگری هوشمند و ایمن جابه‌جا شوید</translation>
-<translation id="989239400026154074">‏Gab AI Inc،‏ Dissenter را توصیه می‌کند</translation>
-<translation id="6676231621615806698">‏باز کردن Dissenter</translation>
+<translation id="989239400026154074">‏Gab AI Inc،‏ Fulldive را توصیه می‌کند</translation>
+<translation id="6676231621615806698">‏باز کردن Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> از مکانتان برای ارائه محتوای محلی استفاده می‌کند. می‌توانید در <ph name="SETTINGS_LINK"/> آن را تغییر دهید.</translation>
 <translation id="3737536731758327622">بارگیری‌هایتان در اینجا نشان داده می‌شود</translation>
-<translation id="4782664866169793230">‏Dissenter توسط نرم‌افزار آزمایش خودکاری کنترل می‌شود.</translation>
+<translation id="4782664866169793230">‏Fulldive توسط نرم‌افزار آزمایش خودکاری کنترل می‌شود.</translation>
 <translation id="6721678857435001674">ساخت و مدل «کلید امنیتی» خود را ببینید</translation>
 <translation id="1673137583248014546"><ph name="URL"/> می‌خواهد به ساخت و مدل «کلید امنیتی» شما دسترسی پیدا کند</translation>
 <translation id="6010869025736512584">در حال دسترسی به ورودی ویدئویی</translation>
@@ -2528,7 +2528,7 @@
 <translation id="3984431586879874039">به این سایت اجازه می‌دهید کلید امنیتی‌تان را ببیند؟</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> می‌خواهد ساخت و مدل کلید امنیتی‌تان را ببیند</translation>
 <translation id="7618452966706304788">آیا می‌خواهید از «شناسه لمسی» با <ph name="APP_NAME"/> در حالت «خصوصی» استفاده کنید؟</translation>
-<translation id="3098826269712097986">پس از خروج از حالت «خصوصی»، داده‌های ورود به سیستم در Dissenter ذخیره می‌شود. این قابلیت به شما امکان می‌دهد بعداً دوباره از «شناسه لمسی» در این وب‌سایت استفاده کنید.</translation>
+<translation id="3098826269712097986">پس از خروج از حالت «خصوصی»، داده‌های ورود به سیستم در Fulldive ذخیره می‌شود. این قابلیت به شما امکان می‌دهد بعداً دوباره از «شناسه لمسی» در این وب‌سایت استفاده کنید.</translation>
 <translation id="2172784515318616985">ادامه</translation>
 <translation id="5186185447130319458">خصوصی</translation>
 <translation id="7643842463591647490">{0,plural, =1{# پنجره باز}one{# پنجره باز}other{# پنجره باز}}</translation>
@@ -2570,7 +2570,7 @@
 <translation id="2346953515226895098">‏سرویس SODA</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> موقتاً متوقف شده است</translation>
 <translation id="917350715406657904">به حداکثر زمانی که ولی‌تان برای استفاده از <ph name="APP_NAME"/> تعیین کرده است رسیده‌اید. می‌توانید فردا به‌مدت <ph name="TIME_LIMIT"/> از آن استفاده کنید.</translation>
-<translation id="8891261408659902804">‏به حداکثر زمانی که ولی‌تان برای برنامه Dissenter‏ <ph name="APP_NAME"/> تنظیم کرده است رسیده‌اید. می‌توانید فردا به‌مدت <ph name="TIME_LIMIT"/> از آن استفاده کنید.</translation>
+<translation id="8891261408659902804">‏به حداکثر زمانی که ولی‌تان برای برنامه Fulldive‏ <ph name="APP_NAME"/> تنظیم کرده است رسیده‌اید. می‌توانید فردا به‌مدت <ph name="TIME_LIMIT"/> از آن استفاده کنید.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> مسدود شده است</translation>
 <translation id="4404843640767531781">ولی‌تان <ph name="APP_NAME"/> را مسدود کرده است. از ولی‌تان بخواهید استفاده از این برنامه را مجاز کند.</translation>
 <translation id="751523031290522286">سرپرست شما <ph name="APP_NAME"/> را مسدود کرده است. از سرپرست بخواهید اجازه دهد از این برنامه استفاده کنید.</translation>
@@ -2915,7 +2915,7 @@ other {# پنجره خصوصی باز}
 <translation id="672213144943476270">لطفاً قبل از مرور به‌عنوان مهمان، قفل نمایه‌تان را باز کنید.</translation>
 <translation id="8086119151297127544">لطفاً پیش از حذف نمایه، قفل نمایه‌تان را باز کنید.</translation>
 <translation id="7805701378418968629">لطفاً پیش از افزودن نمایه، قفل نمایه‌تان را باز کنید.</translation>
-<translation id="8978225823042133615">‏برای استفاده از Dissenter، لطفاً به سیستم وارد شوید</translation>
+<translation id="8978225823042133615">‏برای استفاده از Fulldive، لطفاً به سیستم وارد شوید</translation>
 <translation id="4893336867552636863">این کار داده مرور شما را برای همیشه از روی این دستگاه حذف می‌کند.</translation>
 <translation id="2496180316473517155">سابقه مرور</translation>
 <translation id="6865313869410766144">تکمیل خودکار داده‌های فرم</translation>
@@ -2939,7 +2939,7 @@ other {# پنجره خصوصی باز}
 <translation id="9013707997379828817">سرپرست این دستگاه را عقب‌گرد کرد. لطفاً فایل‌های مهم را ذخیره کنید، سپس دستگاه را بازراه‌اندازی کنید. همه داده‌های دستگاه حذف می‌شود.</translation>
 <translation id="5877064549588274448">کانال تغییر کرد. برای اعمال تغییرات دستگاه خود را مجدداً راه‌اندازی کنید.</translation>
 <translation id="4716483597559580346">‏Powerwash برای امنیت بیشتر</translation>
-<translation id="4089922565956168950">‏این ارتقا Dissenterbook را بازنشانی می‌کند و داده‌های کاربر کنونی را برمی‌دارد.</translation>
+<translation id="4089922565956168950">‏این ارتقا Fulldivebook را بازنشانی می‌کند و داده‌های کاربر کنونی را برمی‌دارد.</translation>
 <translation id="3688526734140524629">تغییر کانال</translation>
 <translation id="6410328738210026208">تغییر کانال و پاکسازی</translation>
 <translation id="1979280758666859181">شما در حال تغییر کانال به نسخه قدیمی‌تر <ph name="PRODUCT_NAME"/> هستید. تغییر کانال زمانی اعمال می‌شود که نسخه کانال با نسخه فعلی نصب شده در دستگاه یکسان باشد.</translation>
@@ -2971,7 +2971,7 @@ other {# پنجره خصوصی باز}
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>، ۱+ حساب دیگر}one{<ph name="EMAIL"/>، +<ph name="EXTRA_ACCOUNTS"/> حساب دیگر}other{<ph name="EMAIL"/>، +<ph name="EXTRA_ACCOUNTS"/> حساب دیگر}}</translation>
 <translation id="7434635829372401939">همگام‌سازی تنظیمات</translation>
 <translation id="1036348656032585052">خاموش کردن</translation>
-<translation id="3267705913905916810">‏برنامه‌ها و تنظیماتتان در همه دستگاه‌های «سیستم‌عامل Dissenter» که با حساب Gab AI Inc خود در آن‌ها به سیستم وارد شده‌اید همگام‌سازی خواهد شد. برای گزینه‌های همگام‌سازی مرورگر، به <ph name="LINK_BEGIN"/>تنظیمات Dissenter<ph name="LINK_END"/> بروید.</translation>
+<translation id="3267705913905916810">‏برنامه‌ها و تنظیماتتان در همه دستگاه‌های «سیستم‌عامل Fulldive» که با حساب Gab AI Inc خود در آن‌ها به سیستم وارد شده‌اید همگام‌سازی خواهد شد. برای گزینه‌های همگام‌سازی مرورگر، به <ph name="LINK_BEGIN"/>تنظیمات Fulldive<ph name="LINK_END"/> بروید.</translation>
 <translation id="6985607387932385770">چاپگرها</translation>
 <translation id="8418661265246754237">‏حساب‌های Gab AI Inc</translation>
 <translation id="3953834000574892725">حساب‌های من</translation>
@@ -3018,7 +3018,7 @@ other {# پنجره خصوصی باز}
 <translation id="2187700606737131818">Gab AI Inc Photos</translation>
 <translation id="1827738518074806965">گالری هنری</translation>
 <translation id="9137157311132182254">موتور جستجوی ترجیحی</translation>
-<translation id="7423118389528876103">‏در مرورگر Dissenter و راه‌انداز <ph name="DEVICE_TYPE"/> استفاده سده‌اند</translation>
+<translation id="7423118389528876103">‏در مرورگر Fulldive و راه‌انداز <ph name="DEVICE_TYPE"/> استفاده سده‌اند</translation>
 <translation id="2862205630718215619">‏دستیار Gab AI Inc</translation>
 <translation id="8959699239363253085">روشن</translation>
 <translation id="971479617738309149">خاموش</translation>
@@ -3038,15 +3038,15 @@ other {# پنجره خصوصی باز}
 <translation id="6644513150317163574">‏قالب نشانی وب نامعتبر است. وقتی از احراز هویت SSO استفاده می‌شود، سرور باید به‌عنوان یک نام میزبان مشخص شود.</translation>
 <translation id="6091761513005122595">دستگاه ذخیره‌سازی متصل به شبکه با موفقیت نشانده شد.</translation>
 <translation id="5770125698810550803">نمایش دکمه‌های پیمایش</translation>
-<translation id="2972318514147518075">‏با دکمه‌های «حالت رایانه لوحی» به صفحه اصلی پیمایش کنید، به صفحه قبلی برگردید، و بین برنامه‌ها جابه‌جا شوید. وقتی DissenterVox یا «کلیک‌های خودکار» فعال باشد، روشن می‌شود.</translation>
+<translation id="2972318514147518075">‏با دکمه‌های «حالت رایانه لوحی» به صفحه اصلی پیمایش کنید، به صفحه قبلی برگردید، و بین برنامه‌ها جابه‌جا شوید. وقتی FulldiveVox یا «کلیک‌های خودکار» فعال باشد، روشن می‌شود.</translation>
 <translation id="2558896001721082624">گزینه‌های دسترس‌پذیری در منوی سیستم همیشه نمایش داده شوند</translation>
 <translation id="2981113813906970160">نمایش نشانگر موشواره بزرگ</translation>
 <translation id="5072052264945641674">تنظیم اندازه نشانگر</translation>
 <translation id="4209092469652827314">بزرگ</translation>
 <translation id="499165176004408815">استفاده از حالت کنتراست بالا</translation>
 <translation id="142758023928848008">فعال کردن کلیدهای چسبناک (برای اجرای میان‌برهای صفحه‌کلید با تایپ کردن آنها به ترتیب)</translation>
-<translation id="5914872514449971753">‏فعال کردن DissenterVox (بازخورد گفتاری)</translation>
-<translation id="7099511550603534982">‏باز کردن تنظیمات DissenterVox</translation>
+<translation id="5914872514449971753">‏فعال کردن FulldiveVox (بازخورد گفتاری)</translation>
+<translation id="7099511550603534982">‏باز کردن تنظیمات FulldiveVox</translation>
 <translation id="8547013269961688403">فعال کردن ذره‌بین تمام‌صفحه</translation>
 <translation id="8743390665131937741">میزان بزرگ‌نمایی تمام‌صفحه:</translation>
 <translation id="7334274148831027933">فعال کردن ذره‌بین متصل</translation>
@@ -3138,7 +3138,7 @@ other {# پنجره خصوصی باز}
 <translation id="6902066522699286937">انتخاب صدا برای پیش‌نمایش</translation>
 <translation id="304747341537320566">موتورهای گفتار</translation>
 <translation id="2755367719610958252">مدیریت قابلیت‌های دسترس‌پذیری</translation>
-<translation id="1203953622051744249">‏حساب‌های به سیستم واردشده‌تان را مدیریت کنید. وب‌سایت‌ها، برنامه‌ها، و افزونه‌ها در Dissenter و Gab AI Inc Play ممکن است بسته به اجازه‌ها، از این حساب‌ها برای سفارشی کردن تجربه شما استفاده کنند. <ph name="LINK_BEGIN"/>بیشتر بدانید<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">‏حساب‌های به سیستم واردشده‌تان را مدیریت کنید. وب‌سایت‌ها، برنامه‌ها، و افزونه‌ها در Fulldive و Gab AI Inc Play ممکن است بسته به اجازه‌ها، از این حساب‌ها برای سفارشی کردن تجربه شما استفاده کنند. <ph name="LINK_BEGIN"/>بیشتر بدانید<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">در اینجا حساب مدرسه اضافه کنید یا حساب‌های فرزند را مدیریت کنید. <ph name="LINK_BEGIN"/>بیشتر بدانید<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">حساب‌ها</translation>
 <translation id="6597148444736186483">برای خروج از حساب اصلی در این دستگاه، روی زمان صفحه‌نمایش کلیک کنید. در منویی که نمایش داده می‌شود، روی «خروج از سیستم» کلیک کنید.</translation>
@@ -3210,7 +3210,7 @@ other {# پنجره خصوصی باز}
 <translation id="234889437187286781">خطا در بارگیری اطلاعات</translation>
 <translation id="4660540330091848931">درحال تغییر اندازه</translation>
 <translation id="1481537595330271162">هنگام تغییر اندازه دیسک خطایی روی داد</translation>
-<translation id="2756917833575664962">‏بازنشانی کارخانه برای این Dissenterbook لازم است تا اشکال‌زدایی ADB (پل اشکال‌زدایی Android) فعال شود. <ph name="BEGIN_LINK_LEARN_MORE"/>بیشتر بدانید<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">‏بازنشانی کارخانه برای این Fulldivebook لازم است تا اشکال‌زدایی ADB (پل اشکال‌زدایی Android) فعال شود. <ph name="BEGIN_LINK_LEARN_MORE"/>بیشتر بدانید<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">‏برای فعال‌سازی اشکال‌زدایی ADB (پل اشکال‌زدایی android)، بازراه‌اندازی <ph name="DEVICE_TYPE"/> لازم است. برای غیرفعال کردن این تنظیم، باید به تنظیمات کارخانه بازنشانی کنید.</translation>
 <translation id="8082390128630131497">‏غیرفعال کردن اشکال‌زدایی ADB (پل اشکال‌زدایی Android)، <ph name="DEVICE_TYPE"/> را به تنظیمات کارخانه بازنشانی می‌کند. همه حساب‌های کاربر و داده‌های محلی حذف می‌شوند.</translation>
 <translation id="7932969338829957666">‏پوشه‌های اشتراک‌گذاری‌شده در Linux در <ph name="BASE_DIR"/> دردسترس است.</translation>
@@ -3338,10 +3338,10 @@ other {# پنجره خصوصی باز}
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> دیگر دردسترس نیست.</translation>
 <translation id="3976108569178263973">چاپگری دردسترس نیست.</translation>
 <translation id="217576141146192373">چاپگر اضافه نشد. لطفاً پیکربندی چاپگرتان را بررسی کنید و دوباره امتحان کنید.</translation>
-<translation id="4052689580269971502">‏چاپگر متصل نشد. بررسی کنید چاپگر روشن و ازطریق Wi-Fi یا USB به Dissenterbook متصل باشد.</translation>
+<translation id="4052689580269971502">‏چاپگر متصل نشد. بررسی کنید چاپگر روشن و ازطریق Wi-Fi یا USB به Fulldivebook متصل باشد.</translation>
 <translation id="7099337801055912064">‏فایل PPD بزرگ است و بار نمی‌شود. حداکثر اندازه ۲۵۰ کیلوبایت است.</translation>
 <translation id="4310139701823742692">‏قالب فایل صحیح نیست. فایل PPD را بررسی کرده و دوباره امتحان کنید.</translation>
-<translation id="6580983683519551561">‏PPD پیدا نشد. مطمئن شوید Dissenterbook آنلاین باشد و دوباره امتحان کنید.</translation>
+<translation id="6580983683519551561">‏PPD پیدا نشد. مطمئن شوید Fulldivebook آنلاین باشد و دوباره امتحان کنید.</translation>
 <translation id="4694024090038830733">سرپرست سیستم، پیکربندی چاپگر را انجام می‌دهد.</translation>
 <translation id="5816434091619127343">تغییرات درخواستی باعث می‌شود چاپگر غیرقابل استفاده شود.</translation>
 <translation id="6504611359718185067">برای اضافه کردن چاپگر به اینترنت متصل شوید</translation>
@@ -3677,18 +3677,18 @@ other {# پنجره خصوصی باز}
 <translation id="7770651108375708429">‏قطع اتصال Wi-Fi</translation>
 <translation id="4168015872538332605">برخی از تنظیمات متعلق به <ph name="PRIMARY_EMAIL"/> با شما به اشتراک گذاشته می‌شود. این تنظیمات وقتی از ورود چندگانه به سیستم استفاده شود، فقط در حساب شما اعمال می‌شود.</translation>
 <translation id="1485141095922496924">نسخه <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">‏به‌روزرسانی‌ خودکار Dissenter برای همه کاربران</translation>
+<translation id="4570609078116869893">‏به‌روزرسانی‌ خودکار Fulldive برای همه کاربران</translation>
 <translation id="7102687220333134671">به‌روزرسانی‌های خودکار روشن هستند</translation>
 <translation id="6981982820502123353">قابلیت دسترسی</translation>
 <translation id="5840822070878669614">باز کردن فروشگاه وب</translation>
 <translation id="6073903501322152803">افزودن قابلیت‌های دسترس‌پذیری</translation>
 <translation id="7988355189918024273">فعالسازی ویژگی‌های دسترسی</translation>
-<translation id="5499063270485366718">‏اگر تصویری توضیح مفیدی نداشته باشد، Dissenter توضیحی برای شما ارائه خواهد کرد. برای ایجاد توضیحات، تصاویر به Gab AI Inc ارسال می‌شود.</translation>
+<translation id="5499063270485366718">‏اگر تصویری توضیح مفیدی نداشته باشد، Fulldive توضیحی برای شما ارائه خواهد کرد. برای ایجاد توضیحات، تصاویر به Gab AI Inc ارسال می‌شود.</translation>
 <translation id="8957762313041272117">زیرنویس زنده</translation>
-<translation id="7075426315046750605">‏«زیرنویس زنده» گفتار را در رسانه‌ها تشخیص می‌دهد و به‌طور خودکار برای همه رسانه‌هایی که در Dissenter پخش می‌شود زیرنویس می‌سازد.</translation>
+<translation id="7075426315046750605">‏«زیرنویس زنده» گفتار را در رسانه‌ها تشخیص می‌دهد و به‌طور خودکار برای همه رسانه‌هایی که در Fulldive پخش می‌شود زیرنویس می‌سازد.</translation>
 <translation id="572155275267014074">‏تنظیمات Android</translation>
 <translation id="7201042526153088083">‏برنامه‌ها و بازی‌ها را از Gab AI Inc Play در <ph name="DEVICE_TYPE"/> نصب کنید. &lt;a target="_blank" href="<ph name="URL"/>"&gt;بیشتر بدانید&lt;/a&gt;</translation>
-<translation id="8039595758121742506">‏برنامه‌هایی که از Gab AI Inc Play بارگیری کرده‌اید از این Dissenterbook حذف می‌شوند.
+<translation id="8039595758121742506">‏برنامه‌هایی که از Gab AI Inc Play بارگیری کرده‌اید از این Fulldivebook حذف می‌شوند.
       <ph name="LINE_BREAKS1"/>
       محتوایی که خریده‌اید مثل فیلم، نمایش تلویزیونی، موسیقی، کتاب یا سایر خریدهای درون‌برنامه نیز ممکن است حذف شوند.
       <ph name="LINE_BREAKS2"/>
@@ -3702,7 +3702,7 @@ other {# پنجره خصوصی باز}
 <translation id="6006484371116297560">کلاسيک</translation>
 <translation id="1795214765651529549">استفاده از کلاسیک</translation>
 <translation id="2332742915001411729">بازنشانی روی موارد پیش‌فرض</translation>
-<translation id="8338457030135232378">‏رنگ‌های Dissenter</translation>
+<translation id="8338457030135232378">‏رنگ‌های Fulldive</translation>
 <translation id="827097179112817503">نمایش دکمه صفحه اصلی</translation>
 <translation id="383007806262310953">نمایش نوار نشانک‌ها</translation>
 <translation id="3911824782900911339">صفحه «برگه جدید»</translation>
@@ -3714,7 +3714,7 @@ other {# پنجره خصوصی باز}
 <translation id="1670399744444387456">پایه</translation>
 <translation id="1763808908432309942">در برگه جدیدی باز می‌شود</translation>
 <translation id="6248988683584659830">تنظیمات جستجو</translation>
-<translation id="883304095704384301">‏اگر نمی‌توانید چیزی را که می‌خواهید پیدا کنید،‌ به <ph name="BEGIN_LINK_CHROMIUM"/>راهنمای Gab AI Inc Dissenter‏<ph name="END_LINK_CHROMIUM"/> بروید</translation>
+<translation id="883304095704384301">‏اگر نمی‌توانید چیزی را که می‌خواهید پیدا کنید،‌ به <ph name="BEGIN_LINK_CHROMIUM"/>راهنمای Gab AI Inc Fulldive‏<ph name="END_LINK_CHROMIUM"/> بروید</translation>
 <translation id="6406708970972405507">تنظیمات - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">دکمه صفحه فرعی</translation>
 <translation id="379509625511193653">خاموش</translation>
@@ -3901,7 +3901,7 @@ other {# پنجره خصوصی باز}
 <translation id="5468173180030470402">درحال یافتن دستگاه ذخیره‌سازی متصل به شبکه</translation>
 <translation id="3336664756920573711">‏باز کردن قفل <ph name="DEVICE_TYPE"/> با تلفن Android</translation>
 <translation id="1164674268730883318">‏Smart Lock برای <ph name="DEVICE_TYPE"/> خاموش شود؟</translation>
-<translation id="2739030071582769583">‏اگر Smart Lock را برای <ph name="DEVICE_TYPE"/> خاموش کنید، نمی‌توانید قفل دستگاه‌های Dissenter خود را با استفاده از تلفنتان باز کنید. باید گذرواژه‌تان را تایپ کنید.</translation>
+<translation id="2739030071582769583">‏اگر Smart Lock را برای <ph name="DEVICE_TYPE"/> خاموش کنید، نمی‌توانید قفل دستگاه‌های Fulldive خود را با استفاده از تلفنتان باز کنید. باید گذرواژه‌تان را تایپ کنید.</translation>
 <translation id="4737715515457435632">لطفاً به شبکه وصل شوید.</translation>
 <translation id="5425722269016440406">‏برای خاموش کردن Smart Lock باید آنلاین باشید زیرا این تنظیم با تلفن و سایر دستگاه‌های شما همگام‌سازی می‌شود. لطفاً اول به شبکه متصل شوید.</translation>
 <translation id="8885197664446363138">‏Smart Lock در دسترس نیست</translation>
@@ -4135,20 +4135,20 @@ other {# پنجره خصوصی باز}
 <translation id="3633309367764744750">اطلاعات را از صفحه‌ها (ازجمله صفحه‌هایی که هنوز از آن‌ها بازدید نکرده‌اید) پیشاپیش واکشی می‌کند. ممکن است در اطلاعات واکشی‌شده کوکی وجود داشته باشد، البته اگر کوکی‌ها را مجاز کرده باشید.</translation>
 <translation id="3201899458094819285">مرور ایمن (از شما و دستگاهتان درمقابل سایت‌های خطرناک محافظت می‌کند)</translation>
 <translation id="2876369937070532032">‏اگر امنیتتان درخطر باشد، نشانی وب برخی از صفحه‌هایی را که بازدید می‌کنید به Gab AI Inc می‌فرستد</translation>
-<translation id="4991384657077828949">‏کمک به بهبود امنیت Dissenter</translation>
+<translation id="4991384657077828949">‏کمک به بهبود امنیت Fulldive</translation>
 <translation id="1984646864943401749">‏نشانی‌های وب بعضی از صفحه‌هایی که بازدید می‌کنید، اطلاعات محدودی از سیستم، و برخی از محتوای صفحه را به Gab AI Inc ارسال می‌کند تا به کشف تهدیدهای جدید و محافظت از همه افراد در وب کمک کند.</translation>
 <translation id="1641113438599504367">مرور ایمن</translation>
 <translation id="6900532703269623216">محافظت بهبودیافته</translation>
 <translation id="7307583170263691471">‏محافظت سریع‌تر و پیشگیرانه دربرابر وب‌سایت‌ها، بارگیری‌ها، و افزونه‌های خطرناک. لورفتن گذرواژه را به شما هشدار می‌دهد. عملکرد این ویژگی متکی بر ارسال داده‌های مرور به Gab AI Inc‌ است.</translation>
 <translation id="8645920082661222035">رویدادهای خطرناک را پیش از اینکه اتفاق بیفتند پیش‌بینی می‌کند و درباره آن‌ها به شما هشدار می‌دهد</translation>
-<translation id="5265419033369521352">‏وقتی به سیستم وارد شده باشید، امنیت شما را در Dissenter حفظ می‌کند و ممکن است برای بهبود امنیت شما در برنامه‌های دیگر Gab AI Inc استفاده شود</translation>
+<translation id="5265419033369521352">‏وقتی به سیستم وارد شده باشید، امنیت شما را در Fulldive حفظ می‌کند و ممکن است برای بهبود امنیت شما در برنامه‌های دیگر Gab AI Inc استفاده شود</translation>
 <translation id="6770602306803890733">امنیت را برای شما و همه کاربران دیگر وب بهبود می‌بخشد</translation>
 <translation id="3690369331356918524">اگر گذرواژه‌ها به‌دلیل نقض داده درمعرض خطر باشد، به شما هشدار می‌دهد</translation>
 <translation id="4979281249641199724">‏نشانی‌های وب را به «مرور ایمن» ارسال می‌کند تا بررسی شوند. نمونه کوچکی از صفحات، بارگیری‌ها، فعالیت افزونه، و اطلاعات سیستم را هم ارسال می‌کند تا به کشف تهدیدهای جدید کمک کند. وقتی به سیستم وارد می‌شوید، این داده‌ها را به‌طور موقت به «حساب Gab AI Inc» شما پیوند می‌دهد تا در همه برنامه‌های Gab AI Inc از شما محافظت شود.</translation>
 <translation id="1963976881984600709">محافظت استاندارد</translation>
 <translation id="6882836635272038266">محافظت استاندارد دربرابر وب‌سایت‌ها، بارگیری‌ها، و افزونه‌هایی که خطرناک بودنشان مشخص شده است.</translation>
 <translation id="5561162485081632007">رویدادهای خطرناک را درصورت وقوع شناسایی می‌کند و به شما هشدار می‌دهد</translation>
-<translation id="7810992039564280750">‏نشانی‌های وب را با فهرست سایت‌های ناامنی که در Dissenter ذخیره شده است مقایسه می‌کند. اگر سایتی تلاش کند گذرواژه شما را به‌سرقت ببرد، یا وقتی فایل مخربی بارگیری می‌کنید، Dissenter ممکن است نشانی‌های وب را نیز به همراه بخش‌های کوچکی از محتوای صفحه، به «مرور ایمن» ارسال کند.</translation>
+<translation id="7810992039564280750">‏نشانی‌های وب را با فهرست سایت‌های ناامنی که در Fulldive ذخیره شده است مقایسه می‌کند. اگر سایتی تلاش کند گذرواژه شما را به‌سرقت ببرد، یا وقتی فایل مخربی بارگیری می‌کنید، Fulldive ممکن است نشانی‌های وب را نیز به همراه بخش‌های کوچکی از محتوای صفحه، به «مرور ایمن» ارسال کند.</translation>
 <translation id="3847319713229060696">کمک به بهبود امنیت برای همه کاربران وب</translation>
 <translation id="1984417487208496350">بدون محافظت (توصیه نمی‌شود)</translation>
 <translation id="1295971429974142731">‏دربرابر وب‌سایت‌ها، بارگیری‌ها، و افزونه‌های خطرناک از شما محافظت نمی‌کند. درصورت وجود، همچنان ویژگی حفاظتی «مرور ایمن» را در سرویس‌های دیگر Gab AI Inc مثل Gmail و «جستجو» دریافت می‌کنید.</translation>
@@ -4204,7 +4204,7 @@ other {# پنجره خصوصی باز}
 <translation id="8632933437936028548">بازنشانی تنظیمات</translation>
 <translation id="5293170712604732402">بازنشانی تنظیمات به پیش‌فرض‌های اولیه آن‌ها</translation>
 <translation id="892706138619340876">برخی تنظیمات بازنشانی شدند</translation>
-<translation id="2334029754052191847">‏Dissenter تشخیص داد که برنامه دیگری برخی از تنظیمات شما را خراب کرده است و این تنظیمات را به پیش‌فرض‌های اولیه آن‌ها بازنشانی کرد.</translation>
+<translation id="2334029754052191847">‏Fulldive تشخیص داد که برنامه دیگری برخی از تنظیمات شما را خراب کرده است و این تنظیمات را به پیش‌فرض‌های اولیه آن‌ها بازنشانی کرد.</translation>
 <translation id="4582563038311694664">بازنشانی همه تنظیمات</translation>
 <translation id="4146785383423576110">بارنشانی و پاک کردن</translation>
 <translation id="2603115962224169880">پاک کردن رایانه</translation>
@@ -4273,7 +4273,7 @@ other {# پنجره خصوصی باز}
 <translation id="5340638867532133571">اجازه به سایت‌ها برای نصب کنتر‌ل‌کننده‌های پرداخت (توصیه‌ می‌شود)</translation>
 <translation id="763632859238619983">هیچ سایتی برای نصب کنترل‌کننده‌های پرداخت مجاز نباشد</translation>
 <translation id="8270242299912238708">‏سندهای PDF</translation>
-<translation id="539658326146969381">‏بارگیری فایل‌های PDF به‌جای باز کردن خودکار آن‌ها در Dissenter</translation>
+<translation id="539658326146969381">‏بارگیری فایل‌های PDF به‌جای باز کردن خودکار آن‌ها در Fulldive</translation>
 <translation id="4434045419905280838">پنجره‌های بازشو و هدایت‌ها</translation>
 <translation id="6612358246767739896">محتوای محافظت‌شده</translation>
 <translation id="4252852543720145436">شناسه‌های محتوای محافظت‌شده</translation>
@@ -4334,7 +4334,7 @@ other {# پنجره خصوصی باز}
 <translation id="2913331724188855103">سایت‌ها مجاز به ذخیره و خواندن داده‌های کوکی باشند (توصیه می‌شود)</translation>
 <translation id="5908769186679515905">‏اجرای Flash در سایت‌ها مسدود شود</translation>
 <translation id="783214144752121388">‏اجرای Flash در سایت‌ها مسدود شود (توصیه می‌شود)</translation>
-<translation id="6096007141921397775">‏تنظیمات Flash تا وقتی از Dissenter خارج شوید حفظ می‌شود.</translation>
+<translation id="6096007141921397775">‏تنظیمات Flash تا وقتی از Fulldive خارج شوید حفظ می‌شود.</translation>
 <translation id="8074127646604999664">اجازه به سایت‌های اخیراً بسته‌شده برای تکمیل ارسال و دریافت</translation>
 <translation id="7062222374113411376">به سایت‌های اخیراً بسته‌شده امکان داده شود ارسال و دریافت داده را تکمیل کند (توصیه می‌شود)</translation>
 <translation id="5068918910148307423">به سایت‌های اخیراً بسته‌شده امکان داده نشود ارسال و دریافت داده را تکمیل کنند</translation>
@@ -4414,7 +4414,7 @@ other {# پنجره خصوصی باز}
 <translation id="5566692924079383101">پس از خروج از جلسه ناشناس فعلی، این استثنا به‌طور خودکار برداشته می‌شود</translation>
 <translation id="383891835335927981">هیچ سایتی بزرگ‌نمایی یا کوچک‌نمایی نشده است</translation>
 <translation id="3566721612727112615">سایتی اضافه نشد</translation>
-<translation id="8098574385249290065">‏Dissenter انتخاب کند سایت‌ها چه موقع صدا پخش کنند (توصیه‌شده)</translation>
+<translation id="8098574385249290065">‏Fulldive انتخاب کند سایت‌ها چه موقع صدا پخش کنند (توصیه‌شده)</translation>
 <translation id="4354344420232759511">سایت‌هایی که بازدید می‌کنید اینجا نشان داده می‌شود</translation>
 <translation id="3757733214359997190">سایتی یافت نشد</translation>
 <translation id="6545864417968258051">اسکن کردن بلوتوث</translation>
@@ -4427,7 +4427,7 @@ other {# پنجره خصوصی باز}
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">افزودن سایت</translation>
 <translation id="5052499409147950210">ویرایش سایت</translation>
-<translation id="4610862967073369855">‏به «پیام‌های Android» اجازه دهید پیام‌های متنی را از تلفن در Dissenterbook بازپخش کند</translation>
+<translation id="4610862967073369855">‏به «پیام‌های Android» اجازه دهید پیام‌های متنی را از تلفن در Fulldivebook بازپخش کند</translation>
 <translation id="6742339027238151589">قابل دسترسی به اسکریپت</translation>
 <translation id="361106536627977100">داده‌های فلاش</translation>
 <translation id="8557930019681227453">مانیفست</translation>
@@ -4439,7 +4439,7 @@ other {# پنجره خصوصی باز}
 <translation id="8016266267177410919">فضای ذخیره‌سازی موقت</translation>
 <translation id="4175737294868205930">محل ذخیره‌سازی دائمی</translation>
 <translation id="8397843425685839889">‏شما و Gab AI Inc</translation>
-<translation id="8907706281008466056">عکس نمایه Dissenter</translation>
+<translation id="8907706281008466056">عکس نمایه Fulldive</translation>
 <translation id="2023167225947895179">حدس زدن این پین آسان است</translation>
 <translation id="5342091991439452114">پین باید حداقل <ph name="MINIMUM"/> رقم باشد</translation>
 <translation id="5252653240322147470">کد پین باید کمتر از <ph name="MAXIMUM"/> رقم باشد</translation>
@@ -4504,23 +4504,23 @@ other {# پنجره خصوصی باز}
 <translation id="3817524650114746564">تنظیمات پراکسی رایانه را باز کنید</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> درحال استفاده از تنظیمات پراکسی از افزونه است</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> درحال استفاده از تنظیمات پراکسی از سرپرست شما است</translation>
-<translation id="6187156085111579405">‏درصورت لزوم، موارد فهرست‌نشده نیز حذف خواهند شد. در گزارش جامع و دقیق حریم‌ خصوصی Dissenter، درباره &lt;a href="<ph name="URL"/>"&gt;حفاظت دربرابر نرم‌افزار ناخواسته&lt;/a&gt; اطلاعات بیشتری کسب کنید.</translation>
+<translation id="6187156085111579405">‏درصورت لزوم، موارد فهرست‌نشده نیز حذف خواهند شد. در گزارش جامع و دقیق حریم‌ خصوصی Fulldive، درباره &lt;a href="<ph name="URL"/>"&gt;حفاظت دربرابر نرم‌افزار ناخواسته&lt;/a&gt; اطلاعات بیشتری کسب کنید.</translation>
 <translation id="5280174558369304332">افزونه‌هایی که برداشته می‌شود:</translation>
 <translation id="7712836429117959503">افزونه ناشناس با شناسه <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">فایل‌ها و برنامه‌هایی که قرنطینه می‌شود:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{۱ مورد}one{{NUM_ITEMS} مورد}other{{NUM_ITEMS} مورد}}</translation>
 <translation id="7187428571767585875">ورودی‌های رجیستری برای برداشتن یا تغییر دادن:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{۱ مورد دیگر}one{{NUM_DOWNLOADS} مورد دیگر}other{{NUM_DOWNLOADS} مورد دیگر}}</translation>
-<translation id="2749608811030566578">‏هنگام حذف نرم‌افزار مضر توسط Dissenter، خطایی روی داد</translation>
-<translation id="8189483132214844139">‏Dissenter می‌تواند نرم‌افزار مضر را در رایانه‌تان پیدا کرده و آن را حذف کند</translation>
+<translation id="2749608811030566578">‏هنگام حذف نرم‌افزار مضر توسط Fulldive، خطایی روی داد</translation>
+<translation id="8189483132214844139">‏Fulldive می‌تواند نرم‌افزار مضر را در رایانه‌تان پیدا کرده و آن را حذف کند</translation>
 <translation id="1426870617281699524">روی «دوباره امتحان کنید» کلیک کنید و درخواست را در رایانه بپذیرید</translation>
-<translation id="7886744396008377537">‏نرم‌افزار مضری در رایانه‌تان وجود دارد. Dissenter آن را برمی‌دارد، تنظیمات شما را بازنشانی می‌کند و افزونه‌ها را غیرفعال می‌کند. این کار باعث می‌شود مرورگرتان دوباره به‌طور معمول کار کند.</translation>
-<translation id="1484912962860902625">‏هنگام جستجوی نرم‌افزار مضر توسط Dissenter، خطایی روی داد</translation>
+<translation id="7886744396008377537">‏نرم‌افزار مضری در رایانه‌تان وجود دارد. Fulldive آن را برمی‌دارد، تنظیمات شما را بازنشانی می‌کند و افزونه‌ها را غیرفعال می‌کند. این کار باعث می‌شود مرورگرتان دوباره به‌طور معمول کار کند.</translation>
+<translation id="1484912962860902625">‏هنگام جستجوی نرم‌افزار مضر توسط Fulldive، خطایی روی داد</translation>
 <translation id="451407183922382411">ارائه‌شده توسط <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">نمایش فایل‌های موردنظر برای پاک کردن</translation>
 <translation id="296026337010986570">‏تمام! نرم‌افزار مضر پاک شد. برای اینکه دوباره افزونه‌ها را روشن کنید، به a href="chrome://extensions"&gt;افزونه‌ها&lt;/a&gt; بروید.</translation>
 <translation id="284975061945174219">پاک‌سازی انجام نشد</translation>
-<translation id="9014750448058570312">‏Dissenter برای ادامه به مجوز نیاز دارد</translation>
+<translation id="9014750448058570312">‏Fulldive برای ادامه به مجوز نیاز دارد</translation>
 <translation id="1852141627593563189">یافتن نرم‌افزارهای مضر</translation>
 <translation id="850875081535031620">نرم‌افزار مضری پیدا نشد</translation>
 <translation id="1186771945450942097">پاک کردن نرم‌افزار مضر</translation>
@@ -4533,7 +4533,7 @@ other {# پنجره خصوصی باز}
 <translation id="6555810572223193255">پاک‌سازی فعلاً در دسترس نیست</translation>
 <translation id="7117228822971127758">لطفاً بعداً دوباره امتحان کنید</translation>
 <translation id="443475966875174318">به‌روزرسانی یا برداشتن برنامه‌های ناسازگار</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{‏این برنامه می‌تواند مانع عملکرد درست Dissenter شود.}one{‏این برنامه‌ها می‌توانند مانع عملکرد درست Dissenter شوند.}other{‏این برنامه‌ها می‌توانند مانع عملکرد درست Dissenter شوند.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{‏این برنامه می‌تواند مانع عملکرد درست Fulldive شود.}one{‏این برنامه‌ها می‌توانند مانع عملکرد درست Fulldive شوند.}other{‏این برنامه‌ها می‌توانند مانع عملکرد درست Fulldive شوند.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{برای اطمینان از اینکه همچنان می‌توانید به مرور وب بپردازید، از سرپرستتان بخواهید این برنامه را بردارد.}one{برای اطمینان از اینکه همچنان می‌توانید به مرور وب بپردازید، از سرپرستتان بخواهید این برنامه‌ها را بردارد.}other{برای اطمینان از اینکه همچنان می‌توانید به مرور وب بپردازید، از سرپرستتان بخواهید این برنامه‌ها را بردارد.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>با نحوه به‌روزرسانی برنامه‌ها آشنا شوید<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{برنامه}one{برنامه}other{برنامه}}</translation>
@@ -4616,13 +4616,13 @@ other {# پنجره خصوصی باز}
 <translation id="284843628681142937">‏نشانی وب صفحه‌هایی را که بازدید می‌کنید برای Gab AI Inc ارسال می‌کند</translation>
 <translation id="7704317875155739195">تکمیل خودکار جستجوها و نشانی‌های وب</translation>
 <translation id="2000419248597011803">برخی کوکی‌ها و جستجوها را از نوار نشانی و جعبه جستجو به موتور جستجوی پیش‌فرض ارسال می‌کند</translation>
-<translation id="918192811481327695">‏کمک به بهبود ویژگی‌ها و عملکرد Dissenter</translation>
+<translation id="918192811481327695">‏کمک به بهبود ویژگی‌ها و عملکرد Fulldive</translation>
 <translation id="9063160602596686558">‏به‌طور خودکار آمار کاربرد و گزارش‌های خرابی را به Gab AI Inc ارسال می‌کند</translation>
 <translation id="6697492270171225480">نمایش پیشنهادهای صفحه‌های مشابه وقتی صفحه‌ای پیدا نمی‌شود</translation>
 <translation id="4534361985432360439">‏نشانی وب صفحه‌ای را که باز می‌کنید به Gab AI Inc ارسال می‌کند</translation>
 <translation id="3831436149286513437">‏پیشنهادهای جستجوی Gab AI Inc Drive</translation>
 <translation id="5244474230056479698">درحال همگام‌سازی در <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">‏هوشمندی‌های Gab AI Inc را در Dissenter دریافت کنید</translation>
+<translation id="9125982323641182972">‏هوشمندی‌های Gab AI Inc را در Fulldive دریافت کنید</translation>
 <translation id="2537178555904266562">خطا در همگام‌سازی گذرواژه‌ها</translation>
 <translation id="4314815835985389558">مدیریت همگام‌سازی</translation>
 <translation id="8931475688782629595">مدیریت همگام‌سازی‌ها</translation>
@@ -4640,7 +4640,7 @@ other {# پنجره خصوصی باز}
 <translation id="1651008383952180276">باید همان عبارت عبور را دو بار وارد کنید</translation>
 <translation id="988978206646512040">عبارت عبور خالی مجاز نیست</translation>
 <translation id="2136476978468204130">عبارت عبوری که وارد کردید نادرست است</translation>
-<translation id="7505421639213002314">‏داده‌های مربوط به همگام‌سازی Dissenter</translation>
+<translation id="7505421639213002314">‏داده‌های مربوط به همگام‌سازی Fulldive</translation>
 <translation id="452750746583162491">مرور داده‌های همگام‌سازی‌شده</translation>
 <translation id="7956662517480676674">‏همگام‌سازی و سرویس‌های Gab AI Inc</translation>
 <translation id="7772032839648071052">تأیید عبارت عبور</translation>
@@ -4739,7 +4739,7 @@ other {# پنجره خصوصی باز}
 <translation id="1992397118740194946">تنظیم نشده است</translation>
 <translation id="6706210727756204531">حوزه</translation>
 <translation id="5532223876348815659">سراسری</translation>
-<translation id="300669147395456190">‏برنامه‌های Dissenter</translation>
+<translation id="300669147395456190">‏برنامه‌های Fulldive</translation>
 <translation id="6787839852456839824">میان‌برهای صفحه‌کلید</translation>
 <translation id="6419546358665792306">بار کردن غیرفشرده</translation>
 <translation id="8023801379949507775">اکنون افزونه‌ها به‌روز شوند</translation>
@@ -4753,13 +4753,13 @@ other {# پنجره خصوصی باز}
 <translation id="8447409163267621480">‏باید شامل Ctrl یا Alt باشد</translation>
 <translation id="3365598184818502391">‏یا از Ctrl استفاده کنید یا از Alt</translation>
 <translation id="1688935057616748272">حرفی تایپ کنید</translation>
-<translation id="1579879232130925590">‏Dissenter سالم‌تر و شادتر</translation>
+<translation id="1579879232130925590">‏Fulldive سالم‌تر و شادتر</translation>
 <translation id="964057662886721376">برخی افزونه‌ها می‌توانند سرعت را کاهش دهند، به‌خصوص افزونه‌هایی که ناخواسته نصب شده‌اند.</translation>
 <translation id="1499271269825557605">اگر افزونه‌ای برایتان آشنا نیست یا اگر مرورگری طبق انتظار کار نمی‌کند، می‌توانید افزونه‌ها را در اینجا خاموش یا سفارشی کنید.</translation>
 <translation id="2382818385048255866">بررسی افزونه‌ها</translation>
 <translation id="3900789207771372462">برخی از افزونه‌ها می‌توانند فعالیت مرورتان را (ازجمله اطلاعات شخصی) ببینند.</translation>
 <translation id="6772339735733515807">مدیریت افزونه‌های شما</translation>
-<translation id="1510515462062582289">‏در این صفحه می‌توانید همه افزونه‌های نصب‌شده در Dissenter را ببینید.</translation>
+<translation id="1510515462062582289">‏در این صفحه می‌توانید همه افزونه‌های نصب‌شده در Fulldive را ببینید.</translation>
 <translation id="2810390687497823527">اگر افزونه‌ای برایتان آشنا نیست یا اگر مرورگری طبق انتظار کار نمی‌کند، می‌توانید افزونه‌ها را در اینجا خاموش یا سفارشی کنید.</translation>
 <translation id="4479424953165245642">مدیریت برنامه‌های کاربردی کیوسک</translation>
 <translation id="6619801788773578757">افزودن برنامه کیوسک</translation>
@@ -4775,7 +4775,7 @@ other {# پنجره خصوصی باز}
 <translation id="2342740338116612727">نشانک‌ها اضافه شد</translation>
 <translation id="7835178595033117206">نشانک حذف شد</translation>
 <translation id="742130257665691897">نشانک‌ها برداشته شد</translation>
-<translation id="5468853758063275923">‏Dissenter مرورگر پیش‌فرض شما است</translation>
+<translation id="5468853758063275923">‏Fulldive مرورگر پیش‌فرض شما است</translation>
 <translation id="2950533317914339731">‏اضافه کردن نشانک‌ها به برنامه‌های Gab AI Inc دلخواه</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4790,13 +4790,13 @@ other {# پنجره خصوصی باز}
 <translation id="5033266061063942743">شکل‌های هندسی</translation>
 <translation id="7789963078219276159">پس‌زمینه صفحه شروع به <ph name="CATEGORY"/> تغییر کرد.</translation>
 <translation id="8771300903067484968">پس‌زمینه صفحه شروع روی پس‌زمینه پیش‌فرض بازنشانی شده است.</translation>
-<translation id="239760341987199724">‏تنظیم Dissenter به عنوان مرورگر پیش‌فرضتان</translation>
+<translation id="239760341987199724">‏تنظیم Fulldive به عنوان مرورگر پیش‌فرضتان</translation>
 <translation id="96037229054033864">‏دریافت «جستجوی Gab AI Inc» و هوشمندی‌های Gab AI Inc هنگام مرور</translation>
-<translation id="296137235951584143">‏Dissenter را برای خود اختصاصی کنید</translation>
+<translation id="296137235951584143">‏Fulldive را برای خود اختصاصی کنید</translation>
 <translation id="3982375475032951137">راه‌اندازی مرورگر طی چند مرحله ساده</translation>
 <translation id="6972754398087986839">شروع به کار</translation>
-<translation id="3707821975049107110">‏قبلاً کاربر Dissenter بوده‌اید؟ به سیستم وارد شوید</translation>
-<translation id="7113572760575285642">‏Dissenter شما، در همه‌جا</translation>
+<translation id="3707821975049107110">‏قبلاً کاربر Fulldive بوده‌اید؟ به سیستم وارد شوید</translation>
+<translation id="7113572760575285642">‏Fulldive شما، در همه‌جا</translation>
 <translation id="567643736130151854">برای دریافت نشانک‌ها، گذرواژه‌ها و سایر موارد در همه دستگاه‌ها، به سیستم وارد شوید و همگام‌سازی را روشن کنید</translation>
 <translation id="725758059478686223">سرویس چاپ</translation>
 <translation id="15662109988763471">چاپگر انتخابی موجود نیست یا به‌درستی نصب نشده است. چاپگر خود را بررسی کنید یا چاپگر دیگری را انتخاب کنید.</translation>
@@ -4919,7 +4919,7 @@ other {# پنجره خصوصی باز}
 <translation id="7574650250151586813">‏برای تایپ نوشتار، برنامه صفحه کلید Daydream را به‌روزرسانی کنید</translation>
 <translation id="983511809958454316">‏این ویژگی در VR پشتیبانی نمی‌شود</translation>
 <translation id="4008291085758151621">‏اطلاعات سایت در VR در دسترس نیست</translation>
-<translation id="1439926347196400598">‏به Dissenter اجازه ضبط صوت داده شود؟</translation>
+<translation id="1439926347196400598">‏به Fulldive اجازه ضبط صوت داده شود؟</translation>
 <translation id="6313641880021325787">‏خروج از VR</translation>
 <translation id="2670429602441959756">این صفحه حاوی قابلیت‌هایی است که هنوز در حالت «واقعیت مجازی» پشتیبانی نمی‌شوند. درحال خروج…</translation>
 <translation id="1802687198411089702">صفحه پاسخ نمی‌دهد. می‌توانید منتظر بمانید یا خارج شوید.</translation>
@@ -4941,7 +4941,7 @@ other {# پنجره خصوصی باز}
 <translation id="1721312023322545264">برای بازدید این سایت باید از <ph name="NAME"/> اجازه بگیرید</translation>
 <translation id="7543525346216957623">از والدینتان بخواهید این کار را انجام دهد</translation>
 <translation id="471880041731876836">برای بازدید کردن از این سایت، مجوز لازم ندارید</translation>
-<translation id="3480834636742786788">‏لطفاً پیش از استفاده از این برنامه، Dissenter را باز کنید و به سیستم آن وارد شوید.</translation>
+<translation id="3480834636742786788">‏لطفاً پیش از استفاده از این برنامه، Fulldive را باز کنید و به سیستم آن وارد شوید.</translation>
 <translation id="2851634818064021665">برای بازدید کردن از این سایت، مجوز لازم دارید</translation>
 <translation id="4933782374919065856">سؤال دارید؟ با فردی که بر نمایه‌تان نظارت دارد تماس بگیرید.</translation>
 <translation id="2712173769900027643">درخواست اجازه</translation>
@@ -4961,7 +4961,7 @@ other {# پنجره خصوصی باز}
 <translation id="7755287808199759310">والدینتان می‌توانند این سایت را برای شما بگشایند</translation>
 <translation id="5732392974455271431">والدینتان می‌توانند این سایت را برای شما بگشایند</translation>
 <translation id="3556433843310711081">مدیرتان می‌تواند این سایت را برای شما بگشاید</translation>
-<translation id="1254756632288991504">‏لطفاً Dissenter را باز کنید و به سیستم آن وارد شوید تا Dissenter بتواند بررسی کند آیا مجاز به دسترسی به این سایت هستید یا خیر.</translation>
+<translation id="1254756632288991504">‏لطفاً Fulldive را باز کنید و به سیستم آن وارد شوید تا Fulldive بتواند بررسی کند آیا مجاز به دسترسی به این سایت هستید یا خیر.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> متوقف شده است</translation>
 <translation id="8015163965024115122">به حداکثر محدودیت استفاده از برنامه‌های <ph name="IDS_SHORT_PRODUCT_NAME"/> یا <ph name="IDS_SHORT_PRODUCT_NAME"/> که ولی‌تان تنظیم کرده است، رسیده‌اید.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> مکث شده است</translation>

@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Verwijderen</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> geselecteerd</translation>
 <translation id="5582839680698949063">Hoofdmenu</translation>
-<translation id="3700405816184340252">Dissenter-geschiedenis</translation>
+<translation id="3700405816184340252">Fulldive-geschiedenis</translation>
 <translation id="7602079150116086782">Geen van andere apparaten</translation>
 <translation id="4619615317237390068">Tabbladen van andere apparaten</translation>
-<translation id="82609232232243542">Inloggen bij Dissenter</translation>
+<translation id="82609232232243542">Inloggen bij Fulldive</translation>
 <translation id="4627442949885028695">Doorgaan vanaf een ander apparaat</translation>
-<translation id="7253276740368043692">Log in bij Dissenter om de tabbladen van je andere apparaten te bekijken.</translation>
+<translation id="7253276740368043692">Log in bij Fulldive om de tabbladen van je andere apparaten te bekijken.</translation>
 <translation id="6351063337294363751">Je kunt je browsergegevens wissen vanuit dit menu</translation>
 <translation id="6040143037577758943">Sluiten</translation>
 <translation id="6463795194797719782">B&amp;ewerken</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Voorkeuren...</translation>
 <translation id="5801568494490449797">Voorkeuren</translation>
 <translation id="3677911431265050325">Mobiele site opvragen</translation>
-<translation id="236470849334943016">De servicevoorwaarden van Dissenter veranderen op 31 maart</translation>
+<translation id="236470849334943016">De servicevoorwaarden van Fulldive veranderen op 31 maart</translation>
 <translation id="1032605640136438169">Lees de nieuwe voorwaarden door</translation>
 <translation id="8712637175834984815">Begrepen</translation>
 <translation id="5007392906805964215">Bekijken</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Opnieuw starten</translation>
 <translation id="3479552764303398839">Niet nu</translation>
 <translation id="1008557486741366299">Niet nu</translation>
-<translation id="8201192017531062522">Dissenter blijft actief terwijl er Dissenter-apps zijn geopend.</translation>
-<translation id="7397305826909094212">Alle Dissenter-apps sluiten</translation>
+<translation id="8201192017531062522">Fulldive blijft actief terwijl er Fulldive-apps zijn geopend.</translation>
+<translation id="7397305826909094212">Alle Fulldive-apps sluiten</translation>
 <translation id="5026874946691314267">Dit bericht niet meer weergeven</translation>
 <translation id="91568222606626347">Snelle link maken…</translation>
 <translation id="2783321960289401138">Snelle link maken…</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">Virtuele Linux-machine: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Plug-in voor virtuele machine: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP-parser</translation>
-<translation id="7171242884588191792">Dissenter-bestandshulpprogramma's</translation>
+<translation id="7171242884588191792">Fulldive-bestandshulpprogramma's</translation>
 <translation id="3183139917765991655">Profile Importer</translation>
 <translation id="7367714965999718019">Generator voor QR-codes</translation>
 <translation id="2190069059097339078">WiFi Credentials Getter</translation>
-<translation id="5920835625712313205">Dissenter OS System Image Writer</translation>
+<translation id="5920835625712313205">Fulldive OS System Image Writer</translation>
 <translation id="4873312501243535625">Media File Checker</translation>
 <translation id="5972666587303800813">No-op Service</translation>
 <translation id="1545775234664667895">Geïnstalleerd thema: '<ph name="THEME_NAME"/>'</translation>
@@ -851,13 +851,13 @@
 <translation id="3507421388498836150">Huidige rechten voor '<ph name="EXTENSION_NAME"/>'</translation>
 <translation id="5242724311594467048">'<ph name="EXTENSION_NAME"/>' inschakelen?</translation>
 <translation id="4014432863917027322">"<ph name="EXTENSION_NAME"/>" repareren?</translation>
-<translation id="5173189340601754836">Een ander programma op je computer heeft een app toegevoegd die de manier kan wijzigen waarop Dissenter werkt.
+<translation id="5173189340601754836">Een ander programma op je computer heeft een app toegevoegd die de manier kan wijzigen waarop Fulldive werkt.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Een ander programma op je computer heeft een extensie toegevoegd die de manier kan wijzigen waarop Dissenter werkt.
+<translation id="6654312501894761082">Een ander programma op je computer heeft een extensie toegevoegd die de manier kan wijzigen waarop Fulldive werkt.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Een ander programma op je computer heeft een thema toegevoegd dat de manier kan wijzigen waarop Dissenter werkt.
+<translation id="3225882094369124157">Een ander programma op je computer heeft een thema toegevoegd dat de manier kan wijzigen waarop Fulldive werkt.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Extensie inschakelen</translation>
@@ -866,7 +866,7 @@
 <translation id="3908501907586732282">Extensie inschakelen</translation>
 <translation id="2327492829706409234">App inschakelen</translation>
 <translation id="175772926354468439">Thema inschakelen</translation>
-<translation id="5267531627648004734">Verwijderen uit Dissenter</translation>
+<translation id="5267531627648004734">Verwijderen uit Fulldive</translation>
 <translation id="4998873842614926205">Wijzigingen bevestigen</translation>
 <translation id="1799071797295057738">De extensie <ph name="EXTENSION_NAME"/> is automatisch uitgeschakeld.</translation>
 <translation id="5238278114306905396">De app '<ph name="EXTENSION_NAME"/>' is automatisch verwijderd.</translation>
@@ -1002,7 +1002,7 @@
 <translation id="1616298854599875024">Kan '<ph name="IMPORT_NAME"/>' niet importeren, omdat dit geen gedeelde module is</translation>
 <translation id="2131077480075264">Kan <ph name="APP_NAME"/> niet installeren, omdat dit niet wordt toegestaan door <ph name="IMPORT_NAME"/></translation>
 <translation id="1875387611427697908">Dit pakket kan alleen worden toegevoegd via de <ph name="CHROME_WEB_STORE"/></translation>
-<translation id="3862788408946266506">Een app met het manifestkenmerk 'kiosk_only' moet worden geïnstalleerd in de Dissenter OS-kioskmodus</translation>
+<translation id="3862788408946266506">Een app met het manifestkenmerk 'kiosk_only' moet worden geïnstalleerd in de Fulldive OS-kioskmodus</translation>
 <translation id="3834775135533257713">De app <ph name="TO_INSTALL_APP_NAME"/> kan niet worden toegevoegd, omdat deze conflicten veroorzaakt met <ph name="INSTALLED_APP_NAME"/>.</translation>
 <translation id="144518587530125858">Kan '<ph name="IMAGE_PATH"/>' niet laden voor thema.</translation>
 <translation id="3576324189521867626">Installatie geslaagd</translation>
@@ -1105,9 +1105,9 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6101226222197207147">Nieuwe app toegevoegd (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">Nieuw thema toegevoegd (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">'<ph name="EXTENSION_NAME"/>' toegevoegd</translation>
-<translation id="6637045053447935202">Een ander programma op je computer heeft een app toegevoegd die de manier waarop Dissenter werkt kan wijzigen.</translation>
-<translation id="2015014930243978107">Een ander programma op je computer heeft een extensie toegevoegd die de manier waarop Dissenter werkt kan wijzigen.</translation>
-<translation id="2060128809251156338">Een ander programma op je computer heeft een thema toegevoegd dat de manier waarop Dissenter werkt kan wijzigen.</translation>
+<translation id="6637045053447935202">Een ander programma op je computer heeft een app toegevoegd die de manier waarop Fulldive werkt kan wijzigen.</translation>
+<translation id="2015014930243978107">Een ander programma op je computer heeft een extensie toegevoegd die de manier waarop Fulldive werkt kan wijzigen.</translation>
+<translation id="2060128809251156338">Een ander programma op je computer heeft een thema toegevoegd dat de manier waarop Fulldive werkt kan wijzigen.</translation>
 <translation id="2470702053775288986">Niet-ondersteunde extensies uitgeschakeld</translation>
 <translation id="2809586584051668049">en <ph name="NUMBER_ADDITIONAL_DISABLED"/> meer</translation>
 <translation id="5301954838959518834">OK, begrepen</translation>
@@ -1312,7 +1312,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8017679124341497925">Snelkoppeling bewerkt</translation>
 <translation id="1174073918202301297">Snelkoppeling toegevoegd</translation>
 <translation id="2926085873880284723">Standaard snelkoppelingen herstellen</translation>
-<translation id="5801450813341024983">Dissenter-achtergronden</translation>
+<translation id="5801450813341024983">Fulldive-achtergronden</translation>
 <translation id="2800760947029405028">Een afbeelding uploaden</translation>
 <translation id="8342861492835240085">Een verzameling selecteren</translation>
 <translation id="3132996321662585180">Dagelijks vernieuwen</translation>
@@ -1399,7 +1399,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="833986336429795709">Kies een app om deze link te openen</translation>
 <translation id="192494336144674234">Openen met</translation>
 <translation id="9053893665344928494">Mijn keuze onthouden</translation>
-<translation id="5340857474604400806">In Dissenter blijven</translation>
+<translation id="5340857474604400806">In Fulldive blijven</translation>
 <translation id="3043581297103810752">Van <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privé)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (gast)</translation>
@@ -1460,8 +1460,8 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6686817083349815241">Je wachtwoord opslaan</translation>
 <translation id="8141725884565838206">Je wachtwoorden beheren</translation>
 <translation id="8275038454117074363">Importeren</translation>
-<translation id="3191314862567596053">Wachtwoorden importeren in Dissenter</translation>
-<translation id="6368144843345980623">Wachtwoorden exporteren uit Dissenter</translation>
+<translation id="3191314862567596053">Wachtwoorden importeren in Fulldive</translation>
+<translation id="6368144843345980623">Wachtwoorden exporteren uit Fulldive</translation>
 <translation id="8503813439785031346">Gebruikersnaam</translation>
 <translation id="6657585470893396449">Wachtwoord</translation>
 <translation id="5472627187093107397">Wachtwoorden voor deze site opslaan</translation>
@@ -1492,7 +1492,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="7052237160939977163">Gegevens over het bijhouden van prestaties verzenden</translation>
 <translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth-logboeken<ph name="END_LINK"/> toevoegen (voor intern Gab AI Inc-gebruik)</translation>
 <translation id="3047644958362961983">Deze informatie biedt ons meer inzicht in je probleem met de Assistent. De informatie wordt maximaal negentig dagen opgeslagen en de toegang is beperkt tot de toepasselijke technische en feedbackteams.</translation>
-<translation id="8545590844135745781">Gab AI Incrs kunnen aanvullende Bluetooth-logboeken toevoegen aan hun feedbackrapporten om Bluetooth-problemen beter te analyseren. Als deze optie is aangevinkt, bevat je rapport btsnoop- en HCI-logboeken van je huidige sessie die zijn opgeschoond om zo veel mogelijk PII te verwijderen. Toegang tot deze logboeken is beperkt tot beheerders van de productgroep Dissenter OS in Listnr. Logboeken worden na negentig dagen verwijderd.</translation>
+<translation id="8545590844135745781">Gab AI Incrs kunnen aanvullende Bluetooth-logboeken toevoegen aan hun feedbackrapporten om Bluetooth-problemen beter te analyseren. Als deze optie is aangevinkt, bevat je rapport btsnoop- en HCI-logboeken van je huidige sessie die zijn opgeschoond om zo veel mogelijk PII te verwijderen. Toegang tot deze logboeken is beperkt tot beheerders van de productgroep Fulldive OS in Listnr. Logboeken worden na negentig dagen verwijderd.</translation>
 <translation id="4206323443866416204">Feedbackrapport</translation>
 <translation id="3681311097828166361">Bedankt voor je feedback. Je bent nu offline en je rapport wordt later verzonden.</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>Systeemgegevens<ph name="END_LINK1"/> verzenden</translation>
@@ -1509,15 +1509,15 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6885771755599377173">Voorbeeld van systeeminformatie</translation>
 <translation id="1016566241875885511">Aanvullende informatie (optioneel)</translation>
 <translation id="8026334261755873520">Browsegegevens wissen</translation>
-<translation id="4718442817388594217">De geselecteerde gegevens zijn verwijderd uit Dissenter en van gesynchroniseerde apparaten. Voor je Gab AI Inc-account kunnen andere vormen van browsegeschiedenis (zoals zoekopdrachten en activiteit uit andere Gab AI Inc-services) beschikbaar zijn via <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="7814200940910057384">Dissenter-gegevens gewist</translation>
+<translation id="4718442817388594217">De geselecteerde gegevens zijn verwijderd uit Fulldive en van gesynchroniseerde apparaten. Voor je Gab AI Inc-account kunnen andere vormen van browsegeschiedenis (zoals zoekopdrachten en activiteit uit andere Gab AI Inc-services) beschikbaar zijn via <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="7814200940910057384">Fulldive-gegevens gewist</translation>
 <translation id="7346909386216857016">OK, begrepen</translation>
 <translation id="8493236660459102203">Microfoon:</translation>
 <translation id="3925573269917483990">Camera:</translation>
 <translation id="648927581764831596">Niet beschikbaar</translation>
 <translation id="4172051516777682613">Altijd weergeven</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Pop-up geblokkeerd}other{# pop-ups geblokkeerd}}</translation>
-<translation id="4156865452842056672">(Dissenter-foutpagina's)</translation>
+<translation id="4156865452842056672">(Fulldive-foutpagina's)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> kan zichzelf mogelijk niet updaten</translation>
 <translation id="8590375307970699841">Automatische updates instellen</translation>
 <translation id="8926389886865778422">Niet meer vragen</translation>
@@ -1622,10 +1622,10 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8658645149275195032"><ph name="APP_NAME"/> deelt je scherm en audio met <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> deelt een venster.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> deelt een venster met <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> deelt een Dissenter-tabblad.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> deelt een Dissenter-tabblad met <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> deelt een Dissenter-tabblad en audio.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> deelt een Dissenter-tabblad en audio met <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> deelt een Fulldive-tabblad.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> deelt een Fulldive-tabblad met <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> deelt een Fulldive-tabblad en audio.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> deelt een Fulldive-tabblad en audio met <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">Verbergen</translation>
 <translation id="890616557918890486">Bron wijzigen</translation>
 <translation id="7792388396321542707">Delen stoppen</translation>
@@ -1648,7 +1648,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4711067597921221305">Help <ph name="PRODUCT_NAME"/> beter te maken door automatisch gebruiksstatistieken en crashmeldingen naar Gab AI Inc te verzenden</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/> starten</translation>
 <translation id="4876273079589074638">Help onze engineers om deze crash te onderzoeken en op te lossen. Vermeld indien mogelijk je exacte stappen: elk detail is het vermelden waard.</translation>
-<translation id="5418694430960033386">Dissenter beschikt over onvoldoende geheugen of het webpaginaproces is om een andere reden beëindigd. Laad de pagina opnieuw of ga naar een andere pagina om door te gaan.</translation>
+<translation id="5418694430960033386">Fulldive beschikt over onvoldoende geheugen of het webpaginaproces is om een andere reden beëindigd. Laad de pagina opnieuw of ga naar een andere pagina om door te gaan.</translation>
 <translation id="3065041951436100775">Feedback over gesloten tabblad.</translation>
 <translation id="3941565636838060942">Als je toegang tot dit programma wilt verbergen, moet je dit verwijderen via
   <ph name="CONTROL_PANEL_APPLET_NAME"/> in het Configuratiescherm.
@@ -1676,10 +1676,10 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4980805016576257426">Deze extensie bevat malware.</translation>
 <translation id="5522156646677899028">Deze extensie bevat een groot beveiligingsprobleem.</translation>
 <translation id="6945695820322143954">Deze extensie schendt het beleid van de Webwinkel.</translation>
-<translation id="177808131755847449">Uitgeschakeld door Dissenter. Deze extensie kan onveilig zijn.</translation>
+<translation id="177808131755847449">Uitgeschakeld door Fulldive. Deze extensie kan onveilig zijn.</translation>
 <translation id="1434696352799406980">Hiermee worden je homepage, nieuwe tabbladpagina, zoekmachine en vastgezette tabbladen opnieuw ingesteld. Ook worden alle extensies uitgeschakeld en tijdelijke gegevens (zoals cookies) gewist. Je bladwijzers, geschiedenis en opgeslagen wachtwoorden worden niet gewist.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> wil je instellingen resetten.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> wil je Dissenter-instellingen terugzetten op de oorspronkelijke standaardwaarden. Als je dit doet, worden je homepage, nieuwe tabbladpagina en zoekmachine opnieuw ingesteld, worden je extensies uitgeschakeld en worden alle tabbladen losgemaakt. Ook worden alle andere tijdelijke en gecachte gegevens, zoals cookies, content en sitegegevens, gewist.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> wil je Fulldive-instellingen terugzetten op de oorspronkelijke standaardwaarden. Als je dit doet, worden je homepage, nieuwe tabbladpagina en zoekmachine opnieuw ingesteld, worden je extensies uitgeschakeld en worden alle tabbladen losgemaakt. Ook worden alle andere tijdelijke en gecachte gegevens, zoals cookies, content en sitegegevens, gewist.</translation>
 <translation id="7581462281756524039">Een cleanup-tool</translation>
 <translation id="1233721473400465416">Landinstelling</translation>
 <translation id="2907619724991574506">Start-URL's</translation>
@@ -1873,7 +1873,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6664774537677393800">Er is iets misgegaan bij het openen van je profiel. Log uit en log vervolgens weer in.</translation>
 <translation id="1794791083288629568">Feedback verzenden om ons te helpen dit probleem op te lossen.</translation>
 <translation id="8234795456569844941">Help onze engineers dit probleem op te lossen. Vertel ons wat er gebeurde vlak voordat het bericht met de profielfout werd weergegeven:</translation>
-<translation id="6500340165622970282">Kan Dissenter niet starten omdat er een fout is opgetreden bij het openen van je profiel. Probeer Dissenter opnieuw te starten.</translation>
+<translation id="6500340165622970282">Kan Fulldive niet starten omdat er een fout is opgetreden bij het openen van je profiel. Probeer Fulldive opnieuw te starten.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> kan niet worden uitgevoerd als root.</translation>
 <translation id="2292848386125228270">Start <ph name="PRODUCT_NAME"/> als een normale gebruiker. Als je voor ontwikkelingsdoeleinden moet uitvoeren als root, voer je opnieuw uit met de markering '--no-sandbox'.</translation>
 <translation id="7547317915858803630">Waarschuwing: je instellingen voor <ph name="PRODUCT_NAME"/> zijn opgeslagen op een netwerkschijf. Dit kan leiden tot vertragingen, crashes of zelfs gegevensverlies.</translation>
@@ -2250,8 +2250,8 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4720113199587244118">Apparaten toevoegen</translation>
 <translation id="2776441542064982094">Het lijkt erop dat er geen apparaten beschikbaar zijn om te registreren via het netwerk. Als je apparaat aan staat en verbinding heeft met internet, kun je proberen het te registreren met de instructies in de handleiding van het apparaat.</translation>
 <translation id="1007408791287232274">Kan apparaten niet laden.</translation>
-<translation id="3886420006370338208">Je moet inloggen bij Dissenter om je apparaten te bekijken</translation>
-<translation id="6711610692002680394">Je moet inloggen bij Dissenter om nieuwe apparaten te registreren</translation>
+<translation id="3886420006370338208">Je moet inloggen bij Fulldive om je apparaten te bekijken</translation>
+<translation id="6711610692002680394">Je moet inloggen bij Fulldive om nieuwe apparaten te registreren</translation>
 <translation id="8931394284949551895">Nieuwe apparaten</translation>
 <translation id="3752673729237782832">Mijn apparaten</translation>
 <translation id="1721937473331968728">Je kunt klassieke printers die zijn aangesloten op je computer, toevoegen aan <ph name="CLOUD_PRINT_NAME"/>.</translation>
@@ -2324,7 +2324,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4540437243849625078">Deze site staat op het punt informatie te delen met een app buiten de privémodus om.</translation>
 <translation id="1227836882233136433">Wilt u de privémodus verlaten?</translation>
 <translation id="662080504995468778">Blijven</translation>
-<translation id="2593289874938379417">Dissenter heeft geen toegang tot de gevraagde bron.</translation>
+<translation id="2593289874938379417">Fulldive heeft geen toegang tot de gevraagde bron.</translation>
 <translation id="760197030861754408">Ga naar <ph name="LANDING_PAGE"/> om verbinding te maken.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> gedetecteerd</translation>
 <translation id="5042282098504489593">Instellingen openen om <ph name="USB_DEVICE_NAME"/> te verbinden met Linux</translation>
@@ -2379,24 +2379,24 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="2859806420264540918">Site geeft opdringerige of misleidende advertenties weer.</translation>
 <translation id="4077917118009885966">Advertenties geblokkeerd op deze site</translation>
 <translation id="6456955391422100996">Advertentie verwijderd.</translation>
-<translation id="7533556202636568669">Deze advertentie gebruikt te veel bronnen voor je apparaat, dus Dissenter heeft de advertentie verwijderd.</translation>
+<translation id="7533556202636568669">Deze advertentie gebruikt te veel bronnen voor je apparaat, dus Fulldive heeft de advertentie verwijderd.</translation>
 <translation id="8497219075884839166">Windows-hulpprogramma's</translation>
 <translation id="897525204902889653">Quarantineservice</translation>
 <translation id="7055152154916055070">Omleiding geblokkeerd:</translation>
 <translation id="6777817260680419853">Omleiding geblokkeerd</translation>
 <translation id="694592694773692225">Omleiding geblokkeerd op deze pagina.</translation>
-<translation id="8945142681652245463">Snel browsen met Gab AI Inc Dissenter</translation>
-<translation id="2618024864038703735">Beveiligd browsen met Gab AI Inc Dissenter</translation>
-<translation id="8142180567942285208">Slim browsen met Dissenter</translation>
+<translation id="8945142681652245463">Snel browsen met Gab AI Inc Fulldive</translation>
+<translation id="2618024864038703735">Beveiligd browsen met Gab AI Inc Fulldive</translation>
+<translation id="8142180567942285208">Slim browsen met Fulldive</translation>
 <translation id="8862003515646449717">Overschakelen naar een snelle browser</translation>
 <translation id="8438328416656800239">Overschakelen naar een slimme browser</translation>
 <translation id="491691592645955587">Overschakelen naar een beveiligde browser</translation>
 <translation id="683373380308365518">Overschakelen naar een slimme, beveiligde browser</translation>
-<translation id="989239400026154074">Gab AI Inc beveelt Dissenter aan</translation>
-<translation id="6676231621615806698">Dissenter openen</translation>
+<translation id="989239400026154074">Gab AI Inc beveelt Fulldive aan</translation>
+<translation id="6676231621615806698">Fulldive openen</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> gebruikt je locatie om lokale content te leveren. Je kunt dit wijzigen in <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Je downloads worden hier weergegeven</translation>
-<translation id="4782664866169793230">Dissenter wordt beheerd door geautomatiseerde testsoftware.</translation>
+<translation id="4782664866169793230">Fulldive wordt beheerd door geautomatiseerde testsoftware.</translation>
 <translation id="6721678857435001674">Het merk en het model van je beveiligingssleutel bekijken</translation>
 <translation id="1673137583248014546"><ph name="URL"/> wil het merk en het model van je beveiligingssleutel bekijken</translation>
 <translation id="6010869025736512584">Video-invoer openen</translation>
@@ -2529,7 +2529,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="3984431586879874039">Deze site toestaan je beveiligingssleutel te bekijken?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> wil het merk en het model van je beveiligingssleutel bekijken</translation>
 <translation id="7618452966706304788">Wilt u Touch ID gebruiken met <ph name="APP_NAME"/> in de privémodus?</translation>
-<translation id="3098826269712097986">Inloggegevens worden na het afsluiten van de privémodus opgeslagen in Dissenter. Hierdoor kunt u Touch ID later nogmaals op deze website gebruiken.</translation>
+<translation id="3098826269712097986">Inloggegevens worden na het afsluiten van de privémodus opgeslagen in Fulldive. Hierdoor kunt u Touch ID later nogmaals op deze website gebruiken.</translation>
 <translation id="2172784515318616985">Doorgaan</translation>
 <translation id="5186185447130319458">Privé</translation>
 <translation id="7643842463591647490">{0,plural, =1{# geopend venster}other{# geopende vensters}}</translation>
@@ -2571,7 +2571,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="2346953515226895098">SODA-service</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> is onderbroken</translation>
 <translation id="917350715406657904">Je hebt de tijdslimiet bereikt die je ouder heeft ingesteld voor <ph name="APP_NAME"/>. Je kunt de app morgen <ph name="TIME_LIMIT"/> gebruiken.</translation>
-<translation id="8891261408659902804">Je hebt de tijdslimiet bereikt die je ouder heeft ingesteld voor de <ph name="APP_NAME"/>-app voor Dissenter. Je kunt de app morgen <ph name="TIME_LIMIT"/> gebruiken.</translation>
+<translation id="8891261408659902804">Je hebt de tijdslimiet bereikt die je ouder heeft ingesteld voor de <ph name="APP_NAME"/>-app voor Fulldive. Je kunt de app morgen <ph name="TIME_LIMIT"/> gebruiken.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> is geblokkeerd</translation>
 <translation id="4404843640767531781"><ph name="APP_NAME"/> is geblokkeerd door je ouder. Vraag je ouder toestemming om deze app te gebruiken.</translation>
 <translation id="751523031290522286"><ph name="APP_NAME"/> is geblokkeerd door de beheerder. Vraag de beheerder toestemming om deze app te gebruiken.</translation>
@@ -2916,7 +2916,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="672213144943476270">Ontgrendel je profiel voordat je browst als gast.</translation>
 <translation id="8086119151297127544">Ontgrendel uw profiel voor u een profiel verwijdert.</translation>
 <translation id="7805701378418968629">Ontgrendel uw profiel voor u een profiel toevoegt.</translation>
-<translation id="8978225823042133615">Log in om Dissenter te gebruiken</translation>
+<translation id="8978225823042133615">Log in om Fulldive te gebruiken</translation>
 <translation id="4893336867552636863">Hiermee worden je browsegegevens op dit apparaat definitief verwijderd.</translation>
 <translation id="2496180316473517155">Browsegeschiedenis</translation>
 <translation id="6865313869410766144">Formuliergegevens voor Automatisch aanvullen</translation>
@@ -2940,7 +2940,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="9013707997379828817">Je beheerder heeft dit apparaat teruggezet naar een oudere versie. Sla je belangrijke bestanden op en start je apparaat opnieuw op. Alle gegevens op het apparaat worden verwijderd.</translation>
 <translation id="5877064549588274448">Kanaal gewijzigd. Start het apparaat opnieuw op om de wijzigingen door te voeren.</translation>
 <translation id="4716483597559580346">Powerwash voor extra beveiliging</translation>
-<translation id="4089922565956168950">Met deze upgrade wordt je Dissenterbook gereset en worden huidige gebruikersgegevens verwijderd.</translation>
+<translation id="4089922565956168950">Met deze upgrade wordt je Fulldivebook gereset en worden huidige gebruikersgegevens verwijderd.</translation>
 <translation id="3688526734140524629">Kanaal wijzigen</translation>
 <translation id="6410328738210026208">Kanaal wijzigen en Powerwash uitvoeren</translation>
 <translation id="1979280758666859181">Je wijzigt naar een kanaal met een oudere versie van <ph name="PRODUCT_NAME"/>. De wijziging van kanaal wordt toegepast wanneer de versie van het kanaal overeenkomt met de versie die momenteel op het apparaat is geïnstalleerd.</translation>
@@ -2972,7 +2972,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, +1 ander account}other{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> andere accounts}}</translation>
 <translation id="7434635829372401939">Je instellingen synchroniseren</translation>
 <translation id="1036348656032585052">Uitschakelen</translation>
-<translation id="3267705913905916810">Je apps en instellingen worden gesynchroniseerd voor alle Dissenter OS-apparaten waarop je bent ingelogd met je Gab AI Inc-account. Ga naar de <ph name="LINK_BEGIN"/>Dissenter-instellingen<ph name="LINK_END"/> voor opties voor browsersynchronisatie.</translation>
+<translation id="3267705913905916810">Je apps en instellingen worden gesynchroniseerd voor alle Fulldive OS-apparaten waarop je bent ingelogd met je Gab AI Inc-account. Ga naar de <ph name="LINK_BEGIN"/>Fulldive-instellingen<ph name="LINK_END"/> voor opties voor browsersynchronisatie.</translation>
 <translation id="6985607387932385770">Printers</translation>
 <translation id="8418661265246754237">Gab AI Inc-accounts</translation>
 <translation id="3953834000574892725">Mijn accounts</translation>
@@ -3019,7 +3019,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="2187700606737131818">Gab AI Inc Foto's</translation>
 <translation id="1827738518074806965">Kunstgalerie</translation>
 <translation id="9137157311132182254">Voorkeurszoekmachine</translation>
-<translation id="7423118389528876103">Gebruikt door Dissenter-browser en <ph name="DEVICE_TYPE"/>-launcher</translation>
+<translation id="7423118389528876103">Gebruikt door Fulldive-browser en <ph name="DEVICE_TYPE"/>-launcher</translation>
 <translation id="2862205630718215619">Gab AI Inc Assistent</translation>
 <translation id="8959699239363253085">Aan</translation>
 <translation id="971479617738309149">Uit</translation>
@@ -3039,15 +3039,15 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6644513150317163574">Ongeldige URL-indeling. ALs je SSO-verificatie gebruikt, moet de server als hostnaam worden opgegeven.</translation>
 <translation id="6091761513005122595">Fileshare geactiveerd.</translation>
 <translation id="5770125698810550803">Navigatieknoppen weergeven</translation>
-<translation id="2972318514147518075">Ga terug of naar de homepage en schakel tussen apps met knoppen in de tabletmodus. Dit is ingeschakeld als DissenterVox of 'Automatische klikken' is ingeschakeld.</translation>
+<translation id="2972318514147518075">Ga terug of naar de homepage en schakel tussen apps met knoppen in de tabletmodus. Dit is ingeschakeld als FulldiveVox of 'Automatische klikken' is ingeschakeld.</translation>
 <translation id="2558896001721082624">Toegankelijkheidsopties altijd weergeven in het systeemmenu</translation>
 <translation id="2981113813906970160">Grote muisaanwijzer weergeven</translation>
 <translation id="5072052264945641674">Grootte van muisaanwijzer aanpassen</translation>
 <translation id="4209092469652827314">Groot</translation>
 <translation id="499165176004408815">Modus voor hoog contrast gebruiken</translation>
 <translation id="142758023928848008">Plaktoetsen inschakelen (om sneltoetsen te gebruiken door toetsen opeenvolgend in te drukken)</translation>
-<translation id="5914872514449971753">DissenterVox (gesproken feedback) inschakelen</translation>
-<translation id="7099511550603534982">DissenterVox-instellingen openen</translation>
+<translation id="5914872514449971753">FulldiveVox (gesproken feedback) inschakelen</translation>
+<translation id="7099511550603534982">FulldiveVox-instellingen openen</translation>
 <translation id="8547013269961688403">'Volledig scherm vergroten' inschakelen</translation>
 <translation id="8743390665131937741">Zoomniveau volledig scherm:</translation>
 <translation id="7334274148831027933">Gedockt vergrootglas inschakelen</translation>
@@ -3139,7 +3139,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6902066522699286937">Stem om als voorbeeld te beluisteren</translation>
 <translation id="304747341537320566">Spraakengines</translation>
 <translation id="2755367719610958252">Toegankelijkheidsfuncties beheren</translation>
-<translation id="1203953622051744249">Beheer je ingelogde accounts. Websites, apps en extensies in Dissenter en Gab AI Inc Play kunnen deze accounts gebruiken om de functionaliteit te personaliseren, afhankelijk van de rechten. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Beheer je ingelogde accounts. Websites, apps en extensies in Fulldive en Gab AI Inc Play kunnen deze accounts gebruiken om de functionaliteit te personaliseren, afhankelijk van de rechten. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Je kunt hier een schoolaccount toevoegen of accounts van kinderen beheren. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Accounts</translation>
 <translation id="6597148444736186483">Als je wilt uitloggen van het primaire account op dit apparaat, klik je op de tijd op het scherm. Klik op Uitloggen in het menu dat wordt weergegeven.</translation>
@@ -3211,7 +3211,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="234889437187286781">Fout bij laden van gegevens</translation>
 <translation id="4660540330091848931">Grootte aanpassen</translation>
 <translation id="1481537595330271162">Fout bij aanpassen van schijfgrootte</translation>
-<translation id="2756917833575664962">Deze Dissenterbook moet worden teruggezet op de fabrieksinstellingen om ADB-foutopsporing in te schakelen. <ph name="BEGIN_LINK_LEARN_MORE"/>Meer informatie<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">Deze Fulldivebook moet worden teruggezet op de fabrieksinstellingen om ADB-foutopsporing in te schakelen. <ph name="BEGIN_LINK_LEARN_MORE"/>Meer informatie<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">Als je ADB-foutopsporing wilt inschakelen, moet je deze <ph name="DEVICE_TYPE"/> opnieuw opstarten. Je kunt ADB-foutopsporing alleen uitschakelen door je apparaat terug te zetten op de fabrieksinstellingen.</translation>
 <translation id="8082390128630131497">Als je ADB-foutopsporing uitschakelt, wordt deze <ph name="DEVICE_TYPE"/> teruggezet op de fabrieksinstellingen. Alle gebruikersaccounts en lokale gegevens worden gewist.</translation>
 <translation id="7932969338829957666">Gedeelde mappen zijn beschikbaar in Linux in <ph name="BASE_DIR"/>.</translation>
@@ -3339,10 +3339,10 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> is niet meer beschikbaar</translation>
 <translation id="3976108569178263973">Er zijn geen printers beschikbaar.</translation>
 <translation id="217576141146192373">Kan printer niet toevoegen. Controleer de configuratie van je printer en probeer het opnieuw.</translation>
-<translation id="4052689580269971502">Verbinding met printer niet mogelijk. Controleer of de printer is ingeschakeld en via wifi of USB is verbonden met je Dissenterbook.</translation>
+<translation id="4052689580269971502">Verbinding met printer niet mogelijk. Controleer of de printer is ingeschakeld en via wifi of USB is verbonden met je Fulldivebook.</translation>
 <translation id="7099337801055912064">Grote PPD kan niet worden geladen. Maximum grootte is 250 KB.</translation>
 <translation id="4310139701823742692">Bestand heeft een onjuiste indeling. Controleer het PPD-bestand en probeer het opnieuw.</translation>
-<translation id="6580983683519551561">PPD kan niet worden gevonden. Zorg dat je Dissenterbook online is en probeer het opnieuw.</translation>
+<translation id="6580983683519551561">PPD kan niet worden gevonden. Zorg dat je Fulldivebook online is en probeer het opnieuw.</translation>
 <translation id="4694024090038830733">De printerconfiguratie wordt bepaald door de beheerder.</translation>
 <translation id="5816434091619127343">Met de aangevraagde printerwijzigingen wordt de printer wordt onbruikbaar.</translation>
 <translation id="6504611359718185067">Maak verbinding met internet om een printer toe te voegen</translation>
@@ -3678,18 +3678,18 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="7770651108375708429">Verbinding met wifi verbreken</translation>
 <translation id="4168015872538332605">Sommige instellingen die bij <ph name="PRIMARY_EMAIL"/> horen, worden met je gedeeld. Deze instellingen beïnvloeden je account alleen wanneer toegang tot meerdere accounts wordt gebruikt.</translation>
 <translation id="1485141095922496924">Versie <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Dissenter automatisch updaten voor alle gebruikers</translation>
+<translation id="4570609078116869893">Fulldive automatisch updaten voor alle gebruikers</translation>
 <translation id="7102687220333134671">Automatische updates zijn ingeschakeld</translation>
 <translation id="6981982820502123353">Toegankelijkheid</translation>
 <translation id="5840822070878669614">Open Webwinkel</translation>
 <translation id="6073903501322152803">Toegankelijkheidsfuncties toevoegen</translation>
 <translation id="7988355189918024273">Functies voor toegankelijkheid inschakelen</translation>
-<translation id="5499063270485366718">Als een afbeelding geen nuttige beschrijving bevat, probeert Dissenter je er een te geven. Afbeeldingen worden naar Gab AI Inc verzonden om beschrijvingen te maken.</translation>
+<translation id="5499063270485366718">Als een afbeelding geen nuttige beschrijving bevat, probeert Fulldive je er een te geven. Afbeeldingen worden naar Gab AI Inc verzonden om beschrijvingen te maken.</translation>
 <translation id="8957762313041272117">Live ondertiteling</translation>
-<translation id="7075426315046750605">'Live ondertiteling' detecteert spraak in media en genereert automatisch een ondertiteling voor alle media die wordt afgespeeld in Dissenter.</translation>
+<translation id="7075426315046750605">'Live ondertiteling' detecteert spraak in media en genereert automatisch een ondertiteling voor alle media die wordt afgespeeld in Fulldive.</translation>
 <translation id="572155275267014074">Android-instellingen</translation>
 <translation id="7201042526153088083">Apps en games van Gab AI Inc Play installeren op je <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Meer informatie&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Apps die je hebt gedownload via Gab AI Inc Play, worden verwijderd van deze Dissenterbook.
+<translation id="8039595758121742506">Apps die je hebt gedownload via Gab AI Inc Play, worden verwijderd van deze Fulldivebook.
       <ph name="LINE_BREAKS1"/>
       De content die je hebt gekocht (zoals films, tv-programma's, muziek, boeken of andere in-app-aankopen), kan ook worden verwijderd.
       <ph name="LINE_BREAKS2"/>
@@ -3703,7 +3703,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6006484371116297560">Klassiek</translation>
 <translation id="1795214765651529549">Klassiek thema gebruiken</translation>
 <translation id="2332742915001411729">Terugzetten naar standaardinstelling</translation>
-<translation id="8338457030135232378">Kleuren van Dissenter</translation>
+<translation id="8338457030135232378">Kleuren van Fulldive</translation>
 <translation id="827097179112817503">Knop 'Homepage' weergeven</translation>
 <translation id="383007806262310953">Bladwijzerbalk weergeven</translation>
 <translation id="3911824782900911339">Pagina 'Nieuw tabblad'</translation>
@@ -3715,7 +3715,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1670399744444387456">Basis</translation>
 <translation id="1763808908432309942">Wordt op een nieuw tabblad geopend</translation>
 <translation id="6248988683584659830">Zoekinstellingen</translation>
-<translation id="883304095704384301">Ga naar de <ph name="BEGIN_LINK_CHROMIUM"/>Help van Gab AI Inc Dissenter<ph name="END_LINK_CHROMIUM"/> als je niet kunt vinden wat je zoekt</translation>
+<translation id="883304095704384301">Ga naar de <ph name="BEGIN_LINK_CHROMIUM"/>Help van Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/> als je niet kunt vinden wat je zoekt</translation>
 <translation id="6406708970972405507">Instellingen: <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Knop voor subpagina</translation>
 <translation id="379509625511193653">Uit</translation>
@@ -3902,7 +3902,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5468173180030470402">Zoeken naar fileshares</translation>
 <translation id="3336664756920573711">Ontgrendel je <ph name="DEVICE_TYPE"/> met je Android-telefoon</translation>
 <translation id="1164674268730883318">Smart Lock voor <ph name="DEVICE_TYPE"/> uitschakelen?</translation>
-<translation id="2739030071582769583">Als je Smart Lock voor <ph name="DEVICE_TYPE"/> uitschakelt, kun je je Dissenter-apparaten niet meer ontgrendelen met je telefoon. Je moet je wachtwoord typen.</translation>
+<translation id="2739030071582769583">Als je Smart Lock voor <ph name="DEVICE_TYPE"/> uitschakelt, kun je je Fulldive-apparaten niet meer ontgrendelen met je telefoon. Je moet je wachtwoord typen.</translation>
 <translation id="4737715515457435632">Maak verbinding met een netwerk</translation>
 <translation id="5425722269016440406">Je moet online zijn om Smart Lock uit te schakelen, omdat deze instelling wordt gesynchroniseerd met je telefoon en andere apparaten. Maak eerst verbinding met een netwerk.</translation>
 <translation id="8885197664446363138">Smart Lock is niet beschikbaar</translation>
@@ -4136,20 +4136,20 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="3633309367764744750">Haalt vooraf informatie op van pagina's, inclusief pagina's die je nog niet hebt bezocht. Opgehaalde informatie kan cookies bevatten, als je cookies toestaat.</translation>
 <translation id="3201899458094819285">Safe Browsing (hiermee worden jij en je apparaat beschermd tegen gevaarlijke sites)</translation>
 <translation id="2876369937070532032">Verzendt URL's van bepaalde pagina's die je bezoekt naar Gab AI Inc wanneer je beveiliging risico loopt</translation>
-<translation id="4991384657077828949">Help de beveiliging van Dissenter te verbeteren</translation>
+<translation id="4991384657077828949">Help de beveiliging van Fulldive te verbeteren</translation>
 <translation id="1984646864943401749">Stuurt URL's van sommige pagina's die je bezoekt, beperkte systeeminformatie en bepaalde paginacontent naar Gab AI Inc om nieuwe dreigingen te ontdekken en iedereen op internet te beschermen.</translation>
 <translation id="1641113438599504367">Safe Browsing</translation>
 <translation id="6900532703269623216">Verbeterde beveiliging</translation>
 <translation id="7307583170263691471">Snellere, proactieve beveiliging tegen gevaarlijke websites, downloads en extensies. Stuurt een waarschuwing over wachtwoordlekken. Vereist dat browsegegevens naar Gab AI Inc worden verstuurd.</translation>
 <translation id="8645920082661222035">Voorspelt en waarschuwt je over gevaarlijke gebeurtenissen voordat deze plaatsvinden</translation>
-<translation id="5265419033369521352">Beschermt je op Dissenter en kan worden gebruikt om de beveiliging in andere Gab AI Inc-apps te verbeteren als je bent ingelogd</translation>
+<translation id="5265419033369521352">Beschermt je op Fulldive en kan worden gebruikt om de beveiliging in andere Gab AI Inc-apps te verbeteren als je bent ingelogd</translation>
 <translation id="6770602306803890733">Verbetert de beveiliging voor jou en alle andere internetgebruikers</translation>
 <translation id="3690369331356918524">Waarschuwt als je wachtwoorden zijn gelekt bij een gegevenslek</translation>
 <translation id="4979281249641199724">Stuurt URL's naar Safe Browsing om deze te controleren. Stuurt ook een klein gedeelte pagina's, downloads, extensie-activiteit en systeeminformatie om nieuwe dreigingen te kunnen detecteren. Koppelt deze gegevens tijdelijk aan je Gab AI Inc-account als je bent ingelogd om je te beschermen binnen de Gab AI Inc-apps.</translation>
 <translation id="1963976881984600709">Standaardbeveiliging</translation>
 <translation id="6882836635272038266">Standaardbeveiliging tegen websites, downloads en extensies die als gevaarlijk zijn bestempeld.</translation>
 <translation id="5561162485081632007">Detecteert en waarschuwt je over gevaarlijke gebeurtenissen als deze plaatsvinden</translation>
-<translation id="7810992039564280750">Controleert URL's aan de hand van een lijst met onveilige sites die is opgeslagen in Dissenter. Als een site je wachtwoord probeert te stelen of als je een schadelijk bestand downloadt, kan Dissenter ook URL's, inclusief delen van de paginacontent, naar Safe Browsing sturen.</translation>
+<translation id="7810992039564280750">Controleert URL's aan de hand van een lijst met onveilige sites die is opgeslagen in Fulldive. Als een site je wachtwoord probeert te stelen of als je een schadelijk bestand downloadt, kan Fulldive ook URL's, inclusief delen van de paginacontent, naar Safe Browsing sturen.</translation>
 <translation id="3847319713229060696">Helpen om het internet voor iedereen veiliger te maken</translation>
 <translation id="1984417487208496350">Geen beveiliging (niet aanbevolen)</translation>
 <translation id="1295971429974142731">Beschermt je niet tegen gevaarlijke websites, downloads en extensies. Je wordt voor andere services, zoals Gmail en Zoeken, nog steeds beschermd door Safe Browsing als dat beschikbaar is.</translation>
@@ -4205,7 +4205,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8632933437936028548">Instellingen resetten</translation>
 <translation id="5293170712604732402">Instellingen terugzetten naar de oorspronkelijke standaardwaarden</translation>
 <translation id="892706138619340876">Sommige instellingen zijn gereset</translation>
-<translation id="2334029754052191847">Dissenter heeft gedetecteerd dat sommige van je instellingen zijn beschadigd door een ander programma en heeft de instellingen teruggezet naar de oorspronkelijke standaardwaarden.</translation>
+<translation id="2334029754052191847">Fulldive heeft gedetecteerd dat sommige van je instellingen zijn beschadigd door een ander programma en heeft de instellingen teruggezet naar de oorspronkelijke standaardwaarden.</translation>
 <translation id="4582563038311694664">Alle instellingen opnieuw instellen</translation>
 <translation id="4146785383423576110">Resetten en opruimen</translation>
 <translation id="2603115962224169880">Computer opruimen</translation>
@@ -4274,7 +4274,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5340638867532133571">Toestaan dat sites betalingshandlers installeren (aanbevolen)</translation>
 <translation id="763632859238619983">Niet toestaan dat sites betalingshandlers installeren</translation>
 <translation id="8270242299912238708">Pdf-documenten</translation>
-<translation id="539658326146969381">Download pdf-bestanden in plaats van ze automatisch te openen in Dissenter</translation>
+<translation id="539658326146969381">Download pdf-bestanden in plaats van ze automatisch te openen in Fulldive</translation>
 <translation id="4434045419905280838">Pop-ups en omleidingen</translation>
 <translation id="6612358246767739896">Beveiligde content</translation>
 <translation id="4252852543720145436">ID's voor beveiligde content</translation>
@@ -4335,7 +4335,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="2913331724188855103">Sites toestaan cookiegegevens op te slaan en te lezen (aanbevolen)</translation>
 <translation id="5908769186679515905">Niet toestaan dat sites Flash uitvoeren</translation>
 <translation id="783214144752121388">Sites geen toestemming geven Flash uit te voeren (aanbevolen)</translation>
-<translation id="6096007141921397775">Je Flash-instellingen blijven behouden totdat je Dissenter afsluit.</translation>
+<translation id="6096007141921397775">Je Flash-instellingen blijven behouden totdat je Fulldive afsluit.</translation>
 <translation id="8074127646604999664">Toestaan dat onlangs gesloten sites het verzenden en ontvangen van gegevens voltooien</translation>
 <translation id="7062222374113411376">Toestaan dat onlangs gesloten sites het verzenden en ontvangen van gegevens voltooien (aanbevolen)</translation>
 <translation id="5068918910148307423">Niet toestaan dat onlangs gesloten sites het verzenden en ontvangen van gegevens voltooien</translation>
@@ -4415,7 +4415,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5566692924079383101">Deze exceptie wordt automatisch verwijderd nadat je de huidige incognitosessie hebt afgesloten</translation>
 <translation id="383891835335927981">Er zijn geen sites in- of uitgezoomd</translation>
 <translation id="3566721612727112615">Geen sites toegevoegd</translation>
-<translation id="8098574385249290065">Dissenter laten kiezen wanneer sites geluid mogen afspelen (aanbevolen)</translation>
+<translation id="8098574385249290065">Fulldive laten kiezen wanneer sites geluid mogen afspelen (aanbevolen)</translation>
 <translation id="4354344420232759511">Sites die je bezoekt, worden hier weergegeven</translation>
 <translation id="3757733214359997190">Geen sites gevonden</translation>
 <translation id="6545864417968258051">Bluetooth-scannen</translation>
@@ -4428,7 +4428,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Een site toevoegen</translation>
 <translation id="5052499409147950210">Site bewerken</translation>
-<translation id="4610862967073369855">Hiermee kan Android Berichten sms'jes van je telefoon naar je Dissenterbook doorsturen</translation>
+<translation id="4610862967073369855">Hiermee kan Android Berichten sms'jes van je telefoon naar je Fulldivebook doorsturen</translation>
 <translation id="6742339027238151589">Toegankelijk voor script</translation>
 <translation id="361106536627977100">Flash-gegevens</translation>
 <translation id="8557930019681227453">Manifest</translation>
@@ -4440,7 +4440,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8016266267177410919">Tijdelijke opslag</translation>
 <translation id="4175737294868205930">Permanente opslag</translation>
 <translation id="8397843425685839889">Jij en Gab AI Inc</translation>
-<translation id="8907706281008466056">Dissenter-profielfoto</translation>
+<translation id="8907706281008466056">Fulldive-profielfoto</translation>
 <translation id="2023167225947895179">De pincode is mogelijk makkelijk te raden</translation>
 <translation id="5342091991439452114">Pincode moet minimaal <ph name="MINIMUM"/> cijfers bevatten</translation>
 <translation id="5252653240322147470">Pincode kan maximaal <ph name="MAXIMUM"/> cijfers bevatten</translation>
@@ -4505,23 +4505,23 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="3817524650114746564">Open de proxy-instellingen van je computer</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> gebruikt proxyinstellingen van een extensie</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> gebruikt proxyinstellingen van je beheerder</translation>
-<translation id="6187156085111579405">Items die hier niet worden vermeld, worden zo nodig ook verwijderd. Lees meer informatie over &lt;a href="<ph name="URL"/>"&gt;bescherming tegen ongewenste software&lt;/a&gt; in de whitepaper over privacy in Dissenter.</translation>
+<translation id="6187156085111579405">Items die hier niet worden vermeld, worden zo nodig ook verwijderd. Lees meer informatie over &lt;a href="<ph name="URL"/>"&gt;bescherming tegen ongewenste software&lt;/a&gt; in de whitepaper over privacy in Fulldive.</translation>
 <translation id="5280174558369304332">Extensies die worden verwijderd:</translation>
 <translation id="7712836429117959503">Onbekende extensie met ID <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">Bestanden en programma's die in quarantaine worden gezet:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 item}other{{NUM_ITEMS} items}}</translation>
 <translation id="7187428571767585875">Registervermeldingen die moeten worden verwijderd of gewijzigd:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{Nog 1}other{Nog {NUM_DOWNLOADS}}}</translation>
-<translation id="2749608811030566578">Er is een fout opgetreden terwijl Dissenter schadelijke software verwijderde</translation>
-<translation id="8189483132214844139">Dissenter kan schadelijke software op je computer vinden en verwijderen</translation>
+<translation id="2749608811030566578">Er is een fout opgetreden terwijl Fulldive schadelijke software verwijderde</translation>
+<translation id="8189483132214844139">Fulldive kan schadelijke software op je computer vinden en verwijderen</translation>
 <translation id="1426870617281699524">Klik op 'Opnieuw proberen' en accepteer de prompt op je computer</translation>
-<translation id="7886744396008377537">Er staat schadelijke software op je computer. Dissenter is bezig deze te verwijderen, je instellingen te herstellen en extensies uit te schakelen. Hierdoor werkt je browser straks weer normaal.</translation>
-<translation id="1484912962860902625">Er is een fout opgetreden terwijl Dissenter naar schadelijke software zocht</translation>
+<translation id="7886744396008377537">Er staat schadelijke software op je computer. Fulldive is bezig deze te verwijderen, je instellingen te herstellen en extensies uit te schakelen. Hierdoor werkt je browser straks weer normaal.</translation>
+<translation id="1484912962860902625">Er is een fout opgetreden terwijl Fulldive naar schadelijke software zocht</translation>
 <translation id="451407183922382411">Mogelijk gemaakt door <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">Bestanden weergeven die worden verwijderd</translation>
 <translation id="296026337010986570">Klaar. Schadelijke software is verwijderd. Als je de extensies weer wilt inschakelen, ga je naar &lt;a href="chrome://extensions"&gt;Extensies&lt;/a&gt;.</translation>
 <translation id="284975061945174219">Opschonen is mislukt</translation>
-<translation id="9014750448058570312">Dissenter heeft toestemming nodig om verder te gaan</translation>
+<translation id="9014750448058570312">Fulldive heeft toestemming nodig om verder te gaan</translation>
 <translation id="1852141627593563189">Schadelijke software zoeken</translation>
 <translation id="850875081535031620">Er is geen schadelijke software gevonden</translation>
 <translation id="1186771945450942097">Schadelijke software verwijderen</translation>
@@ -4534,7 +4534,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6555810572223193255">Opschonen is momenteel niet beschikbaar</translation>
 <translation id="7117228822971127758">Probeer het later opnieuw</translation>
 <translation id="443475966875174318">Ongeschikte apps updaten en verwijderen</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Deze app kan ervoor zorgen dat Dissenter niet goed functioneert.}other{Deze apps kunnen ervoor zorgen dat Dissenter niet goed functioneert.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Deze app kan ervoor zorgen dat Fulldive niet goed functioneert.}other{Deze apps kunnen ervoor zorgen dat Fulldive niet goed functioneert.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Vraag je beheerder deze app te verwijderen om ervoor te zorgen dat je kunt blijven browsen op het web.}other{Vraag je beheerder deze apps te verwijderen om ervoor te zorgen dat je kunt blijven browsen op het web.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Meer informatie over hoe je apps updatet<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{App}other{Apps}}</translation>
@@ -4617,13 +4617,13 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="284843628681142937">Hiermee worden de URL's van pagina's die je bezoekt, verzonden naar Gab AI Inc</translation>
 <translation id="7704317875155739195">Zoekopdrachten en URL's automatisch aanvullen</translation>
 <translation id="2000419248597011803">Hiermee worden bepaalde cookies en de zoekopdrachten in de adresbalk en in het zoekvak verzonden naar je standaard zoekmachine</translation>
-<translation id="918192811481327695">Help de functies en prestaties van Dissenter verbeteren</translation>
+<translation id="918192811481327695">Help de functies en prestaties van Fulldive verbeteren</translation>
 <translation id="9063160602596686558">Hiermee worden automatisch gebruiksstatistieken en crashrapporten naar Gab AI Inc verzonden</translation>
 <translation id="6697492270171225480">Suggesties voor vergelijkbare pagina's weergeven wanneer een pagina niet wordt gevonden</translation>
 <translation id="4534361985432360439">Hiermee wordt het webadres van de pagina die je probeert te openen, verzonden naar Gab AI Inc</translation>
 <translation id="3831436149286513437">Zoeksuggesties voor Gab AI Inc Drive</translation>
 <translation id="5244474230056479698">Synchroniseren met <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Gab AI Inc-functies in Dissenter</translation>
+<translation id="9125982323641182972">Gab AI Inc-functies in Fulldive</translation>
 <translation id="2537178555904266562">Fout bij synchroniseren van wachtwoorden</translation>
 <translation id="4314815835985389558">Synchronisatie beheren</translation>
 <translation id="8931475688782629595">Beheren wat je synchroniseert</translation>
@@ -4641,7 +4641,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1651008383952180276">Je moet twee keer dezelfde wachtwoordzin opgeven</translation>
 <translation id="988978206646512040">Een lege wachtwoordzin is niet toegestaan</translation>
 <translation id="2136476978468204130">De opgegeven wachtwoordzin is onjuist</translation>
-<translation id="7505421639213002314">Gegevens van Dissenter-synchronisatie</translation>
+<translation id="7505421639213002314">Gegevens van Fulldive-synchronisatie</translation>
 <translation id="452750746583162491">Je gesynchroniseerde gegevens controleren</translation>
 <translation id="7956662517480676674">Synchronisatie &amp; Gab AI Inc-services</translation>
 <translation id="7772032839648071052">Bevestig de wachtwoordzin</translation>
@@ -4740,7 +4740,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1992397118740194946">Niet ingesteld</translation>
 <translation id="6706210727756204531">Bereik</translation>
 <translation id="5532223876348815659">Algemeen</translation>
-<translation id="300669147395456190">Dissenter-apps</translation>
+<translation id="300669147395456190">Fulldive-apps</translation>
 <translation id="6787839852456839824">Sneltoetsen</translation>
 <translation id="6419546358665792306">Uitgepakte extensie laden</translation>
 <translation id="8023801379949507775">Extensies nu updaten</translation>
@@ -4754,13 +4754,13 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8447409163267621480">Neem Ctrl of Alt op</translation>
 <translation id="3365598184818502391">Gebruik Ctrl of Alt</translation>
 <translation id="1688935057616748272">Typ een letter</translation>
-<translation id="1579879232130925590">Zorg dat Dissenter beter functioneert</translation>
+<translation id="1579879232130925590">Zorg dat Fulldive beter functioneert</translation>
 <translation id="964057662886721376">Sommige extensies kunnen voor vertraging zorgen, vooral extensies die je niet wilde installeren.</translation>
 <translation id="1499271269825557605">Als je een extensie niet herkent of als je browser niet werkt zoals verwacht, kun je extensies hier uitschakelen of aanpassen.</translation>
 <translation id="2382818385048255866">Je extensies controleren</translation>
 <translation id="3900789207771372462">Sommige extensies kunnen je browse-activiteit bekijken, waaronder persoonlijke informatie.</translation>
 <translation id="6772339735733515807">Je extensies beheren</translation>
-<translation id="1510515462062582289">Op deze pagina kun je alle extensies zien die in Dissenter zijn geïnstalleerd.</translation>
+<translation id="1510515462062582289">Op deze pagina kun je alle extensies zien die in Fulldive zijn geïnstalleerd.</translation>
 <translation id="2810390687497823527">Als je een extensie niet herkent of als je browser niet werkt zoals verwacht, kun je extensies hier uitschakelen of aanpassen.</translation>
 <translation id="4479424953165245642">Kiosk-apps beheren</translation>
 <translation id="6619801788773578757">Kiosk-app toevoegen</translation>
@@ -4776,7 +4776,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="2342740338116612727">Bladwijzers toegevoegd</translation>
 <translation id="7835178595033117206">Bladwijzer verwijderd</translation>
 <translation id="742130257665691897">Bladwijzers verwijderd</translation>
-<translation id="5468853758063275923">Dissenter is je standaardbrowser</translation>
+<translation id="5468853758063275923">Fulldive is je standaardbrowser</translation>
 <translation id="2950533317914339731">Voeg bladwijzers toe voor je favoriete Gab AI Inc-apps</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4791,13 +4791,13 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5033266061063942743">Geometrische vormen</translation>
 <translation id="7789963078219276159">Achtergrond van startpagina is gewijzigd in <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">De achtergrond van de startpagina is gereset naar de standaardachtergrond.</translation>
-<translation id="239760341987199724">Dissenter instellen als je standaardbrowser</translation>
+<translation id="239760341987199724">Fulldive instellen als je standaardbrowser</translation>
 <translation id="96037229054033864">Gab AI Inc Zoeken en slimme Gab AI Inc-functies standaard instellen voor browsen</translation>
-<translation id="296137235951584143">Personaliseer Dissenter voor jou</translation>
+<translation id="296137235951584143">Personaliseer Fulldive voor jou</translation>
 <translation id="3982375475032951137">Stel je browser in een paar eenvoudige stappen in</translation>
 <translation id="6972754398087986839">Get Started</translation>
-<translation id="3707821975049107110">Ben je al Dissenter-gebruiker? Log in</translation>
-<translation id="7113572760575285642">Jouw Dissenter, waar je ook bent</translation>
+<translation id="3707821975049107110">Ben je al Fulldive-gebruiker? Log in</translation>
+<translation id="7113572760575285642">Jouw Fulldive, waar je ook bent</translation>
 <translation id="567643736130151854">Log in en schakel synchronisatie in om je bladwijzers, wachtwoorden en meer op al je apparaten te gebruiken</translation>
 <translation id="725758059478686223">Afdrukservice</translation>
 <translation id="15662109988763471">De geselecteerde printer is niet beschikbaar of niet correct geïnstalleerd. Controleer de printer of probeer een andere printer te selecteren.</translation>
@@ -4920,7 +4920,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="7574650250151586813">Update de app Daydream-toetsenbord om tekst te typen</translation>
 <translation id="983511809958454316">Deze functie wordt niet ondersteund in VR</translation>
 <translation id="4008291085758151621">Sitegegevens zijn niet beschikbaar in VR</translation>
-<translation id="1439926347196400598">Toestaan dat Dissenter audio opneemt?</translation>
+<translation id="1439926347196400598">Toestaan dat Fulldive audio opneemt?</translation>
 <translation id="6313641880021325787">VR AFSLUITEN</translation>
 <translation id="2670429602441959756">Deze pagina bevat functies die nog niet worden ondersteund in de VR-modus. Afsluiten...</translation>
 <translation id="1802687198411089702">De pagina reageert niet. Je kunt wachten tot deze reageert of de pagina afsluiten.</translation>
@@ -4942,7 +4942,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1721312023322545264">Je hebt toestemming van <ph name="NAME"/> nodig om deze site te bezoeken</translation>
 <translation id="7543525346216957623">Vraag het aan je ouder of voogd</translation>
 <translation id="471880041731876836">Je hebt geen toestemming om deze site te bezoeken</translation>
-<translation id="3480834636742786788">Start Dissenter en log in voordat je deze app gebruikt.</translation>
+<translation id="3480834636742786788">Start Fulldive en log in voordat je deze app gebruikt.</translation>
 <translation id="2851634818064021665">Je hebt toestemming nodig om deze site te bezoeken</translation>
 <translation id="4933782374919065856">Vragen? Neem contact op met de persoon die je profiel beheert.</translation>
 <translation id="2712173769900027643">Toestemming vragen</translation>
@@ -4962,7 +4962,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="7755287808199759310">Je ouder of voogd kan de blokkering van deze site opheffen</translation>
 <translation id="5732392974455271431">Je ouders kunnen de blokkering van deze site opheffen</translation>
 <translation id="3556433843310711081">Je beheerder kan de blokkering van de site opheffen</translation>
-<translation id="1254756632288991504">Start Dissenter en log in zodat Dissenter kan controleren of je deze site mag openen.</translation>
+<translation id="1254756632288991504">Start Fulldive en log in zodat Fulldive kan controleren of je deze site mag openen.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> is onderbroken</translation>
 <translation id="8015163965024115122">De door je ouder ingestelde limiet voor de app <ph name="IDS_SHORT_PRODUCT_NAME"/> of <ph name="IDS_SHORT_PRODUCT_NAME"/> is bereikt.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> is onderbroken</translation>

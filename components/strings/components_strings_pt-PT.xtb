@@ -45,7 +45,7 @@
 <translation id="6973932557599545801">Desculpe não puder ajudar, por favor continue por sua conta.</translation>
 <translation id="3963837677003247395">Continuar manualmente?</translation>
 <translation id="7460618730930299168">O que está a ser exibido é diferente daquilo que selecionou. Continuar?</translation>
-<translation id="5880900081429361525">A parar a Assistente Dissenter no Dissenter.</translation>
+<translation id="5880900081429361525">A parar a Assistente Fulldive no Fulldive.</translation>
 <translation id="2360873523816792727">Para usar os seus cartões em todos os seus dispositivos, ative a Sincronização.</translation>
 <translation id="5786044859038896871">Deseja preencher com os detalhes do seu cartão?</translation>
 <translation id="5803412860119678065">Deseja preencher o seu <ph name="CARD_DETAIL"/>?</translation>
@@ -56,34 +56,34 @@
 <translation id="4901778704868714008">Guardar...</translation>
 <translation id="2881276955470682203">Guardar cartão?</translation>
 <translation id="8968766641738584599">Guardar cartão</translation>
-<translation id="3385003879165845790">Quer guardar este cartão na sua conta Dissenter?</translation>
-<translation id="4485557118067663303">Quer salvar este cartão na sua conta Dissenter e neste dispositivo?</translation>
-<translation id="5624611466880082169">Guardar cartão na Conta Dissenter?</translation>
+<translation id="3385003879165845790">Quer guardar este cartão na sua conta Fulldive?</translation>
+<translation id="4485557118067663303">Quer salvar este cartão na sua conta Fulldive e neste dispositivo?</translation>
+<translation id="5624611466880082169">Guardar cartão na Conta Fulldive?</translation>
 <translation id="5887400589839399685">Cartão guardado</translation>
 <translation id="4524805452350978254">Gerir cartões</translation>
 <translation id="1638780421120290329">Não foi possível guardar o cartão</translation>
 <translation id="4194250254487269611">O seu cartão não pode ser guardado no momento</translation>
-<translation id="405970181812690156">Pague rapidamente em sites e aplicações em vários dispositivos utilizando cartões que guardou no Dissenter.</translation>
-<translation id="4491702030396251550">Para pagar mais rapidamente da próxima vez, guarde o seu cartão e endereço de faturação na sua Conta Dissenter.</translation>
-<translation id="2374115610089464099">Para pagar mais rapidamente da próxima vez, guarde o seu cartão e endereço de faturação na sua Conta Dissenter e neste dispositivo.</translation>
-<translation id="7638036884242711636">Para pagar mais rapidamente da próxima vez, guarde o seu cartão, nome e endereço de faturação na sua Conta Dissenter.</translation>
-<translation id="8425351843056705489">Para pagar mais rapidamente da próxima vez, guarde o seu cartão, nome e endereço de faturação na sua Conta Dissenter e neste dispositivo.</translation>
+<translation id="405970181812690156">Pague rapidamente em sites e aplicações em vários dispositivos utilizando cartões que guardou no Fulldive.</translation>
+<translation id="4491702030396251550">Para pagar mais rapidamente da próxima vez, guarde o seu cartão e endereço de faturação na sua Conta Fulldive.</translation>
+<translation id="2374115610089464099">Para pagar mais rapidamente da próxima vez, guarde o seu cartão e endereço de faturação na sua Conta Fulldive e neste dispositivo.</translation>
+<translation id="7638036884242711636">Para pagar mais rapidamente da próxima vez, guarde o seu cartão, nome e endereço de faturação na sua Conta Fulldive.</translation>
+<translation id="8425351843056705489">Para pagar mais rapidamente da próxima vez, guarde o seu cartão, nome e endereço de faturação na sua Conta Fulldive e neste dispositivo.</translation>
 <translation id="6389470377220713856">Nome no Cartão</translation>
 <translation id="860043288473659153">Nome do titular do cartão</translation>
-<translation id="3906528077526222959">Este nome é o da sua Contra Dissenter</translation>
+<translation id="3906528077526222959">Este nome é o da sua Contra Fulldive</translation>
 <translation id="1348779747280417563">Confirmar nome</translation>
 <translation id="1569487616857761740">Insira a data de expiração</translation>
 <translation id="869891660844655955">Data de expiração</translation>
 <translation id="2258928405015593961">Insira uma data de expiração no futuro e tente novamente</translation>
-<translation id="817611410946168916">O Dissenter está a oferecer-lhe que guarde os seus cartões na sua Conta Dissenter porque está conectado. Você pode alterar este comportamento nas definições.</translation>
-<translation id="4345467815611041168">O Dissenter está a oferecer-lhe que guarde os seus cartões na sua Conta Dissenter porque está conectado. Você pode alterar este comportamento nas definições. O nome do titular do cartão vem da sua conta.</translation>
-<translation id="4765229189146046954">Logo do Dissenter Pay</translation>
+<translation id="817611410946168916">O Fulldive está a oferecer-lhe que guarde os seus cartões na sua Conta Fulldive porque está conectado. Você pode alterar este comportamento nas definições.</translation>
+<translation id="4345467815611041168">O Fulldive está a oferecer-lhe que guarde os seus cartões na sua Conta Fulldive porque está conectado. Você pode alterar este comportamento nas definições. O nome do titular do cartão vem da sua conta.</translation>
+<translation id="4765229189146046954">Logo do Fulldive Pay</translation>
 <translation id="1058479211578257048">A guardar os cartões...</translation>
 <translation id="6058977677006700226">Usar os seus cartões em todos os seus dispositivos?</translation>
 <translation id="769721561045429135">Neste momento, os seus cartões só podem ser usados neste dispositivo. Clique em Continuar para rever os cartões.</translation>
 <translation id="8514108354025239538">{NUM_CARDS, plural,
-=1 {Guardar cartão na sua Conta Dissenter}
-other {Guardar cartões na sua Conta Dissenter}}</translation>
+=1 {Guardar cartão na sua Conta Fulldive}
+other {Guardar cartões na sua Conta Fulldive}}</translation>
 <translation id="1697532407822776718">Está tudo pronto!</translation>
 <translation id="5922853866070715753">Quase lá</translation>
 <translation id="2523886232349826891">Guardado apenas neste dispositivo</translation>
@@ -91,8 +91,8 @@ other {Guardar cartões na sua Conta Dissenter}}</translation>
 =1 {Este cartão e o seu endereço de faturação serão guardados. Poderá usá-lo quando conectado a <ph name="USER_EMAIL"/>.}
 other {Estes cartões e os seus endereços de faturação serão guardados. Poderá usá-los quando conectado a <ph name="USER_EMAIL"/>.}}</translation>
 <translation id="5076423305821066906">{NUM_CARDS, plural,
-=1 {Este cartão foi guardado na sua Conta Dissenter}
-other {Estes cartões foram guardados na sua Conta Dissenter}}</translation>
+=1 {Este cartão foi guardado na sua Conta Fulldive}
+other {Estes cartões foram guardados na sua Conta Fulldive}}</translation>
 <translation id="705310974202322020">{NUM_CARDS, plural,
       =1 {Não foi possível guardar o cartão}
       other {Não foi possível guardar os cartões}}</translation>
@@ -183,7 +183,7 @@ other {Estes cartões foram guardados na sua Conta Dissenter}}</translation>
 <translation id="7514365320538308">Transferir</translation>
 <translation id="8041089156583427627">Enviar comentários</translation>
 <translation id="7552846755917812628">Experimente as sugestões seguintes:</translation>
-<translation id="3960299545138990065">Reiniciar o Dissenter</translation>
+<translation id="3960299545138990065">Reiniciar o Fulldive</translation>
 <translation id="4275830172053184480">Reiniciar o dispositivo</translation>
 <translation id="413544239732274901">Aprenda mais</translation>
 <translation id="7554791636758816595">Novo separador</translation>
@@ -258,7 +258,7 @@ other {Estes cartões foram guardados na sua Conta Dissenter}}</translation>
 <translation id="7240120331469437312">Nome alternativo do requerente do certificado</translation>
 <translation id="10614374240317010">Nunca guardada</translation>
 <translation id="5869522115854928033">Palavras-passe guardadas</translation>
-<translation id="230699814587342492">Dissenter - Palavras-passe</translation>
+<translation id="230699814587342492">Fulldive - Palavras-passe</translation>
 <translation id="5087580092889165836">Adicionar cartão</translation>
 <translation id="2154484045852737596">Editar cartão</translation>
 <translation id="4923459931733593730">Pagamento</translation>

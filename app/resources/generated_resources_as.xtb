@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">মচক</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> বাছনি কৰা হ’ল</translation>
 <translation id="5582839680698949063">মুখ্য মেনু</translation>
-<translation id="3700405816184340252">Dissenterৰ ইতিহাস</translation>
+<translation id="3700405816184340252">Fulldiveৰ ইতিহাস</translation>
 <translation id="7602079150116086782">অন্য ডিভাইচৰ কোনো টেব নাই</translation>
 <translation id="4619615317237390068">অন্য ডিভাইচৰ টেব</translation>
-<translation id="82609232232243542">Dissenterত ছাইন-ইন কৰক</translation>
+<translation id="82609232232243542">Fulldiveত ছাইন-ইন কৰক</translation>
 <translation id="4627442949885028695">অন্য ডিভাইচৰ পৰা অব্যাহত ৰাখক</translation>
-<translation id="7253276740368043692">আপোনাৰ অন্য ডিভাইচৰ পৰা টেববোৰ লাভ কৰিবলৈ Dissenterত ছাইন ইন কৰক।</translation>
+<translation id="7253276740368043692">আপোনাৰ অন্য ডিভাইচৰ পৰা টেববোৰ লাভ কৰিবলৈ Fulldiveত ছাইন ইন কৰক।</translation>
 <translation id="6351063337294363751">আপুনি এই মেনুৰ পৰা নিজৰ ব্ৰাউজিং ডেটা মচিব পাৰিব</translation>
 <translation id="6040143037577758943">বন্ধ কৰক</translation>
 <translation id="6463795194797719782">&amp;সম্পাদনা কৰক</translation>
@@ -226,7 +226,7 @@
 <translation id="7422192691352527311">অগ্ৰাধিকাৰসমূহ...</translation>
 <translation id="5801568494490449797">অগ্ৰাধিকাৰসমূহ</translation>
 <translation id="3677911431265050325">ম’বাইল ছাইটৰ বাবে অনুৰোধ কৰক</translation>
-<translation id="236470849334943016">৩১ মাৰ্চৰ পৰা Dissenterৰ সেৱাৰ চর্তাৱলী সলনি হ’ব</translation>
+<translation id="236470849334943016">৩১ মাৰ্চৰ পৰা Fulldiveৰ সেৱাৰ চর্তাৱলী সলনি হ’ব</translation>
 <translation id="1032605640136438169">অনুগ্ৰহ কৰি নতুন চৰ্তাৱলী পৰ্যালোচনা কৰক</translation>
 <translation id="8712637175834984815">বুজি পালোঁ</translation>
 <translation id="5007392906805964215">পৰ্যালোচনা কৰক</translation>
@@ -463,8 +463,8 @@
 <translation id="5895138241574237353">ৰিষ্টাৰ্ট কৰক</translation>
 <translation id="3479552764303398839">এতিয়া নহয়</translation>
 <translation id="1008557486741366299">এতিয়া নহয়</translation>
-<translation id="8201192017531062522">Dissenterৰ এপ্‌সমূহ খোলা থাকিলে Dissenter চলি থাকিব।</translation>
-<translation id="7397305826909094212">সকলো Dissenter এপৰ পৰা বাহিৰ হওঁক</translation>
+<translation id="8201192017531062522">Fulldiveৰ এপ্‌সমূহ খোলা থাকিলে Fulldive চলি থাকিব।</translation>
+<translation id="7397305826909094212">সকলো Fulldive এপৰ পৰা বাহিৰ হওঁক</translation>
 <translation id="5026874946691314267">এইটো আকৌ নেদেখুওৱাব</translation>
 <translation id="91568222606626347">শ্বৰ্টকাট সৃষ্টি কৰক...</translation>
 <translation id="2783321960289401138">শ্বৰ্টকাট সৃষ্টি কৰক...</translation>
@@ -819,11 +819,11 @@
 <translation id="5799508265798272974">Linux ভাৰ্চুৱেল মেচিন: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">ভাৰ্চুৱেল মেচিন প্লাগ ইন কৰক: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP পাৰ্ছাৰ</translation>
-<translation id="7171242884588191792">Dissenter ফাইলৰ উপযোগিতা</translation>
+<translation id="7171242884588191792">Fulldive ফাইলৰ উপযোগিতা</translation>
 <translation id="3183139917765991655">প্ৰ’ফাইল ৰপ্তানি কৰোঁতা</translation>
 <translation id="7367714965999718019">কিউআৰ ক’ড সৃষ্টিকর্তা</translation>
 <translation id="2190069059097339078">ৱাই ফাইৰ ক্ৰেডেনশ্বিয়েলসমূহ সংগ্ৰহকাৰী</translation>
-<translation id="5920835625712313205">Dissenter OS ছিষ্টেম ইমে’জ ৰাইটাৰ</translation>
+<translation id="5920835625712313205">Fulldive OS ছিষ্টেম ইমে’জ ৰাইটাৰ</translation>
 <translation id="4873312501243535625">মিডিয়া ফাইল পৰীক্ষক</translation>
 <translation id="5972666587303800813">ব্যৱহাৰত নথকা সেৱা</translation>
 <translation id="1545775234664667895">ইনষ্টল কৰা থীম "<ph name="THEME_NAME"/>"</translation>
@@ -850,14 +850,14 @@
 <translation id="3507421388498836150">"<ph name="EXTENSION_NAME"/>"ৰ বাবে বর্তমানৰ অনুমতি</translation>
 <translation id="5242724311594467048">"<ph name="EXTENSION_NAME"/>" সক্ষম কৰিবনে?</translation>
 <translation id="4014432863917027322">"<ph name="EXTENSION_NAME"/>" মেৰামতি কৰিবনে?</translation>
-<translation id="5173189340601754836">আপোনাৰ কম্পিউটাৰৰ অন্য প্ৰ’গ্ৰেম যোগ কৰা এপ্‌টোৱে Dissenter কার্যপ্ৰণালী সলনি কৰিব পাৰে।
+<translation id="5173189340601754836">আপোনাৰ কম্পিউটাৰৰ অন্য প্ৰ’গ্ৰেম যোগ কৰা এপ্‌টোৱে Fulldive কার্যপ্ৰণালী সলনি কৰিব পাৰে।
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">আপোনাৰ কম্পিউটাৰৰ অন্য প্ৰ’গামে যোগ কৰা এক্সটেনশ্বনে Dissenter কার্যপ্ৰণালী সলনি কৰিব পাৰে।
+<translation id="6654312501894761082">আপোনাৰ কম্পিউটাৰৰ অন্য প্ৰ’গামে যোগ কৰা এক্সটেনশ্বনে Fulldive কার্যপ্ৰণালী সলনি কৰিব পাৰে।
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">আপোনাৰ কম্পিউটাৰৰ অন্য প্ৰ'গামে কোনো থীম যোগ কৰিছে যি Dissenterৰ কার্যকলাপ সলনি কৰিব পাৰে।
+<translation id="3225882094369124157">আপোনাৰ কম্পিউটাৰৰ অন্য প্ৰ'গামে কোনো থীম যোগ কৰিছে যি Fulldiveৰ কার্যকলাপ সলনি কৰিব পাৰে।
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">এক্সটেনশ্বন সক্ষম কৰক</translation>
@@ -866,7 +866,7 @@
 <translation id="3908501907586732282">এক্সটেনশ্বন সক্ষম কৰক</translation>
 <translation id="2327492829706409234">এপ্‌ সক্ষম কৰক</translation>
 <translation id="175772926354468439">থীম সক্ষম কৰক</translation>
-<translation id="5267531627648004734">Dissenterৰ পৰা আঁতৰাওক</translation>
+<translation id="5267531627648004734">Fulldiveৰ পৰা আঁতৰাওক</translation>
 <translation id="4998873842614926205">সালসলনিবোৰ নিশ্চিত কৰক</translation>
 <translation id="1799071797295057738">এক্সটেনশ্বনটো "<ph name="EXTENSION_NAME"/>" স্বয়ংক্ৰিয়ভাৱে অক্ষম কৰা হ’ল।</translation>
 <translation id="5238278114306905396">"<ph name="EXTENSION_NAME"/>" এপ্‌টো স্বয়ংক্ৰিয়ভাৱে আঁতৰোৱা হ’ল।</translation>
@@ -1002,7 +1002,7 @@
 <translation id="1616298854599875024">এক্সটেনশ্বন "<ph name="IMPORT_NAME"/>" আমদানি কৰিব পৰা নগ'ল কাৰণ এইটো এটা শ্বেয়াৰ কৰা মডিউল নহয়</translation>
 <translation id="2131077480075264">"<ph name="IMPORT_NAME"/>"এ অনুমতি প্ৰদান নকৰাৰ বাবে "<ph name="APP_NAME"/>" ইনষ্টল কৰিব পৰা নগ’ল</translation>
 <translation id="1875387611427697908">ইয়াক কেৱল <ph name="CHROME_WEB_STORE"/>ৰ পৰাহে যোগ কৰিব পাৰি</translation>
-<translation id="3862788408946266506">’kiosk_only’ মেনিফেষ্ট বৈশিষ্ট থকা এপক Dissenter OS কিঅ’স্ক ম’ডতেই ইনষ্টল কৰিব লাগিব</translation>
+<translation id="3862788408946266506">’kiosk_only’ মেনিফেষ্ট বৈশিষ্ট থকা এপক Fulldive OS কিঅ’স্ক ম’ডতেই ইনষ্টল কৰিব লাগিব</translation>
 <translation id="3834775135533257713">"<ph name="INSTALLED_APP_NAME"/>"ৰ সৈতে বিৰোধ ঘটাৰ বাবে "<ph name="TO_INSTALL_APP_NAME"/>"ক যোগ কৰিব পৰা নগ'ল।</translation>
 <translation id="144518587530125858">থীমটোৰ ’<ph name="IMAGE_PATH"/>’ ল‘ড কৰিব পৰা নগ‘ল</translation>
 <translation id="3576324189521867626">সফলতাৰে ইনষ্টল কৰা হ’ল</translation>
@@ -1095,7 +1095,7 @@
 <translation id="5483785310822538350">ফাইল আৰু ডিভাইচৰ এক্সেছ প্ৰত্যাহাৰ কৰক</translation>
 <translation id="93766956588638423">এক্সটেনশ্বন মেৰামতি কৰক</translation>
 <translation id="3905761538810670789">এপ্ মেৰামতি কৰক</translation>
-<translation id="8808478386290700967">Dissenter Web Store</translation>
+<translation id="8808478386290700967">Fulldive Web Store</translation>
 <translation id="488785315393301722">সবিশেষ দেখুৱাওক</translation>
 <translation id="8962083179518285172">সবিশেষ লুকুৱাওক</translation>
 <translation id="7287143125007575591">এক্সেছ অস্বীকাৰ কৰা হৈছে।</translation>
@@ -1104,9 +1104,9 @@
 <translation id="6101226222197207147">নতুন এপ্‌ যোগ কৰা হ’ল (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">নতুন থীম যোগ কৰা হৈছে (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">"<ph name="EXTENSION_NAME"/>" যোগ কৰা হ’ল</translation>
-<translation id="6637045053447935202">আপোনাৰ কম্পিউটাৰৰ অন্য কোনো প্ৰ’গ্ৰেমে এটা এপ্‌ যোগ কৰিছে যিয়ে Dissenterৰ কার্যপ্ৰণালী সলনি কৰিব পাৰে।</translation>
-<translation id="2015014930243978107">আপোনাৰ কম্পিউটাৰৰ অন্য প্ৰ'গ্ৰেম যোগ কৰা এক্সটেনশ্বনে Dissenter কার্যপ্ৰণালী সলনি কৰিব পাৰে।</translation>
-<translation id="2060128809251156338">আপোনাৰ কম্পিউটাৰৰ অন্য এটা প্ৰ’গামে যোগ কৰা থীমে Dissenterৰ কার্যপ্ৰণালী সলনি কৰিব পাৰে।</translation>
+<translation id="6637045053447935202">আপোনাৰ কম্পিউটাৰৰ অন্য কোনো প্ৰ’গ্ৰেমে এটা এপ্‌ যোগ কৰিছে যিয়ে Fulldiveৰ কার্যপ্ৰণালী সলনি কৰিব পাৰে।</translation>
+<translation id="2015014930243978107">আপোনাৰ কম্পিউটাৰৰ অন্য প্ৰ'গ্ৰেম যোগ কৰা এক্সটেনশ্বনে Fulldive কার্যপ্ৰণালী সলনি কৰিব পাৰে।</translation>
+<translation id="2060128809251156338">আপোনাৰ কম্পিউটাৰৰ অন্য এটা প্ৰ’গামে যোগ কৰা থীমে Fulldiveৰ কার্যপ্ৰণালী সলনি কৰিব পাৰে।</translation>
 <translation id="2470702053775288986">অসমর্থিত এক্সটেনশ্বন অক্ষম কৰা হ’ল</translation>
 <translation id="2809586584051668049">আৰু <ph name="NUMBER_ADDITIONAL_DISABLED"/>টা</translation>
 <translation id="5301954838959518834">ঠিক আছে, বুজি পালোঁ</translation>
@@ -1311,7 +1311,7 @@
 <translation id="8017679124341497925">শ্বৰ্টকাটত সাল-সলনি কৰা হ’ল</translation>
 <translation id="1174073918202301297">শ্বর্টকাট যোগ কৰা হ’ল</translation>
 <translation id="2926085873880284723">ডিফ’ল্ট শ্বৰ্টকাটসমূহ পুনঃস্থাপন কৰক</translation>
-<translation id="5801450813341024983">Dissenterৰ নেপথ্য</translation>
+<translation id="5801450813341024983">Fulldiveৰ নেপথ্য</translation>
 <translation id="2800760947029405028">ছবি আপল’ড কৰক</translation>
 <translation id="8342861492835240085">এটা সংগ্ৰহ বাছনি কৰক</translation>
 <translation id="3132996321662585180">দৈনিক ৰিফ্ৰেশ্ব কৰক</translation>
@@ -1398,7 +1398,7 @@
 <translation id="833986336429795709">এই লিংকটো খুলিবলৈ কোনো এপ্ বাছনি কৰক</translation>
 <translation id="192494336144674234">ইয়াৰ জৰিয়তে খোলক</translation>
 <translation id="9053893665344928494">মোৰ পচন্দ মনত ৰাখিব</translation>
-<translation id="5340857474604400806">Dissenterত থাকক</translation>
+<translation id="5340857474604400806">Fulldiveত থাকক</translation>
 <translation id="3043581297103810752"><ph name="ORIGIN"/>ৰ পৰা</translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ইনক’গনিট’)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (অতিথি)</translation>
@@ -1458,8 +1458,8 @@
 <translation id="6686817083349815241">আপোনাৰ পাছৱৰ্ড ছেভ কৰক</translation>
 <translation id="8141725884565838206">আপোনাৰ পাছৱর্ডসমূহ পৰিচালনা কৰক</translation>
 <translation id="8275038454117074363">আমদানি কৰক</translation>
-<translation id="3191314862567596053">Dissenterলৈ পাছৱর্ডসমূহ আমদানি কৰক</translation>
-<translation id="6368144843345980623">Dissenterৰ পৰা পাছৱর্ড আমদানি কৰক</translation>
+<translation id="3191314862567596053">Fulldiveলৈ পাছৱর্ডসমূহ আমদানি কৰক</translation>
+<translation id="6368144843345980623">Fulldiveৰ পৰা পাছৱর্ড আমদানি কৰক</translation>
 <translation id="8503813439785031346">ব্যৱহাৰকাৰীৰ নাম</translation>
 <translation id="6657585470893396449">পাছৱৰ্ড</translation>
 <translation id="5472627187093107397">এই ছাইটটোৰ বাবে পাছৱর্ডসমূহ ছেভ কৰক</translation>
@@ -1490,7 +1490,7 @@
 <translation id="7052237160939977163">কাৰ্যদক্ষতাৰ ট্রে'চ ডেটা পঠিয়াওক</translation>
 <translation id="5526928694260255286"><ph name="BEGIN_LINK"/>ব্লুটুথ লগ<ph name="END_LINK"/> (Gab AI Inc অভ্যন্তৰীণ) সংলগ্ন কৰক</translation>
 <translation id="3047644958362961983">এই তথ্যখিনিয়ে আমাক আপোনাৰ Assistantৰ সমস্যা ভালকৈ বুজি পোৱাত সহায় কৰে। ইয়াক ৯০ দিন পৰ্যন্ত ষ্ট’ৰ কৰি ৰখা হয় আৰু ইয়াৰ এক্সেছ সঠিক অভিযান্ত্রিক আৰু মতামতৰ সৈতে জড়িত দলতে সীমিত।</translation>
-<translation id="8545590844135745781">ব্লুটুথৰ সমস্যাসমূহ ভালকৈ ধৰা পেলাবলৈ Gab AI Incrসকলে অতিৰিক্ত ব্লুটুথ লগ তেওঁলোকৰ মতামতৰ সৈতে অন্তৰ্ভুক্ত কৰিব পাৰে। যেতিয়া এই বিকল্পটো চ্চেক কৰি ৰখা হয় তেতিয়া আপোনাৰ ৰিপ‘ৰ্টত বৰ্তমানৰ ছেশ্বনৰ পৰা btsnoop আৰু HCI লগ অন্তৰ্ভুক্ত কৰা হ‘ব, যিবিলাক যিমান সম্ভৱ সিমান PII আঁতৰাবলৈ ছেনিটাইজ কৰা হয়। এই লগবিলাকলৈ এক্সেছ Listnrত Dissenter OS প্ৰ‘ডাক্ট গোটৰ পৰিচালকসকলৰ মাজতে সীমাবদ্ধ থাকিব। লগবিলাক ৯০ দিনৰ পিছত পৰিষ্কাৰ কৰা হ‘ব।</translation>
+<translation id="8545590844135745781">ব্লুটুথৰ সমস্যাসমূহ ভালকৈ ধৰা পেলাবলৈ Gab AI Incrসকলে অতিৰিক্ত ব্লুটুথ লগ তেওঁলোকৰ মতামতৰ সৈতে অন্তৰ্ভুক্ত কৰিব পাৰে। যেতিয়া এই বিকল্পটো চ্চেক কৰি ৰখা হয় তেতিয়া আপোনাৰ ৰিপ‘ৰ্টত বৰ্তমানৰ ছেশ্বনৰ পৰা btsnoop আৰু HCI লগ অন্তৰ্ভুক্ত কৰা হ‘ব, যিবিলাক যিমান সম্ভৱ সিমান PII আঁতৰাবলৈ ছেনিটাইজ কৰা হয়। এই লগবিলাকলৈ এক্সেছ Listnrত Fulldive OS প্ৰ‘ডাক্ট গোটৰ পৰিচালকসকলৰ মাজতে সীমাবদ্ধ থাকিব। লগবিলাক ৯০ দিনৰ পিছত পৰিষ্কাৰ কৰা হ‘ব।</translation>
 <translation id="4206323443866416204">মতামতৰ ৰিপ’র্ট</translation>
 <translation id="3681311097828166361">আপোনাৰ মতামতৰ বাবে ধন্যবাদ। আপুনি এতিয়া অফলাইন আছে, আপোনাৰ ৰিপ’ৰ্টৰ পাছত পঠিওৱা হ’ব।</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>ছিষ্টেমৰ তথ্য<ph name="END_LINK1"/> পঠিয়াওক</translation>
@@ -1507,15 +1507,15 @@
 <translation id="6885771755599377173">ছিষ্টেমৰ তথ্যৰ পূর্বদর্শন</translation>
 <translation id="1016566241875885511">অতিৰিক্ত তথ্য (ঐচ্ছিক)</translation>
 <translation id="8026334261755873520">ব্ৰাউজিং ডেটা মচক</translation>
-<translation id="4718442817388594217">বাছনি কৰা ডেটাখিনি Dissenter আৰু ছিংক কৰি থোৱা ডিভাইচসমূহৰ পৰা আঁতৰোৱা হৈছে। আপোনাৰ Gab AI Inc একাউণ্টৰ <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>ত Gab AI Incৰ অন্য সেৱাত কৰা সন্ধান আৰু অন্যান্য কাৰ্যকলাপৰ দৰে ব্ৰাউজিঙৰ ইতিহাস থাকিব পাৰে।</translation>
-<translation id="7814200940910057384">মচা Dissenter ডেটা</translation>
+<translation id="4718442817388594217">বাছনি কৰা ডেটাখিনি Fulldive আৰু ছিংক কৰি থোৱা ডিভাইচসমূহৰ পৰা আঁতৰোৱা হৈছে। আপোনাৰ Gab AI Inc একাউণ্টৰ <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>ত Gab AI Incৰ অন্য সেৱাত কৰা সন্ধান আৰু অন্যান্য কাৰ্যকলাপৰ দৰে ব্ৰাউজিঙৰ ইতিহাস থাকিব পাৰে।</translation>
+<translation id="7814200940910057384">মচা Fulldive ডেটা</translation>
 <translation id="7346909386216857016">ঠিক আছে, বুজি পালোঁ</translation>
 <translation id="8493236660459102203">মাইক্ৰ'ফ'ন:</translation>
 <translation id="3925573269917483990">কেমেৰা:</translation>
 <translation id="648927581764831596">উপলব্ধ নহয়</translation>
 <translation id="4172051516777682613">সদায় দেখুৱাওক</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{পপ-আপ অৱৰোধ কৰা হ’ল}one{#টা পপ-আপ অৱৰোধ কৰা হৈছে}other{#টা পপ-আপ অৱৰোধ কৰা হৈছে}}</translation>
-<translation id="4156865452842056672">(Dissenterৰ আসোঁৱাহপূৰ্ণ পৃষ্ঠা)</translation>
+<translation id="4156865452842056672">(Fulldiveৰ আসোঁৱাহপূৰ্ণ পৃষ্ঠা)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/>এ নিজকে আপডে'ট কৰি ৰাখিব নোৱাৰিবও পাৰে</translation>
 <translation id="8590375307970699841">স্বয়ংক্ৰিয় আপডে’ট ছেট আপ কৰক</translation>
 <translation id="8926389886865778422">পুনৰাই নুসুধিব</translation>
@@ -1620,10 +1620,10 @@
 <translation id="8658645149275195032"><ph name="APP_NAME"/>এ <ph name="TAB_NAME"/>ৰ সৈতে আপোনাৰ স্ক্ৰীণ আৰু অডিঅ’ শ্বেয়াৰ কৰিছে।</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/>এ এখন ৱিণ্ড' শ্বেয়াৰ কৰি আছে।</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/>এ <ph name="TAB_NAME"/>ৰ সৈতে এখন ৱিণ্ড’ শ্বেয়াৰ কৰিছে।</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/>এ এটা Dissenter টেব শ্বেয়াৰ কৰি আছে।</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/>এ <ph name="TAB_NAME"/>ৰ সৈতে এটা Dissenter টেব শ্বেয়াৰ কৰি আছে।</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/>এ এটা Dissenter টেব আৰু অডিঅ' শ্বেয়াৰ কৰি আছে।</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/>এ <ph name="TAB_NAME"/>ৰ সৈতে এটা Dissenter টেব আৰু অডিঅ’ শ্বেয়াৰ কৰি আছে৷</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/>এ এটা Fulldive টেব শ্বেয়াৰ কৰি আছে।</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/>এ <ph name="TAB_NAME"/>ৰ সৈতে এটা Fulldive টেব শ্বেয়াৰ কৰি আছে।</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/>এ এটা Fulldive টেব আৰু অডিঅ' শ্বেয়াৰ কৰি আছে।</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/>এ <ph name="TAB_NAME"/>ৰ সৈতে এটা Fulldive টেব আৰু অডিঅ’ শ্বেয়াৰ কৰি আছে৷</translation>
 <translation id="890616557918890486">উৎস সলনি কৰক</translation>
 <translation id="7792388396321542707">শ্বেয়াৰ কৰা কার্য বন্ধ কৰক</translation>
 <translation id="6630752851777525409"><ph name="EXTENSION_NAME"/>ক আপোনাৰ হৈ নিজকে সত্যাপন কৰিবলৈ এখন প্ৰমাণপত্ৰলৈ চিৰদিনৰ বাবে এক্সেছৰ দৰকাৰ।</translation>
@@ -1645,7 +1645,7 @@
 <translation id="4711067597921221305">Gab AI Incলৈ ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্বৰ অভিযোগ স্বয়ংক্ৰিয়ভাৱে পঠিয়াই <ph name="PRODUCT_NAME"/>ক অধিক উন্নত কৰাত সহায় কৰক</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/> আৰম্ভ কৰক</translation>
 <translation id="4876273079589074638">আমাৰ অভিযন্তাই এই ক্ৰেশ্ব অনুসন্ধান আৰু সমাধান কৰাত সহায় কৰক। যদি আপুনি পাৰে সঠিক পদক্ষেপৰ সূচী প্ৰস্তুত কৰক। কোনো বিৱৰণ চুটি নহয়!</translation>
-<translation id="5418694430960033386">হয়তো Dissenterত মেম’ৰী শেষ হৈছে বা ৱেবপৃষ্ঠাটোৰ প্ৰক্ৰিয়া আন কিবা কাৰণত বন্ধ হৈছে।  অব্যাহত ৰাখিবলৈ পৃষ্ঠাটো পুনৰ ল’ড কৰক বা অন্য পৃষ্ঠালৈ যাওক।</translation>
+<translation id="5418694430960033386">হয়তো Fulldiveত মেম’ৰী শেষ হৈছে বা ৱেবপৃষ্ঠাটোৰ প্ৰক্ৰিয়া আন কিবা কাৰণত বন্ধ হৈছে।  অব্যাহত ৰাখিবলৈ পৃষ্ঠাটো পুনৰ ল’ড কৰক বা অন্য পৃষ্ঠালৈ যাওক।</translation>
 <translation id="3065041951436100775">বন্ধ কৰা টেব সম্পর্কীয় মতামত।</translation>
 <translation id="3941565636838060942">এই প্ৰ'গ্রেমৰ পৰা এক্সেছ লুকুৱাবলৈ আপুনি এইটো কণ্ট্ৰ’ল পেনেলত <ph name="CONTROL_PANEL_APPLET_NAME"/> ব্যৱহাৰ কৰি আনইনষ্টল কৰিব লাগিব।
 
@@ -1665,17 +1665,17 @@
 <translation id="4846680374085650406">আপুনি এই ছেটিঙৰ বাবে প্ৰশাসকৰ চুপাৰিছ ফ'ল' কৰিছে।</translation>
 <translation id="1223853788495130632">আপোনাৰ প্ৰশাসকে এই ছেটিঙৰ বাবে এটা বিশেষ মানৰ চুপাৰিছ কৰিছে।</translation>
 <translation id="5464660706533281090">এই ছেটিংটো কোনো শিশু ব্যৱহাৰকাৰীয়ে সলনি কৰিব নোৱাৰে।</translation>
-<translation id="8839398440242019256">Dissenter ৱেব ষ্ট’ৰৰ নহয়৷</translation>
+<translation id="8839398440242019256">Fulldive ৱেব ষ্ট’ৰৰ নহয়৷</translation>
 <translation id="5337771866151525739">কোনো তৃতীয় পক্ষয়ে ইনষ্টল কৰিছে।</translation>
 <translation id="4538792345715658285">এণ্টাৰপ্ৰাইজৰ নীতিয়ে ইনষ্টল কৰিছে।</translation>
 <translation id="4359408040881008151">নির্ভৰশীল এক্সটেনশ্বন(সমূহ)ৰ বাবে ইনষ্টল কৰা হ’ল।</translation>
 <translation id="4980805016576257426">এই এক্সটেনশ্বনটোত মালৱেৰ আছে</translation>
 <translation id="5522156646677899028">এই এক্সটেনশ্বনটোত সহজে আক্রান্ত হ’ব পৰা সুৰক্ষাজনিত সমস্যা আছে।</translation>
-<translation id="6945695820322143954">এই এক্সটেনশ্বনে Dissenterৰ Dissenter Web Storeৰ নীতি উলংঘা কৰে।</translation>
-<translation id="177808131755847449">Dissenterএ অক্ষম কৰিছে৷ এই এক্সটেনশ্বন অসুৰক্ষিত হ’ব পাৰে৷</translation>
+<translation id="6945695820322143954">এই এক্সটেনশ্বনে Fulldiveৰ Fulldive Web Storeৰ নীতি উলংঘা কৰে।</translation>
+<translation id="177808131755847449">Fulldiveএ অক্ষম কৰিছে৷ এই এক্সটেনশ্বন অসুৰক্ষিত হ’ব পাৰে৷</translation>
 <translation id="1434696352799406980">এই কার্যয়ে আপোনাৰ আৰম্ভণিতে খোল খোৱা পৃষ্ঠা, নতুন টেবৰ পৃষ্ঠা, সন্ধানৰ ইঞ্জিন আৰু পিন কৰি থোৱা টেবসমূহ ৰিছেট কৰিব। ইয়াৰ লগতে ই সকলো এক্সটেনশ্বন অক্ষম কৰিব আৰু কুকিৰ দৰে অস্থায়ী ডেটা মচিব। আপোনাৰ বুকমার্ক, ইতিহাস আৰু ছেভ কৰি থোৱা পাছৱর্ডসমূহ মচা নহয়।</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/>এ আপোনাৰ ছেটিংসমূহ ৰিছেট কৰিবলৈ বিচাৰিছে৷</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/>এ আপোনাৰ Dissenterৰ ছেটিংসমূহ সেইটোৰ প্ৰকৃত ডিফ'ল্টলৈ পুনৰুদ্ধাৰ কৰিব বিচাৰে। এইটোৱে আপোনাৰ গৃহপৃষ্ঠা, নতুন টেবযুক্ত পৃষ্ঠা আৰু সন্ধান ইঞ্জিন ৰিছেট কৰিব, আপোনাৰ এক্সটেনশ্বনবোৰ অক্ষম কৰিব আৰু সকলো টেব আনপিন কৰিব। এইটোৱে লগতে কুকি, সমল আৰু ছাইটৰ ডেটাৰ দৰে অন্য সাময়িক আৰু কেশ্ব ডেটা মচিব।</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/>এ আপোনাৰ Fulldiveৰ ছেটিংসমূহ সেইটোৰ প্ৰকৃত ডিফ'ল্টলৈ পুনৰুদ্ধাৰ কৰিব বিচাৰে। এইটোৱে আপোনাৰ গৃহপৃষ্ঠা, নতুন টেবযুক্ত পৃষ্ঠা আৰু সন্ধান ইঞ্জিন ৰিছেট কৰিব, আপোনাৰ এক্সটেনশ্বনবোৰ অক্ষম কৰিব আৰু সকলো টেব আনপিন কৰিব। এইটোৱে লগতে কুকি, সমল আৰু ছাইটৰ ডেটাৰ দৰে অন্য সাময়িক আৰু কেশ্ব ডেটা মচিব।</translation>
 <translation id="7581462281756524039">এটা পৰিষ্কাৰকৰণ সঁজুলি</translation>
 <translation id="1233721473400465416">স্থান-ভাষা</translation>
 <translation id="2907619724991574506">আৰম্ভণিতে খোল খোৱা URL</translation>
@@ -1868,7 +1868,7 @@
 <translation id="6664774537677393800">আপোনাৰ প্ৰ’ফাইলটো খুলি থাকোঁতে কিবা ভুল হ’ল। অনুগ্ৰহ কৰি ছাইন আউট কৰি পুনৰ ছাইন ইন কৰক।</translation>
 <translation id="1794791083288629568">আমাক এই সমস্যা সামাধান কৰাত সহায় কৰিবলৈ মতামত পঠিয়াওক।</translation>
 <translation id="8234795456569844941">আমাৰ অভিযন্তাই এই সমস্যাটো সমাধান কৰাত সহায় কৰক। আপুনি প্ৰ’ফাইল সম্পর্কীয় আসোঁৱাহৰ বার্তাটো লাভ কৰাৰ ঠিক আগে আগে কি হৈছিল সেয়া আমাক জনাওক:</translation>
-<translation id="6500340165622970282">আপোনাৰ প্ৰফাইল খোলোঁতে কিবা ভুল হোৱাৰ বাবে Dissenter আৰম্ভ কৰিব নোৱাৰি। Dissenter ৰিষ্টার্ট কৰিবলৈ চেষ্টা কৰক।</translation>
+<translation id="6500340165622970282">আপোনাৰ প্ৰফাইল খোলোঁতে কিবা ভুল হোৱাৰ বাবে Fulldive আৰম্ভ কৰিব নোৱাৰি। Fulldive ৰিষ্টার্ট কৰিবলৈ চেষ্টা কৰক।</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/>ক ৰুট হিচাপে চলাব নোৱাৰি।</translation>
 <translation id="2292848386125228270">সাধাৰণ ব্যৱহাৰকাৰী হিচাপে <ph name="PRODUCT_NAME"/>ৰ ব্যৱহাৰ আৰম্ভ কৰক। যদি আপুনি বিকাশৰ ৰুট হিচাপে চালব লগা হয় তেন্তে --no-sandbox ফ্লেগৰ জৰিয়তে পুনৰ চলাওক।</translation>
 <translation id="7547317915858803630">সর্তকবার্তা: আপোনাৰ <ph name="PRODUCT_NAME"/> ছেটিংসমূহ কোনো নেটৱর্কৰ ড্ৰাইভত ষ্ট’ৰ কৰা হৈছে। ইয়াৰ ফলত আপোনাৰ কার্য লেহেমীয়া হ’ব পাৰে, ক্ৰেশ্ব হ’ব পাৰে বা আপুনি ডেটা হেৰুৱাব পাৰে।</translation>
@@ -2242,8 +2242,8 @@
 <translation id="4720113199587244118">ডিভাইচ যোগ কৰক</translation>
 <translation id="2776441542064982094">নেটৱর্কত পঞ্জীয়ন কৰিবলৈ কোনো ডিভাইচ নাই যেন লাগিছে। যদি আপোনাৰ ডিভাইচ অন আছে আৰু ইণ্টাৰনেটত সংযোগ হৈ আছে তেন্তে পৰামর্শ সম্পৰ্কীয় মেনুৱেলৰ পৰামর্শ ব্যৱহাৰ কৰি ইয়াক পঞ্জীয়ন কৰক।</translation>
 <translation id="1007408791287232274">ডিভাইচসমূহ ল’ড কৰিব পৰা নগ’ল৷</translation>
-<translation id="3886420006370338208">আপুনি নিজৰ ডিভাইচসমূহ চাবলৈ Dissenterত ছাইন ইন কৰিব লাগিব</translation>
-<translation id="6711610692002680394">আপুনি নতুন ডিভাইচসমূহ পঞ্জীকৰণ কৰিবলৈ Dissenterলৈ ছাইন ইন কৰিব লাগিব।</translation>
+<translation id="3886420006370338208">আপুনি নিজৰ ডিভাইচসমূহ চাবলৈ Fulldiveত ছাইন ইন কৰিব লাগিব</translation>
+<translation id="6711610692002680394">আপুনি নতুন ডিভাইচসমূহ পঞ্জীকৰণ কৰিবলৈ Fulldiveলৈ ছাইন ইন কৰিব লাগিব।</translation>
 <translation id="8931394284949551895">নতুন ডিভাইচ</translation>
 <translation id="3752673729237782832">মোৰ ডিভাইচবোৰ</translation>
 <translation id="1721937473331968728">আপুনি নিজৰ কম্পিউটাৰত সংযোগ কৰি থোৱা ক্লাছিক প্ৰিণ্টাৰসমূহ <ph name="CLOUD_PRINT_NAME"/>ত যোগ দিব পাৰে।</translation>
@@ -2316,7 +2316,7 @@
 <translation id="4540437243849625078">এই ছাইটটোৱে ইনক'গনিট' ম'ডৰ বাহিৰৰ এটা এপৰ সৈতে তথ্য শ্বেয়াৰ কৰিব ওলাইছে।</translation>
 <translation id="1227836882233136433">ইনক’গনিট’ ম’ডৰ পৰা বাহিৰ হ’বনে?</translation>
 <translation id="662080504995468778">ইয়াতে থাকক</translation>
-<translation id="2593289874938379417">অনুৰোধ জনোৱা সমললৈ Dissenterৰ এক্সেছ নাই।</translation>
+<translation id="2593289874938379417">অনুৰোধ জনোৱা সমললৈ Fulldiveৰ এক্সেছ নাই।</translation>
 <translation id="760197030861754408">সংযোগ কৰিবলৈ <ph name="LANDING_PAGE"/>লৈ যাওক।</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/>ক চিনাক্ত কৰা হ’ল</translation>
 <translation id="5042282098504489593"><ph name="USB_DEVICE_NAME"/>ক Linuxৰ সৈতে সংযুক্ত কৰিবলৈ ছেটিংসমূহ খোলক</translation>
@@ -2370,24 +2370,24 @@
 <translation id="2859806420264540918">এই ছাইটোৱে বিনা অনুমতিত বা কোনো বিভ্ৰান্তিকৰ বিজ্ঞাপন দেখুৱায়।</translation>
 <translation id="4077917118009885966">এই ছাইটটোত বিজ্ঞাপন অৱৰোধ কৰা হৈছে</translation>
 <translation id="6456955391422100996">বিজ্ঞাপন আঁতৰোৱা হ’ল।</translation>
-<translation id="7533556202636568669">এই বিজ্ঞাপনটোৱে আপোনাৰ ডিভাইচৰ অতি বেছি সমল ব্যৱহাৰ কৰে, সেয়ে Dissenterএ এইটো আঁতৰালে।</translation>
+<translation id="7533556202636568669">এই বিজ্ঞাপনটোৱে আপোনাৰ ডিভাইচৰ অতি বেছি সমল ব্যৱহাৰ কৰে, সেয়ে Fulldiveএ এইটো আঁতৰালে।</translation>
 <translation id="8497219075884839166">Windows সুবিধা</translation>
 <translation id="897525204902889653">পৃথক কৰি ৰখা সেৱা</translation>
 <translation id="7055152154916055070">পুনৰ নির্দেশ কৰাটো অৱৰোধ কৰা হৈছে</translation>
 <translation id="6777817260680419853">পুনৰ নির্দেশ কৰাটো অৱৰোধ কৰা হৈছে</translation>
 <translation id="694592694773692225">এই পৃষ্ঠাটোত ৰিডাইৰেক্টৰ সুবিধা অৱৰোধ কৰা আছে।</translation>
-<translation id="8945142681652245463">Gab AI Inc Dissenter ব্যৱহাৰ কৰি দ্ৰুতভাৱে ব্ৰাউজ কৰক</translation>
-<translation id="2618024864038703735">Gab AI Inc Dissenterৰ সহায়ত সুৰক্ষিতভাৱে ব্ৰাউজ কৰক</translation>
-<translation id="8142180567942285208">Dissenterৰ জৰিয়তে স্মার্ট পদ্ধতিৰে ব্ৰাউজ কৰক</translation>
+<translation id="8945142681652245463">Gab AI Inc Fulldive ব্যৱহাৰ কৰি দ্ৰুতভাৱে ব্ৰাউজ কৰক</translation>
+<translation id="2618024864038703735">Gab AI Inc Fulldiveৰ সহায়ত সুৰক্ষিতভাৱে ব্ৰাউজ কৰক</translation>
+<translation id="8142180567942285208">Fulldiveৰ জৰিয়তে স্মার্ট পদ্ধতিৰে ব্ৰাউজ কৰক</translation>
 <translation id="8862003515646449717">কোনো দ্ৰুত ব্ৰাউজাৰ ব্যৱহাৰ কৰক</translation>
 <translation id="8438328416656800239">কোনো স্মাৰ্ট ব্ৰাউজাৰ ব্যৱহাৰ কৰক</translation>
 <translation id="491691592645955587">কোনো সুৰক্ষিত ব্ৰাউজাৰলৈ সলনি কৰক</translation>
 <translation id="683373380308365518">স্মার্ট আৰু সুৰক্ষিত ব্ৰাউজাৰ ব্যৱহাৰ কৰক</translation>
-<translation id="989239400026154074">Gab AI Incএ Dissenter ব্যৱহাৰৰ চুপাৰিছ কৰে</translation>
-<translation id="6676231621615806698">Dissenter খোলক</translation>
+<translation id="989239400026154074">Gab AI Incএ Fulldive ব্যৱহাৰৰ চুপাৰিছ কৰে</translation>
+<translation id="6676231621615806698">Fulldive খোলক</translation>
 <translation id="5250372599208556903">আপোনাক <ph name="SEARCH_ENGINE_NAME"/>এ স্থানীয় সমল প্ৰদান কৰিবলৈ আপোনাৰ অৱস্থান ব্যৱহাৰ কৰে। আপুনি <ph name="SETTINGS_LINK"/>ত এয়া সলনি কৰিব পাৰে।</translation>
 <translation id="3737536731758327622">আপুনি কৰা ডাউনল'ডসমূহ ইয়াত প্ৰদর্শিত হ'ব</translation>
-<translation id="4782664866169793230">Dissenter স্বয়ংক্ৰিয় পৰীক্ষণ ছফ্টৱেৰৰ দ্বাৰা নিয়ন্ত্ৰণ কৰি থকা হৈছে।</translation>
+<translation id="4782664866169793230">Fulldive স্বয়ংক্ৰিয় পৰীক্ষণ ছফ্টৱেৰৰ দ্বাৰা নিয়ন্ত্ৰণ কৰি থকা হৈছে।</translation>
 <translation id="6721678857435001674">আপোনাৰ সুৰক্ষা সম্পৰ্কীয় চাবিৰ মেক আৰু ম’ডেল চাওক</translation>
 <translation id="1673137583248014546"><ph name="URL"/>এ আপোনাৰ সুৰক্ষা সম্পৰ্কীয় চাবিৰ মেক আৰু ম'ডেল চাব বিচাৰে</translation>
 <translation id="6010869025736512584">ভিডিঅ’ ইনপুট এক্সেছ কৰি আছে</translation>
@@ -2520,7 +2520,7 @@
 <translation id="3984431586879874039">এই ছাইটটোক আপোনাৰ সুৰক্ষা সম্পৰ্কীয় চাবিটো চাবলৈ অনুমতি দিবনে?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/>এ আপোনাৰ সুৰক্ষা সম্পৰ্কীয় চাবিৰ মেক আৰু ম'ডেল চাব বিচাৰিছে</translation>
 <translation id="7618452966706304788">আপুনি ইনক'গনিট' ম'ডত <ph name="APP_NAME"/>ৰ সৈতে স্পৰ্শ আইডিটো ব্যৱহাৰ কৰিবলৈ বিচাৰেনে?</translation>
-<translation id="3098826269712097986">আপুনি ইনক'গনিট' ম'ডৰ পৰা বাহিৰ ওলালে ছাইন ইনৰ লগত জড়িত ডেটা Dissenterত ষ্ট'ৰ কৰা হ'ব। এই কাৰ্যটোৱে আপোনাক এই ৱেবছাইটটোৰ সৈতে পাছত পুনৰ স্পৰ্শ আইডি ব্যৱহাৰ কৰিবলৈ দিব।</translation>
+<translation id="3098826269712097986">আপুনি ইনক'গনিট' ম'ডৰ পৰা বাহিৰ ওলালে ছাইন ইনৰ লগত জড়িত ডেটা Fulldiveত ষ্ট'ৰ কৰা হ'ব। এই কাৰ্যটোৱে আপোনাক এই ৱেবছাইটটোৰ সৈতে পাছত পুনৰ স্পৰ্শ আইডি ব্যৱহাৰ কৰিবলৈ দিব।</translation>
 <translation id="2172784515318616985">অব্যাহত ৰাখক</translation>
 <translation id="5186185447130319458">ইনক’গনিট’</translation>
 <translation id="7643842463591647490">{0,plural, =1{#খন খোলা ৱিণ্ড’}one{#খন খোলা ৱিণ্ড’}other{#খন খোলা ৱিণ্ড’}}</translation>
@@ -2562,7 +2562,7 @@
 <translation id="2346953515226895098">SODA সেৱা</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> পজ কৰা হৈছে</translation>
 <translation id="917350715406657904">আপোনাৰ অভিভাৱকে <ph name="APP_NAME"/>ৰ বাবে ছেট কৰা সীমাত আপুনি উপনীত হৈছে। আপুনি এইটো কাইলৈ <ph name="TIME_LIMIT"/>ৰ বাবে ব্যৱহাৰ কৰিব পাৰিব।</translation>
-<translation id="8891261408659902804">আপোনাৰ অভিভাৱকে <ph name="APP_NAME"/> Dissenter এপ্‌টোৰ বাবে ছেট কৰা সময়ৰ সীমাত আপুনি উপনীত হৈছে। আপুনি এইটো কাইলৈ <ph name="TIME_LIMIT"/>ৰ বাবে ব্যৱহাৰ কৰিব পাৰিব।</translation>
+<translation id="8891261408659902804">আপোনাৰ অভিভাৱকে <ph name="APP_NAME"/> Fulldive এপ্‌টোৰ বাবে ছেট কৰা সময়ৰ সীমাত আপুনি উপনীত হৈছে। আপুনি এইটো কাইলৈ <ph name="TIME_LIMIT"/>ৰ বাবে ব্যৱহাৰ কৰিব পাৰিব।</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> অৱৰোধ কৰা হৈছে</translation>
 <translation id="4404843640767531781">আপোনাৰ অভিভাৱকে <ph name="APP_NAME"/> অৱৰোধ কৰিছে। এই এপ্‌টো ব্যৱহাৰ কৰিবলৈ আপোনাৰ অভিভাৱকৰ পৰা অনুমতি বিচাৰক।</translation>
 <translation id="751523031290522286">প্ৰশাসকে <ph name="APP_NAME"/> অৱৰোধ কৰিছে। এই এপ্‌টো ব্যৱহাৰ কৰিবলৈ প্ৰশাসকৰ পৰা অনুমতি বিচাৰক।</translation>
@@ -2895,7 +2895,7 @@
 <translation id="672213144943476270">অতিথি হিচাপে ব্ৰাউজ কৰা আৰম্ভ কৰাৰ আগতে অনুগ্ৰহ কৰি আপোনাৰ প্ৰ'ফাইল আনলক কৰক।</translation>
 <translation id="8086119151297127544">কোনো ব্যক্তিক আঁতৰোৱাৰ পূর্বে আপোনাৰ প্ৰ‘ফাইল আনলক কৰক।</translation>
 <translation id="7805701378418968629">কোনো ব্যক্তিক যোগ কৰাৰ পূর্বে আপোনাৰ প্ৰ'ফাইল আনলক কৰক।</translation>
-<translation id="8978225823042133615">Dissenter ব্যৱহাৰ কৰিবলৈ ছাইন ইন কৰক</translation>
+<translation id="8978225823042133615">Fulldive ব্যৱহাৰ কৰিবলৈ ছাইন ইন কৰক</translation>
 <translation id="4893336867552636863">এই কাৰ্যই এই ডিভাইচটোৰ পৰা আপোনাৰ ব্ৰাউজিং ডেটা স্থায়ীভাৱে মচি পেলাব।</translation>
 <translation id="2496180316473517155">ব্ৰাউজিঙৰ ইতিহাস</translation>
 <translation id="6865313869410766144">স্বয়ংক্ৰিয়ভাৱে পূৰ কৰা ফৰ্মৰ ডেটা</translation>
@@ -2919,7 +2919,7 @@
 <translation id="9013707997379828817">আপোনাৰ প্ৰশাসকে এই ডিভাইচটো ৰ’লবেক কৰিছে। অনুগ্ৰহ কৰি প্ৰয়োজনীয় ফাইলসমূহ ছেভ কৰক আৰু ৰিষ্টাৰ্ট কৰক। এই ডিভাইচটোত থকা সকলো ডেটা মচা যাব।</translation>
 <translation id="5877064549588274448">চ্চেনেল সলনি কৰা হ'ল। সলনি কার্যসমূহ প্ৰয়োগ কৰিবলৈ আপোনাৰ ডিভাইচ ৰিষ্টার্ট কৰক।</translation>
 <translation id="4716483597559580346">অতিৰিক্ত সুৰক্ষাৰ বাবে পাৱাৰৱাশ্ব কৰক</translation>
-<translation id="4089922565956168950">আপগ্ৰে’ড কৰা এই কাৰ্যটোৱে আপোনাৰ Dissenterbook ৰিছেট কৰে আৰু ব্যৱহাৰকাৰীৰ বৰ্তমানৰ ডেটা আঁতৰ কৰে।</translation>
+<translation id="4089922565956168950">আপগ্ৰে’ড কৰা এই কাৰ্যটোৱে আপোনাৰ Fulldivebook ৰিছেট কৰে আৰু ব্যৱহাৰকাৰীৰ বৰ্তমানৰ ডেটা আঁতৰ কৰে।</translation>
 <translation id="3688526734140524629">চেনেল সলনি কৰক</translation>
 <translation id="6410328738210026208">চ্চেনেল আৰু পাৱাৰৱাশ্ব সলনি কৰক</translation>
 <translation id="1979280758666859181">আপুনি <ph name="PRODUCT_NAME"/>ৰ পুৰণি সংস্কৰণ থকা এটা চেনেললৈ সলনি কৰিবলৈ লৈছে। আপোনাৰ ডিভাইচত বৰ্তমান ইনষ্টল কৰি থোৱা চেনেলৰ সংস্কৰণৰ সৈতে সেই চেনেলৰ সংস্কৰণটো মিলিলে চেনেল সলনি কৰা হ’ব।</translation>
@@ -2951,7 +2951,7 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, লগতে আৰু ১টা একাউণ্ট}one{<ph name="EMAIL"/>, লগতে আৰু <ph name="EXTRA_ACCOUNTS"/>টা একাউণ্ট}other{<ph name="EMAIL"/>, লগতে আৰু <ph name="EXTRA_ACCOUNTS"/>টা একাউণ্ট}}</translation>
 <translation id="7434635829372401939">আপোনাৰ ছেটিংসমূহ ছিংক কৰক</translation>
 <translation id="1036348656032585052">অফ কৰক</translation>
-<translation id="3267705913905916810">আপোনাৰ এপ্‌ আৰু ছেটিংসমূহ সেই সকলো Dissenter OS ডিভাইচত ছিংক কৰা হ’ব য’ত আপুনি নিজৰ Gab AI Inc একাউণ্টেৰে ছাইন ইন কৰি থৈছে। ব্ৰাউজাৰ ছিংক কৰাৰ বিকল্পসমূহৰ বাবে <ph name="LINK_BEGIN"/>Dissenterৰ ছেটিংসমূহ<ph name="LINK_END"/>লৈ যাওক।</translation>
+<translation id="3267705913905916810">আপোনাৰ এপ্‌ আৰু ছেটিংসমূহ সেই সকলো Fulldive OS ডিভাইচত ছিংক কৰা হ’ব য’ত আপুনি নিজৰ Gab AI Inc একাউণ্টেৰে ছাইন ইন কৰি থৈছে। ব্ৰাউজাৰ ছিংক কৰাৰ বিকল্পসমূহৰ বাবে <ph name="LINK_BEGIN"/>Fulldiveৰ ছেটিংসমূহ<ph name="LINK_END"/>লৈ যাওক।</translation>
 <translation id="6985607387932385770">প্ৰিণ্টাৰ</translation>
 <translation id="8418661265246754237">Gab AI Inc একাউণ্টসমূহ</translation>
 <translation id="3953834000574892725">মোৰ একাউণ্টসমূহ</translation>
@@ -2998,7 +2998,7 @@
 <translation id="2187700606737131818">Gab AI Inc Photos</translation>
 <translation id="1827738518074806965">আর্ট গেলাৰী</translation>
 <translation id="9137157311132182254">অগ্ৰাধিকাৰপ্ৰাপ্ত সন্ধান ইঞ্জিন</translation>
-<translation id="7423118389528876103">Dissenter ব্ৰাউজাৰ আৰু <ph name="DEVICE_TYPE"/> লঞ্চাৰে ব্যৱহাৰ কৰে</translation>
+<translation id="7423118389528876103">Fulldive ব্ৰাউজাৰ আৰু <ph name="DEVICE_TYPE"/> লঞ্চাৰে ব্যৱহাৰ কৰে</translation>
 <translation id="2862205630718215619">Gab AI Inc Assistant</translation>
 <translation id="8959699239363253085">অন</translation>
 <translation id="971479617738309149">অফ</translation>
@@ -3018,15 +3018,15 @@
 <translation id="6644513150317163574">URLৰ ফর্মেট মান্য নহয়। SSO বিশ্বাসযোগ্যতা প্ৰমাণীকৰণ ব্যৱহাৰ কৰিলে ছার্ভাৰক হ’ষ্টৰ নাম হিচাপে নির্দিষ্ট কৰিবই লাগিব।</translation>
 <translation id="6091761513005122595">শ্বেয়াৰ সফলভাৱে মাউণ্ট কৰা হ’ল।</translation>
 <translation id="5770125698810550803">নেভিগেশ্বনৰ বুটামসমূহ দেখুৱাওক</translation>
-<translation id="2972318514147518075">টেবলেট ম’ডত বুটামৰ জৰিয়তে গৃহপৃষ্ঠালৈ নেভিগে’ট কৰক, উভতি যাওক আৰু এপ্‌সমূহ সলনি কৰক। DissenterVox অথবা স্বয়ংক্ৰিয় ক্লিক সক্ষম কৰিলে অন হয়।</translation>
+<translation id="2972318514147518075">টেবলেট ম’ডত বুটামৰ জৰিয়তে গৃহপৃষ্ঠালৈ নেভিগে’ট কৰক, উভতি যাওক আৰু এপ্‌সমূহ সলনি কৰক। FulldiveVox অথবা স্বয়ংক্ৰিয় ক্লিক সক্ষম কৰিলে অন হয়।</translation>
 <translation id="2558896001721082624">ছিষ্টেম মেনুত সাধ্য সুবিধাসমূহ সদায়েই দেখুৱাওক</translation>
 <translation id="2981113813906970160">ডাঙৰ মাউছ কাৰ্ছৰ দেখুৱাওক</translation>
 <translation id="5072052264945641674">কাৰ্ছৰৰ আকাৰ মিলাওক</translation>
 <translation id="4209092469652827314">ডাঙৰ</translation>
 <translation id="499165176004408815">উচ্চ বৈসাদৃশ্যৰ ম’ড ব্যৱহাৰ কৰক</translation>
 <translation id="142758023928848008">ষ্টিকী চাবি সক্ষম কৰক (সেইকেইটা একাদিক্ৰমে টাইপ কৰি কীব'ৰ্ডৰ শ্বৰ্টকাট সম্পাদন কৰিবলৈ)</translation>
-<translation id="5914872514449971753">DissenterVox সক্ষম কৰক (কথিত মতামত)</translation>
-<translation id="7099511550603534982">DissenterVox ছেটিং খোলক</translation>
+<translation id="5914872514449971753">FulldiveVox সক্ষম কৰক (কথিত মতামত)</translation>
+<translation id="7099511550603534982">FulldiveVox ছেটিং খোলক</translation>
 <translation id="8547013269961688403">সম্পূৰ্ণস্ক্ৰীণৰ বিৱৰ্ধক সক্ষম কৰক</translation>
 <translation id="8743390665131937741">সম্পূর্ণ স্ক্ৰীণৰ জুমৰ স্তৰ:</translation>
 <translation id="7334274148831027933">ড’ক কৰা পৰিৱৰ্ধক সক্ষম কৰক</translation>
@@ -3118,7 +3118,7 @@
 <translation id="6902066522699286937">পূৰ্বদৰ্শনৰ বাবে কণ্ঠস্বৰ</translation>
 <translation id="304747341537320566">কথন ইঞ্জিন</translation>
 <translation id="2755367719610958252">সাধ্য সুবিধাসমূহ পৰিচালনা কৰক</translation>
-<translation id="1203953622051744249">আপুনি ছাইন ইন কৰি থোৱা একাউণ্টসমূহ পৰিচালনা কৰক। Dissenter আৰু Gab AI Inc Playৰ ৱেবছাইট, এপ্‌ আৰু এক্সটেনশ্বনসমূহে অনুমতি সাপেক্ষে আপোনাৰ অভিজ্ঞতা কাষ্টমাইজ কৰিবলৈ এই একাউণ্টসমূহ ব্যৱহাৰ কৰিব পাৰে। <ph name="LINK_BEGIN"/>অধিক জানক<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">আপুনি ছাইন ইন কৰি থোৱা একাউণ্টসমূহ পৰিচালনা কৰক। Fulldive আৰু Gab AI Inc Playৰ ৱেবছাইট, এপ্‌ আৰু এক্সটেনশ্বনসমূহে অনুমতি সাপেক্ষে আপোনাৰ অভিজ্ঞতা কাষ্টমাইজ কৰিবলৈ এই একাউণ্টসমূহ ব্যৱহাৰ কৰিব পাৰে। <ph name="LINK_BEGIN"/>অধিক জানক<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">এটা বিদ্যালয়ৰ একাউণ্ট যোগ দিয়ক অথবা শিশুৰ একাউণ্টসমূহ ইয়াত পৰিচালনা কৰক। <ph name="LINK_BEGIN"/>অধিক জানক<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">একাউণ্টসমূহ</translation>
 <translation id="6597148444736186483">এই ডিভাইচটোৰ প্ৰাথমিক একাউণ্টটোৰ পৰা ছাইন আউট কৰিবলৈ আপোনাৰ স্ক্রীণত থকা সময়ত ক্লিক কৰক। তাত ওলোৱা মেনুখনৰ "ছাইন আউট কৰক"ত ক্লিক কৰক।</translation>
@@ -3190,7 +3190,7 @@
 <translation id="234889437187286781">ডেটা ল’ড কৰাত আসোঁৱাহ হৈছে</translation>
 <translation id="4660540330091848931">আকাৰ সলনি কৰি থকা হৈছে</translation>
 <translation id="1481537595330271162">ডিস্কৰ আকাৰ সলনি কৰাত আসোঁৱাহ হৈছে</translation>
-<translation id="2756917833575664962">ADB ডিবাগিং সক্ষম কৰিবলৈ এই Dissenterbookটো এবাৰ ফেক্টৰী ৰিছেট কৰা আৱশ্যক। <ph name="BEGIN_LINK_LEARN_MORE"/>অধিক জানক<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">ADB ডিবাগিং সক্ষম কৰিবলৈ এই Fulldivebookটো এবাৰ ফেক্টৰী ৰিছেট কৰা আৱশ্যক। <ph name="BEGIN_LINK_LEARN_MORE"/>অধিক জানক<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">ADB ডিবাগিং সক্ষম কৰিবলৈ এই <ph name="DEVICE_TYPE"/>টো এবাৰ ৰিষ্টাৰ্ট কৰা আৱশ্যক। ইয়াক অক্ষম কৰিবলৈ ফেক্টৰী ছেটিংসমূহলৈ ৰিছেট কৰা আৱশ্যক।</translation>
 <translation id="8082390128630131497">ADB ডিবাগিং অক্ষম কৰা কার্যই এই <ph name="DEVICE_TYPE"/>টো ফেক্টৰী ছেটিংসমূহলৈ ৰিছেট কৰিব। সকলো ব্যৱহাৰকাৰীৰ একাউণ্ট আৰু স্থানীয় ডেটা মচি পেলোৱা হ’ব।</translation>
 <translation id="7932969338829957666">শ্বেয়াৰ কৰা ফ'ল্ডাৰসমূহ Linuxৰ <ph name="BASE_DIR"/>ত উপলব্ধ।</translation>
@@ -3317,10 +3317,10 @@
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> আৰু উপলব্ধ নহয়</translation>
 <translation id="3976108569178263973">উপলব্ধ কোনো প্ৰিণ্টাৰ নাই।</translation>
 <translation id="217576141146192373">প্ৰিণ্টাৰটো যোগ কৰিব পৰা নগ’ল। অনুগ্ৰহ কৰি আপোনাৰ প্ৰিণ্টাৰটোৰ কনফিগাৰেশ্বন পৰীক্ষা কৰি পুনৰ চেষ্টা কৰক।</translation>
-<translation id="4052689580269971502">প্ৰিণ্টাৰৰ সৈতে সংযোগ কৰিব নোৱাৰি। প্ৰিণ্টাৰটো অন কৰা আছেনে আৰু ই ৱাই-ফাই বা ইউ.এছ.বি.ৰ জৰিয়তে আপোনাৰ Dissenterbookত সংযোগ হৈ আছেনে নাই চাওক।</translation>
+<translation id="4052689580269971502">প্ৰিণ্টাৰৰ সৈতে সংযোগ কৰিব নোৱাৰি। প্ৰিণ্টাৰটো অন কৰা আছেনে আৰু ই ৱাই-ফাই বা ইউ.এছ.বি.ৰ জৰিয়তে আপোনাৰ Fulldivebookত সংযোগ হৈ আছেনে নাই চাওক।</translation>
 <translation id="7099337801055912064">ডাঙৰ PPD ল‘ড কৰিব পৰা নগ‘ল। সৰ্বোচ্চ আকাৰ ২৫০ কেবি</translation>
 <translation id="4310139701823742692">ফাইলটো ভুল ফর্মেটত আছে। PPD ফাইলটো পৰীক্ষা কৰি পুনৰ চেষ্টা কৰক।</translation>
-<translation id="6580983683519551561">PPD বিচাৰি পোৱা নগ’ল। আপোনাৰ Dissenterbook অনলাইন হৈ থকাটো সুনিশ্চিত কৰি আকৌ চেষ্টা কৰক।</translation>
+<translation id="6580983683519551561">PPD বিচাৰি পোৱা নগ’ল। আপোনাৰ Fulldivebook অনলাইন হৈ থকাটো সুনিশ্চিত কৰি আকৌ চেষ্টা কৰক।</translation>
 <translation id="4694024090038830733">প্ৰশাসকৰ দ্বাৰা প্ৰিণ্টাৰ কনফিগাৰেচনৰ কাম পৰিচালিত হয়।</translation>
 <translation id="5816434091619127343">অনুৰোধ কৰা প্রিণ্টাৰৰ সালসলনিখিনিয়ে প্রিণ্টাৰটো অব্যৱহাৰযোগ্য কৰি পেলাব।</translation>
 <translation id="6504611359718185067">প্ৰিণ্টাৰ যোগ কৰিবলৈ ইণ্টাৰনেটৰ সৈতে সংযোগ কৰক</translation>
@@ -3655,18 +3655,18 @@
 <translation id="7770651108375708429">ৱাই-ফাইৰ সংযোগ বিচ্ছিন্ন কৰক</translation>
 <translation id="4168015872538332605"><ph name="PRIMARY_EMAIL"/>ৰ অন্তৰ্গত কিছুমান ছেটিং আপোনাৰ সৈতে শ্বেয়াৰ কৰা হৈছে৷ এই ছেটিংসমূহ আপোনাৰ একাউণ্টত তেতিয়াহে প্ৰভাৱিত হয় যেতিয়া একাধিক ছাইন ইনৰ ব্যৱহাৰ কৰা হয়৷</translation>
 <translation id="1485141095922496924">সংস্কৰণ <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">সকলো ব্যৱহাৰকাৰীৰ বাবে Dissenter স্বয়ংক্ৰিয়ভাৱে আপডে'ট কৰক</translation>
+<translation id="4570609078116869893">সকলো ব্যৱহাৰকাৰীৰ বাবে Fulldive স্বয়ংক্ৰিয়ভাৱে আপডে'ট কৰক</translation>
 <translation id="7102687220333134671">স্বয়ংক্ৰিয়ভাৱে হোৱা আপডে’টৰ সুবিধাটো অন কৰা হ’ল</translation>
 <translation id="6981982820502123353">সাধ্য সুবিধাসমূহ</translation>
-<translation id="5840822070878669614">Dissenter Web Store খোলক</translation>
+<translation id="5840822070878669614">Fulldive Web Store খোলক</translation>
 <translation id="6073903501322152803">সাধ্য সুবিধাসমূহ যোগ কৰক</translation>
 <translation id="7988355189918024273">সাধ্য সুবিধাবোৰ সক্ষম কৰক</translation>
-<translation id="5499063270485366718">যদি কোনো প্ৰতিচ্ছবিত উপযোগী বিৱৰণ নাই তেন্তে Dissenterএ আপোনাক সেয়া প্ৰদান কৰিবলৈ চেষ্টা কৰিব। বিৱৰণ সৃষ্টি কৰিবলৈ প্ৰতিচ্ছবি Gab AI Incলৈ প্ৰেৰণ কৰা হয়।</translation>
+<translation id="5499063270485366718">যদি কোনো প্ৰতিচ্ছবিত উপযোগী বিৱৰণ নাই তেন্তে Fulldiveএ আপোনাক সেয়া প্ৰদান কৰিবলৈ চেষ্টা কৰিব। বিৱৰণ সৃষ্টি কৰিবলৈ প্ৰতিচ্ছবি Gab AI Incলৈ প্ৰেৰণ কৰা হয়।</translation>
 <translation id="8957762313041272117">লাইভ কেপশ্বন</translation>
-<translation id="7075426315046750605">লাইভ কেপশ্বনৰ সুবিধাটোৱে মিডিয়াত থকা কণ্ঠধ্বনি চিনাক্ত কৰে আৰু Dissenterত প্লে' কৰা সকলো মিডিয়াৰ বাবে স্বয়ংক্ৰিয়ভাৱে কেপশ্বনসমূহ সৃষ্টি কৰে।</translation>
+<translation id="7075426315046750605">লাইভ কেপশ্বনৰ সুবিধাটোৱে মিডিয়াত থকা কণ্ঠধ্বনি চিনাক্ত কৰে আৰু Fulldiveত প্লে' কৰা সকলো মিডিয়াৰ বাবে স্বয়ংক্ৰিয়ভাৱে কেপশ্বনসমূহ সৃষ্টি কৰে।</translation>
 <translation id="572155275267014074">Android ছেটিংসমূহ</translation>
 <translation id="7201042526153088083">আপোনাৰ <ph name="DEVICE_TYPE"/>ত Gab AI Inc Playৰ পৰা এপ্‌ আৰু গে’মসমূহ ইনষ্টল কৰক। &lt;a target="_blank" href="<ph name="URL"/>"&gt;অধিক জানক&lt;/a&gt;</translation>
-<translation id="8039595758121742506">আপুনি Gab AI Inc Playৰ পৰা ডাউনল’ড কৰা এপ্‌সমূহ এই Dissenterbookৰ পৰা মচা হ’ব।
+<translation id="8039595758121742506">আপুনি Gab AI Inc Playৰ পৰা ডাউনল’ড কৰা এপ্‌সমূহ এই Fulldivebookৰ পৰা মচা হ’ব।
       <ph name="LINE_BREAKS1"/>
       আপুনি ক্ৰয় কৰা সমল যেনে চলচিত্ৰ, টিভিৰ অনুষ্ঠান, সংগীত, কিতাপ বা অন্য এপৰ ভিতৰত ক্ৰয় কৰিব পৰা বস্তুও মচা হ’ব পাৰে।
       <ph name="LINE_BREAKS2"/>
@@ -3680,7 +3680,7 @@
 <translation id="6006484371116297560">ধ্ৰূপদী</translation>
 <translation id="1795214765651529549">ক্লাছিক থীম ব্যৱহাৰ কৰক</translation>
 <translation id="2332742915001411729">ডিফ’ল্টলৈ ৰিছেট কৰক</translation>
-<translation id="8338457030135232378">Dissenter Colors</translation>
+<translation id="8338457030135232378">Fulldive Colors</translation>
 <translation id="827097179112817503">গৃহপৃষ্ঠালৈ যোৱা বুটামটো দেখুৱাওক</translation>
 <translation id="383007806262310953">বুকমাৰ্কৰ বাৰ দেখুৱাওক</translation>
 <translation id="3911824782900911339">নতুন টেবযুক্ত পৃষ্ঠা</translation>
@@ -3692,7 +3692,7 @@
 <translation id="1670399744444387456">প্ৰাথমিক</translation>
 <translation id="1763808908432309942">নতুন টেবত খোলে</translation>
 <translation id="6248988683584659830">সন্ধান সম্পৰ্কীয় ছেটিংসমূহ</translation>
-<translation id="883304095704384301">আপুনি বিচাৰি থকা সমল পোৱা নাই যদি <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Dissenterৰ সহায়<ph name="END_LINK_CHROMIUM"/>লৈ যাওক</translation>
+<translation id="883304095704384301">আপুনি বিচাৰি থকা সমল পোৱা নাই যদি <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldiveৰ সহায়<ph name="END_LINK_CHROMIUM"/>লৈ যাওক</translation>
 <translation id="6406708970972405507">ছেটিংসমূহ - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">উপ-পৃষ্ঠাৰ বুটাম</translation>
 <translation id="379509625511193653">অফ আছে</translation>
@@ -3878,7 +3878,7 @@
 <translation id="5468173180030470402">ফাইলৰ শ্বেয়াৰসমূহ বিচাৰি থকা হৈছে</translation>
 <translation id="3336664756920573711">আপোনাৰ Android ফ'নৰ জৰিয়তে নিজৰ <ph name="DEVICE_TYPE"/> আনলক কৰক</translation>
 <translation id="1164674268730883318"><ph name="DEVICE_TYPE"/>ৰ বাবে স্মার্ট লক অফ কৰিবনে?</translation>
-<translation id="2739030071582769583">যদি আপুনি <ph name="DEVICE_TYPE"/>ৰ স্মার্ট লক অফ কৰে তেন্তে আপুনি নিজৰ ফ’ন ব্যৱহাৰ কৰি আপোনাৰ Dissenter ডিভাইচসমূহ আনলক কৰিব নোৱাৰিব। আপুনি নিজৰ পাছৱর্ড টাইপ কৰিব লাগিব।</translation>
+<translation id="2739030071582769583">যদি আপুনি <ph name="DEVICE_TYPE"/>ৰ স্মার্ট লক অফ কৰে তেন্তে আপুনি নিজৰ ফ’ন ব্যৱহাৰ কৰি আপোনাৰ Fulldive ডিভাইচসমূহ আনলক কৰিব নোৱাৰিব। আপুনি নিজৰ পাছৱর্ড টাইপ কৰিব লাগিব।</translation>
 <translation id="4737715515457435632">কোনো নেটৱৰ্কৰ সৈতে সংযোগ কৰক</translation>
 <translation id="5425722269016440406">Smart Lock অফ কৰিবলৈ হ’লে আপুনি অনলাইন হ’বই লাগিব কাৰণ এই ছেটিংটো আপোনাৰ ফ’নৰ সৈতে আৰু অন্য ডিভাইচৰ সৈতে ছিংক কৰা আছে। অনুগ্ৰহ কৰি প্ৰথমতে এটা নেটৱৰ্কৰ সৈতে সংযোগ কৰক।</translation>
 <translation id="8885197664446363138">স্মাৰ্ট লক উপলব্ধ নহয়</translation>
@@ -4112,20 +4112,20 @@
 <translation id="3633309367764744750">পৃষ্ঠাসমূহৰ পৰা আগতীয়াকৈ তথ্য আহৰণ কৰক, য’ত আপুনি এই পৰ্যন্ত নোচোৱা পৃষ্ঠাও অন্তৰ্ভুক্ত। আহৰণ কৰা তথ্যত কুকিও থাকিব পাৰে, যদিহে আপুনি কুকিৰ অনুমতি দিয়ে।</translation>
 <translation id="3201899458094819285">সুৰক্ষিত ব্ৰাউজিং (আপোনাৰ ডিভাইচটোক বিপজ্জনক ছাইটৰ পৰা সুৰক্ষা প্ৰদান কৰে)</translation>
 <translation id="2876369937070532032">আপোনাৰ সুৰক্ষা বিপদাপন্ন হ'লে আপুনি চোৱা কিছুমান পৃষ্ঠাৰ URLসমূহ Gab AI Incলৈ পঠিয়ায়</translation>
-<translation id="4991384657077828949">Dissenterৰ সুৰক্ষা উন্নত কৰাত সহায় কৰক</translation>
+<translation id="4991384657077828949">Fulldiveৰ সুৰক্ষা উন্নত কৰাত সহায় কৰক</translation>
 <translation id="1984646864943401749">নতুন ভাবুকিবোৰ বিচাৰি পোৱাত আৰু ৱেবত থকা সকলোকে সুৰক্ষিত কৰাত সহায় কৰিবলৈ আপুনি চোৱা কিছুমান পৃষ্ঠাৰ URLসমূহ, সীমিত ছিষ্টেমৰ তথ্য আৰু কিছুমান পৃষ্ঠাৰ সমল Gab AI Incলৈ পঠিয়ায়।</translation>
 <translation id="1641113438599504367">সুৰক্ষিত ব্ৰাউজিং</translation>
 <translation id="6900532703269623216">বৰ্ধিত সুৰক্ষা</translation>
 <translation id="7307583170263691471">ক্ষতিকাৰক হিচাপে জনাজাত ৱেবছাইট, ডাউনল'ড আৰু এক্সটেনশ্বনসমূহৰ পৰা ক্ষিপ্ৰ, আগতীয়া সুৰক্ষা। পাছৱর্ড ফাদিল হোৱা সম্পর্কে আপোনাক সকীয়নি দিয়ে। Gab AI Incলৈ পঠিয়াবলৈ ব্ৰাউজিং ডেটাৰ আৱশ্যক হয়।</translation>
 <translation id="8645920082661222035">বিপজ্জনক ঘটনাবোৰৰ সম্পর্কে অনুমান কৰে আৰু সেইবোৰ ঘটাৰ পূর্বে আপোনাক সকীয়নি দিয়ে</translation>
-<translation id="5265419033369521352">আপোনাক Dissenterত সুৰক্ষিত কৰি ৰাখে আৰু আপুনি ছাইন ইন হৈ থকা সময়ত অন্য Gab AI Inc এপ্‌সমূহত আপোনাৰ সুৰক্ষা উন্নত কৰিবলৈ ব্যৱহাৰ কৰিব পাৰে</translation>
+<translation id="5265419033369521352">আপোনাক Fulldiveত সুৰক্ষিত কৰি ৰাখে আৰু আপুনি ছাইন ইন হৈ থকা সময়ত অন্য Gab AI Inc এপ্‌সমূহত আপোনাৰ সুৰক্ষা উন্নত কৰিবলৈ ব্যৱহাৰ কৰিব পাৰে</translation>
 <translation id="6770602306803890733">আপোনাৰ লগতে ৱেবত থকা প্ৰত্যেকজনৰ বাবে সুৰক্ষা উন্নত কৰে</translation>
 <translation id="3690369331356918524">কোনো ডেটা উলংঘনৰ ফলত পাছৱৰ্ডসমূহ ফাদিল হ’লে আপোনাক সকীয়নি দিয়ে</translation>
 <translation id="4979281249641199724">URLসমূহ পৰীক্ষা কৰিবলৈ সুৰক্ষিত ব্ৰাউজিঙলৈ পঠিয়ায়। নতুন ভাবুকিবোৰ বিচাৰি পোৱাত সহায় কৰিবলৈ পৃষ্ঠাসমূহৰ এটা সৰু আর্হি, ডাউনল'ডসমূহ, এক্সটেনশ্বনৰ কার্যকলাপ আৰু ছিষ্টেমৰ তথ্যও পঠিয়ায়। আপুনি ছাইন ইন হৈ থকা অৱস্থাত আপোনাক সমগ্ৰ Gab AI Inc এপ্‌সমূহত সুৰক্ষা প্ৰদান কৰিবলৈ এই ডেটাখিনি অস্থায়ীভাৱে আপোনাৰ Gab AI Inc একাউণ্টৰ সৈতে লিংক কৰে।</translation>
 <translation id="1963976881984600709">মানক সুৰক্ষা</translation>
 <translation id="6882836635272038266">ক্ষতিকাৰক হিচাপে জনাজাত ৱেবছাইট, ডাউনল'ড আৰু এক্সটেনশ্বনসমূহৰ পৰা উন্নত সুৰক্ষা।</translation>
 <translation id="5561162485081632007">বিপজ্জনক ঘটনাবোৰ চিনাক্ত কৰে আৰু সেইবোৰ ঘটাৰ সময়ত আপোনাক সকীয়নি দিয়ে</translation>
-<translation id="7810992039564280750">Dissenterত ষ্ট'ৰ কৰি ৰখা অসুৰক্ষিত ছাইটসমূহৰ এখন সূচীৰ সৈতে URLসমূহ পৰীক্ষা কৰে। যদি কোনোবা ছাইটে আপোনাৰ পাছৱর্ড চুৰি কৰিবলৈ চেষ্টা কৰে অথবা আপুনি কোনো ক্ষতিকাৰক ফাইল ডাউনল'ড কৰাৰ সময়ত Dissenterএ পৃষ্ঠাৰ সমলৰ বিটসমূহকে ধৰি URLসমূহ সুৰক্ষিত ব্ৰাউজিঙলৈ পঠিয়াব পাৰে।</translation>
+<translation id="7810992039564280750">Fulldiveত ষ্ট'ৰ কৰি ৰখা অসুৰক্ষিত ছাইটসমূহৰ এখন সূচীৰ সৈতে URLসমূহ পৰীক্ষা কৰে। যদি কোনোবা ছাইটে আপোনাৰ পাছৱর্ড চুৰি কৰিবলৈ চেষ্টা কৰে অথবা আপুনি কোনো ক্ষতিকাৰক ফাইল ডাউনল'ড কৰাৰ সময়ত Fulldiveএ পৃষ্ঠাৰ সমলৰ বিটসমূহকে ধৰি URLসমূহ সুৰক্ষিত ব্ৰাউজিঙলৈ পঠিয়াব পাৰে।</translation>
 <translation id="3847319713229060696">প্ৰত্যেকজন বাবে ৱেবত সুৰক্ষা উন্নত কৰাত সহায় কৰক</translation>
 <translation id="1984417487208496350">কোনো সুৰক্ষা নাই (চুপাৰিছ কৰা নহয়)</translation>
 <translation id="1295971429974142731">আপোনাক বিপজ্জনক ৱেবছাইট, ডাউনল’ড অথবা এক্সটেনশ্বনসমূহৰ পৰা সুৰক্ষা প্ৰদান নকৰে। Gmail আৰু Searchৰ দৰে অন্য Gab AI Inc সেৱাসমূহ, য’ত সুৰক্ষিত ব্ৰাউজিঙৰ সুবিধাটো উপলব্ধ, সেইবিলাকত আপুনি তথাপি এই সুবিধাটো পাব।</translation>
@@ -4181,7 +4181,7 @@
 <translation id="8632933437936028548">ছেটিংসমূহ ৰিছেট কৰক</translation>
 <translation id="5293170712604732402">ছেটিংসমূহক নিজৰ প্ৰকৃত ডিফ’ল্টলৈ পুনৰুদ্ধাৰ কৰক</translation>
 <translation id="892706138619340876">কিছুমান ছেটিং ৰিছেট কৰা হৈছে</translation>
-<translation id="2334029754052191847">Dissenterএ আপোনাৰ ডিভাইচৰ কিছুমান ছেটিং অন্য এটা প্ৰ’গ্ৰেমে বিকল কৰিছে বুলি ধৰা পেলাইছে আৰু সেইসমূহ প্ৰকৃত ডিফ’ল্টলৈ ৰিছেট কৰিছে।</translation>
+<translation id="2334029754052191847">Fulldiveএ আপোনাৰ ডিভাইচৰ কিছুমান ছেটিং অন্য এটা প্ৰ’গ্ৰেমে বিকল কৰিছে বুলি ধৰা পেলাইছে আৰু সেইসমূহ প্ৰকৃত ডিফ’ল্টলৈ ৰিছেট কৰিছে।</translation>
 <translation id="4582563038311694664">সকলো ছেটিং ৰিছেট কৰক</translation>
 <translation id="4146785383423576110">ৰিছেট কৰক আৰু ক্ষতিকাৰক ছফ্টৱেৰ মচক</translation>
 <translation id="2603115962224169880">কম্পিউটাৰৰ ডেটা মচক</translation>
@@ -4250,7 +4250,7 @@
 <translation id="5340638867532133571">পৰিশোধৰ নিয়ন্ত্ৰক ইনষ্টল কৰিবলৈ ছাইটসমূহক অনুমতি দিয়ক(চুপাৰিছ কৰা)</translation>
 <translation id="763632859238619983">পৰিশোধ হেণ্ডেলাৰ ইনষ্টল কৰিবলৈ কোনো ছাইটক অনুমতি নিদিব</translation>
 <translation id="8270242299912238708">PDF নথিপত্ৰসমূহ</translation>
-<translation id="539658326146969381">PDF ফাইলসমূহ Dissenterত স্বয়ংক্ৰিয়ভাৱে খোলাৰ সলনি ডাউনল’ড কৰক</translation>
+<translation id="539658326146969381">PDF ফাইলসমূহ Fulldiveত স্বয়ংক্ৰিয়ভাৱে খোলাৰ সলনি ডাউনল’ড কৰক</translation>
 <translation id="4434045419905280838">পপ-আপ আৰু পুনৰ নির্দেশ</translation>
 <translation id="6612358246767739896">সুৰক্ষিত সমল</translation>
 <translation id="4252852543720145436">সুৰক্ষিত সমল চিনাক্তকাৰী</translation>
@@ -4311,7 +4311,7 @@
 <translation id="2913331724188855103">ছাইটসমূহক কুকি ডেটা ছেভ কৰিবলৈ আৰু পঢ়িবলৈ অনুমতি দিয়ক (আমি চুপাৰিছ কৰোঁ)</translation>
 <translation id="5908769186679515905">ছাইটসমূহে Flash চলোৱা কার্য অৱৰোধ কৰক</translation>
 <translation id="783214144752121388">ছাইটসমূহে Flash চলোৱা কার্য অৱৰোধ কৰক(চুপাৰিছ কৰা)</translation>
-<translation id="6096007141921397775">আপুনি Dissenter বন্ধ নকৰা পর্যন্ত আপোনাৰ ফ্লেশ্ব ছেটিং ৰখা হ'ব।</translation>
+<translation id="6096007141921397775">আপুনি Fulldive বন্ধ নকৰা পর্যন্ত আপোনাৰ ফ্লেশ্ব ছেটিং ৰখা হ'ব।</translation>
 <translation id="8074127646604999664">শেহতীয়াকৈ বন্ধ কৰা ছাইটক ডেটা পঠিওৱা আৰু গ্ৰহণ কৰা কাৰ্যটো সম্পূৰ্ণ কৰিব দিয়ক</translation>
 <translation id="7062222374113411376">শেহতীয়াকৈ বন্ধ কৰা ছাইটবোৰক পঠিওৱা আৰু ডেটা গ্ৰহণ কৰা সম্পূর্ণ কৰিবলৈ অনুমতি দিয়ক (চুপাৰিছ কৰা)</translation>
 <translation id="5068918910148307423">শেহতীয়াকৈ বন্ধ কৰা ছাইটসমূহক ডেটা গ্ৰহণ কৰা আৰু পঠিওৱাটো সম্পূর্ণ কৰিবলৈ অনুমতি নিদিব</translation>
@@ -4390,7 +4390,7 @@
 <translation id="5566692924079383101">আপুনি বৰ্তমানৰ ইনক’গনিট’ ছেশ্বনটোৰ পৰা বাহিৰ ওলালে এই ব্যতিক্ৰমটো স্বয়ংক্ৰিয়ভাৱে আঁতৰোৱা হ’ব</translation>
 <translation id="383891835335927981">কোনো ছাইট জুম ইন বা আউট কৰা হোৱা নাই</translation>
 <translation id="3566721612727112615">কোনো ছাইট যোগ কৰা হোৱা নাই</translation>
-<translation id="8098574385249290065">ছাইটসমূহে কেতিয়া ধ্বনি বজাব পাৰিব সেয়া Dissenterক বাছনি কৰিবলৈ দিয়ক (আমি চুপাৰিছ কৰোঁ)</translation>
+<translation id="8098574385249290065">ছাইটসমূহে কেতিয়া ধ্বনি বজাব পাৰিব সেয়া Fulldiveক বাছনি কৰিবলৈ দিয়ক (আমি চুপাৰিছ কৰোঁ)</translation>
 <translation id="4354344420232759511">আপুনি চোৱা ছাইটসমূহ ইয়াত দেখা যাব</translation>
 <translation id="3757733214359997190">কোনো ছাইট বিচাৰি পোৱা নগ’ল</translation>
 <translation id="6545864417968258051">ব্লুটুথ স্কেনিং</translation>
@@ -4403,7 +4403,7 @@
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">এটা ছাইট যোগ দিয়ক</translation>
 <translation id="5052499409147950210">ছাইট সম্পাদনা কৰক</translation>
-<translation id="4610862967073369855">আপোনাৰ ফনৰ পৰা Dissenterbookলৈ পাঠ ৰিলে’ কৰিবলৈ Android Messagesক অনুমতি দিয়ে</translation>
+<translation id="4610862967073369855">আপোনাৰ ফনৰ পৰা Fulldivebookলৈ পাঠ ৰিলে’ কৰিবলৈ Android Messagesক অনুমতি দিয়ে</translation>
 <translation id="6742339027238151589">স্ক্ৰিপ্টত এক্সেছ কৰিব পৰা</translation>
 <translation id="361106536627977100">Flashৰ ডেটা</translation>
 <translation id="8557930019681227453">মেনিফেষ্ট</translation>
@@ -4480,23 +4480,23 @@
 <translation id="3817524650114746564">আপোনাৰ কম্পিউটাৰৰ প্ৰ’ক্সি ছেটিংসমূহ খোলক</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/>এ এটা এক্সটেনশ্বন প্ৰক্সি ছেটিংসমূহ ব্যৱহাৰ কৰি আছে</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/>এ আপোনাৰ প্ৰশাসকৰ পৰা প্ৰক্সি ছেটিংসমূহ ব্যৱহাৰ কৰি আছে</translation>
-<translation id="6187156085111579405">এই সূচীত নথকা বস্তুবোৰো প্ৰয়োজন হ’লে আঁতৰোৱা হ’ব। &lt;a href="<ph name="URL"/>"&gt;অনাকাংক্ষিত ছফ্‌টৱেৰ পৰা সুৰক্ষা&lt;/a&gt;ৰ বিষয়ে Dissenter গোপনীয়তা শ্বেতপত্ৰৰ পৰা অধিক জানক।</translation>
+<translation id="6187156085111579405">এই সূচীত নথকা বস্তুবোৰো প্ৰয়োজন হ’লে আঁতৰোৱা হ’ব। &lt;a href="<ph name="URL"/>"&gt;অনাকাংক্ষিত ছফ্‌টৱেৰ পৰা সুৰক্ষা&lt;/a&gt;ৰ বিষয়ে Fulldive গোপনীয়তা শ্বেতপত্ৰৰ পৰা অধিক জানক।</translation>
 <translation id="5280174558369304332">আঁতৰ হ'বলগীয়া এক্সটেনশ্বনসমূহ:</translation>
 <translation id="7712836429117959503"><ph name="EXTENSION_ID"/> আইডি থকা এক্সটেনশ্বনটো অজ্ঞাত</translation>
 <translation id="3281892622610078515">পৃথক কৰিবলগীয়া ফাইল আৰু প্ৰ’গ্ৰামসমূহ:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{১ টা বস্তু}one{{NUM_ITEMS} টা বস্তু}other{{NUM_ITEMS} টা বস্তু}}</translation>
 <translation id="7187428571767585875">আঁতৰাব বা সলাবলগীয়া পঞ্জীয়নকৰণৰ অন্তৰ্ভুক্তিসমূহ:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{আৰু ১ টা}one{আৰু {NUM_DOWNLOADS} টা}other{আৰু {NUM_DOWNLOADS} টা}}</translation>
-<translation id="2749608811030566578">Dissenterএ ক্ষতিকাৰক ছফৱেট আঁতৰাই থাকোঁতে কিবা আসোঁৱাহ হৈছে</translation>
-<translation id="8189483132214844139">Dissenterএ আপোনাৰ কম্পিউটাৰত ক্ষতিকাৰক ছফ্‌টৱেৰ বিচাৰি ইয়াক আঁতৰাব পাৰে</translation>
+<translation id="2749608811030566578">Fulldiveএ ক্ষতিকাৰক ছফৱেট আঁতৰাই থাকোঁতে কিবা আসোঁৱাহ হৈছে</translation>
+<translation id="8189483132214844139">Fulldiveএ আপোনাৰ কম্পিউটাৰত ক্ষতিকাৰক ছফ্‌টৱেৰ বিচাৰি ইয়াক আঁতৰাব পাৰে</translation>
 <translation id="1426870617281699524">‘পুনৰ চেষ্টা কৰক'ত ক্লিক কৰক আৰু আপোনাৰ কম্পিউটাৰৰ প্ৰম্প্‌টো গ্ৰহণ কৰক</translation>
-<translation id="7886744396008377537">আপোনাৰ কম্পিউটাৰত ক্ষতিকাৰক ছফ্টৱেৰ আছে। Dissenterএ এয়া আঁতৰাই আছে, আপোনাৰ ছেটিংসমূহ পুনৰুদ্ধাৰ কৰি আছে আৰু এক্সটেনশ্বনসমূহ অক্ষম কৰি আছে। এই কার্যৰ ফলত আপোনাৰ ব্ৰাউজাৰে পুনৰ স্বাভাৱিকভাৱে কাম কৰিব।</translation>
-<translation id="1484912962860902625">Dissenterএ ক্ষতিকাৰক ছফ্টৱেৰ সন্ধান কৰি থকাৰ সময়ত কিবা আসোঁৱাহ হৈছে</translation>
+<translation id="7886744396008377537">আপোনাৰ কম্পিউটাৰত ক্ষতিকাৰক ছফ্টৱেৰ আছে। Fulldiveএ এয়া আঁতৰাই আছে, আপোনাৰ ছেটিংসমূহ পুনৰুদ্ধাৰ কৰি আছে আৰু এক্সটেনশ্বনসমূহ অক্ষম কৰি আছে। এই কার্যৰ ফলত আপোনাৰ ব্ৰাউজাৰে পুনৰ স্বাভাৱিকভাৱে কাম কৰিব।</translation>
+<translation id="1484912962860902625">Fulldiveএ ক্ষতিকাৰক ছফ্টৱেৰ সন্ধান কৰি থকাৰ সময়ত কিবা আসোঁৱাহ হৈছে</translation>
 <translation id="451407183922382411"><ph name="COMPANY_NAME"/>ৰ দ্বাৰা সঞ্চালিত</translation>
 <translation id="5254368820972107711">আঁতৰাব লগা ফাইলসমূহ দেখুৱাওক</translation>
 <translation id="296026337010986570">হ’ল! ক্ষতিকাৰক ছফ্টৱেৰ আঁতৰোৱা হ’ল। এক্সটেনশ্বন পুনৰাই অন কৰিবলৈ &lt;a href="chrome://extensions"&gt;Extensions&lt;/a&gt;লৈ যাওক।</translation>
 <translation id="284975061945174219">পৰিষ্কাৰ কৰিব পৰা নগ’ল</translation>
-<translation id="9014750448058570312">অব্যাহত ৰাখিবলৈ Dissenterক অনুমতিৰ প্ৰয়োজন হয়</translation>
+<translation id="9014750448058570312">অব্যাহত ৰাখিবলৈ Fulldiveক অনুমতিৰ প্ৰয়োজন হয়</translation>
 <translation id="1852141627593563189">অনিষ্টকাৰী ছফ্টৱেৰ বিচাৰক</translation>
 <translation id="850875081535031620">কোনো ক্ষতিকাৰক ছফ্টৱেৰ পোৱা নগ'ল</translation>
 <translation id="1186771945450942097">ক্ষতিকাৰক ছফ্টৱেৰ আঁতৰাওক</translation>
@@ -4509,7 +4509,7 @@
 <translation id="6555810572223193255">বর্তমান মচিব নোৱাৰি</translation>
 <translation id="7117228822971127758">অনুগ্ৰহ কৰি পিছত পুনৰ চেষ্টা কৰক</translation>
 <translation id="443475966875174318">অমিল এপ্লিকেশ্বনসমূহ আপডে’ট কৰক বা আঁতৰাওক</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{এই এপ্লিকেশ্বনটোৱে Dissenterক সঠিকভাৱে কাম কৰাৰ পৰা বাধা প্ৰদান কৰিব পাৰে৷}one{এই এপ্লিকেশ্বনসমূহে Dissenterক সঠিকভাৱে কাম কৰাৰ পৰা বাধা প্ৰদান কৰিব পাৰে৷}other{এই এপ্লিকেশ্বনসমূহে Dissenterক সঠিকভাৱে কাম কৰাৰ পৰা বাধা প্ৰদান কৰিব পাৰে৷}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{এই এপ্লিকেশ্বনটোৱে Fulldiveক সঠিকভাৱে কাম কৰাৰ পৰা বাধা প্ৰদান কৰিব পাৰে৷}one{এই এপ্লিকেশ্বনসমূহে Fulldiveক সঠিকভাৱে কাম কৰাৰ পৰা বাধা প্ৰদান কৰিব পাৰে৷}other{এই এপ্লিকেশ্বনসমূহে Fulldiveক সঠিকভাৱে কাম কৰাৰ পৰা বাধা প্ৰদান কৰিব পাৰে৷}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{আপুনি যাতে ৱেবত ব্ৰাউজ কৰি থাকিব পাৰে সেইটো সুনিশ্চিত কৰিবলৈ আপোনাৰ প্ৰশাসকক এই এপ্লিকেশ্বনটো আঁতৰাবলৈ কওক।}one{আপুনি যাতে ৱেবত ব্ৰাউজ কৰি থাকিব পাৰে সেইটো সুনিশ্চিত কৰিবলৈ আপোনাৰ প্ৰশাসকক এই এপ্লিকেশ্বনবোৰ আঁতৰাবলৈ কওক।}other{আপুনি যাতে ৱেবত ব্ৰাউজ কৰি থাকিব পাৰে সেইটো সুনিশ্চিত কৰিবলৈ আপোনাৰ প্ৰশাসকক এই এপ্লিকেশ্বনবোৰ আঁতৰাবলৈ কওক।}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>এপ্লিকেশ্বনসমূহ কেনেদৰে আপডে’ট কৰে সেয়া জানক<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{এপ্লিকেশ্বন}one{এপ্লিকেশ্বন}other{এপ্লিকেশ্বন}}</translation>
@@ -4592,12 +4592,12 @@
 <translation id="284843628681142937">আপুনি চোৱা পৃষ্ঠাসমূহৰ URL Gab AI Incলৈ পঠিওৱা হয়</translation>
 <translation id="7704317875155739195">স্বয়ংক্রিয়ভাৱে সম্পূৰ্ণ হোৱা সন্ধান আৰু URL</translation>
 <translation id="2000419248597011803">আপোনাৰ ডিফ’ল্ট সন্ধান ইঞ্জিনলৈ ঠিকনা বাৰ আৰু সন্ধান বাকছৰ পৰা কিছুমান কুকি আৰু সন্ধান পঠিয়ায়</translation>
-<translation id="918192811481327695">Dissenterৰ সুবিধা আৰু প্ৰদৰ্শন উন্নত কৰাত সহায় কৰক</translation>
+<translation id="918192811481327695">Fulldiveৰ সুবিধা আৰু প্ৰদৰ্শন উন্নত কৰাত সহায় কৰক</translation>
 <translation id="9063160602596686558">Gab AI Incলৈ স্বয়ংক্ৰিয়ভাৱে ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্ব ৰিপ’ৰ্ট পঠিয়াই</translation>
 <translation id="4534361985432360439">আপুনি খুলিবলৈ চেষ্টা কৰি থকা পৃষ্ঠাটোৰ ৱেব ঠিকনাটো Gab AI Incলৈ পঠিয়ায়</translation>
 <translation id="3831436149286513437">Gab AI Inc Driveৰ সন্ধানৰ পৰামৰ্শ</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/>ত ছিংক কৰি থকা হৈছে</translation>
-<translation id="9125982323641182972">Dissenterত Gab AI Incৰ সেৱা পাওক</translation>
+<translation id="9125982323641182972">Fulldiveত Gab AI Incৰ সেৱা পাওক</translation>
 <translation id="2537178555904266562">পাছৱৰ্ডসমূহ ছিংক কৰাত আসোঁৱাহ হৈছে</translation>
 <translation id="4314815835985389558">ছিংক পৰিচালনা কৰক</translation>
 <translation id="8931475688782629595">আপুনি যি ছিংক কৰে সেয়া পৰিচালনা কৰক</translation>
@@ -4615,7 +4615,7 @@
 <translation id="1651008383952180276">আপুনি একেটা পাছফ্ৰেজ দুবাৰ দিবই লাগিব</translation>
 <translation id="988978206646512040">খালী পাছফ্ৰেজৰ অনুমতি নাই</translation>
 <translation id="2136476978468204130">আপুনি দিয়া পাছফ্রেজটো ভুল</translation>
-<translation id="7505421639213002314">Dissenter ছিংকৰ ডেটা</translation>
+<translation id="7505421639213002314">Fulldive ছিংকৰ ডেটা</translation>
 <translation id="452750746583162491">আপোনাৰ ছিংক কৰা ডেটা পর্যালোচনা কৰক</translation>
 <translation id="7956662517480676674">ছিংক আৰু Gab AI Inc সেৱা</translation>
 <translation id="7772032839648071052">পাছফ্ৰেজ নিশ্চিত কৰক</translation>
@@ -4703,7 +4703,7 @@
 <translation id="7235716375204803342">কার্যকলাপসমূহ আহৰণ কৰি থকা হৈছে...</translation>
 <translation id="8314381333424235892">এক্সটেনশ্বনটো নাই আনইনষ্টল কৰা হৈছে</translation>
 <translation id="7647403192093989392">কোনো শেহতীয়া কাৰ্যকলাপ নাই</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Dissenter Web Store<ph name="END_LINK"/>ত এক্সটেনশ্বন আৰু থীমসমূহ পাওক</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Fulldive Web Store<ph name="END_LINK"/>ত এক্সটেনশ্বন আৰু থীমসমূহ পাওক</translation>
 <translation id="7272674038937250585">কোনো বিৱৰণ নাই</translation>
 <translation id="3855441664322950881">এক্সটেনশ্বন পেক কৰক</translation>
 <translation id="2958721676848865875">পেক এক্সটেনশ্বনৰ সতৰ্কবাণী</translation>
@@ -4714,7 +4714,7 @@
 <translation id="1992397118740194946">ছেট কৰা হোৱা নাই</translation>
 <translation id="6706210727756204531">স্ক'প</translation>
 <translation id="5532223876348815659">গ্ল’বেল</translation>
-<translation id="300669147395456190">Dissenterৰ এপ্‌</translation>
+<translation id="300669147395456190">Fulldiveৰ এপ্‌</translation>
 <translation id="6787839852456839824">কীব’ৰ্ডৰ শ্বৰ্টকাটসমূহ</translation>
 <translation id="6419546358665792306">আনপেক কৰি থোৱা এক্সটেনশ্বন ল’ড কৰক</translation>
 <translation id="8023801379949507775">এতিয়াই এক্সটেনশ্বন আপডে'ট কৰক</translation>
@@ -4728,13 +4728,13 @@
 <translation id="8447409163267621480">হয় Ctrl নহয় Alt অন্তৰ্ভুক্ত কৰক</translation>
 <translation id="3365598184818502391">হয় Ctrl নহয় Alt ব্যৱহাৰ কৰক</translation>
 <translation id="1688935057616748272">এটা বৰ্ণ টাইপ কৰক</translation>
-<translation id="1579879232130925590">এটা শক্তিশালী, সুখী Dissenter</translation>
+<translation id="1579879232130925590">এটা শক্তিশালী, সুখী Fulldive</translation>
 <translation id="964057662886721376">কিছুমান এক্সটেনশ্বনে আপোনাৰ কাৰ্য লেহেমীয়া কৰিব পাৰে - বিশেষকৈ আপুনি ইনষ্টল কৰিবলৈ নিবিচৰাসমূহ।</translation>
 <translation id="1499271269825557605">আপুনি যদি কোনো এক্সটেনশ্বন চিনাক্ত কৰিব পৰা নাই অথবা আপোনাৰ ব্ৰাউজাৰটোৱে আশা কৰা ধৰণে কাম কৰা নাই, আপুনি ইয়াত এক্সটেনশ্বনসমূহ অফ অথবা কাষ্টমাইজ কৰিব পাৰে।</translation>
 <translation id="2382818385048255866">আপোনাৰ এক্সটেনশ্বনসমূহ পৰীক্ষা কৰক</translation>
 <translation id="3900789207771372462">কিছুমান এক্সটেনশ্বনে আপোনাৰ ব্ৰাউজিং কাৰ্যকলাপ চাব পাৰে - য’ত ব্যক্তিগত তথ্যও অন্তৰ্ভুক্ত।</translation>
 <translation id="6772339735733515807">আপোনাৰ এক্সটেনশ্বনসমূহ পৰিচালনা কৰক</translation>
-<translation id="1510515462062582289">এই পৃষ্ঠাখনত আপুনি Dissenterত ইনষ্টল হৈ থকা সকলো এক্সটেনশ্বন চাব পাৰে।</translation>
+<translation id="1510515462062582289">এই পৃষ্ঠাখনত আপুনি Fulldiveত ইনষ্টল হৈ থকা সকলো এক্সটেনশ্বন চাব পাৰে।</translation>
 <translation id="2810390687497823527">আপুনি যদি কোনো এক্সটেনশ্বন চিনাক্ত কৰিব পৰা নাই অথবা আপোনাৰ ব্ৰাউজাৰটোৱে আশা কৰা ধৰণে কাম কৰা নাই, আপুনি ইয়াত এক্সটেনশ্বনসমূহ অফ অথবা কাষ্টমাইজ কৰিব পাৰে।</translation>
 <translation id="4479424953165245642">কিঅ'স্ক এপ্লিকেশ্বন পৰিচালনা কৰক</translation>
 <translation id="6619801788773578757">কিঅ’স্ক এপ্লিকেশ্বন যোগ কৰক</translation>
@@ -4750,7 +4750,7 @@
 <translation id="2342740338116612727">বুকমাৰ্ক যোগ কৰা হ’ল</translation>
 <translation id="7835178595033117206">বুকমাৰ্ক আঁতৰোৱা হ’ল</translation>
 <translation id="742130257665691897">বুকমাৰ্ক মচা হ’ল</translation>
-<translation id="5468853758063275923">Dissenter হৈছে আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ</translation>
+<translation id="5468853758063275923">Fulldive হৈছে আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ</translation>
 <translation id="2950533317914339731">আপোনাৰ প্ৰিয় Gab AI Inc Appsত বুকমাৰ্ক যোগ কৰক</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4765,13 +4765,13 @@
 <translation id="5033266061063942743">জ্যামিতিক আকৃতিসমূহ</translation>
 <translation id="7789963078219276159">আৰম্ভণিৰ পৃষ্ঠাৰ নেপথ্য <ph name="CATEGORY"/>লৈ সলনি কৰা হ’ল।</translation>
 <translation id="8771300903067484968">আৰম্ভণিৰ পৃষ্ঠাৰ নেপথ্য ডিফ’ল্ট নেপথ্যলৈ ৰিছেট কৰা হ’ল।</translation>
-<translation id="239760341987199724">Dissenterক আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ হিচাপে ছেট কৰক</translation>
+<translation id="239760341987199724">Fulldiveক আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ হিচাপে ছেট কৰক</translation>
 <translation id="96037229054033864">আপুনি প্ৰতিবাৰে ব্ৰাউজ কৰোঁতে Gab AI Inc Search আৰু Gab AI Inc স্মাৰ্টৰ সহায় পাওক</translation>
-<translation id="296137235951584143">আপোনাৰ ডিভাইচত Dissenterৰ ছেট আপ কৰক</translation>
+<translation id="296137235951584143">আপোনাৰ ডিভাইচত Fulldiveৰ ছেট আপ কৰক</translation>
 <translation id="3982375475032951137">কেইটামান সহজ পদক্ষেপৰ দ্বাৰা আপোনাৰ ব্ৰাউজাৰ ছেট আপ কৰক</translation>
 <translation id="6972754398087986839">আৰম্ভ কৰক</translation>
-<translation id="3707821975049107110">আপুনি ইতিমধ্যেই Dissenterৰ ব্যৱহাৰকাৰী নেকি? ছাইন ইন কৰক</translation>
-<translation id="7113572760575285642">আপোনাৰ Dissenter সকলোতে ব্যৱহাৰ কৰক</translation>
+<translation id="3707821975049107110">আপুনি ইতিমধ্যেই Fulldiveৰ ব্যৱহাৰকাৰী নেকি? ছাইন ইন কৰক</translation>
+<translation id="7113572760575285642">আপোনাৰ Fulldive সকলোতে ব্যৱহাৰ কৰক</translation>
 <translation id="567643736130151854">আপোনাৰ বুকমাৰ্ক, পাছৱৰ্ড আৰু অন্য বহুতো সমল সকলো ডিভাইচতে পাবলৈ ছাইন ইন কৰি ছিংক অন কৰক</translation>
 <translation id="725758059478686223">প্ৰিণ্টিং সেৱা</translation>
 <translation id="15662109988763471">বাছনি কৰা প্ৰিণ্টাৰটো উপলব্ধ নহয় বা সঠিককৈ ইনষ্টল কৰা হোৱা নাই। আপোনাৰ প্ৰিণ্টাৰটো পৰীক্ষা কৰক বা অন্য এটা প্ৰিণ্টাৰ বাছনি কৰি চাওক।</translation>
@@ -4894,7 +4894,7 @@
 <translation id="7574650250151586813">পাঠ টাইপ কৰিবলৈ Daydream কীব'ৰ্ড এপ্‌টো আপডে'ট কৰক</translation>
 <translation id="983511809958454316">এই সুবিধাটো VRত সমর্থন নকৰে</translation>
 <translation id="4008291085758151621">VRত ছাইটত তথ্য নাই</translation>
-<translation id="1439926347196400598">Dissenterক অডিঅ’ ৰেকৰ্ড কৰাৰ অনুমতি দিবনে?</translation>
+<translation id="1439926347196400598">Fulldiveক অডিঅ’ ৰেকৰ্ড কৰাৰ অনুমতি দিবনে?</translation>
 <translation id="6313641880021325787">VRৰ পৰা বাহিৰ হওক</translation>
 <translation id="2670429602441959756">এই পৃষ্ঠাটোত থকা সুবিধাসমূহ এই পর্যন্ত VRত সমৰ্থিত নহয়। বাহিৰলৈ ওলাই গৈ থকা হৈছে...</translation>
 <translation id="1802687198411089702">এই পৃষ্ঠাটোৱে সঁহাৰি জনোৱা নাই। আপুনি পৃষ্ঠাটোৱে সঁহাৰি জনোৱালৈ অপেক্ষা কৰিব পাৰে বা বাহিৰ হ’ব পাৰে।</translation>
@@ -4916,7 +4916,7 @@
 <translation id="1721312023322545264">এই ছাইটটো চাবলৈ আপোনাক <ph name="NAME"/>ৰ অনুমতিৰ প্ৰয়োজন</translation>
 <translation id="7543525346216957623">আপোনাৰ অভিভাৱকক সোধক</translation>
 <translation id="471880041731876836">এই ছাইটটো চাবলৈ আপোনাৰ অনুমতি নাই</translation>
-<translation id="3480834636742786788">অনুগ্ৰহ কৰি এই এপ্‌টো ব্যৱহাৰ কৰাৰ পূর্বে Dissenterত আকৌ ছাইন ইন কৰক।</translation>
+<translation id="3480834636742786788">অনুগ্ৰহ কৰি এই এপ্‌টো ব্যৱহাৰ কৰাৰ পূর্বে Fulldiveত আকৌ ছাইন ইন কৰক।</translation>
 <translation id="2851634818064021665">এই ছাইটটো চাবলৈ আপোনাক অনুমতিৰ প্ৰয়োজন</translation>
 <translation id="4933782374919065856">প্ৰশ্ন সুধিব লগা আছে নেকি? আপোনাৰ প্ৰ’ফাইল তদাৰক কৰা লোকৰ সৈতে যোগাযোগ কৰক।</translation>
 <translation id="2712173769900027643">অনুমতি বিচাৰক</translation>
@@ -4936,7 +4936,7 @@
 <translation id="7755287808199759310">আপোনাৰ অভিভাৱকে এই ছাইটটো আপোনাৰ বাবে অৱৰোধৰ পৰা আঁতৰাব পাৰে</translation>
 <translation id="5732392974455271431">আপোনাৰ অভিভাৱকে আপোনাৰ বাবে এই ছাইটটো অৱৰোধৰ পৰা আঁতৰাব পাৰে</translation>
 <translation id="3556433843310711081">আপোনাৰ পৰিচালকে আপোনাৰ বাবে এইটো অৱৰোধৰ পৰা আঁতৰাব পাৰে</translation>
-<translation id="1254756632288991504">অনুগ্ৰহ কৰি আৰম্ভ কৰি Dissenterত ছাইন ইন কৰক যাতে Dissenterএ আপুনি এই ছাইটটো এক্সেছ কৰিব পাৰেনে নোৱাৰে চাব পাৰে।</translation>
+<translation id="1254756632288991504">অনুগ্ৰহ কৰি আৰম্ভ কৰি Fulldiveত ছাইন ইন কৰক যাতে Fulldiveএ আপুনি এই ছাইটটো এক্সেছ কৰিব পাৰেনে নোৱাৰে চাব পাৰে।</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> পজ কৰা হৈছে</translation>
 <translation id="8015163965024115122">আপোনাৰ অভিভাৱকে <ph name="IDS_SHORT_PRODUCT_NAME"/> অথবা <ph name="IDS_SHORT_PRODUCT_NAME"/> এপ্‌সমূহৰ বাবে ছেট কৰা সময়সীমা শেষ হ’ল।</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> পজ কৰা হৈছে</translation>

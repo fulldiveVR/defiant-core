@@ -22,7 +22,7 @@
 <translation id="5342314432463739672">Zahteve za dovoljenja</translation>
 <translation id="3749259744154402564">Ni podprto</translation>
 <translation id="629730747756840877">Račun</translation>
-<translation id="82609232232243542">Prijava v Dissenter</translation>
+<translation id="82609232232243542">Prijava v Fulldive</translation>
 <translation id="7956662517480676674">Sinhroniz. in Googlove storitve</translation>
 <translation id="5294439808117722387">Trenutno prilagajate nastavitve sinhronizacije in Googlovih storitev. Če želite dokončati vklop sinhronizacije, se dotaknite gumba za potrditev pri dnu zaslona. Pomik navzgor</translation>
 <translation id="2096012225669085171">Sinhronizacija in prilagajanje med napravami</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">Številka kartice</translation>
 <translation id="869891660844655955">Datum izteka</translation>
 <translation id="2286841657746966508">Naslov za obračun storitev</translation>
-<translation id="663059986967017181">Kopirano v Dissenter</translation>
+<translation id="663059986967017181">Kopirano v Fulldive</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}one{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}two{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}few{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}other{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}one{<ph name="SHIPPING_ADDRESS_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}two{<ph name="SHIPPING_ADDRESS_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}few{<ph name="SHIPPING_ADDRESS_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}one{<ph name="SHIPPING_OPTION_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}two{<ph name="SHIPPING_OPTION_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}few{<ph name="SHIPPING_OPTION_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}other{<ph name="SHIPPING_OPTION_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}}</translation>
@@ -123,7 +123,7 @@
 <translation id="6891726759199484455">Odklenite, če želite kopirati geslo</translation>
 <translation id="5515439363601853141">Odklenite, če si želite ogledati geslo</translation>
 <translation id="6221633008163990886">Odklenite, če želite izvoziti gesla</translation>
-<translation id="230699814587342492">Gesla za Dissenter</translation>
+<translation id="230699814587342492">Gesla za Fulldive</translation>
 <translation id="1925021887439448749">Vnesite spletni naslov po meri</translation>
 <translation id="8127542551745560481">Urejanje domače strani</translation>
 <translation id="854522910157234410">Odpri to stran</translation>
@@ -140,7 +140,7 @@
 <translation id="6381421346744604172">Zatemnitev spletnih mest</translation>
 <translation id="5040262127954254034">Zasebnost</translation>
 <translation id="4991384657077828949">Pomagajte izboljšati varnost v Chromu</translation>
-<translation id="1943176487615318915">Zaradi zaznavanja nevarnih aplikacij in spletnih mest Dissenter Googlu pošlje URL-je nekaterih strani, ki jih obiščete, omejene podatke o sistemu in vsebino nekaterih strani</translation>
+<translation id="1943176487615318915">Zaradi zaznavanja nevarnih aplikacij in spletnih mest Fulldive Googlu pošlje URL-je nekaterih strani, ki jih obiščete, omejene podatke o sistemu in vsebino nekaterih strani</translation>
 <translation id="3201899458094819285">Varno brskanje (ščiti vas in napravo pred nevarnimi spletnimi mesti)</translation>
 <translation id="2876369937070532032">Googlu pošlje URL-je nekaterih strani, ki jih obiščete, kadar je ogrožena vaša varnost</translation>
 <translation id="3738139272394829648">Dotaknite se za iskanje</translation>
@@ -311,11 +311,11 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="8156139159503939589">Katere jezike znate brati?</translation>
 <translation id="5689516760719285838">Lokacija</translation>
 <translation id="2440823041667407902">Dostop do lokacije</translation>
-<translation id="2023546461831060654">V <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/> vklopite dovoljenja za Dissenter.</translation>
-<translation id="6665548517310046133">V <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/> vklopite dovoljenje za Dissenter.</translation>
+<translation id="2023546461831060654">V <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/> vklopite dovoljenja za Fulldive.</translation>
+<translation id="6665548517310046133">V <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/> vklopite dovoljenje za Fulldive.</translation>
 <translation id="2928908108430545745">Če želite Chromu omogočiti dostop do lokacije, lokacijo vklopite tudi v <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/>.</translation>
 <translation id="1028853271388022585">Če želite Chromu omogočiti dostop do fotoaparata, fotoaparat vklopite tudi v <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/>.</translation>
-<translation id="2913721282607281710">Če želite, da vam Dissenter pošilja obvestila, obvestila vklopite tudi v <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/>.</translation>
+<translation id="2913721282607281710">Če želite, da vam Fulldive pošilja obvestila, obvestila vklopite tudi v <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/>.</translation>
 <translation id="8753483718490035722">Če želite Chromu omogočiti dostop do mikrofona, mikrofon vklopite tudi v <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/>.</translation>
 <translation id="1887786770086287077">Dostop do lokacije je izklopljen za to napravo. Vklopite ga lahko v <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/>.</translation>
 <translation id="2570922361219980984">Dostop do lokacije je tudi izklopljen za to napravo. Vklopite ga lahko v <ph name="BEGIN_LINK"/>nastavitvah za Android<ph name="END_LINK"/>.</translation>
@@ -334,8 +334,8 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="7821588508402923572">Prihranek pri količini prenesenih podatkov bo prikazan tukaj</translation>
 <translation id="2131665479022868825">Shranjeno <ph name="DATA"/></translation>
 <translation id="8569404424186215731">od <ph name="DATE"/></translation>
-<translation id="3252158532344029638">Dissenter v lahkem načinu naloži strani hitreje in uporabi do 60 odstotkov manj podatkov.</translation>
-<translation id="1438581767753657407">Ko je lahki način vklopljen, brskalnik Dissenter uporablja strežnike Dissenter za hitrejše nalaganje strani. Lahki način prepisuje zelo počasne strani, da se naloži samo bistvena vsebina. Lahki način ne velja za zavihke brez beleženja zgodovine.</translation>
+<translation id="3252158532344029638">Fulldive v lahkem načinu naloži strani hitreje in uporabi do 60 odstotkov manj podatkov.</translation>
+<translation id="1438581767753657407">Ko je lahki način vklopljen, brskalnik Fulldive uporablja strežnike Fulldive za hitrejše nalaganje strani. Lahki način prepisuje zelo počasne strani, da se naloži samo bistvena vsebina. Lahki način ne velja za zavihke brez beleženja zgodovine.</translation>
 <translation id="6159335304067198720">Prihranek pri prenosu podatkov: <ph name="PERCENT"/></translation>
 <translation id="7494974237137038751">prihranjenega prenosa podatkov</translation>
 <translation id="6111020039983847643">prenesenih podatkov</translation>
@@ -358,7 +358,7 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="3658159451045945436">Ponastavitev izbriše zgodovino prihrankov pri prenosu podatkov, vključno s seznamom obiskanih spletnih mest.</translation>
 <translation id="5939518447894949180">Ponastavi</translation>
 <translation id="3295530008794733555">Brskajte hitreje. Uporabite manj podatkov.</translation>
-<translation id="7340390500800578919">Dissenter v lahkem načinu naloži strani hitreje in uporabi do 60 odstotkov manj podatkov. Dissenter zaradi optimiziranja strani, ki jih obiščete, Googlu pošlje vaš spletni promet. <ph name="BEGIN_LINK"/>Več o tem<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">Fulldive v lahkem načinu naloži strani hitreje in uporabi do 60 odstotkov manj podatkov. Fulldive zaradi optimiziranja strani, ki jih obiščete, Googlu pošlje vaš spletni promet. <ph name="BEGIN_LINK"/>Več o tem<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Vklop lahkega načina</translation>
 <translation id="4493497663118223949">Lahki način je vklopljen</translation>
 <translation id="7559975015014302720">Lahki način je izklopljen</translation>
@@ -392,12 +392,12 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="7290209999329137901">Preimenovanje ni na voljo</translation>
 <translation id="3334729583274622784">Želite spremeniti pripono datoteke?</translation>
 <translation id="107147699690128016">Če spremenite pripono datoteke, se lahko datoteka odpre v drugem programu in je lahko morebitno škodljiva za vašo napravo.</translation>
-<translation id="8541922081612557424">O brskalniku Dissenter</translation>
+<translation id="8541922081612557424">O brskalniku Fulldive</translation>
 <translation id="5311273890481188673">Copyright <ph name="YEAR"/> Gab AI Inc LLC. Vse pravice pridržane.</translation>
 <translation id="1416550906796893042">Različica aplikacije</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (Posodobljeno: <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Operacijski sistem</translation>
-<translation id="3968054912784331254">Posodobitve za Dissenter v tej različici Androida niso več podprte.</translation>
+<translation id="3968054912784331254">Posodobitve za Fulldive v tej različici Androida niso več podprte.</translation>
 <translation id="7665369617277396874">Dodaj račun</translation>
 <translation id="649070405679044769">V Gab AI Inc ste prijavljeni kot</translation>
 <translation id="6234515504547364178">Odjava iz Chroma</translation>
@@ -409,7 +409,7 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="5403644198645076998">Dovoli samo nekatera spletna mesta</translation>
 <translation id="8641930654639604085">Poskusi blokirati spletna mesta za odrasle</translation>
 <translation id="5639724618331995626">Dovoli vsa spletna mesta</translation>
-<translation id="796823723482603597">Uporablja tehnologijo Dissenter</translation>
+<translation id="796823723482603597">Uporablja tehnologijo Fulldive</translation>
 <translation id="6324034347079777476">Sinhronizacija sistema Android je onemogočena.</translation>
 <translation id="5127805178023152808">Sinhroniziranje je izklopljeno</translation>
 <translation id="7015203776128479407">Začetna nastavitev sinhronizacije ni bila dokončana. Sinhronizacija je izklopljena.</translation>
@@ -418,9 +418,9 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="6108923351542677676">Poteka nastavitev …</translation>
 <translation id="4062305924942672200">Pravne informacije</translation>
 <translation id="4256782883801055595">Odprtokodne licence</translation>
-<translation id="1138681184697033370">Pogoji storitve za Dissenter</translation>
-<translation id="2368444735104192323">Dodatni pogoji za Gab AI Inc Dissenter in Dissenter OS</translation>
-<translation id="7392539049993970338">Obvestilo o zasebnosti za Dissenter</translation>
+<translation id="1138681184697033370">Pogoji storitve za Fulldive</translation>
+<translation id="2368444735104192323">Dodatni pogoji za Gab AI Inc Fulldive in Fulldive OS</translation>
+<translation id="7392539049993970338">Obvestilo o zasebnosti za Fulldive</translation>
 <translation id="2968755619301702150">Pregledovalnik potrdil</translation>
 <translation id="1360432990279830238">Odjava in izklop sinhronizacije?</translation>
 <translation id="8581481290581777242">Ali želite izbrisati podatke v Chromu iz te naprave?</translation>
@@ -476,11 +476,11 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="7624880197989616768"><ph name="BEGIN_LINK1"/>Poiščite pomoč<ph name="END_LINK1"/> ali <ph name="BEGIN_LINK2"/>znova iščite<ph name="END_LINK2"/></translation>
 <translation id="230115972905494466">Ni združljivih naprav</translation>
 <translation id="3773755127849930740"><ph name="BEGIN_LINK"/>Vklopite Bluetooth<ph name="END_LINK"/>, če želite dovoliti seznanjanje</translation>
-<translation id="998321811308652668">Dissenter ne more vklopiti vmesnika za Bluetooth</translation>
+<translation id="998321811308652668">Fulldive ne more vklopiti vmesnika za Bluetooth</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Poiščite pomoč<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">Dissenter za iskanje naprav potrebuje dostop do lokacije. <ph name="BEGIN_LINK"/>Posodobite dovoljenja<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">Dissenter za iskanje naprav potrebuje dostop do lokacije. Dostop do lokacije <ph name="BEGIN_LINK"/>je izklopljen za to napravo<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">Dissenter za iskanje naprav potrebuje dostop do lokacije. <ph name="BEGIN_LINK1"/>Posodobite dovoljenja<ph name="END_LINK1"/>. Dostop do lokacije je prav tako <ph name="BEGIN_LINK2"/>izklopljen za to napravo<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">Fulldive za iskanje naprav potrebuje dostop do lokacije. <ph name="BEGIN_LINK"/>Posodobite dovoljenja<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">Fulldive za iskanje naprav potrebuje dostop do lokacije. Dostop do lokacije <ph name="BEGIN_LINK"/>je izklopljen za to napravo<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">Fulldive za iskanje naprav potrebuje dostop do lokacije. <ph name="BEGIN_LINK1"/>Posodobite dovoljenja<ph name="END_LINK1"/>. Dostop do lokacije je prav tako <ph name="BEGIN_LINK2"/>izklopljen za to napravo<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">Povezana naprava</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{Moč signala: # črtica}one{Moč signala: # črtica}two{Moč signala: # črtici}few{Moč signala: # črtice}other{Moč signala: # črtic}}</translation>
 <translation id="5230560987958996918"><ph name="SITE"/> želi iskati naprave Bluetooth v bližini. Najdene so bile te naprave:</translation>
@@ -488,7 +488,7 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="7605594153474022051">Sync isn't working</translation>
 <translation id="2537178555904266562">Napaka pri sinhronizaciji gesel</translation>
 <translation id="1810845389119482123">Začetna nastavitev sinhronizacije se ni dokončala</translation>
-<translation id="3235722914093408050">Odprite nast. za Android in znova omog. sinh. v Androidu za zač. sinh. za Dissenter</translation>
+<translation id="3235722914093408050">Odprite nast. za Android in znova omog. sinh. v Androidu za zač. sinh. za Fulldive</translation>
 <translation id="3367813778245106622">Prijavite se znova, če želite začeti sinhronizacijo</translation>
 <translation id="3701167022068948696">Odpravite težavo</translation>
 <translation id="974555521953189084">Vnesite geslo, če želite začeti sinhronizacijo</translation>
@@ -526,14 +526,14 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037">Gumb <ph name="MESSAGE"/> <ph name="LINK_NAME"/></translation>
 <translation id="3205824638308738187">Skoraj končano!</translation>
-<translation id="3960299545138990065">Znova zaženite Dissenter</translation>
+<translation id="3960299545138990065">Znova zaženite Fulldive</translation>
 <translation id="3771001275138982843">Posodobitve ni bilo mogoče prenesti</translation>
-<translation id="3888648114124182147">Prenašanje posodobitve za Dissenter …</translation>
-<translation id="1705567146636171298">Posodobi Dissenter</translation>
-<translation id="6195417478702700398">Za najboljšo izkušnjo pri brskanju odprite Dissenter, da ga posodobite</translation>
-<translation id="3512968675351418494">Če si želite splet ogledovati v svojem jeziku, posodobite Dissenter na najnovejšo različico</translation>
+<translation id="3888648114124182147">Prenašanje posodobitve za Fulldive …</translation>
+<translation id="1705567146636171298">Posodobi Fulldive</translation>
+<translation id="6195417478702700398">Za najboljšo izkušnjo pri brskanju odprite Fulldive, da ga posodobite</translation>
+<translation id="3512968675351418494">Če si želite splet ogledovati v svojem jeziku, posodobite Fulldive na najnovejšo različico</translation>
 <translation id="6427112570124116297">Prevajanje spleta</translation>
-<translation id="1379423114029199501">Posodobite Dissenter na najnovejšo različico, če ga želite v svojem jeziku</translation>
+<translation id="1379423114029199501">Posodobite Fulldive na najnovejšo različico, če ga želite v svojem jeziku</translation>
 <translation id="5684874026226664614">Ojoj, te strani bi bilo mogoče prevesti.</translation>
 <translation id="6831043979455480757">Prevedi</translation>
 <translation id="1285320974508926690">Nikoli ne prevedi tega spletnega mesta</translation>
@@ -557,7 +557,7 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="2532336938189706096">Spletni pogled</translation>
 <translation id="6005538289190791541">Predlagano geslo</translation>
 <translation id="4634124774493850572">Uporabi geslo</translation>
-<translation id="3088191967551450609">Dissenter za prenos datotek potrebuje dostop do shrambe.</translation>
+<translation id="3088191967551450609">Fulldive za prenos datotek potrebuje dostop do shrambe.</translation>
 <translation id="8942627711005830162">Odpri v drugem oknu</translation>
 <translation id="4195643157523330669">Odpri v novem zavihku</translation>
 <translation id="1100066534610197918">Odpri nov zavihek v skupini</translation>
@@ -711,11 +711,11 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">LL</translation>
 <translation id="724102042129299115">Izkušnje ob prvem izvajanju Chroma</translation>
-<translation id="7766792282581704663">Če uporabljate Dissenter, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Gab AI Inc Dissenter in Dissenter OS<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Če uporabljate Dissenter, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Gab AI Inc Dissenter in Dissenter OS<ph name="END_LINK2"/>. Za vas velja tudi <ph name="BEGIN_LINK3"/>pravilnik o zasebnosti za račune Gab AI Inc, upravljane s Family Linkom<ph name="END_LINK3"/>.</translation>
-<translation id="4993481112200507346">Aplikacija <ph name="APP_NAME"/> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Gab AI Inc Dissenter in Dissenter OS<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485">Aplikacija <ph name="APP_NAME"/> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Gab AI Inc Dissenter in Dissenter OS<ph name="END_LINK2"/>. Za vas velja tudi <ph name="BEGIN_LINK3"/>pravilnik o zasebnosti za račune Gab AI Inc, upravljane s Family Linkom<ph name="END_LINK3"/>.</translation>
-<translation id="673197144963363525">Pomagajte izboljšati Dissenter s pošiljanjem statističnih podatkov o uporabi in poročil o zrušitvah Googlu.</translation>
+<translation id="7766792282581704663">Če uporabljate Fulldive, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Gab AI Inc Fulldive in Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Če uporabljate Fulldive, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Gab AI Inc Fulldive in Fulldive OS<ph name="END_LINK2"/>. Za vas velja tudi <ph name="BEGIN_LINK3"/>pravilnik o zasebnosti za račune Gab AI Inc, upravljane s Family Linkom<ph name="END_LINK3"/>.</translation>
+<translation id="4993481112200507346">Aplikacija <ph name="APP_NAME"/> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Gab AI Inc Fulldive in Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485">Aplikacija <ph name="APP_NAME"/> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Gab AI Inc Fulldive in Fulldive OS<ph name="END_LINK2"/>. Za vas velja tudi <ph name="BEGIN_LINK3"/>pravilnik o zasebnosti za račune Gab AI Inc, upravljane s Family Linkom<ph name="END_LINK3"/>.</translation>
+<translation id="673197144963363525">Pomagajte izboljšati Fulldive s pošiljanjem statističnih podatkov o uporabi in poročil o zrušitvah Googlu.</translation>
 <translation id="3518985090088779359">Sprejmi in nadaljuj</translation>
 <translation id="7207456302801184289">Dobrodošli v Chromu</translation>
 <translation id="7189372733857464326">Čakanje na dokončanje posodobitev storitev za Gab AI Inc Play</translation>
@@ -830,7 +830,7 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="2536728043171574184">Ogled kopije te strani za način brez povezave.</translation>
 <translation id="4698034686595694889">Ogled brez povezave v aplikaciji <ph name="APP_NAME"/></translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> in več spletnih mest</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Dissenter bo naložil stran, ko bo pripravljen}one{Dissenter bo naložil strani, ko bo pripravljen}two{Dissenter bo naložil strani, ko bo pripravljen}few{Dissenter bo naložil strani, ko bo pripravljen}other{Dissenter bo naložil strani, ko bo pripravljen}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Fulldive bo naložil stran, ko bo pripravljen}one{Fulldive bo naložil strani, ko bo pripravljen}two{Fulldive bo naložil strani, ko bo pripravljen}few{Fulldive bo naložil strani, ko bo pripravljen}other{Fulldive bo naložil strani, ko bo pripravljen}}</translation>
 <translation id="6811034713472274749">Stran je pripravljena za ogled</translation>
 <translation id="4561979708150884304">Ni povezave</translation>
 <translation id="8274165955039650276">Ogled prenosov</translation>
@@ -847,7 +847,7 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="7022756207310403729">Odpiranje v brskalniku</translation>
 <translation id="1113597929977215864">Pokaži poenostavljen pogled</translation>
 <translation id="1513352483775369820">Zaznamki in spletna zgodovina</translation>
-<translation id="4939482511480190003">Pomagajte izboljšati Dissenter. <ph name="BEGIN_LINK"/>Sodelujte v anketi.<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Pomagajte izboljšati Fulldive. <ph name="BEGIN_LINK"/>Sodelujte v anketi.<ph name="END_LINK"/></translation>
 <translation id="3522247891732774234">Posodobitev je na voljo. Več možnosti.</translation>
 <translation id="6773423637732432200">Posodobitev Chroma ni mogoča. Več možnosti.</translation>
 <translation id="1383876407941801731">Išči</translation>
@@ -924,10 +924,10 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="1376578503827013741">Računanje …</translation>
 <translation id="583281660410589416">Neznano</translation>
 <translation id="2323763861024343754">Shranjeni podatki splet. mesta</translation>
-<translation id="3587672679800759167">Skupna količina podatkov, ki jih uporablja Dissenter, vključno z računi, zaznamki in shranjenimi nastavitvami.</translation>
+<translation id="3587672679800759167">Skupna količina podatkov, ki jih uporablja Fulldive, vključno z računi, zaznamki in shranjenimi nastavitvami.</translation>
 <translation id="6545017243486555795">Izbris vseh podatkov</translation>
 <translation id="4095146165863963773">Izbris podatkov aplikacije?</translation>
-<translation id="53119194224775367">Vsi podatki aplikacije Dissenter bodo trajno izbrisani, vključno z vsemi datotekami, nastavitvami, računi, zbirkami podatkov ipd.</translation>
+<translation id="53119194224775367">Vsi podatki aplikacije Fulldive bodo trajno izbrisani, vključno z vsemi datotekami, nastavitvami, računi, zbirkami podatkov ipd.</translation>
 <translation id="5307446750509046227">Izbris shrambe mesta</translation>
 <translation id="300526633675317032">S tem bo izbrisanih vseh <ph name="SIZE_IN_KB"/> shranjenih podatkov spletnega mesta.</translation>
 <translation id="8068648041423924542">Izbira potrdila ni mogoča</translation>
@@ -954,7 +954,7 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="3114012059975132928">Videopredvajalnik</translation>
 <translation id="5489227211564503167">Pretečeni čas: <ph name="ELAPSED_TIME"/> od <ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Iskanje z iskalnikom Sogou</translation>
-<translation id="5406914950576900927">Dissenter lahko za iskanje na Kitajskem uporablja <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/>. To je mogoče spremeniti v <ph name="BEGIN_LINK"/>nastavitvah<ph name="END_LINK"/>.</translation>
+<translation id="5406914950576900927">Fulldive lahko za iskanje na Kitajskem uporablja <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/>. To je mogoče spremeniti v <ph name="BEGIN_LINK"/>nastavitvah<ph name="END_LINK"/>.</translation>
 <translation id="6456271171669383967">Ohrani Gab AI Inc</translation>
 <translation id="4384468725000734951">Uporaba iskalnika Sogou za iskanje</translation>
 <translation id="6103327872225198548">Uporaba iskalnika Gab AI Inc za iskanje</translation>
@@ -987,13 +987,13 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 <translation id="8015452622527143194">Vrnitev vsebine strani na privzeto velikost</translation>
 <translation id="3443221991560634068">Vnovično nalaganje trenutne strani</translation>
 <translation id="123724288017357924">Vnov. nalag. tren. strani s prezrtjem predp. vseb.</translation>
-<translation id="305870044889644984">Odpiranje centra za pomoč za Dissenter na nov. zavih.</translation>
+<translation id="305870044889644984">Odpiranje centra za pomoč za Fulldive na nov. zavih.</translation>
 <translation id="3166827708714933426">Bližnjice za zavihke in okna</translation>
 <translation id="3169981355900570544">Bližnjice za funkcije Gab AI Inc Chroma</translation>
 <translation id="4558311620361989323">Bližnjice za spletne strani</translation>
-<translation id="1908301351964700579">Dissenter se še vedno pripravlja na navidezno resničnost. Znova zaženite Dissenter pozneje.</translation>
+<translation id="1908301351964700579">Fulldive se še vedno pripravlja na navidezno resničnost. Znova zaženite Fulldive pozneje.</translation>
 <translation id="8970887620466824814">Prišlo je do napake.</translation>
-<translation id="1875543012935658554">Znova odprite Dissenter.</translation>
+<translation id="1875543012935658554">Znova odprite Fulldive.</translation>
 <translation id="79859296434321399">Če si želite ogledati vsebino v razširjeni resničnosti, namestite ARCore</translation>
 <translation id="8558485628462305855">Če si želite ogledati vsebino v razširjeni resničnosti, posodobite ARCore</translation>
 <translation id="3513704683820682405">Razširjena resničnost</translation>
@@ -1005,9 +1005,9 @@ V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in 
 Samo vam je vidno, kam je usmerjen fotoaparat. Spletno mesto si ne more ogledati slik fotoaparata.</translation>
 <translation id="1188239144602654184">Začni RR</translation>
 <translation id="473775607612524610">Posodobi</translation>
-<translation id="3133489217401741157">Nameščanje modula <ph name="MODULE"/> za Dissenter …</translation>
+<translation id="3133489217401741157">Nameščanje modula <ph name="MODULE"/> za Fulldive …</translation>
 <translation id="1791662854739702043">Nameščeno</translation>
-<translation id="5131234170665854056">Modula <ph name="MODULE"/> za Dissenter ni mogoče namestiti</translation>
+<translation id="5131234170665854056">Modula <ph name="MODULE"/> za Fulldive ni mogoče namestiti</translation>
 <translation id="2567385386134582609">SLIKA</translation>
 <translation id="6395288395575013217">POVEZAVA</translation>
 <translation id="7352939065658542140">VIDEOPOSNETEK</translation>
@@ -1027,7 +1027,7 @@ Samo vam je vidno, kam je usmerjen fotoaparat. Spletno mesto si ne more ogledati
 <translation id="1792959175193046959">Kadar koli lahko spremenite privzeto mesto za prenose</translation>
 <translation id="6942665639005891494">Z možnostjo v meniju z nastavitvami lahko kadar koli spremenite privzeto mesto za prenose</translation>
 <translation id="6850409657436465440">Prenos še poteka</translation>
-<translation id="5817715962196959877">Dissenter zdaj hitreje prenaša datoteke</translation>
+<translation id="5817715962196959877">Fulldive zdaj hitreje prenaša datoteke</translation>
 <translation id="3976396876660209797">Odstranite in znova ustvarite to bližnjico</translation>
 <translation id="6766622839693428701">Povlecite navzdol, da zaprete.</translation>
 <translation id="1028699632127661925">Pošiljanje v napravo <ph name="DEVICE_NAME"/> ...</translation>
@@ -1076,8 +1076,8 @@ Samo vam je vidno, kam je usmerjen fotoaparat. Spletno mesto si ne more ogledati
 <translation id="7055152154916055070">Preusmeritev je preprečena:</translation>
 <translation id="5524843473235508879">Preusmeritev je bila blokirana.</translation>
 <translation id="6573096386450695060">Vedno dovoli</translation>
-<translation id="5805364706385912897">Ta stran uporablja preveč pomnilnika, zato jo je Dissenter zaustavil.</translation>
-<translation id="5138664332909611586">Ta stran uporablja preveč pomnilnika, zato je Dissenter odstranil nekaj vsebine.</translation>
+<translation id="5805364706385912897">Ta stran uporablja preveč pomnilnika, zato jo je Fulldive zaustavil.</translation>
+<translation id="5138664332909611586">Ta stran uporablja preveč pomnilnika, zato je Fulldive odstranil nekaj vsebine.</translation>
 <translation id="9137013805542155359">Pokaži izvirno besedilo</translation>
 <translation id="6361779936989026201">Pomočnik Gab AI Inc v Chromu</translation>
 <translation id="7291387454912369099">Dokončanje nakupa s Pomočnikom</translation>
@@ -1102,7 +1102,7 @@ Samo vam je vidno, kam je usmerjen fotoaparat. Spletno mesto si ne more ogledati
 <translation id="6201345951596836663">Povezava je kopirana</translation>
 <translation id="6597891566292541626">Črtno kodo/kodo QR postavite v ta okvir.</translation>
 <translation id="3140134512074889489">Omogočite fotoaparat, če želite optično prebrati kodo QR</translation>
-<translation id="5149323899804758325">Če želite optično prebrati kodo QR, spremenite nastavitve, da bo Dissenter lahko uporabljal kamero</translation>
+<translation id="5149323899804758325">Če želite optično prebrati kodo QR, spremenite nastavitve, da bo Fulldive lahko uporabljal kamero</translation>
 <translation id="2359808026110333948">Naprej</translation>
 <translation id="8233540874193135768">Če želite optično prebrati kodo QR, uporabite napravo s kamero.</translation>
 <translation id="6297765934698848803">Organizacija, ki upravlja vašo napravo, je izklopila kamero.</translation>

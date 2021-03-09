@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">ລຶບ</translation>
 <translation id="144283815522798837">ເລືອກ <ph name="NUMBER_OF_ITEMS_SELECTED"/> ແລ້ວ</translation>
 <translation id="5582839680698949063">ເມນູຫຼັກ</translation>
-<translation id="3700405816184340252">ປະຫວັດ Dissenter</translation>
+<translation id="3700405816184340252">ປະຫວັດ Fulldive</translation>
 <translation id="7602079150116086782">ບໍ່ມີແຖບຈາກອຸປະກອນອື່ນ</translation>
 <translation id="4619615317237390068">ແຖບຈາກອຸປະກອນອື່ນ</translation>
-<translation id="82609232232243542">ລົງຊື່ເຂົ້າ​ໃຊ້ Dissenter</translation>
+<translation id="82609232232243542">ລົງຊື່ເຂົ້າ​ໃຊ້ Fulldive</translation>
 <translation id="4627442949885028695">ສືບຕໍ່ຈາກອຸປະກອນອື່ນ</translation>
-<translation id="7253276740368043692">ເພື່ອໂຫຼດແຖບຂອງທ່ານຈາກອຸປະກອນອື່ນ,​ ໃຫ້ເຂົ້າສູ່ລະບົບ Dissenter ກ່ອນ.</translation>
+<translation id="7253276740368043692">ເພື່ອໂຫຼດແຖບຂອງທ່ານຈາກອຸປະກອນອື່ນ,​ ໃຫ້ເຂົ້າສູ່ລະບົບ Fulldive ກ່ອນ.</translation>
 <translation id="6351063337294363751">ທ່ານສາມາດລຶບລ້າງຂໍ້ມູນການທ່ອງເວັບຂອງທ່ານອອກຈາກເມນູນີ້ໄດ້</translation>
 <translation id="6040143037577758943">ປິດ</translation>
 <translation id="6463795194797719782">ແກ້ໄຂ</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">ຄວາມມັກ...</translation>
 <translation id="5801568494490449797">ຄວາມມັກ</translation>
 <translation id="3677911431265050325">ຮ້ອງຂໍເວັບໄຊມືຖື</translation>
-<translation id="236470849334943016">ຂໍ້ກຳນົດການບໍລິການຂອງ Dissenter ຈະປ່ຽນແປງໃນວັນທີ 31 ເດືອນມີນາ</translation>
+<translation id="236470849334943016">ຂໍ້ກຳນົດການບໍລິການຂອງ Fulldive ຈະປ່ຽນແປງໃນວັນທີ 31 ເດືອນມີນາ</translation>
 <translation id="1032605640136438169">ກະລຸນາກວດເບິ່ງຂໍ້ກຳນົດໃໝ່</translation>
 <translation id="8712637175834984815">ເຂົ້າໃຈແລ້ວ</translation>
 <translation id="5007392906805964215">ກວດສອບ</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">ເລີ່ມຕົ້ນໃໝ່</translation>
 <translation id="3479552764303398839">ບໍ່ແມ່ນດຽວນີ້</translation>
 <translation id="1008557486741366299">ບໍ່ແມ່ນດຽວນີ້</translation>
-<translation id="8201192017531062522">Dissenter ຈະສືບຕໍ່ແລ່ນຢູ່ໃນຂະນະທີ່ແອັບ Dissenter ເປີດ.</translation>
-<translation id="7397305826909094212">ອອກທຸກແອັບ Dissenter</translation>
+<translation id="8201192017531062522">Fulldive ຈະສືບຕໍ່ແລ່ນຢູ່ໃນຂະນະທີ່ແອັບ Fulldive ເປີດ.</translation>
+<translation id="7397305826909094212">ອອກທຸກແອັບ Fulldive</translation>
 <translation id="5026874946691314267">ຢ່າສະແດງອັນນີ້ອີກ</translation>
 <translation id="91568222606626347">ສ້າງ​ທາງ​ລັດ...</translation>
 <translation id="2783321960289401138">ສ້າງ​ທາງ​ລັດ...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">ເຄື່ອງຈຳລອງສະເໝືອນຈິງ Linux: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">ເຄື່ອງສະເໝືອນຈິງຂອງປລັກອິນ: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">ຕົວແຍກວິເຄາະ IPP</translation>
-<translation id="7171242884588191792">ຕົວຊ່ວຍຈັດການໄຟລ໌ Dissenter</translation>
+<translation id="7171242884588191792">ຕົວຊ່ວຍຈັດການໄຟລ໌ Fulldive</translation>
 <translation id="3183139917765991655">ຕົວ​ນຳ​ເຂົ້າ​ໂປ​ຣ​ໄຟ​ລ໌</translation>
 <translation id="7367714965999718019">ຕົວສ້າງລະຫັດ QR</translation>
 <translation id="2190069059097339078">ຕົວຮັບເອົາຂໍ້ມູນສະເພາະ WiFi</translation>
-<translation id="5920835625712313205">ຕົວຂຽນຮູບພາບຂອງລະບົບ Dissenter OS</translation>
+<translation id="5920835625712313205">ຕົວຂຽນຮູບພາບຂອງລະບົບ Fulldive OS</translation>
 <translation id="4873312501243535625">ຕົວກວດ​ໄຟ​ລ໌​ມີ​ເດຍ</translation>
 <translation id="5972666587303800813">ການບໍລິການທີ່ບໍ່ມີການດຳເນີນການ</translation>
 <translation id="1545775234664667895">ຕິດຕັ້ງສີສັນໜ້າຕາ "<ph name="THEME_NAME"/>" ແລ້ວ</translation>
@@ -851,13 +851,13 @@
 <translation id="3507421388498836150">ການ​ອະ​ນຸ​ຍາດ​ປະ​ຈຸ​ບັນ​ສຳ​ລັບ "<ph name="EXTENSION_NAME"/>"</translation>
 <translation id="5242724311594467048">ເປີດໃຊ້ງານ "<ph name="EXTENSION_NAME"/>" ບໍ?</translation>
 <translation id="4014432863917027322">ສ້ອມແປງ "<ph name="EXTENSION_NAME"/>" ບໍ?</translation>
-<translation id="5173189340601754836">ໂປຣແກຣມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່ານໄດ້ເພີ່ມແອັບທີ່ອາດຈະປ່ຽນແປງແບບວິທີທີ່ Dissenter ເຮັດວຽກແລ້ວ.
+<translation id="5173189340601754836">ໂປຣແກຣມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່ານໄດ້ເພີ່ມແອັບທີ່ອາດຈະປ່ຽນແປງແບບວິທີທີ່ Fulldive ເຮັດວຽກແລ້ວ.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">ໂປຣແກຣມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່{ານໄດ້ເພີ່ມສ່ວນ​ຂະ​ຫຍາຍທີ່ອາດຈະປ່ຽນແປງວິທີການເຮັດວຽກຂອງ Dissenter ແລ້ວ.
+<translation id="6654312501894761082">ໂປຣແກຣມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່{ານໄດ້ເພີ່ມສ່ວນ​ຂະ​ຫຍາຍທີ່ອາດຈະປ່ຽນແປງວິທີການເຮັດວຽກຂອງ Fulldive ແລ້ວ.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">ໂປຣແກຣມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່ານ​ໄດ້​ເພີ່ມ​ທີມ​ທີ່​ອາດ​ຈະ​ປ່ຽນ​ແປງວິ​ທີ Dissenter ເຮັດ​ວຽກ​ແລ້ວ.
+<translation id="3225882094369124157">ໂປຣແກຣມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່ານ​ໄດ້​ເພີ່ມ​ທີມ​ທີ່​ອາດ​ຈະ​ປ່ຽນ​ແປງວິ​ທີ Fulldive ເຮັດ​ວຽກ​ແລ້ວ.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">ເປີດນຳໃຊ້ນສ່ວນຂະຫຍາຍ</translation>
@@ -866,7 +866,7 @@
 <translation id="3908501907586732282">ເປີດໃຊ້ງານສ່ວນຂະຫຍາຍ</translation>
 <translation id="2327492829706409234">ເປີດໃຊ້ງານແອັບ</translation>
 <translation id="175772926354468439">ເປີດໃຊ້ງານເທມ</translation>
-<translation id="5267531627648004734">ເອົາ​ອອກ​ໄປຈາກ Dissenter</translation>
+<translation id="5267531627648004734">ເອົາ​ອອກ​ໄປຈາກ Fulldive</translation>
 <translation id="4998873842614926205">ຢືນ​ຢັນ​ການ​ປ່ຽນ​ແປງ</translation>
 <translation id="1799071797295057738">ສ່ວນຂະຫຍາຍ "<ph name="EXTENSION_NAME"/>" ຖືກປິດນຳໃຊ້ໂດຍອັດຕະໂນມັດ.</translation>
 <translation id="5238278114306905396">ແອັບ "<ph name="EXTENSION_NAME"/>"​ຖືກ​ໂຍກ​ຍ້າຍ​ອອກ​​ໂດຍອັດ​ຕະ​ໂນ​ມັດ​.</translation>
@@ -1002,7 +1002,7 @@
 <translation id="1616298854599875024">ບໍ່ສາມາດນຳເຂົ້າສ່ວນຂະຫຍາຍ "<ph name="IMPORT_NAME"/>" ໄດ້ ເພາະວ່າມັນບໍ່ແມ່ນໂມດູນທີ່ໃຊ້ຮ່ວມກັນ</translation>
 <translation id="2131077480075264">ບໍ່ສາມາດຕິດຕັ້ງ "<ph name="APP_NAME"/>" ໄດ້ ເພາະວ່າມັນບໍ່ໄດ້ຮັບອະນຸຍາດໂດຍ "<ph name="IMPORT_NAME"/>"</translation>
 <translation id="1875387611427697908">ສາມາດເພີ່ມອັນນີ້ໄດ້ຈາກ <ph name="CHROME_WEB_STORE"/> ເທົ່ານັ້ນ</translation>
-<translation id="3862788408946266506">ຕ້ອງຕິດຕັ້ງແອັບທີ່ມີຄຸນລັກສະນະ 'kiosk_only' manifest ຢູ່ໃນໂໝດ Dissenter OS kiosk</translation>
+<translation id="3862788408946266506">ຕ້ອງຕິດຕັ້ງແອັບທີ່ມີຄຸນລັກສະນະ 'kiosk_only' manifest ຢູ່ໃນໂໝດ Fulldive OS kiosk</translation>
 <translation id="3834775135533257713">ບໍ່ສາມາດເພີ່ມແອັບພລິເຄຊັນ "<ph name="TO_INSTALL_APP_NAME"/>" ໄດ້ ເພາະວ່າມັນຂັດກັບ "<ph name="INSTALLED_APP_NAME"/>".</translation>
 <translation id="144518587530125858">ບໍ່ສາມາດໂຫຼດ '<ph name="IMAGE_PATH"/>' ສໍາລັບເທມໄດ້.</translation>
 <translation id="3576324189521867626">ຕິດຕັ້ງສຳເລັດແລ້ວ</translation>
@@ -1096,7 +1096,7 @@
 <translation id="5483785310822538350">ຖອນຄືນ​ໄຟລ​໌​ ແລະ​ການ​ເຂົ້າຫາ​ອຸ​ປະ​ກອນ</translation>
 <translation id="93766956588638423">ສ້ອມ​ແປງສ່ວນຂະ​ຫຍາຍ​</translation>
 <translation id="3905761538810670789">ສ້ອມ​ແປງແອັບ</translation>
-<translation id="8808478386290700967">Dissenter Web Store</translation>
+<translation id="8808478386290700967">Fulldive Web Store</translation>
 <translation id="488785315393301722">ສະແດງລາຍລະອຽດ</translation>
 <translation id="8962083179518285172">ເຊື່ອງ​ລາຍ​ລະ​ອຽດ</translation>
 <translation id="7287143125007575591">ການເຂົ້າເຖິງຖືກປະຕິເສດ.</translation>
@@ -1105,9 +1105,9 @@
 <translation id="6101226222197207147">ເພີ່ມແອັບໃໝ່ແລ້ວ ( <ph name="EXTENSION_NAME"/> )</translation>
 <translation id="7818135753970109980">ເພີ່ມເທມໃໝ່ແລ້ວ ( <ph name="EXTENSION_NAME"/> )</translation>
 <translation id="9215293857209265904">ເພີ່ມ "<ph name="EXTENSION_NAME"/>" ແລ້ວ</translation>
-<translation id="6637045053447935202">ໂປຣແກຼມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່ານໄດ້ເພີ່ມແອັບທີ່ອາດຈະປ່ຽນແປງວິທີການເຮັດວຽກຂອງ Dissenter ແລ້ວ.</translation>
-<translation id="2015014930243978107">ໂປຣແກຼມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່ານໄດ້ເພີ່ມສ່ວນຂະຫຍາຍທີ່ອາດຈະປ່ຽນແປງວິທີການເຮັດວຽກຂອງ Dissenter ແລ້ວ.</translation>
-<translation id="2060128809251156338">ໂປຣແກຼມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່ານໄດ້ເພີ່ມເທມທີ່ອາດຈະປ່ຽນແປງວິທີການເຮັດວຽກຂອງ Dissenter ແລ້ວ.</translation>
+<translation id="6637045053447935202">ໂປຣແກຼມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່ານໄດ້ເພີ່ມແອັບທີ່ອາດຈະປ່ຽນແປງວິທີການເຮັດວຽກຂອງ Fulldive ແລ້ວ.</translation>
+<translation id="2015014930243978107">ໂປຣແກຼມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່ານໄດ້ເພີ່ມສ່ວນຂະຫຍາຍທີ່ອາດຈະປ່ຽນແປງວິທີການເຮັດວຽກຂອງ Fulldive ແລ້ວ.</translation>
+<translation id="2060128809251156338">ໂປຣແກຼມອື່ນຢູ່ໃນຄອມພິວເຕີຂອງທ່ານໄດ້ເພີ່ມເທມທີ່ອາດຈະປ່ຽນແປງວິທີການເຮັດວຽກຂອງ Fulldive ແລ້ວ.</translation>
 <translation id="2470702053775288986">ປິດໃຊ້ງານສ່ວນຂະຫຍາຍທີ່ບໍ່ຮອງຮັບ</translation>
 <translation id="2809586584051668049">ແລະ <ph name="NUMBER_ADDITIONAL_DISABLED"/> ເພີ່ມອີກ</translation>
 <translation id="5301954838959518834">ຕົກລົງ, ເຂົ້າໃຈແລ້ວ</translation>
@@ -1312,7 +1312,7 @@
 <translation id="8017679124341497925">ແກ້ໄຂທາງລັດແລ້ວ</translation>
 <translation id="1174073918202301297">ເພີ່ມທາງລັດແລ້ວ</translation>
 <translation id="2926085873880284723">ກູ້ຄືນທາງລັດເລີ່ມຕົ້ນ</translation>
-<translation id="5801450813341024983">ພື້ນຫຼັງ Dissenter</translation>
+<translation id="5801450813341024983">ພື້ນຫຼັງ Fulldive</translation>
 <translation id="2800760947029405028">ອັບໂຫລດຮູບ</translation>
 <translation id="8342861492835240085">ເລືອກຄໍເລັກຊັນ</translation>
 <translation id="3132996321662585180">ໂຫຼດຂໍ້ມູນໃໝ່ທຸກມື້</translation>
@@ -1399,7 +1399,7 @@
 <translation id="833986336429795709">ເພື່ອເປີດລິ້ງນີ້, ກະລຸນາເລືອກແອັບໃດໜຶ່ງ</translation>
 <translation id="192494336144674234">ເປີດດ້ວຍ</translation>
 <translation id="9053893665344928494">ຈື່ການເລືອກຂອງຂ້ອຍ</translation>
-<translation id="5340857474604400806">ສືບຕໍ່ຢູ່ໃນ Dissenter</translation>
+<translation id="5340857474604400806">ສືບຕໍ່ຢູ່ໃນ Fulldive</translation>
 <translation id="3043581297103810752">ຈາກ <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ບໍ່ເປີດເຜີຍຕົນຕົວ)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (ແຂກ)</translation>
@@ -1460,8 +1460,8 @@
 <translation id="6686817083349815241">ບັນທຶກລະຫັດຜ່ານຂອງທ່ານ</translation>
 <translation id="8141725884565838206">ຈັດການລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ</translation>
 <translation id="8275038454117074363">ນໍາ​ເຂົ້າ</translation>
-<translation id="3191314862567596053">ນໍາເຂົ້າລະຫັດຜ່ານຫາ Dissenter</translation>
-<translation id="6368144843345980623">ສົ່ງອອກລະຫັດຜ່ານຈາກ Dissenter</translation>
+<translation id="3191314862567596053">ນໍາເຂົ້າລະຫັດຜ່ານຫາ Fulldive</translation>
+<translation id="6368144843345980623">ສົ່ງອອກລະຫັດຜ່ານຈາກ Fulldive</translation>
 <translation id="8503813439785031346">ຊື່​ຜູ້​ໃຊ້</translation>
 <translation id="6657585470893396449">ລະຫັດຜ່ານ</translation>
 <translation id="5472627187093107397">ບັນທຶກລະຫັດຜ່ານໄວ້ສຳລັບເວັບໄຊນີ້</translation>
@@ -1492,7 +1492,7 @@
 <translation id="7052237160939977163">ສົ່ງ​ຂໍ້​ມູນຕິດຕາມການ​ປະ​ຕິ​ບັດ</translation>
 <translation id="5526928694260255286">ແນບ <ph name="BEGIN_LINK"/>ບັນທຶກ Bluetooth<ph name="END_LINK"/> ນຳ (ໃຊ້ພາຍໃນ Gab AI Inc)</translation>
 <translation id="3047644958362961983">ຂໍ້ມູນນີ້ຊ່ວຍພວກເຮົາເຂົ້າໃຈບັນຫາຂອງຜູ້ຊ່ວຍຂອງທ່ານໄດ້ດີຂຶ້ນ. ມັນຖືກເກັບໄວ້ບໍ່ເກີນ 90 ມື້ ແລະ ມີແຕ່ທີມວິສະວະກອນ ແລະ ທີມຮັບຄຳຕິຊົມທີ່ເໝາະສົມເທົ່ານັ້ນທີ່ເຂົ້າເຖິງ.</translation>
-<translation id="8545590844135745781">ເພື່ອວິເຄາະບັນຫາ Bluetooth ໃຫ້ດີຂຶ້ນ, ຜູ້ໃຊ້ Gab AI Inc ສາມາດຮວມເອົາບັນທຶກ Bluetooth ເພີ່ມເຕີມພ້ອມກັບລາຍງານຄຳຕິຊົມຂອງພວກມັນ. ເມື່ອໝາຍເອົາຕົວເລືອກນີ້, ລາຍງານຂອງທ່ານຈະຮວມເອົາບັນທຶກ btsnoop ແລະ HCI ຈາກເຊດຊັນປັດຈຸບັນຂອງທ່ານ, ເຊິ່ງຈະທຳຄວາມສະອາດເພື່ອກຳຈັດ PII ອອກໃຫ້ຫຼາຍທີ່ສຸດເທົ່າທີ່ຈະເປັນໄປໄດ້. ສິດເຂົ້າເຖິງບັນທຶກເຫຼົ່ານີ້ຈະຈຳກັດໃຫ້ແຕ່ຜູ້ຈັດການກຸ່ມຜະລິດຕະພັນ Dissenter OS ໃນ Listnr ເທົ່ານັ້ນ. ລະບົບຈະລຶບບັນທຶກອອກໄປຢ່າງຖາວອນຫຼັງຈາກ 90 ມື້.</translation>
+<translation id="8545590844135745781">ເພື່ອວິເຄາະບັນຫາ Bluetooth ໃຫ້ດີຂຶ້ນ, ຜູ້ໃຊ້ Gab AI Inc ສາມາດຮວມເອົາບັນທຶກ Bluetooth ເພີ່ມເຕີມພ້ອມກັບລາຍງານຄຳຕິຊົມຂອງພວກມັນ. ເມື່ອໝາຍເອົາຕົວເລືອກນີ້, ລາຍງານຂອງທ່ານຈະຮວມເອົາບັນທຶກ btsnoop ແລະ HCI ຈາກເຊດຊັນປັດຈຸບັນຂອງທ່ານ, ເຊິ່ງຈະທຳຄວາມສະອາດເພື່ອກຳຈັດ PII ອອກໃຫ້ຫຼາຍທີ່ສຸດເທົ່າທີ່ຈະເປັນໄປໄດ້. ສິດເຂົ້າເຖິງບັນທຶກເຫຼົ່ານີ້ຈະຈຳກັດໃຫ້ແຕ່ຜູ້ຈັດການກຸ່ມຜະລິດຕະພັນ Fulldive OS ໃນ Listnr ເທົ່ານັ້ນ. ລະບົບຈະລຶບບັນທຶກອອກໄປຢ່າງຖາວອນຫຼັງຈາກ 90 ມື້.</translation>
 <translation id="4206323443866416204">ລາຍງານຄຳຕິຊົມ</translation>
 <translation id="3681311097828166361">ຂໍຂອບໃຈສຳລັບຄຳຕິຊົມຂອງທ່ານ. ທ່ານອອບລາຍຢູ່ຕອນນີ້ ແລະ ລາຍງານຂອງທ່ານຈະຖືກສົ່ງໃນພາຍຫຼັງ.</translation>
 <translation id="8713570323158206935">ສົ່ງ <ph name="BEGIN_LINK1"/>ຂໍ້ມູນລະບົບ<ph name="END_LINK1"/></translation>
@@ -1509,15 +1509,15 @@
 <translation id="6885771755599377173">ການສະແດງຕົວຢ່າງຂໍ້ມູນລະບົບ</translation>
 <translation id="1016566241875885511">ຂໍ້ມູນເພີ່ມເຕີມ (ເລືອກໄດ້)</translation>
 <translation id="8026334261755873520">ລຶບຂໍ້​ມູນການທ່ອງ​ເນັດ</translation>
-<translation id="4718442817388594217">ຂໍ້ມູນທີ່ເລືອກໄດ້ຖືກລຶບອອກຈາກ Dissenter ແລະ ອຸປະກອນທີ່ຊິ້ງຂໍ້ມູນແລ້ວ. ບັນຊີ Gab AI Inc ຂອງທ່ານອາດຈະມີປະຫວັດການທ່ອງເວັບຮູບແບບອື່ນໆ ເຊັ່ນວ່າ ການຊອກຫາ ແລະ ການເຄື່ອນໄຫວຈາກການບໍລິການອື່ນໆຂອງ Gab AI Inc ຢູ່ທີ່ <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/>.</translation>
-<translation id="7814200940910057384">ລຶບລ້າງຂໍ້ມູນ Dissenter ແລ້ວ</translation>
+<translation id="4718442817388594217">ຂໍ້ມູນທີ່ເລືອກໄດ້ຖືກລຶບອອກຈາກ Fulldive ແລະ ອຸປະກອນທີ່ຊິ້ງຂໍ້ມູນແລ້ວ. ບັນຊີ Gab AI Inc ຂອງທ່ານອາດຈະມີປະຫວັດການທ່ອງເວັບຮູບແບບອື່ນໆ ເຊັ່ນວ່າ ການຊອກຫາ ແລະ ການເຄື່ອນໄຫວຈາກການບໍລິການອື່ນໆຂອງ Gab AI Inc ຢູ່ທີ່ <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/>.</translation>
+<translation id="7814200940910057384">ລຶບລ້າງຂໍ້ມູນ Fulldive ແລ້ວ</translation>
 <translation id="7346909386216857016">ຕົກລົງ, ເຂົ້າໃຈແລ້ວ</translation>
 <translation id="8493236660459102203">ໄມໂຄຣໂຟນ:</translation>
 <translation id="3925573269917483990">ກ້ອງ​ຖ່າຍ​ຮູບ​</translation>
 <translation id="648927581764831596">ບໍ່​ມີອັນໃດຢູ່</translation>
 <translation id="4172051516777682613">ສະ​ແດງ​ຢູ່ສະ​ເຫມີ​</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{ບລັອກປັອບອັບແລ້ວ}other{ບລັອກ # ປັອບອັບແລ້ວ}}</translation>
-<translation id="4156865452842056672">(ໜ້າ​ຜິດ​ພາດ​ຂອງ Dissenter)</translation>
+<translation id="4156865452842056672">(ໜ້າ​ຜິດ​ພາດ​ຂອງ Fulldive)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> ອາດຈະບໍ່ສາມາດອັບເດດຕົວມັນເອງໄດ້</translation>
 <translation id="8590375307970699841">ຕັ້ງການອັບເດດອັດຕະໂນມັດ</translation>
 <translation id="8926389886865778422">ຢ່າຖາມອີກ</translation>
@@ -1622,10 +1622,10 @@
 <translation id="8658645149275195032"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນໜ້າຈໍ ແລະ ສຽງຂອງທ່ານກັບ <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນໜ້າຈໍ.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນໜ້າຈໍກັບ <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນແຖບ Dissenter.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນແຖບ Dissenter ກັບ <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນແຖບ Dissenter ແລະ ສຽງ.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນແຖບ Dissenter ແລະ ສຽງກັບ <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນແຖບ Fulldive.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນແຖບ Fulldive ກັບ <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນແຖບ Fulldive ແລະ ສຽງ.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> ກຳລັງແບ່ງປັນແຖບ Fulldive ແລະ ສຽງກັບ <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">ເຊື່ອງ</translation>
 <translation id="890616557918890486">ປ່ຽນແຫຼ່ງ</translation>
 <translation id="7792388396321542707">ຢຸດການແຊຣ໌</translation>
@@ -1648,7 +1648,7 @@
 <translation id="4711067597921221305">ຊ່ວຍ​ເຮັດ​ໃຫ້ <ph name="PRODUCT_NAME"/> ດີຂຶ້ນ​ໂດຍ​​ການ​ສົ່ງ​ສະ​ຖິ​ຕິ​ການ​ນໍາ​ໃຊ້​ ແລະ​ລາຍ​ງານການ​ຂັດຂ້ອງຫາ Gab AI Inc ໂດຍອັດຕະໂນມັດ</translation>
 <translation id="5972826969634861500">ເລີ່ມຕົ້ນ <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">ຊ່ວຍວິສະວະກອນຂອງພວກເຮົາສືບສວນ ແລະ ແກ້ໄຂການຂັດຂ້ອງນີ້. ບອກຂັ້ນຕອນທີ່ແນ່ນອນຖ້າທ່ານສາມາດເຮັດໄດ້. ບໍ່ມີລາຍລະອຽດໃດໜ້ອຍເກີນໄປ!</translation>
-<translation id="5418694430960033386">Dissenter ໝົດຄວາມຈໍາ ຫຼືຂະບວນການສໍາລັບໜ້າເວັບຖືກສິ້ນສຸດລົງດ້ວຍເຫດຜົນໃດໜຶ່ງ. ເພື່ອສືບຕໍ່, ໂຫຼດຄືນໃໝ່ ແລະໄປຫາໜ້າອື່ນ.</translation>
+<translation id="5418694430960033386">Fulldive ໝົດຄວາມຈໍາ ຫຼືຂະບວນການສໍາລັບໜ້າເວັບຖືກສິ້ນສຸດລົງດ້ວຍເຫດຜົນໃດໜຶ່ງ. ເພື່ອສືບຕໍ່, ໂຫຼດຄືນໃໝ່ ແລະໄປຫາໜ້າອື່ນ.</translation>
 <translation id="3065041951436100775">ຄຳ​ຕິ​ຊົມ​ແທັບ​ທີ່​ຖືກ​ຂ້າ​ແລ້ວ.</translation>
 <translation id="3941565636838060942">ເພື່ອເຊື່ອງການເຂົ້າໃຊ້ໂປຣແກຼມນີ້, ທ່ານຈໍາເປັນຕ້ອງຕິດຕັ້ງມັນໂດຍການໃຊ້
   <ph name="CONTROL_PANEL_APPLET_NAME"/> ຢູ່ໃນແຜງຄວບຄຸມ.
@@ -1669,17 +1669,17 @@
 <translation id="4846680374085650406">ທ່ານກໍາລັງປະຕິບັດຕາມຄໍາແນະນໍາຂອງຜູ້ຄວບຄຸມສໍາລັບການຕັ້ງຄ່າ.</translation>
 <translation id="1223853788495130632">ຜູ້ຄວບຄຸມຂອງທ່ານແນະນໍາຄ່າສະເພາະສໍາລັບການຕິດຕັ້ງນີ້ໃຫ້.</translation>
 <translation id="5464660706533281090">ຜູ້ໃຊ້ທີ່ເປັນເດັກນ້ອຍບໍ່ສາມາດປ່ຽນການຕັ້ງຄ່ານີ້ໄດ້.</translation>
-<translation id="8839398440242019256">ບໍ່ໄດ້ມາຈາກ Dissenter Web Store.</translation>
+<translation id="8839398440242019256">ບໍ່ໄດ້ມາຈາກ Fulldive Web Store.</translation>
 <translation id="5337771866151525739">ຕິດຕັ້ງໂດຍບຸກຄົນທີສາມແລ້ວ.</translation>
 <translation id="4538792345715658285">(ຕິດຕັ້ງຕາມນະ​ໂຍ​ບາຍ​ຂອງ​ວິ​ສາ​ຫະ​ກິດແລ້ວ​)</translation>
 <translation id="4359408040881008151">ຕິດຕັ້ງແລ້ວ ເນື່ອງຈາກສ່ວນຂະຫຍາຍທີ່ຂຶ້ນກັບ.</translation>
 <translation id="4980805016576257426">ສ່ວນຂະຫຍາຍນີ້ປະກອບມີມາລແວ.</translation>
 <translation id="5522156646677899028">ສ່ວນ​ຂະ​ຫຍາຍ​ນີ້​ມີ​ຄວາມອ່ອນໄຫວເລື່ອງຄວາມ​ປອດ​ໄພ​ຮ້າຍ​ແຮງ​.</translation>
-<translation id="6945695820322143954">ສ່ວນຂະຫຍາຍນີ້ລະເມີດນະໂຍບາຍ Dissenter Web Store.</translation>
-<translation id="177808131755847449">ປິດໃຊ້ງານໂດຍ Dissenter. ສ່ວນຂະຫຍາຍນີ້ອາດຈະບໍ່ປອດໄພ.</translation>
+<translation id="6945695820322143954">ສ່ວນຂະຫຍາຍນີ້ລະເມີດນະໂຍບາຍ Fulldive Web Store.</translation>
+<translation id="177808131755847449">ປິດໃຊ້ງານໂດຍ Fulldive. ສ່ວນຂະຫຍາຍນີ້ອາດຈະບໍ່ປອດໄພ.</translation>
 <translation id="1434696352799406980">ນີ້ຈະຕັ້ງໜ້າການເລີ່ມຕົ້ນ, ໜ້າແຖບໃໝ່, ລະບົບຊອກຫາ ແລະແຖບປັກໝຸດຂອງທ່ານຄືນໃໝ່. ມັນຈະຍັງປິດນຳໃຊ້ສ່ວນຂະຫຍາຍທັງໝົດ ແລະລ້າງຂໍ້ມູນຊົ່ວຄາວ ເຊັ່ນ: ຄຸກກີ້. ສ່ວນ ບຸກມາກ, ປະຫວັດ ແລະລະຫັດຜ່ານທີ່ບັນທຶກໄວ້ຂອງທ່ານຈະບໍ່ຖືກລຶບລ້າງ.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> ຕ້ອງ​ການ​ຕັ້ງ​ການ​ຕັ້ງ​ຄ່າ​ຂອງ​ທ່ານຄືນ​ໃໝ່.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> ຕ້ອງ​ການ​ກູ້​ຄືນ​ການ​ຕັ້ງ​ຄ່າ Dissenter ຂອງ​ທ່ານ​ເປັນ​ຄ່າເລີ່ມຕົ້ນເດີ​ມ​ຂອງ​ພວກ​ມັນ. ອັນນີ້ຈະຕັ້ງຄ່າໜ້າຫຼັກ, ໜ້າແຖບໃໝ່ ແລະ ໂປຣແກຣມຄົ້ນຫາຂອງທ່ານຄືນໃໝ່, ປິດໃຊ້ງານສ່ວນຂະຫຍາຍຂອງທ່ານ ແລະຖອນປັກໝຸກທຸກແຖບ. ມັນຍັງຈະລຶບຂໍ້ມູນຊົ່ວຄາວ ແລະຂໍ້ມູນທີ່ແຄຊ໌ໄວ້ອື່ນນຳອີກ ເຊັ່ນ ຄຸກກີ້, ເນື້ອໃນ ແລະ ຂໍ້ມູນເວັບໄຊທ໌.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> ຕ້ອງ​ການ​ກູ້​ຄືນ​ການ​ຕັ້ງ​ຄ່າ Fulldive ຂອງ​ທ່ານ​ເປັນ​ຄ່າເລີ່ມຕົ້ນເດີ​ມ​ຂອງ​ພວກ​ມັນ. ອັນນີ້ຈະຕັ້ງຄ່າໜ້າຫຼັກ, ໜ້າແຖບໃໝ່ ແລະ ໂປຣແກຣມຄົ້ນຫາຂອງທ່ານຄືນໃໝ່, ປິດໃຊ້ງານສ່ວນຂະຫຍາຍຂອງທ່ານ ແລະຖອນປັກໝຸກທຸກແຖບ. ມັນຍັງຈະລຶບຂໍ້ມູນຊົ່ວຄາວ ແລະຂໍ້ມູນທີ່ແຄຊ໌ໄວ້ອື່ນນຳອີກ ເຊັ່ນ ຄຸກກີ້, ເນື້ອໃນ ແລະ ຂໍ້ມູນເວັບໄຊທ໌.</translation>
 <translation id="7581462281756524039">ເຄື່ອງ​ມື​ທຳ​ຄວາມ​ສະ​ອາດ</translation>
 <translation id="1233721473400465416">ກັບທີ່</translation>
 <translation id="2907619724991574506">ເລີ່ມຕົ້ນ URLs</translation>
@@ -1873,7 +1873,7 @@
 <translation id="6664774537677393800">ມີບາງຢ່າງຜິດພາດໃນເວລາເປີດໂປຣໄຟລ໌ຂອງທ່ານ. ກະລຸນາອອກຈາກລະບົບ ແລ້ວເຂົ້າສູ່ລະບົບຄືນໃໝ່.</translation>
 <translation id="1794791083288629568">ສົ່ງຄຳຕິຊົມເພື່ອຊ່ວຍພວກເຮົາແກ້ໄຂບັນຫານີ້.</translation>
 <translation id="8234795456569844941">ກະລຸນາຊ່ວຍວິສະວະກອນຂອງພວກເຮົາແກ້ໄຂບັນຫານີ້. ບອກພວກເຮົາສິ່ງທີ່ເກີດຂຶ້ນທັນທີກ່ອນທີ່ທ່ານໄດ້ຮັບຂໍ້ຄວາມສະແດງຂໍ້ຜິດພາດກ່ຽວກັບໂປຣໄຟລ໌ດັ່ງກ່າວ:</translation>
-<translation id="6500340165622970282">ບໍ່ສາມາດເລີ່ມ Dissenter ໄດ້ເພາະວ່າມີບາງຢ່າງຜິດພາດໃນເວລາເປີດໂປຣໄຟລ໌ຂອງທ່ານ. ກະລຸນາລອງປິດເປີດ Dissenter ຄືນໃໝ່.</translation>
+<translation id="6500340165622970282">ບໍ່ສາມາດເລີ່ມ Fulldive ໄດ້ເພາະວ່າມີບາງຢ່າງຜິດພາດໃນເວລາເປີດໂປຣໄຟລ໌ຂອງທ່ານ. ກະລຸນາລອງປິດເປີດ Fulldive ຄືນໃໝ່.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> ບໍ່​ສາມາດ​ຖືກ​ແລ່ນເປັນຮາກຖານໄດ້.</translation>
 <translation id="2292848386125228270">ກະລຸນາເລີ່ມ <ph name="PRODUCT_NAME"/> ເປັນຜູ້ໃຊ້ປົກກະຕົກ. ຖ້າທ່ານຕ້ອງການເປີດໃຊ້ເປັນ root ສຳລັບການພັດທະນາ, ໃຫ້ເປີດໃຊ້ຄືນໃໝ່ດ້ວຍທຸງ --no-sandbox.</translation>
 <translation id="7547317915858803630">ຄໍາເຕືອນ: ການຕັ້ງຄ່າ <ph name="PRODUCT_NAME"/> ຂອງທ່ານຖືກເກັບໄວ້ຢູ່ໃນດຣາຍເຄືອຂ່າຍ. ອັນນີ້ອາດຈະສົ່ງຜົນໃຫ້ມີການຊ້າລົງ, ເກີດການຂັດຂ້ອງ, ຫຼືແມ້ແຕ່ການສູນເສຍຂໍ້ມູນ.</translation>
@@ -2249,8 +2249,8 @@
 <translation id="4720113199587244118">ເພີ່ມ​ອຸ​ປະ​ກອນ</translation>
 <translation id="2776441542064982094">ເບິ່ງ​ຄື​ບໍ່​ມີ​ອຸ​ປະ​ກອນ​ຢູ່ທີ່ຈະ​ລົງ​ທະ​ບຽນ​ໃນ​ເຄືອ​ຂ່າຍ. ຖ້າອຸປະກອນຂອງທ່ານເປີດຢູ່ ແລະເຊື່ອມຕໍ່ກັບອິນເຕີເນັດແລ້ວ, ລອງລົງທະບຽນມັນດ້ວຍການໃຊ້ຄໍາແນະນໍາຢູ່ໃນຄູ່ມືແນະນໍາ.</translation>
 <translation id="1007408791287232274">ບໍ່​ສາ​ມາດ​ໂຫຼດອຸປະກອນໄດ້​.</translation>
-<translation id="3886420006370338208">ທ່ານ​ຈໍາ​ເປັນ​ຕ້ອງ​ລົງຊື່ເຂົ້າ​ໃຊ້ Dissenter ເພື່ອ​ເບິ່ງ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ</translation>
-<translation id="6711610692002680394">ທ່ານ​ຈໍາ​ເປັນ​ຕ້ອງ​ລົງຊື່ເຂົ້າ​ໃຊ້​ Dissenter ເພື່ອ​ລົງທະບຽນ​ອຸ​ປະ​ກອນ​ໃໝ່</translation>
+<translation id="3886420006370338208">ທ່ານ​ຈໍາ​ເປັນ​ຕ້ອງ​ລົງຊື່ເຂົ້າ​ໃຊ້ Fulldive ເພື່ອ​ເບິ່ງ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ</translation>
+<translation id="6711610692002680394">ທ່ານ​ຈໍາ​ເປັນ​ຕ້ອງ​ລົງຊື່ເຂົ້າ​ໃຊ້​ Fulldive ເພື່ອ​ລົງທະບຽນ​ອຸ​ປະ​ກອນ​ໃໝ່</translation>
 <translation id="8931394284949551895">ອຸ​ປະ​ກອນ​ໃຫມ່</translation>
 <translation id="3752673729237782832">ອຸ​ປະ​ກອນ​ຂອງ​ຂ້ອຍ</translation>
 <translation id="1721937473331968728">ທ່ານສາມາດເພີ່ມເຄື່ອງພິມຄລາສສິກເຊື່ອມຕໍ່ຄອມພິວເຕີຂອງທ່ານກັບ <ph name="CLOUD_PRINT_NAME"/> ແລ້ວ.</translation>
@@ -2323,7 +2323,7 @@
 <translation id="4540437243849625078">ເວັບໄຊນີ້ກຳລັງຈະແບ່ງປັນຂໍ້ມູນກັບແອັບທີ່ຢູ່ພາຍນອກໂໝດບໍ່ເຜີຍຕົວຕົນ.</translation>
 <translation id="1227836882233136433">ອອກຈາກໂໝດທີ່ບໍ່ເຜີຍຕົວຕົນບໍ?</translation>
 <translation id="662080504995468778">ຢູ່ຕໍ່</translation>
-<translation id="2593289874938379417">Dissenter ບໍ່ມີການເຂົ້າເຖິງຊັບພະຍາກອນທີ່ຮ້ອງຂໍ.</translation>
+<translation id="2593289874938379417">Fulldive ບໍ່ມີການເຂົ້າເຖິງຊັບພະຍາກອນທີ່ຮ້ອງຂໍ.</translation>
 <translation id="760197030861754408">ໄປ​ທີ່ <ph name="LANDING_PAGE"/> ເພື່ອ​ເຊື່ອມ​ຕໍ່.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> ກວດ​ພົບ​ແລ້ວ</translation>
 <translation id="5042282098504489593">ເປີດການຕັ້ງຄ່າເພື່ອເຊື່ອມຕໍ່ <ph name="USB_DEVICE_NAME"/> ກັບ Linux</translation>
@@ -2377,24 +2377,24 @@
 <translation id="2859806420264540918">ເວັບໄຊນີ້ສະແດງໂຄສະນາທີ່ລົບກວນ ຫຼື ຫຼອກລວງ.</translation>
 <translation id="4077917118009885966">ບລັອກໂຄສະນາໃນເວັບໄຊນີ້ໄວ້ແລ້ວ</translation>
 <translation id="6456955391422100996">ລຶບໂຄສະນາອອກແລ້ວ.</translation>
-<translation id="7533556202636568669">ໂຄສະນານີ້ໃຊ້ຊັບພະຍາກອນຫຼາຍເກີນໄປສຳລັບອຸປະກອນຂອງທ່ານ, ສະນັ້ນ Dissenter ໄດ້ລຶບມັນອອກແລ້ວ.</translation>
+<translation id="7533556202636568669">ໂຄສະນານີ້ໃຊ້ຊັບພະຍາກອນຫຼາຍເກີນໄປສຳລັບອຸປະກອນຂອງທ່ານ, ສະນັ້ນ Fulldive ໄດ້ລຶບມັນອອກແລ້ວ.</translation>
 <translation id="8497219075884839166">Windows Utilities</translation>
 <translation id="897525204902889653">ການບໍລິການກັກກັນ</translation>
 <translation id="7055152154916055070">ບລັອກການປ່ຽນເສັ້ນທາງແລ້ວ:</translation>
 <translation id="6777817260680419853">ບລັອກການປ່ຽນເສັ້ນທາງແລ້ວ</translation>
 <translation id="694592694773692225">ບລັອກການປ່ຽນເສັ້ນທາງໃນໜ້ານີ້ແລ້ວ.</translation>
-<translation id="8945142681652245463">ທ່ອງເວັບໄດ້ໄວດ້ວຍ Gab AI Inc Dissenter</translation>
-<translation id="2618024864038703735">ທ່ອງເວັບຢ່າງປອດໄພດ້ວຍ Gab AI Inc Dissenter</translation>
-<translation id="8142180567942285208">ທ່ອງເວັບຢ່າງສະຫຼາດດ້ວຍ Dissenter</translation>
+<translation id="8945142681652245463">ທ່ອງເວັບໄດ້ໄວດ້ວຍ Gab AI Inc Fulldive</translation>
+<translation id="2618024864038703735">ທ່ອງເວັບຢ່າງປອດໄພດ້ວຍ Gab AI Inc Fulldive</translation>
+<translation id="8142180567942285208">ທ່ອງເວັບຢ່າງສະຫຼາດດ້ວຍ Fulldive</translation>
 <translation id="8862003515646449717">ປ່ຽນເປັນໂປຣແກຣມທ່ອງເວັບທີ່ໄວ</translation>
 <translation id="8438328416656800239">ປ່ຽນເປັນໂປຣແກຣມທ່ອງເວັບທີ່ສະຫຼາດ</translation>
 <translation id="491691592645955587">ປ່ຽນເປັນໂປຣແກຣມທ່ອງເວັບທີ່ປອດໄພ</translation>
 <translation id="683373380308365518">ປ່ຽນເປັນໂປຣແກຣມທ່ອງເວັບທີ່ສະຫຼາດ ແລະ ປອດໄພ</translation>
-<translation id="989239400026154074">Gab AI Inc ແນະນຳໃຫ້ໃຊ້ Dissenter</translation>
-<translation id="6676231621615806698">ເປີດ Dissenter</translation>
+<translation id="989239400026154074">Gab AI Inc ແນະນຳໃຫ້ໃຊ້ Fulldive</translation>
+<translation id="6676231621615806698">ເປີດ Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> ໃຊ້ສະຖານທີ່ຂອງທ່ານເພື່ອໃຫ້ເນື້ອຫາທ້ອງຖິ່ນແກ່ທ່ານ. ທ່ານສາມາດປ່ຽນສິ່ງນີ້ໄດ້ໃນ <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">ການດາວໂຫຼດຂອງທ່ານປາກົດຢູ່ບ່ອນນີ້</translation>
-<translation id="4782664866169793230">Dissenter ກຳລັງຖືກຄວບຄຸມໂດຍຊອບແວທົດສອບອັດຕະໂນມັດ.</translation>
+<translation id="4782664866169793230">Fulldive ກຳລັງຖືກຄວບຄຸມໂດຍຊອບແວທົດສອບອັດຕະໂນມັດ.</translation>
 <translation id="6721678857435001674">ເບິ່ງຍີ່ຫໍ້ ແລະ ລຸ້ນຂອງກະແຈຄວາມປອດໄພຂອງທ່ານ</translation>
 <translation id="1673137583248014546"><ph name="URL"/> ຕ້ອງການເບິ່ງຍີ່ຫໍ້ ແລະ ລຸ້ນຂອງກະແຈຄວາມປອດໄພຂອງທ່ານ</translation>
 <translation id="6010869025736512584">ການ​ເຂົ້າ​ໃຊ້ການ​ປ້ອນຂໍ້ມູນ​ວິ​ດີ​ໂອ</translation>
@@ -2527,7 +2527,7 @@
 <translation id="3984431586879874039">ອະນຸຍາດໃຫ້ເວັບໄຊນີ້ເຫັນກະແຈຄວາມປອດໄພຂອງທ່ານບໍ?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> ຕ້ອງການເບິ່ງຍີ່ຫໍ້ ແລະ ຮຸ່ນກະແຈຄວາມປອດໄພຂອງທ່ານ</translation>
 <translation id="7618452966706304788">ທ່ານຕ້ອງການໃຊ້ Touch ID ກັບ <ph name="APP_NAME"/> ໃນໂໝດທີ່ບໍ່ເຜີຍຕົວຕົນບໍ?</translation>
-<translation id="3098826269712097986">ລະບົບຈະເກັບຂໍ້ມູນເຂົ້າສູ່ລະບົບໄວ້ໃນ Dissenter ຫຼັງຈາກທີ່ທ່ານອອກຈາກໂໝດທີ່ບໍ່ເຜີຍຕົວຕົນ. ນີ້ຈະເຮັດໃຫ້ທ່ານສາມາດໃຊ້ Touch ID ກັບເວັບໄຊນີ້ໄດ້ອີກຄັ້ງໃນພາຍຫຼັງ.</translation>
+<translation id="3098826269712097986">ລະບົບຈະເກັບຂໍ້ມູນເຂົ້າສູ່ລະບົບໄວ້ໃນ Fulldive ຫຼັງຈາກທີ່ທ່ານອອກຈາກໂໝດທີ່ບໍ່ເຜີຍຕົວຕົນ. ນີ້ຈະເຮັດໃຫ້ທ່ານສາມາດໃຊ້ Touch ID ກັບເວັບໄຊນີ້ໄດ້ອີກຄັ້ງໃນພາຍຫຼັງ.</translation>
 <translation id="2172784515318616985">ສືບຕໍ່</translation>
 <translation id="5186185447130319458">ບໍ່​ເຜີຍ​ຕົວຕົນ</translation>
 <translation id="7643842463591647490">{0,plural, =1{# ໜ້າຈໍເປີດຢູ່}other{# ໜ້າຈໍເປີດຢູ່}}</translation>
@@ -2569,7 +2569,7 @@
 <translation id="2346953515226895098">ການບໍລິການ SODA</translation>
 <translation id="7516981202574715431">ຢຸດ <ph name="APP_NAME"/> ຊົ່ວຄາວຢູ່</translation>
 <translation id="917350715406657904">ທ່ານໄດ້ຮອດຂີດຈຳກັດເວລາທີ່ພໍ່ແມ່ຂອງທ່ານກຳນົດໃຫ້ <ph name="APP_NAME"/> ແລ້ວ. ທ່ານສາມາດໃຊ້ມັນເປັນເວລາ <ph name="TIME_LIMIT"/> ໃນມື້ອື່ນໄດ້.</translation>
-<translation id="8891261408659902804">ທ່ານໄດ້ຮອດຂີດຈຳກັດເວລາທີ່ພໍ່ແມ່ຂອງທ່ານກຳນົດໄວ້ສຳລັບແອັບ Dissenter <ph name="APP_NAME"/> ແລ້ວ. ທ່ານສາມາດໃຊ້ມັນເປັນເວລາ <ph name="TIME_LIMIT"/> ໄດ້ໃນມື້ອື່ນ.</translation>
+<translation id="8891261408659902804">ທ່ານໄດ້ຮອດຂີດຈຳກັດເວລາທີ່ພໍ່ແມ່ຂອງທ່ານກຳນົດໄວ້ສຳລັບແອັບ Fulldive <ph name="APP_NAME"/> ແລ້ວ. ທ່ານສາມາດໃຊ້ມັນເປັນເວລາ <ph name="TIME_LIMIT"/> ໄດ້ໃນມື້ອື່ນ.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> ຖືກບລັອກໄວ້ຢູ່</translation>
 <translation id="4404843640767531781">ພໍ່ແມ່ຂອງທ່ານບລັອກ <ph name="APP_NAME"/> ໄວ້ ຂໍອະນຸຍາດນຳພໍ່ແມ່ຂອງທ່ານເພື່ອໃຊ້ແອັບນີ້.</translation>
 <translation id="751523031290522286">ຜູ້ເບິ່ງແຍງລະບົບບລັອກ <ph name="APP_NAME"/> ໄວ້. ຂໍອະນຸຍາດນຳຜູ້ເບິ່ງແຍງລະບົບເພື່ອໃຊ້ແອັບນີ້.</translation>
@@ -2902,7 +2902,7 @@
 <translation id="672213144943476270">ກະລຸນາປົດລັອກໂປຣໄຟລ໌ຂອງທ່ານກ່ອນທີ່ຈະທ່ອງເວັບເປັນແຂກ.</translation>
 <translation id="8086119151297127544">ກະລຸນາປົດລັອກໂປຣໄຟລ໌ຂອງທ່ານກ່ອນທີ່ຈະເອົາບຸກຄົນໃດໜຶ່ງອອກ.</translation>
 <translation id="7805701378418968629">ກະລຸນາປົດລັອກໂປຣໄຟລ໌ຂອງທ່ານກ່ອນທີ່ຈະເພີ່ມບຸກຄົນ.</translation>
-<translation id="8978225823042133615">ເພື່ອໃຊ້ Dissenter, ກະລຸນາເຂົ້າສູ່ລະບົບ</translation>
+<translation id="8978225823042133615">ເພື່ອໃຊ້ Fulldive, ກະລຸນາເຂົ້າສູ່ລະບົບ</translation>
 <translation id="4893336867552636863">ອັນ​ນີ້​ຈະ​ລຶບ​ຂໍ້​ມູນ​ການ​ທ່ອງ​ເນັດ​ຂອງ​ທ່ານ​ໄປ​ຈາກ​ອຸ​ປະ​ກອນ​ນີ້​ຖາ​ວອນ.</translation>
 <translation id="2496180316473517155">ປະຫວັດການທ່ອງເວັບ</translation>
 <translation id="6865313869410766144">ຕື່ມຂໍ້ມູນແບບຟອມອັດຕະໂນມັດ</translation>
@@ -2926,7 +2926,7 @@
 <translation id="9013707997379828817">ຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານໄດ້ຍ້ອນກັບອຸປະກອນນີ້. ກະລຸນາບັນທຶກໄຟລ໌, ຈາກນັ້ນປິດເປີດຄືນໃໝ່. ຂໍ້ມູນທັງໝົດໃນອຸປະກອນນີ້ຈະຖືກລຶບ.</translation>
 <translation id="5877064549588274448">ປ່ຽນຊ່ອງແລ້ວ. ປິດເປີດເຄື່ອງຂອງທ່ານໃໝ່ ເພື່ອນໍາໃຊ້ການປ່ຽນແປງ.</translation>
 <translation id="4716483597559580346">Powerwash ເພື່ອຄວາມປອດໄພເພີ່ມຂຶ້ນ</translation>
-<translation id="4089922565956168950">ການອັບເກຣດນີ້ຣີເຊັດ Dissenterbook ຂອງທ່ານ ແລະ ລຶບຂໍ້ມູນຜູ້ໃຊ້ປັດຈຸບັນອອກໄປ.</translation>
+<translation id="4089922565956168950">ການອັບເກຣດນີ້ຣີເຊັດ Fulldivebook ຂອງທ່ານ ແລະ ລຶບຂໍ້ມູນຜູ້ໃຊ້ປັດຈຸບັນອອກໄປ.</translation>
 <translation id="3688526734140524629">ປ່ຽນຊ່ອງ</translation>
 <translation id="6410328738210026208">ປ່ຽນ​​ຊ່ອງ ​ແລະ Powerwash</translation>
 <translation id="1979280758666859181">ທ່ານກໍາລັງປ່ຽນຊ່ອງດ້ວຍ <ph name="PRODUCT_NAME"/> ລຸ້ນເກົ່າກ່ວາ. ການປ່ຽນຊ່ອງຈະຖືກນໍາໃຊ້ ເມື່ອລຸ້ນຂອງຊ່ອງກົງກັບລຸ້ນທີ່ໄດ້ຕິດຕັ້ງໄວ້ກັບອຸປະກອນຂອງທ່ານໃນປະຈຸບັນ.</translation>
@@ -2958,7 +2958,7 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, ອີກ +1 ບັນຊີ}other{<ph name="EMAIL"/>, ອີກ +<ph name="EXTRA_ACCOUNTS"/> ບັນຊີ}}</translation>
 <translation id="7434635829372401939">ຊິ້ງຂໍ້ມູນການຕັ້ງຄ່າຂອງທ່ານ</translation>
 <translation id="1036348656032585052">ປິດ</translation>
-<translation id="3267705913905916810">ແອັບ ແລະ ການຕັ້ງຄ່າຂອງທ່ານຈະຊິ້ງຂໍ້ມູນໃນທົ່ວອຸປະກອນ Dissenter OS ທີ່ທ່ານເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີ Gab AI Inc ຂອງທ່ານ. ສຳລັບຕົວເລືອກການຊິ້ງຂໍ້ມູນ, ກະລຸນາໄປທີ່<ph name="LINK_BEGIN"/>ການຕັ້ງຄ່າ Dissenter<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">ແອັບ ແລະ ການຕັ້ງຄ່າຂອງທ່ານຈະຊິ້ງຂໍ້ມູນໃນທົ່ວອຸປະກອນ Fulldive OS ທີ່ທ່ານເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີ Gab AI Inc ຂອງທ່ານ. ສຳລັບຕົວເລືອກການຊິ້ງຂໍ້ມູນ, ກະລຸນາໄປທີ່<ph name="LINK_BEGIN"/>ການຕັ້ງຄ່າ Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">ເຄື່ອງ​ພິມ</translation>
 <translation id="8418661265246754237">ບັນຊີ Gab AI Inc</translation>
 <translation id="3953834000574892725">ບັນຊີຂອງຂ້ອຍ</translation>
@@ -3005,7 +3005,7 @@
 <translation id="2187700606737131818">Gab AI Inc ຮູບພາບ</translation>
 <translation id="1827738518074806965">ຫ້ອງສະແດງງານສິນລະປະ</translation>
 <translation id="9137157311132182254">ໂປຣແກຣມຊອກຫາທີ່ເລືອກ</translation>
-<translation id="7423118389528876103">ໃຊ້ໂດຍໂປຣແກຣມທ່ອງເວັບ Dissenter ແລະ ຕົວເປີດໃຊ້ <ph name="DEVICE_TYPE"/></translation>
+<translation id="7423118389528876103">ໃຊ້ໂດຍໂປຣແກຣມທ່ອງເວັບ Fulldive ແລະ ຕົວເປີດໃຊ້ <ph name="DEVICE_TYPE"/></translation>
 <translation id="2862205630718215619">ຜູ້ຊ່ວຍ Gab AI Inc</translation>
 <translation id="8959699239363253085">ເປີດ</translation>
 <translation id="971479617738309149">ປິດ</translation>
@@ -3025,15 +3025,15 @@
 <translation id="6644513150317163574">ຮູບແບບ URL ບໍ່ຖືກຕ້ອງ. ຕ້ອງລະບຸເຊີບເວີເປັນຊື່ໂຮສ ເມື່ອໃຊ້ການກວດຮັບຮອງຄວາມຖືກຕ້ອງ SSO.</translation>
 <translation id="6091761513005122595">ເຊື່ອມຕໍ່ການແບ່ງປັນສຳເລັດແລ້ວ.</translation>
 <translation id="5770125698810550803">ສະແດງປຸ່ມນຳທາງ</translation>
-<translation id="2972318514147518075">ໄປຫາໜ້າຫຼັກ, ກັບຄືນ ແລະ ສະຫຼັບແອັບດ້ວຍປຸ່ມໃນໂໝດແທັບເລັດ. ເປີດເມື່ອເປີດການນຳໃຊ້ DissenterVox ຫຼື Automatic clicks.</translation>
+<translation id="2972318514147518075">ໄປຫາໜ້າຫຼັກ, ກັບຄືນ ແລະ ສະຫຼັບແອັບດ້ວຍປຸ່ມໃນໂໝດແທັບເລັດ. ເປີດເມື່ອເປີດການນຳໃຊ້ FulldiveVox ຫຼື Automatic clicks.</translation>
 <translation id="2558896001721082624">ສະແດງຕົວເລືອກການຊ່ວຍເຂົ້າເຖິງໃນເມນູລະບົບທຸກເທື່ອ</translation>
 <translation id="2981113813906970160">ສະ​ແດງເຄີເຊີເມົາສ໌ໃຫຍ່</translation>
 <translation id="5072052264945641674">ປັບຂະໜາດເຄີເຊີ</translation>
 <translation id="4209092469652827314">​ໃຫຍ່</translation>
 <translation id="499165176004408815">ໃຊ້ໂໝດສີຕັດກັນສູງ</translation>
 <translation id="142758023928848008">ເປີດໃຊ້ງານປຸ່ມໜຽວ (ເພື່ອດໍາເນີນການທາງລັດຄີບອດໂດຍການພິມພວກມັນເປັນລໍາດັບ)</translation>
-<translation id="5914872514449971753">ເປີດໃຊ້ງານ DissenterVox (ຄໍາ​ຄິດ​​ເຫັນທີ່​ເວົ້າມາ​)່</translation>
-<translation id="7099511550603534982">ເປີດການຕັ້ງຄ່າ DissenterVox</translation>
+<translation id="5914872514449971753">ເປີດໃຊ້ງານ FulldiveVox (ຄໍາ​ຄິດ​​ເຫັນທີ່​ເວົ້າມາ​)່</translation>
+<translation id="7099511550603534982">ເປີດການຕັ້ງຄ່າ FulldiveVox</translation>
 <translation id="8547013269961688403">ເປີດນຳໃຊ້ແວ່ນຂະຫຍາຍເຕັມຈໍ</translation>
 <translation id="8743390665131937741">ລະດັບການຊູມເຕັມຈໍ:</translation>
 <translation id="7334274148831027933">ເປີດນຳໃຊ້ແວ່ນຂະຫຍາຍທີ່ຕັ້ງໄວ້ແລ້ວ</translation>
@@ -3125,7 +3125,7 @@
 <translation id="6902066522699286937">ສຽງທີ່ຈະສະແດງຕົວຢ່າງ</translation>
 <translation id="304747341537320566">ໂປຣແກຣມສຽງເວົ້າ</translation>
 <translation id="2755367719610958252">ຈັດການຄຸນສົມບັດການຊ່ວຍເຂົ້າເຖິງ</translation>
-<translation id="1203953622051744249">ຈັດການບັນຊີທີ່ເຂົ້າສູ່ລະບົບຂອງທ່ານ. ເວັບໄຊ, ແອັບ ແລະ ສ່ວນຂະຫຍາຍໃນ Dissenter ແລະ Gab AI Inc Play ອາດຈະໃຊ້ບັນຊີເຫຼົ່ານີ້ເພື່ອປັບແຕ່ງປະສົບການຂອງທ່ານ, ໂດຍຂຶ້ນກັບການອະນຸຍາດ. <ph name="LINK_BEGIN"/>ສຶກສາເພີ່ມເຕີມ<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">ຈັດການບັນຊີທີ່ເຂົ້າສູ່ລະບົບຂອງທ່ານ. ເວັບໄຊ, ແອັບ ແລະ ສ່ວນຂະຫຍາຍໃນ Fulldive ແລະ Gab AI Inc Play ອາດຈະໃຊ້ບັນຊີເຫຼົ່ານີ້ເພື່ອປັບແຕ່ງປະສົບການຂອງທ່ານ, ໂດຍຂຶ້ນກັບການອະນຸຍາດ. <ph name="LINK_BEGIN"/>ສຶກສາເພີ່ມເຕີມ<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">ເພີ່ມບັນຊີໂຮງຮຽນ ຫຼື ຈັດການບັນຊີເດັກນ້ອຍຢູ່ບ່ອນນີ້. <ph name="LINK_BEGIN"/>ສຶກສາເພີ່ມເຕີມ<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">ບັນ​ຊີ</translation>
 <translation id="6597148444736186483">ເພື່ອອອກຈາກລະບົບບັນຊີຫຼັກໃນອຸປະກອນນີ້, ກະລຸນາຄລິກເວລາໃນໜ້າຈໍ. ໃນເມນູທີ່ປາກົດຂຶ້ນມາ, ກະລຸນາຄລິກ "ອອກຈາກລະບົບ".</translation>
@@ -3197,7 +3197,7 @@
 <translation id="234889437187286781">ເກີດຂໍ້ຜິດພາດໃນການໂຫຼດຂໍ້ມູນ</translation>
 <translation id="4660540330091848931">ກຳລັງປັບຂະໜາດ</translation>
 <translation id="1481537595330271162">ເກີດຂໍ້ຜິດພາດໃນການປັບຂະໜາດດິສ</translation>
-<translation id="2756917833575664962">ຈຳເປັນຕ້ອງຣີເຊັດ Dissenterbook ເປັນຄ່າໂຮງງານເພື່ອເປີດນຳໃຊ້ການດີບັກ ADB. <ph name="BEGIN_LINK_LEARN_MORE"/>ສຶກສາເພີ່ມເຕີມ<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">ຈຳເປັນຕ້ອງຣີເຊັດ Fulldivebook ເປັນຄ່າໂຮງງານເພື່ອເປີດນຳໃຊ້ການດີບັກ ADB. <ph name="BEGIN_LINK_LEARN_MORE"/>ສຶກສາເພີ່ມເຕີມ<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">ເພື່ອເປີດນຳໃຊ້ການດີບັກ ADB, ຈຳເປັນຕ້ອງຣີສະຕາດ <ph name="DEVICE_TYPE"/> ນີ້. ການປິດນຳໃຊ້ມັນຈຳເປັນຕ້ອງຣີເຊັດເປັນການຕັ້ງຄ່າຈາກໂຮງງານ.</translation>
 <translation id="8082390128630131497">ການປິດນຳໃຊ້ການດີບັກ ADB ຈະຣີເຊັດ <ph name="DEVICE_TYPE"/> ນີ້ເປັນການຕັ້ງຄ່າຈາກໂຮງງານ. ລະບົບຈະລຶບບັນຊີຜູ້ໃຊ້ ແລະ ຂໍ້ມູນໃນເຄື່ອງທັງໝົດ.</translation>
 <translation id="7932969338829957666">ໂຟນເດີທີ່ໃຊ້ຮ່ວມກັນສາມາດໃຊ້ໄດ້ໃນ Linux ທີ່ <ph name="BASE_DIR"/>.</translation>
@@ -3325,10 +3325,10 @@
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> ບໍ່ສາມາດໃຊ້ໄດ້ອີກຕໍ່ໄປ</translation>
 <translation id="3976108569178263973">ບໍ່ມີເຄື່ອງພິມທີ່ສາມາດໃຊ້ໄດ້.</translation>
 <translation id="217576141146192373">ບໍ່ສາມາດເພີ່ມເຄື່ອງພິມໄດ້. ກະລຸນາກວດເບິ່ງການຕັ້ງຄ່າເຄື່ອງພິມຂອງທ່ານແລ້ວລອງໃໝ່.</translation>
-<translation id="4052689580269971502">ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຄື່ອງພິມໄດ້. ກະລຸນາກວດເບິ່ງວ່າເຄື່ອງພິມເປີດຢູ່ ແລະ ເຊື່ອມຕໍ່ກັບ Dissenterbook ຂອງທ່ານຜ່ານ Wi-Fi ຫຼື USB ຫຼືບໍ່.</translation>
+<translation id="4052689580269971502">ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຄື່ອງພິມໄດ້. ກະລຸນາກວດເບິ່ງວ່າເຄື່ອງພິມເປີດຢູ່ ແລະ ເຊື່ອມຕໍ່ກັບ Fulldivebook ຂອງທ່ານຜ່ານ Wi-Fi ຫຼື USB ຫຼືບໍ່.</translation>
 <translation id="7099337801055912064">ບໍ່ສາມາດໂຫຼດ PPD ທີ່ມີຂະໜາດໃຫຍ່ໄດ້. ຂະໜາດສູງສຸດແມ່ນ 250 kB.</translation>
 <translation id="4310139701823742692">ໄຟລ໌ມີຮູບແບບບໍ່ຖືກຕ້ອງ. ກະລຸນາກວດເບິ່ງໄຟລ໌ PPD ແລະ ລອງອີກຄັ້ງ.</translation>
-<translation id="6580983683519551561">ບໍ່ສາມາດຊອກເຫັນ PPD. ກະລຸນາກວດໃຫ້ແນ່ໃຈວ່າ Dissenterbook ຂອງທ່ານອອນລາຍຢູ່ ແລະ ລອງອີກຄັ້ງ.</translation>
+<translation id="6580983683519551561">ບໍ່ສາມາດຊອກເຫັນ PPD. ກະລຸນາກວດໃຫ້ແນ່ໃຈວ່າ Fulldivebook ຂອງທ່ານອອນລາຍຢູ່ ແລະ ລອງອີກຄັ້ງ.</translation>
 <translation id="4694024090038830733">ຜູ້ເບິ່ງແຍງລະບົບເປັນຜູ້ຈັດການການກຳນົດຄ່າເຄື່ອງພິມ.</translation>
 <translation id="5816434091619127343">ການປ່ຽນແປງເຄື່ອງພິມທີ່ຮ້ອງຂໍມາຈະເຮັດໃຫ້ເຄື່ອງພິມບໍ່ສະຖຽນ.</translation>
 <translation id="6504611359718185067">ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດເພື່ອເພີ່ມເຄື່ອງພິມ</translation>
@@ -3664,18 +3664,18 @@
 <translation id="7770651108375708429">ຕັດການເຊື່ອມຕໍ່ Wi-Fi</translation>
 <translation id="4168015872538332605">ການຕັ້ງຄ່າບາງອັນທີ່ເປັນຂອງ <ph name="PRIMARY_EMAIL"/> ກໍາລັງຖືກແຊຣ໌ກັບທ່ານ. ການຕັ້ງຄ່າເຫຼົ່ານີ້ມີຜົນກະທົບກັບບັນຊີຂອງທ່ານພຽງແຕ່ເມື່ອໃຊ້ການລົງຊື່ເຂົ້າ​ໃຊ້ຫຼາຍອັນເທົ່ານັ້ນ.</translation>
 <translation id="1485141095922496924">ເວີຊັນ <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">ອັບເດດ Dissenter ໂດຍອັດຕະໂນມັດສຳລັບຜູ້ໃຊ້ທຸກຄົນ</translation>
+<translation id="4570609078116869893">ອັບເດດ Fulldive ໂດຍອັດຕະໂນມັດສຳລັບຜູ້ໃຊ້ທຸກຄົນ</translation>
 <translation id="7102687220333134671">ການອັບເດດອັດຕະໂນມັດເປີດຢູ່</translation>
 <translation id="6981982820502123353">ການເຂົ້າ​​ເຖິງ​ໄດ້</translation>
-<translation id="5840822070878669614">ເປີດ Dissenter Web Store</translation>
+<translation id="5840822070878669614">ເປີດ Fulldive Web Store</translation>
 <translation id="6073903501322152803">ເພີ່ມຄຸນສົມບັດການຊ່ວຍເຂົ້າເຖິງ</translation>
 <translation id="7988355189918024273">ເປີດນຳໃຊ້ຄຸນສົມບັດການຊ່ວຍເຂົ້າເຖິງ</translation>
-<translation id="5499063270485366718">ຖ້າຮູບບໍ່ມີລາຍລະອຽດທີ່ເປັນປະໂຫຍດ, Dissenter ຈະພະຍາຍາມໃຫ້ລາຍລະອຽດແກ່ທ່ານ. ເພື່ອສ້າງລາຍລະອຽດ, ລະບົບຈະສົ່ງຮູບພາບໃຫ້ Gab AI Inc.</translation>
+<translation id="5499063270485366718">ຖ້າຮູບບໍ່ມີລາຍລະອຽດທີ່ເປັນປະໂຫຍດ, Fulldive ຈະພະຍາຍາມໃຫ້ລາຍລະອຽດແກ່ທ່ານ. ເພື່ອສ້າງລາຍລະອຽດ, ລະບົບຈະສົ່ງຮູບພາບໃຫ້ Gab AI Inc.</translation>
 <translation id="8957762313041272117">ຄຳບັນຍາຍສົດ</translation>
-<translation id="7075426315046750605">ຄຳບັນຍາຍສົດກວດຫາຄຳເວົ້າໃນສື່ ແລ້ວສ້າງຄຳບັນຍາຍໂດຍອັດຕະໂນມັດສຳລັບການຫຼິ້ນສື່ທັງໝົດໃນ Dissenter.</translation>
+<translation id="7075426315046750605">ຄຳບັນຍາຍສົດກວດຫາຄຳເວົ້າໃນສື່ ແລ້ວສ້າງຄຳບັນຍາຍໂດຍອັດຕະໂນມັດສຳລັບການຫຼິ້ນສື່ທັງໝົດໃນ Fulldive.</translation>
 <translation id="572155275267014074">ການຕັ້ງຄ່າ Android</translation>
 <translation id="7201042526153088083">ຕິດຕັ້ງແອັບ ແລະ ເກມຈາກ Gab AI Inc Play ໃນ <ph name="DEVICE_TYPE"/> ຂອງທ່ານ. &lt;a target="_blank" href="<ph name="URL"/>"&gt;ສຶກສາເພີ່ມເຕີມ&lt;/a&gt;</translation>
-<translation id="8039595758121742506">ແອັບທີ່ທ່ານດາວໂຫຼດຈາກ Gab AI Inc Play ຈະຖືກລຶບອອກຈາກ Dissenterbook ນີ້.
+<translation id="8039595758121742506">ແອັບທີ່ທ່ານດາວໂຫຼດຈາກ Gab AI Inc Play ຈະຖືກລຶບອອກຈາກ Fulldivebook ນີ້.
       <ph name="LINE_BREAKS1"/>
       ເນື້ອຫາທີ່ທ່ານໄດ້ຊື້ເຊັ່ນວ່າ ຮູບເງົາ, ລາຍການໂທລະພາບ, ເພງ, ປຶ້ມ ຫຼື ການຊື້ໃນແອັບອື່ນໆ ອາດຈະຖືກລຶບອອກເຊັ່ນກັນ.
       <ph name="LINE_BREAKS2"/>
@@ -3689,7 +3689,7 @@
 <translation id="6006484371116297560">ຄລາສສິກ</translation>
 <translation id="1795214765651529549">ໃຊ້ແບບຄລາດສິກ</translation>
 <translation id="2332742915001411729">ຕັ້ງຄ່າເປັນມາດຕະຖານຄືນໃໝ່</translation>
-<translation id="8338457030135232378">ສີຂອງ Dissenter</translation>
+<translation id="8338457030135232378">ສີຂອງ Fulldive</translation>
 <translation id="827097179112817503">ສະແດງປຸ່ມໜ້າ​ຫຼັກ</translation>
 <translation id="383007806262310953">ສະແດງແຖບບຸກມາກ</translation>
 <translation id="3911824782900911339">ໜ້າແຖບໃໝ່</translation>
@@ -3701,7 +3701,7 @@
 <translation id="1670399744444387456">ພື້ນ​ຖານ</translation>
 <translation id="1763808908432309942">ເປີດໃນແຖບໃໝ່</translation>
 <translation id="6248988683584659830">ການຕັ້ງຄ່າຄົ້ນຫາ</translation>
-<translation id="883304095704384301">ໄປຫາ <ph name="BEGIN_LINK_CHROMIUM"/>ຄວາມຊ່ວຍເຫຼືອ Gab AI Inc Dissenter<ph name="END_LINK_CHROMIUM"/> ຖ້າທ່ານບໍ່ສາມາດຊອກເຫັນສິ່ງທີ່ທ່ານກຳລັງຊອກຫາ</translation>
+<translation id="883304095704384301">ໄປຫາ <ph name="BEGIN_LINK_CHROMIUM"/>ຄວາມຊ່ວຍເຫຼືອ Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/> ຖ້າທ່ານບໍ່ສາມາດຊອກເຫັນສິ່ງທີ່ທ່ານກຳລັງຊອກຫາ</translation>
 <translation id="6406708970972405507">ການຕັ້ງຄ່າ - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">ປຸ່ມໜ້າຍ່ອຍ</translation>
 <translation id="379509625511193653">ປິດ</translation>
@@ -3888,7 +3888,7 @@
 <translation id="5468173180030470402">ກຳລັງຊອກຫາການແບ່ງປັນໄຟລ໌</translation>
 <translation id="3336664756920573711">ປົດລັອກ <ph name="DEVICE_TYPE"/> ຂອງທ່ານດ້ວຍໂທລະສັບ Android ຂອງທ່ານ</translation>
 <translation id="1164674268730883318">ປິດ Smart Lock ສຳລັບ <ph name="DEVICE_TYPE"/>?</translation>
-<translation id="2739030071582769583">ຖ້າປິດ Smart Lock ສຳລັບ <ph name="DEVICE_TYPE"/>, ທ່ານຈະບໍ່ສາມາດປົດລັອກອຸປະກອນ Dissenter ຂອງທ່ານໂດຍໃຊ້ໂທລະສັບຂອງທ່ານໄດ້. ທ່ານຈະຈຳເປັນຕ້ອງພິມລະຫັດຜ່ານຂອງທ່ານ.</translation>
+<translation id="2739030071582769583">ຖ້າປິດ Smart Lock ສຳລັບ <ph name="DEVICE_TYPE"/>, ທ່ານຈະບໍ່ສາມາດປົດລັອກອຸປະກອນ Fulldive ຂອງທ່ານໂດຍໃຊ້ໂທລະສັບຂອງທ່ານໄດ້. ທ່ານຈະຈຳເປັນຕ້ອງພິມລະຫັດຜ່ານຂອງທ່ານ.</translation>
 <translation id="4737715515457435632">ເຊື່ອມ​ຕໍ່​ກັບ​ເຄືອ​ຂ່າຍ​</translation>
 <translation id="5425722269016440406">ທ່ານ​ຕ້ອງ​ອອນ​ລາຍ​ນ໌ ເພື່ອ​ປິດ​ລັອກ​ອັດ​ສະ​ລິ​ຍະ ເພາະ​ວ່າ​ການ​ຕັ້ງ​ຄ່າ​ນີ້​ຖືກ​ຊິງ​ຄ໌​ຫາ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານ ແລະ​ອຸ​ປະ​ກອນ​ອື່ນ​ແລ້ວ. ກະ​ລຸ​ນາ​ເຊື່ອມ​ຕໍ່​ກັບ​ເຄືອ​ຂ່າຍ​ກ່ອນ.</translation>
 <translation id="8885197664446363138">ບໍ່​ມີ​ລັອກ​ອັດ​ສະ​ລິ​ຍະ​ຢູ່</translation>
@@ -4122,20 +4122,20 @@
 <translation id="3633309367764744750">ດຶງຂໍ້ມູນລ່ວງໜ້າຈາກໜ້າເວັບ, ຮວມທັງໜ້າເວັບທີ່ທ່ານຍັງບໍ່ທັນເຂົ້າເບິ່ງເທື່ອ. ຂໍ້ມູນທີ່ດຶງມາອາດຈະຮວມມີຄຸກກີ້, ຖ້າທ່ານອະນຸຍາດຄຸກກີ້.</translation>
 <translation id="3201899458094819285">Safe Browsing (ປົກປ້ອງທ່ານ ແລະ ອຸປະກອນຂອງທ່ານຈາກເວັບໄຊອັນຕະລາຍ)</translation>
 <translation id="2876369937070532032">ສົ່ງ URL ຂອງບາງໜ້າເວັບທີ່ທ່ານເຂົ້າເບິ່ງໃຫ້ Gab AI Inc, ເມື່ອຄວາມປອດໄພຂອງທ່ານມີຄວາມສ່ຽງ</translation>
-<translation id="4991384657077828949">ຊ່ວຍປັບປຸງຄວາມປອດໄພຂອງ Dissenter</translation>
+<translation id="4991384657077828949">ຊ່ວຍປັບປຸງຄວາມປອດໄພຂອງ Fulldive</translation>
 <translation id="1984646864943401749">ສົ່ງ URL ຂອງບາງໜ້າທີ່ທ່ານເຂົ້າເບິ່ງ, ຂໍ້ມູນລະບົບທີ່ຈຳກັດ ແລະ ບາງເນື້ອຫາໃນໜ້າໃຫ້ Gab AI Inc ເພື່ອຊ່ວຍຄົ້ນພົບອັນຕະລາຍໃໝ່ ແລະ ປົກປ້ອງທຸກຄົນໃນເວັບ.</translation>
 <translation id="1641113438599504367">ການທ່ອງເນັດທີ່ປອດໄພ</translation>
 <translation id="6900532703269623216">ການປົກປ້ອງທີ່ປັບປຸງດີຂຶ້ນ</translation>
 <translation id="7307583170263691471">ການປົກປ້ອງແບບເຊີງບຸກທີ່ໄວກວ່າຈາກເວັບໄຊ, ການດາວໂຫຼດ ແລະ ສ່ວນຂະຫຍາຍທີ່ເປັນອັນຕະລາຍ. ເຕືອນທ່ານກ່ຽວກັບການລະເມີດລະຫັດຜ່ານ. ຈຳເປັນຕ້ອງສົ່ງຂໍ້ມູນການທ່ອງເວັບໃຫ້ Gab AI Inc.</translation>
 <translation id="8645920082661222035">ຄາດເດົາ ແລະ ເຕືອນທ່ານກ່ຽວກັບເຫດການອັນຕະລາຍກ່ອນທີ່ພວກມັນຈະເກີດຂຶ້ນ</translation>
-<translation id="5265419033369521352">ຮັກສາໃຫ້ທ່ານປອດໄພໃນ Dissenter ແລະ ອາດຈະຖືກໃຊ້ເພື່ອປັບປຸງຄວາມປອດໄພໃນແອັບອື່ນຂອງ Gab AI Inc ເມື່ອທ່ານເຂົ້າສູ່ລະບົບ</translation>
+<translation id="5265419033369521352">ຮັກສາໃຫ້ທ່ານປອດໄພໃນ Fulldive ແລະ ອາດຈະຖືກໃຊ້ເພື່ອປັບປຸງຄວາມປອດໄພໃນແອັບອື່ນຂອງ Gab AI Inc ເມື່ອທ່ານເຂົ້າສູ່ລະບົບ</translation>
 <translation id="6770602306803890733">ປັບປຸງຄວາມປອດໄພສຳລັບທ່ານ ແລະ ທຸກຄົນໃນເວັບ</translation>
 <translation id="3690369331356918524">ເຕືອນບອກທ່ານຖ້າລະຫັດຜ່ານຮົ່ວໄຫຼໃນການລະເມີດຂໍ້ມູນ</translation>
 <translation id="4979281249641199724">ສົ່ງ URL ໄປໃຫ້ Safe Browsing ກວດເບິ່ງພວກມັນ. ນອກນັ້ນຍັງສົ່ງຕົວຢ່າງນ້ອຍໆຂອງໜ້າ, ການດາວໂຫຼດ, ການເຄື່ອນໄຫວຂອງສ່ວນຂະຫຍາຍ ແລະ ຂໍ້ມູນລະບົບເພື່ອຊ່ວຍຄົ້ນຫາອັນຕະລາຍໃໝ່ໆ. ເຊື່ອມໂຍງຂໍ້ມູນນີ້ຊົ່ວຄາວກັບບັນຊີ Gab AI Inc ຂອງທ່ານເມື່ອທ່ານເຂົ້າສູ່ລະບົບ ເພື່ອປົກປ້ອງທ່ານໃນທົ່ວແອັບຕ່າງໆຂອງ Gab AI Inc.</translation>
 <translation id="1963976881984600709">ການປົກປ້ອງມາດຕະຖານ</translation>
 <translation id="6882836635272038266">ການປົກປ້ອງມາດຕະຖານຕໍ່ກັບເວັບໄຊ, ການດາວໂຫຼດ ແລະ ສ່ວນຂະຫຍາຍທີ່ຮູ້ຈັກວ່າເປັນອັນຕະລາຍ.</translation>
 <translation id="5561162485081632007">ກວດຫາ ແລະ ເຕືອນທ່ານກ່ຽວກັບເຫດການອັນຕະລາຍເມື່ອພວກມັນເກີດຂຶ້ນ</translation>
-<translation id="7810992039564280750">ກວດສອບ URL ກັບລາຍການເວັບໄຊທີ່ບໍ່ປອດໄພທີ່ເກັບໄວ້ໃນ Dissenter. ຖ້າເວັບໄຊພະຍາຍາມລັກເອົາລະຫັດຜ່ານຂອງທ່ານ ຫຼື ເມື່ອທ່ານດາວໂຫຼດໄຟລ໌ອັນຕະລາຍ, Dissenter ອາດຈະສົ່ງ URL, ຮວມທັງເນື້ອຫາບາງສ່ວນໃນໜ້າໄປໃຫ້ Safe Browsing.</translation>
+<translation id="7810992039564280750">ກວດສອບ URL ກັບລາຍການເວັບໄຊທີ່ບໍ່ປອດໄພທີ່ເກັບໄວ້ໃນ Fulldive. ຖ້າເວັບໄຊພະຍາຍາມລັກເອົາລະຫັດຜ່ານຂອງທ່ານ ຫຼື ເມື່ອທ່ານດາວໂຫຼດໄຟລ໌ອັນຕະລາຍ, Fulldive ອາດຈະສົ່ງ URL, ຮວມທັງເນື້ອຫາບາງສ່ວນໃນໜ້າໄປໃຫ້ Safe Browsing.</translation>
 <translation id="3847319713229060696">ຊ່ວຍປັບປຸງຄວາມປອດໄພໃນເວັັບໄຊສຳລັບທຸກຄົນ</translation>
 <translation id="1984417487208496350">ບໍ່ມີການປົກປ້ອງ (ບໍ່ແນະນຳ)</translation>
 <translation id="1295971429974142731">ບໍ່ປົກປ້ອງທ່ານຈາກເວັບໄຊ, ການດາວໂຫຼດ ແລະ ສ່ວນຂະຫຍາຍທີ່ເປັນອັນຕະລາຍ. ທ່ານຈະຍັງໄດ້ຮັບການປົກປ້ອງ Safe Browsing, ຢູ່ບ່ອນທີ່ໃຊ້ໄດ້, ຢູ່ໃນການບໍລິການອື່ນຂອງ Gab AI Inc ເຊັ່ນ: Gmail ແລະ ຊອກຫາ.</translation>
@@ -4191,7 +4191,7 @@
 <translation id="8632933437936028548">ຣິເຊັດການຕັ້ງຄ່າ</translation>
 <translation id="5293170712604732402">ກູ້ຄືນການຕັ້ງຄ່າເປັນຄ່າເລີ່ມຕົ້ນເດີມຂອງພວກມັນ</translation>
 <translation id="892706138619340876">ບາງການຕັ້ງຄ່າໄດ້ຖືກຣີເຊັດແລ້ວ</translation>
-<translation id="2334029754052191847">Dissenter ກວດພົບວ່າ ການຕັ້ງຄ່າຂອງທ່ານບາງຕົວໄດ້ຮັບຄວາມເສຍຫາຍໂດຍໂປຣແກຼມອື່ນ ແລະໄດ້ຕັ້ງຄ່າພວກມັນໄປເປັນຄ່າມາດຕະຖານເດີມຂອງພວກມັນແລ້ວ.</translation>
+<translation id="2334029754052191847">Fulldive ກວດພົບວ່າ ການຕັ້ງຄ່າຂອງທ່ານບາງຕົວໄດ້ຮັບຄວາມເສຍຫາຍໂດຍໂປຣແກຼມອື່ນ ແລະໄດ້ຕັ້ງຄ່າພວກມັນໄປເປັນຄ່າມາດຕະຖານເດີມຂອງພວກມັນແລ້ວ.</translation>
 <translation id="4582563038311694664">ຕັ້ງທຸກການຕັ້ງຄ່າ​ຄືນໃໝ່</translation>
 <translation id="4146785383423576110">ຣີເຊັດ ແລະ ອະນາໄມ</translation>
 <translation id="2603115962224169880">ອະນາໄມຄອມພິວເຕີ</translation>
@@ -4260,7 +4260,7 @@
 <translation id="5340638867532133571">ອະນຸຍາດໃຫ້ເວັບໄຊຕິດຕັ້ງຕົວຈັດການການຈ່າຍເງິນ (ແນະນຳ)</translation>
 <translation id="763632859238619983">ບໍ່ອະນຸຍາດໃຫ້ເວັບໄຊໃດຕິດຕັ້ງຕົວຈັດການການຈ່າຍເງິນ</translation>
 <translation id="8270242299912238708">ເອກະສານ PDF</translation>
-<translation id="539658326146969381">ດາວໂຫຼດໄຟລ໌ PDF ແທນການເປີດພວກມັນໂດຍອັດຕະໂນມັດໃນ Dissenter</translation>
+<translation id="539658326146969381">ດາວໂຫຼດໄຟລ໌ PDF ແທນການເປີດພວກມັນໂດຍອັດຕະໂນມັດໃນ Fulldive</translation>
 <translation id="4434045419905280838">ປັອບອັບ ແລະ ການປ່ຽນເສັ້ນທາງ</translation>
 <translation id="6612358246767739896">ເນື້ອ​ໃນ​ທີ່ຖືກ​ປົກ​ປ້ອງ</translation>
 <translation id="4252852543720145436">ຕົວລະບຸເນື້ອຫາທີ່ມີການປ້ອງກັນໄວ້</translation>
@@ -4321,7 +4321,7 @@
 <translation id="2913331724188855103">ອະ​ນຸ​ຍາດ​ໃຫ້​ເວັບ​ໄຊ​ທ໌​ບັນ​ທຶກ ແລະ​ອ່ານ​ຂໍ້​ມູນ​ຄຸກ​ກີ້ (ແນະ​ນຳ​ໃຫ້)</translation>
 <translation id="5908769186679515905">ບລັອກບໍ່ໃຫ້ເວັບໄຊເປີດໃຊ້ Flash</translation>
 <translation id="783214144752121388">ບລັອກບໍ່ໃຫ້ເວັບໄຊເປີດ Flash (ແນະນຳ)</translation>
-<translation id="6096007141921397775">ການຕັ້ງຄ່າ Flash ຂອງທ່ານຈະຖືກຮັກສາໄວ້ຈົນກວ່າວ່າທ່ານອອກຈາກ Dissenter.</translation>
+<translation id="6096007141921397775">ການຕັ້ງຄ່າ Flash ຂອງທ່ານຈະຖືກຮັກສາໄວ້ຈົນກວ່າວ່າທ່ານອອກຈາກ Fulldive.</translation>
 <translation id="8074127646604999664">ອະນຸຍາດໃຫ້ເວັບໄຊທີ່ປິດເມື່ອບໍ່ດົນມານີ້ເຮັດສຳເລັດການສົ່ງ ແລະ ການຮັບຂໍ້ມູນ</translation>
 <translation id="7062222374113411376">ອະນຸຍາດໃຫ້ເວັບໄຊທີ່ປິດເມື່ອບໍ່ດົນມານີ້ເຮັດສຳເລັດການສົ່ງ ແລະ ການຮັບຂໍ້ມູນ (ແນະນຳ)</translation>
 <translation id="5068918910148307423">ອະນຸຍາດໃຫ້ເວັບໄຊທີ່ປິດເມື່ອບໍ່ດົນມານີ້ເຮັດສຳເລັດການສົ່ງ ແລະ ການຮັບຂໍ້ມູນ</translation>
@@ -4401,7 +4401,7 @@
 <translation id="5566692924079383101">ລະບົບຈະລຶບຂໍ້ຍົກເວັ້ນນີ້ອອກໂດຍອັດຕະໂນມັດຫຼັງຈາກທີ່ທ່ານອອກຈາກເຊດຊັນທີ່ບໍ່ເປີດເຜີຍຕົວຕົນໃນປັດຈຸບັນ</translation>
 <translation id="383891835335927981">ບໍ່ມີການຕັ້ງຄ່າຊູມເຂົ້າ ຫຼື ຊູມອອກສຳລັບເວັບໄຊໃດ</translation>
 <translation id="3566721612727112615">ບໍ່ໄດ້ເພີ່ມເວັບໄຊໃດ</translation>
-<translation id="8098574385249290065">ໃຫ້ Dissenter ເລືອກວ່າເວັບໄຊສາມາດຫຼິ້ນສຽງໄດ້ເວລາໃດ (ແນະນຳ)</translation>
+<translation id="8098574385249290065">ໃຫ້ Fulldive ເລືອກວ່າເວັບໄຊສາມາດຫຼິ້ນສຽງໄດ້ເວລາໃດ (ແນະນຳ)</translation>
 <translation id="4354344420232759511">ເວັບໄຊທີ່ທ່ານເຂົ້າເບິ່ງຈະປາກົດຢູ່ບ່ອນນີ້</translation>
 <translation id="3757733214359997190">ບໍ່ເຫັນເວັບໄຊໃດ</translation>
 <translation id="6545864417968258051">ການສະແກນ Bluetooth</translation>
@@ -4414,7 +4414,7 @@
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">ເພີ່ມເວັບໄຊ</translation>
 <translation id="5052499409147950210">ແກ້ໄຂເວັບໄຊ</translation>
-<translation id="4610862967073369855">ອະນຸຍາດໃຫ້ Android Messages ສົ່ງຕໍ່ຂໍ້ຄວາມຈາກໂທລະສັບຂອງທ່ານໄປໃສ່ Dissenterbook ທ່ານ</translation>
+<translation id="4610862967073369855">ອະນຸຍາດໃຫ້ Android Messages ສົ່ງຕໍ່ຂໍ້ຄວາມຈາກໂທລະສັບຂອງທ່ານໄປໃສ່ Fulldivebook ທ່ານ</translation>
 <translation id="6742339027238151589">ສາມາດເຂົ້າເຖິງສະຄຣິບໄດ້</translation>
 <translation id="361106536627977100">ຂໍ້​ມູນແຝຼດ</translation>
 <translation id="8557930019681227453">ໃບລາຍການ</translation>
@@ -4491,23 +4491,23 @@
 <translation id="3817524650114746564">ເປີດການຕັ້ງຄ່າພຣັອກຊີຂອງຄອມພິວເຕີຂອງທ່ານ</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> ກຳລັງໃຊ້ການຕັ້ງຄ່າພຣັອກຊີຈາກສ່ວນຂະຫຍາຍ</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> ກຳລັງໃຊ້ການຕັ້ງຄ່າພຣັອກຊີຈາກຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານ</translation>
-<translation id="6187156085111579405">ລາຍການທີ່ບໍ່ລະບຸຢູ່ບ່ອນນີ້ຈະຖືກລຶບອອກເຊັ່ນກັນ ຖ້າຈຳເປັນ. ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ &lt;a href="<ph name="URL"/>"&gt;ການປົກປ້ອງຊອບແວທີ່ບໍ່ຕ້ອງການ&lt;/a&gt; ໃນເອກະສານຂາວວ່າດ້ວຍຄວາມເປັນສ່ວນຕົວຂອງ Dissenter.</translation>
+<translation id="6187156085111579405">ລາຍການທີ່ບໍ່ລະບຸຢູ່ບ່ອນນີ້ຈະຖືກລຶບອອກເຊັ່ນກັນ ຖ້າຈຳເປັນ. ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ &lt;a href="<ph name="URL"/>"&gt;ການປົກປ້ອງຊອບແວທີ່ບໍ່ຕ້ອງການ&lt;/a&gt; ໃນເອກະສານຂາວວ່າດ້ວຍຄວາມເປັນສ່ວນຕົວຂອງ Fulldive.</translation>
 <translation id="5280174558369304332">ສ່ວນຂະຫຍາຍທີ່ຈະຖືກລຶບອອກ:</translation>
 <translation id="7712836429117959503">ສ່ວນຂະຫຍາຍທີ່ບໍ່ຮູ້ຈັກທີ່ມີ ID <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">ໄຟລ໌ ແລະ ໂປຣແກຣມທີ່ຈະຖືກກັກໄວ້:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 ລາຍການ}other{{NUM_ITEMS} ລາຍການ}}</translation>
 <translation id="7187428571767585875">ລາຍການໃນທະບຽນທີ່ຈະຖືກລຶບອອກ ຫຼື ປ່ຽນແປງ:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{ອີກ 1 ລາຍການ}other{ອີກ {NUM_DOWNLOADS} ລາຍການ}}</translation>
-<translation id="2749608811030566578">ເກີດຄວາມຜິດພາດຂຶ້ນໃນເວລາທີ່ Dissenter ກຳລັງລຶບຊອບແວອັນຕະລາຍອອກ</translation>
-<translation id="8189483132214844139">Dissenter ສາມາດຊອກຫາຊອບແວອັນຕະລາຍໃນຄອມພິວເຕີຂອງທ່ານ ແລະ ລຶບມັນອອກໄດ້</translation>
+<translation id="2749608811030566578">ເກີດຄວາມຜິດພາດຂຶ້ນໃນເວລາທີ່ Fulldive ກຳລັງລຶບຊອບແວອັນຕະລາຍອອກ</translation>
+<translation id="8189483132214844139">Fulldive ສາມາດຊອກຫາຊອບແວອັນຕະລາຍໃນຄອມພິວເຕີຂອງທ່ານ ແລະ ລຶບມັນອອກໄດ້</translation>
 <translation id="1426870617281699524">ຄລິກລອງອີກຄັ້ງ ແລະ ຮັບເອົາການເຕືອນໃນຄອມພິວເຕີຂອງທ່ານ</translation>
-<translation id="7886744396008377537">ມີຊອບແວອັນຕະລາຍໃນຄອມພິວເຕີຂອງທ່ານ. Dissenter ກຳລັງລຶບມັນອອກ, ກູ້ຄືນການຕັ້ງຄ່າຂອງທ່ານ ແລະ ປິດນຳໃຊ້ສ່ວນຂະຫຍາຍ. ນີ້ຈະເຮັດໃຫ້ໂປຣແກຣມທ່ອງເວັບຂອງທ່ານໃຊ້ໄດ້ເປັນປົກກະຕິອີກຄັ້ງ.</translation>
-<translation id="1484912962860902625">ເກີດຄວາມຜິດພາດຂຶ້ນໃນຂະນະທີ່ Dissenter ກຳລັງຊອກຫາຊອບແວອັນຕະລາຍ</translation>
+<translation id="7886744396008377537">ມີຊອບແວອັນຕະລາຍໃນຄອມພິວເຕີຂອງທ່ານ. Fulldive ກຳລັງລຶບມັນອອກ, ກູ້ຄືນການຕັ້ງຄ່າຂອງທ່ານ ແລະ ປິດນຳໃຊ້ສ່ວນຂະຫຍາຍ. ນີ້ຈະເຮັດໃຫ້ໂປຣແກຣມທ່ອງເວັບຂອງທ່ານໃຊ້ໄດ້ເປັນປົກກະຕິອີກຄັ້ງ.</translation>
+<translation id="1484912962860902625">ເກີດຄວາມຜິດພາດຂຶ້ນໃນຂະນະທີ່ Fulldive ກຳລັງຊອກຫາຊອບແວອັນຕະລາຍ</translation>
 <translation id="451407183922382411">ສະໜອງໃຫ້ໂດຍ <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">ສະແດງໄຟລ໌ທີ່ຈະຖືກລຶບອອກ</translation>
 <translation id="296026337010986570">ຮຽບຮ້ອຍແລ້ວ! ລຶບຊອບແວອັນຕະລາຍອອກແລ້ວ. ເພື່ອເປີດສ່ວນຂະຫຍາຍຄືນໃໝ່, ກະລຸນາເຂົ້າໄປ &lt;a href="chrome://extensions"&gt;ສ່ວນຂະຫຍາຍ&lt;/a&gt;.</translation>
 <translation id="284975061945174219">ການອະນາໄມບໍ່ສຳເລັດ</translation>
-<translation id="9014750448058570312">Dissenter ຕ້ອງການມີການອະນຸຍາດເພື່ອສືບຕໍ່</translation>
+<translation id="9014750448058570312">Fulldive ຕ້ອງການມີການອະນຸຍາດເພື່ອສືບຕໍ່</translation>
 <translation id="1852141627593563189">ຊອກຫາຊອບແວອັນຕະລາຍ</translation>
 <translation id="850875081535031620">ບໍ່ພົບຊອບແວອັນຕະລາຍໃດໆ</translation>
 <translation id="1186771945450942097">ລຶບຊອບແວອັນຕະລາຍອອກ</translation>
@@ -4520,7 +4520,7 @@
 <translation id="6555810572223193255">ການອະນາໄມບໍ່ສາມາດໃຊ້ໄດ້ໃນປັດຈຸບັນ</translation>
 <translation id="7117228822971127758">ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ</translation>
 <translation id="443475966875174318">ອັບເດດ ຫຼື ລຶບແອັບພລິເຄຊັນທີ່ບໍ່ເຂົ້າກັນອອກ</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{ແອັບພລິເຄຊັນນີ້ສາມາດຂັດຂວາງບໍ່ໃຫ້ Dissenter ໃຊ້ໄດ້ຢ່າງຖືກຕ້ອງໄດ້.}other{ແອັບພລິເຄຊັນເຫຼົ່ານີ້ສາມາດຂັດຂວາງບໍ່ໃຫ້ Dissenter ໃຊ້ໄດ້ຢ່າງຖືກຕ້ອງໄດ້.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{ແອັບພລິເຄຊັນນີ້ສາມາດຂັດຂວາງບໍ່ໃຫ້ Fulldive ໃຊ້ໄດ້ຢ່າງຖືກຕ້ອງໄດ້.}other{ແອັບພລິເຄຊັນເຫຼົ່ານີ້ສາມາດຂັດຂວາງບໍ່ໃຫ້ Fulldive ໃຊ້ໄດ້ຢ່າງຖືກຕ້ອງໄດ້.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{ເພື່ອໃຫ້ແນ່ໃຈວ່າທ່ານສາມາດສືບຕໍ່ທ່ອງເວັບໄດ້, ກະລຸນາຮ້ອງຂໍໃຫ້ຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານລຶບແອັບພລິເຄຊັນນີ້ອອກ.}other{ເພື່ອໃຫ້ແນ່ໃຈວ່າທ່ານສາມາດສືບຕໍ່ທ່ອງເວັບໄດ້, ກະລຸນາຮ້ອງຂໍໃຫ້ຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານລຶບແອັບພລິເຄຊັນເຫຼົ່ານີ້ອອກ.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>ສຶກສາວິທີອັບເດດແອັບພລິເຄຊັນ<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{ແອັບພລິເຄຊັນ}other{ແອັບພລິເຄຊັນ}}</translation>
@@ -4603,13 +4603,13 @@
 <translation id="284843628681142937">ສົ່ງ URL ຂອງໜ້າຕ່າງໆທີ່ທ່ານເຂົ້າເບິ່ງໃຫ້ Gab AI Inc</translation>
 <translation id="7704317875155739195">ຕື່ມການຊອກຫາ ແລະ URL ໂດຍອັດຕະໂນມັດ</translation>
 <translation id="2000419248597011803">ສົ່ງບາງຄຸກກີ້ ແລະ ການຊອກຫາຈາກແຖບທີ່ຢູ່ ແລະ ກ່ອງຊອກຫາໄປໃຫ້ໂປຣແກຣມຊອກຫາເລີ່ມຕົ້ນຂອງທ່ານ</translation>
-<translation id="918192811481327695">ຊ່ວຍປັບປຸງຄຸນສົມບັດ ແລະ ປະສິດທິພາບຂອງ Dissenter</translation>
+<translation id="918192811481327695">ຊ່ວຍປັບປຸງຄຸນສົມບັດ ແລະ ປະສິດທິພາບຂອງ Fulldive</translation>
 <translation id="9063160602596686558">ສົ່ງສະຖິຕິການໃຊ້ ແລະ ລາຍງານການຂັດຂ້ອງໃຫ້ Gab AI Inc ໂດຍອັດຕະໂນມັດ</translation>
 <translation id="6697492270171225480">ສະແດງການແນະນຳສຳລັບໜ້າຄ້າຍຄືກັນເມື່ອຊອກບໍ່ເຫັນໜ້າໃດໜຶ່ງ</translation>
 <translation id="4534361985432360439">ສົ່ງທີ່ຢູ່ເວັບຂອງໜ້າທີ່ທ່ານກຳລັງພະຍາຍາມເຂົ້າຫາໃຫ້ Gab AI Inc</translation>
 <translation id="3831436149286513437">ການແນະນຳການຊອກຫາໃນ Gab AI Inc Drive</translation>
 <translation id="5244474230056479698">ກຳລັງຊິ້ງຂໍ້ມູນກັບ <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">ມີ Gab AI Inc ອັດສະລິຍະໃນ Dissenter</translation>
+<translation id="9125982323641182972">ມີ Gab AI Inc ອັດສະລິຍະໃນ Fulldive</translation>
 <translation id="2537178555904266562">ເກີດຄວາມຜິດພາດໃນການຊິ້ງຂໍ້ມູນລະຫັດຜ່ານ</translation>
 <translation id="4314815835985389558">ຈັດການການຊິ້ງຂໍ້ມູນ</translation>
 <translation id="8931475688782629595">ຈັດການສິ່ງທີ່ທ່ານຊິ້ງຂໍ້ມູນ</translation>
@@ -4627,7 +4627,7 @@
 <translation id="1651008383952180276">ທ່ານຕ້ອງປ້ອນວະລີຜ່ານອັນດຽວກັນສອງເທື່ອ</translation>
 <translation id="988978206646512040">ບໍ່ອະນຸຍາດໃຫ້ວະລີຜ່ານຫວ່າງເປົ່າ</translation>
 <translation id="2136476978468204130">ວະລີຜ່ານທີ່ທ່ານປ້ອນເຂົ້າບໍ່ຖືກຕ້ອງ</translation>
-<translation id="7505421639213002314">ຂໍ້ມູນຈາກ Dissenter sync</translation>
+<translation id="7505421639213002314">ຂໍ້ມູນຈາກ Fulldive sync</translation>
 <translation id="452750746583162491">ກວດເບິ່ງຂໍ້ມູນທີ່ຊິ້ງຂອງທ່ານ</translation>
 <translation id="7956662517480676674">ການບໍລິການຊິ້ງຂໍ້ມູນ ແລະ Gab AI Inc</translation>
 <translation id="7772032839648071052">ຢືນ​ຢັນວະລີຜ່ານ</translation>
@@ -4715,7 +4715,7 @@
 <translation id="7235716375204803342">ກຳລັງດຶງຂໍ້ມູນການເຄື່ອນໄຫວ...</translation>
 <translation id="8314381333424235892">ສ່ວນຂະຫຍາຍບໍ່ເຫັນ ຫຼື ບໍ່ໄດ້ຕິດຕັ້ງ</translation>
 <translation id="7647403192093989392">ບໍ່ມີການເຄື່ອນໄຫວຫຼ້າສຸດ</translation>
-<translation id="38046578254905003">ຊອກຫາສ່ວນຂະຫຍາຍ ແລະ ສີສັນໜ້າຕາໃນ <ph name="BEGIN_LINK"/>Dissenter Web Store<ph name="END_LINK"/></translation>
+<translation id="38046578254905003">ຊອກຫາສ່ວນຂະຫຍາຍ ແລະ ສີສັນໜ້າຕາໃນ <ph name="BEGIN_LINK"/>Fulldive Web Store<ph name="END_LINK"/></translation>
 <translation id="7272674038937250585">ບໍ່ມີລາຍລະອຽດທີ່ໃຫ້ໄວ້</translation>
 <translation id="3855441664322950881">ບັນຈຸກ່ອງສ່ວນຂະຫຍາຍ</translation>
 <translation id="2958721676848865875">ຄຳເຕືອນກ່ຽວກັບສ່ວນຂະຫຍາຍແພັກ</translation>
@@ -4726,7 +4726,7 @@
 <translation id="1992397118740194946">ບໍ່​ໄດ້ຕັ້ງ​</translation>
 <translation id="6706210727756204531">ຂອບເຂດ</translation>
 <translation id="5532223876348815659">ທົ່ວໄປ</translation>
-<translation id="300669147395456190">ແອັບ Dissenter</translation>
+<translation id="300669147395456190">ແອັບ Fulldive</translation>
 <translation id="6787839852456839824">ທາງລັດຄີບອດ</translation>
 <translation id="6419546358665792306">ໂຫຼດສ່ວນຂະຫຍາຍທີ່ແຕກໄຟລ໌ແລ້ວ</translation>
 <translation id="8023801379949507775">ອັບເດດສ່ວນຂະຫຍາຍດຽວນີ້</translation>
@@ -4740,13 +4740,13 @@
 <translation id="8447409163267621480">ລວມມີ Ctrl ຫຼື Alt</translation>
 <translation id="3365598184818502391">ໃຊ້ Ctrl ຫຼື Alt</translation>
 <translation id="1688935057616748272">ພິມຕົວອັກສອນ</translation>
-<translation id="1579879232130925590">Dissenter ທີ່ປອດໄພຂຶ້ນ ແລະ ໄວຂຶ້ນ</translation>
+<translation id="1579879232130925590">Fulldive ທີ່ປອດໄພຂຶ້ນ ແລະ ໄວຂຶ້ນ</translation>
 <translation id="964057662886721376">ບາງສ່ວນຂະຫຍາຍສາມາດເຮັດໃຫ້ທ່ານຊ້າລົງໄດ້, ໂດຍສະເພາະສ່ວນຂະຫຍາຍທີ່ທ່ານບໍ່ໄດ້ເຈດຕະນາຕິດຕັ້ງ.</translation>
 <translation id="1499271269825557605">ຖ້າທ່ານບໍ່ຮູ້ຈັກສ່ວນຂະຫຍາຍໃດໜຶ່ງ ຫຼື ຖ້າໂປຣແກຣມທ່ອງເວັບຂອງທ່ານບໍ່ເຮັດວຽກຕາມທີ່ຄາດໄວ້, ທ່ານສາມາດປິດ ຫຼື ປັບແຕ່ງສ່ວນຂະຫຍາຍໄດ້ຢູ່ບ່ອນນີ້.</translation>
 <translation id="2382818385048255866">ກວດເບິ່ງສ່ວນຂະຫຍາຍຂອງທ່ານ</translation>
 <translation id="3900789207771372462">ບາງສ່ວນຂະຫຍາຍສາມາດເຫັນການເຄື່ອນໄຫວທ່ອງເວັບຂອງທ່ານໄດ້, ຮວມທັງຂໍ້ມູນສ່ວນຕົວ.</translation>
 <translation id="6772339735733515807">ຈັດການສ່ວນຂະຫຍາຍຂອງທ່ານ</translation>
-<translation id="1510515462062582289">ໃນໜ້ານີ້ ທ່ານສາມາດເຫັນສ່ວນຂະຫຍາຍທັງໝົດທີ່ຕິດຕັ້ງໃນ Dissenter.</translation>
+<translation id="1510515462062582289">ໃນໜ້ານີ້ ທ່ານສາມາດເຫັນສ່ວນຂະຫຍາຍທັງໝົດທີ່ຕິດຕັ້ງໃນ Fulldive.</translation>
 <translation id="2810390687497823527">ຖ້າທ່ານບໍ່ຮູ້ຈັກສ່ວນຂະຫຍາຍໃດໜຶ່ງ ຫຼື ຖ້າໂປຣແກຣມທ່ອງເວັບຂອງທ່ານບໍ່ເຮັດວຽກຕາມທີ່ຄາດໄວ້, ທ່ານສາມາດປິດ ຫຼື ປັບແຕ່ງສ່ວນຂະຫຍາຍໄດ້ຢູ່ບ່ອນນີ້.</translation>
 <translation id="4479424953165245642">ຈັດການແອັບພລິເຄຊັນ Kiosk</translation>
 <translation id="6619801788773578757">ເພີ່ມແອັບພລິເຄຊັນ kiosk</translation>
@@ -4762,9 +4762,9 @@
 <translation id="2342740338116612727">ເພີ່ມບຸກມາກແລ້ວ</translation>
 <translation id="7835178595033117206">ລຶບບຸກມາກອອກແລ້ວ</translation>
 <translation id="742130257665691897">ລຶບບຸກມາກອອກແລ້ວ</translation>
-<translation id="5468853758063275923">Dissenter ແມ່ນໂປຣແກຣມທ່ອງເວັບເລີ່ມຕົ້ນຂອງທ່ານ</translation>
+<translation id="5468853758063275923">Fulldive ແມ່ນໂປຣແກຣມທ່ອງເວັບເລີ່ມຕົ້ນຂອງທ່ານ</translation>
 <translation id="2950533317914339731">ເພີ່ມບຸກມາກໃສ່ແອັບ Gab AI Inc Apps ທີ່ທ່ານມັກ</translation>
-<translation id="939305735877869636">Dissenter</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">ແຜນທີ່</translation>
 <translation id="6709133671862442373">ຂ່າວ</translation>
@@ -4777,13 +4777,13 @@
 <translation id="5033266061063942743">ຮູບຮ່າງເລຂາຄະນິດ</translation>
 <translation id="7789963078219276159">ພື້ນຫຼັງຂອງໜ້າເລີ່ມຕົ້ນໄດ້ປ່ຽນເປັນ <ph name="CATEGORY"/> ແລ້ວ.</translation>
 <translation id="8771300903067484968">ພາບພື້ນຫຼັງຂອງໜ້າເລີ່ມຕົ້ນໄດ້ຖືກຣີເຊັດເປັນພາບພື້ນຫຼັງເລີ່ມຕົ້ນແລ້ວ.</translation>
-<translation id="239760341987199724">ຕັ້ງ Dissenter ເປັນບຣາວ​ເຊີມາດຕະຖານຂອງທ່ານ</translation>
+<translation id="239760341987199724">ຕັ້ງ Fulldive ເປັນບຣາວ​ເຊີມາດຕະຖານຂອງທ່ານ</translation>
 <translation id="96037229054033864">ໃຊ້ Gab AI Inc ຊອກຫາ ແລະ Gab AI Inc ອັດສະລິຍະທຸກຄັ້ງທີ່ທ່ານທ່ອງເວັບ</translation>
-<translation id="296137235951584143">ເຮັດໃຫ້ Dissenter ເປັນຂອງທ່ານ</translation>
+<translation id="296137235951584143">ເຮັດໃຫ້ Fulldive ເປັນຂອງທ່ານ</translation>
 <translation id="3982375475032951137">ຕັ້ງຄ່າໂປຣແກຣມທ່ອງເວັບຂອງທ່ານໃນສອງສາມຂັ້ນຕອນ</translation>
 <translation id="6972754398087986839">ເລີ່ມຕົ້ນ</translation>
-<translation id="3707821975049107110">ເປັນຜູ້ໃຊ້ Dissenter ແລ້ວບໍ? ເຂົ້າສູ່ລະບົບ</translation>
-<translation id="7113572760575285642">Dissenter ຂອງທ່ານ, ຢູ່ທຸກບ່ອນ</translation>
+<translation id="3707821975049107110">ເປັນຜູ້ໃຊ້ Fulldive ແລ້ວບໍ? ເຂົ້າສູ່ລະບົບ</translation>
+<translation id="7113572760575285642">Fulldive ຂອງທ່ານ, ຢູ່ທຸກບ່ອນ</translation>
 <translation id="567643736130151854">ເຂົ້າສູ່ລະບົບ ແລະ ເປີດການຊິ້ງຂໍ້ມູນເພື່ອໃຊ້ບຸກມາກ, ລະຫັດຜ່ານ ແລະ ອື່ນໆອີກໃນທຸກອຸປະກອນຂອງທ່ານ.</translation>
 <translation id="725758059478686223">ການບໍລິການພິມ</translation>
 <translation id="15662109988763471">ເຄື່ອງພິມທີ່ເລືອກໄວ້ບໍ່ສາມາດໃຊ້ໄດ້ ຫຼື ບໍ່ໄດ້ຕິດຕັ້ງຢ່າງຖືກຕ້ອງ. ກວດເບິ່ງເຄື່ອງພິມຂອງທ່ານ ຫຼື ລອງເລືອກເຄື່ອງພິມອື່ນ.</translation>
@@ -4906,7 +4906,7 @@
 <translation id="7574650250151586813">ເພື່ອພິມຂໍ້ຄວາມ, ກະລຸນາອັບເດດແອັບແປ້ນພິມ Daydream</translation>
 <translation id="983511809958454316">ບໍ່ຮອງຮັບຄຸນສົມບັດນີ້ໃນ VR</translation>
 <translation id="4008291085758151621">ຂໍ້ມູນເວັບໄຊບໍ່ມີໃຫ້ໃນ VR</translation>
-<translation id="1439926347196400598">ອະນຸຍາດໃຫ້ Dissenter ບັນທຶກສຽງບໍ?</translation>
+<translation id="1439926347196400598">ອະນຸຍາດໃຫ້ Fulldive ບັນທຶກສຽງບໍ?</translation>
 <translation id="6313641880021325787">ອອກຈາກ VR</translation>
 <translation id="2670429602441959756">ໜ້ານີ້ປະກອບມີຄຸນສົມບັດທີ່ຍັງບໍ່ທັນມີການຮອງຮັບໃນ VR ເທື່ອ. ກຳລັງອອກ...</translation>
 <translation id="1802687198411089702">ໜ້ານີ້ບໍ່ຕອບສະໜອງ. ທ່ານສາມາດລໍຖ້າມັນ ຫຼື ອອກໄດ້.</translation>
@@ -4928,7 +4928,7 @@
 <translation id="1721312023322545264">ທ່ານຕ້ອງການການອະນຸຍາດຈາກ <ph name="NAME"/> ເພື່ອເຂົ້າເບິ່ງເວັບໄຊນີ້</translation>
 <translation id="7543525346216957623">ຖາມພໍ່ແມ່ຂອງທ່ານ</translation>
 <translation id="471880041731876836">ທ່ານບໍ່ມີການອະນຸຍາດເພື່ອເຂົ້າເບິ່ງເວັບໄຊນີ້</translation>
-<translation id="3480834636742786788">ກະລຸນາເລີ່ມຕົ້ນ ແລະ ເຂົ້າສູ່ລະບົບ Dissenter ກ່ອນໃຊ້ແອັບນີ້.</translation>
+<translation id="3480834636742786788">ກະລຸນາເລີ່ມຕົ້ນ ແລະ ເຂົ້າສູ່ລະບົບ Fulldive ກ່ອນໃຊ້ແອັບນີ້.</translation>
 <translation id="2851634818064021665">ທ່ານຈຳເປັນຕ້ອງມີການອະນຸຍາດເພື່ອເຂົ້າເບິ່ງເວັບໄຊນີ້</translation>
 <translation id="4933782374919065856">ມີຄຳຖາມບໍ? ກະລຸນາຕິດຕໍ່ຫາບຸກຄົນທີ່ຄວບຄຸມເບິ່ງແຍງໂປຣໄຟລ໌ຂອງທ່ານ.</translation>
 <translation id="2712173769900027643">ຂໍ​ການ​ອະ​ນຸ​ຍາດ</translation>
@@ -4948,7 +4948,7 @@
 <translation id="7755287808199759310">ພໍ່ແມ່ຂອງທ່ານສາມາດຍົກເລີກການບລັອກມັນໃຫ້ທ່ານໄດ້</translation>
 <translation id="5732392974455271431">ພໍ່ແມ່ຂອງທ່ານສາມາດຍົກເລີກການບລັອກມັນໃຫ້ທ່ານໄດ້</translation>
 <translation id="3556433843310711081">ຜູ້ຈັດການສາມາດບລັອກມັນໃຫ້ທ່ານໄດ້</translation>
-<translation id="1254756632288991504">ກະລຸນາເລີ່ມຕົ້ນ ແລະ ເຂົ້າສູ່ລະບົບ Dissenter ເພື່ອໃຫ້ Dissenter ສາມາດກວດເບິ່ງວ່າທ່ານໄດ້ຮັບອະນຸຍາດໃຫ້ເຂົ້າຫາເວັບໄຊນີ້ຫຼືບໍ່.</translation>
+<translation id="1254756632288991504">ກະລຸນາເລີ່ມຕົ້ນ ແລະ ເຂົ້າສູ່ລະບົບ Fulldive ເພື່ອໃຫ້ Fulldive ສາມາດກວດເບິ່ງວ່າທ່ານໄດ້ຮັບອະນຸຍາດໃຫ້ເຂົ້າຫາເວັບໄຊນີ້ຫຼືບໍ່.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> ຖືກຢຸດໄວ້ຊົ່ວຄາວ</translation>
 <translation id="8015163965024115122">ຂີດຈຳກັດຕໍ່ກັບແອັບ <ph name="IDS_SHORT_PRODUCT_NAME"/> ຫຼື <ph name="IDS_SHORT_PRODUCT_NAME"/> ທີ່ພໍ່ແມ່ຂອງທ່ານຕັ້ງໄວ້ໄດ້ໝົດລົງແລ້ວ.</translation>
 <translation id="2748061034695037846">ຢຸດ <ph name="DOMAIN"/> ຊົ່ວຄາວຢູ່</translation>

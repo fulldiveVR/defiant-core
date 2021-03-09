@@ -22,7 +22,7 @@
 <translation id="5342314432463739672">Запити на дозволи</translation>
 <translation id="3749259744154402564">Не підтримується</translation>
 <translation id="629730747756840877">Обліковий запис</translation>
-<translation id="82609232232243542">Вхід у Dissenter</translation>
+<translation id="82609232232243542">Вхід у Fulldive</translation>
 <translation id="7956662517480676674">Синхронізація та сервіси Gab AI Inc</translation>
 <translation id="5294439808117722387">Зараз ви налаштовуєте синхронізацію та сервіси Gab AI Inc. Щоб увімкнути синхронізацію, натисніть кнопку "Підтвердити" внизу екрана. Перейти вгору</translation>
 <translation id="2096012225669085171">Синхронізація та персоналізація на всіх пристроях</translation>
@@ -34,7 +34,7 @@
 <translation id="6303969859164067831">Вийти й вимкнути синхронізацію</translation>
 <translation id="1125261911132334651">Керуйте обліковим записом Gab AI Inc</translation>
 <translation id="6406506848690869874">Синхронізація</translation>
-<translation id="714362445477979774">Синхронізуйте дані Dissenter</translation>
+<translation id="714362445477979774">Синхронізуйте дані Fulldive</translation>
 <translation id="4314815835985389558">Керування синхронізацією</translation>
 <translation id="5428209950370661546">Інші сервіси Gab AI Inc</translation>
 <translation id="7704317875155739195">Автоматично завершувати пошукові запити та URL-адреси</translation>
@@ -46,7 +46,7 @@
 <translation id="8438566539970814960">Покращувати пошук і веб-перегляд</translation>
 <translation id="284843628681142937">Надсилає в Gab AI Inc URL-адреси відвіданих сторінок</translation>
 <translation id="7222718784508482526">Інші налаштування конфіденційності, безпеки та збору даних доступні в розділі <ph name="BEGIN_LINK"/>Синхронізація та сервіси Gab AI Inc<ph name="END_LINK"/></translation>
-<translation id="918192811481327695">Допоможіть покращити функції й ефективність Dissenter</translation>
+<translation id="918192811481327695">Допоможіть покращити функції й ефективність Fulldive</translation>
 <translation id="9063160602596686558">Автоматично надсилає статистику використання та звіти про аварійне завершення роботи в Gab AI Inc</translation>
 <translation id="4824958205181053313">Скасувати синхронізацію?</translation>
 <translation id="3058498974290601450">Ви можете будь-коли ввімкнути синхронізацію в налаштуваннях</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">Номер картки</translation>
 <translation id="869891660844655955">Діє до</translation>
 <translation id="2286841657746966508">Розрахункова адреса</translation>
-<translation id="663059986967017181">Скопійовано в Dissenter</translation>
+<translation id="663059986967017181">Скопійовано в Fulldive</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}one{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}few{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}many{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}one{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}few{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}many{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}one{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}few{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}many{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 і ще <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}}</translation>
@@ -112,7 +112,7 @@
 <translation id="6154478581116148741">Щоб експортувати паролі з цього пристрою, увімкніть блокування екрана</translation>
 <translation id="4842092870884894799">Показ спливаючих вікон для створення пароля</translation>
 <translation id="2259659629660284697">Експортувати паролі…</translation>
-<translation id="133012818630824069">Експортувати паролі, збережені в Dissenter</translation>
+<translation id="133012818630824069">Експортувати паролі, збережені в Fulldive</translation>
 <translation id="6914783257214138813">Ваші паролі бачитимуть усі, хто може переглядати експортований файл.</translation>
 <translation id="2321086116217818302">Готуються паролі…</translation>
 <translation id="8445448999790540984">Не вдається експортувати паролі</translation>
@@ -123,11 +123,11 @@
 <translation id="6891726759199484455">Розблокуйте, щоб скопіювати пароль</translation>
 <translation id="5515439363601853141">Розблокуйте, щоб переглянути пароль</translation>
 <translation id="6221633008163990886">Розблокуйте, щоб експортувати паролі</translation>
-<translation id="230699814587342492">Паролі Dissenter</translation>
+<translation id="230699814587342492">Паролі Fulldive</translation>
 <translation id="1925021887439448749">Введіть користувацьку веб-адресу</translation>
 <translation id="8127542551745560481">Змінити головну сторінку</translation>
 <translation id="854522910157234410">Відкрити цю сторінку</translation>
-<translation id="5063487983358782016">Головна сторінка Dissenter</translation>
+<translation id="5063487983358782016">Головна сторінка Fulldive</translation>
 <translation id="2482878487686419369">Сповіщення</translation>
 <translation id="6255999984061454636">Пропозиції вмісту</translation>
 <translation id="805047784848435650">На основі історії веб-перегляду</translation>
@@ -139,8 +139,8 @@
 <translation id="2760989362628427051">Активувати нічний режим, якщо його налаштовано або ввімкнено режим енергозбереження</translation>
 <translation id="6381421346744604172">Затемнити веб-сайти</translation>
 <translation id="5040262127954254034">Конфіденційність</translation>
-<translation id="4991384657077828949">Допоможіть покращити безпеку Dissenter</translation>
-<translation id="1943176487615318915">Щоб виявляти небезпечні додатки й сайти, Dissenter надсилає URL-адреси певних відвіданих сторінок, обмежену системну інформацію та вміст деяких сторінок у Gab AI Inc</translation>
+<translation id="4991384657077828949">Допоможіть покращити безпеку Fulldive</translation>
+<translation id="1943176487615318915">Щоб виявляти небезпечні додатки й сайти, Fulldive надсилає URL-адреси певних відвіданих сторінок, обмежену системну інформацію та вміст деяких сторінок у Gab AI Inc</translation>
 <translation id="3201899458094819285">Безпечний перегляд (захищає вас і ваш пристрій від небезпечних сайтів)</translation>
 <translation id="2876369937070532032">Надсилає в Gab AI Inc URL-адреси деяких відвіданих сторінок, коли ваша безпека під загрозою</translation>
 <translation id="3738139272394829648">Пошук дотиком</translation>
@@ -160,8 +160,8 @@
 <translation id="7359002509206457351">Отримати доступ до способів оплати</translation>
 <translation id="8026334261755873520">Очистити історію</translation>
 <translation id="1291207594882862231">Очистити історію, файли cookie, дані сайтів, кеш…</translation>
-<translation id="7814200940910057384">Дані Dissenter видалено</translation>
-<translation id="1664855196866195614">Вибрані дані видалено з Dissenter і синхронізованих пристроїв.
+<translation id="7814200940910057384">Дані Fulldive видалено</translation>
+<translation id="1664855196866195614">Вибрані дані видалено з Fulldive і синхронізованих пристроїв.
 
 У вашому обліковому записі Gab AI Inc на сторінці <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> можуть бути додаткові форми історії веб-перегляду, як-от пошукові запити чи активність в інших сервісах Gab AI Inc.</translation>
 <translation id="4699172675775169585">Кешовані зображення та файли</translation>
@@ -311,12 +311,12 @@
 <translation id="8156139159503939589">Якими мовами ви читаєте?</translation>
 <translation id="5689516760719285838">Місцезнаходження</translation>
 <translation id="2440823041667407902">Доступ до геоданих</translation>
-<translation id="2023546461831060654">Увімкніть дозволи для Dissenter у <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
-<translation id="6665548517310046133">Увімкніть дозвіл для Dissenter у <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
-<translation id="2928908108430545745">Щоб надати Dissenter доступ до геоданих, також увімкніть їх у <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
-<translation id="1028853271388022585">Щоб надати Dissenter доступ до камери, також увімкніть її в <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
-<translation id="2913721282607281710">Щоб надати Dissenter доступ до сповіщень, також увімкніть їх у <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
-<translation id="8753483718490035722">Щоб надати Dissenter доступ до мікрофона, також увімкніть його в <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
+<translation id="2023546461831060654">Увімкніть дозволи для Fulldive у <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
+<translation id="6665548517310046133">Увімкніть дозвіл для Fulldive у <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
+<translation id="2928908108430545745">Щоб надати Fulldive доступ до геоданих, також увімкніть їх у <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
+<translation id="1028853271388022585">Щоб надати Fulldive доступ до камери, також увімкніть її в <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
+<translation id="2913721282607281710">Щоб надати Fulldive доступ до сповіщень, також увімкніть їх у <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
+<translation id="8753483718490035722">Щоб надати Fulldive доступ до мікрофона, також увімкніть його в <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
 <translation id="1887786770086287077">На цьому пристрої вимкнено доступ до геоданих. Увімкніть його в <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
 <translation id="2570922361219980984">На цьому пристрої також вимкнено доступ до геоданих. Увімкніть його в <ph name="BEGIN_LINK"/>налаштуваннях Android<ph name="END_LINK"/>.</translation>
 <translation id="1620510694547887537">Камера</translation>
@@ -334,8 +334,8 @@
 <translation id="7821588508402923572">Тут буде вказано обсяг заощадженого трафіку</translation>
 <translation id="2131665479022868825">Заощаджено <ph name="DATA"/></translation>
 <translation id="8569404424186215731">з <ph name="DATE"/></translation>
-<translation id="3252158532344029638">У спрощеному режимі Dissenter завантажує сторінки швидше та використовує на 60 відсотків менше трафіку.</translation>
-<translation id="1438581767753657407">Коли Lite-режим увімкнено, Dissenter використовує свої сервери для пришвидшення завантаження сторінок. Lite-режим переписує дуже повільні сторінки так, щоб завантажувався лише основний вміст. Lite-режим не підтримується у приватних вкладках.</translation>
+<translation id="3252158532344029638">У спрощеному режимі Fulldive завантажує сторінки швидше та використовує на 60 відсотків менше трафіку.</translation>
+<translation id="1438581767753657407">Коли Lite-режим увімкнено, Fulldive використовує свої сервери для пришвидшення завантаження сторінок. Lite-режим переписує дуже повільні сторінки так, щоб завантажувався лише основний вміст. Lite-режим не підтримується у приватних вкладках.</translation>
 <translation id="6159335304067198720">Заощадження даних: <ph name="PERCENT"/></translation>
 <translation id="7494974237137038751">заощаджений трафік</translation>
 <translation id="6111020039983847643">використаний трафік</translation>
@@ -358,15 +358,15 @@
 <translation id="3658159451045945436">Буде скинуто історію заощадження трафіку, зокрема список відвіданих веб-сайтів.</translation>
 <translation id="5939518447894949180">Скинути</translation>
 <translation id="3295530008794733555">Шукайте швидше. Заощаджуйте трафік.</translation>
-<translation id="7340390500800578919">У спрощеному режимі Dissenter завантажує сторінки швидше та використовує на 60% менше трафіку. Щоб оптимізувати сторінки, які ви відвідуєте, Dissenter надсилає ваш веб-трафік у Gab AI Inc. <ph name="BEGIN_LINK"/>Докладніше<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">У спрощеному режимі Fulldive завантажує сторінки швидше та використовує на 60% менше трафіку. Щоб оптимізувати сторінки, які ви відвідуєте, Fulldive надсилає ваш веб-трафік у Gab AI Inc. <ph name="BEGIN_LINK"/>Докладніше<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Увімкнути спрощений режим</translation>
 <translation id="4493497663118223949">Спрощений режим увімкнено</translation>
 <translation id="7559975015014302720">Спрощений режим вимкнено</translation>
 <translation id="7606077192958116810">Спрощений режим увімкнено. Керуйте ним у налаштуваннях.</translation>
 <translation id="4714588616299687897">Заощаджуйте до 60% трафіку</translation>
 <translation id="1006927014032731288">Сервери Gab AI Inc оптимізують сторінки, які ви відвідуєте.</translation>
-<translation id="3257320067425202300">Dissenter заощадив <ph name="MEGABYTES"/> МБ</translation>
-<translation id="5813223329348543512">Dissenter заощадив <ph name="GIGABYTES"/> ГБ</translation>
+<translation id="3257320067425202300">Fulldive заощадив <ph name="MEGABYTES"/> МБ</translation>
+<translation id="5813223329348543512">Fulldive заощадив <ph name="GIGABYTES"/> ГБ</translation>
 <translation id="8266862848225348053">Папка для завантажень</translation>
 <translation id="7077143737582773186">Карта SD</translation>
 <translation id="7762668264895820836">Карта SD <ph name="SD_CARD_NUMBER"/></translation>
@@ -392,15 +392,15 @@
 <translation id="7290209999329137901">Не можна перейменувати</translation>
 <translation id="3334729583274622784">Змінити розширення файлу?</translation>
 <translation id="107147699690128016">Якщо ви зміните розширення файлу, він може відкритися в іншому додатку або зашкодити пристрою.</translation>
-<translation id="8541922081612557424">Про Dissenter</translation>
+<translation id="8541922081612557424">Про Fulldive</translation>
 <translation id="5311273890481188673">Авторське право <ph name="YEAR"/> Gab AI Inc LLC. Усі права захищено.</translation>
 <translation id="1416550906796893042">Версія додатка</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (оновлено: <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Операційна система</translation>
-<translation id="3968054912784331254">Dissenter більше не оновлюється в цій версії Android</translation>
+<translation id="3968054912784331254">Fulldive більше не оновлюється в цій версії Android</translation>
 <translation id="7665369617277396874">Додати обліковий запис</translation>
 <translation id="649070405679044769">Ви ввійшли в обліковий запис Gab AI Inc як</translation>
-<translation id="6234515504547364178">Вихід із Dissenter</translation>
+<translation id="6234515504547364178">Вихід із Fulldive</translation>
 <translation id="5324858694974489420">Батьківські налаштування</translation>
 <translation id="8920114477895755567">Очікування даних батьків.</translation>
 <translation id="5512137114520586844">Цим обліковим записом керує <ph name="PARENT_NAME"/>.</translation>
@@ -409,7 +409,7 @@
 <translation id="5403644198645076998">Дозволити лише певні сайти</translation>
 <translation id="8641930654639604085">Блокувати сайти для дорослих</translation>
 <translation id="5639724618331995626">Дозволити всі сайти</translation>
-<translation id="796823723482603597">Технології Dissenter</translation>
+<translation id="796823723482603597">Технології Fulldive</translation>
 <translation id="6324034347079777476">Синхронізацію системи Android вимкнено</translation>
 <translation id="5127805178023152808">Синхронізацію вимкнено</translation>
 <translation id="7015203776128479407">Початкове налаштування синхронізації не завершено. Синхронізацію вимкнено.</translation>
@@ -418,26 +418,26 @@
 <translation id="6108923351542677676">Виконується налаштування…</translation>
 <translation id="4062305924942672200">Правова інформація</translation>
 <translation id="4256782883801055595">Ліцензії ПЗ з відкритим кодом</translation>
-<translation id="1138681184697033370">Умови використання Gab AI Inc Dissenter</translation>
-<translation id="2368444735104192323">Додаткові умови використання Gab AI Inc Dissenter і ОС Dissenter</translation>
-<translation id="7392539049993970338">Примітка про конфіденційність Dissenter</translation>
+<translation id="1138681184697033370">Умови використання Gab AI Inc Fulldive</translation>
+<translation id="2368444735104192323">Додаткові умови використання Gab AI Inc Fulldive і ОС Fulldive</translation>
+<translation id="7392539049993970338">Примітка про конфіденційність Fulldive</translation>
 <translation id="2968755619301702150">Перегляд сертифікатів</translation>
 <translation id="1360432990279830238">Вийти й вимкнути синхронізацію?</translation>
-<translation id="8581481290581777242">Видалити дані Dissenter із цього пристрою?</translation>
-<translation id="1318865768845061710">Закладки, історія, паролі й інші дані Dissenter більше не синхронізуватимуться з обліковим записом Gab AI Inc</translation>
-<translation id="3325020657155065477">Також видалити дані Dissenter із цього пристрою</translation>
-<translation id="6136448902816743006">Оскільки ви виходите з облікового запису, зареєстрованого в домені <ph name="DOMAIN_NAME"/>, ваші дані Dissenter буде видалено з цього пристрою. Вони залишаться у вашому обліковому записі Gab AI Inc.</translation>
+<translation id="8581481290581777242">Видалити дані Fulldive із цього пристрою?</translation>
+<translation id="1318865768845061710">Закладки, історія, паролі й інші дані Fulldive більше не синхронізуватимуться з обліковим записом Gab AI Inc</translation>
+<translation id="3325020657155065477">Також видалити дані Fulldive із цього пристрою</translation>
+<translation id="6136448902816743006">Оскільки ви виходите з облікового запису, зареєстрованого в домені <ph name="DOMAIN_NAME"/>, ваші дані Fulldive буде видалено з цього пристрою. Вони залишаться у вашому обліковому записі Gab AI Inc.</translation>
 <translation id="1853026300647876496">З’єднання з Gab AI Inc. Це може зайняти хвилину…</translation>
 <translation id="2328985652426384049">Не вдається ввійти</translation>
 <translation id="7723158744459952869">Gab AI Inc довго не відповідає</translation>
 <translation id="4572422548854449519">Увійдіть у керований обліковий запис</translation>
-<translation id="2689656545739939160">Ви входите в обліковий запис, зареєстрований у домені <ph name="MANAGED_DOMAIN"/>, і надаєте його адміністратору доступ до своїх даних Dissenter. Ваші дані буде назавжди зв’язано з цим обліковим записом. Якщо ви вийдете з облікового запису в Dissenter, дані буде видалено з цього пристрою, але вони залишаться у вашому обліковому записі Gab AI Inc.</translation>
+<translation id="2689656545739939160">Ви входите в обліковий запис, зареєстрований у домені <ph name="MANAGED_DOMAIN"/>, і надаєте його адміністратору доступ до своїх даних Fulldive. Ваші дані буде назавжди зв’язано з цим обліковим записом. Якщо ви вийдете з облікового запису в Fulldive, дані буде видалено з цього пристрою, але вони залишаться у вашому обліковому записі Gab AI Inc.</translation>
 <translation id="1749561566933687563">Синхронізуйте свої закладки</translation>
 <translation id="4242533952199664413">Відкрити налаштування</translation>
 <translation id="1111673857033749125">Тут відображатимуться закладки, збережені на інших ваших пристроях.</translation>
 <translation id="8636825310635137004">Щоб мати доступ до вкладок з інших пристроїв, увімкніть синхронізацію.</translation>
 <translation id="3269956123044984603">Щоб мати доступ до вкладок з інших пристроїв, увімкніть опцію "Автоматично синхронізувати дані" в налаштуваннях облікового запису на Android.</translation>
-<translation id="5157964048453367290">Тут відображатимуться вкладки, відкриті в Dissenter на інших ваших пристроях.</translation>
+<translation id="5157964048453367290">Тут відображатимуться вкладки, відкриті в Fulldive на інших ваших пристроях.</translation>
 <translation id="5795872532621730126">Пошук і перегляд</translation>
 <translation id="9086302186042011942">Синхронізація</translation>
 <translation id="4684427112815847243">Синхронізувати все</translation>
@@ -476,11 +476,11 @@
 <translation id="7624880197989616768"><ph name="BEGIN_LINK1"/>Отримайте допомогу<ph name="END_LINK1"/> або <ph name="BEGIN_LINK2"/>повторіть сканування<ph name="END_LINK2"/></translation>
 <translation id="230115972905494466">Сумісних пристроїв не знайдено</translation>
 <translation id="3773755127849930740"><ph name="BEGIN_LINK"/>Увімкніть Bluetooth<ph name="END_LINK"/>, щоб підключити</translation>
-<translation id="998321811308652668">Dissenter не може ввімкнути адаптер Bluetooth</translation>
+<translation id="998321811308652668">Fulldive не може ввімкнути адаптер Bluetooth</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Довідка<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">Щоб знаходити пристрої, Dissenter потрібний доступ до геоданих. <ph name="BEGIN_LINK"/>Оновлити дозволи<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">Щоб шукати пристрої, Dissenter потрібен доступ до геоданих. Доступ до геоданих <ph name="BEGIN_LINK"/>вимкнено на цьому пристрої<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">Щоб шукати пристрої, Dissenter потрібен доступ до геоданих. <ph name="BEGIN_LINK1"/>Оновити дозволи<ph name="END_LINK1"/>. Доступ до геоданих також <ph name="BEGIN_LINK2"/>вимкнено на цьому пристрої<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">Щоб знаходити пристрої, Fulldive потрібний доступ до геоданих. <ph name="BEGIN_LINK"/>Оновлити дозволи<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">Щоб шукати пристрої, Fulldive потрібен доступ до геоданих. Доступ до геоданих <ph name="BEGIN_LINK"/>вимкнено на цьому пристрої<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">Щоб шукати пристрої, Fulldive потрібен доступ до геоданих. <ph name="BEGIN_LINK1"/>Оновити дозволи<ph name="END_LINK1"/>. Доступ до геоданих також <ph name="BEGIN_LINK2"/>вимкнено на цьому пристрої<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">Під’єднаний пристрій</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{Рівень сигналу: # поділка}one{Рівень сигналу: # поділка}few{Рівень сигналу: # поділки}many{Рівень сигналу: # поділок}other{Рівень сигналу: # поділки}}</translation>
 <translation id="5230560987958996918">Сайт <ph name="SITE"/> хоче шукати пристрої Bluetooth поруч. Виявлено такі пристрої:</translation>
@@ -488,11 +488,11 @@
 <translation id="7605594153474022051">Синхронізація не працює</translation>
 <translation id="2537178555904266562">Помилка синхронізації паролів</translation>
 <translation id="1810845389119482123">Початкове налаштування синхронізації не завершено</translation>
-<translation id="3235722914093408050">Щоб почати синхронізацію Dissenter, відкрийте параметри Android і знову ввімкніть синхронізацію системи</translation>
+<translation id="3235722914093408050">Щоб почати синхронізацію Fulldive, відкрийте параметри Android і знову ввімкніть синхронізацію системи</translation>
 <translation id="3367813778245106622">Увійдіть знову, щоб почати синхронізацію</translation>
 <translation id="3701167022068948696">Виправити зараз</translation>
 <translation id="974555521953189084">Введіть парольну фразу, щоб почати синхронізацію</translation>
-<translation id="2997266899014181325">Щоб почати синхронізацію, увімкніть параметр "Синхронізувати дані Dissenter".</translation>
+<translation id="2997266899014181325">Щоб почати синхронізацію, увімкніть параметр "Синхронізувати дані Fulldive".</translation>
 <translation id="8260126382462817229">Спробуйте ввійти ще раз</translation>
 <translation id="5919204609460789179">Оновіть <ph name="PRODUCT_NAME"/>, щоб почати синхронізацію</translation>
 <translation id="397583555483684758">Синхронізація перестала працювати</translation>
@@ -526,14 +526,14 @@
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037"><ph name="MESSAGE"/>, кнопка <ph name="LINK_NAME"/></translation>
 <translation id="3205824638308738187">Майже готово.</translation>
-<translation id="3960299545138990065">Перезапустіть Dissenter</translation>
+<translation id="3960299545138990065">Перезапустіть Fulldive</translation>
 <translation id="3771001275138982843">Не вдалося завантажити оновлення</translation>
-<translation id="3888648114124182147">Завантажується оновлення Dissenter…</translation>
-<translation id="1705567146636171298">Оновити Dissenter</translation>
-<translation id="6195417478702700398">Оновіть Dissenter для зручнішого перегляду веб-сторінок</translation>
-<translation id="3512968675351418494">Щоб переглядати сторінки вашою мовою, установіть останню версію Dissenter</translation>
+<translation id="3888648114124182147">Завантажується оновлення Fulldive…</translation>
+<translation id="1705567146636171298">Оновити Fulldive</translation>
+<translation id="6195417478702700398">Оновіть Fulldive для зручнішого перегляду веб-сторінок</translation>
+<translation id="3512968675351418494">Щоб переглядати сторінки вашою мовою, установіть останню версію Fulldive</translation>
 <translation id="6427112570124116297">Перекласти веб-сторінки</translation>
-<translation id="1379423114029199501">Виконайте оновлення, щоб користуватися своєю мовою в останній версії Dissenter</translation>
+<translation id="1379423114029199501">Виконайте оновлення, щоб користуватися своєю мовою в останній версії Fulldive</translation>
 <translation id="5684874026226664614">На жаль, цю сторінку неможливо перекласти.</translation>
 <translation id="6831043979455480757">Перекласти</translation>
 <translation id="1285320974508926690">Ніколи не перекладати цей сайт</translation>
@@ -557,7 +557,7 @@
 <translation id="2532336938189706096">Веб-версія</translation>
 <translation id="6005538289190791541">Запропонований пароль</translation>
 <translation id="4634124774493850572">Прийняти пароль</translation>
-<translation id="3088191967551450609">Щоб завантажувати файли, Dissenter потребує доступу до пам’яті.</translation>
+<translation id="3088191967551450609">Щоб завантажувати файли, Fulldive потребує доступу до пам’яті.</translation>
 <translation id="8942627711005830162">Відкрити в іншому вікні</translation>
 <translation id="4195643157523330669">Відкрити в новій вкладці</translation>
 <translation id="1100066534610197918">Відкрити нову вкладку в групі</translation>
@@ -580,7 +580,7 @@
 <translation id="3384347053049321195">Поділитися зображенням</translation>
 <translation id="5833984609253377421">Поділитися посиланням</translation>
 <translation id="6475951671322991020">Завантажити відео</translation>
-<translation id="2317945146070194624">Відкрити в новій вкладці Dissenter</translation>
+<translation id="2317945146070194624">Відкрити в новій вкладці Fulldive</translation>
 <translation id="7975379999046275268">Переглянути сторінку <ph name="BEGIN_NEW"/>Нове<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Швидке завантаження</translation>
 <translation id="6112702117600201073">Оновлення сторінки</translation>
@@ -710,14 +710,14 @@
 <translation id="6820686453637990663">CVC</translation>
 <translation id="3244271242291266297">ММ</translation>
 <translation id="605721222689873409">РР</translation>
-<translation id="724102042129299115">Перший запуск Dissenter</translation>
-<translation id="7766792282581704663">Використовуючи Dissenter, ви погоджуєтесь із <ph name="BEGIN_LINK1"/>Загальними положеннями та умовами Gab AI Inc<ph name="END_LINK1"/> і <ph name="BEGIN_LINK2"/>Додатковими умовами використання Gab AI Inc Dissenter і ОС Dissenter<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Використовуючи Dissenter, ви погоджуєтесь із <ph name="BEGIN_LINK1"/>Загальними положеннями та умовами Gab AI Inc<ph name="END_LINK1"/> і <ph name="BEGIN_LINK2"/>Додатковими умовами використання Gab AI Inc Dissenter і ОС Dissenter<ph name="END_LINK2"/>. Також застосовується <ph name="BEGIN_LINK3"/>Примітка про конфіденційність для облікових записів Gab AI Inc, керованих у Family Link<ph name="END_LINK3"/>.</translation>
-<translation id="4993481112200507346">Додаток <ph name="APP_NAME"/> відкриється в Dissenter. Продовжуючи, ви погоджуєтесь із <ph name="BEGIN_LINK1"/>Загальними положеннями та умовами Gab AI Inc<ph name="END_LINK1"/> і <ph name="BEGIN_LINK2"/>Додатковими умовами використання Gab AI Inc Dissenter і ОС Dissenter<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485">Додаток <ph name="APP_NAME"/> відкриється в Dissenter. Продовжуючи, ви погоджуєтесь із <ph name="BEGIN_LINK1"/>Загальними положеннями та умовами Gab AI Inc<ph name="END_LINK1"/> і <ph name="BEGIN_LINK2"/>Додатковими умовами використання Gab AI Inc Dissenter і ОС Dissenter<ph name="END_LINK2"/>. Також застосовується <ph name="BEGIN_LINK3"/>Примітка про конфіденційність для облікових записів Gab AI Inc, керованих у Family Link<ph name="END_LINK3"/>.</translation>
-<translation id="673197144963363525">Допоможіть покращити Dissenter, надсилаючи статистику та звіти про збої в Gab AI Inc.</translation>
+<translation id="724102042129299115">Перший запуск Fulldive</translation>
+<translation id="7766792282581704663">Використовуючи Fulldive, ви погоджуєтесь із <ph name="BEGIN_LINK1"/>Загальними положеннями та умовами Gab AI Inc<ph name="END_LINK1"/> і <ph name="BEGIN_LINK2"/>Додатковими умовами використання Gab AI Inc Fulldive і ОС Fulldive<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Використовуючи Fulldive, ви погоджуєтесь із <ph name="BEGIN_LINK1"/>Загальними положеннями та умовами Gab AI Inc<ph name="END_LINK1"/> і <ph name="BEGIN_LINK2"/>Додатковими умовами використання Gab AI Inc Fulldive і ОС Fulldive<ph name="END_LINK2"/>. Також застосовується <ph name="BEGIN_LINK3"/>Примітка про конфіденційність для облікових записів Gab AI Inc, керованих у Family Link<ph name="END_LINK3"/>.</translation>
+<translation id="4993481112200507346">Додаток <ph name="APP_NAME"/> відкриється в Fulldive. Продовжуючи, ви погоджуєтесь із <ph name="BEGIN_LINK1"/>Загальними положеннями та умовами Gab AI Inc<ph name="END_LINK1"/> і <ph name="BEGIN_LINK2"/>Додатковими умовами використання Gab AI Inc Fulldive і ОС Fulldive<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485">Додаток <ph name="APP_NAME"/> відкриється в Fulldive. Продовжуючи, ви погоджуєтесь із <ph name="BEGIN_LINK1"/>Загальними положеннями та умовами Gab AI Inc<ph name="END_LINK1"/> і <ph name="BEGIN_LINK2"/>Додатковими умовами використання Gab AI Inc Fulldive і ОС Fulldive<ph name="END_LINK2"/>. Також застосовується <ph name="BEGIN_LINK3"/>Примітка про конфіденційність для облікових записів Gab AI Inc, керованих у Family Link<ph name="END_LINK3"/>.</translation>
+<translation id="673197144963363525">Допоможіть покращити Fulldive, надсилаючи статистику та звіти про збої в Gab AI Inc.</translation>
 <translation id="3518985090088779359">Продовжити</translation>
-<translation id="7207456302801184289">Вітаємо у Dissenter!</translation>
+<translation id="7207456302801184289">Вітаємо у Fulldive!</translation>
 <translation id="7189372733857464326">Сервіси Gab AI Inc Play оновлюються</translation>
 <translation id="1231733316453485619">Увімкнути синхронізацію?</translation>
 <translation id="5132942445612118989">Синхронізуйте свої паролі, історію тощо на всіх пристроях</translation>
@@ -780,7 +780,7 @@
 <translation id="6336451774241870485">Нова приватна вкладка</translation>
 <translation id="4521874409998847950">Видавець: <ph name="PUBLISHER_ORIGIN"/>, <ph name="BEGIN_DEEMPHASIZED"/>доставлено Gab AI Inc<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Доступна новіша версія</translation>
-<translation id="4058091506841967397">Неможливо оновити Dissenter</translation>
+<translation id="4058091506841967397">Неможливо оновити Fulldive</translation>
 <translation id="6316139424528454185">Версія Android несумісна</translation>
 <translation id="6989267951144302301">Не вдалося завантажити</translation>
 <translation id="624789221780392884">Оновлення завершено</translation>
@@ -830,7 +830,7 @@
 <translation id="2536728043171574184">Перегляд копії сторінки в режимі офлайн</translation>
 <translation id="4698034686595694889">Переглядайте вміст у <ph name="APP_NAME"/> без інтернет-з’єднання</translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> та інші сайти</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Коли все буде готово, Dissenter завантажить сторінку}one{Коли все буде готово, Dissenter завантажить сторінки}few{Коли все буде готово, Dissenter завантажить сторінки}many{Коли все буде готово, Dissenter завантажить сторінки}other{Коли все буде готово, Dissenter завантажить сторінки}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Коли все буде готово, Fulldive завантажить сторінку}one{Коли все буде готово, Fulldive завантажить сторінки}few{Коли все буде готово, Fulldive завантажить сторінки}many{Коли все буде готово, Fulldive завантажить сторінки}other{Коли все буде готово, Fulldive завантажить сторінки}}</translation>
 <translation id="6811034713472274749">Сторінка готова для перегляду</translation>
 <translation id="4561979708150884304">Немає з’єднання</translation>
 <translation id="8274165955039650276">Переглянути завантаження</translation>
@@ -842,14 +842,14 @@
 <translation id="3298243779924642547">Спрощена</translation>
 <translation id="393697183122708255">Голосовий пошук вимкнено</translation>
 <translation id="7191430249889272776">Вкладку відкрито у фоновому режимі.</translation>
-<translation id="8445059357334030806">Відкрити в Dissenter</translation>
+<translation id="8445059357334030806">Відкрити в Fulldive</translation>
 <translation id="4720023427747327413">Відкрити в <ph name="PRODUCT_NAME"/></translation>
 <translation id="7022756207310403729">Відкрити у веб-переглядачі</translation>
 <translation id="1113597929977215864">Показати в режимі спрощеного перегляду</translation>
 <translation id="1513352483775369820">Закладки й історія веб-пошуку</translation>
-<translation id="4939482511480190003">Допоможіть покращити Dissenter. <ph name="BEGIN_LINK"/>Візьміть участь в опитуванні<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Допоможіть покращити Fulldive. <ph name="BEGIN_LINK"/>Візьміть участь в опитуванні<ph name="END_LINK"/></translation>
 <translation id="3522247891732774234">Доступне оновлення. Більше опцій</translation>
-<translation id="6773423637732432200">Неможливо оновити Dissenter. Більше опцій</translation>
+<translation id="6773423637732432200">Неможливо оновити Fulldive. Більше опцій</translation>
 <translation id="1383876407941801731">Пошук</translation>
 <translation id="3328801116991980348">Інформація про сайт</translation>
 <translation id="9070377983101773829">Почати голосовий пошук</translation>
@@ -901,7 +901,7 @@
 <translation id="3211426585530211793">Елемент "<ph name="ITEM_TITLE"/>" видалено</translation>
 <translation id="4663756553811254707">Видалено закладок: <ph name="NUMBER_OF_BOOKMARKS"/></translation>
 <translation id="3819178904835489326">Видалено завантажених файлів: <ph name="NUMBER_OF_DOWNLOADS"/></translation>
-<translation id="1248710015876067820">Забагато копій Dissenter.</translation>
+<translation id="1248710015876067820">Забагато копій Fulldive.</translation>
 <translation id="4259722352634471385">Веб-сторінку <ph name="URL"/> заблоковано</translation>
 <translation id="8959122750345127698">Веб-сторінка <ph name="URL"/> недоступна</translation>
 <translation id="5210365745912300556">Закрити вкладку</translation>
@@ -916,18 +916,18 @@
 <translation id="2942036813789421260">Вкладку "Попередній перегляд" закрито</translation>
 <translation id="6355102470683871794">Дані додатка Gab AI Inc <ph name="APP_NAME"/></translation>
 <translation id="3822502789641063741">Видалити дані сайтів?</translation>
-<translation id="9205995714227143200">Дані сайтів, які Dissenter визначив як неважливі, зокрема сайтів із незбереженими налаштуваннями або тих, які ви рідко відвідуєте</translation>
+<translation id="9205995714227143200">Дані сайтів, які Fulldive визначив як неважливі, зокрема сайтів із незбереженими налаштуваннями або тих, які ви рідко відвідуєте</translation>
 <translation id="3997476611815694295">Неважливі дані</translation>
 <translation id="8493948351860045254">Звільнити місце</translation>
-<translation id="2324920234469020158">Буде видалено файли cookie, кеш та інші дані сайтів, які Dissenter визначив як неважливі.</translation>
+<translation id="2324920234469020158">Буде видалено файли cookie, кеш та інші дані сайтів, які Fulldive визначив як неважливі.</translation>
 <translation id="5447201525962359567">Усі дані сайтів, зокрема файли cookie й інші локально збережені дані</translation>
 <translation id="1376578503827013741">Обчислення…</translation>
 <translation id="583281660410589416">Невідомий</translation>
 <translation id="2323763861024343754">Дані сайтів</translation>
-<translation id="3587672679800759167">Усі дані, які використовує Dissenter, зокрема облікові записи, закладки та збережені налаштування</translation>
+<translation id="3587672679800759167">Усі дані, які використовує Fulldive, зокрема облікові записи, закладки та збережені налаштування</translation>
 <translation id="6545017243486555795">Видалити всі дані</translation>
 <translation id="4095146165863963773">Видалити дані додатка?</translation>
-<translation id="53119194224775367">Усі дані Dissenter буде видалено назавжди. Це стосується всіх файлів, налаштувань, облікових записів, баз даних тощо.</translation>
+<translation id="53119194224775367">Усі дані Fulldive буде видалено назавжди. Це стосується всіх файлів, налаштувань, облікових записів, баз даних тощо.</translation>
 <translation id="5307446750509046227">Видалити дані сайтів</translation>
 <translation id="300526633675317032">Буде видалено всі дані сайтів (<ph name="SIZE_IN_KB"/>).</translation>
 <translation id="8068648041423924542">Не вдалося вибрати сертифікат.</translation>
@@ -954,15 +954,15 @@
 <translation id="3114012059975132928">Відеопрогравач</translation>
 <translation id="5489227211564503167">Минуло часу: <ph name="ELAPSED_TIME"/> з <ph name="TOTAL_TIME"/></translation>
 <translation id="6560414384669816528">Шукати за допомогою Sogou</translation>
-<translation id="5406914950576900927">Dissenter може використовувати <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> для пошуку в Китаї. Це можна змінити в <ph name="BEGIN_LINK"/>Налаштуваннях<ph name="END_LINK"/>.</translation>
+<translation id="5406914950576900927">Fulldive може використовувати <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> для пошуку в Китаї. Це можна змінити в <ph name="BEGIN_LINK"/>Налаштуваннях<ph name="END_LINK"/>.</translation>
 <translation id="6456271171669383967">Залишити Gab AI Inc</translation>
 <translation id="4384468725000734951">Пошук за допомогою Sogou</translation>
 <translation id="6103327872225198548">Пошук за допомогою Gab AI Inc</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
-<translation id="919933208285147476">Цей додаток запущено в Dissenter</translation>
-<translation id="6143689084714664628">Відкрито в Dissenter</translation>
-<translation id="7675869148432102528">Дані додатка <ph name="APP_NAME"/> також містяться в Dissenter</translation>
-<translation id="2734140769649165081">Ви можете очистити дані в налаштуваннях Dissenter</translation>
+<translation id="919933208285147476">Цей додаток запущено в Fulldive</translation>
+<translation id="6143689084714664628">Відкрито в Fulldive</translation>
+<translation id="7675869148432102528">Дані додатка <ph name="APP_NAME"/> також містяться в Fulldive</translation>
+<translation id="2734140769649165081">Ви можете очистити дані в налаштуваннях Fulldive</translation>
 <translation id="8232956427053453090">Зберігати дані</translation>
 <translation id="4298388696830689168">Зв’язані сайти</translation>
 <translation id="5763514718066511291">Торкніться, щоб скопіювати URL-адресу цього додатка</translation>
@@ -987,13 +987,13 @@
 <translation id="8015452622527143194">Відновити розміри всіх елементів за умовчанням</translation>
 <translation id="3443221991560634068">Оновити поточну сторінку</translation>
 <translation id="123724288017357924">Оновити цю сторінку, ігноруючи кешований вміст</translation>
-<translation id="305870044889644984">Відкрити Довідковий центр Dissenter у новій вкладці</translation>
+<translation id="305870044889644984">Відкрити Довідковий центр Fulldive у новій вкладці</translation>
 <translation id="3166827708714933426">Комбінації клавіш для роботи з вкладками та вікнами</translation>
-<translation id="3169981355900570544">Комбінації клавіш для функцій Gab AI Inc Dissenter</translation>
+<translation id="3169981355900570544">Комбінації клавіш для функцій Gab AI Inc Fulldive</translation>
 <translation id="4558311620361989323">Комбінації клавіш для роботи з веб-сторінками</translation>
-<translation id="1908301351964700579">Dissenter готується до запуску VR. Перезапустіть Dissenter пізніше.</translation>
+<translation id="1908301351964700579">Fulldive готується до запуску VR. Перезапустіть Fulldive пізніше.</translation>
 <translation id="8970887620466824814">Сталася помилка.</translation>
-<translation id="1875543012935658554">Знову відкрийте Dissenter.</translation>
+<translation id="1875543012935658554">Знову відкрийте Fulldive.</translation>
 <translation id="79859296434321399">Щоб переглядати вміст у режимі доповненої реальності, установіть ARCore</translation>
 <translation id="8558485628462305855">Щоб переглядати вміст у режимі доповненої реальності, оновіть ARCore</translation>
 <translation id="3513704683820682405">Доповнена реальність</translation>
@@ -1005,9 +1005,9 @@
 Лише ви можете бачити те, що знімає ваша камера. Сайт не має доступу до зображень із вашої камери.</translation>
 <translation id="1188239144602654184">Почати сеанс у режимі доповненої реальності</translation>
 <translation id="473775607612524610">Оновити</translation>
-<translation id="3133489217401741157">Встановлення модуля <ph name="MODULE"/> для Dissenter…</translation>
+<translation id="3133489217401741157">Встановлення модуля <ph name="MODULE"/> для Fulldive…</translation>
 <translation id="1791662854739702043">Установлено</translation>
-<translation id="5131234170665854056">Не вдалося встановити модуль <ph name="MODULE"/> для Dissenter</translation>
+<translation id="5131234170665854056">Не вдалося встановити модуль <ph name="MODULE"/> для Fulldive</translation>
 <translation id="2567385386134582609">ЗОБРАЖЕННЯ</translation>
 <translation id="6395288395575013217">ПОСИЛАННЯ</translation>
 <translation id="7352939065658542140">ВІДЕО</translation>
@@ -1027,7 +1027,7 @@
 <translation id="1792959175193046959">Будь-коли змінюйте папку для завантажень за умовчанням</translation>
 <translation id="6942665639005891494">Будь-коли змінюйте папку для завантажень за умовчанням, використовуючи відповідну опцію в меню "Налаштування"</translation>
 <translation id="6850409657436465440">Завантаження ще триває</translation>
-<translation id="5817715962196959877">Тепер Dissenter завантажує файли швидше</translation>
+<translation id="5817715962196959877">Тепер Fulldive завантажує файли швидше</translation>
 <translation id="3976396876660209797">Вилучити й знову створити цей ярлик</translation>
 <translation id="6766622839693428701">Проведіть пальцем униз, щоб закрити.</translation>
 <translation id="1028699632127661925">Надсилання на пристрій "<ph name="DEVICE_NAME"/>"…</translation>
@@ -1043,17 +1043,17 @@
 <translation id="1521774566618522728">У мережі сьогодні</translation>
 <translation id="3631987586758005671">Надсилання на пристрій <ph name="DEVICE_NAME"/></translation>
 <translation id="9028914725102941583">Увімкніть синхронізацію, щоб файли були доступними на всіх ваших пристроях</translation>
-<translation id="6162454065885854378">Щоб файли з вашого телефона були доступними на іншому вашому пристрої, увімкніть синхронізацію в налаштуваннях Dissenter на обох пристроях</translation>
-<translation id="6084271560289605378">Перейти в налаштування Dissenter</translation>
-<translation id="2746024117903470217">Щоб ця сторінка була доступна на іншому пристрої, увімкніть на ньому синхронізацію в налаштуваннях Dissenter.</translation>
-<translation id="7760665516427405230">Щоб ця сторінка була доступна на іншому пристрої, увімкніть синхронізацію в налаштуваннях Dissenter</translation>
+<translation id="6162454065885854378">Щоб файли з вашого телефона були доступними на іншому вашому пристрої, увімкніть синхронізацію в налаштуваннях Fulldive на обох пристроях</translation>
+<translation id="6084271560289605378">Перейти в налаштування Fulldive</translation>
+<translation id="2746024117903470217">Щоб ця сторінка була доступна на іншому пристрої, увімкніть на ньому синхронізацію в налаштуваннях Fulldive.</translation>
+<translation id="7760665516427405230">Щоб ця сторінка була доступна на іншому пристрої, увімкніть синхронізацію в налаштуваннях Fulldive</translation>
 <translation id="2318045970523081853">Натисніть, щоб зателефонувати</translation>
 <translation id="9209888181064652401">Неможливо здійснювати виклики</translation>
 <translation id="2860954141821109167">Переконайтеся, що на цьому пристрої ввімкнено додаток Телефон</translation>
 <translation id="2067805253194386918">SMS</translation>
 <translation id="1450753235335490080">Не вдалося надіслати: <ph name="CONTENT_TYPE"/></translation>
 <translation id="1266864766717917324">Не вдалося надіслати: <ph name="CONTENT_TYPE"/></translation>
-<translation id="8287068819750208230">Переконайтеся, що на пристрої <ph name="TARGET_DEVICE_NAME"/> увімкнено синхронізацію в Dissenter</translation>
+<translation id="8287068819750208230">Переконайтеся, що на пристрої <ph name="TARGET_DEVICE_NAME"/> увімкнено синхронізацію в Fulldive</translation>
 <translation id="3016635187733453316">Перевірте, чи пристрій підключено до Інтернету</translation>
 <translation id="8466613982764129868">Переконайтеся, що пристрій <ph name="TARGET_DEVICE_NAME"/> підключено до Інтернету</translation>
 <translation id="6539092367496845964">Сталася помилка. Спробуйте пізніше.</translation>
@@ -1076,17 +1076,17 @@
 <translation id="7055152154916055070">Переадресацію заблоковано:</translation>
 <translation id="5524843473235508879">Переспрямування заблоковано.</translation>
 <translation id="6573096386450695060">Завжди дозволяти</translation>
-<translation id="5805364706385912897">Ця сторінка займає велику кількість пам’яті, тому Dissenter призупинив її роботу.</translation>
-<translation id="5138664332909611586">Ця сторінка використовує забагато пам’яті, тому веб-переглядач Dissenter вилучив деякий вміст.</translation>
+<translation id="5805364706385912897">Ця сторінка займає велику кількість пам’яті, тому Fulldive призупинив її роботу.</translation>
+<translation id="5138664332909611586">Ця сторінка використовує забагато пам’яті, тому веб-переглядач Fulldive вилучив деякий вміст.</translation>
 <translation id="9137013805542155359">Показати оригінал</translation>
-<translation id="6361779936989026201">Gab AI Inc Асистент у Dissenter</translation>
+<translation id="6361779936989026201">Gab AI Inc Асистент у Fulldive</translation>
 <translation id="7291387454912369099">Оплата за допомогою Асистента</translation>
 <translation id="9037412730408024068">Щоб допомагати вам виконувати завдання, Gab AI Inc отримуватиме URL-адреси та вміст веб-сайтів, на яких ви користуєтесь Асистентом, а також інформацію, яку надсилаєте через нього</translation>
-<translation id="4565206163201411670">Показувати активність у Dissenter у Цифровому добробуті?</translation>
-<translation id="9055113864158719823">Ви можете переглянути відвідані в Dissenter сайти та встановити таймери для них.\n\nGab AI Inc отримує дані про те, для яких сайтів ви встановлюєте таймери, а також відомості про тривалість перебування на них. Ця інформація використовується для покращення Цифрового добробуту.</translation>
-<translation id="4596514158372210596">Видалити активність у Dissenter із Цифрового добробуту</translation>
-<translation id="1174893863889683998">Видалити активність у Dissenter із Цифрового добробуту?</translation>
-<translation id="708829030563435351">Відвідані в Dissenter веб-сайти не відображатимуться. Усі таймери для них буде видалено.</translation>
+<translation id="4565206163201411670">Показувати активність у Fulldive у Цифровому добробуті?</translation>
+<translation id="9055113864158719823">Ви можете переглянути відвідані в Fulldive сайти та встановити таймери для них.\n\nGab AI Inc отримує дані про те, для яких сайтів ви встановлюєте таймери, а також відомості про тривалість перебування на них. Ця інформація використовується для покращення Цифрового добробуту.</translation>
+<translation id="4596514158372210596">Видалити активність у Fulldive із Цифрового добробуту</translation>
+<translation id="1174893863889683998">Видалити активність у Fulldive із Цифрового добробуту?</translation>
+<translation id="708829030563435351">Відвідані в Fulldive веб-сайти не відображатимуться. Усі таймери для них буде видалено.</translation>
 <translation id="2056878612599315956">Роботу сайту призупинено</translation>
 <translation id="671481426037969117">Вийшов час на таймері веб-сайту <ph name="FQDN"/>. Завтра він знову запрацює.</translation>
 <translation id="7479104141328977413">Керування вкладками</translation>
@@ -1102,7 +1102,7 @@
 <translation id="6201345951596836663">Посилання скопійовано</translation>
 <translation id="6597891566292541626">Вставте QR-код або штрих-код у цю рамку.</translation>
 <translation id="3140134512074889489">Щоб зісканувати QR-код, відкрийте камеру</translation>
-<translation id="5149323899804758325">Щоб зісканувати QR-код, у налаштуваннях надайте Dissenter доступ до камери</translation>
+<translation id="5149323899804758325">Щоб зісканувати QR-код, у налаштуваннях надайте Fulldive доступ до камери</translation>
 <translation id="2359808026110333948">Продовжити</translation>
 <translation id="8233540874193135768">Щоб зісканувати QR-код, скористайтеся пристроєм із камерою.</translation>
 <translation id="6297765934698848803">Організація, що керує вашим пристроєм, вимкнула камеру.</translation>

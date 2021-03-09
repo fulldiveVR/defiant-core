@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Futa</translation>
 <translation id="144283815522798837">Umechagua vipengee <ph name="NUMBER_OF_ITEMS_SELECTED"/></translation>
 <translation id="5582839680698949063">Menyu kuu</translation>
-<translation id="3700405816184340252">Historia ya Dissenter</translation>
+<translation id="3700405816184340252">Historia ya Fulldive</translation>
 <translation id="7602079150116086782">Hakuna vichupo kutoka vifaa vingine</translation>
 <translation id="4619615317237390068">Vichupo kutoka kwenye vifaa vingine</translation>
-<translation id="82609232232243542">Ingia katika Dissenter</translation>
+<translation id="82609232232243542">Ingia katika Fulldive</translation>
 <translation id="4627442949885028695">Endelea kutoka kwenye kifaa kingine</translation>
-<translation id="7253276740368043692">Ili upate vichupo kutoka kwenye vifaa vyako vingine, ingia katika Dissenter.</translation>
+<translation id="7253276740368043692">Ili upate vichupo kutoka kwenye vifaa vyako vingine, ingia katika Fulldive.</translation>
 <translation id="6351063337294363751">Unaweza kufuta data yako ya kuvinjari kwenye menyu hii</translation>
 <translation id="6040143037577758943">Funga</translation>
 <translation id="6463795194797719782">&amp;Hariri</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Mapendeleo...</translation>
 <translation id="5801568494490449797">Mapendeleo</translation>
 <translation id="3677911431265050325">Omba tovuti ya kifaa cha mkononi</translation>
-<translation id="236470849334943016">Sheria na Masharti ya Dissenter yanabadilika tarehe 31 Machi</translation>
+<translation id="236470849334943016">Sheria na Masharti ya Fulldive yanabadilika tarehe 31 Machi</translation>
 <translation id="1032605640136438169">Tafadhali pitia Sheria na Masharti mapya</translation>
 <translation id="8712637175834984815">Nimeelewa</translation>
 <translation id="5007392906805964215">Maoni</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Zzima na uwashe</translation>
 <translation id="3479552764303398839">Sio sasa</translation>
 <translation id="1008557486741366299">Sio Sasa</translation>
-<translation id="8201192017531062522">Dissenter itaendelea kufanya kazi Programu za Dissenter zikiwa wazi.</translation>
-<translation id="7397305826909094212">Ondoka kwenye Programu zote za Dissenter</translation>
+<translation id="8201192017531062522">Fulldive itaendelea kufanya kazi Programu za Fulldive zikiwa wazi.</translation>
+<translation id="7397305826909094212">Ondoka kwenye Programu zote za Fulldive</translation>
 <translation id="5026874946691314267">Usionyeshe hii tena</translation>
 <translation id="91568222606626347">Unda Njia ya Mkato</translation>
 <translation id="2783321960289401138">Unda njia ya mkato...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">Mtambo Pepe wa Linux: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Mashine Dhahania ya Programu Jalizi: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">Kichanganuzi cha IPP</translation>
-<translation id="7171242884588191792">Huduma za Faili za Dissenter</translation>
+<translation id="7171242884588191792">Huduma za Faili za Fulldive</translation>
 <translation id="3183139917765991655">Kiletaji cha Wasifu</translation>
 <translation id="7367714965999718019">Kizalishaji cha Msimbo wa QR</translation>
 <translation id="2190069059097339078">Kipataji cha Kitambulisho cha WiFi</translation>
-<translation id="5920835625712313205">Kiandikaji cha Picha za Mfumo wa Uendeshaji wa Dissenter</translation>
+<translation id="5920835625712313205">Kiandikaji cha Picha za Mfumo wa Uendeshaji wa Fulldive</translation>
 <translation id="4873312501243535625">Kikagua Faili za Maudhui</translation>
 <translation id="5972666587303800813">Huduma ya No-op</translation>
 <translation id="1545775234664667895">Mandhari  "<ph name="THEME_NAME"/>"  imesanidiwa</translation>
@@ -851,15 +851,15 @@
 <translation id="3507421388498836150">Ruhusa za Sasa za "<ph name="EXTENSION_NAME"/>"</translation>
 <translation id="5242724311594467048">Ungependa kuwasha "<ph name="EXTENSION_NAME"/>"?</translation>
 <translation id="4014432863917027322">Je, ungependa kukarabati "<ph name="EXTENSION_NAME"/>"?</translation>
-<translation id="5173189340601754836">Programu nyingine kwenye kompyuta yako iliongeza programu ambayo inaweza kubadilisha jinsi Dissenter hufanya kazi.
+<translation id="5173189340601754836">Programu nyingine kwenye kompyuta yako iliongeza programu ambayo inaweza kubadilisha jinsi Fulldive hufanya kazi.
 
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Programu nyingine kwenye kompyuta yako iliongeza kiendelezi ambacho kinaweza kubadilisha jinsi Dissenter hufanya kazi.
+<translation id="6654312501894761082">Programu nyingine kwenye kompyuta yako iliongeza kiendelezi ambacho kinaweza kubadilisha jinsi Fulldive hufanya kazi.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Programu nyingine kwenye kompyuta yako iliongeza mandhari ambayo yanaweza kubadilisha jinsi Dissenter hufanya kazi.
+<translation id="3225882094369124157">Programu nyingine kwenye kompyuta yako iliongeza mandhari ambayo yanaweza kubadilisha jinsi Fulldive hufanya kazi.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Ruhusu Kiendelezi</translation>
@@ -868,7 +868,7 @@
 <translation id="3908501907586732282">Washa kiendelezi</translation>
 <translation id="2327492829706409234">Washa programu</translation>
 <translation id="175772926354468439">Washa mandhari</translation>
-<translation id="5267531627648004734">Ondoa kwenye Dissenter</translation>
+<translation id="5267531627648004734">Ondoa kwenye Fulldive</translation>
 <translation id="4998873842614926205">Thibitisha Mabadiliko</translation>
 <translation id="1799071797295057738">Kiendelezi cha "<ph name="EXTENSION_NAME"/>" kimezimwa kiotomatiki.</translation>
 <translation id="5238278114306905396">Programu ya "<ph name="EXTENSION_NAME"/>" iliondolewa kiotomatiki.</translation>
@@ -887,7 +887,7 @@
 <translation id="2124930039827422115">{1,plural, =1{Imekadiriwa <ph name="AVERAGE_RATING"/> na mtumiaji mmoja.}other{Imekadiriwa <ph name="AVERAGE_RATING"/> na watumiaji #.}}</translation>
 <translation id="6605847144724004692">Bado haijakadiriwa na watumiaji.</translation>
 <translation id="655384502888039633">Watumiaji <ph name="USER_COUNT"/></translation>
-<translation id="5261683757250193089">Fungua katika Duka la Dissenter kwenye Wavuti</translation>
+<translation id="5261683757250193089">Fungua katika Duka la Fulldive kwenye Wavuti</translation>
 <translation id="3655712721956801464">{NUM_FILES,plural, =1{Ina idhini ya ufikiaji wa kudumu wa faili moja.}other{Ina idhini ya ufikiaji wa kudumu wa faili #.}}</translation>
 <translation id="143027896309062157">Kusoma na kubadilisha data yako yote kwenye kompyuta yako na tovuti unazozitembelea</translation>
 <translation id="5931146425219109062">Kusoma na kurekebishe data yako yote kwenye tovuti unazotembelea</translation>
@@ -1004,7 +1004,7 @@
 <translation id="1616298854599875024">Imeshindwa kupakia kiendelezi "<ph name="IMPORT_NAME"/>" kwa sababu si sehemu iliyoshirikiwa</translation>
 <translation id="2131077480075264">Imeshindwa kusakinisha "<ph name="APP_NAME"/>" kwa sababu hairuhusiwa na "<ph name="IMPORT_NAME"/>"</translation>
 <translation id="1875387611427697908">Hii inaweza tu kuongezwa kutoka <ph name="CHROME_WEB_STORE"/>.</translation>
-<translation id="3862788408946266506">Ni lazima programu iliyo na sifa ya faili ya maelezo ya 'kiosk_only' isakinishwe katika skrini nzima ya Mfumo wa Uendeshaji wa Dissenter</translation>
+<translation id="3862788408946266506">Ni lazima programu iliyo na sifa ya faili ya maelezo ya 'kiosk_only' isakinishwe katika skrini nzima ya Mfumo wa Uendeshaji wa Fulldive</translation>
 <translation id="3834775135533257713">Hukuweza kuongeza programu ya "<ph name="TO_INSTALL_APP_NAME"/>" kwa sababu inakinzana na "<ph name="INSTALLED_APP_NAME"/>".</translation>
 <translation id="144518587530125858">'<ph name="IMAGE_PATH"/>' haikuweza kupakiwa kwa mandhari.</translation>
 <translation id="3576324189521867626">Imesakinishwa</translation>
@@ -1105,9 +1105,9 @@ Weka faili yako ya funguo mahali salama. Utaihitaji kuunda matoleo mapya ya kien
 <translation id="6101226222197207147">Programu mpya imeongezwa (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">Mandhari mapya yameongezwa (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">"<ph name="EXTENSION_NAME"/>" limeongezwa</translation>
-<translation id="6637045053447935202">Programu nyingine kwenye kompyuta yako iliongeza programu ambayo inaweza kubadilisha jinsi Dissenter inavyofanya kazi.</translation>
-<translation id="2015014930243978107">Programu nyingine kwenye kompyuta yako iliongeza kiendelezi ambacho kinaweza kubadilisha jinsi Dissenter inavyofanya kazi.</translation>
-<translation id="2060128809251156338">Programu nyingine kwenye kompyuta yako iliongeza mandhari ambayo yanaweza kubadilisha jinsi Dissenter inavyofanya kazi.</translation>
+<translation id="6637045053447935202">Programu nyingine kwenye kompyuta yako iliongeza programu ambayo inaweza kubadilisha jinsi Fulldive inavyofanya kazi.</translation>
+<translation id="2015014930243978107">Programu nyingine kwenye kompyuta yako iliongeza kiendelezi ambacho kinaweza kubadilisha jinsi Fulldive inavyofanya kazi.</translation>
+<translation id="2060128809251156338">Programu nyingine kwenye kompyuta yako iliongeza mandhari ambayo yanaweza kubadilisha jinsi Fulldive inavyofanya kazi.</translation>
 <translation id="2470702053775288986">Viendelezi visivyotumika vimezimwa</translation>
 <translation id="2809586584051668049">na <ph name="NUMBER_ADDITIONAL_DISABLED"/> zaidi</translation>
 <translation id="5301954838959518834">Sawa, nimeelewa</translation>
@@ -1312,7 +1312,7 @@ Weka faili yako ya funguo mahali salama. Utaihitaji kuunda matoleo mapya ya kien
 <translation id="8017679124341497925">Umebadilisha njia ya mkato</translation>
 <translation id="1174073918202301297">Njia ya mkato imeongezwa</translation>
 <translation id="2926085873880284723">Rejesha njia chaguomsingi za mkato</translation>
-<translation id="5801450813341024983">Mandhari ya Dissenter</translation>
+<translation id="5801450813341024983">Mandhari ya Fulldive</translation>
 <translation id="2800760947029405028">Pakia picha</translation>
 <translation id="8342861492835240085">Chagua mkusanyiko</translation>
 <translation id="3132996321662585180">Onyesha upya kila siku</translation>
@@ -1399,7 +1399,7 @@ Weka faili yako ya funguo mahali salama. Utaihitaji kuunda matoleo mapya ya kien
 <translation id="833986336429795709">Ili ufungue kiungo hiki, chagua programu</translation>
 <translation id="192494336144674234">Fungua ukitumia</translation>
 <translation id="9053893665344928494">Kumbuka chaguo langu</translation>
-<translation id="5340857474604400806">Endelea kutumia Dissenter</translation>
+<translation id="5340857474604400806">Endelea kutumia Fulldive</translation>
 <translation id="3043581297103810752">Kutoka <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Faragha)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (Mgeni)</translation>
@@ -1460,8 +1460,8 @@ Weka faili yako ya funguo mahali salama. Utaihitaji kuunda matoleo mapya ya kien
 <translation id="6686817083349815241">Hifadhi nenosiri lako</translation>
 <translation id="8141725884565838206">Simamia manenosiri yako</translation>
 <translation id="8275038454117074363">Ingiza</translation>
-<translation id="3191314862567596053">Leta Manenosiri Kwenye Dissenter</translation>
-<translation id="6368144843345980623">Hamisha Manenosiri Kutoka Dissenter</translation>
+<translation id="3191314862567596053">Leta Manenosiri Kwenye Fulldive</translation>
+<translation id="6368144843345980623">Hamisha Manenosiri Kutoka Fulldive</translation>
 <translation id="8503813439785031346">Jina la mtumiaji</translation>
 <translation id="6657585470893396449">Nenosiri</translation>
 <translation id="5472627187093107397">Hifadhi manenosiri ya tovuti hii</translation>
@@ -1492,7 +1492,7 @@ Weka faili yako ya funguo mahali salama. Utaihitaji kuunda matoleo mapya ya kien
 <translation id="7052237160939977163">Tuma data ya ufuatiliaji wa utendaji</translation>
 <translation id="5526928694260255286">Ambatisha <ph name="BEGIN_LINK"/>Kumbukumbu za Bluetooth<ph name="END_LINK"/> (Isitoke nje ya Gab AI Inc)</translation>
 <translation id="3047644958362961983">Maelezo haya yanatusaidia kuelewa vyema zaidi tatizo la programu ya Mratibu. Yanahifadhiwa kwa hadi siku 90 na yanaweza kufikiwa tu na timu zinazofaa za uhandisi na maoni.</translation>
-<translation id="8545590844135745781">Ili kutambua matatizo ya Bluetooth vyema zaidi, WanaGab AI Inc wanaweza kujumuisha kumbukumbu za ziada za Bluetooth kwenye ripoti zao za maoni. Wakati umeteua chaguo hili, ripoti yako itajumuisha kumbukumbu za btsnoop na HCI kuanzia kipindi chako cha sasa, zilizosafishwa ili kuondoa PII nyingi kadri iwezekanavyo. Wasimamizi wa kundi la bidhaa ya Dissenter OS katika Listnr ndio tu wataweza kufikia kumbukumbu hizi. Kumbukumbu zitaondolewa kabisa baada ya siku 90.</translation>
+<translation id="8545590844135745781">Ili kutambua matatizo ya Bluetooth vyema zaidi, WanaGab AI Inc wanaweza kujumuisha kumbukumbu za ziada za Bluetooth kwenye ripoti zao za maoni. Wakati umeteua chaguo hili, ripoti yako itajumuisha kumbukumbu za btsnoop na HCI kuanzia kipindi chako cha sasa, zilizosafishwa ili kuondoa PII nyingi kadri iwezekanavyo. Wasimamizi wa kundi la bidhaa ya Fulldive OS katika Listnr ndio tu wataweza kufikia kumbukumbu hizi. Kumbukumbu zitaondolewa kabisa baada ya siku 90.</translation>
 <translation id="4206323443866416204">Ripoti ya Maoni</translation>
 <translation id="3681311097828166361">Asante sana kwa maoni yako. Sasa uko nje ya mtandao, na ripoti yako itatumwa baadaye.</translation>
 <translation id="8713570323158206935">Tuma <ph name="BEGIN_LINK1"/>maelezo ya mfumo<ph name="END_LINK1"/></translation>
@@ -1509,15 +1509,15 @@ Weka faili yako ya funguo mahali salama. Utaihitaji kuunda matoleo mapya ya kien
 <translation id="6885771755599377173">Onyesho la Kuchungulia la Maelezo ya Mfumo</translation>
 <translation id="1016566241875885511">Maelezo ya ziada (hiari)</translation>
 <translation id="8026334261755873520">Futa data ya kuvinjari</translation>
-<translation id="4718442817388594217">Data uliyochagua imeondolewa kwenye Dissenter na kwenye vifaa vilivyosawazishwa. Huenda Akaunti yako ya Gab AI Inc ina aina nyingine za historia ya kuvinjari kama vile utafutaji na shughuli kutoka huduma nyingine za Gab AI Inc katika <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="7814200940910057384">Data ya Dissenter imefutwa</translation>
+<translation id="4718442817388594217">Data uliyochagua imeondolewa kwenye Fulldive na kwenye vifaa vilivyosawazishwa. Huenda Akaunti yako ya Gab AI Inc ina aina nyingine za historia ya kuvinjari kama vile utafutaji na shughuli kutoka huduma nyingine za Gab AI Inc katika <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="7814200940910057384">Data ya Fulldive imefutwa</translation>
 <translation id="7346909386216857016">Sawa, nimeelewa</translation>
 <translation id="8493236660459102203">Maikrofoni:</translation>
 <translation id="3925573269917483990">Kamera:</translation>
 <translation id="648927581764831596">Hakuna inayopatikana</translation>
 <translation id="4172051516777682613">Onyesha kila mara</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Imezuia dirisha ibukizi}other{Imezuia madirisha # ibukizi}}</translation>
-<translation id="4156865452842056672">(Kurasa za hitilafu kwenye Dissenter)</translation>
+<translation id="4156865452842056672">(Kurasa za hitilafu kwenye Fulldive)</translation>
 <translation id="1734824808160898225">Huenda <ph name="PRODUCT_NAME"/> isiweze kujisasisha.</translation>
 <translation id="8590375307970699841">Weka masasisho ya kiotomatiki</translation>
 <translation id="8926389886865778422">Nisiulizwe tena</translation>
@@ -1622,10 +1622,10 @@ Weka faili yako ya funguo mahali salama. Utaihitaji kuunda matoleo mapya ya kien
 <translation id="8658645149275195032"><ph name="APP_NAME"/> inashiriki skrini na sauti yako pamoja na <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> inashiriki dirisha.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> inashiriki dirisha na <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> inashiriki kichupo cha Dissenter.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> inashiriki kichupo cha Dissenter na <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> inashiriki kichupo cha Dissenter na sauti.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> inashiriki kichupo cha Dissenter na sauti pamoja na <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> inashiriki kichupo cha Fulldive.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> inashiriki kichupo cha Fulldive na <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> inashiriki kichupo cha Fulldive na sauti.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> inashiriki kichupo cha Fulldive na sauti pamoja na <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">Ficha</translation>
 <translation id="890616557918890486">Badilisha chanzo</translation>
 <translation id="7792388396321542707">Acha kushiriki</translation>
@@ -1648,7 +1648,7 @@ Weka faili yako ya funguo mahali salama. Utaihitaji kuunda matoleo mapya ya kien
 <translation id="4711067597921221305">Saidia kuboresha <ph name="PRODUCT_NAME"/> kwa kutumia Gab AI Inc takwimu za matumizi na ripoti wakati wowote huduma hii inapoacha kufanya kazi.</translation>
 <translation id="5972826969634861500">Anzisha <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Wasaidie wahandisi wetu kuchunguza na kurekebisha hitilafu hii ya kuacha kufanya kazi. Orodhesha hatua kamili kama unaweza. Maelezo yote ni muhimu!</translation>
-<translation id="5418694430960033386">Dissenter imeishiwa na kumbukumbu au mchakato wa ukurasa wa wavuti ulisitishwa kwa sababu nyingine. Kuendelea, pakia upya au nenda kwenye ukurasa mwingine.</translation>
+<translation id="5418694430960033386">Fulldive imeishiwa na kumbukumbu au mchakato wa ukurasa wa wavuti ulisitishwa kwa sababu nyingine. Kuendelea, pakia upya au nenda kwenye ukurasa mwingine.</translation>
 <translation id="3065041951436100775">Majibu ya kichupo kilichoangamizwa.</translation>
 <translation id="3941565636838060942">Ili kuficha ufikiaji kwenye programu hii, unahitaji kuiondoa kwa kutumia
 <ph name="CONTROL_PANEL_APPLET_NAME"/> katika Kidirisha cha Kudhibiti.
@@ -1676,10 +1676,10 @@ Ungependa kuanza <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="4980805016576257426">Kiendelezi kina programu hasidi.</translation>
 <translation id="5522156646677899028">Kiendelezi hiki kina mapungufu makubwa ya kiusalama.</translation>
 <translation id="6945695820322143954">Kiendelezi hiki kinakiuka sera ya Duka la Wavuti.</translation>
-<translation id="177808131755847449">Imezimwa na Dissenter. Huenda kiendelezi hiki si salama.</translation>
+<translation id="177808131755847449">Imezimwa na Fulldive. Huenda kiendelezi hiki si salama.</translation>
 <translation id="1434696352799406980">Hatua hii itaweka upya ukurasa wako unaoanza, ukurasa wa kichupo kipya, mtambo wa kutafuta na vichupo vilivyobandikwa. Pia itazima viendelezi na kufuta data ya muda kama vile vidakuzi. Alamisho, historia na manenosiri yako yaliyohifadhiwa hayatafutwa.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> inataka kuweka upya mipangilio yako.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> inataka kurejesha Mipangilio yako ya Dissenter katika hali yake ya chaguomsingi. Hii itaweka upya ukurasa wako wa kwanza, ukurasa mpya wa kichupo na mtambo wa kutafuta, izime viendelezi vyako na kubanua vichupo vyote. Pia itafuta data nyingine iliyohifadhiwa kwa muda na iliyoakibishwa, kama vile vidakuzi, maudhui na data ya tovuti.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> inataka kurejesha Mipangilio yako ya Fulldive katika hali yake ya chaguomsingi. Hii itaweka upya ukurasa wako wa kwanza, ukurasa mpya wa kichupo na mtambo wa kutafuta, izime viendelezi vyako na kubanua vichupo vyote. Pia itafuta data nyingine iliyohifadhiwa kwa muda na iliyoakibishwa, kama vile vidakuzi, maudhui na data ya tovuti.</translation>
 <translation id="7581462281756524039">Zana ya kusafisha</translation>
 <translation id="1233721473400465416">Lugha</translation>
 <translation id="2907619724991574506">URL za kuanzisha</translation>
@@ -1873,7 +1873,7 @@ Ungependa kuanza <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="6664774537677393800">Hitilafu imetokea wakati wa kufungua wasifu wako. Tafadhali ondoka na uingie katika akaunti tena.</translation>
 <translation id="1794791083288629568">Tuma maoni ili utusaidie kutatua tatizo hili.</translation>
 <translation id="8234795456569844941">Tafadhali wasaidie wahandisi wetu kutatua tatizo hili. Tueleze hasa kilichotendeka kabla ya kupokea ujumbe wa hitilafu:</translation>
-<translation id="6500340165622970282">Haiwezi kuwasha Dissenter kwa sababu hitilafu imetokea wakati wa kufungua wasifu wako. Jaribu kuzima kisha uwashe Dissenter.</translation>
+<translation id="6500340165622970282">Haiwezi kuwasha Fulldive kwa sababu hitilafu imetokea wakati wa kufungua wasifu wako. Jaribu kuzima kisha uwashe Fulldive.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> haiwezi kuendeshwa kama kina.</translation>
 <translation id="2292848386125228270">Tafadhali anzisha <ph name="PRODUCT_NAME"/> ukiwa mtumiaji wa kawaida. Ikiwa unahitaji kutumia kama chanzo cha uimarishaji, tumia tena kwa alama ya --no-sandbox.</translation>
 <translation id="7547317915858803630">Ilani: mipangilio yako ya <ph name="PRODUCT_NAME"/> imeakibishwa kwenye hifadhi ya mtandao. Huenda hii ikasababisha kushuka, mivurugo, au hata upotezaji wa data.</translation>
@@ -2249,8 +2249,8 @@ Ungependa kuanza <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="4720113199587244118">Ongeza Vifaa</translation>
 <translation id="2776441542064982094">Inaonekana kama hakuna vifaa vinavyopatikana kusajili kwenye mtandao. Kama kifaa chako kimewashwa na kimeunganishwa kwenye mtandao, jaribu kukisajili kwa kutumia maelekezo yaliyo katika mwongozo wake wa maelekezo.</translation>
 <translation id="1007408791287232274">Haikuweza kupakia vifaa.</translation>
-<translation id="3886420006370338208">Unahitaji kuingia katika Dissenter ili uone vifaa vyako</translation>
-<translation id="6711610692002680394">Unahitaji kuingia katika akaunti kwenye Dissenter ili usajili vifaa vipya</translation>
+<translation id="3886420006370338208">Unahitaji kuingia katika Fulldive ili uone vifaa vyako</translation>
+<translation id="6711610692002680394">Unahitaji kuingia katika akaunti kwenye Fulldive ili usajili vifaa vipya</translation>
 <translation id="8931394284949551895">Vifaa vipya</translation>
 <translation id="3752673729237782832">Vifaa vyangu</translation>
 <translation id="1721937473331968728">Unaweza kuongeza Printa maarufu zilizounganishwa na kompyuta yako kwenye <ph name="CLOUD_PRINT_NAME"/>.</translation>
@@ -2323,7 +2323,7 @@ Ungependa kuanza <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="4540437243849625078">Tovuti hii inaelekea kushiriki maelezo na programu nje ya hali ya faragha.</translation>
 <translation id="1227836882233136433">Ungependa kuondoka kwenye hali ya faragha?</translation>
 <translation id="662080504995468778">Usiondoke</translation>
-<translation id="2593289874938379417">Dissenter haina idhini ya kufikia rasilimali uliyoomba.</translation>
+<translation id="2593289874938379417">Fulldive haina idhini ya kufikia rasilimali uliyoomba.</translation>
 <translation id="760197030861754408">Nenda kwenye <ph name="LANDING_PAGE"/> ili uunganishe.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> kimegunduliwa</translation>
 <translation id="5042282098504489593">Fungua Mipangilio ili uunganishe <ph name="USB_DEVICE_NAME"/> kwenye Linux</translation>
@@ -2378,24 +2378,24 @@ Ungependa kuanza <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="2859806420264540918">Tovuti inaonyesha matangazo yanayopotosha au yanayokatiza huduma.</translation>
 <translation id="4077917118009885966">Matangazo yamezuiwa kwenye tovuti hii</translation>
 <translation id="6456955391422100996">Tangazo limeondolewa.</translation>
-<translation id="7533556202636568669">Tangazo hili linatumia nyenzo nyingi mno katika kifaa chako, kwa hivyo Dissenter imeliondoa.</translation>
+<translation id="7533556202636568669">Tangazo hili linatumia nyenzo nyingi mno katika kifaa chako, kwa hivyo Fulldive imeliondoa.</translation>
 <translation id="8497219075884839166">Huduma za Windows</translation>
 <translation id="897525204902889653">Huduma za Eneo la Ukaguzi Lililotengwa</translation>
 <translation id="7055152154916055070">Imezuiwa kuelekeza kwingine:</translation>
 <translation id="6777817260680419853">Imezuia shughuli ya kuelekeza kwingine</translation>
 <translation id="694592694773692225">Uelekezaji kwingine kwenye ukurasa huu umezuiwa.</translation>
-<translation id="8945142681652245463">Vinjari kwa kasi kwa kutumia Gab AI Inc Dissenter</translation>
-<translation id="2618024864038703735">Vinjari kwa usalama kwa kutumia Gab AI Inc Dissenter</translation>
-<translation id="8142180567942285208">Vinjari kwa njia mahiri kwa kutumia Dissenter</translation>
+<translation id="8945142681652245463">Vinjari kwa kasi kwa kutumia Gab AI Inc Fulldive</translation>
+<translation id="2618024864038703735">Vinjari kwa usalama kwa kutumia Gab AI Inc Fulldive</translation>
+<translation id="8142180567942285208">Vinjari kwa njia mahiri kwa kutumia Fulldive</translation>
 <translation id="8862003515646449717">Badilisha ili utumie kivinjari chenye kasi zaidi</translation>
 <translation id="8438328416656800239">Badilisha ili utumie kivinjari mahiri</translation>
 <translation id="491691592645955587">Badilisha ili utumie kivinjari salama</translation>
 <translation id="683373380308365518">Badilisha ili utumie kivinjari mahiri na salama</translation>
-<translation id="989239400026154074">Gab AI Inc inapendekeza utumie Dissenter</translation>
-<translation id="6676231621615806698">Fungua Dissenter</translation>
+<translation id="989239400026154074">Gab AI Inc inapendekeza utumie Fulldive</translation>
+<translation id="6676231621615806698">Fungua Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> hutumia mahali ulipo ili kukupa maudhui ya karibu nawe. Unaweza kuibadilisha mipangilio hii kwenye <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Vipakuliwa vyako vitaonekana hapa</translation>
-<translation id="4782664866169793230">Dissenter inadhibitiwa na programu otomatiki ya majaribio.</translation>
+<translation id="4782664866169793230">Fulldive inadhibitiwa na programu otomatiki ya majaribio.</translation>
 <translation id="6721678857435001674">Angalia muundo na aina ya Ufunguo wako wa Usalama</translation>
 <translation id="1673137583248014546"><ph name="URL"/> ingependa kuona muundo na aina ya Ufunguo wako wa Usalama</translation>
 <translation id="6010869025736512584">Inafikia vifaa vya kuingiza sauti ya video</translation>
@@ -2528,7 +2528,7 @@ Ungependa kuanza <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="3984431586879874039">Ungependa kuruhusu tovuti hii kuona ufunguo wako wa usalama?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> inataka kuona muundo na aina ya ufunguo wako wa usalama</translation>
 <translation id="7618452966706304788">Ungependa kutumia Touch ID kwenye <ph name="APP_NAME"/> katika hali ya Faragha?</translation>
-<translation id="3098826269712097986">Data ya kuingia katika akaunti itahifadhiwa katika Dissenter ukiondoka katika hali ya Faragha. Hali hii itakuruhusu kutumia Touch ID tena katika tovuti hii baadaye.</translation>
+<translation id="3098826269712097986">Data ya kuingia katika akaunti itahifadhiwa katika Fulldive ukiondoka katika hali ya Faragha. Hali hii itakuruhusu kutumia Touch ID tena katika tovuti hii baadaye.</translation>
 <translation id="2172784515318616985">Endelea</translation>
 <translation id="5186185447130319458">Faragha</translation>
 <translation id="7643842463591647490">{0,plural, =1{Dirisha # limefunguliwa}other{Madirisha # yamefunguliwa}}</translation>
@@ -2570,7 +2570,7 @@ Ungependa kuanza <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="2346953515226895098">Huduma ya SODA</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> imesitishwa</translation>
 <translation id="917350715406657904">Umefikisha kikomo cha muda uliowekwa na mzazi wako katika <ph name="APP_NAME"/>. Utaweza kuitumia kwa <ph name="TIME_LIMIT"/> kesho.</translation>
-<translation id="8891261408659902804">Umefikisha kikomo cha muda wa kutumia <ph name="APP_NAME"/> kwenye programu ya Dissenter uliowekwa na mzazi wako. Utaweza kuitumia kwa <ph name="TIME_LIMIT"/> kesho.</translation>
+<translation id="8891261408659902804">Umefikisha kikomo cha muda wa kutumia <ph name="APP_NAME"/> kwenye programu ya Fulldive uliowekwa na mzazi wako. Utaweza kuitumia kwa <ph name="TIME_LIMIT"/> kesho.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> imezuiwa</translation>
 <translation id="4404843640767531781"><ph name="APP_NAME"/> imezuiwa na mzazi wako. Mwombe mzazi wako ruhusa ya kutumia programu hii.</translation>
 <translation id="751523031290522286"><ph name="APP_NAME"/> imezuiwa na msimamizi. Mwombe msimamizi ruhusa ya kutumia programu hii.</translation>
@@ -2915,7 +2915,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="672213144943476270">Tafadhali fungua wasifu wako kabla ya kuvinjari ukitumia hali ya mgeni.</translation>
 <translation id="8086119151297127544">Tafadhali fungua wasifu wako kabla ya kuondoa wasifu</translation>
 <translation id="7805701378418968629">Tafadhali fungua wasifu wako kabla ya kuongeza wasifu</translation>
-<translation id="8978225823042133615">Ili utumie Dissenter, tafadhali ingia katika akaunti</translation>
+<translation id="8978225823042133615">Ili utumie Fulldive, tafadhali ingia katika akaunti</translation>
 <translation id="4893336867552636863">Hii itafuta kabisa data yako ya kuvinjari kwenye kifaa hiki.</translation>
 <translation id="2496180316473517155">Historia ya kuvinjari</translation>
 <translation id="6865313869410766144">Data ya fomu ya Kujaza Kiotomatiki</translation>
@@ -2939,7 +2939,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="9013707997379828817">Msimamizi wako alirejesha mipangilio ya awali ya kifaa hiki. Tafadhali hifadhi faili muhimu, alafu ukizime kisha ukiwashe. Data yote iliyo kwenye kifaa itafutwa.</translation>
 <translation id="5877064549588274448">Kituo kimebadilishwa. Zima na uwashe kifaa chako ili mabadiliko yaanze kutumika.</translation>
 <translation id="4716483597559580346">Tumia Powerwash kuimarisha usalama</translation>
-<translation id="4089922565956168950">Sasisho hili litabadilisha mipangilio ya Dissenterbook yako na kuondoa data ya mtumiaji iliyopo.</translation>
+<translation id="4089922565956168950">Sasisho hili litabadilisha mipangilio ya Fulldivebook yako na kuondoa data ya mtumiaji iliyopo.</translation>
 <translation id="3688526734140524629">Badili kituo</translation>
 <translation id="6410328738210026208">Badilisha kituo na Powerwash</translation>
 <translation id="1979280758666859181">Unabadilisha hadi kituo chenye toleo zee la <ph name="PRODUCT_NAME"/>. Mabadiliko ya kituo yatatumika wakati toleo la kituo linalingana na toleo lililosanidiwa kwenye kifaa chako.</translation>
@@ -2971,7 +2971,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> na akaunti 1 zaidi}other{<ph name="EMAIL"/> na akaunti <ph name="EXTRA_ACCOUNTS"/> zaidi}}</translation>
 <translation id="7434635829372401939">Sawazisha mipangilio yako</translation>
 <translation id="1036348656032585052">Zima</translation>
-<translation id="3267705913905916810">Mipangilio na programu zako zitasawazishwa kwenye vifaa vyote vinavyotumia Mfumo wa Uendeshaji wa Dissenter, ambavyo umetumia kuingia katika akaunti yako ya Gab AI Inc. Ili upate chaguo za kusawazisha kwenye kivinjari, nenda katika <ph name="LINK_BEGIN"/>Mipangilio ya Dissenter<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Mipangilio na programu zako zitasawazishwa kwenye vifaa vyote vinavyotumia Mfumo wa Uendeshaji wa Fulldive, ambavyo umetumia kuingia katika akaunti yako ya Gab AI Inc. Ili upate chaguo za kusawazisha kwenye kivinjari, nenda katika <ph name="LINK_BEGIN"/>Mipangilio ya Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Printa</translation>
 <translation id="8418661265246754237">Akaunti za Gab AI Inc</translation>
 <translation id="3953834000574892725">Akaunti zangu</translation>
@@ -3018,7 +3018,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="2187700606737131818">Picha kwenye Gab AI Inc</translation>
 <translation id="1827738518074806965">Matunzio ya sanaa</translation>
 <translation id="9137157311132182254">Mtambo wa kutafuta unaopendelea</translation>
-<translation id="7423118389528876103">Inatumiwa na kivinjari cha Dissenter na Kifungua Programu cha <ph name="DEVICE_TYPE"/></translation>
+<translation id="7423118389528876103">Inatumiwa na kivinjari cha Fulldive na Kifungua Programu cha <ph name="DEVICE_TYPE"/></translation>
 <translation id="2862205630718215619">Mratibu wa Gab AI Inc</translation>
 <translation id="8959699239363253085">Imewashwa</translation>
 <translation id="971479617738309149">Imezimwa</translation>
@@ -3038,15 +3038,15 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="6644513150317163574">Mfumo wa URL si sahihi. Seva lazima ibainishwe kama jina la mpangishi wakati uthibitishaji wa SSO unatumika.</translation>
 <translation id="6091761513005122595">Imepachika faili ya kushiriki.</translation>
 <translation id="5770125698810550803">Onyesha vitufe vya kusogeza</translation>
-<translation id="2972318514147518075">Nenda kwenye kifungua programu, rudi nyuma na ubadilishe programu ukitumia vitufe katika hali ya kompyuta kibao. Huwashwa wakati DissenterVox au kipengele cha Mibofyo ya kiotomatiki kimewashwa.</translation>
+<translation id="2972318514147518075">Nenda kwenye kifungua programu, rudi nyuma na ubadilishe programu ukitumia vitufe katika hali ya kompyuta kibao. Huwashwa wakati FulldiveVox au kipengele cha Mibofyo ya kiotomatiki kimewashwa.</translation>
 <translation id="2558896001721082624">Onyesha chaguo za zana za walio na matatizo ya kuona au kusikia katika menyu ya mfumo</translation>
 <translation id="2981113813906970160">Onyesha kiteuzi kikubwa cha kipanya</translation>
 <translation id="5072052264945641674">Rekebisha ukubwa wa kiteuzi</translation>
 <translation id="4209092469652827314">Kubwa</translation>
 <translation id="499165176004408815">Tumia hali ya juu ya utofautishaji</translation>
 <translation id="142758023928848008">Washa vitufe nata (ili kutekeleza mikato ya kibodi kwa kuichapa kwa kufuatana)</translation>
-<translation id="5914872514449971753">Washa DissenterVox (maoni yaliyotamkwa)</translation>
-<translation id="7099511550603534982">Fungua mipangilio ya DissenterVox</translation>
+<translation id="5914872514449971753">Washa FulldiveVox (maoni yaliyotamkwa)</translation>
+<translation id="7099511550603534982">Fungua mipangilio ya FulldiveVox</translation>
 <translation id="8547013269961688403">Washa kikuzaji cha skrini nzima</translation>
 <translation id="8743390665131937741">Kiwango cha ukuzaji wa skrini nzima:</translation>
 <translation id="7334274148831027933">Washa kikuzaji kilichofungwa</translation>
@@ -3138,7 +3138,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="6902066522699286937">Sauti kwa ajili ya kukagua</translation>
 <translation id="304747341537320566">Mitambo ya Sauti</translation>
 <translation id="2755367719610958252">Dhibiti vipengele vya zana za walio na matatizo ya kuona au kusikia</translation>
-<translation id="1203953622051744249">Dhibiti akaunti ulikoingia. Tovuti, programu na viendelezi katika Dissenter na Gab AI Inc Play vinaweza kutumia akaunti hizi ili kuboresha hali yako ya utumiaji, kulingana na ruhusa. <ph name="LINK_BEGIN"/>Pata maelezo zaidi<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Dhibiti akaunti ulikoingia. Tovuti, programu na viendelezi katika Fulldive na Gab AI Inc Play vinaweza kutumia akaunti hizi ili kuboresha hali yako ya utumiaji, kulingana na ruhusa. <ph name="LINK_BEGIN"/>Pata maelezo zaidi<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Weka akaunti ya shuleni au udhibiti akaunti za mtoto hapa. <ph name="LINK_BEGIN"/>Pata maelezo zaidi<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Akaunti</translation>
 <translation id="6597148444736186483">Ili uondoke katika akaunti ya msingi kwenye kifaa hiki, bofya saa kwenye skrini yako. Kwenye menyu inayoonekana, bofya "Ondoka katika akaunti".</translation>
@@ -3210,7 +3210,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="234889437187286781">Hitilafu ya kupakia data</translation>
 <translation id="4660540330091848931">Inabadilisha ukubwa</translation>
 <translation id="1481537595330271162">Hitilafu imetokea wakati wa kubadilisha ukubwa wa diski</translation>
-<translation id="2756917833575664962">Unahitaji kurejesha mipangilio ambayo Dissenterbook hii ilitoka nayo kiwandani ili uwashe utatuzi wa ADB. <ph name="BEGIN_LINK_LEARN_MORE"/>Pata maelezo zaidi<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">Unahitaji kurejesha mipangilio ambayo Fulldivebook hii ilitoka nayo kiwandani ili uwashe utatuzi wa ADB. <ph name="BEGIN_LINK_LEARN_MORE"/>Pata maelezo zaidi<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">Ili uwashe utatuzi wa ADB, unahitaji kuzima kisha uwashe <ph name="DEVICE_TYPE"/>. Unatakiwa kurejesha mipangilio ya kiwandani kwenye kifaa chako ili uzime.</translation>
 <translation id="8082390128630131497">Hatua ya kuzima utatuzi wa ADB itarejesha <ph name="DEVICE_TYPE"/> kwenye mipangilio iliyotoka nayo kiwandani. Itafuta data yote ya kifaa na akaunti za mtumiaji.</translation>
 <translation id="7932969338829957666">Folda zinazoshirikiwa zinapatikana kwenye Linux katika <ph name="BASE_DIR"/>.</translation>
@@ -3338,10 +3338,10 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> haipatikani tena</translation>
 <translation id="3976108569178263973">Hakuna printa zinazopatikana.</translation>
 <translation id="217576141146192373">Imeshindwa kuweka printa. Tafadhali kagua mipangilio ya printa yako kisha ujaribu tena.</translation>
-<translation id="4052689580269971502">Imeshindwa kuunganisha kwenye printa. Hakikisha kuwa printa imewashwa na imeunganishwa kwenye Dissenterbook yako kwa kutumia Wi-Fi au USB.</translation>
+<translation id="4052689580269971502">Imeshindwa kuunganisha kwenye printa. Hakikisha kuwa printa imewashwa na imeunganishwa kwenye Fulldivebook yako kwa kutumia Wi-Fi au USB.</translation>
 <translation id="7099337801055912064">Imeshindwa kupakia PPD kubwa. Kima cha juu kinachoruhusiwa ni KB 250.</translation>
 <translation id="4310139701823742692">Muundo wa faili si sahihi. Angalia faili na PPD kisha ujaribu tena.</translation>
-<translation id="6580983683519551561">Imeshindwa kupata PPD. Hakikisha kuwa Dissenterbook yako iko mtandaoni kisha ujaribu tena.</translation>
+<translation id="6580983683519551561">Imeshindwa kupata PPD. Hakikisha kuwa Fulldivebook yako iko mtandaoni kisha ujaribu tena.</translation>
 <translation id="4694024090038830733">Mipangilio ya printa inashughulikiwa na msimamizi.</translation>
 <translation id="5816434091619127343">Mabadiliko ya printa yaliyoombwa yatafanya printa isitumike.</translation>
 <translation id="6504611359718185067">Unganisha kwenye intaneti ili uongeze printa</translation>
@@ -3677,18 +3677,18 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="7770651108375708429">Zima Wi-Fi</translation>
 <translation id="4168015872538332605">Baadhi ya mipangilio ya <ph name="PRIMARY_EMAIL"/> inashirikiwa nawe. Mipangilio hii huathiri akaunti yako unapotumia uwezo wa kuingia katika akaunti nyingi kwa wakati mmoja.</translation>
 <translation id="1485141095922496924">Toleo la <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Sasisha Dissenter kwa watumiaji wote kiotomatiki</translation>
+<translation id="4570609078116869893">Sasisha Fulldive kwa watumiaji wote kiotomatiki</translation>
 <translation id="7102687220333134671">Masasisho ya kiotomatiki yamewashwa</translation>
 <translation id="6981982820502123353">Upatikanaji</translation>
 <translation id="5840822070878669614">Fungua Duka la Wavuti</translation>
 <translation id="6073903501322152803">Ongeza vipengele vya zana za walio na matatizo ya kuona au kusikia</translation>
 <translation id="7988355189918024273">Washa vipengele vya zana za walio na matatizo ya kuona au kusikia</translation>
-<translation id="5499063270485366718">Ikiwa picha haina ufafanuzi muhimu, Dissenter itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa Gab AI Inc.</translation>
+<translation id="5499063270485366718">Ikiwa picha haina ufafanuzi muhimu, Fulldive itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa Gab AI Inc.</translation>
 <translation id="8957762313041272117">Manukuu Papo Hapo</translation>
-<translation id="7075426315046750605">Kipengele cha Manukuu Papo Hapo hutambua matamshi kwenye maudhui na kuandika kiotomatiki manukuu ya maudhui yote yanayocheza kwenye Dissenter.</translation>
+<translation id="7075426315046750605">Kipengele cha Manukuu Papo Hapo hutambua matamshi kwenye maudhui na kuandika kiotomatiki manukuu ya maudhui yote yanayocheza kwenye Fulldive.</translation>
 <translation id="572155275267014074">Mipangilio ya Android</translation>
 <translation id="7201042526153088083">Sakinisha programu na michezo kutoka Gab AI Inc Play kwenye <ph name="DEVICE_TYPE"/> yako. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Pata maelezo zaidi&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Programu ambazo umezipakua kutoka Gab AI Inc Play zitafutwa kwenye Dissenterbook hii.
+<translation id="8039595758121742506">Programu ambazo umezipakua kutoka Gab AI Inc Play zitafutwa kwenye Fulldivebook hii.
       <ph name="LINE_BREAKS1"/>
       Maudhui ambayo umenunua kama vile filamu, vipindi vya televisheni, muziki, vitabu au ununuzi wa ndani wa programu yanaweza kufutwa pia.
       <ph name="LINE_BREAKS2"/>
@@ -3702,7 +3702,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="6006484371116297560">Kawaida</translation>
 <translation id="1795214765651529549">Tumia ya Kawaida</translation>
 <translation id="2332742915001411729">Rejesha kwenye chaguomsingi</translation>
-<translation id="8338457030135232378">Rangi za Dissenter</translation>
+<translation id="8338457030135232378">Rangi za Fulldive</translation>
 <translation id="827097179112817503">Onyesha kitufe cha mwanzo</translation>
 <translation id="383007806262310953">Onyesha sehemu ya alamisho</translation>
 <translation id="3911824782900911339">Ukurasa wa Kichupo Kipya</translation>
@@ -3714,7 +3714,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="1670399744444387456">Msingi</translation>
 <translation id="1763808908432309942">Itafungua katika kichupo kipya</translation>
 <translation id="6248988683584659830">Mipangilio ya kuvinjari</translation>
-<translation id="883304095704384301">Nenda kwenye <ph name="BEGIN_LINK_CHROMIUM"/>Usaidizi wa Gab AI Inc Dissenter<ph name="END_LINK_CHROMIUM"/> ikiwa hupati unachotafuta</translation>
+<translation id="883304095704384301">Nenda kwenye <ph name="BEGIN_LINK_CHROMIUM"/>Usaidizi wa Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/> ikiwa hupati unachotafuta</translation>
 <translation id="6406708970972405507">Mipangilio - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Kitufe cha ukurasa mdogo</translation>
 <translation id="379509625511193653">Imezimwa</translation>
@@ -3901,7 +3901,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="5468173180030470402">Inatafuta faili za kushiriki</translation>
 <translation id="3336664756920573711">Fungua kifaa chako cha <ph name="DEVICE_TYPE"/> kwa kutumia simu yako ya Android</translation>
 <translation id="1164674268730883318">Ungependa kuzima kipengele cha Smart Lock cha <ph name="DEVICE_TYPE"/>?</translation>
-<translation id="2739030071582769583">Ukizima kipengele cha Smart Lock cha <ph name="DEVICE_TYPE"/>, hutaweza kufungua vifaa vya Dissenter ukitumia simu yako. Utahitajika kuandika nenosiri lako.</translation>
+<translation id="2739030071582769583">Ukizima kipengele cha Smart Lock cha <ph name="DEVICE_TYPE"/>, hutaweza kufungua vifaa vya Fulldive ukitumia simu yako. Utahitajika kuandika nenosiri lako.</translation>
 <translation id="4737715515457435632">Tafadhali unganisha kwenye mtandao.</translation>
 <translation id="5425722269016440406">Lazima uwe mtandaoni ili uzima mfumo wa Smart Lock kwa sababu mipangilio hii imesawazishwa kwenye simu na vifaa vyako vingine. Tafadhali unganisha kwenye mtandao kwanza.</translation>
 <translation id="8885197664446363138">Smart Lock haipatikani</translation>
@@ -4135,20 +4135,20 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="3633309367764744750">Hutafuta mapema maelezo kwenye kurasa, ikiwa ni pamoja na kurasa ambazo bado hujazitembelea. Maelezo yanayotafutwa yanaweza kujumuisha vidakuzi, ukiviruhusu.</translation>
 <translation id="3201899458094819285">Kuvinjari Salama (hukulinda wewe na kifaa chako dhidi ya tovuti hatari)</translation>
 <translation id="2876369937070532032">Hutuma kwa Gab AI Inc URL za baadhi ya kurasa ambazo umetembelea wakati usalama wako uko hatarini</translation>
-<translation id="4991384657077828949">Tusaidie kuboresha usalama wa Dissenter</translation>
+<translation id="4991384657077828949">Tusaidie kuboresha usalama wa Fulldive</translation>
 <translation id="1984646864943401749">Hutuma URL za baadhi ya kurasa unazotembelea, maelezo machache ya mfumo na baadhi ya maudhui ya kurasa kwa Gab AI Inc, ili kusaidia kugundua na kuzuia vitisho vipya na kulinda kila mtu kwenye wavuti.</translation>
 <translation id="1641113438599504367">Kuvinjari Salama</translation>
 <translation id="6900532703269623216">Ulinzi ulioboreshwa</translation>
 <translation id="7307583170263691471">Ulinzi wa haraka na wa mapema dhidi ya tovuti, vipakuliwa na viendelezi hatari. Hukuonya kuhusu matukio ya ufichuzi haramu wa manenosiri yako. Inahitaji data ya kuvinjari itumwe kwa Gab AI Inc.</translation>
 <translation id="8645920082661222035">Hutabiri na kukuonya kuhusu matukio hatari kabla yatendeke</translation>
-<translation id="5265419033369521352">Hulinda usalama wako kwenye Dissenter na inaweza kutumiwa kuboresha usalama wako kwenye programu nyingine za Gab AI Inc ukiwa umeingia katika akaunti</translation>
+<translation id="5265419033369521352">Hulinda usalama wako kwenye Fulldive na inaweza kutumiwa kuboresha usalama wako kwenye programu nyingine za Gab AI Inc ukiwa umeingia katika akaunti</translation>
 <translation id="6770602306803890733">Huboresha usalama wako na wa kila mtu kwenye wavuti</translation>
 <translation id="3690369331356918524">Hukuonya iwapo manenosiri yamefichuliwa katika tukio la ufichuzi haramu wa data</translation>
 <translation id="4979281249641199724">Hutuma URL kwenye kipengele cha Kuvinjari Salama ili zikaguliwe. Hutuma pia sampuli ndogo ya kurasa, vipakuliwa, shughuli za viendelezi na maelezo ya mfumo ili kusaidia kugundua matukio mapya hatari. Huunganisha data hii kwenye Akaunti yako ya Gab AI Inc kwa muda mfupi ukiwa umeingia katika akaunti, ili kukulinda kwenye programu za Gab AI Inc.</translation>
 <translation id="1963976881984600709">Ulinzi wa kawaida</translation>
 <translation id="6882836635272038266">Ulinzi wa kawaida dhidi ya tovuti, vipakuliwa na viendelezi vinavyojulikana kuwa hatari.</translation>
 <translation id="5561162485081632007">Hutambua na kukuonya kuhusu matukio hatari yanapotendeka</translation>
-<translation id="7810992039564280750">Hukagua URL zilizo na orodha ya tovuti zisizo salama zinazohifadhiwa kwenye Dissenter. Iwapo tovuti inajaribu kuiba nenosiri lako au unapopakua faili hatari, Dissenter inaweza pia kutuma URL, ikiwa ni pamoja na sehemu za maudhui ya ukurasa, kwenye kipengele cha Kuvinjari Salama.</translation>
+<translation id="7810992039564280750">Hukagua URL zilizo na orodha ya tovuti zisizo salama zinazohifadhiwa kwenye Fulldive. Iwapo tovuti inajaribu kuiba nenosiri lako au unapopakua faili hatari, Fulldive inaweza pia kutuma URL, ikiwa ni pamoja na sehemu za maudhui ya ukurasa, kwenye kipengele cha Kuvinjari Salama.</translation>
 <translation id="3847319713229060696">Tusaidie kuboresha usalama wa kila mtu kwenye wavuti</translation>
 <translation id="1984417487208496350">Hamna ulinzi (haipendekezwi)</translation>
 <translation id="1295971429974142731">Haikulindi dhidi ya tovuti, viendelezi na faili hatari zinazopakuliwa. Bado utapata ulinzi wa kipengele cha Kuvinjari Salama, kinapopatikana, katika huduma nyingine za Gab AI Inc kama vile Gmail na Tafuta na Gab AI Inc.</translation>
@@ -4204,7 +4204,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="8632933437936028548">Badilisha mipangilio</translation>
 <translation id="5293170712604732402">Rejesha mipangilio kwenye chaguomsingi halisi</translation>
 <translation id="892706138619340876">Baadhi ya mipangilio imewekwa upya.</translation>
-<translation id="2334029754052191847">Dissenter imegundua kuwa baadhi ya mipangilio yako ilivurugwa na programu nyingine na ikairejesha kwenye mipangilio yake iliyotoka nayo kiwandani.</translation>
+<translation id="2334029754052191847">Fulldive imegundua kuwa baadhi ya mipangilio yako ilivurugwa na programu nyingine na ikairejesha kwenye mipangilio yake iliyotoka nayo kiwandani.</translation>
 <translation id="4582563038311694664">Weka upya mipangilio yote</translation>
 <translation id="4146785383423576110">Weka mipangilio upya na ufute programu hatari</translation>
 <translation id="2603115962224169880">Futa programu hatari kwenye kompyuta yako</translation>
@@ -4273,7 +4273,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="5340638867532133571">Ruhusu tovuti zisakinishe vidhibiti vya malipo (inapendekezwa)</translation>
 <translation id="763632859238619983">Usiruhusu tovuti zozote zisakinishe vidhibiti vya malipo</translation>
 <translation id="8270242299912238708">Hati za PDF</translation>
-<translation id="539658326146969381">Pakua faili za PDF badala ya kuzipakua kiotomatiki katika Dissenter</translation>
+<translation id="539658326146969381">Pakua faili za PDF badala ya kuzipakua kiotomatiki katika Fulldive</translation>
 <translation id="4434045419905280838">Madirisha ibukizi/kuelekeza kwingine</translation>
 <translation id="6612358246767739896">Maudhui yanayolindwa</translation>
 <translation id="4252852543720145436">Vitambulishaji vya maudhui vinavyolindwa</translation>
@@ -4334,7 +4334,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="2913331724188855103">Ruhusu tovuti zihifadhi na kusoma data ya vidakuzi (imependekezwa)</translation>
 <translation id="5908769186679515905">Zuia tovuti kutumia Flash</translation>
 <translation id="783214144752121388">Zuia tovuti zisitumie Mweko (inapendekezwa)</translation>
-<translation id="6096007141921397775">Mipangilio yako ya Flash haitaondolewa hadi utakapofunga Dissenter.</translation>
+<translation id="6096007141921397775">Mipangilio yako ya Flash haitaondolewa hadi utakapofunga Fulldive.</translation>
 <translation id="8074127646604999664">Ruhusu tovuti zilizofungwa hivi karibuni zikamilishe kutuma na kupokea data</translation>
 <translation id="7062222374113411376">Ruhusu tovuti zilizofungwa hivi punde zimalize kutuma na kupokea data (inapendekezwa)</translation>
 <translation id="5068918910148307423">Usiruhusu tovuti zilizofungwa hivi punde zimalize kutuma na kupokea data</translation>
@@ -4414,7 +4414,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="5566692924079383101">Mipangilio hii maalum itaondolewa kiotomatiki baada ya kufunga kipindi cha sasa cha Hali Fiche</translation>
 <translation id="383891835335927981">Hakuna tovuti zilizovutwa karibu wala kusogezwa mbali</translation>
 <translation id="3566721612727112615">Hakuna tovuti zilizoongezwa</translation>
-<translation id="8098574385249290065">Ruhusu Dissenter ichague wakati ambapo tovuti zitacheza sauti (inapendekezwa)</translation>
+<translation id="8098574385249290065">Ruhusu Fulldive ichague wakati ambapo tovuti zitacheza sauti (inapendekezwa)</translation>
 <translation id="4354344420232759511">Tovuti unazotembelea zitaonekana hapa</translation>
 <translation id="3757733214359997190">Hakuna tovuti zilizopatikana</translation>
 <translation id="6545864417968258051">Kutafuta Bluetooth</translation>
@@ -4427,7 +4427,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Ongeza tovuti</translation>
 <translation id="5052499409147950210">Badilisha tovuti</translation>
-<translation id="4610862967073369855">Huruhusu programu ya Android Messages itume SMS kutoka simu yako kwenda Dissenterbook</translation>
+<translation id="4610862967073369855">Huruhusu programu ya Android Messages itume SMS kutoka simu yako kwenda Fulldivebook</translation>
 <translation id="6742339027238151589">Kinaweza kufikiwa na hati</translation>
 <translation id="361106536627977100">Data ya Flash</translation>
 <translation id="8557930019681227453">Faili ya maelezo</translation>
@@ -4439,7 +4439,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="8016266267177410919">Hifadhi ya muda</translation>
 <translation id="4175737294868205930">Hifadhi inayoendelea</translation>
 <translation id="8397843425685839889">Wewe na Gab AI Inc</translation>
-<translation id="8907706281008466056">Picha ya wasifu kwenye Dissenter</translation>
+<translation id="8907706281008466056">Picha ya wasifu kwenye Fulldive</translation>
 <translation id="2023167225947895179">PIN hii ni rahisi kukisia</translation>
 <translation id="5342091991439452114">Lazima PIN iwe na angalau tarakimu <ph name="MINIMUM"/></translation>
 <translation id="5252653240322147470">Lazima PIN iwe na tarakimu zisizozidi <ph name="MAXIMUM"/></translation>
@@ -4504,23 +4504,23 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="3817524650114746564">Fungua mipangilio mbadala ya kompyuta yako</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> inatumia mipangilio ya seva mbadala kutoka kwenye kiendelezi</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> inatumia mipangilio ya seva mbadala kutoka kwa msimamizi wako</translation>
-<translation id="6187156085111579405">Vipengee ambavyo havijaorodheshwa hapa pia vitaondolewa, panapohitajika. Pata maelezo zaidi kuhusu &lt;a href="<ph name="URL"/>"&gt;ulinzi dhidi ya programu zisizohitajika&lt;/a&gt; katika ripoti rasmi na ya faragha ya Dissenter.</translation>
+<translation id="6187156085111579405">Vipengee ambavyo havijaorodheshwa hapa pia vitaondolewa, panapohitajika. Pata maelezo zaidi kuhusu &lt;a href="<ph name="URL"/>"&gt;ulinzi dhidi ya programu zisizohitajika&lt;/a&gt; katika ripoti rasmi na ya faragha ya Fulldive.</translation>
 <translation id="5280174558369304332">Viendelezi vitakavyoondolewa:</translation>
 <translation id="7712836429117959503">Kiendelezi kisichojulikana chenye kitambulisho <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">Faili na programu ambazo zitawekwa kwenye folda ya vipengee vilivyotengwa:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{Kipengee kimoja}other{Vipengee {NUM_ITEMS}}}</translation>
 <translation id="7187428571767585875">Data ya sajili itakayoondolewa au kubadilishwa:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{Moja zaidi}other{{NUM_DOWNLOADS} zaidi}}</translation>
-<translation id="2749608811030566578">Hitilafu imetokea wakati Dissenter ilikuwa ikiondoa programu hatari</translation>
-<translation id="8189483132214844139">Dissenter inaweza kupata programu hatari kwenye kompyuta yako na kuiondoa</translation>
+<translation id="2749608811030566578">Hitilafu imetokea wakati Fulldive ilikuwa ikiondoa programu hatari</translation>
+<translation id="8189483132214844139">Fulldive inaweza kupata programu hatari kwenye kompyuta yako na kuiondoa</translation>
 <translation id="1426870617281699524">Bofya Jaribu Tena na ukubali kidokezo kwenye kompyuta yako</translation>
-<translation id="7886744396008377537">Kuna programu hatari kwenye kompyuta yako. Dissenter inaiondoa, kurejesha mipangilio yako na kuzima viendelezi. Hatua hii itasababisha kivinjari chako kifanye kazi tena kama kawaida.</translation>
-<translation id="1484912962860902625">Hitilafu imetokea Dissenter ilipokuwa ikitafuta programu hatari</translation>
+<translation id="7886744396008377537">Kuna programu hatari kwenye kompyuta yako. Fulldive inaiondoa, kurejesha mipangilio yako na kuzima viendelezi. Hatua hii itasababisha kivinjari chako kifanye kazi tena kama kawaida.</translation>
+<translation id="1484912962860902625">Hitilafu imetokea Fulldive ilipokuwa ikitafuta programu hatari</translation>
 <translation id="451407183922382411">Inaendeshwa na <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">Onyesha faili unazotaka kuondoa</translation>
 <translation id="296026337010986570">Imemaliza! Imeondoa programu hatari. Ili uwashe viendelezi, tembelea &lt;a href="chrome://extensions"&gt;Viendelezi.&lt;/a&gt;.</translation>
 <translation id="284975061945174219">Imeshindwa kusafisha</translation>
-<translation id="9014750448058570312">Dissenter inahitaji ruhusa ili iendelee</translation>
+<translation id="9014750448058570312">Fulldive inahitaji ruhusa ili iendelee</translation>
 <translation id="1852141627593563189">Pata programu hatari</translation>
 <translation id="850875081535031620">Hakuna programu hasidi iliyopatikana</translation>
 <translation id="1186771945450942097">Ondoa programu hatari</translation>
@@ -4533,7 +4533,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="6555810572223193255">Kipengele cha usafishaji hakiwezi kutumika kwa sasa</translation>
 <translation id="7117228822971127758">Tafadhali jaribu tena baadaye</translation>
 <translation id="443475966875174318">Sasisha au uondoe programu ambazo hazioani</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Huenda programu hii ikazuia Dissenter isifanye kazi inavyostahili.}other{Huenda programu hizi zikazuia Dissenter isifanye kazi inavyostahili.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Huenda programu hii ikazuia Fulldive isifanye kazi inavyostahili.}other{Huenda programu hizi zikazuia Fulldive isifanye kazi inavyostahili.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Ili uhakikishe kuwa unaendelea kuvinjari wavuti, mwombe msimamizi wako aondoe programu hii.}other{Ili uhakikishe kuwa unaendelea kuvinjari wavuti, mwombe msimamizi wako aondoe programu hii.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Pata maelezo zaidi kuhusu jinsi ya kusasisha programu<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{Programu}other{Programu}}</translation>
@@ -4616,13 +4616,13 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="284843628681142937">Hutuma URL za kurasa unazotembelea kwa Gab AI Inc</translation>
 <translation id="7704317875155739195">Jaza kiotomatiki URL na hoja za utafutaji</translation>
 <translation id="2000419248597011803">Hutuma baadhi ya vidakuzi na utafutaji kutoka kwenye sehemu ya anwani na kisanduku cha kutafutia kwenye mtambo wako chaguomsingi wa kutafuta</translation>
-<translation id="918192811481327695">Tusaidie tuboreshe utendaji na vipengele vya Dissenter</translation>
+<translation id="918192811481327695">Tusaidie tuboreshe utendaji na vipengele vya Fulldive</translation>
 <translation id="9063160602596686558">Hutuma kiotomatiki takwimu za matumizi na ripoti za programu kuacha kufanya kazi kwa Gab AI Inc</translation>
 <translation id="6697492270171225480">Onyesha mapendekezo ya kurasa zinazofanana na ukurasa huu wakati haupatikani</translation>
 <translation id="4534361985432360439">Hutuma kwa Gab AI Inc anwani ya wavuti ya ukurasa unaojaribu kufikia</translation>
 <translation id="3831436149286513437">Mapendekezo ya utafutaji ya Hifadhi ya Gab AI Inc</translation>
 <translation id="5244474230056479698">Inasawazisha kwenye <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Pata Gab AI Inc mahiri kwenye Dissenter</translation>
+<translation id="9125982323641182972">Pata Gab AI Inc mahiri kwenye Fulldive</translation>
 <translation id="2537178555904266562">Hitilafu imetokea wakati wa kusawazisha manenosiri</translation>
 <translation id="4314815835985389558">Dhibiti usawazishaji</translation>
 <translation id="8931475688782629595">Dhibiti data unayosawazisha</translation>
@@ -4640,7 +4640,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="1651008383952180276">Lazima uweke kauli ya siri sawa mara mbili</translation>
 <translation id="988978206646512040">Kauli ya siri tupu hairuhusiwi</translation>
 <translation id="2136476978468204130">Kauli ya siri uliyoweka si sahihi</translation>
-<translation id="7505421639213002314">Data kutoka usawazishaji wa Dissenter</translation>
+<translation id="7505421639213002314">Data kutoka usawazishaji wa Fulldive</translation>
 <translation id="452750746583162491">Kagua data yako iliyosawazishwa</translation>
 <translation id="7956662517480676674">Huduma za Gab AI Inc na usawazishaji</translation>
 <translation id="7772032839648071052">Thibitisha kaulisiri</translation>
@@ -4739,7 +4739,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="1992397118740194946">Haijawekwa</translation>
 <translation id="6706210727756204531">Upeo</translation>
 <translation id="5532223876348815659">Ulimwenguni</translation>
-<translation id="300669147395456190">Programu za Dissenter</translation>
+<translation id="300669147395456190">Programu za Fulldive</translation>
 <translation id="6787839852456839824">Mikato ya kibodi</translation>
 <translation id="6419546358665792306">Pakia kiendelezi kilichopakuliwa</translation>
 <translation id="8023801379949507775">Sasisha viendelezi sasa</translation>
@@ -4753,13 +4753,13 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="8447409163267621480">Jumuisha kitufe cha Ctrl au Alt</translation>
 <translation id="3365598184818502391">Tumia Ctrl au Alt</translation>
 <translation id="1688935057616748272">Andika herufi</translation>
-<translation id="1579879232130925590">Dissenter yenye manufaa, inayofurahisha</translation>
+<translation id="1579879232130925590">Fulldive yenye manufaa, inayofurahisha</translation>
 <translation id="964057662886721376">Baadhi ya viendelezi vinaweza kukupunguzia kasi - hasa vile ambayo hukuwa na nia ya kuvisakinisha.</translation>
 <translation id="1499271269825557605">Ikiwa hutambui kiendelezi au ikiwa kivinjari chako hakifanyi kazi kama inavyotarajiwa, unaweza kuzima au kuweka mapendeleo ya viendelezi hapa.</translation>
 <translation id="2382818385048255866">Kagua viendelezi vyako</translation>
 <translation id="3900789207771372462">Baadhi ya viendelezi vinaweza kuona shughuli yako ya kuvinjari - ikiwa ni pamoja na taarifa binafsi.</translation>
 <translation id="6772339735733515807">Dhibiti viendelezi vyako</translation>
-<translation id="1510515462062582289">Kwenye ukurasa huu, unaweza kuona viendelezi vyote vilivyosakinishwa katika Dissenter.</translation>
+<translation id="1510515462062582289">Kwenye ukurasa huu, unaweza kuona viendelezi vyote vilivyosakinishwa katika Fulldive.</translation>
 <translation id="2810390687497823527">Ikiwa hutambui kiendelezi au ikiwa kivinjari chako hakifanyi kazi kama inavyotarajiwa, unaweza kuzima au kuweka mapendeleo ya viendelezi hapa.</translation>
 <translation id="4479424953165245642">Programu za kioski zinazodhibitiwa</translation>
 <translation id="6619801788773578757">Ongeza programu ya skrini nzima</translation>
@@ -4775,7 +4775,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="2342740338116612727">Imeongeza alamisho</translation>
 <translation id="7835178595033117206">Alamisho imeondolewa</translation>
 <translation id="742130257665691897">Imeondoa alamisho</translation>
-<translation id="5468853758063275923">Dissenter ni kivinjari chako chaguomsingi</translation>
+<translation id="5468853758063275923">Fulldive ni kivinjari chako chaguomsingi</translation>
 <translation id="2950533317914339731">Ongeza alamisho kwenye Programu za Gab AI Inc unazopenda</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4790,13 +4790,13 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="5033266061063942743">Maumbo ya Jiometriki</translation>
 <translation id="7789963078219276159">Mandhari ya ukurasa wa kwanza yamebadilishwa kuwa <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Mandhari ya ukurasa wa mwanzo yamewekwa upya kuwa mandhari chaguomsingi.</translation>
-<translation id="239760341987199724">Weka Dissenter kuwa kivinjari chako chaguomsingi</translation>
+<translation id="239760341987199724">Weka Fulldive kuwa kivinjari chako chaguomsingi</translation>
 <translation id="96037229054033864">Pata Huduma ya Tafuta na Gab AI Inc na Gab AI Inc smarts kila unapovinjari</translation>
-<translation id="296137235951584143">Weka mapendeleo kwenye Dissenter iwe unavyopenda</translation>
+<translation id="296137235951584143">Weka mapendeleo kwenye Fulldive iwe unavyopenda</translation>
 <translation id="3982375475032951137">Weka mipangilio ya kivinjari chako kwa hatua chache rahisi</translation>
 <translation id="6972754398087986839">Anza</translation>
-<translation id="3707821975049107110">Unatumia Dissenter tayari? Ingia katika akaunti</translation>
-<translation id="7113572760575285642">Dissenter Yako, Kila Mahali</translation>
+<translation id="3707821975049107110">Unatumia Fulldive tayari? Ingia katika akaunti</translation>
+<translation id="7113572760575285642">Fulldive Yako, Kila Mahali</translation>
 <translation id="567643736130151854">Ingia katika akaunti na uwashe kipengele cha kusawazisha ili upate alamisho, manenosiri na vipengee vyako vingine kwenye vifaa vyote</translation>
 <translation id="725758059478686223">Huduma ya Kuchapisha</translation>
 <translation id="15662109988763471">Printa iliyochaguliwa haipatikani au haijasakinishwa vizuri. Angalia printa yako au ujaribu kuchagua printa nyingine.</translation>
@@ -4919,7 +4919,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="7574650250151586813">Ili uandike maandishi, sasisha programu ya Kibodi ya Daydream</translation>
 <translation id="983511809958454316">Kipengele hiki hakitumiki katika VR</translation>
 <translation id="4008291085758151621">Maelezo ya tovuti hayapatikani katika VR</translation>
-<translation id="1439926347196400598">Ungependa kuruhusu Dissenter irekodi sauti?</translation>
+<translation id="1439926347196400598">Ungependa kuruhusu Fulldive irekodi sauti?</translation>
 <translation id="6313641880021325787">ONDOKA KWENYE VR</translation>
 <translation id="2670429602441959756">Ukurasa huu una vipengele visivyotumika katika VR. Unaondoka...</translation>
 <translation id="1802687198411089702">Ukurasa huu haufanyi kazi. Unaweza kuusubiri au uufunge.</translation>
@@ -4941,7 +4941,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="1721312023322545264">Unahitaji ruhusa kutoka kwa <ph name="NAME"/> ili utembelee tovuti hii</translation>
 <translation id="7543525346216957623">Muulize mzazi wako</translation>
 <translation id="471880041731876836">Huna ruhusa ya kutembelea tovuti hii</translation>
-<translation id="3480834636742786788">Tafadhali anza na uingie katika Dissenter kabla ya kutumia programu hii.</translation>
+<translation id="3480834636742786788">Tafadhali anza na uingie katika Fulldive kabla ya kutumia programu hii.</translation>
 <translation id="2851634818064021665">Unahitaji ruhusa ili utembelee tovuti hii</translation>
 <translation id="4933782374919065856">Je, una maswali? Wasiliana na msimamizi wa wasifu wako.</translation>
 <translation id="2712173769900027643">Omba ruhusa</translation>
@@ -4961,7 +4961,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="7755287808199759310">Mzazi wako anaweza kukuondolea kizuizi</translation>
 <translation id="5732392974455271431">Wazazi wako wanaweza kukuondolea kizuizi</translation>
 <translation id="3556433843310711081">Msimamizi wako anaweza kukuondolea kizuizi</translation>
-<translation id="1254756632288991504">Tafadhali anza na uingie katika Dissenter ili Dissenter iangalie ikiwa unaruhusiwa kufikia tovuti hii.</translation>
+<translation id="1254756632288991504">Tafadhali anza na uingie katika Fulldive ili Fulldive iangalie ikiwa unaruhusiwa kufikia tovuti hii.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> imesimamishwa</translation>
 <translation id="8015163965024115122">Muda wa kutumia programu za <ph name="IDS_SHORT_PRODUCT_NAME"/> au <ph name="IDS_SHORT_PRODUCT_NAME"/> uliowekwa na mzazi wako umeisha.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> imesitishwa</translation>

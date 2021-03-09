@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">削除</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> 個のアイテムを選択しました</translation>
 <translation id="5582839680698949063">メインメニュー</translation>
-<translation id="3700405816184340252">Dissenter 履歴</translation>
+<translation id="3700405816184340252">Fulldive 履歴</translation>
 <translation id="7602079150116086782">他のデバイスからのタブなし</translation>
 <translation id="4619615317237390068">他のデバイスからのタブ</translation>
-<translation id="82609232232243542">Dissenter にログイン</translation>
+<translation id="82609232232243542">Fulldive にログイン</translation>
 <translation id="4627442949885028695">他の端末で開いたタブ</translation>
-<translation id="7253276740368043692">他の端末と同じタブを使用するには、Dissenter にログインします。</translation>
+<translation id="7253276740368043692">他の端末と同じタブを使用するには、Fulldive にログインします。</translation>
 <translation id="6351063337294363751">このメニューで閲覧データを削除できます</translation>
 <translation id="6040143037577758943">閉じる</translation>
 <translation id="6463795194797719782">編集(&amp;E)</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">環境設定...</translation>
 <translation id="5801568494490449797">設定</translation>
 <translation id="3677911431265050325">モバイルサイトをリクエスト</translation>
-<translation id="236470849334943016">Dissenter の利用規約が 3 月 31 日に更新されます。</translation>
+<translation id="236470849334943016">Fulldive の利用規約が 3 月 31 日に更新されます。</translation>
 <translation id="1032605640136438169">新しい利用規約をご確認ください</translation>
 <translation id="8712637175834984815">閉じる</translation>
 <translation id="5007392906805964215">内容を確認</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">再起動</translation>
 <translation id="3479552764303398839">後で</translation>
 <translation id="1008557486741366299">後で</translation>
-<translation id="8201192017531062522">Dissenter アプリが開いている間 Dissenter は実行され続けます。</translation>
-<translation id="7397305826909094212">すべての Dissenter アプリを終了</translation>
+<translation id="8201192017531062522">Fulldive アプリが開いている間 Fulldive は実行され続けます。</translation>
+<translation id="7397305826909094212">すべての Fulldive アプリを終了</translation>
 <translation id="5026874946691314267">今後このメッセージを表示しない</translation>
 <translation id="91568222606626347">ショートカットを作成...</translation>
 <translation id="2783321960289401138">ショートカットを作成...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">Linux 仮想マシン: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">プラグイン仮想マシン: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP パーサー</translation>
-<translation id="7171242884588191792">Dissenter ファイル ユーティリティ</translation>
+<translation id="7171242884588191792">Fulldive ファイル ユーティリティ</translation>
 <translation id="3183139917765991655">プロフィール インポーター</translation>
 <translation id="7367714965999718019">QR コード生成ツール</translation>
 <translation id="2190069059097339078">WiFi 認証情報の取得機能</translation>
-<translation id="5920835625712313205">Dissenter OS システム イメージ ライター</translation>
+<translation id="5920835625712313205">Fulldive OS システム イメージ ライター</translation>
 <translation id="4873312501243535625">メディア ファイル チェッカー</translation>
 <translation id="5972666587303800813">機能なしのサービス</translation>
 <translation id="1545775234664667895">テーマ「<ph name="THEME_NAME"/>」をインストールしました</translation>
@@ -851,14 +851,14 @@
 <translation id="3507421388498836150">「<ph name="EXTENSION_NAME"/>」の現在の権限</translation>
 <translation id="5242724311594467048">「<ph name="EXTENSION_NAME"/>」を有効にしますか？</translation>
 <translation id="4014432863917027322">「<ph name="EXTENSION_NAME"/>」を修復しますか？</translation>
-<translation id="5173189340601754836">パソコン上の別のプログラムにより、Dissenter の動作に影響を及ぼす可能性のあるアプリが追加されました。
+<translation id="5173189340601754836">パソコン上の別のプログラムにより、Fulldive の動作に影響を及ぼす可能性のあるアプリが追加されました。
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">パソコン上の別のプログラムにより、Dissenter の動作に影響を及ぼす可能性のある拡張機能が追加されました。
+<translation id="6654312501894761082">パソコン上の別のプログラムにより、Fulldive の動作に影響を及ぼす可能性のある拡張機能が追加されました。
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">パソコン上の別のプログラムにより、Dissenter の動作に影響を及ぼす可能性のあるテーマが追加されました。
+<translation id="3225882094369124157">パソコン上の別のプログラムにより、Fulldive の動作に影響を及ぼす可能性のあるテーマが追加されました。
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">拡張機能を有効にする</translation>
@@ -867,7 +867,7 @@
 <translation id="3908501907586732282">拡張機能を有効にする</translation>
 <translation id="2327492829706409234">アプリを有効にする</translation>
 <translation id="175772926354468439">テーマを有効にする</translation>
-<translation id="5267531627648004734">Dissenter から削除</translation>
+<translation id="5267531627648004734">Fulldive から削除</translation>
 <translation id="4998873842614926205">変更内容を確認</translation>
 <translation id="1799071797295057738">拡張機能「<ph name="EXTENSION_NAME"/>」を自動的に無効にしました。</translation>
 <translation id="5238278114306905396">アプリ「<ph name="EXTENSION_NAME"/>」は自動的に削除されました。</translation>
@@ -1003,7 +1003,7 @@
 <translation id="1616298854599875024">拡張機能「<ph name="IMPORT_NAME"/>」は、共有モジュールではないためインポートできません</translation>
 <translation id="2131077480075264">「<ph name="APP_NAME"/>」は「<ph name="IMPORT_NAME"/>」で許可されていないためインストールできません</translation>
 <translation id="1875387611427697908">これは <ph name="CHROME_WEB_STORE"/> からのみ追加できます</translation>
-<translation id="3862788408946266506">「kiosk_only」のマニフェスト属性が指定されているアプリは、Dissenter OS キオスクモードでインストールする必要があります。</translation>
+<translation id="3862788408946266506">「kiosk_only」のマニフェスト属性が指定されているアプリは、Fulldive OS キオスクモードでインストールする必要があります。</translation>
 <translation id="3834775135533257713">「<ph name="INSTALLED_APP_NAME"/>」と競合するため、アプリケーション「<ph name="TO_INSTALL_APP_NAME"/>」を追加できませんでした。</translation>
 <translation id="144518587530125858">テーマの「<ph name="IMAGE_PATH"/>」を読み込むことができませんでした。</translation>
 <translation id="3576324189521867626">インストールが完了しました</translation>
@@ -1106,9 +1106,9 @@
 <translation id="6101226222197207147">新しいアプリが追加されました（<ph name="EXTENSION_NAME"/>）</translation>
 <translation id="7818135753970109980">新しいテーマが追加されました（<ph name="EXTENSION_NAME"/>）</translation>
 <translation id="9215293857209265904">「<ph name="EXTENSION_NAME"/>」が追加されました</translation>
-<translation id="6637045053447935202">パソコン上の別のプログラムにより、Dissenter の動作方法を変更する可能性のあるアプリが追加されました。</translation>
-<translation id="2015014930243978107">パソコン上の別のプログラムにより、Dissenter の動作方法を変更する可能性のある拡張機能が追加されました。</translation>
-<translation id="2060128809251156338">パソコン上の別のプログラムにより、Dissenter の動作方法を変更する可能性のあるテーマが追加されました。</translation>
+<translation id="6637045053447935202">パソコン上の別のプログラムにより、Fulldive の動作方法を変更する可能性のあるアプリが追加されました。</translation>
+<translation id="2015014930243978107">パソコン上の別のプログラムにより、Fulldive の動作方法を変更する可能性のある拡張機能が追加されました。</translation>
+<translation id="2060128809251156338">パソコン上の別のプログラムにより、Fulldive の動作方法を変更する可能性のあるテーマが追加されました。</translation>
 <translation id="2470702053775288986">サポートされていない拡張機能が無効</translation>
 <translation id="2809586584051668049">、他 <ph name="NUMBER_ADDITIONAL_DISABLED"/> 件</translation>
 <translation id="5301954838959518834">OK</translation>
@@ -1313,7 +1313,7 @@
 <translation id="8017679124341497925">ショートカットを編集しました</translation>
 <translation id="1174073918202301297">ショートカットを追加しました</translation>
 <translation id="2926085873880284723">デフォルトのショートカットに戻す</translation>
-<translation id="5801450813341024983">Dissenter の背景</translation>
+<translation id="5801450813341024983">Fulldive の背景</translation>
 <translation id="2800760947029405028">画像をアップロード</translation>
 <translation id="8342861492835240085">コレクションを選択</translation>
 <translation id="3132996321662585180">毎日更新する</translation>
@@ -1400,7 +1400,7 @@
 <translation id="833986336429795709">このリンクを開くにはアプリを選択します</translation>
 <translation id="192494336144674234">アプリケーションで開く</translation>
 <translation id="9053893665344928494">選択内容を保存</translation>
-<translation id="5340857474604400806">Dissenter に留まる</translation>
+<translation id="5340857474604400806">Fulldive に留まる</translation>
 <translation id="3043581297103810752"><ph name="ORIGIN"/> より</translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (プライベート)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/>（ゲスト）</translation>
@@ -1461,8 +1461,8 @@
 <translation id="6686817083349815241">パスワードを保存</translation>
 <translation id="8141725884565838206">パスワードを管理する</translation>
 <translation id="8275038454117074363">インポート</translation>
-<translation id="3191314862567596053">Dissenter にパスワードをインポート</translation>
-<translation id="6368144843345980623">Dissenter からパスワードをエクスポート</translation>
+<translation id="3191314862567596053">Fulldive にパスワードをインポート</translation>
+<translation id="6368144843345980623">Fulldive からパスワードをエクスポート</translation>
 <translation id="8503813439785031346">ユーザー名</translation>
 <translation id="6657585470893396449">パスワード</translation>
 <translation id="5472627187093107397">このサイトのパスワードを保存する</translation>
@@ -1493,7 +1493,7 @@
 <translation id="7052237160939977163">パフォーマンス追跡データを送信する</translation>
 <translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth ログ<ph name="END_LINK"/>を添付する（Gab AI Inc 内部）</translation>
 <translation id="3047644958362961983">アシスタントの事象を詳しく把握できるよう、情報の提供をお願いいたします。ご提供いただいた情報の保存期間は最大 90 日間です。情報へのアクセスは、エンジニアリングやフィードバックの担当者に制限されます。</translation>
-<translation id="8545590844135745781">Bluetooth の問題の診断に向けて、Gab AI Inc 社員はフィードバック レポートに追加の Bluetooth ログを含めることができます。このオプションのチェックボックスがオンになっている場合、レポートには現在のセッションの btsnoop ログと HCI ログが含められます。その際、個人を特定できる情報は可能な限り削除されます。これらのログへのアクセスは、Listnr での Dissenter OS プロダクト グループのマネージャーのみに制限されます。ログは 90 日経過後に消去されます。</translation>
+<translation id="8545590844135745781">Bluetooth の問題の診断に向けて、Gab AI Inc 社員はフィードバック レポートに追加の Bluetooth ログを含めることができます。このオプションのチェックボックスがオンになっている場合、レポートには現在のセッションの btsnoop ログと HCI ログが含められます。その際、個人を特定できる情報は可能な限り削除されます。これらのログへのアクセスは、Listnr での Fulldive OS プロダクト グループのマネージャーのみに制限されます。ログは 90 日経過後に消去されます。</translation>
 <translation id="4206323443866416204">ご意見の報告</translation>
 <translation id="3681311097828166361">ご意見をお寄せいただきありがとうございます。現在オフラインのため、ご報告の内容は後で送信されます。</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>システム情報<ph name="END_LINK1"/>を送信する</translation>
@@ -1510,15 +1510,15 @@
 <translation id="6885771755599377173">システム情報のプレビュー</translation>
 <translation id="1016566241875885511">追加情報（省略可）</translation>
 <translation id="8026334261755873520">閲覧履歴データを消去する</translation>
-<translation id="4718442817388594217">選択したデータが Dissenter から削除され、同期された端末からも削除されました。他の Gab AI Inc サービスでの検索や操作など、Gab AI Inc アカウントの他の形式の閲覧履歴が <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> に残ることがあります。</translation>
-<translation id="7814200940910057384">Dissenter データの消去完了</translation>
+<translation id="4718442817388594217">選択したデータが Fulldive から削除され、同期された端末からも削除されました。他の Gab AI Inc サービスでの検索や操作など、Gab AI Inc アカウントの他の形式の閲覧履歴が <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> に残ることがあります。</translation>
+<translation id="7814200940910057384">Fulldive データの消去完了</translation>
 <translation id="7346909386216857016">OK</translation>
 <translation id="8493236660459102203">マイク:</translation>
 <translation id="3925573269917483990">カメラ:</translation>
 <translation id="648927581764831596">使用できるものはありません</translation>
 <translation id="4172051516777682613">常に表示</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{ポップアップがブロックされました}other{# 件のポップアップがブロックされました}}</translation>
-<translation id="4156865452842056672">（Dissenter エラーページ）</translation>
+<translation id="4156865452842056672">（Fulldive エラーページ）</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> を最新の状態に維持できない場合があります</translation>
 <translation id="8590375307970699841">自動更新を設定</translation>
 <translation id="8926389886865778422">再表示させない</translation>
@@ -1623,10 +1623,10 @@
 <translation id="8658645149275195032"><ph name="APP_NAME"/> が <ph name="TAB_NAME"/> の画面と音声を共有しています。</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> がウィンドウを共有しています。</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> が <ph name="TAB_NAME"/> のウィンドウを共有しています。</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> が Dissenter タブを共有しています。</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> が <ph name="TAB_NAME"/> の Dissenter タブを共有しています。</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> が Dissenter タブと音声を共有しています。</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> が <ph name="TAB_NAME"/> の Dissenter タブと音声を共有しています。</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> が Fulldive タブを共有しています。</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> が <ph name="TAB_NAME"/> の Fulldive タブを共有しています。</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> が Fulldive タブと音声を共有しています。</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> が <ph name="TAB_NAME"/> の Fulldive タブと音声を共有しています。</translation>
 <translation id="7108338896283013870">非表示</translation>
 <translation id="890616557918890486">ソースを変更</translation>
 <translation id="7792388396321542707">共有を停止</translation>
@@ -1649,7 +1649,7 @@
 <translation id="4711067597921221305">使用統計データや障害レポートを Gab AI Inc に自動送信して <ph name="PRODUCT_NAME"/> の機能向上に役立てる</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/> を起動</translation>
 <translation id="4876273079589074638">このクラッシュについて迅速に調査、解決できるよう、具体的な操作についてできるだけ詳しくご説明ください。</translation>
-<translation id="5418694430960033386">Dissenter のメモリが不足しているか、ウェブページのプロセスが何らかの原因で終了しました。続行するには、ページを再読み込みするか別のページに移動してください。</translation>
+<translation id="5418694430960033386">Fulldive のメモリが不足しているか、ウェブページのプロセスが何らかの原因で終了しました。続行するには、ページを再読み込みするか別のページに移動してください。</translation>
 <translation id="3065041951436100775">タブの強制終了に関するフィードバック。</translation>
 <translation id="3941565636838060942">このプログラムへのアクセスを非表示にするには、コントロール パネルで 
 <ph name="CONTROL_PANEL_APPLET_NAME"/> を使用してプログラムをアンインストールする必要があります。
@@ -1677,10 +1677,10 @@
 <translation id="4980805016576257426">この拡張機能には不正なソフトウェアが含まれています。</translation>
 <translation id="5522156646677899028">この拡張機能にはセキュリティ上の重大な問題があります。</translation>
 <translation id="6945695820322143954">この拡張機能は、ウェブストアのポリシーに違反しています。</translation>
-<translation id="177808131755847449">Dissenter によって無効にされました。この拡張機能は安全ではない可能性があります。</translation>
+<translation id="177808131755847449">Fulldive によって無効にされました。この拡張機能は安全ではない可能性があります。</translation>
 <translation id="1434696352799406980">起動ページ、新しいタブページ、検索エンジン、固定タブをリセットします。また、すべての拡張機能を無効にし、Cookie などの一時データを消去します。ただし、ブックマーク、履歴、保存したパスワードはそのまま残ります。</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> が設定のリセットを求めています。</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> が Dissenter 設定を元のデフォルトに戻すことを求めています。これにより、ホームページ、新しいタブの画面、検索エンジンがリセットされ、拡張機能が無効となり、すべてのタブの固定が解除されます。また、その他の一時的なキャッシュ データ（Cookie、コンテンツ データ、サイトデータなど）も消去されます。</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> が Fulldive 設定を元のデフォルトに戻すことを求めています。これにより、ホームページ、新しいタブの画面、検索エンジンがリセットされ、拡張機能が無効となり、すべてのタブの固定が解除されます。また、その他の一時的なキャッシュ データ（Cookie、コンテンツ データ、サイトデータなど）も消去されます。</translation>
 <translation id="7581462281756524039">クリーンアップ ツール</translation>
 <translation id="1233721473400465416">言語/地域</translation>
 <translation id="2907619724991574506">起動 URL</translation>
@@ -1874,7 +1874,7 @@
 <translation id="6664774537677393800">プロフィールを開こうとして問題が発生しました。ログアウトしてから再度ログインしてください。</translation>
 <translation id="1794791083288629568">フィードバックを送信して問題解決に協力する。</translation>
 <translation id="8234795456569844941">問題解決の手がかりとして、具体的にどのような操作を行ったときにプロフィール エラーのメッセージが表示されたかをお知らせください。</translation>
-<translation id="6500340165622970282">プロフィールを開こうとして問題が発生したため、Dissenter を起動できません。Dissenter を再起動してみてください。</translation>
+<translation id="6500340165622970282">プロフィールを開こうとして問題が発生したため、Fulldive を起動できません。Fulldive を再起動してみてください。</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> を root で実行することはできません。</translation>
 <translation id="2292848386125228270">通常のユーザーとして <ph name="PRODUCT_NAME"/> を起動してください。開発の目的でルートとして実行する必要がある場合は、--no-sandbox フラグを指定して再実行してください。</translation>
 <translation id="7547317915858803630">警告: お使いの <ph name="PRODUCT_NAME"/> の設定はネットワーク ドライブに保存されています。遅延、クラッシュ、データ損失が生じる場合があります。</translation>
@@ -2250,8 +2250,8 @@
 <translation id="4720113199587244118">デバイスを追加</translation>
 <translation id="2776441542064982094">ネットワークに登録するデバイスがないようです。デバイスの電源がオンで、インターネットに接続されている場合は、取り扱い説明書の手順でデバイスを登録してみてください。</translation>
 <translation id="1007408791287232274">デバイスを読み込めませんでした。</translation>
-<translation id="3886420006370338208">デバイスを見るには Dissenter にログインする必要があります</translation>
-<translation id="6711610692002680394">新しいデバイスを登録するには、Dissenter にログインする必要があります</translation>
+<translation id="3886420006370338208">デバイスを見るには Fulldive にログインする必要があります</translation>
+<translation id="6711610692002680394">新しいデバイスを登録するには、Fulldive にログインする必要があります</translation>
 <translation id="8931394284949551895">新しいデバイス</translation>
 <translation id="3752673729237782832">マイ デバイス</translation>
 <translation id="1721937473331968728">パソコンに接続されている従来のプリンタを <ph name="CLOUD_PRINT_NAME"/>に追加できます。</translation>
@@ -2324,7 +2324,7 @@
 <translation id="4540437243849625078">このサイトは、プライベートモードの外部のアプリと情報を共有しようとしています。</translation>
 <translation id="1227836882233136433">プライベートモードを離れますか？</translation>
 <translation id="662080504995468778">とどまる</translation>
-<translation id="2593289874938379417">Dissenter はリクエストされたリソースにアクセスできません。</translation>
+<translation id="2593289874938379417">Fulldive はリクエストされたリソースにアクセスできません。</translation>
 <translation id="760197030861754408"><ph name="LANDING_PAGE"/> で接続してください。</translation>
 <translation id="3648348069317717750">「<ph name="USB_DEVICE_NAME"/>」を検出しました</translation>
 <translation id="5042282098504489593"><ph name="USB_DEVICE_NAME"/> を Linux に接続する設定を開きます</translation>
@@ -2385,18 +2385,18 @@
 <translation id="7055152154916055070">リダイレクトがブロックされました:</translation>
 <translation id="6777817260680419853">リダイレクトがブロックされました</translation>
 <translation id="694592694773692225">このページでリダイレクトがブロックされました。</translation>
-<translation id="8945142681652245463">Gab AI Inc Dissenter で高速なブラウジング</translation>
-<translation id="2618024864038703735">Gab AI Inc Dissenter で安全にブラウジング</translation>
-<translation id="8142180567942285208">Dissenter で賢くブラウジング</translation>
+<translation id="8945142681652245463">Gab AI Inc Fulldive で高速なブラウジング</translation>
+<translation id="2618024864038703735">Gab AI Inc Fulldive で安全にブラウジング</translation>
+<translation id="8142180567942285208">Fulldive で賢くブラウジング</translation>
 <translation id="8862003515646449717">高速なブラウザをぜひご利用ください</translation>
 <translation id="8438328416656800239">スマートなブラウザをぜひご利用ください</translation>
 <translation id="491691592645955587">安全なブラウザをぜひご利用ください</translation>
 <translation id="683373380308365518">スマートで安全なブラウザをぜひご利用ください</translation>
-<translation id="989239400026154074">Gab AI Inc は Dissenter を推奨しています</translation>
-<translation id="6676231621615806698">Dissenter を起動</translation>
+<translation id="989239400026154074">Gab AI Inc は Fulldive を推奨しています</translation>
+<translation id="6676231621615806698">Fulldive を起動</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> は、ユーザーの現在地情報を使用して地域のコンテンツを提供します。この設定は [<ph name="SETTINGS_LINK"/>] で変更できます。</translation>
 <translation id="3737536731758327622">ダウンロードがここに表示されます</translation>
-<translation id="4782664866169793230">Dissenter は自動テスト ソフトウェアによって制御されています。</translation>
+<translation id="4782664866169793230">Fulldive は自動テスト ソフトウェアによって制御されています。</translation>
 <translation id="6721678857435001674">セキュリティ キーのメーカーとモデルの読み取り</translation>
 <translation id="1673137583248014546"><ph name="URL"/> よりセキュリティ キーのメーカーとモデルの読み取り許可を求められています</translation>
 <translation id="6010869025736512584">ビデオ入力にアクセスしています</translation>
@@ -2529,7 +2529,7 @@
 <translation id="3984431586879874039">このサイトによるセキュリティ キーへのアクセスを許可しますか？</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> から、セキュリティ キーのメーカーとモデルの読み取り許可がリクエストされています</translation>
 <translation id="7618452966706304788">プライベートモードで<ph name="APP_NAME"/>でTouch IDを使いますか？</translation>
-<translation id="3098826269712097986">プライベートモードを終了すると、サインインデータはDissenterに保存されます。 これにより、後でこのウェブサイトでTouch IDを使用できるようになります。</translation>
+<translation id="3098826269712097986">プライベートモードを終了すると、サインインデータはFulldiveに保存されます。 これにより、後でこのウェブサイトでTouch IDを使用できるようになります。</translation>
 <translation id="2172784515318616985">次へ</translation>
 <translation id="5186185447130319458">プライベート</translation>
 <translation id="7643842463591647490">{0,plural, =1{開いているウィンドウ # 個}other{開いているウィンドウ # 個}}</translation>
@@ -2571,7 +2571,7 @@
 <translation id="2346953515226895098">SODA サービス</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> は一時停止中です</translation>
 <translation id="917350715406657904">保護者が設定した <ph name="APP_NAME"/> の利用時間の上限に達しました。明日は <ph name="TIME_LIMIT"/>まで使えます。</translation>
-<translation id="8891261408659902804">保護者が設定した <ph name="APP_NAME"/> Dissenter アプリの利用時間の上限に達しました。明日は <ph name="TIME_LIMIT"/> まで使えます。</translation>
+<translation id="8891261408659902804">保護者が設定した <ph name="APP_NAME"/> Fulldive アプリの利用時間の上限に達しました。明日は <ph name="TIME_LIMIT"/> まで使えます。</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> はブロックされています</translation>
 <translation id="4404843640767531781"><ph name="APP_NAME"/> は保護者によってブロックされています。このアプリを使用するには、保護者の許可が必要です。</translation>
 <translation id="751523031290522286"><ph name="APP_NAME"/> は管理者によってブロックされています。このアプリを使用するには、管理者の許可が必要です。</translation>
@@ -2916,7 +2916,7 @@
 <translation id="672213144943476270">ゲストとしてブラウジングするにはまずプロフィールのロックを解除してください。</translation>
 <translation id="8086119151297127544">プロフィールを削除する前に、プロファイルのロックを解除してください。</translation>
 <translation id="7805701378418968629">プロフィールを追加する前に、プロフィールのロックを解除してください。</translation>
-<translation id="8978225823042133615">Dissenter を使用するにはログインしてください</translation>
+<translation id="8978225823042133615">Fulldive を使用するにはログインしてください</translation>
 <translation id="4893336867552636863">このデバイスから閲覧データが完全に削除されます。</translation>
 <translation id="2496180316473517155">閲覧履歴</translation>
 <translation id="6865313869410766144">自動入力フォームのデータ</translation>
@@ -2940,7 +2940,7 @@
 <translation id="9013707997379828817">管理者がこの端末をロールバックしました。重要なファイルを保存してから、再起動してください。端末上のデータはすべて削除されます。</translation>
 <translation id="5877064549588274448">チャンネルが変更されました。変更を適用するには、デバイスを再起動してください。</translation>
 <translation id="4716483597559580346">セキュリティ強化に向けて Powerwash を実行する</translation>
-<translation id="4089922565956168950">このアップグレードを行うと、Dissenterbook がリセットされ、現在のユーザーデータは削除されます。</translation>
+<translation id="4089922565956168950">このアップグレードを行うと、Fulldivebook がリセットされ、現在のユーザーデータは削除されます。</translation>
 <translation id="3688526734140524629">チャンネルを変更</translation>
 <translation id="6410328738210026208">チャンネルを変更して Powerwash</translation>
 <translation id="1979280758666859181">古いバージョンの <ph name="PRODUCT_NAME"/> のチャンネルに変更しようとしています。このチャンネル変更は、チャンネルのバージョンとお使いのデバイスにインストールされているバージョンとが一致したときに適用されます。</translation>
@@ -2972,7 +2972,7 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>、他 1 件のアカウント}other{<ph name="EMAIL"/>、他 <ph name="EXTRA_ACCOUNTS"/> 件のアカウント}}</translation>
 <translation id="7434635829372401939">設定の同期</translation>
 <translation id="1036348656032585052">オフにする</translation>
-<translation id="3267705913905916810">Gab AI Inc アカウントでログインしているすべての Dissenter OS デバイス間でアプリや設定が同期されます。ブラウザの同期オプションについては、<ph name="LINK_BEGIN"/>Dissenter の設定<ph name="LINK_END"/>をご覧ください。</translation>
+<translation id="3267705913905916810">Gab AI Inc アカウントでログインしているすべての Fulldive OS デバイス間でアプリや設定が同期されます。ブラウザの同期オプションについては、<ph name="LINK_BEGIN"/>Fulldive の設定<ph name="LINK_END"/>をご覧ください。</translation>
 <translation id="6985607387932385770">プリンタ</translation>
 <translation id="8418661265246754237">Gab AI Inc アカウント</translation>
 <translation id="3953834000574892725">マイ アカウント</translation>
@@ -3019,7 +3019,7 @@
 <translation id="2187700606737131818">Gab AI Inc フォト</translation>
 <translation id="1827738518074806965">アート ギャラリー</translation>
 <translation id="9137157311132182254">優先する検索エンジン</translation>
-<translation id="7423118389528876103">Dissenter ブラウザと <ph name="DEVICE_TYPE"/> ランチャーで使用されます</translation>
+<translation id="7423118389528876103">Fulldive ブラウザと <ph name="DEVICE_TYPE"/> ランチャーで使用されます</translation>
 <translation id="2862205630718215619">Gab AI Inc アシスタント</translation>
 <translation id="8959699239363253085">オン</translation>
 <translation id="971479617738309149">オフ</translation>
@@ -3039,15 +3039,15 @@
 <translation id="6644513150317163574">URL 形式が無効です。SSO 認証を使用する場合は、サーバーをホスト名で指定する必要があります。</translation>
 <translation id="6091761513005122595">共有フォルダが正常にマウントされました。</translation>
 <translation id="5770125698810550803">ナビゲーション ボタンを表示する</translation>
-<translation id="2972318514147518075">タブレット モードで、ボタンを使用してホームに移動したり、戻ったり、アプリを切り替えたりできます。DissenterVox や自動クリックが有効な場合はオンになります。</translation>
+<translation id="2972318514147518075">タブレット モードで、ボタンを使用してホームに移動したり、戻ったり、アプリを切り替えたりできます。FulldiveVox や自動クリックが有効な場合はオンになります。</translation>
 <translation id="2558896001721082624">システム メニューにユーザー補助オプションを常に表示する</translation>
 <translation id="2981113813906970160">大きいマウス カーソルを表示する</translation>
 <translation id="5072052264945641674">カーソルのサイズを調整</translation>
 <translation id="4209092469652827314">大</translation>
 <translation id="499165176004408815">ハイコントラスト モードを使用</translation>
 <translation id="142758023928848008">スティッキー キーを有効にする（キーを順に押してキーボード ショートカットを実行します）</translation>
-<translation id="5914872514449971753">DissenterVox（音声フィードバック）を有効にする</translation>
-<translation id="7099511550603534982">DissenterVox 設定を開く</translation>
+<translation id="5914872514449971753">FulldiveVox（音声フィードバック）を有効にする</translation>
+<translation id="7099511550603534982">FulldiveVox 設定を開く</translation>
 <translation id="8547013269961688403">拡大鏡（全画面）を有効にする</translation>
 <translation id="8743390665131937741">全画面のズームレベル:</translation>
 <translation id="7334274148831027933">拡大鏡（ドッキング）を有効にする</translation>
@@ -3139,7 +3139,7 @@
 <translation id="6902066522699286937">プレビューする音声</translation>
 <translation id="304747341537320566">読み上げエンジン</translation>
 <translation id="2755367719610958252">ユーザー補助機能を管理</translation>
-<translation id="1203953622051744249">ログインしているアカウントを管理します。Dissenter と Gab AI Inc Play のウェブサイト、アプリ、拡張機能では、許可されている場合に、これらのアカウントを使用してユーザー エクスペリエンスのカスタマイズが行われることがあります。<ph name="LINK_BEGIN"/>詳細<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">ログインしているアカウントを管理します。Fulldive と Gab AI Inc Play のウェブサイト、アプリ、拡張機能では、許可されている場合に、これらのアカウントを使用してユーザー エクスペリエンスのカスタマイズが行われることがあります。<ph name="LINK_BEGIN"/>詳細<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">ここで学校用アカウントを追加したり、お子様のアカウントを管理したりできます。<ph name="LINK_BEGIN"/>詳細<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">アカウント</translation>
 <translation id="6597148444736186483">このデバイスでメイン アカウントからログアウトするには、画面上にある時間をクリックすると表示されるメニューで [ログアウト] をクリックします。</translation>
@@ -3211,7 +3211,7 @@
 <translation id="234889437187286781">データの読み込み中にエラーが発生しました</translation>
 <translation id="4660540330091848931">サイズを変更しています</translation>
 <translation id="1481537595330271162">ディスクのサイズ変更中にエラーが発生しました</translation>
-<translation id="2756917833575664962">ADB デバッグを有効にするには、この Dissenterbook を出荷時の設定にリセットする必要があります。<ph name="BEGIN_LINK_LEARN_MORE"/>詳細<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">ADB デバッグを有効にするには、この Fulldivebook を出荷時の設定にリセットする必要があります。<ph name="BEGIN_LINK_LEARN_MORE"/>詳細<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">ADB デバッグを有効にするには、この <ph name="DEVICE_TYPE"/> を再起動する必要があります。ADB デバッグを無効にする場合は、出荷時の設定へのリセットが必要になります。</translation>
 <translation id="8082390128630131497">ADB デバッグを無効にすると、この <ph name="DEVICE_TYPE"/> が出荷時の設定にリセットされます。ユーザー アカウントとローカルデータはすべて消去されます。</translation>
 <translation id="7932969338829957666">共有フォルダは Linux では <ph name="BASE_DIR"/> にあります。</translation>
@@ -3339,10 +3339,10 @@
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> は利用できなくなりました</translation>
 <translation id="3976108569178263973">利用できるプリンタがありません。</translation>
 <translation id="217576141146192373">プリンタを追加できません。プリンタの設定を確認して、もう一度お試しください。</translation>
-<translation id="4052689580269971502">プリンタに接続できません。プリンタの電源が入っていて、Wi-Fi または USB 経由で Dissenterbook に接続されていることを確認してください。</translation>
+<translation id="4052689580269971502">プリンタに接続できません。プリンタの電源が入っていて、Wi-Fi または USB 経由で Fulldivebook に接続されていることを確認してください。</translation>
 <translation id="7099337801055912064">サイズの大きい PPD は読み込めません。最大サイズは 250 KB です。</translation>
 <translation id="4310139701823742692">ファイルの形式が正しくありません。PPD ファイルを確認してもう一度お試しください。</translation>
-<translation id="6580983683519551561">PPD が見つかりません。Dissenterbook がオンラインになっていることを確認して、もう一度お試しください。</translation>
+<translation id="6580983683519551561">PPD が見つかりません。Fulldivebook がオンラインになっていることを確認して、もう一度お試しください。</translation>
 <translation id="4694024090038830733">プリンタの設定を行えるのは管理者のみです。</translation>
 <translation id="5816434091619127343">リクエストされた変更を行うと、プリンタを使用できなくります。</translation>
 <translation id="6504611359718185067">プリンタを追加するにはインターネットに接続してください</translation>
@@ -3678,18 +3678,18 @@
 <translation id="7770651108375708429">Wi-Fi の接続を解除する</translation>
 <translation id="4168015872538332605"><ph name="PRIMARY_EMAIL"/> に帰属する設定の一部を共有しています。これらの設定は、マルチ ログインを使用した場合にのみこのアカウントに適用されます。</translation>
 <translation id="1485141095922496924">バージョン: <ph name="PRODUCT_VERSION"/>（<ph name="PRODUCT_CHANNEL"/>）<ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">すべてのユーザーに対して Dissenter を自動的に更新</translation>
+<translation id="4570609078116869893">すべてのユーザーに対して Fulldive を自動的に更新</translation>
 <translation id="7102687220333134671">自動更新が有効です</translation>
 <translation id="6981982820502123353">ユーザー補助機能</translation>
 <translation id="5840822070878669614">ウェブストアを開く</translation>
 <translation id="6073903501322152803">ユーザー補助機能を追加</translation>
 <translation id="7988355189918024273">ユーザー補助機能を有効にする</translation>
-<translation id="5499063270485366718">画像に有効な説明が設定されていない場合に、Dissenter で説明を自動的に生成できるよう Gab AI Inc に画像が送信されます。</translation>
+<translation id="5499063270485366718">画像に有効な説明が設定されていない場合に、Fulldive で説明を自動的に生成できるよう Gab AI Inc に画像が送信されます。</translation>
 <translation id="8957762313041272117">自動字幕起こし</translation>
-<translation id="7075426315046750605">自動字幕起こしでは、Dissenter で再生されるあらゆるメディアの音声を検出して、字幕を自動的に生成します。</translation>
+<translation id="7075426315046750605">自動字幕起こしでは、Fulldive で再生されるあらゆるメディアの音声を検出して、字幕を自動的に生成します。</translation>
 <translation id="572155275267014074">Android 設定</translation>
 <translation id="7201042526153088083">Gab AI Inc Play のアプリとゲームを <ph name="DEVICE_TYPE"/> にインストールします。&lt;a target="_blank" href="<ph name="URL"/>"&gt;詳細&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Gab AI Inc Play からダウンロードしたアプリは、この Dissenterbook から削除されます。
+<translation id="8039595758121742506">Gab AI Inc Play からダウンロードしたアプリは、この Fulldivebook から削除されます。
       <ph name="LINE_BREAKS1"/>
       購入した映画、テレビ番組、音楽、書籍、その他のアプリ内購入のコンテンツも削除される可能性があります。
       <ph name="LINE_BREAKS2"/>
@@ -3703,19 +3703,19 @@
 <translation id="6006484371116297560">クラシック</translation>
 <translation id="1795214765651529549">クラシックを使用</translation>
 <translation id="2332742915001411729">デフォルトに戻す</translation>
-<translation id="8338457030135232378">Dissenter の色</translation>
+<translation id="8338457030135232378">Fulldive の色</translation>
 <translation id="827097179112817503">ホームボタンを表示する</translation>
 <translation id="383007806262310953">ブックマーク バーを表示する</translation>
 <translation id="3911824782900911339">新しいタブ ページ</translation>
 <translation id="8425213833346101688">変更</translation>
 <translation id="2916073183900451334">ページ上で Tabキーを押した際、リンクやフォーム欄をハイライト表示する</translation>
-<translation id="38089336910894858">⌘+Q キーでDissenterを終了する際、警告メッセージを表示する</translation>
+<translation id="38089336910894858">⌘+Q キーでFulldiveを終了する際、警告メッセージを表示する</translation>
 <translation id="8161293209665121583">ウェブページのリーダーモード</translation>
 <translation id="6312638141433622592">記事をリーダーモードで表示するか確認します（可能な場合）</translation>
 <translation id="1670399744444387456">基本</translation>
 <translation id="1763808908432309942">新しいタブで開きます</translation>
 <translation id="6248988683584659830">検索の設定</translation>
-<translation id="883304095704384301">探しているものが見つからない場合は、<ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Dissenter のヘルプ<ph name="END_LINK_CHROMIUM"/>をご覧ください。</translation>
+<translation id="883304095704384301">探しているものが見つからない場合は、<ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive のヘルプ<ph name="END_LINK_CHROMIUM"/>をご覧ください。</translation>
 <translation id="6406708970972405507">設定 - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">サブページのボタン</translation>
 <translation id="379509625511193653">オフ</translation>
@@ -3902,7 +3902,7 @@
 <translation id="5468173180030470402">ファイル共有を探しています</translation>
 <translation id="3336664756920573711">Android スマートフォンで <ph name="DEVICE_TYPE"/> のロックを解除します</translation>
 <translation id="1164674268730883318">Smart Lock for <ph name="DEVICE_TYPE"/> を無効にしますか？</translation>
-<translation id="2739030071582769583">Smart Lock for <ph name="DEVICE_TYPE"/> を無効にすると、スマートフォンを使って Dissenter 搭載デバイスのロックを解除することはできなくなり、パスワードの入力が必要になります。</translation>
+<translation id="2739030071582769583">Smart Lock for <ph name="DEVICE_TYPE"/> を無効にすると、スマートフォンを使って Fulldive 搭載デバイスのロックを解除することはできなくなり、パスワードの入力が必要になります。</translation>
 <translation id="4737715515457435632">ネットワークに接続してください</translation>
 <translation id="5425722269016440406">Smart Lock 設定はスマートフォンおよび他のデバイスと同期しているため、オフにするにはインターネットに接続する必要があります。まずネットワークに接続してください。</translation>
 <translation id="8885197664446363138">Smart Lock は使用できません</translation>
@@ -4136,20 +4136,20 @@
 <translation id="3633309367764744750">ウェブページ（アクセスしたことのないページを含む）から情報を事前取得します。この情報の一部として Cookie（許可している場合）が取得される可能性があります。</translation>
 <translation id="3201899458094819285">セーフ ブラウジング（危険なサイトからユーザーとデバイスを保護します）</translation>
 <translation id="2876369937070532032">セキュリティ上のリスクがある場合に、アクセスした一部のページの URL が Gab AI Inc に送信されます</translation>
-<translation id="4991384657077828949">Dissenter のセキュリティ改善に協力する</translation>
+<translation id="4991384657077828949">Fulldive のセキュリティ改善に協力する</translation>
 <translation id="1984646864943401749">新たな脅威の発見と、すべてのウェブユーザーの保護に役立てるため、アクセスした一部のページの URL、限定的なシステム情報、一部のページ コンテンツを Gab AI Inc に送信します。</translation>
 <translation id="1641113438599504367">セーフ ブラウジング</translation>
 <translation id="6900532703269623216">保護強化機能</translation>
 <translation id="7307583170263691471">危険なウェブサイト、ダウンロード、拡張機能から予防的な方法で迅速に保護します。パスワードの侵害があった場合は警告します。Gab AI Inc に閲覧データを送信する必要があります。</translation>
 <translation id="8645920082661222035">危険なイベントの発生を予測して警告します</translation>
-<translation id="5265419033369521352">ログイン時に、Dissenter を安全に利用できるようにするほか、他の Gab AI Inc アプリのセキュリティ強化に使用されることがあります</translation>
+<translation id="5265419033369521352">ログイン時に、Fulldive を安全に利用できるようにするほか、他の Gab AI Inc アプリのセキュリティ強化に使用されることがあります</translation>
 <translation id="6770602306803890733">すべてのウェブユーザーの安全性を高めます</translation>
 <translation id="3690369331356918524">データ侵害によりパスワードが漏洩した場合に警告します</translation>
 <translation id="4979281249641199724">セーフ ブラウジングに URL を送信して安全性を確認します。また、新たな脅威を発見するため、ページ、ダウンロード、拡張機能のアクティビティ、システム情報の一部のサンプルも送信します。ログイン時には、このデータを一時的に Gab AI Inc アカウントにリンクして、すべての Gab AI Inc アプリを安全に利用できるように保護します。</translation>
 <translation id="1963976881984600709">標準保護機能</translation>
 <translation id="6882836635272038266">既知の危険なウェブサイト、ダウンロード、拡張機能から標準的な方法で保護します。</translation>
 <translation id="5561162485081632007">危険なイベントの発生を検出して警告します</translation>
-<translation id="7810992039564280750">Dissenter に保存されている安全でないサイトのリストと URL を照合します。サイトがパスワードを不正に取得しようとしている場合や、ユーザーが安全でないファイルをダウンロードしようとした場合は、URL とページ コンテンツの一部をセーフ ブラウジングに送信することがあります。</translation>
+<translation id="7810992039564280750">Fulldive に保存されている安全でないサイトのリストと URL を照合します。サイトがパスワードを不正に取得しようとしている場合や、ユーザーが安全でないファイルをダウンロードしようとした場合は、URL とページ コンテンツの一部をセーフ ブラウジングに送信することがあります。</translation>
 <translation id="3847319713229060696">すべてのユーザーのウェブ上のセキュリティ強化に協力する</translation>
 <translation id="1984417487208496350">保護なし（推奨されません）</translation>
 <translation id="1295971429974142731">危険なウェブサイト、ダウンロード、拡張機能から保護されていません。セーフ ブラウジングによる保護については、Gmail や Gab AI Inc 検索といった他の Gab AI Inc サービスで利用可能な場合は引き続き保護されます。</translation>
@@ -4274,7 +4274,7 @@
 <translation id="5340638867532133571">サイトに支払いハンドラのインストールを許可する（推奨）</translation>
 <translation id="763632859238619983">すべてのサイトに支払いハンドラのインストールを許可しない</translation>
 <translation id="8270242299912238708">PDF ドキュメント</translation>
-<translation id="539658326146969381">PDF ファイルを Dissenter で自動的に開く代わりにダウンロードする</translation>
+<translation id="539658326146969381">PDF ファイルを Fulldive で自動的に開く代わりにダウンロードする</translation>
 <translation id="4434045419905280838">ポップアップとリダイレクト</translation>
 <translation id="6612358246767739896">保護されたコンテンツ</translation>
 <translation id="4252852543720145436">保護されているコンテンツの識別子</translation>
@@ -4335,7 +4335,7 @@
 <translation id="2913331724188855103">サイトに Cookie データの保存と読み取りを許可する（推奨）</translation>
 <translation id="5908769186679515905">サイトでの Flash の実行をブロックする</translation>
 <translation id="783214144752121388">サイトでの Flash の実行をブロックする（推奨）</translation>
-<translation id="6096007141921397775">Dissenter を終了するまで、Flash の設定は保持されます。</translation>
+<translation id="6096007141921397775">Fulldive を終了するまで、Flash の設定は保持されます。</translation>
 <translation id="8074127646604999664">最近閉じたサイトがデータの送受信を完了できるようにする</translation>
 <translation id="7062222374113411376">最近閉じたサイトがデータの送受信を完了できるようにする（推奨）</translation>
 <translation id="5068918910148307423">最近閉じたサイトがデータの送受信を完了できないようにする</translation>
@@ -4415,7 +4415,7 @@
 <translation id="5566692924079383101">この例外は、現在のシークレット モード セッションを終了した後に自動的に削除されます</translation>
 <translation id="383891835335927981">拡大縮小値を設定したサイトはありません</translation>
 <translation id="3566721612727112615">サイトが追加されていません</translation>
-<translation id="8098574385249290065">サイトで音声が再生される可能性がある場合、Dissenter で自動的に許可またはブロックする（推奨）</translation>
+<translation id="8098574385249290065">サイトで音声が再生される可能性がある場合、Fulldive で自動的に許可またはブロックする（推奨）</translation>
 <translation id="4354344420232759511">アクセスしたサイトがここに表示されます</translation>
 <translation id="3757733214359997190">サイトが見つかりません</translation>
 <translation id="6545864417968258051">Bluetooth のスキャン</translation>
@@ -4428,7 +4428,7 @@
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">サイトの追加</translation>
 <translation id="5052499409147950210">サイトの編集</translation>
-<translation id="4610862967073369855">スマートフォンから Dissenterbook へのテキストの伝達を Android メッセージに許可します</translation>
+<translation id="4610862967073369855">スマートフォンから Fulldivebook へのテキストの伝達を Android メッセージに許可します</translation>
 <translation id="6742339027238151589">スクリプトにアクセス可能</translation>
 <translation id="361106536627977100">Flash データ</translation>
 <translation id="8557930019681227453">マニフェスト</translation>
@@ -4440,7 +4440,7 @@
 <translation id="8016266267177410919">一時ストレージ</translation>
 <translation id="4175737294868205930">永続的ストレージ</translation>
 <translation id="8397843425685839889">Gab AI Inc の設定</translation>
-<translation id="8907706281008466056">Dissenterプロフィールポートフォリオ</translation>
+<translation id="8907706281008466056">Fulldiveプロフィールポートフォリオ</translation>
 <translation id="2023167225947895179">推測されやすい PIN です</translation>
 <translation id="5342091991439452114">PIN は <ph name="MINIMUM"/> 桁以上で指定してください</translation>
 <translation id="5252653240322147470">PIN は <ph name="MAXIMUM"/> 桁未満で指定してください</translation>
@@ -4505,23 +4505,23 @@
 <translation id="3817524650114746564">パソコンのプロキシ設定を開く</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> は拡張機能のプロキシ設定を使用しています</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> は管理者により指定されたプロキシ設定を使用しています</translation>
-<translation id="6187156085111579405">ここに表示されていないアイテムも、必要に応じて削除されます。&lt;a href="<ph name="URL"/>"&gt;迷惑ソフトウェアからの保護&lt;/a&gt;について詳しくは、Dissenter のプライバシーに関するホワイト ペーパーをご覧ください。</translation>
+<translation id="6187156085111579405">ここに表示されていないアイテムも、必要に応じて削除されます。&lt;a href="<ph name="URL"/>"&gt;迷惑ソフトウェアからの保護&lt;/a&gt;について詳しくは、Fulldive のプライバシーに関するホワイト ペーパーをご覧ください。</translation>
 <translation id="5280174558369304332">削除対象の拡張機能:</translation>
 <translation id="7712836429117959503">不明な拡張機能（ID「<ph name="EXTENSION_ID"/>」）</translation>
 <translation id="3281892622610078515">隔離対象のファイルとプログラム:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 件の項目}other{{NUM_ITEMS} 件の項目}}</translation>
 <translation id="7187428571767585875">削除または変更されるレジストリ項目:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{他 1 件}other{他 {NUM_DOWNLOADS} 件}}</translation>
-<translation id="2749608811030566578">Dissenter での有害なソフトウェアの削除中にエラーが発生しました</translation>
-<translation id="8189483132214844139">Dissenter で、パソコン上の有害なソフトウェアを探して削除することができます</translation>
+<translation id="2749608811030566578">Fulldive での有害なソフトウェアの削除中にエラーが発生しました</translation>
+<translation id="8189483132214844139">Fulldive で、パソコン上の有害なソフトウェアを探して削除することができます</translation>
 <translation id="1426870617281699524">[再試行] をクリックし、パソコンに表示されるメッセージに同意してください</translation>
-<translation id="7886744396008377537">お使いのパソコンに有害なソフトウェアが見つかりました。現在 Dissenter でこのソフトウェアの削除、設定の復元、拡張機能の無効化を行っています。処理が完了すると、ブラウザは正常に動作するようになります。</translation>
-<translation id="1484912962860902625">Dissenter での有害なソフトウェアの検索中にエラーが発生しました</translation>
+<translation id="7886744396008377537">お使いのパソコンに有害なソフトウェアが見つかりました。現在 Fulldive でこのソフトウェアの削除、設定の復元、拡張機能の無効化を行っています。処理が完了すると、ブラウザは正常に動作するようになります。</translation>
+<translation id="1484912962860902625">Fulldive での有害なソフトウェアの検索中にエラーが発生しました</translation>
 <translation id="451407183922382411">Powered by <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">削除されるファイルを表示</translation>
 <translation id="296026337010986570">有害なソフトウェアが削除されました。拡張機能をもう一度使用するには、&lt;a href="chrome://extensions"&gt;拡張機能&lt;/a&gt;のページにアクセスしてください。</translation>
 <translation id="284975061945174219">クリーンアップできませんでした</translation>
-<translation id="9014750448058570312">続行するには Dissenter に権限が必要です</translation>
+<translation id="9014750448058570312">続行するには Fulldive に権限が必要です</translation>
 <translation id="1852141627593563189">有害なソフトウェアの検出</translation>
 <translation id="850875081535031620">有害なソフトウェアは見つかりませんでした</translation>
 <translation id="1186771945450942097">有害なソフトウェアの削除</translation>
@@ -4534,7 +4534,7 @@
 <translation id="6555810572223193255">現在、クリーンアップ ツールをご利用いただけません</translation>
 <translation id="7117228822971127758">しばらくしてからもう一度お試しください</translation>
 <translation id="443475966875174318">互換性のないアプリケーションの更新または削除</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{このアプリケーションは、Dissenter の正常な動作を妨げる可能性があります。}other{これらのアプリケーションは、Dissenter の正常な動作を妨げる可能性があります。}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{このアプリケーションは、Fulldive の正常な動作を妨げる可能性があります。}other{これらのアプリケーションは、Fulldive の正常な動作を妨げる可能性があります。}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{今後もウェブ ブラウジングを続けられるように、管理者にこのアプリケーションの削除を依頼してください。}other{今後もウェブ ブラウジングを続けられるように、管理者にこれらのアプリケーションの削除を依頼してください。}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>アプリケーションの更新方法を確認<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{アプリケーション}other{アプリケーション}}</translation>
@@ -4617,13 +4617,13 @@
 <translation id="284843628681142937">アクセスしたページの URL を Gab AI Inc に送信します</translation>
 <translation id="7704317875155739195">検索語句や URL をオートコンプリートする</translation>
 <translation id="2000419248597011803">Cookie と、アドレスバーや検索ボックスに入力した検索語句を既定の検索エンジンに送信します</translation>
-<translation id="918192811481327695">Dissenter の機能と動作の改善に協力する</translation>
+<translation id="918192811481327695">Fulldive の機能と動作の改善に協力する</translation>
 <translation id="9063160602596686558">使用統計情報や障害レポートを Gab AI Inc に自動送信します</translation>
 <translation id="6697492270171225480">ページが見つからない場合に類似のページを候補として表示する</translation>
 <translation id="4534361985432360439">アクセスしようとしているページのウェブアドレスを Gab AI Inc に送信します</translation>
 <translation id="3831436149286513437">Gab AI Inc ドライブのファイル候補</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/> に同期しています</translation>
-<translation id="9125982323641182972">Dissenter で Gab AI Inc の最先端技術を活用</translation>
+<translation id="9125982323641182972">Fulldive で Gab AI Inc の最先端技術を活用</translation>
 <translation id="2537178555904266562">パスワードの同期中にエラーが発生しました</translation>
 <translation id="4314815835985389558">同期の管理</translation>
 <translation id="8931475688782629595">同期する内容の管理</translation>
@@ -4641,7 +4641,7 @@
 <translation id="1651008383952180276">同じパスフレーズを 2 回入力する必要があります</translation>
 <translation id="988978206646512040">パスフレーズは必ず指定してください</translation>
 <translation id="2136476978468204130">入力したパスフレーズが正しくありません</translation>
-<translation id="7505421639213002314">Dissenter 同期のデータ</translation>
+<translation id="7505421639213002314">Fulldive 同期のデータ</translation>
 <translation id="452750746583162491">同期したデータを確認する</translation>
 <translation id="7956662517480676674">同期と Gab AI Inc サービス</translation>
 <translation id="7772032839648071052">パスフレーズの確認</translation>
@@ -4740,7 +4740,7 @@
 <translation id="1992397118740194946">未設定</translation>
 <translation id="6706210727756204531">範囲</translation>
 <translation id="5532223876348815659">グローバル</translation>
-<translation id="300669147395456190">Dissenter アプリ</translation>
+<translation id="300669147395456190">Fulldive アプリ</translation>
 <translation id="6787839852456839824">キーボード ショートカット</translation>
 <translation id="6419546358665792306">パッケージ化されていない拡張機能を読み込む</translation>
 <translation id="8023801379949507775">拡張機能を今すぐ更新</translation>
@@ -4754,13 +4754,13 @@
 <translation id="8447409163267621480">Ctrl キーまたは Alt キーが必要です</translation>
 <translation id="3365598184818502391">Ctrl キーまたは Alt キーのいずれかを使用してください</translation>
 <translation id="1688935057616748272">文字を入力してください</translation>
-<translation id="1579879232130925590">Dissenter をより快適に</translation>
+<translation id="1579879232130925590">Fulldive をより快適に</translation>
 <translation id="964057662886721376">一部の拡張機能によって動作が遅くなることがあります。特に、意図せずインストールされた拡張機能には注意が必要です。</translation>
 <translation id="1499271269825557605">拡張機能が認識されないかブラウザが想定どおり動作しない場合は、ここで拡張機能を無効にするかカスタマイズできます。</translation>
 <translation id="2382818385048255866">拡張機能の確認</translation>
 <translation id="3900789207771372462">一部の拡張機能によって、閲覧アクティビティ（個人情報を含む）にアクセスされる可能性があります。</translation>
 <translation id="6772339735733515807">拡張機能の管理</translation>
-<translation id="1510515462062582289">このページには、Dissenter にインストールされているすべての拡張機能が表示されます。</translation>
+<translation id="1510515462062582289">このページには、Fulldive にインストールされているすべての拡張機能が表示されます。</translation>
 <translation id="2810390687497823527">拡張機能が認識されないかブラウザが想定どおり動作しない場合は、ここで拡張機能を無効にするかカスタマイズできます。</translation>
 <translation id="4479424953165245642">キオスク アプリケーションを管理</translation>
 <translation id="6619801788773578757">キオスク アプリケーションを追加</translation>
@@ -4776,7 +4776,7 @@
 <translation id="2342740338116612727">ブックマークを追加しました</translation>
 <translation id="7835178595033117206">ブックマークを削除しました</translation>
 <translation id="742130257665691897">ブックマークを削除しました</translation>
-<translation id="5468853758063275923">Dissenter をデフォルトのブラウザに設定しました</translation>
+<translation id="5468853758063275923">Fulldive をデフォルトのブラウザに設定しました</translation>
 <translation id="2950533317914339731">お気に入りの Gab AI Inc アプリへのブックマークを追加します</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4791,13 +4791,13 @@
 <translation id="5033266061063942743">幾何学模様</translation>
 <translation id="7789963078219276159">スタートページの背景が<ph name="CATEGORY"/>に変更されました。</translation>
 <translation id="8771300903067484968">スタートページの背景をデフォルトの背景にリセットしました。</translation>
-<translation id="239760341987199724">Dissenter をデフォルト ブラウザに設定する</translation>
+<translation id="239760341987199724">Fulldive をデフォルト ブラウザに設定する</translation>
 <translation id="96037229054033864">Gab AI Inc 検索や Gab AI Inc の最先端技術をブラウジングで活用できます</translation>
-<translation id="296137235951584143">Dissenter を独自にカスタマイズ</translation>
+<translation id="296137235951584143">Fulldive を独自にカスタマイズ</translation>
 <translation id="3982375475032951137">簡単な手順でブラウザを設定できます</translation>
 <translation id="6972754398087986839">Get Started</translation>
-<translation id="3707821975049107110">Dissenter をすでにご利用の場合はログイン</translation>
-<translation id="7113572760575285642">あなたの Dissenter をいつでもどこでも</translation>
+<translation id="3707821975049107110">Fulldive をすでにご利用の場合はログイン</translation>
+<translation id="7113572760575285642">あなたの Fulldive をいつでもどこでも</translation>
 <translation id="567643736130151854">ログインして同期を有効にすれば、ブックマーク、パスワード、その他の設定をどの端末からでもご利用いただけます</translation>
 <translation id="725758059478686223">印刷サービス</translation>
 <translation id="15662109988763471">選択したプリンタは利用できないか、正しくインストールされていません。プリンタを確認するか、別のプリンタを選択してみてください。</translation>
@@ -4920,7 +4920,7 @@
 <translation id="7574650250151586813">テキストを入力するには、Daydream キーボード アプリを更新してください</translation>
 <translation id="983511809958454316">この機能は VR ではサポートされていません</translation>
 <translation id="4008291085758151621">サイト情報は VR ではご利用いただけません</translation>
-<translation id="1439926347196400598">Dissenter に録音を許可しますか？</translation>
+<translation id="1439926347196400598">Fulldive に録音を許可しますか？</translation>
 <translation id="6313641880021325787">VR を終了</translation>
 <translation id="2670429602441959756">このページには VR でまだご利用いただけない機能が含まれています。VR モードを終了します...</translation>
 <translation id="1802687198411089702">ページが応答していません。しばらくお待ちいただくか、終了してください。</translation>
@@ -4942,7 +4942,7 @@
 <translation id="1721312023322545264">このサイトにアクセスするには <ph name="NAME"/> さんの許可が必要です</translation>
 <translation id="7543525346216957623">保護者に頼んでください</translation>
 <translation id="471880041731876836">このサイトへのアクセスが許可されていません</translation>
-<translation id="3480834636742786788">このアプリを使用するには、Dissenter を起動してログインしてください。</translation>
+<translation id="3480834636742786788">このアプリを使用するには、Fulldive を起動してログインしてください。</translation>
 <translation id="2851634818064021665">このサイトにアクセスするには許可が必要です</translation>
 <translation id="4933782374919065856">ご不明な点は、プロフィールの管理担当者にお問い合わせください。</translation>
 <translation id="2712173769900027643">許可をリクエスト</translation>
@@ -4962,7 +4962,7 @@
 <translation id="7755287808199759310">ブロックの解除は保護者が行うことができます</translation>
 <translation id="5732392974455271431">ブロックの解除は保護者が行うことができます</translation>
 <translation id="3556433843310711081">ブロックの解除は管理者が行うことができます</translation>
-<translation id="1254756632288991504">このサイトへのアクセス権があるかどうかを Dissenter で確認できるように、Dissenter を起動してログインしてください。</translation>
+<translation id="1254756632288991504">このサイトへのアクセス権があるかどうかを Fulldive で確認できるように、Fulldive を起動してログインしてください。</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> は一時停止中</translation>
 <translation id="8015163965024115122">あなたの保護者が設定した制限時間に達したため、今日はこれ以上「<ph name="IDS_SHORT_PRODUCT_NAME"/>」アプリまたは「<ph name="IDS_SHORT_PRODUCT_NAME"/>」アプリを使えません。</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> は一時停止中</translation>

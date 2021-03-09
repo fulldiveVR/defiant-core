@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">삭제</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/>개가 선택되었습니다</translation>
 <translation id="5582839680698949063">기본 메뉴</translation>
-<translation id="3700405816184340252">Dissenter 방문 기록</translation>
+<translation id="3700405816184340252">Fulldive 방문 기록</translation>
 <translation id="7602079150116086782">다른 기기의 탭 없음</translation>
 <translation id="4619615317237390068">다른 기기의 탭</translation>
-<translation id="82609232232243542">Dissenter에 로그인</translation>
+<translation id="82609232232243542">Fulldive에 로그인</translation>
 <translation id="4627442949885028695">다른 기기에서 계속</translation>
-<translation id="7253276740368043692">다른 기기에서 탭을 가져오려면 Dissenter에 로그인하세요.</translation>
+<translation id="7253276740368043692">다른 기기에서 탭을 가져오려면 Fulldive에 로그인하세요.</translation>
 <translation id="6351063337294363751">이 메뉴에서 인터넷 사용 기록을 삭제할 수 있습니다.</translation>
 <translation id="6040143037577758943">닫기</translation>
 <translation id="6463795194797719782">편집(&amp;E)</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">환경설정...</translation>
 <translation id="5801568494490449797">환경설정</translation>
 <translation id="3677911431265050325">모바일 버전으로 보기</translation>
-<translation id="236470849334943016">Dissenter의 서비스 약관이 3월 31일에 변경됩니다</translation>
+<translation id="236470849334943016">Fulldive의 서비스 약관이 3월 31일에 변경됩니다</translation>
 <translation id="1032605640136438169">새로운 약관을 검토해 주세요.</translation>
 <translation id="8712637175834984815">확인</translation>
 <translation id="5007392906805964215">검토</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">다시 시작</translation>
 <translation id="3479552764303398839">나중에</translation>
 <translation id="1008557486741366299">나중에 하기</translation>
-<translation id="8201192017531062522">Dissenter 앱이 열려 있을 때 Dissenter이 계속 실행됩니다.</translation>
-<translation id="7397305826909094212">모든 Dissenter 앱 종료</translation>
+<translation id="8201192017531062522">Fulldive 앱이 열려 있을 때 Fulldive이 계속 실행됩니다.</translation>
+<translation id="7397305826909094212">모든 Fulldive 앱 종료</translation>
 <translation id="5026874946691314267">이 메시지를 다시 표시하지 않음</translation>
 <translation id="91568222606626347">바로가기 만들기...</translation>
 <translation id="2783321960289401138">바로가기 만들기...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">Linux 가상 머신: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">플러그인 가상 머신: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP 파서</translation>
-<translation id="7171242884588191792">Dissenter 파일 유틸리티</translation>
+<translation id="7171242884588191792">Fulldive 파일 유틸리티</translation>
 <translation id="3183139917765991655">프로필 가져오기 도구</translation>
 <translation id="7367714965999718019">QR 코드 생성기</translation>
 <translation id="2190069059097339078">WiFi 사용자 인증 정보 Getter</translation>
-<translation id="5920835625712313205">Dissenter OS 시스템 이미지 작성기</translation>
+<translation id="5920835625712313205">Fulldive OS 시스템 이미지 작성기</translation>
 <translation id="4873312501243535625">미디어 파일 검사기</translation>
 <translation id="5972666587303800813">작동하지 않는 서비스</translation>
 <translation id="1545775234664667895">테마('<ph name="THEME_NAME"/>')를 설치했습니다.</translation>
@@ -851,14 +851,14 @@
 <translation id="3507421388498836150">'<ph name="EXTENSION_NAME"/>'의 현재 권한</translation>
 <translation id="5242724311594467048">'<ph name="EXTENSION_NAME"/>'을(를) 사용하시겠습니까?</translation>
 <translation id="4014432863917027322">'<ph name="EXTENSION_NAME"/>'을(를) 복구하시겠습니까?</translation>
-<translation id="5173189340601754836">컴퓨터의 다른 프로그램에서 Dissenter 작동에 영향을 줄 수 있는 앱을 추가했습니다.
+<translation id="5173189340601754836">컴퓨터의 다른 프로그램에서 Fulldive 작동에 영향을 줄 수 있는 앱을 추가했습니다.
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">컴퓨터의 다른 프로그램에서 Dissenter 작동에 영향을 줄 수 있는 확장 프로그램을 추가했습니다. 
+<translation id="6654312501894761082">컴퓨터의 다른 프로그램에서 Fulldive 작동에 영향을 줄 수 있는 확장 프로그램을 추가했습니다. 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">컴퓨터의 다른 프로그램에서 Dissenter 작동에 영향을 줄 수 있는 테마를 추가했습니다. 
+<translation id="3225882094369124157">컴퓨터의 다른 프로그램에서 Fulldive 작동에 영향을 줄 수 있는 테마를 추가했습니다. 
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">확장 프로그램 사용</translation>
@@ -867,7 +867,7 @@
 <translation id="3908501907586732282">확장 프로그램 사용</translation>
 <translation id="2327492829706409234">앱 사용</translation>
 <translation id="175772926354468439">테마 사용</translation>
-<translation id="5267531627648004734">Dissenter에서 삭제</translation>
+<translation id="5267531627648004734">Fulldive에서 삭제</translation>
 <translation id="4998873842614926205">변경사항 확인</translation>
 <translation id="1799071797295057738">'<ph name="EXTENSION_NAME"/>' 확장 프로그램 자동으로 사용 중지되었습니다.</translation>
 <translation id="5238278114306905396">'<ph name="EXTENSION_NAME"/>' 앱이 자동으로 삭제되었습니다.</translation>
@@ -1003,7 +1003,7 @@
 <translation id="1616298854599875024">확장 프로그램 '<ph name="IMPORT_NAME"/>'은(는) 공유 모듈이 아니므로 가져올 수 없습니다</translation>
 <translation id="2131077480075264"><ph name="IMPORT_NAME"/>에서 허용하지 않으므로 '<ph name="APP_NAME"/>'을(를) 설치할 수 없습니다.</translation>
 <translation id="1875387611427697908">이 프로그램은 <ph name="CHROME_WEB_STORE"/>에서만 추가할 수 있습니다</translation>
-<translation id="3862788408946266506">'kiosk_only' 매니페스트 속성을 사용하는 앱은 Dissenter OS 키오스크 모드에 설치해야 합니다</translation>
+<translation id="3862788408946266506">'kiosk_only' 매니페스트 속성을 사용하는 앱은 Fulldive OS 키오스크 모드에 설치해야 합니다</translation>
 <translation id="3834775135533257713">애플리케이션 '<ph name="TO_INSTALL_APP_NAME"/>'이(가) '<ph name="INSTALLED_APP_NAME"/>'와(과) 충돌하기 때문에 추가하지 못했습니다.</translation>
 <translation id="144518587530125858">테마('<ph name="IMAGE_PATH"/>')를 로드하지 못했습니다.</translation>
 <translation id="3576324189521867626">설치되었습니다.</translation>
@@ -1104,9 +1104,9 @@
 <translation id="6101226222197207147">새 앱이 추가됨(<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">새 테마가 추가됨(<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">'<ph name="EXTENSION_NAME"/>'이(가) 추가됨</translation>
-<translation id="6637045053447935202">컴퓨터의 다른 프로그램에서 Dissenter 작동에 영향을 줄 수 있는 앱을 추가했습니다.</translation>
-<translation id="2015014930243978107">컴퓨터의 다른 프로그램에서 Dissenter 작동에 영향을 줄 수 있는 확장 프로그램을 추가했습니다.</translation>
-<translation id="2060128809251156338">컴퓨터의 다른 프로그램에서 Dissenter 작동에 영향을 줄 수 있는 테마를 추가했습니다.</translation>
+<translation id="6637045053447935202">컴퓨터의 다른 프로그램에서 Fulldive 작동에 영향을 줄 수 있는 앱을 추가했습니다.</translation>
+<translation id="2015014930243978107">컴퓨터의 다른 프로그램에서 Fulldive 작동에 영향을 줄 수 있는 확장 프로그램을 추가했습니다.</translation>
+<translation id="2060128809251156338">컴퓨터의 다른 프로그램에서 Fulldive 작동에 영향을 줄 수 있는 테마를 추가했습니다.</translation>
 <translation id="2470702053775288986">지원되지 않는 확장 프로그램이 사용 중지됨</translation>
 <translation id="2809586584051668049">외 <ph name="NUMBER_ADDITIONAL_DISABLED"/>개</translation>
 <translation id="5301954838959518834">확인</translation>
@@ -1311,7 +1311,7 @@
 <translation id="8017679124341497925">바로가기 수정됨</translation>
 <translation id="1174073918202301297">바로가기 추가됨</translation>
 <translation id="2926085873880284723">기본 바로가기 복원</translation>
-<translation id="5801450813341024983">Dissenter 배경</translation>
+<translation id="5801450813341024983">Fulldive 배경</translation>
 <translation id="2800760947029405028">이미지 업로드</translation>
 <translation id="8342861492835240085">컬렉션 선택</translation>
 <translation id="3132996321662585180">매일 새로고침</translation>
@@ -1398,7 +1398,7 @@
 <translation id="833986336429795709">이 링크를 열려면 앱을 선택하세요.</translation>
 <translation id="192494336144674234">연결 프로그램</translation>
 <translation id="9053893665344928494">내 선택 기억하기</translation>
-<translation id="5340857474604400806">Dissenter 사용 계속하기</translation>
+<translation id="5340857474604400806">Fulldive 사용 계속하기</translation>
 <translation id="3043581297103810752">출처: <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (시크릿)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/>(게스트)</translation>
@@ -1459,8 +1459,8 @@
 <translation id="6686817083349815241">비밀번호 저장</translation>
 <translation id="8141725884565838206">비밀번호 관리</translation>
 <translation id="8275038454117074363">가져오기</translation>
-<translation id="3191314862567596053">Dissenter으로 비밀번호 가져오기</translation>
-<translation id="6368144843345980623">Dissenter에서 비밀번호 내보내기</translation>
+<translation id="3191314862567596053">Fulldive으로 비밀번호 가져오기</translation>
+<translation id="6368144843345980623">Fulldive에서 비밀번호 내보내기</translation>
 <translation id="8503813439785031346">사용자이름</translation>
 <translation id="6657585470893396449">비밀번호</translation>
 <translation id="5472627187093107397">이 사이트의 비밀번호 저장</translation>
@@ -1491,7 +1491,7 @@
 <translation id="7052237160939977163">성능 추적 데이터 전송</translation>
 <translation id="5526928694260255286"><ph name="BEGIN_LINK"/>블루투스 로그<ph name="END_LINK"/> 첨부(Gab AI Inc 사내용)</translation>
 <translation id="3047644958362961983">이 정보는 어시스턴트 문제를 파악하는 데 도움이 됩니다. 정보는 최대 90일까지 저장되며 해당 엔지니어링 및 피드백 팀만 액세스할 수 있습니다.</translation>
-<translation id="8545590844135745781">블루투스 문제를 더 효과적으로 진단하기 위해 Gab AI Inc 직원이 의견 보고서에 추가 블루투스 로그를 포함할 수 있습니다. 이 옵션을 선택하면 보고서에 현재 세션의 btsnoop 및 HCI 로그가 포함됩니다. 이 로그는 개인 식별 정보가 가능한 한 적게 포함되도록 정리되며, Listnr의 Dissenter OS 제품 그룹 관리자만 액세스할 수 있습니다. 해당 로그는 90일 후에 삭제됩니다.</translation>
+<translation id="8545590844135745781">블루투스 문제를 더 효과적으로 진단하기 위해 Gab AI Inc 직원이 의견 보고서에 추가 블루투스 로그를 포함할 수 있습니다. 이 옵션을 선택하면 보고서에 현재 세션의 btsnoop 및 HCI 로그가 포함됩니다. 이 로그는 개인 식별 정보가 가능한 한 적게 포함되도록 정리되며, Listnr의 Fulldive OS 제품 그룹 관리자만 액세스할 수 있습니다. 해당 로그는 90일 후에 삭제됩니다.</translation>
 <translation id="4206323443866416204">의견 보고서</translation>
 <translation id="3681311097828166361">의견을 보내주셔서 감사합니다. 현재 오프라인 상태이므로 보고서는 나중에 전송됩니다.</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>시스템 정보<ph name="END_LINK1"/> 전송</translation>
@@ -1508,15 +1508,15 @@
 <translation id="6885771755599377173">시스템 정보 미리보기</translation>
 <translation id="1016566241875885511">추가 정보(선택사항)</translation>
 <translation id="8026334261755873520">인터넷 사용 기록 삭제</translation>
-<translation id="4718442817388594217">선택한 데이터가 Dissenter 및 동기화된 기기에서 삭제되었습니다. <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>에서 검색이나 기타 Gab AI Inc 서비스에서의 활동 등 내 Gab AI Inc 계정에 있는 다른 형식의 탐색 기록을 확인할 수 있습니다.</translation>
-<translation id="7814200940910057384">Dissenter 데이터 삭제됨</translation>
+<translation id="4718442817388594217">선택한 데이터가 Fulldive 및 동기화된 기기에서 삭제되었습니다. <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>에서 검색이나 기타 Gab AI Inc 서비스에서의 활동 등 내 Gab AI Inc 계정에 있는 다른 형식의 탐색 기록을 확인할 수 있습니다.</translation>
+<translation id="7814200940910057384">Fulldive 데이터 삭제됨</translation>
 <translation id="7346909386216857016">확인</translation>
 <translation id="8493236660459102203">마이크:</translation>
 <translation id="3925573269917483990">카메라:</translation>
 <translation id="648927581764831596">사용할 수 없음</translation>
 <translation id="4172051516777682613">항상 표시</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{팝업 1개 차단됨}other{팝업 #개 차단됨}}</translation>
-<translation id="4156865452842056672">(Dissenter 오류 페이지)</translation>
+<translation id="4156865452842056672">(Fulldive 오류 페이지)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/>에서 자동 업데이트를 수행하지 못할 수 있습니다</translation>
 <translation id="8590375307970699841">자동 업데이트 설정</translation>
 <translation id="8926389886865778422">이 메시지 그만 보기</translation>
@@ -1621,10 +1621,10 @@
 <translation id="8658645149275195032"><ph name="APP_NAME"/>에서 <ph name="TAB_NAME"/>와(과) 내 화면 및 오디오를 공유 중입니다.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/>이(가) 창을 공유합니다.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/>에서 <ph name="TAB_NAME"/>와(과) 창을 공유 중입니다.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/>이(가) Dissenter 탭을 공유합니다.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/>에서 <ph name="TAB_NAME"/>와(과) Dissenter 탭을 공유 중입니다.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/>에서 Dissenter 탭과 오디오를 공유 중입니다.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/>에서 <ph name="TAB_NAME"/>와(과) Dissenter 탭과 오디오를 공유 중입니다.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/>이(가) Fulldive 탭을 공유합니다.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/>에서 <ph name="TAB_NAME"/>와(과) Fulldive 탭을 공유 중입니다.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/>에서 Fulldive 탭과 오디오를 공유 중입니다.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/>에서 <ph name="TAB_NAME"/>와(과) Fulldive 탭과 오디오를 공유 중입니다.</translation>
 <translation id="7108338896283013870">숨기기</translation>
 <translation id="890616557918890486">소스 변경</translation>
 <translation id="7792388396321542707">공유 중지</translation>
@@ -1647,7 +1647,7 @@
 <translation id="4711067597921221305">사용 통계 및 비정상 종료 보고서가 Gab AI Inc로 자동 전송되게 하여 <ph name="PRODUCT_NAME"/> 개선에 도움 주기</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/> 시작</translation>
 <translation id="4876273079589074638">Gab AI Inc 엔지니어가 이 비정상 종료를 조사하고 해결할 수 있도록 도와주세요. 가능한 경우 단계를 정확히 나열해 주세요. 자세히 설명해 주시면 큰 도움이 됩니다.</translation>
-<translation id="5418694430960033386">Dissenter에 메모리가 부족하거나 웹페이지 프로세싱이 다른 이유로 종료되었습니다. 계속하려면 새로고침하거나 다른 페이지로 이동하세요.</translation>
+<translation id="5418694430960033386">Fulldive에 메모리가 부족하거나 웹페이지 프로세싱이 다른 이유로 종료되었습니다. 계속하려면 새로고침하거나 다른 페이지로 이동하세요.</translation>
 <translation id="3065041951436100775">탭 사용 중지 관련 피드백</translation>
 <translation id="3941565636838060942">이 프로그램에 대한 액세스를 숨기려면 제어판의
   <ph name="CONTROL_PANEL_APPLET_NAME"/>을(를) 사용하여 프로그램을 제거해야 합니다.
@@ -1675,10 +1675,10 @@
 <translation id="4980805016576257426">확장 프로그램에 멀웨어가 포함되어 있습니다.</translation>
 <translation id="5522156646677899028">이 확장 프로그램에는 보안이 심각하게 취약한 요소가 있습니다.</translation>
 <translation id="6945695820322143954">이 확장 기능은 Web Store 정책을 위반합니다.</translation>
-<translation id="177808131755847449">Dissenter에서 사용 중지했습니다. 이 확장 프로그램은 안전하지 않을 수 있습니다.</translation>
+<translation id="177808131755847449">Fulldive에서 사용 중지했습니다. 이 확장 프로그램은 안전하지 않을 수 있습니다.</translation>
 <translation id="1434696352799406980">시작 페이지, 새 탭 페이지, 검색 엔진, 고정 탭이 재설정됩니다. 또한 모든 확장 프로그램이 사용 중지되고 쿠키와 같은 임시 데이터가 삭제됩니다. 북마크, 기록, 저장된 비밀번호는 삭제되지 않습니다.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/>에서 설정을 재설정하려 합니다.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/>에서 Dissenter 설정을 기본값으로 복원하려 합니다. 홈페이지, 새 탭 페이지, 검색 엔진이 초기화되고, 확장 프로그램이 사용 중지되며, 모든 탭이 고정 해제됩니다. 쿠키, 콘텐츠 데이터, 사이트 데이터 등 기타 임시 데이터와 캐시된 데이터도 삭제됩니다.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/>에서 Fulldive 설정을 기본값으로 복원하려 합니다. 홈페이지, 새 탭 페이지, 검색 엔진이 초기화되고, 확장 프로그램이 사용 중지되며, 모든 탭이 고정 해제됩니다. 쿠키, 콘텐츠 데이터, 사이트 데이터 등 기타 임시 데이터와 캐시된 데이터도 삭제됩니다.</translation>
 <translation id="7581462281756524039">정리도구</translation>
 <translation id="1233721473400465416">언어</translation>
 <translation id="2907619724991574506">시작 URL</translation>
@@ -1872,7 +1872,7 @@
 <translation id="6664774537677393800">프로필을 여는 동안 문제가 발생했습니다. 로그아웃했다가 다시 로그인하세요.</translation>
 <translation id="1794791083288629568">이 문제를 해결하는 데 도움이 되도록 의견 전송</translation>
 <translation id="8234795456569844941">Gab AI Inc 엔지니어가 이 문제를 해결하도록 도와주세요. 프로필 오류 메시지가 표시되기 직전에 무슨 일이 있었는지 알려 주시기 바랍니다.</translation>
-<translation id="6500340165622970282">프로필을 여는 동안 문제가 발생했기 때문에 Dissenter을 시작할 수 없습니다. Dissenter을 다시 시작해 보세요.</translation>
+<translation id="6500340165622970282">프로필을 여는 동안 문제가 발생했기 때문에 Fulldive을 시작할 수 없습니다. Fulldive을 다시 시작해 보세요.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/>은(는) 루트로 실행할 수 없습니다.</translation>
 <translation id="2292848386125228270">일반 사용자로 <ph name="PRODUCT_NAME"/>을(를) 시작하세요. 개발용 루트로 실행해야 하는 경우 --no-sandbox 플래그를 사용하여 다시 실행하세요.</translation>
 <translation id="7547317915858803630">경고: <ph name="PRODUCT_NAME"/> 설정이 네트워크 드라이브에 저장되었습니다. 이로 인해 속도 저하, 비정상 종료 그리고 데이터 손실까지 발생할 수 있습니다.</translation>
@@ -2248,8 +2248,8 @@
 <translation id="4720113199587244118">기기 추가</translation>
 <translation id="2776441542064982094">네트워크에 등록할 수 있는 기기가 없는 것 같습니다. 기기의 전원이 켜져 있고 인터넷에 연결되어 있다면 사용 설명서의 안내에 따라 등록해 보세요.</translation>
 <translation id="1007408791287232274">기기를 로드할 수 없습니다.</translation>
-<translation id="3886420006370338208">기기를 보려면 Dissenter에 로그인하세요.</translation>
-<translation id="6711610692002680394">새 기기를 등록하려면 Dissenter에 로그인하세요.</translation>
+<translation id="3886420006370338208">기기를 보려면 Fulldive에 로그인하세요.</translation>
+<translation id="6711610692002680394">새 기기를 등록하려면 Fulldive에 로그인하세요.</translation>
 <translation id="8931394284949551895">새 기기</translation>
 <translation id="3752673729237782832">내 기기</translation>
 <translation id="1721937473331968728">컴퓨터에 연결된 일반 프린터를 <ph name="CLOUD_PRINT_NAME"/>에 추가할 수 있습니다.</translation>
@@ -2322,7 +2322,7 @@
 <translation id="4540437243849625078">이 사이트가 시크릿 모드 외부의 앱과 정보를 공유하려고 합니다.</translation>
 <translation id="1227836882233136433">시크릿 모드를 끝내시겠습니까?</translation>
 <translation id="662080504995468778">머무르기</translation>
-<translation id="2593289874938379417">Dissenter에서 요청된 리소스에 액세스할 권한이 없습니다.</translation>
+<translation id="2593289874938379417">Fulldive에서 요청된 리소스에 액세스할 권한이 없습니다.</translation>
 <translation id="760197030861754408">연결하려면 <ph name="LANDING_PAGE"/>(으)로 이동하세요.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> 발견됨</translation>
 <translation id="5042282098504489593"><ph name="USB_DEVICE_NAME"/>을(를) Linux에 연결하려면 설정으로 이동하세요.</translation>
@@ -2377,24 +2377,24 @@
 <translation id="2859806420264540918">이 사이트에서는 방해가 되거나 사용자를 현혹하는 광고를 표시합니다.</translation>
 <translation id="4077917118009885966">이 사이트의 광고가 차단됨</translation>
 <translation id="6456955391422100996">광고가 삭제되었습니다.</translation>
-<translation id="7533556202636568669">이 광고는 기기에서 너무 많은 리소스를 사용하기 때문에 Dissenter에서 삭제되었습니다.</translation>
+<translation id="7533556202636568669">이 광고는 기기에서 너무 많은 리소스를 사용하기 때문에 Fulldive에서 삭제되었습니다.</translation>
 <translation id="8497219075884839166">Windows 유틸리티</translation>
 <translation id="897525204902889653">격리 서비스</translation>
 <translation id="7055152154916055070">다음 주소로의 리디렉션이 차단됨:</translation>
 <translation id="6777817260680419853">리디렉션이 차단됨</translation>
 <translation id="694592694773692225">이 페이지에서 리디렉션이 차단되었습니다.</translation>
-<translation id="8945142681652245463">Dissenter으로 빠르게 탐색</translation>
-<translation id="2618024864038703735">Dissenter으로 안전하게 탐색</translation>
-<translation id="8142180567942285208">Dissenter으로 편리하게 탐색</translation>
+<translation id="8945142681652245463">Fulldive으로 빠르게 탐색</translation>
+<translation id="2618024864038703735">Fulldive으로 안전하게 탐색</translation>
+<translation id="8142180567942285208">Fulldive으로 편리하게 탐색</translation>
 <translation id="8862003515646449717">빠른 브라우저로 전환</translation>
 <translation id="8438328416656800239">스마트 브라우저로 전환</translation>
 <translation id="491691592645955587">안전한 브라우저로 전환</translation>
 <translation id="683373380308365518">편리하고 안전한 브라우저로 전환</translation>
-<translation id="989239400026154074">Gab AI Inc에서 추천하는 Dissenter</translation>
-<translation id="6676231621615806698">Dissenter 열기</translation>
+<translation id="989239400026154074">Gab AI Inc에서 추천하는 Fulldive</translation>
+<translation id="6676231621615806698">Fulldive 열기</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/>에서 내 위치를 사용하여 지역에 맞는 콘텐츠를 제공합니다. 이 설정은 <ph name="SETTINGS_LINK"/>에서 변경할 수 있습니다.</translation>
 <translation id="3737536731758327622">다운로드 항목이 여기에 표시됩니다.</translation>
-<translation id="4782664866169793230">Dissenter이 자동화된 테스트 소프트웨어에 의해 제어되고 있습니다.</translation>
+<translation id="4782664866169793230">Fulldive이 자동화된 테스트 소프트웨어에 의해 제어되고 있습니다.</translation>
 <translation id="6721678857435001674">보안 키 제조업체와 모델을 확인하려고 합니다.</translation>
 <translation id="1673137583248014546"><ph name="URL"/>에서 보안 키 제조업체와 모델을 확인하려고 합니다.</translation>
 <translation id="6010869025736512584">비디오 입력 장치에 액세스 중</translation>
@@ -2527,7 +2527,7 @@
 <translation id="3984431586879874039">이 사이트에서 보안 키를 보도록 허용하시겠습니까?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/>에서 보안 키 제조업체와 모델을 확인하려고 합니다.</translation>
 <translation id="7618452966706304788">시크릿 모드에서 <ph name="APP_NAME"/>에 Touch ID를 사용하시겠습니까?</translation>
-<translation id="3098826269712097986">가입 정보가 시크릿 모드를 종료하고 난 뒤에 Dissenter에 저장됩니다. 이렇게 하면 나중에 이 웹사이트에 방문하여 Touch ID를 사용할 수 있습니다.</translation>
+<translation id="3098826269712097986">가입 정보가 시크릿 모드를 종료하고 난 뒤에 Fulldive에 저장됩니다. 이렇게 하면 나중에 이 웹사이트에 방문하여 Touch ID를 사용할 수 있습니다.</translation>
 <translation id="2172784515318616985">계속</translation>
 <translation id="5186185447130319458">시크릿 모드</translation>
 <translation id="7643842463591647490">{0,plural, =1{열린 창 #개}other{열린 창 #개}}</translation>
@@ -2569,7 +2569,7 @@
 <translation id="2346953515226895098">SODA 서비스</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> 앱이 일시중지됨</translation>
 <translation id="917350715406657904">부모님이 설정한 <ph name="APP_NAME"/> 사용 제한 시간에 도달했습니다. 내일 <ph name="TIME_LIMIT"/> 동안 다시 사용할 수 있습니다.</translation>
-<translation id="8891261408659902804">부모님이 설정한 <ph name="APP_NAME"/> Dissenter 앱 사용 제한 시간에 도달했습니다. 내일 <ph name="TIME_LIMIT"/> 동안 다시 사용할 수 있습니다.</translation>
+<translation id="8891261408659902804">부모님이 설정한 <ph name="APP_NAME"/> Fulldive 앱 사용 제한 시간에 도달했습니다. 내일 <ph name="TIME_LIMIT"/> 동안 다시 사용할 수 있습니다.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> 앱이 차단됨</translation>
 <translation id="4404843640767531781">부모님이 <ph name="APP_NAME"/> 앱을 차단했습니다. 이 앱을 사용하려면 부모님에게 권한을 요청하세요.</translation>
 <translation id="751523031290522286">관리자가 <ph name="APP_NAME"/> 앱을 차단했습니다. 이 앱을 사용하려면 관리자에게 권한을 요청하세요.</translation>
@@ -2914,7 +2914,7 @@
 <translation id="672213144943476270">프로필을 잠금 해제한 후에 게스트로 탐색하세요.</translation>
 <translation id="8086119151297127544">프로필을 추가하려면 먼저 프로필 잠금을 해제해 주세요.</translation>
 <translation id="7805701378418968629">프로필을 추가하려면 먼저 프로필 잠금을 해제해 주세요.</translation>
-<translation id="8978225823042133615">Dissenter을 사용하려면 로그인하세요</translation>
+<translation id="8978225823042133615">Fulldive을 사용하려면 로그인하세요</translation>
 <translation id="4893336867552636863">기기에서 인터넷 사용 기록이 완전히 삭제됩니다.</translation>
 <translation id="2496180316473517155">인터넷 사용 기록</translation>
 <translation id="6865313869410766144">양식 데이터 자동 완성</translation>
@@ -2938,7 +2938,7 @@
 <translation id="9013707997379828817">관리자가 이 기기를 롤백했습니다. 중요한 파일을 저장한 후 다시 시작하세요. 기기의 모든 데이터가 삭제됩니다.</translation>
 <translation id="5877064549588274448">채널이 변경되었습니다. 변경사항을 적용하려면 기기를 다시 시작하세요.</translation>
 <translation id="4716483597559580346">파워워시를 사용하여 보안 강화</translation>
-<translation id="4089922565956168950">이 업그레이드를 설치하면 Dissenterbook이 재설정되며, 현재 사용자 데이터가 삭제됩니다.</translation>
+<translation id="4089922565956168950">이 업그레이드를 설치하면 Fulldivebook이 재설정되며, 현재 사용자 데이터가 삭제됩니다.</translation>
 <translation id="3688526734140524629">채널 변경</translation>
 <translation id="6410328738210026208">채널 변경 및 Powerwash</translation>
 <translation id="1979280758666859181"><ph name="PRODUCT_NAME"/>의 이전 버전으로 채널을 변경하려 합니다. 채널 버전이 현재 기기에 설치되어 있는 버전과 일치할 때 채널 변경이 적용됩니다.</translation>
@@ -2970,7 +2970,7 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> 외 계정 1개}other{<ph name="EMAIL"/> 외 계정 <ph name="EXTRA_ACCOUNTS"/>개}}</translation>
 <translation id="7434635829372401939">설정 동기화</translation>
 <translation id="1036348656032585052">사용 중지</translation>
-<translation id="3267705913905916810">앱 및 설정은 Gab AI Inc 계정으로 로그인한 모든 Dissenter OS 기기와 동기화됩니다. 브라우저 동기화 옵션을 보려면 <ph name="LINK_BEGIN"/>Dissenter 설정<ph name="LINK_END"/>으로 이동하세요.</translation>
+<translation id="3267705913905916810">앱 및 설정은 Gab AI Inc 계정으로 로그인한 모든 Fulldive OS 기기와 동기화됩니다. 브라우저 동기화 옵션을 보려면 <ph name="LINK_BEGIN"/>Fulldive 설정<ph name="LINK_END"/>으로 이동하세요.</translation>
 <translation id="6985607387932385770">프린터</translation>
 <translation id="8418661265246754237">Gab AI Inc 계정</translation>
 <translation id="3953834000574892725">내 계정</translation>
@@ -3017,7 +3017,7 @@
 <translation id="2187700606737131818">Gab AI Inc 포토</translation>
 <translation id="1827738518074806965">아트 갤러리</translation>
 <translation id="9137157311132182254">기본 검색엔진</translation>
-<translation id="7423118389528876103">Dissenter 브라우저 및 <ph name="DEVICE_TYPE"/> 런처에서 사용됩니다.</translation>
+<translation id="7423118389528876103">Fulldive 브라우저 및 <ph name="DEVICE_TYPE"/> 런처에서 사용됩니다.</translation>
 <translation id="2862205630718215619">Gab AI Inc 어시스턴트</translation>
 <translation id="8959699239363253085">사용</translation>
 <translation id="971479617738309149">꺼짐</translation>
@@ -3037,15 +3037,15 @@
 <translation id="6644513150317163574">URL 형식이 잘못되었습니다. SSO 인증이 사용될 경우 서버가 호스트 이름으로 지정되어야 합니다.</translation>
 <translation id="6091761513005122595">공유가 성공적으로 마운트되었습니다.</translation>
 <translation id="5770125698810550803">탐색 버튼 표시</translation>
-<translation id="2972318514147518075">태블릿 모드에서 버튼을 사용하여 홈이나 뒤로 이동하고 앱 간에 전환합니다. DissenterVox 또는 자동 클릭을 사용 중일 때 켜집니다.</translation>
+<translation id="2972318514147518075">태블릿 모드에서 버튼을 사용하여 홈이나 뒤로 이동하고 앱 간에 전환합니다. FulldiveVox 또는 자동 클릭을 사용 중일 때 켜집니다.</translation>
 <translation id="2558896001721082624">시스템 메뉴에 접근성 옵션 항상 표시</translation>
 <translation id="2981113813906970160">큰 마우스 커서 표시</translation>
 <translation id="5072052264945641674">커서 크기 조정</translation>
 <translation id="4209092469652827314">크게</translation>
 <translation id="499165176004408815">고대비 모드 사용</translation>
 <translation id="142758023928848008">고정키 사용(연속으로 입력하여 단축키 사용)</translation>
-<translation id="5914872514449971753">DissenterVox(음성 피드백) 사용</translation>
-<translation id="7099511550603534982">DissenterVox 설정 열기</translation>
+<translation id="5914872514449971753">FulldiveVox(음성 피드백) 사용</translation>
+<translation id="7099511550603534982">FulldiveVox 설정 열기</translation>
 <translation id="8547013269961688403">전체화면 돋보기 사용</translation>
 <translation id="8743390665131937741">전체화면 돋보기 확대/축소 수준:</translation>
 <translation id="7334274148831027933">고정 돋보기 사용</translation>
@@ -3137,7 +3137,7 @@
 <translation id="6902066522699286937">음성 미리보기</translation>
 <translation id="304747341537320566">음성 엔진</translation>
 <translation id="2755367719610958252">접근성 기능 관리</translation>
-<translation id="1203953622051744249">로그인된 계정을 관리하세요. 웹사이트, 앱, Dissenter 확장 프로그램 및 Gab AI Inc Play에서 권한에 따라 이 계정을 사용하여 사용 환경을 맞춤설정할 수 있습니다. <ph name="LINK_BEGIN"/>자세히 알아보기<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">로그인된 계정을 관리하세요. 웹사이트, 앱, Fulldive 확장 프로그램 및 Gab AI Inc Play에서 권한에 따라 이 계정을 사용하여 사용 환경을 맞춤설정할 수 있습니다. <ph name="LINK_BEGIN"/>자세히 알아보기<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">여기에서 학교 계정을 추가하거나 자녀 계정을 관리하세요. <ph name="LINK_BEGIN"/>자세히 알아보기<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">계정</translation>
 <translation id="6597148444736186483">이 기기의 기본 계정에서 로그아웃하려면 화면에 표시된 시간을 클릭합니다. 표시되는 메뉴에서 '로그아웃'을 클릭합니다.</translation>
@@ -3209,7 +3209,7 @@
 <translation id="234889437187286781">데이터를 로드하는 중에 오류가 발생했습니다.</translation>
 <translation id="4660540330091848931">크기 조정 중</translation>
 <translation id="1481537595330271162">디스크 크기를 조정하는 중에 오류가 발생했습니다.</translation>
-<translation id="2756917833575664962">ADB 디버깅을 사용 설정하려면 이 Dissenterbook을 초기화해야 합니다. <ph name="BEGIN_LINK_LEARN_MORE"/>자세히 알아보기<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">ADB 디버깅을 사용 설정하려면 이 Fulldivebook을 초기화해야 합니다. <ph name="BEGIN_LINK_LEARN_MORE"/>자세히 알아보기<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">ADB 디버깅을 사용 설정하려면 이 <ph name="DEVICE_TYPE"/> 기기를 다시 시작해야 합니다. ADB 디버깅을 사용 중지하려면 초기화해야 합니다.</translation>
 <translation id="8082390128630131497">ADB 디버깅을 사용 중지하면 이 <ph name="DEVICE_TYPE"/> 기기가 초기화됩니다. 모든 사용자 계정과 로컬 데이터가 삭제됩니다.</translation>
 <translation id="7932969338829957666"><ph name="BASE_DIR"/>에서 Linux의 공유 폴더를 사용할 수 있습니다.</translation>
@@ -3337,10 +3337,10 @@
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/>을(를) 더 이상 사용할 수 없습니다.</translation>
 <translation id="3976108569178263973">사용 가능한 프린터가 없습니다.</translation>
 <translation id="217576141146192373">프린터를 추가할 수 없습니다. 프린터 설정을 확인하고 다시 시도해 보세요.</translation>
-<translation id="4052689580269971502">프린터에 연결할 수 없습니다. 프린터가 켜져 있으며 Wi-Fi 또는 USB를 통해 Dissenterbook에 연결되어 있는지 확인하세요.</translation>
+<translation id="4052689580269971502">프린터에 연결할 수 없습니다. 프린터가 켜져 있으며 Wi-Fi 또는 USB를 통해 Fulldivebook에 연결되어 있는지 확인하세요.</translation>
 <translation id="7099337801055912064">큰 PPD를 로드할 수 없습니다. 최대 크기는 250KB입니다.</translation>
 <translation id="4310139701823742692">파일 형식이 잘못되었습니다. PPD 파일을 확인하고 다시 시도하세요.</translation>
-<translation id="6580983683519551561">PPD를 찾을 수 없습니다. Dissenterbook이 온라인 상태인지 확인하고 다시 시도해 보세요.</translation>
+<translation id="6580983683519551561">PPD를 찾을 수 없습니다. Fulldivebook이 온라인 상태인지 확인하고 다시 시도해 보세요.</translation>
 <translation id="4694024090038830733">프린터 구성은 관리자가 처리합니다.</translation>
 <translation id="5816434091619127343">프린터 변경을 요청하면 프린터를 사용할 수 없게 됩니다.</translation>
 <translation id="6504611359718185067">프린터를 추가하려면 인터넷에 연결하세요.</translation>
@@ -3676,18 +3676,18 @@
 <translation id="7770651108375708429">Wi-Fi 연결 해제</translation>
 <translation id="4168015872538332605"><ph name="PRIMARY_EMAIL"/>의 설정 중 일부가 나와 공유됩니다. 이러한 설정은 멀티 로그인을 사용하는 경우에만 계정에 적용됩니다.</translation>
 <translation id="1485141095922496924">버전 <ph name="PRODUCT_VERSION"/>(<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">모든 사용자의 Dissenter 자동 업데이트</translation>
+<translation id="4570609078116869893">모든 사용자의 Fulldive 자동 업데이트</translation>
 <translation id="7102687220333134671">자동 업데이트가 사용 설정되어 있습니다.</translation>
 <translation id="6981982820502123353">접근성</translation>
 <translation id="5840822070878669614">Web Store 열기</translation>
 <translation id="6073903501322152803">접근성 기능 추가</translation>
 <translation id="7988355189918024273">접근성 기능 사용</translation>
-<translation id="5499063270485366718">이미지에 유용한 설명이 없으면 Dissenter에서 자동으로 설명을 제공하려고 시도합니다. 설명을 생성하기 위해 이미지가 Gab AI Inc로 전송됩니다.</translation>
+<translation id="5499063270485366718">이미지에 유용한 설명이 없으면 Fulldive에서 자동으로 설명을 제공하려고 시도합니다. 설명을 생성하기 위해 이미지가 Gab AI Inc로 전송됩니다.</translation>
 <translation id="8957762313041272117">실시간 자막</translation>
-<translation id="7075426315046750605">실시간 자막 기능은 미디어에서 음성을 감지하여 Dissenter에서 재생되는 모든 미디어에 자동으로 자막을 생성합니다.</translation>
+<translation id="7075426315046750605">실시간 자막 기능은 미디어에서 음성을 감지하여 Fulldive에서 재생되는 모든 미디어에 자동으로 자막을 생성합니다.</translation>
 <translation id="572155275267014074">Android 설정</translation>
 <translation id="7201042526153088083"><ph name="DEVICE_TYPE"/>에서 Gab AI Inc Play 앱 및 게임을 설치하세요. &lt;a target="_blank" href="<ph name="URL"/>"&gt;자세히 알아보기&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Gab AI Inc Play에서 다운로드한 앱이 Dissenterbook에서 삭제됩니다.
+<translation id="8039595758121742506">Gab AI Inc Play에서 다운로드한 앱이 Fulldivebook에서 삭제됩니다.
       <ph name="LINE_BREAKS1"/>
       영화, TV 프로그램, 음악, 책 또는 기타 인앱 구매 등 구매한 콘텐츠도 삭제될 수 있습니다.
       <ph name="LINE_BREAKS2"/>
@@ -3701,7 +3701,7 @@
 <translation id="6006484371116297560">기본</translation>
 <translation id="1795214765651529549">기본 테마 사용</translation>
 <translation id="2332742915001411729">기본 설정으로 돌아가기</translation>
-<translation id="8338457030135232378">Dissenter 색상</translation>
+<translation id="8338457030135232378">Fulldive 색상</translation>
 <translation id="827097179112817503">홈 버튼 표시</translation>
 <translation id="383007806262310953">북마크바 표시</translation>
 <translation id="3911824782900911339">새 탭 페이지</translation>
@@ -3713,7 +3713,7 @@
 <translation id="1670399744444387456">기본</translation>
 <translation id="1763808908432309942">새 탭에서 열기</translation>
 <translation id="6248988683584659830">검색 설정</translation>
-<translation id="883304095704384301">원하는 자료를 찾지 못했다면 <ph name="BEGIN_LINK_CHROMIUM"/>Dissenter 도움말<ph name="END_LINK_CHROMIUM"/>을 참조하세요.</translation>
+<translation id="883304095704384301">원하는 자료를 찾지 못했다면 <ph name="BEGIN_LINK_CHROMIUM"/>Fulldive 도움말<ph name="END_LINK_CHROMIUM"/>을 참조하세요.</translation>
 <translation id="6406708970972405507">설정 - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">하위 페이지 버튼</translation>
 <translation id="379509625511193653">사용 안함</translation>
@@ -3900,7 +3900,7 @@
 <translation id="5468173180030470402">파일 공유 찾는 중</translation>
 <translation id="3336664756920573711">Android 휴대전화로 <ph name="DEVICE_TYPE"/>을(를) 잠금 해제하세요.</translation>
 <translation id="1164674268730883318"><ph name="DEVICE_TYPE"/>에서 Smart Lock을 사용 중지하시겠습니까?</translation>
-<translation id="2739030071582769583"><ph name="DEVICE_TYPE"/>용 Smart Lock을 사용 중지하면 휴대전화를 사용하여 Dissenter 기기를 잠금 해제할 수 없으며 비밀번호를 입력해야 합니다.</translation>
+<translation id="2739030071582769583"><ph name="DEVICE_TYPE"/>용 Smart Lock을 사용 중지하면 휴대전화를 사용하여 Fulldive 기기를 잠금 해제할 수 없으며 비밀번호를 입력해야 합니다.</translation>
 <translation id="4737715515457435632">네트워크에 연결하세요.</translation>
 <translation id="5425722269016440406">Smart Lock 설정은 휴대전화 및 다른 기기와 동기화되므로 Smart Lock을 사용 중지하려면 사용자가 온라인 상태여야 합니다. 먼저 네트워크에 연결하시기 바랍니다.</translation>
 <translation id="8885197664446363138">Smart Lock을 사용할 수 없음</translation>
@@ -4134,20 +4134,20 @@
 <translation id="3633309367764744750">아직 방문하지 않은 페이지를 포함하여 페이지에서 정보를 미리 가져옵니다. 쿠키를 허용한 경우 가져온 정보에 쿠키가 포함될 수 있습니다.</translation>
 <translation id="3201899458094819285">세이프 브라우징(사용자와 사용자의 기기를 위험한 사이트로부터 보호)</translation>
 <translation id="2876369937070532032">보안상의 위험이 있을 때 일부 방문 페이지의 URL을 Gab AI Inc로 전송합니다.</translation>
-<translation id="4991384657077828949">Dissenter 보안 강화 개선에 참여하기</translation>
+<translation id="4991384657077828949">Fulldive 보안 강화 개선에 참여하기</translation>
 <translation id="1984646864943401749">모든 웹 사용자에게 영향을 주는 새로운 위협을 발견하고 사용자를 보호하는 데 도움을 주기 위해 방문한 일부 페이지의 URL, 제한된 시스템 정보, 일부 페이지 콘텐츠를 Gab AI Inc로 전송합니다.</translation>
 <translation id="1641113438599504367">세이프 브라우징</translation>
 <translation id="6900532703269623216">향상된 보호 모드</translation>
 <translation id="7307583170263691471">위험한 웹사이트, 다운로드 항목 및 확장 프로그램에 더 빠르게 대응하여 선제적 보호 조치를 취합니다. 비밀번호 유출에 관해 알립니다. Gab AI Inc에 인터넷 사용 기록을 전송해야 합니다.</translation>
 <translation id="8645920082661222035">위험한 이벤트가 발생하기 전에 이를 예측하여 알립니다.</translation>
-<translation id="5265419033369521352">로그인 상태일 때 Dissenter에서 사용자를 보호하고 기타 Gab AI Inc 앱에서 사용자의 보안을 개선하는 데 사용될 수 있습니다.</translation>
+<translation id="5265419033369521352">로그인 상태일 때 Fulldive에서 사용자를 보호하고 기타 Gab AI Inc 앱에서 사용자의 보안을 개선하는 데 사용될 수 있습니다.</translation>
 <translation id="6770602306803890733">모든 웹 사용자를 위해 보안을 향상합니다.</translation>
 <translation id="3690369331356918524">데이터 유출로 인해 비밀번호가 노출된 경우 알립니다.</translation>
 <translation id="4979281249641199724">세이프 브라우징 서비스에 URL을 전송하여 확인하도록 합니다. 또한 페이지, 다운로드 항목, 확장 프로그램 활동, 시스템 정보의 표본을 일부 전송하여 새로운 위협을 발견하는 데 도움을 줍니다. 사용자가 로그인하면 이 데이터를 사용자의 Gab AI Inc 계정에 일시적으로 연결하여 Gab AI Inc 앱에서 사용자를 보호합니다.</translation>
 <translation id="1963976881984600709">표준 보호 모드</translation>
 <translation id="6882836635272038266">위험한 웹사이트, 다운로드 항목 및 확장 프로그램에 대응하는 표준 보호 기능입니다.</translation>
 <translation id="5561162485081632007">위험한 이벤트가 발생하면 이를 감지하여 알립니다.</translation>
-<translation id="7810992039564280750">Dissenter에 저장된 안전하지 않은 사이트 목록을 사용하여 URL을 검사합니다. 사이트에서 사용자의 비밀번호를 도용하려고 하거나 사용자가 유해한 파일을 다운로드하는 경우, Dissenter에서 페이지 콘텐츠 일부를 비롯한 URL을 세이프 브라우징 서비스에 보낼 수 있습니다.</translation>
+<translation id="7810992039564280750">Fulldive에 저장된 안전하지 않은 사이트 목록을 사용하여 URL을 검사합니다. 사이트에서 사용자의 비밀번호를 도용하려고 하거나 사용자가 유해한 파일을 다운로드하는 경우, Fulldive에서 페이지 콘텐츠 일부를 비롯한 URL을 세이프 브라우징 서비스에 보낼 수 있습니다.</translation>
 <translation id="3847319713229060696">모든 웹 사용자를 위한 보안 개선에 참여</translation>
 <translation id="1984417487208496350">보호되지 않음(권장되지 않음)</translation>
 <translation id="1295971429974142731">위험한 웹사이트, 다운로드 항목, 확장 프로그램으로부터 사용자를 보호하지 않습니다. Gmail, Gab AI Inc 검색과 같은 다른 Gab AI Inc 서비스에서는 가능한 경우 세이프 브라우징 보호가 계속 제공됩니다.</translation>
@@ -4203,7 +4203,7 @@
 <translation id="8632933437936028548">설정 초기화</translation>
 <translation id="5293170712604732402">설정을 기본값으로 복원</translation>
 <translation id="892706138619340876">일부 설정이 재설정됨</translation>
-<translation id="2334029754052191847">Dissenter에서 다른 프로그램이 브라우저 설정을 일부 손상시키고 원래 기본값으로 재설정했음을 감지했습니다.</translation>
+<translation id="2334029754052191847">Fulldive에서 다른 프로그램이 브라우저 설정을 일부 손상시키고 원래 기본값으로 재설정했음을 감지했습니다.</translation>
 <translation id="4582563038311694664">모든 설정 초기화</translation>
 <translation id="4146785383423576110">재설정 및 정리하기</translation>
 <translation id="2603115962224169880">컴퓨터 정리</translation>
@@ -4272,7 +4272,7 @@
 <translation id="5340638867532133571">사이트에서 결제 핸들러를 설치하도록 허용(권장)</translation>
 <translation id="763632859238619983">모든 사이트에서 결제 핸들러 설치 허용 안함</translation>
 <translation id="8270242299912238708">PDF 문서</translation>
-<translation id="539658326146969381">Dissenter에서 PDF 파일을 자동으로 여는 대신 다운로드</translation>
+<translation id="539658326146969381">Fulldive에서 PDF 파일을 자동으로 여는 대신 다운로드</translation>
 <translation id="4434045419905280838">팝업 및 리디렉션</translation>
 <translation id="6612358246767739896">보호된 콘텐츠</translation>
 <translation id="4252852543720145436">보호된 콘텐츠 식별자</translation>
@@ -4333,7 +4333,7 @@
 <translation id="2913331724188855103">사이트에서 쿠키 데이터를 저장하고 읽도록 허용(권장)</translation>
 <translation id="5908769186679515905">사이트에서 Flash를 실행하지 못하도록 차단</translation>
 <translation id="783214144752121388">사이트의 플래시 실행 차단(권장)</translation>
-<translation id="6096007141921397775">Dissenter을 종료할 때까지 Flash 설정이 유지됩니다.</translation>
+<translation id="6096007141921397775">Fulldive을 종료할 때까지 Flash 설정이 유지됩니다.</translation>
 <translation id="8074127646604999664">최근에 닫은 사이트에서 데이터 전송 및 수신을 완료하도록 허용</translation>
 <translation id="7062222374113411376">최근에 닫은 사이트에서 데이터 전송 및 수신을 완료하도록 허용(권장)</translation>
 <translation id="5068918910148307423">최근에 닫은 사이트에서 데이터 전송 및 수신을 완료하는 것을 허용하지 않음</translation>
@@ -4413,7 +4413,7 @@
 <translation id="5566692924079383101">이 예외는 현재 시크릿 모드 세션을 종료한 후 자동으로 삭제됩니다.</translation>
 <translation id="383891835335927981">확대 또는 축소된 사이트가 없음</translation>
 <translation id="3566721612727112615">추가된 사이트 없음</translation>
-<translation id="8098574385249290065">사이트의 소리 재생 여부를 Dissenter이 결정(권장)</translation>
+<translation id="8098574385249290065">사이트의 소리 재생 여부를 Fulldive이 결정(권장)</translation>
 <translation id="4354344420232759511">내가 방문한 사이트가 여기에 표시됩니다.</translation>
 <translation id="3757733214359997190">사이트를 찾을 수 없습니다.</translation>
 <translation id="6545864417968258051">블루투스 검색</translation>
@@ -4426,7 +4426,7 @@
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">사이트 추가</translation>
 <translation id="5052499409147950210">사이트 수정</translation>
-<translation id="4610862967073369855">Android 메시지가 휴대전화의 문자 메시지를 Dissenterbook으로 전달하도록 허용합니다.</translation>
+<translation id="4610862967073369855">Android 메시지가 휴대전화의 문자 메시지를 Fulldivebook으로 전달하도록 허용합니다.</translation>
 <translation id="6742339027238151589">스크립트에 액세스 가능</translation>
 <translation id="361106536627977100">Flash 데이터</translation>
 <translation id="8557930019681227453">매니페스트</translation>
@@ -4438,7 +4438,7 @@
 <translation id="8016266267177410919">임시 저장소</translation>
 <translation id="4175737294868205930">영구 저장소</translation>
 <translation id="8397843425685839889">나와 Gab AI Inc의 관계</translation>
-<translation id="8907706281008466056">Dissenter 프로필 사진</translation>
+<translation id="8907706281008466056">Fulldive 프로필 사진</translation>
 <translation id="2023167225947895179">추측하기 쉬운 PIN입니다.</translation>
 <translation id="5342091991439452114">PIN은 <ph name="MINIMUM"/>자리 이상이어야 합니다.</translation>
 <translation id="5252653240322147470">PIN은 <ph name="MAXIMUM"/>자리 미만이어야 합니다.</translation>
@@ -4503,23 +4503,23 @@
 <translation id="3817524650114746564">컴퓨터 프록시 설정 열기</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/>이(가) 확장 프로그램의 프록시 설정을 사용 중입니다.</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/>이(가) 관리자의 프록시 설정을 사용 중입니다.</translation>
-<translation id="6187156085111579405">필요한 경우 여기에 표시되지 않은 항목도 삭제됩니다. Dissenter 개인정보 보호 백서에서 &lt;a href="<ph name="URL"/>"&gt;원치 않는 소프트웨어 보호&lt;/a&gt;에 관해 자세히 알아보세요.</translation>
+<translation id="6187156085111579405">필요한 경우 여기에 표시되지 않은 항목도 삭제됩니다. Fulldive 개인정보 보호 백서에서 &lt;a href="<ph name="URL"/>"&gt;원치 않는 소프트웨어 보호&lt;/a&gt;에 관해 자세히 알아보세요.</translation>
 <translation id="5280174558369304332">삭제할 확장 프로그램:</translation>
 <translation id="7712836429117959503">ID가 <ph name="EXTENSION_ID"/>인 알 수 없는 확장 프로그램</translation>
 <translation id="3281892622610078515">스팸 격리 저장소에 보관할 파일 및 프로그램:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{항목 1개}other{항목 {NUM_ITEMS}개}}</translation>
 <translation id="7187428571767585875">삭제 또는 변경할 레지스트리 항목:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{외 1개}other{외 {NUM_DOWNLOADS}개}}</translation>
-<translation id="2749608811030566578">Dissenter에서 유해한 소프트웨어를 제거하는 중에 오류가 발생했습니다.</translation>
-<translation id="8189483132214844139">Dissenter이 컴퓨터에서 유해한 소프트웨어를 찾아 삭제할 수 있습니다.</translation>
+<translation id="2749608811030566578">Fulldive에서 유해한 소프트웨어를 제거하는 중에 오류가 발생했습니다.</translation>
+<translation id="8189483132214844139">Fulldive이 컴퓨터에서 유해한 소프트웨어를 찾아 삭제할 수 있습니다.</translation>
 <translation id="1426870617281699524">다시 시도를 클릭하고 컴퓨터에 표시된 메시지를 수락하세요</translation>
-<translation id="7886744396008377537">컴퓨터에 유해한 소프트웨어가 있습니다. Dissenter이 유해한 소프트웨어를 삭제하고, 설정을 복원하고, 확장 프로그램을 사용 중지하는 중입니다. 이 작업이 끝나면 브라우저가 다시 정상적으로 작동합니다.</translation>
-<translation id="1484912962860902625">Dissenter에서 유해한 소프트웨어를 검색하는 중에 오류가 발생했습니다.</translation>
+<translation id="7886744396008377537">컴퓨터에 유해한 소프트웨어가 있습니다. Fulldive이 유해한 소프트웨어를 삭제하고, 설정을 복원하고, 확장 프로그램을 사용 중지하는 중입니다. 이 작업이 끝나면 브라우저가 다시 정상적으로 작동합니다.</translation>
+<translation id="1484912962860902625">Fulldive에서 유해한 소프트웨어를 검색하는 중에 오류가 발생했습니다.</translation>
 <translation id="451407183922382411"><ph name="COMPANY_NAME"/> 제공</translation>
 <translation id="5254368820972107711">삭제할 파일 표시</translation>
 <translation id="296026337010986570">유해한 소프트웨어 삭제가 완료되었습니다. 확장 프로그램을 다시 사용 설정하려면 &lt;a href="chrome://extensions"&gt;확장 프로그램&lt;/a&gt;으로 이동하세요.</translation>
 <translation id="284975061945174219">정리하지 못했습니다.</translation>
-<translation id="9014750448058570312">계속하려면 Dissenter에 권한이 필요함</translation>
+<translation id="9014750448058570312">계속하려면 Fulldive에 권한이 필요함</translation>
 <translation id="1852141627593563189">유해한 소프트웨어 찾기</translation>
 <translation id="850875081535031620">유해한 소프트웨어가 발견되지 않음</translation>
 <translation id="1186771945450942097">유해한 소프트웨어 삭제</translation>
@@ -4532,7 +4532,7 @@
 <translation id="6555810572223193255">현재 정리 기능을 사용할 수 없음</translation>
 <translation id="7117228822971127758">나중에 다시 시도해 주세요</translation>
 <translation id="443475966875174318">호환되지 않는 애플리케이션 업데이트 또는 삭제</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{이 애플리케이션으로 인해 Dissenter이 제대로 작동하지 않을 수 있습니다.}other{이 애플리케이션으로 인해 Dissenter이 제대로 작동하지 않을 수 있습니다.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{이 애플리케이션으로 인해 Fulldive이 제대로 작동하지 않을 수 있습니다.}other{이 애플리케이션으로 인해 Fulldive이 제대로 작동하지 않을 수 있습니다.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{계속 웹을 탐색하려면 관리자에게 이 애플리케이션을 삭제해 달라고 요청하세요.}other{계속 웹을 탐색하려면 관리자에게 이 애플리케이션을 삭제해 달라고 요청하세요.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>애플리케이션 업데이트 방법 알아보기<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{애플리케이션}other{애플리케이션}}</translation>
@@ -4615,13 +4615,13 @@
 <translation id="284843628681142937">방문한 페이지의 URL을 Gab AI Inc에 전송</translation>
 <translation id="7704317875155739195">검색어 및 URL 자동 완성</translation>
 <translation id="2000419248597011803">검색주소창 및 검색창의 검색어 및 일부 쿠키를 기본 검색엔진에 전송</translation>
-<translation id="918192811481327695">Dissenter의 기능 및 성능 개선에 참여</translation>
+<translation id="918192811481327695">Fulldive의 기능 및 성능 개선에 참여</translation>
 <translation id="9063160602596686558">사용 통계 및 비정상 종료 보고서를 Gab AI Inc로 자동 전송</translation>
 <translation id="6697492270171225480">페이지를 찾을 수 없을 때 비슷한 페이지 제안 표시</translation>
 <translation id="4534361985432360439">사용자가 접속하려는 페이지의 웹 주소를 Gab AI Inc에 전송</translation>
 <translation id="3831436149286513437">Gab AI Inc 드라이브 검색 추천어</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/>에 동기화</translation>
-<translation id="9125982323641182972">Gab AI Inc로 Dissenter을 더욱 스마트하게</translation>
+<translation id="9125982323641182972">Gab AI Inc로 Fulldive을 더욱 스마트하게</translation>
 <translation id="2537178555904266562">비밀번호 동기화 중 오류 발생</translation>
 <translation id="4314815835985389558">동기화 관리</translation>
 <translation id="8931475688782629595">동기화 관리</translation>
@@ -4639,7 +4639,7 @@
 <translation id="1651008383952180276">동일한 암호를 두 번 입력해야 합니다.</translation>
 <translation id="988978206646512040">암호를 빈칸으로 두어서는 안 됩니다.</translation>
 <translation id="2136476978468204130">입력한 암호가 잘못되었습니다.</translation>
-<translation id="7505421639213002314">Dissenter 동기화 데이터</translation>
+<translation id="7505421639213002314">Fulldive 동기화 데이터</translation>
 <translation id="452750746583162491">동기화된 데이터 검토</translation>
 <translation id="7956662517480676674">동기화 및 Gab AI Inc 서비스</translation>
 <translation id="7772032839648071052">암호 확인</translation>
@@ -4738,7 +4738,7 @@
 <translation id="1992397118740194946">설정 안됨</translation>
 <translation id="6706210727756204531">범위</translation>
 <translation id="5532223876348815659">전체</translation>
-<translation id="300669147395456190">Dissenter 앱</translation>
+<translation id="300669147395456190">Fulldive 앱</translation>
 <translation id="6787839852456839824">단축키</translation>
 <translation id="6419546358665792306">압축해제된 확장 프로그램을 로드합니다.</translation>
 <translation id="8023801379949507775">지금 확장 프로그램 업데이트</translation>
@@ -4752,13 +4752,13 @@
 <translation id="8447409163267621480">Ctrl 또는 Alt 중 하나를 포함해야 합니다</translation>
 <translation id="3365598184818502391">Ctrl 또는 Alt 키 중에 하나만 사용하세요</translation>
 <translation id="1688935057616748272">문자를 입력하세요</translation>
-<translation id="1579879232130925590">더 안전하고 즐거운 Dissenter 사용</translation>
+<translation id="1579879232130925590">더 안전하고 즐거운 Fulldive 사용</translation>
 <translation id="964057662886721376">일부 확장 프로그램, 특히 원치 않게 설치된 확장프로그램으로 인해 속도가 느려질 수 있습니다.</translation>
 <translation id="1499271269825557605">알 수 없는 확장 프로그램이 있거나 브라우저가 예상대로 작동하지 않는다면 여기에서 확장 프로그램을 사용 중지하거나 맞춤설정할 수 있습니다.</translation>
 <translation id="2382818385048255866">확장 프로그램 확인</translation>
 <translation id="3900789207771372462">일부 확장 프로그램에서 개인정보를 포함하여 탐색 활동을 볼 수 있습니다.</translation>
 <translation id="6772339735733515807">확장 프로그램 관리</translation>
-<translation id="1510515462062582289">이 페이지에서 Dissenter에 설치된 모든 확장 프로그램을 볼 수 있습니다.</translation>
+<translation id="1510515462062582289">이 페이지에서 Fulldive에 설치된 모든 확장 프로그램을 볼 수 있습니다.</translation>
 <translation id="2810390687497823527">알 수 없는 확장 프로그램이 있거나 브라우저가 예상대로 작동하지 않는다면 여기에서 확장 프로그램을 사용 중지하거나 맞춤설정할 수 있습니다.</translation>
 <translation id="4479424953165245642">키오스크 애플리케이션 관리</translation>
 <translation id="6619801788773578757">키오스크 애플리케이션 추가</translation>
@@ -4774,7 +4774,7 @@
 <translation id="2342740338116612727">북마크 추가됨</translation>
 <translation id="7835178595033117206">북마크가 삭제됨</translation>
 <translation id="742130257665691897">북마크 삭제됨</translation>
-<translation id="5468853758063275923">Dissenter이 기본 브라우저로 설정되어 있습니다.</translation>
+<translation id="5468853758063275923">Fulldive이 기본 브라우저로 설정되어 있습니다.</translation>
 <translation id="2950533317914339731">즐겨찾는 Gab AI Inc 앱에 책갈피를 추가합니다.</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4789,13 +4789,13 @@
 <translation id="5033266061063942743">기하학적 모양</translation>
 <translation id="7789963078219276159">시작 페이지 배경화면이 <ph name="CATEGORY"/>(으)로 변경되었습니다.</translation>
 <translation id="8771300903067484968">시작 페이지 배경화면이 기본 배경화면으로 재설정되었습니다.</translation>
-<translation id="239760341987199724">Dissenter을 기본 브라우저로 설정</translation>
+<translation id="239760341987199724">Fulldive을 기본 브라우저로 설정</translation>
 <translation id="96037229054033864">Gab AI Inc 검색을 비롯한 Gab AI Inc 제품으로 스마트하게 탐색하세요</translation>
-<translation id="296137235951584143">나만의 Dissenter 만들기</translation>
+<translation id="296137235951584143">나만의 Fulldive 만들기</translation>
 <translation id="3982375475032951137">몇 단계 만에 간단하게 브라우저를 설정하세요.</translation>
 <translation id="6972754398087986839">시작하기</translation>
-<translation id="3707821975049107110">이미 Dissenter을 사용 중이신가요? 로그인하세요.</translation>
-<translation id="7113572760575285642">어디에서나 나만의 Dissenter을 사용하세요</translation>
+<translation id="3707821975049107110">이미 Fulldive을 사용 중이신가요? 로그인하세요.</translation>
+<translation id="7113572760575285642">어디에서나 나만의 Fulldive을 사용하세요</translation>
 <translation id="567643736130151854">로그인 후 동기화를 사용 설정하여 모든 기기에서 내 북마크, 비밀번호 등을 사용하세요.</translation>
 <translation id="725758059478686223">인쇄 서비스</translation>
 <translation id="15662109988763471">선택한 프린터가 사용 불가능하거나 올바르게 설치되어 있지 않습니다. 프린터를 확인하거나 다른 프린터를 선택해 보세요.</translation>
@@ -4918,7 +4918,7 @@
 <translation id="7574650250151586813">텍스트를 입력하려면 Daydream 키보드 앱을 업데이트하세요.</translation>
 <translation id="983511809958454316">이 기능은 VR에서 지원되지 않습니다</translation>
 <translation id="4008291085758151621">VR에서 사이트 정보를 사용할 수 없습니다</translation>
-<translation id="1439926347196400598">Dissenter에서 오디오를 녹음하도록 허용하시겠습니까?</translation>
+<translation id="1439926347196400598">Fulldive에서 오디오를 녹음하도록 허용하시겠습니까?</translation>
 <translation id="6313641880021325787">VR 종료</translation>
 <translation id="2670429602441959756">이 페이지에는 아직 VR에서 지원되지 않는 기능이 있습니다. 종료합니다...</translation>
 <translation id="1802687198411089702">페이지가 응답하지 않습니다. 페이지가 응답할 때까지 기다리거나 종료할 수 있습니다.</translation>
@@ -4940,7 +4940,7 @@
 <translation id="1721312023322545264">이 사이트를 방문하려면 <ph name="NAME"/>님으로부터 권한을 받아야 합니다.</translation>
 <translation id="7543525346216957623">부모님께 물어보세요.</translation>
 <translation id="471880041731876836">이 사이트에 방문할 수 있는 권한이 없습니다.</translation>
-<translation id="3480834636742786788">이 앱을 사용하기 전에 Dissenter을 시작하고 로그인하세요.</translation>
+<translation id="3480834636742786788">이 앱을 사용하기 전에 Fulldive을 시작하고 로그인하세요.</translation>
 <translation id="2851634818064021665">이 사이트에 방문하려면 권한이 필요합니다.</translation>
 <translation id="4933782374919065856">질문이 있으신가요? 프로필 관리자에게 문의하세요.</translation>
 <translation id="2712173769900027643">권한 요청</translation>
@@ -4960,7 +4960,7 @@
 <translation id="7755287808199759310">부모님이 차단 해제할 수 있습니다.</translation>
 <translation id="5732392974455271431">부모님이 차단 해제할 수 있습니다.</translation>
 <translation id="3556433843310711081">관리자가 차단 해제할 수 있습니다.</translation>
-<translation id="1254756632288991504">이 사이트에 액세스할 수 있는지 확인할 수 있도록 Dissenter을 시작하고 로그인하세요.</translation>
+<translation id="1254756632288991504">이 사이트에 액세스할 수 있는지 확인할 수 있도록 Fulldive을 시작하고 로그인하세요.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/>이(가) 일시중지됨</translation>
 <translation id="8015163965024115122">부모님이 설정한 <ph name="IDS_SHORT_PRODUCT_NAME"/> 또는 <ph name="IDS_SHORT_PRODUCT_NAME"/> 앱 이용 시간제한에 도달했습니다.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/>이(가) 일시중지됨</translation>

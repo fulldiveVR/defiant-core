@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Usuń</translation>
 <translation id="144283815522798837">Wybrane elementy: <ph name="NUMBER_OF_ITEMS_SELECTED"/></translation>
 <translation id="5582839680698949063">Menu główne</translation>
-<translation id="3700405816184340252">Historia Dissenter</translation>
+<translation id="3700405816184340252">Historia Fulldive</translation>
 <translation id="7602079150116086782">Brak kart z innych urządzeń</translation>
 <translation id="4619615317237390068">Karty z innych urządzeń</translation>
-<translation id="82609232232243542">Zaloguj się w Dissenter</translation>
+<translation id="82609232232243542">Zaloguj się w Fulldive</translation>
 <translation id="4627442949885028695">Kontynuuj z innego urządzenia</translation>
-<translation id="7253276740368043692">Aby korzystać z kart ze swoich innych urządzeń, zaloguj się w Dissenter.</translation>
+<translation id="7253276740368043692">Aby korzystać z kart ze swoich innych urządzeń, zaloguj się w Fulldive.</translation>
 <translation id="6351063337294363751">Używając tego menu, możesz wyczyścić dane przeglądania</translation>
 <translation id="6040143037577758943">Zamknij</translation>
 <translation id="6463795194797719782">&amp;Edycja</translation>
@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">Brak wyników wyszukiwania</translation>
 <translation id="8967866634928501045">Naciśnij Alt+Shift+A, by wyświetlić</translation>
 <translation id="998747458861718449">&amp;Zbadaj</translation>
-<translation id="4428301600092811022">Pobierać opisy obrazów z Dissenter?</translation>
+<translation id="4428301600092811022">Pobierać opisy obrazów z Fulldive?</translation>
 <translation id="741204030948306876">Tak, wchodzę w to</translation>
 <translation id="780301667611848630">Nie, dziękuję</translation>
 <translation id="3943582379552582368">&amp;Wstecz</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">&amp;Wklej</translation>
 <translation id="2218515861914035131">Wklej jako zwykły tekst</translation>
 <translation id="1017280919048282932">&amp;Dodaj do słownika</translation>
-<translation id="1732768497619250086">Pobieraj opisy obrazów z Dissenter</translation>
+<translation id="1732768497619250086">Pobieraj opisy obrazów z Fulldive</translation>
 <translation id="7561196759112975576">Zawsze</translation>
 <translation id="2241634353105152135">Tylko raz</translation>
 <translation id="3387614642886316601">Używaj ulepszonego sprawdzania pisowni</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">Włącz</translation>
 <translation id="7658239707568436148">Anuluj</translation>
 <translation id="8915370057835397490">Ładuję sugestie</translation>
-<translation id="6191804255817539692">Nie pokazuj sugestii od Dissenter</translation>
+<translation id="6191804255817539692">Nie pokazuj sugestii od Fulldive</translation>
 <translation id="1901303067676059328">Zaznacz &amp;wszystko</translation>
 <translation id="3797900183766075808">Wy&amp;szukaj „<ph name="SEARCH_TERMS"/>” w <ph name="SEARCH_ENGINE"/></translation>
 <translation id="2721037002783622288">&amp;Szukaj obrazu w <ph name="SEARCH_ENGINE"/></translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">&amp;Wklej</translation>
 <translation id="1815083418640426271">Wklej jako zwykły tekst</translation>
 <translation id="4022426551683927403">&amp;Dodaj do słownika</translation>
-<translation id="6849870115130610913">Zdobądź opis grafiki z Dissenter</translation>
+<translation id="6849870115130610913">Zdobądź opis grafiki z Fulldive</translation>
 <translation id="372722114124766626">Tylko raz</translation>
 <translation id="4079140982534148664">Używaj ulepszonego sprawdzania pisowni</translation>
 <translation id="7487141338393529395">Włączanie ulepszonego sprawdzania pisowni</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Ustawienia...</translation>
 <translation id="5801568494490449797">Preferencje</translation>
 <translation id="3677911431265050325">Otwórz stronę mobilną</translation>
-<translation id="236470849334943016">31 marca zmienią się Warunki korzystania z Dissenter</translation>
+<translation id="236470849334943016">31 marca zmienią się Warunki korzystania z Fulldive</translation>
 <translation id="1032605640136438169">Zapoznaj się z ich nową wersją</translation>
 <translation id="8712637175834984815">Rozumiem</translation>
 <translation id="5007392906805964215">Przegląd</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">Wyjście</translation>
 <translation id="7376221878517288144">Wyjść z trybu prywatnego i tak?</translation>
 <translation id="973473557718930265">Zakończ</translation>
-<translation id="7707599169365957976">Możesz pomóc w ulepszaniu Bezpiecznego przeglądania, wysyłając do Dissenter pewne informacje o systemie i część zawartości stron.</translation>
+<translation id="7707599169365957976">Możesz pomóc w ulepszaniu Bezpiecznego przeglądania, wysyłając do Fulldive pewne informacje o systemie i część zawartości stron.</translation>
 <translation id="4923279099980110923">Tak, chcę pomóc</translation>
 <translation id="2316129865977710310">Nie, dziękuję</translation>
 <translation id="9169931577761441333">Dodaj aplikację <ph name="APP_NAME"/> do ekranu głównego</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Uruchom ponownie</translation>
 <translation id="3479552764303398839">Nie teraz</translation>
 <translation id="1008557486741366299">Nie teraz</translation>
-<translation id="8201192017531062522">Przeglądarka będzie działać, dopóki są uruchomione aplikacje Dissenter.</translation>
-<translation id="7397305826909094212">Zamknij wszystkie aplikacje Dissenter</translation>
+<translation id="8201192017531062522">Przeglądarka będzie działać, dopóki są uruchomione aplikacje Fulldive.</translation>
+<translation id="7397305826909094212">Zamknij wszystkie aplikacje Fulldive</translation>
 <translation id="5026874946691314267">Nie pokazuj więcej tego komunikatu</translation>
 <translation id="91568222606626347">Utwórz skrót...</translation>
 <translation id="2783321960289401138">Utwórz skrót...</translation>
@@ -820,17 +820,17 @@
 <translation id="5799508265798272974">Linuksowa maszyna wirtualna: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Maszyna wirtualna wtyczki: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">Parser IPP</translation>
-<translation id="7171242884588191792">Narzędzia do plików w Dissenter</translation>
+<translation id="7171242884588191792">Narzędzia do plików w Fulldive</translation>
 <translation id="3183139917765991655">Importer profilów</translation>
 <translation id="7367714965999718019">Generator kodów QR</translation>
 <translation id="2190069059097339078">Program do pobierania danych logowania do Wi-Fi</translation>
-<translation id="5920835625712313205">Program do zapisu obrazu systemu operacyjnego Dissenter</translation>
+<translation id="5920835625712313205">Program do zapisu obrazu systemu operacyjnego Fulldive</translation>
 <translation id="4873312501243535625">Kontroler plików multimedialnych</translation>
 <translation id="5972666587303800813">Usługa w środowisku bezobsługowym</translation>
 <translation id="1545775234664667895">Zainstalowano motyw „<ph name="THEME_NAME"/>”</translation>
 <translation id="2256115617011615191">Uruchom ponownie teraz</translation>
 <translation id="4545028762441890696">Aby ponownie je włączyć, zaakceptuj nowe uprawnienia:</translation>
-<translation id="3009487527589249344">Dissenter uznaje rozszerzenie „<ph name="EXTENSION_NAME"/>” za złośliwe, dlatego nie dopuściliśmy do jego zainstalowania</translation>
+<translation id="3009487527589249344">Fulldive uznaje rozszerzenie „<ph name="EXTENSION_NAME"/>” za złośliwe, dlatego nie dopuściliśmy do jego zainstalowania</translation>
 <translation id="6790497603648687708">Dodano zdalnie: <ph name="EXTENSION_NAME"/></translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> – wyłączono</translation>
 <translation id="595959584676692139">Aby użyć tego rozszerzenia, załaduj ponownie stronę</translation>
@@ -851,14 +851,14 @@
 <translation id="3507421388498836150">Obecne uprawnienia rozszerzenia „<ph name="EXTENSION_NAME"/>”</translation>
 <translation id="5242724311594467048">Włączyć rozszerzenie „<ph name="EXTENSION_NAME"/>”?</translation>
 <translation id="4014432863917027322">Naprawić „<ph name="EXTENSION_NAME"/>”?</translation>
-<translation id="5173189340601754836">Inny program na Twoim komputerze dodał aplikację, która może zmieniać sposób działania Dissenter.
+<translation id="5173189340601754836">Inny program na Twoim komputerze dodał aplikację, która może zmieniać sposób działania Fulldive.
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Inny program na Twoim komputerze dodał rozszerzenie, które może zmieniać sposób działania Dissenter.
+<translation id="6654312501894761082">Inny program na Twoim komputerze dodał rozszerzenie, które może zmieniać sposób działania Fulldive.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Inny program na Twoim komputerze dodał motyw, który może zmieniać sposób działania Dissenter.
+<translation id="3225882094369124157">Inny program na Twoim komputerze dodał motyw, który może zmieniać sposób działania Fulldive.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Włącz rozszerzenie</translation>
@@ -867,7 +867,7 @@
 <translation id="3908501907586732282">Włącz rozszerzenie</translation>
 <translation id="2327492829706409234">Włącz aplikację</translation>
 <translation id="175772926354468439">Włącz motyw</translation>
-<translation id="5267531627648004734">Usuń z Dissenter</translation>
+<translation id="5267531627648004734">Usuń z Fulldive</translation>
 <translation id="4998873842614926205">Potwierdź zmiany</translation>
 <translation id="1799071797295057738">Rozszerzenie „<ph name="EXTENSION_NAME"/>” zostało automatycznie wyłączone.</translation>
 <translation id="5238278114306905396">Aplikacja „<ph name="EXTENSION_NAME"/>” została automatycznie usunięta.</translation>
@@ -1003,7 +1003,7 @@
 <translation id="1616298854599875024">Nie można zaimportować rozszerzenia „<ph name="IMPORT_NAME"/>”, ponieważ nie jest to moduł udostępniany</translation>
 <translation id="2131077480075264">Nie można zainstalować elementu „<ph name="APP_NAME"/>”, bo nie zezwala na to element „<ph name="IMPORT_NAME"/>”</translation>
 <translation id="1875387611427697908">Możesz to pobrać tylko z <ph name="CHROME_WEB_STORE"/></translation>
-<translation id="3862788408946266506">Aplikację z atrybutem „kiosk_only” w pliku manifestu należy zainstalować w Dissenter OS w trybie kiosku</translation>
+<translation id="3862788408946266506">Aplikację z atrybutem „kiosk_only” w pliku manifestu należy zainstalować w Fulldive OS w trybie kiosku</translation>
 <translation id="3834775135533257713">Nie udało się dodać aplikacji „<ph name="TO_INSTALL_APP_NAME"/>”, bo występuje konflikt z aplikacją „<ph name="INSTALLED_APP_NAME"/>”.</translation>
 <translation id="144518587530125858">Nie można wczytać ścieżki „<ph name="IMAGE_PATH"/>” dla motywu.</translation>
 <translation id="3576324189521867626">Zainstalowano</translation>
@@ -1106,9 +1106,9 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6101226222197207147">Dodano nową aplikację (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">Dodano nowy motyw (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">Dodano „<ph name="EXTENSION_NAME"/>”</translation>
-<translation id="6637045053447935202">Inny program na Twoim komputerze dodał aplikację, która może zmienić działanie Dissenter.</translation>
-<translation id="2015014930243978107">Inny program na Twoim komputerze dodał rozszerzenie, które może zmienić działanie Dissenter.</translation>
-<translation id="2060128809251156338">Inny program na Twoim komputerze dodał motyw, który może zmienić działanie Dissenter.</translation>
+<translation id="6637045053447935202">Inny program na Twoim komputerze dodał aplikację, która może zmienić działanie Fulldive.</translation>
+<translation id="2015014930243978107">Inny program na Twoim komputerze dodał rozszerzenie, które może zmienić działanie Fulldive.</translation>
+<translation id="2060128809251156338">Inny program na Twoim komputerze dodał motyw, który może zmienić działanie Fulldive.</translation>
 <translation id="2470702053775288986">Wyłączono nieobsługiwane rozszerzenia</translation>
 <translation id="2809586584051668049">i jeszcze <ph name="NUMBER_ADDITIONAL_DISABLED"/></translation>
 <translation id="5301954838959518834">Rozumiem</translation>
@@ -1181,7 +1181,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="8756969031206844760">Zaktualizować hasło?</translation>
 <translation id="8230134520748321204">Zapisać hasło do: <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">Zaktualizować hasło do: <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Hasła są zapisywane na Twoim koncie Dissenter, dzięki czemu możesz ich używać na dowolnym urządzeniu</translation>
+<translation id="8284000761603848448">Hasła są zapisywane na Twoim koncie Fulldive, dzięki czemu możesz ich używać na dowolnym urządzeniu</translation>
 <translation id="8286036467436129157">Zaloguj się</translation>
 <translation id="8009225694047762179">Zarządzaj hasłami</translation>
 <translation id="3950820424414687140">Zaloguj się</translation>
@@ -1189,10 +1189,10 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="328571385944182268">Zapisywać Twoje hasła?</translation>
 <translation id="3753033997400164841">Zapisz raz – używaj w dowolnym miejscu</translation>
 <translation id="1703331064825191675">Nie musisz się już martwić o bezpieczeństwo swoich haseł</translation>
-<translation id="2341030170677284705">Możesz bezpiecznie zapisać hasła na swoim koncie Dissenter, by w przyszłości nie musieć ich wpisywać</translation>
-<translation id="3913985461352963178">Miej dostęp do swoich haseł zawsze wtedy, gdy zalogujesz się na swoje konto Dissenter</translation>
-<translation id="4851124464356820177">Aby zapisywać hasła na swoim koncie Dissenter, zaloguj się i włącz synchronizację.</translation>
-<translation id="3229869963989850535">Aby zapisywać hasła na swoim koncie Dissenter, włącz synchronizację.</translation>
+<translation id="2341030170677284705">Możesz bezpiecznie zapisać hasła na swoim koncie Fulldive, by w przyszłości nie musieć ich wpisywać</translation>
+<translation id="3913985461352963178">Miej dostęp do swoich haseł zawsze wtedy, gdy zalogujesz się na swoje konto Fulldive</translation>
+<translation id="4851124464356820177">Aby zapisywać hasła na swoim koncie Fulldive, zaloguj się i włącz synchronizację.</translation>
+<translation id="3229869963989850535">Aby zapisywać hasła na swoim koncie Fulldive, włącz synchronizację.</translation>
 <translation id="1056466516655540509">Zaktualizowano <ph name="MINUTES"/> min temu</translation>
 <translation id="8743864605301774756">Zaktualizowano przed godziną</translation>
 <translation id="7363117941401515667">Zaktualizowano <ph name="HOURS"/> godz. temu</translation>
@@ -1296,9 +1296,9 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="1246905108078336582">Usunąć podpowiedź ze schowka?</translation>
 <translation id="825238165904109940">Zawsze pokazuj całe adresy URL</translation>
 <translation id="3416468988018290825">Zawsze pokazuj całe adresy URL</translation>
-<translation id="2129873093718581193">Wyszukaj w Dissenter lub wpisz URL</translation>
-<translation id="6363797201514053536">Wyszukaj w Dissenter lub wpisz URL</translation>
-<translation id="4888839742663123585">Szukaj w Dissenter</translation>
+<translation id="2129873093718581193">Wyszukaj w Fulldive lub wpisz URL</translation>
+<translation id="6363797201514053536">Wyszukaj w Fulldive lub wpisz URL</translation>
+<translation id="4888839742663123585">Szukaj w Fulldive</translation>
 <translation id="6078323886959318429">Dodaj skrót</translation>
 <translation id="6324916366299863871">Edytuj skrót</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1313,7 +1313,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="8017679124341497925">Skrót był edytowany</translation>
 <translation id="1174073918202301297">Skrót został dodany</translation>
 <translation id="2926085873880284723">Przywróć domyślne skróty</translation>
-<translation id="5801450813341024983">Tła Dissenter</translation>
+<translation id="5801450813341024983">Tła Fulldive</translation>
 <translation id="2800760947029405028">Prześlij obraz</translation>
 <translation id="8342861492835240085">Wybierz kolekcję</translation>
 <translation id="3132996321662585180">Odświeżaj codziennie</translation>
@@ -1400,7 +1400,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="833986336429795709">Aby otworzyć ten link, wybierz aplikację</translation>
 <translation id="192494336144674234">Otwórz za pomocą</translation>
 <translation id="9053893665344928494">Zapamiętaj mój wybór</translation>
-<translation id="5340857474604400806">Zostań w Dissenter</translation>
+<translation id="5340857474604400806">Zostań w Fulldive</translation>
 <translation id="3043581297103810752">Ze strony <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Prywatny)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (gość)</translation>
@@ -1461,8 +1461,8 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6686817083349815241">Zapisz hasło</translation>
 <translation id="8141725884565838206">Zarządzaj hasłami</translation>
 <translation id="8275038454117074363">Import</translation>
-<translation id="3191314862567596053">Importowanie haseł do Dissenter</translation>
-<translation id="6368144843345980623">Eksportowanie haseł z Dissenter</translation>
+<translation id="3191314862567596053">Importowanie haseł do Fulldive</translation>
+<translation id="6368144843345980623">Eksportowanie haseł z Fulldive</translation>
 <translation id="8503813439785031346">Nazwa użytkownika</translation>
 <translation id="6657585470893396449">Hasło</translation>
 <translation id="5472627187093107397">Zapisuj hasła używane na tej stronie</translation>
@@ -1491,34 +1491,34 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6076448957780543068">Dołącz ten zrzut ekranu</translation>
 <translation id="2865919525181940183">Zrzut ekranu z widocznymi na nim teraz programami</translation>
 <translation id="7052237160939977163">Wyślij dane śledzenia wydajności</translation>
-<translation id="5526928694260255286">Dołącz <ph name="BEGIN_LINK"/>dzienniki Bluetooth<ph name="END_LINK"/> (na użytek wewnętrzny Dissenter)</translation>
+<translation id="5526928694260255286">Dołącz <ph name="BEGIN_LINK"/>dzienniki Bluetooth<ph name="END_LINK"/> (na użytek wewnętrzny Fulldive)</translation>
 <translation id="3047644958362961983">Te informacje pomogą nam lepiej zrozumieć naturę Twojego problemu z Asystentem. Są one przechowywane przez 90 dni, a dostęp do nich mają wyłącznie członkowie odpowiednich zespołów technicznych i pracownicy zajmujący się opiniami użytkowników.</translation>
-<translation id="8545590844135745781">Aby lepiej diagnozować problemy z Bluetoothem, pracownicy Gab AI Inc mogą dołączać do raportów z opiniami dodatkowe dzienniki dotyczące działania Bluetootha. Jeśli ta opcja jest zaznaczona, Twój raport będzie zawierał dzienniki btsnoop i HCI z bieżącej sesji, przy czym zostanie usuniętych możliwie najwięcej informacji umożliwiających identyfikację. Dostęp do tych dzienników zostanie ograniczony do menedżerów grupy produktów Dissenter OS w Listnr. Dzienniki zostaną usunięte po 90 dniach.</translation>
+<translation id="8545590844135745781">Aby lepiej diagnozować problemy z Bluetoothem, pracownicy Gab AI Inc mogą dołączać do raportów z opiniami dodatkowe dzienniki dotyczące działania Bluetootha. Jeśli ta opcja jest zaznaczona, Twój raport będzie zawierał dzienniki btsnoop i HCI z bieżącej sesji, przy czym zostanie usuniętych możliwie najwięcej informacji umożliwiających identyfikację. Dostęp do tych dzienników zostanie ograniczony do menedżerów grupy produktów Fulldive OS w Listnr. Dzienniki zostaną usunięte po 90 dniach.</translation>
 <translation id="4206323443866416204">Przesyłanie opinii</translation>
 <translation id="3681311097828166361">Dziękujemy za opinię. Jesteś teraz offline, więc Twoje zgłoszenie zostanie wysłane później.</translation>
 <translation id="8713570323158206935">Wyślij <ph name="BEGIN_LINK1"/>informacje o systemie<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962">Przesyłaj <ph name="BEGIN_LINK1"/>informacje o systemie<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dane<ph name="END_LINK2"/></translation>
 <translation id="6270770586500173387">Wysyłaj <ph name="BEGIN_LINK1"/>informacje o systemie i aplikacjach<ph name="END_LINK1"/> oraz <ph name="BEGIN_LINK2"/>dane<ph name="END_LINK2"/></translation>
 <translation id="3894123633473837029">Dołącz najnowszą historię Asystenta przez Sherlog. Może to obejmować Twoją tożsamość, lokalizację i informacje o debugowaniu. <ph name="BEGIN_LINK">&lt;a href="#" id="assistant-logs-info-link"&gt;</ph>Dowiedz się więcej<ph name="END_LINK">&lt;/a&gt;</ph></translation>
-<translation id="8329196515830093443">Plik zostanie wysłany do Dissenter w celu debugowania</translation>
+<translation id="8329196515830093443">Plik zostanie wysłany do Fulldive w celu debugowania</translation>
 <translation id="8227119283605456246">Załącz plik</translation>
 <translation id="5367091008316207019">Odczytuję plik..</translation>
 <translation id="2554553592469060349">Wybrany plik jest za duży (maksymalny rozmiar: 3 MB).</translation>
 <translation id="4690091457710545971">&lt;Cztery pliki wygenerowane przez oprogramowanie układowe Wi-Fi firmy Intel: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon. Pierwsze trzy to pliki binarne zawierające zrzuty rejestru. Intel twierdzi, że nie zawierają żadnych danych umożliwiających identyfikację osoby lub urządzenia. Ostatni plik zawiera ślad wykonywania oprogramowania układowego firmy Intel. Wszelkie dane umożliwiające identyfikację osoby lub urządzenia zostały z niego usunięte, ale jest zbyt duży, by go tu wyświetlić. Te pliki zostały wygenerowane w reakcji na niedawne problemy z Wi-Fi na Twoim urządzeniu i zostaną przekazane firmie Intel, by pomóc w rozwiązaniu tych problemów.&gt;</translation>
-<translation id="6972420083546794501">Aby poprosić o zmianę treści ze względów prawnych, otwórz <ph name="BEGIN_LINK1"/>stronę pomocy prawnej<ph name="END_LINK1"/>. Niektóre informacje o koncie i systemie mogą zostać przesłane do Dissenter. Użyjemy tych informacji podczas rozwiązywania problemów technicznych i ulepszania naszych usług, zgodnie z naszą <ph name="BEGIN_LINK2"/>Polityką prywatności<ph name="END_LINK2"/> i <ph name="BEGIN_LINK3"/>Warunkami korzystania z usług<ph name="END_LINK3"/>.</translation>
+<translation id="6972420083546794501">Aby poprosić o zmianę treści ze względów prawnych, otwórz <ph name="BEGIN_LINK1"/>stronę pomocy prawnej<ph name="END_LINK1"/>. Niektóre informacje o koncie i systemie mogą zostać przesłane do Fulldive. Użyjemy tych informacji podczas rozwiązywania problemów technicznych i ulepszania naszych usług, zgodnie z naszą <ph name="BEGIN_LINK2"/>Polityką prywatności<ph name="END_LINK2"/> i <ph name="BEGIN_LINK3"/>Warunkami korzystania z usług<ph name="END_LINK3"/>.</translation>
 <translation id="7915471803647590281">Zanim wyślesz opinię, powiedz nam, co się dzieje.</translation>
 <translation id="6885771755599377173">Podgląd informacji o systemie</translation>
 <translation id="1016566241875885511">Dodatkowe informacje (opcjonalnie)</translation>
 <translation id="8026334261755873520">Wyczyść dane przeglądania</translation>
-<translation id="4718442817388594217">Wybrane dane zostały usunięte z Dissenter i synchronizowanych urządzeń. Inne rodzaje historii przeglądania, takie jak wyszukiwania i aktywność w innych usługach Dissenter, mogą być nadal dostępne na Twoim koncie Dissenter na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="7814200940910057384">Wyczyszczono dane Dissenter</translation>
+<translation id="4718442817388594217">Wybrane dane zostały usunięte z Fulldive i synchronizowanych urządzeń. Inne rodzaje historii przeglądania, takie jak wyszukiwania i aktywność w innych usługach Fulldive, mogą być nadal dostępne na Twoim koncie Fulldive na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="7814200940910057384">Wyczyszczono dane Fulldive</translation>
 <translation id="7346909386216857016">Rozumiem</translation>
 <translation id="8493236660459102203">Mikrofon:</translation>
 <translation id="3925573269917483990">Kamera:</translation>
 <translation id="648927581764831596">Brak dostępnych</translation>
 <translation id="4172051516777682613">Zawsze pokazuj</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Zablokowano wyskakujące okienko}few{Zablokowano # wyskakujące okienka}many{Zablokowano # wyskakujących okienek}other{Zablokowano # wyskakującego okienka}}</translation>
-<translation id="4156865452842056672">(Strony błędów Dissenter)</translation>
+<translation id="4156865452842056672">(Strony błędów Fulldive)</translation>
 <translation id="1734824808160898225">Program <ph name="PRODUCT_NAME"/> może nie móc sam się aktualizować</translation>
 <translation id="8590375307970699841">Skonfiguruj aktualizacje automatyczne</translation>
 <translation id="8926389886865778422">Nie pytaj ponownie</translation>
@@ -1533,7 +1533,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="284805635805850872">Usunąć szkodliwe oprogramowanie?</translation>
 <translation id="489985760463306091">Aby ukończyć usuwanie szkodliwego oprogramowania, uruchom ponownie komputer</translation>
 <translation id="7598466960084663009">Uruchom ponownie komputer</translation>
-<translation id="2819091349626575960">Przesyłaj do Dissenter szczegółowe informacje</translation>
+<translation id="2819091349626575960">Przesyłaj do Fulldive szczegółowe informacje</translation>
 <translation id="4099060993766194518">Przywrócić domyślną wyszukiwarkę?</translation>
 <translation id="138784436342154190">Przywrócić domyślną stronę startową?</translation>
 <translation id="5086874064903147617">Przywrócić domyślną stronę główną?</translation>
@@ -1623,10 +1623,10 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="8658645149275195032"><ph name="APP_NAME"/> udostępnia ekran i dźwięk karcie <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> udostępnia okno.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> udostępnia okno karcie <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> udostępnia kartę Dissenter.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> udostępnia kartę Dissenter karcie <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> udostępnia kartę i dźwięk z Dissenter.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> udostępnia kartę i dźwięk z Dissenter karcie <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> udostępnia kartę Fulldive.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> udostępnia kartę Fulldive karcie <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> udostępnia kartę i dźwięk z Fulldive.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> udostępnia kartę i dźwięk z Fulldive karcie <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">Ukryj</translation>
 <translation id="890616557918890486">Zmień źródło</translation>
 <translation id="7792388396321542707">Zatrzymaj udostępnianie</translation>
@@ -1646,10 +1646,10 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="9079153198295609735">Automatycznie przesyłaj do Gab AI Inc statystyki użytkowania i raporty o awariach</translation>
 <translation id="7136984461011502314">Witamy w przeglądarce <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690">Przeglądarka <ph name="PRODUCT_NAME"/> jest gotowa do ukończenia instalacji.</translation>
-<translation id="4711067597921221305">Pomóż ulepszyć <ph name="PRODUCT_NAME"/>, przesyłając do Dissenter statystyki użytkowania i raporty o awariach</translation>
+<translation id="4711067597921221305">Pomóż ulepszyć <ph name="PRODUCT_NAME"/>, przesyłając do Fulldive statystyki użytkowania i raporty o awariach</translation>
 <translation id="5972826969634861500">Uruchom przeglądarkę <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Pomóż naszym inżynierom zbadać i naprawić tę awarię. Jeśli możesz, dokładnie opisz poszczególne czynności. Każdy szczegół jest ważny.</translation>
-<translation id="5418694430960033386">W przeglądarce Dissenter zabrakło pamięci albo proces strony internetowej został zakończony z innego powodu. Aby kontynuować, załaduj stronę ponownie lub przejdź do innej strony.</translation>
+<translation id="5418694430960033386">W przeglądarce Fulldive zabrakło pamięci albo proces strony internetowej został zakończony z innego powodu. Aby kontynuować, załaduj stronę ponownie lub przejdź do innej strony.</translation>
 <translation id="3065041951436100775">Informacje o zakończeniu działania karty.</translation>
 <translation id="3941565636838060942">Aby ukryć dostęp do tej aplikacji, musisz odinstalować ją,
   używając apletu <ph name="CONTROL_PANEL_APPLET_NAME"/> w Panelu sterowania.
@@ -1677,10 +1677,10 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="4980805016576257426">To rozszerzenie zawiera złośliwe oprogramowanie.</translation>
 <translation id="5522156646677899028">To rozszerzenie zawiera poważną lukę w zabezpieczeniach.</translation>
 <translation id="6945695820322143954">To rozszerzenie narusza politykę Web Store.</translation>
-<translation id="177808131755847449">Wyłączone przez Dissenter. To rozszerzenie może być niebezpieczne.</translation>
+<translation id="177808131755847449">Wyłączone przez Fulldive. To rozszerzenie może być niebezpieczne.</translation>
 <translation id="1434696352799406980">Spowoduje to zresetowanie Twojej strony startowej, strony nowej karty, wyszukiwarki i przypiętych kart. Oprócz tego przeglądarka wyłączy wszystkie rozszerzenia i usunie dane tymczasowe takie jak pliki cookie. Twoje zakładki, historia i zapisane hasła nie zostaną usunięte.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> chce zresetować Twoje ustawienia.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> chce przywrócić ustawienia Dissenter do wartości domyślnych. Spowoduje to zresetowanie strony głównej, strony nowej karty i wyszukiwarki oraz wyłączenie rozszerzeń i odpięcie wszystkich kart. Zostaną też wyczyszczone dane tymczasowe i znajdujące się w pamięci podręcznej – w tym pliki cookie oraz treści i dane stron.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> chce przywrócić ustawienia Fulldive do wartości domyślnych. Spowoduje to zresetowanie strony głównej, strony nowej karty i wyszukiwarki oraz wyłączenie rozszerzeń i odpięcie wszystkich kart. Zostaną też wyczyszczone dane tymczasowe i znajdujące się w pamięci podręcznej – w tym pliki cookie oraz treści i dane stron.</translation>
 <translation id="7581462281756524039">Narzędzie do czyszczenia</translation>
 <translation id="1233721473400465416">Ustawienia lokalne</translation>
 <translation id="2907619724991574506">Startowe adresy URL</translation>
@@ -1693,7 +1693,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="7063129466199351735">Przetwarzam skróty...</translation>
 <translation id="8987927404178983737">Miesiąc</translation>
 <translation id="6015796118275082299">Rok</translation>
-<translation id="5152275065296016556">Dissenter Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Użyj systemowego paska tytułu i ramek</translation>
 <translation id="3293644607209440645">Wyślij tę stronę</translation>
 <translation id="1521774566618522728">Aktywność: dzisiaj</translation>
@@ -1747,7 +1747,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="8930351635855238750">Nowe ustawienia plików cookie zostaną zastosowane po ponownym załadowaniu strony</translation>
 <translation id="2568774940984945469">Kontener paska informacji</translation>
 <translation id="7282992757463864530">Pasek informacyjny</translation>
-<translation id="1805077115206898822">Zakładki, historia i ustawienia są synchronizowane z Twoim kontem Dissenter.</translation>
+<translation id="1805077115206898822">Zakładki, historia i ustawienia są synchronizowane z Twoim kontem Fulldive.</translation>
 <translation id="1974060860693918893">Zaawansowane</translation>
 <translation id="2445484935443597917">Utwórz nowy profil</translation>
 <translation id="2606246518223360146">Połącz dane</translation>
@@ -1834,7 +1834,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6387674443318562538">Podziel pionowo</translation>
 <translation id="1231733316453485619">Włączyć synchronizację?</translation>
 <translation id="4736292055110123391">Synchronizuj zakładki, hasła, historię i inne dane na wszystkich Twoich urządzeniach</translation>
-<translation id="5736731321935944068">Dissenter może wykorzystać Twoją historię do personalizacji wyszukiwania, reklam i innych usług Dissenter</translation>
+<translation id="5736731321935944068">Fulldive może wykorzystać Twoją historię do personalizacji wyszukiwania, reklam i innych usług Fulldive</translation>
 <translation id="4201546031411513170">Możesz zawsze wybrać w ustawieniach co chcesz synchronizować.</translation>
 <translation id="2497852260688568942">Synchronizację wyłączył administrator</translation>
 <translation id="562935524653278697">Synchronizację zakładek, historii, haseł i innych ustawień wyłączył administrator.</translation>
@@ -1874,7 +1874,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6664774537677393800">Podczas otwierania Twojego profilu coś poszło nie tak. Wyloguj się i ponownie zaloguj.</translation>
 <translation id="1794791083288629568">Wyślij opinię, by pomóc nam rozwiązać ten problem.</translation>
 <translation id="8234795456569844941">Pomóż naszym inżynierom rozwiązać ten problem. Powiedz nam, co się działo tuż przed wyświetleniem się komunikatu o błędzie profilu:</translation>
-<translation id="6500340165622970282">Nie można uruchomić Dissenter – coś poszło nie tak podczas otwierania Twojego profilu. Spróbuj jeszcze raz uruchomić Dissenter.</translation>
+<translation id="6500340165622970282">Nie można uruchomić Fulldive – coś poszło nie tak podczas otwierania Twojego profilu. Spróbuj jeszcze raz uruchomić Fulldive.</translation>
 <translation id="6812349420832218321">Przeglądarki <ph name="PRODUCT_NAME"/> nie możesz uruchamiać jako użytkownik root.</translation>
 <translation id="2292848386125228270">Uruchom <ph name="PRODUCT_NAME"/> jako normalny użytkownik. Jeśli jesteś programistą i chcesz skorzystać z konta roota, uruchom program jeszcze raz z flagą --no-sandbox.</translation>
 <translation id="7547317915858803630">Ostrzeżenie: Twoje ustawienia <ph name="PRODUCT_NAME"/> są zapisywane na dysku sieciowym. Może to spowalniać działanie, powodować awarie, a nawet doprowadzić do utraty danych.</translation>
@@ -1913,10 +1913,10 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6198102561359457428">Wyloguj się i ponownie zaloguj</translation>
 <translation id="4634771451598206121">Zaloguj się ponownie</translation>
 <translation id="7117247127439884114">Zaloguj się ponownie</translation>
-<translation id="4251909665067750757">Zaloguj się, by korzystać ze swoich zakładek, historii, haseł i innych ustawień na wszystkich urządzeniach. Będziesz też automatycznie logować się do usług Dissenter, których używasz.</translation>
+<translation id="4251909665067750757">Zaloguj się, by korzystać ze swoich zakładek, historii, haseł i innych ustawień na wszystkich urządzeniach. Będziesz też automatycznie logować się do usług Fulldive, których używasz.</translation>
 <translation id="2749756011735116528">Zaloguj się w <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Synchronizację wyłączył administrator.</translation>
-<translation id="5462539695964427820">Synchronizacja została zatrzymana przez Panel Dissenter.</translation>
+<translation id="5462539695964427820">Synchronizacja została zatrzymana przez Panel Fulldive.</translation>
 <translation id="8805140816472474147">Potwierdź ustawienia synchronizacji, by ją rozpocząć.</translation>
 <translation id="5771816112378578655">Trwa konfigurowanie...</translation>
 <translation id="3492788708641132712">Synchronizacja nie działa. Spróbuj zalogować się ponownie.</translation>
@@ -1930,16 +1930,16 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="1877520246462554164">Nie udało się uzyskać tokena uwierzytelnienia. Wyloguj się, a potem zaloguj się jeszcze raz, by ponowić próbę.</translation>
 <translation id="9100765901046053179">Ustawienia zaawansowane</translation>
 <translation id="2731700343119398978">Czekaj...</translation>
-<translation id="7218743184834293955">Dane są szyfrowane Twoim hasłem synchronizacji. Nie obejmuje to form płatności ani adresów w Dissenter Pay.</translation>
+<translation id="7218743184834293955">Dane są szyfrowane Twoim hasłem synchronizacji. Nie obejmuje to form płatności ani adresów w Fulldive Pay.</translation>
 <translation id="7158251077901880179">Dane zostały zaszyfrowane Twoim hasłem synchronizacji w dniu <ph name="TIME"/>.
-          Nie obejmuje to form płatności ani adresów w Dissenter Pay.</translation>
-<translation id="1171389789873508468">Dane zostały zaszyfrowane Twoim hasłem Dissenter z <ph name="TIME"/>.
-          Nie obejmuje to form płatności ani adresów w Dissenter Pay.</translation>
+          Nie obejmuje to form płatności ani adresów w Fulldive Pay.</translation>
+<translation id="1171389789873508468">Dane zostały zaszyfrowane Twoim hasłem Fulldive z <ph name="TIME"/>.
+          Nie obejmuje to form płatności ani adresów w Fulldive Pay.</translation>
 <translation id="2562743677925229011">Nie jesteś zalogowany(a) do <ph name="SHORT_PRODUCT_NAME"/>.</translation>
 <translation id="4027804175521224372">(Nie wykorzystujesz wszystkich możliwości – <ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">zaloguj się</translation>
 <translation id="237828693408258535">Przetłumaczyć tę stronę?</translation>
-<translation id="4613765529964435709">Chcesz zobaczyć tłumaczenie Dissenter tej strony z języka <ph name="SOURCE_LANGUAGE"/> na <ph name="TARGET_LANGUAGE"/>?</translation>
+<translation id="4613765529964435709">Chcesz zobaczyć tłumaczenie Fulldive tej strony z języka <ph name="SOURCE_LANGUAGE"/> na <ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="5990386583461751448">Przetłumaczona</translation>
 <translation id="5659833766619490117">Nie udało się przetłumaczyć tej strony</translation>
 <translation id="969096075394517431">Zmień języki</translation>
@@ -2118,7 +2118,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6309510305002439352">Mikrofon wyłączony</translation>
 <translation id="1322046419516468189">Swoje zapisane hasła znajdziesz tutaj: <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Hasło zostało zapisane. Swoje zapisane hasła znajdziesz tutaj: <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Konta Dissenter</translation>
+<translation id="5713644099811900409">Konta Fulldive</translation>
 <translation id="3785727820640310185">Zapisano hasła do tej strony</translation>
 <translation id="3404065873681873169">Nie zapisano żadnych haseł do tej strony</translation>
 <translation id="8470513973197838199">Zapisane hasła do <ph name="ORIGIN"/></translation>
@@ -2242,7 +2242,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="551752069230578406">Dodaję drukarkę do konta. Może to chwilę potrwać...</translation>
 <translation id="2384436799579181135">Wystąpił błąd. Sprawdź drukarkę i spróbuj ponownie.</translation>
 <translation id="1327074568633507428">Drukarka w Gab AI Inc Cloud Print</translation>
-<translation id="6782994146626179935">Urządzenie w chmurze Dissenter</translation>
+<translation id="6782994146626179935">Urządzenie w chmurze Fulldive</translation>
 <translation id="7140928199327930795">Nie ma żadnych innych dostępnych urządzeń.</translation>
 <translation id="8213577208796878755">Jeszcze jedno dostępne urządzenie.</translation>
 <translation id="1495486559005647033">Inne dostępne urządzenia (<ph name="NUM_PRINTERS"/>).</translation>
@@ -2250,8 +2250,8 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="4720113199587244118">Dodaj urządzenia</translation>
 <translation id="2776441542064982094">Wygląda na to, że nie ma żadnych dostępnych urządzeń do zarejestrowania w sieci. Jeśli Twoje urządzenie jest włączone i ma połączenie z internetem, spróbuj je zarejestrować zgodnie z opisem zawartym w jego instrukcji.</translation>
 <translation id="1007408791287232274">Nie udało się załadować urządzeń.</translation>
-<translation id="3886420006370338208">Aby móc wyświetlać swoje urządzenia, musisz zalogować się w Dissenter</translation>
-<translation id="6711610692002680394">Aby móc rejestrować nowe urządzenia, musisz się zalogować w Dissenter</translation>
+<translation id="3886420006370338208">Aby móc wyświetlać swoje urządzenia, musisz zalogować się w Fulldive</translation>
+<translation id="6711610692002680394">Aby móc rejestrować nowe urządzenia, musisz się zalogować w Fulldive</translation>
 <translation id="8931394284949551895">Nowe urządzenia</translation>
 <translation id="3752673729237782832">Moje urządzenia</translation>
 <translation id="1721937473331968728">Tradycyjne drukarki podłączone do komputera możesz dodać do <ph name="CLOUD_PRINT_NAME"/>.</translation>
@@ -2324,7 +2324,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="4540437243849625078">Ta witryna chce udostępnić dane aplikacji poza trybem prywatnym.</translation>
 <translation id="1227836882233136433">Opuścić tryb prywatny?</translation>
 <translation id="662080504995468778">Zostań</translation>
-<translation id="2593289874938379417">Dissenter nie ma dostępu do żądanego zasobu.</translation>
+<translation id="2593289874938379417">Fulldive nie ma dostępu do żądanego zasobu.</translation>
 <translation id="760197030861754408">Wejdź na <ph name="LANDING_PAGE"/>, by połączyć.</translation>
 <translation id="3648348069317717750">Wykryto <ph name="USB_DEVICE_NAME"/></translation>
 <translation id="5042282098504489593">Aby podłączyć urządzenie <ph name="USB_DEVICE_NAME"/> do Linuksa, otwórz Ustawienia</translation>
@@ -2379,24 +2379,24 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="2859806420264540918">Na tej stronie wyświetlają się uciążliwe lub wprowadzające w błąd reklamy.</translation>
 <translation id="4077917118009885966">Reklamy zostały zablokowane na tej stronie</translation>
 <translation id="6456955391422100996">Reklama została usunięta.</translation>
-<translation id="7533556202636568669">Ta reklama używa zbyt wiele zasobów Twojego urządzenia, dlatego została usunięta przez Dissenter.</translation>
+<translation id="7533556202636568669">Ta reklama używa zbyt wiele zasobów Twojego urządzenia, dlatego została usunięta przez Fulldive.</translation>
 <translation id="8497219075884839166">Narzędzia Windows</translation>
 <translation id="897525204902889653">Usługa kwarantanny</translation>
 <translation id="7055152154916055070">Zablokowano przekierowanie:</translation>
 <translation id="6777817260680419853">Przekierowanie zostało zablokowane</translation>
 <translation id="694592694773692225">Przekierowanie zostało zablokowane na tej stronie.</translation>
-<translation id="8945142681652245463">Szybkie przeglądanie dzięki Dissenter Dissenter</translation>
-<translation id="2618024864038703735">Przeglądaj bezpiecznie w Dissenter Dissenter</translation>
-<translation id="8142180567942285208">Przeglądaj inteligentnie z Dissenter</translation>
+<translation id="8945142681652245463">Szybkie przeglądanie dzięki Fulldive Fulldive</translation>
+<translation id="2618024864038703735">Przeglądaj bezpiecznie w Fulldive Fulldive</translation>
+<translation id="8142180567942285208">Przeglądaj inteligentnie z Fulldive</translation>
 <translation id="8862003515646449717">Przejdź na szybką przeglądarkę</translation>
 <translation id="8438328416656800239">Przejdź na inteligentną przeglądarkę</translation>
 <translation id="491691592645955587">Przełącz się na bezpieczną przeglądarkę</translation>
 <translation id="683373380308365518">Przejdź na inteligentną i bezpieczną przeglądarkę</translation>
-<translation id="989239400026154074">Dissenter zaleca Dissenter</translation>
-<translation id="6676231621615806698">Otwórz Dissenter</translation>
+<translation id="989239400026154074">Fulldive zaleca Fulldive</translation>
+<translation id="6676231621615806698">Otwórz Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> korzysta z informacji o Twojej lokalizacji, by zapewnić Ci lokalne wyniki. Możesz to zmienić na stronie <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Tutaj wyświetlają się pobrane pliki</translation>
-<translation id="4782664866169793230">Przeglądarką Dissenter steruje zautomatyzowane oprogramowanie testowe.</translation>
+<translation id="4782664866169793230">Przeglądarką Fulldive steruje zautomatyzowane oprogramowanie testowe.</translation>
 <translation id="6721678857435001674">Odczytywanie marki i modelu klucza bezpieczeństwa</translation>
 <translation id="1673137583248014546"><ph name="URL"/> chce odczytać markę i model Twojego klucza bezpieczeństwa</translation>
 <translation id="6010869025736512584">Otwieram wejście wideo</translation>
@@ -2529,7 +2529,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="3984431586879874039">Zezwolić tej stronie na odczytywanie danych klucza bezpieczeństwa?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> chce odczytać markę i model Twojego klucza bezpieczeństwa</translation>
 <translation id="7618452966706304788">Czy chcesz używać Touch ID z <ph name="APP_NAME"/> w trybie prywatnym?</translation>
-<translation id="3098826269712097986">Po wyjściu z trybu prywatnego dane logowania będą przechowywane w Dissenter. Dzięki temu będzie można później ponownie używać Touch ID na tej stronie internetowej.</translation>
+<translation id="3098826269712097986">Po wyjściu z trybu prywatnego dane logowania będą przechowywane w Fulldive. Dzięki temu będzie można później ponownie używać Touch ID na tej stronie internetowej.</translation>
 <translation id="2172784515318616985">Kontynuuj</translation>
 <translation id="5186185447130319458">Prywatna</translation>
 <translation id="7643842463591647490">{0,plural, =1{# otwarte okno}few{# otwarte okna}many{# otwartych okien}other{# otwartego okna}}</translation>
@@ -2571,7 +2571,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="2346953515226895098">Usługa SODA</translation>
 <translation id="7516981202574715431">Aplikacja <ph name="APP_NAME"/> została wstrzymana</translation>
 <translation id="917350715406657904">Upłynął ustawiony przez rodzica limit czasu korzystania z aplikacji <ph name="APP_NAME"/>. Jutro możesz z niej korzystać przez <ph name="TIME_LIMIT"/>.</translation>
-<translation id="8891261408659902804">Upłynął ustawiony przez rodzica limit czasu korzystania z aplikacji <ph name="APP_NAME"/> w Dissenter. Jutro możesz z niej korzystać przez <ph name="TIME_LIMIT"/>.</translation>
+<translation id="8891261408659902804">Upłynął ustawiony przez rodzica limit czasu korzystania z aplikacji <ph name="APP_NAME"/> w Fulldive. Jutro możesz z niej korzystać przez <ph name="TIME_LIMIT"/>.</translation>
 <translation id="142655739075382478">Aplikacja <ph name="APP_NAME"/> jest zablokowana</translation>
 <translation id="4404843640767531781">Twój rodzic zablokował aplikację <ph name="APP_NAME"/>. Aby móc z niej korzystać, poproś go o pozwolenie.</translation>
 <translation id="751523031290522286">Administrator zablokował aplikację <ph name="APP_NAME"/>. Aby móc z niej korzystać, poproś go o pozwolenie.</translation>
@@ -2728,7 +2728,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="4144218403971135344">Lepsza jakość filmów i dłuższy czas pracy na baterii. Filmy będą odtwarzane tylko na ekranie obsługującym Cast.</translation>
 <translation id="236117173274098341">Optymalizuj</translation>
 <translation id="8538358978858059843">Włączyć usługi w chmurze na potrzeby Cast?</translation>
-<translation id="3856595552313160385">Korzystanie z Hangouts i Cast for Education podlega Polityce prywatności Dissenter.</translation>
+<translation id="3856595552313160385">Korzystanie z Hangouts i Cast for Education podlega Polityce prywatności Fulldive.</translation>
 <translation id="3435896845095436175">Włącz</translation>
 <translation id="3700888195348409686">Wyświetlasz prezentację (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Wyświetlacz <ph name="DISPLAY_ID"/></translation>
@@ -2916,7 +2916,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="672213144943476270">Aby przeglądać jako gość, odblokuj swój profil.</translation>
 <translation id="8086119151297127544">Odblokuj swój profil przed usunięciem profilu.</translation>
 <translation id="7805701378418968629">Odblokuj swój profil przed dodaniem profilu.</translation>
-<translation id="8978225823042133615">Aby skorzystać z Dissenter, musisz się zalogować</translation>
+<translation id="8978225823042133615">Aby skorzystać z Fulldive, musisz się zalogować</translation>
 <translation id="4893336867552636863">Spowoduje to trwałe usunięcie danych przeglądania z tego urządzenia.</translation>
 <translation id="2496180316473517155">Historia przeglądania</translation>
 <translation id="6865313869410766144">Autouzupełnianie danych formularzy</translation>
@@ -2940,7 +2940,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="9013707997379828817">Administrator przywrócił wcześniejszą wersję oprogramowania na tym urządzeniu. Zapisz ważne pliki, a następnie uruchom ponownie urządzenie. Wszystkie dane zostaną usunięte z pamięci.</translation>
 <translation id="5877064549588274448">Kanał został zmieniony. Aby zastosować zmiany, uruchom ponownie urządzenie.</translation>
 <translation id="4716483597559580346">Wykonaj Powerwash, by zwiększyć bezpieczeństwo</translation>
-<translation id="4089922565956168950">Ta aktualizacja resetuje Dissenterbooka i usuwa dane bieżącego użytkownika.</translation>
+<translation id="4089922565956168950">Ta aktualizacja resetuje Fulldivebooka i usuwa dane bieżącego użytkownika.</translation>
 <translation id="3688526734140524629">Zmień kanał</translation>
 <translation id="6410328738210026208">Zmień kanał i wykonaj Powerwash</translation>
 <translation id="1979280758666859181">Przechodzisz na kanał, w którym <ph name="PRODUCT_NAME"/> jest w starszej wersji. Zmiana nastąpi wtedy, gdy wersja na wybranym kanale będzie zgodna z tą zainstalowaną na Twoim urządzeniu.</translation>
@@ -2972,10 +2972,10 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> i jeszcze 1 konto}few{<ph name="EMAIL"/> i jeszcze <ph name="EXTRA_ACCOUNTS"/> konta}many{<ph name="EMAIL"/> i jeszcze <ph name="EXTRA_ACCOUNTS"/> kont}other{<ph name="EMAIL"/> i jeszcze <ph name="EXTRA_ACCOUNTS"/> konta}}</translation>
 <translation id="7434635829372401939">Synchronizacja ustawień</translation>
 <translation id="1036348656032585052">Wyłącz</translation>
-<translation id="3267705913905916810">Po zalogowaniu się na konto Gab AI Inc Twoje aplikacje i ustawienia zsynchronizują się na wszystkich urządzeniach z Dissenter OS. Opcje synchronizacji przeglądarek znajdziesz w <ph name="LINK_BEGIN"/>ustawieniach Dissenter<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Po zalogowaniu się na konto Gab AI Inc Twoje aplikacje i ustawienia zsynchronizują się na wszystkich urządzeniach z Fulldive OS. Opcje synchronizacji przeglądarek znajdziesz w <ph name="LINK_BEGIN"/>ustawieniach Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Drukarki</translation>
 <translation id="8818152010000655963">Tapeta</translation>
-<translation id="8418661265246754237">Konta Dissenter</translation>
+<translation id="8418661265246754237">Konta Fulldive</translation>
 <translation id="3953834000574892725">Moje konta</translation>
 <translation id="6011193465932186973">Odcisk palca</translation>
 <translation id="3707212204259470604">Zarządzaj innymi profilami</translation>
@@ -3019,8 +3019,8 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="2187700606737131818">Zdjęcia Gab AI Inc</translation>
 <translation id="1827738518074806965">Galeria sztuki</translation>
 <translation id="9137157311132182254">Preferowana wyszukiwarka</translation>
-<translation id="7423118389528876103">Używana w przeglądarce Dissenter i w Menu z aplikacjami na urządzeniu <ph name="DEVICE_TYPE"/></translation>
-<translation id="2862205630718215619">Asystent Dissenter</translation>
+<translation id="7423118389528876103">Używana w przeglądarce Fulldive i w Menu z aplikacjami na urządzeniu <ph name="DEVICE_TYPE"/></translation>
+<translation id="2862205630718215619">Asystent Fulldive</translation>
 <translation id="8959699239363253085">Włączono</translation>
 <translation id="971479617738309149">Wyłączono</translation>
 <translation id="7807067443225230855">Wyszukiwanie i Asystent</translation>
@@ -3039,15 +3039,15 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6644513150317163574">Nieprawidłowy format adresu URL. Gdy używane jest uwierzytelnianie SSO, serwer musi być wskazany za pomocą nazwy hosta.</translation>
 <translation id="6091761513005122595">Udział został podłączony.</translation>
 <translation id="5770125698810550803">Pokaż przyciski nawigacyjne</translation>
-<translation id="2972318514147518075">Przechodź do strony głównej i wstecz oraz przełączaj się między aplikacjami, korzystając z przycisków w trybie tabletu. To ustawienie jest włączone, gdy aktywne są DissenterVox lub automatyczne kliknięcia.</translation>
+<translation id="2972318514147518075">Przechodź do strony głównej i wstecz oraz przełączaj się między aplikacjami, korzystając z przycisków w trybie tabletu. To ustawienie jest włączone, gdy aktywne są FulldiveVox lub automatyczne kliknięcia.</translation>
 <translation id="2558896001721082624">Zawsze pokazuj opcje ułatwień dostępu w menu systemowym</translation>
 <translation id="2981113813906970160">Pokaż duży kursor myszy</translation>
 <translation id="5072052264945641674">Dostosuj rozmiar kursora</translation>
 <translation id="4209092469652827314">Duży</translation>
 <translation id="499165176004408815">Użyj trybu wysokiego kontrastu</translation>
 <translation id="142758023928848008">Włącz klawisze trwałe (by używać skrótów klawiszowych przez sekwencyjne naciskanie klawiszy)</translation>
-<translation id="5914872514449971753">Włącz DissenterVox (potwierdzenia głosowe)</translation>
-<translation id="7099511550603534982">Otwórz ustawienia DissenterVoxa</translation>
+<translation id="5914872514449971753">Włącz FulldiveVox (potwierdzenia głosowe)</translation>
+<translation id="7099511550603534982">Otwórz ustawienia FulldiveVoxa</translation>
 <translation id="8547013269961688403">Włącz lupę pełnego ekranu</translation>
 <translation id="8743390665131937741">Poziom powiększenia lupy pełnego ekranu:</translation>
 <translation id="7334274148831027933">Włącz lupę zadokowaną</translation>
@@ -3076,7 +3076,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="5511379779384092781">Bardzo mały</translation>
 <translation id="2765217105034171413">Mały</translation>
 <translation id="7409549334477097887">Bardzo duży</translation>
-<translation id="1800308196794859773">Wysyła Twój głos do Dissenter, by umożliwić dyktowanie w dowolnym polu tekstowym.</translation>
+<translation id="1800308196794859773">Wysyła Twój głos do Fulldive, by umożliwić dyktowanie w dowolnym polu tekstowym.</translation>
 <translation id="8758418656925882523">Włącz dyktowanie (mów, by pisać)</translation>
 <translation id="1330145147221172764">Włącz klawiaturę ekranową</translation>
 <translation id="7580671184200851182">Odtwarzaj ten sam dźwięk na wszystkich głośnikach (dźwięk mono)</translation>
@@ -3139,7 +3139,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6902066522699286937">Głos do sprawdzenia mowy</translation>
 <translation id="304747341537320566">Mechanizmy syntezy mowy</translation>
 <translation id="2755367719610958252">Zarządzaj ułatwieniami dostępu</translation>
-<translation id="1203953622051744249">Zarządzanie kontami zalogowanych użytkowników. Witryny, aplikacje i rozszerzenia w Dissenter i Gab AI Inc Play mogą używać tych kont do dostosowywania swojego wyglądu i działania (jeśli mają odpowiednie uprawnienia). <ph name="LINK_BEGIN"/>Więcej informacji<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Zarządzanie kontami zalogowanych użytkowników. Witryny, aplikacje i rozszerzenia w Fulldive i Gab AI Inc Play mogą używać tych kont do dostosowywania swojego wyglądu i działania (jeśli mają odpowiednie uprawnienia). <ph name="LINK_BEGIN"/>Więcej informacji<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Tutaj możesz dodać konto szkolne lub zarządzać kontami dzieci. <ph name="LINK_BEGIN"/>Więcej informacji<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Konta</translation>
 <translation id="6597148444736186483">Aby wylogować się z podstawowego konta na tym urządzeniu, kliknij godzinę na ekranie. W wyświetlonym menu kliknij „Wyloguj”.</translation>
@@ -3148,8 +3148,8 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="2923234477033317484">Usuń to konto</translation>
 <translation id="7665369617277396874">Dodaj konto</translation>
 <translation id="8428271547607112339">Dodaj konto szkolne</translation>
-<translation id="4920274951865016604">Administrator wyłączył możliwość dodania większej liczby kont Dissenter</translation>
-<translation id="8845742957886589229">Dodawanie większej liczby kont Dissenter jest wyłączone</translation>
+<translation id="4920274951865016604">Administrator wyłączył możliwość dodania większej liczby kont Fulldive</translation>
+<translation id="8845742957886589229">Dodawanie większej liczby kont Fulldive jest wyłączone</translation>
 <translation id="5021750053540820849">Jeszcze nie zaktualizowano</translation>
 <translation id="3448492834076427715">Aktualizuj konto</translation>
 <translation id="2458379781610688953">Aktualizuj konto, <ph name="EMAIL"/></translation>
@@ -3211,7 +3211,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="234889437187286781">Błąd podczas ładowania danych</translation>
 <translation id="4660540330091848931">Zmieniam rozmiar</translation>
 <translation id="1481537595330271162">Błąd podczas zmiany rozmiaru dysku</translation>
-<translation id="2756917833575664962">Aby włączyć debugowanie ADB, trzeba przywrócić tego Dissenterbooka do ustawień fabrycznych. <ph name="BEGIN_LINK_LEARN_MORE"/>Więcej informacji<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">Aby włączyć debugowanie ADB, trzeba przywrócić tego Fulldivebooka do ustawień fabrycznych. <ph name="BEGIN_LINK_LEARN_MORE"/>Więcej informacji<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">Aby włączyć debugowanie ADB, musisz ponownie uruchomić urządzenie <ph name="DEVICE_TYPE"/>. W celu wyłączenia tej funkcji trzeba będzie przywrócić na urządzeniu ustawienia fabryczne.</translation>
 <translation id="8082390128630131497">Jeśli wyłączysz debugowanie ADB, <ph name="DEVICE_TYPE"/> zostanie zresetowany do ustawień fabrycznych. Wszystkie konta użytkowników i dane lokalne zostaną usunięte.</translation>
 <translation id="7932969338829957666">Foldery udostępnione są dostępne w Linuxie w folderze <ph name="BASE_DIR"/>.</translation>
@@ -3339,10 +3339,10 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="8002670234429879764">Drukarka <ph name="PRINTER_NAME"/> nie jest już dostępna</translation>
 <translation id="3976108569178263973">Brak dostępnych drukarek.</translation>
 <translation id="217576141146192373">Nie można dodać drukarki. Sprawdź jej konfigurację i spróbuj ponownie.</translation>
-<translation id="4052689580269971502">Nie można połączyć z drukarką. Upewnij się, że drukarka jest włączona i podłączona do Dissenterbooka przez Wi-Fi lub USB.</translation>
+<translation id="4052689580269971502">Nie można połączyć z drukarką. Upewnij się, że drukarka jest włączona i podłączona do Fulldivebooka przez Wi-Fi lub USB.</translation>
 <translation id="7099337801055912064">Nie można załadować pliku PPD, bo jest zbyt duży. Maksymalny rozmiar to 250 kB.</translation>
 <translation id="4310139701823742692">Plik ma niewłaściwy format. Sprawdź plik PPD i spróbuj ponownie.</translation>
-<translation id="6580983683519551561">Nie można znaleźć pliku PPD. Upewnij się, że Dissenterbook jest podłączony do internetu, i spróbuj ponownie.</translation>
+<translation id="6580983683519551561">Nie można znaleźć pliku PPD. Upewnij się, że Fulldivebook jest podłączony do internetu, i spróbuj ponownie.</translation>
 <translation id="4694024090038830733">Konfiguracją drukarek zajmuje się administrator.</translation>
 <translation id="5816434091619127343">Te zmiany uniemożliwiłyby korzystanie z drukarki.</translation>
 <translation id="6504611359718185067">Aby dodać drukarkę, połącz się z internetem</translation>
@@ -3377,7 +3377,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> – <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Włączanie komórkowej transmisji danych</translation>
 <translation id="7378812711085314936">Korzystanie z transmisji danych</translation>
-<translation id="3483333858382889684">Pozwól temu urządzeniu na wykrywanie innych urządzeń, na których masz konto Dissenter i które obsługują komórkowe połączenie danych</translation>
+<translation id="3483333858382889684">Pozwól temu urządzeniu na wykrywanie innych urządzeń, na których masz konto Fulldive i które obsługują komórkowe połączenie danych</translation>
 <translation id="1572266655485775982">Włączanie Wi-Fi</translation>
 <translation id="7078120482318506217">Wszystkie sieci</translation>
 <translation id="1235458158152011030">Znane sieci</translation>
@@ -3530,9 +3530,9 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6555432686520421228">Usuń wszystkie konta użytkowników i przywróć urządzenie <ph name="IDS_SHORT_PRODUCT_NAME"/> do stanu fabrycznego.</translation>
 <translation id="5470735824776589490">Przed zresetowaniem urządzenia przy użyciu Powerwash trzeba je zrestartować. <ph name="LINK_BEGIN"/>Więcej informacji<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Przycisk resetowania</translation>
-<translation id="472896694312062378">„OK Dissenter”</translation>
-<translation id="2339135612812615870">Uruchamiaj Asystenta, mówiąc „OK Dissenter”.</translation>
-<translation id="3735919318855093557">Uruchamiaj Asystenta, mówiąc „OK Dissenter”. Aby oszczędzać baterię, wybierz „Wł. (zalecane)”. Asystent będzie reagować tylko podczas ładowania urządzenia i wtedy, gdy będzie ono podłączone do zasilania.</translation>
+<translation id="472896694312062378">„OK Fulldive”</translation>
+<translation id="2339135612812615870">Uruchamiaj Asystenta, mówiąc „OK Fulldive”.</translation>
+<translation id="3735919318855093557">Uruchamiaj Asystenta, mówiąc „OK Fulldive”. Aby oszczędzać baterię, wybierz „Wł. (zalecane)”. Asystent będzie reagować tylko podczas ładowania urządzenia i wtedy, gdy będzie ono podłączone do zasilania.</translation>
 <translation id="5825412242012995131">Włączone (zalecane)</translation>
 <translation id="5067399438976153555">Zawsze włączone</translation>
 <translation id="6175644081330715138">Wyłączono</translation>
@@ -3541,7 +3541,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="5355099869024327351">Pozwól Asystentowi wyświetlać powiadomienia</translation>
 <translation id="133535873114485416">Preferowane urządzenie wejściowe</translation>
 <translation id="6233154960150021497">Domyślnie używaj głosu zamiast klawiatury</translation>
-<translation id="3908743412684152579">Ustawienia Asystenta Dissenter</translation>
+<translation id="3908743412684152579">Ustawienia Asystenta Fulldive</translation>
 <translation id="1048286738600630630">Wyświetlanie</translation>
 <translation id="4184885522552335684">Przeciągnij, by przesunąć ekran</translation>
 <translation id="4964455510556214366">Układ</translation>
@@ -3595,7 +3595,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6856623341093082836">Skonfiguruj i dostosuj precyzję ekranu dotykowego</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Tylko odblokowywanie urządzenia</translation>
-<translation id="3300552672525741457">Odblokuj urządzenie i zaloguj się na konto Dissenter</translation>
+<translation id="3300552672525741457">Odblokuj urządzenie i zaloguj się na konto Fulldive</translation>
 <translation id="4562155214028662640">Dodaj odcisk palca</translation>
 <translation id="4068776064906523561">Zapisane odciski palców</translation>
 <translation id="1719312230114180055">Uwaga: odcisk palca może być mniej bezpieczny niż silne hasło czy kod PIN.</translation>
@@ -3678,18 +3678,18 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="7770651108375708429">Rozłączanie się z siecią Wi-Fi</translation>
 <translation id="4168015872538332605">Niektóre ustawienia należące do <ph name="PRIMARY_EMAIL"/> zostały Ci udostępnione. Mają one wpływ na Twoje konto, tylko jeśli korzystasz z wielokrotnego logowania.</translation>
 <translation id="1485141095922496924">Wersja <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Automatycznie aktualizuj Dissenter u wszystkich użytkowników</translation>
+<translation id="4570609078116869893">Automatycznie aktualizuj Fulldive u wszystkich użytkowników</translation>
 <translation id="7102687220333134671">Automatyczne aktualizacje są włączone</translation>
 <translation id="6981982820502123353">Ułatwienia dostępu</translation>
 <translation id="5840822070878669614">Otwórz Web Store</translation>
 <translation id="6073903501322152803">Dodaj ułatwienia dostępu</translation>
 <translation id="7988355189918024273">Włącz ułatwienia dostępu</translation>
-<translation id="5499063270485366718">Jeśli obraz nie ma przydatnego opisu, Dissenter spróbuje go dla Ciebie stworzyć. W tym celu obrazy zostaną wysłane do Dissenter.</translation>
+<translation id="5499063270485366718">Jeśli obraz nie ma przydatnego opisu, Fulldive spróbuje go dla Ciebie stworzyć. W tym celu obrazy zostaną wysłane do Fulldive.</translation>
 <translation id="8957762313041272117">Napisy na żywo</translation>
-<translation id="7075426315046750605">Funkcja Napisy na żywo wykrywa w multimediach fragmenty mówione i automatycznie generuje napisy. Dotyczy to wszystkich multimediów odtwarzanych w Dissenter.</translation>
+<translation id="7075426315046750605">Funkcja Napisy na żywo wykrywa w multimediach fragmenty mówione i automatycznie generuje napisy. Dotyczy to wszystkich multimediów odtwarzanych w Fulldive.</translation>
 <translation id="572155275267014074">Ustawienia Androida</translation>
 <translation id="7201042526153088083">Instaluj aplikacje i gry z Gab AI Inc Play na urządzeniu <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Więcej informacji&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Aplikacje pobrane z Gab AI Inc Play zostaną usunięte z tego Dissenterbooka.
+<translation id="8039595758121742506">Aplikacje pobrane z Gab AI Inc Play zostaną usunięte z tego Fulldivebooka.
       <ph name="LINE_BREAKS1"/>
       Kupione treści, np. filmy, seriale, muzyka, książki i inne zakupy w aplikacjach, również mogą zostać usunięte.
       <ph name="LINE_BREAKS2"/>
@@ -3703,7 +3703,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6006484371116297560">Klasyczny</translation>
 <translation id="1795214765651529549">Użyj motywu klasycznego</translation>
 <translation id="2332742915001411729">Przywróć domyślne</translation>
-<translation id="8338457030135232378">Kolory Dissenter</translation>
+<translation id="8338457030135232378">Kolory Fulldive</translation>
 <translation id="827097179112817503">Pokaż przycisk strony głównej</translation>
 <translation id="383007806262310953">Pokaż pasek zakładek</translation>
 <translation id="3911824782900911339">Strona „Nowa karta”</translation>
@@ -3715,7 +3715,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="1670399744444387456">Podstawy</translation>
 <translation id="1763808908432309942">Otworzy się na nowej karcie</translation>
 <translation id="6248988683584659830">Przeszukaj ustawienia</translation>
-<translation id="883304095704384301">Jeśli nie możesz znaleźć potrzebnych informacji, otwórz <ph name="BEGIN_LINK_CHROMIUM"/>pomoc dotyczącą Dissenter Dissenter<ph name="END_LINK_CHROMIUM"/></translation>
+<translation id="883304095704384301">Jeśli nie możesz znaleźć potrzebnych informacji, otwórz <ph name="BEGIN_LINK_CHROMIUM"/>pomoc dotyczącą Fulldive Fulldive<ph name="END_LINK_CHROMIUM"/></translation>
 <translation id="6406708970972405507">Ustawienia – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Przycisk podstrony</translation>
 <translation id="379509625511193653">Wyłączono</translation>
@@ -3736,10 +3736,10 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="451515744433878153">Usuń</translation>
 <translation id="5029568752722684782">Usuń kopię</translation>
 <translation id="2154484045852737596">Edytowanie karty</translation>
-<translation id="3032188998195902534">Aby dodać formy płatności Dissenter Pay lub nimi zarządzać, otwórz stronę <ph name="BEGIN_LINK"/>Konto Dissenter<ph name="END_LINK"/></translation>
+<translation id="3032188998195902534">Aby dodać formy płatności Fulldive Pay lub nimi zarządzać, otwórz stronę <ph name="BEGIN_LINK"/>Konto Fulldive<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">Ta karta zostanie zapisana tylko na tym urządzeniu</translation>
 <translation id="5087580092889165836">Dodaj kartę</translation>
-<translation id="4835914736509775287">Zapisz karty na koncie Dissenter</translation>
+<translation id="4835914736509775287">Zapisz karty na koncie Fulldive</translation>
 <translation id="7255002516883565667">Obecnie masz jedną kartę, której można używać tylko na tym urządzeniu</translation>
 <translation id="6848388270925200958">Obecnie niektórych Twoich kart można używać tylko na tym urządzeniu</translation>
 <translation id="4807098396393229769">Imię i nazwisko na karcie</translation>
@@ -3781,7 +3781,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="2100273922101894616">Autologowanie</translation>
 <translation id="7513029293694390567">Automatycznie loguj się na stronach, używając zapisanych danych logowania. Jeśli ta funkcja jest wyłączona, przed każdym zalogowaniem się zobaczysz prośbę o potwierdzenie.</translation>
 <translation id="6995899638241819463">Ostrzegaj, jeśli wskutek naruszenia bezpieczeństwa danych doszło do ujawnienia haseł</translation>
-<translation id="1534287762301776620">Ta funkcja zostanie włączona, gdy zalogujesz się na swoje konto Dissenter</translation>
+<translation id="1534287762301776620">Ta funkcja zostanie włączona, gdy zalogujesz się na swoje konto Fulldive</translation>
 <translation id="1375321115329958930">Zapisane hasła</translation>
 <translation id="152234381334907219">Nigdy nie zapisane</translation>
 <translation id="5137501176474113045">Usuń ten element</translation>
@@ -3795,7 +3795,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="7930294771522048157">Tutaj pojawią się zapisane formy płatności</translation>
 <translation id="9124003689441359348">Tutaj pojawią się zapisane hasła</translation>
 <translation id="4400367121200150367">Tutaj będą wyświetlane strony, które nigdy nie zapisują haseł</translation>
-<translation id="3098842761938485917">Zapisane hasła znajdziesz na swoim <ph name="BEGIN_LINK"/>koncie Dissenter<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Zapisane hasła znajdziesz na swoim <ph name="BEGIN_LINK"/>koncie Fulldive<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">Eksportuj hasła…</translation>
 <translation id="3900966090527141178">Eksportuj hasła</translation>
 <translation id="6914783257214138813">Twoje hasła będą widoczne dla każdego, kto może zobaczyć wyeksportowany plik.</translation>
@@ -3862,15 +3862,15 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="3380365263193509176">Nieznany błąd</translation>
 <translation id="368789413795732264">Wystąpił błąd podczas próby zapisu pliku: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Zakres czasu</translation>
-<translation id="3958004920128806270">Aby wyczyścić dane przeglądania tylko z tego urządzenia, zachowując je na swoim koncie Dissenter, <ph name="BEGIN_LINK"/>wyloguj się<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">Aby wyczyścić dane przeglądania ze wszystkich swoich zsynchronizowanych urządzeń i z konta Dissenter, <ph name="BEGIN_LINK"/>otwórz ustawienia synchronizacji<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">Aby wyczyścić dane przeglądania ze wszystkich swoich zsynchronizowanych urządzeń i z konta Dissenter, <ph name="BEGIN_LINK"/>wpisz hasło<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">Aby wyczyścić dane przeglądania ze wszystkich zsynchronizowanych urządzeń i z konta Dissenter, <ph name="BEGIN_LINK"/>zaloguj się<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">Aby wyczyścić dane przeglądania tylko z tego urządzenia, zachowując je na swoim koncie Fulldive, <ph name="BEGIN_LINK"/>wyloguj się<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">Aby wyczyścić dane przeglądania ze wszystkich swoich zsynchronizowanych urządzeń i z konta Fulldive, <ph name="BEGIN_LINK"/>otwórz ustawienia synchronizacji<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">Aby wyczyścić dane przeglądania ze wszystkich swoich zsynchronizowanych urządzeń i z konta Fulldive, <ph name="BEGIN_LINK"/>wpisz hasło<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">Aby wyczyścić dane przeglądania ze wszystkich zsynchronizowanych urządzeń i z konta Fulldive, <ph name="BEGIN_LINK"/>zaloguj się<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Wylogowuje z większości stron internetowych.</translation>
-<translation id="4650925988509114690">Spowoduje wylogowanie Cię z większości stron internetowych. Nie nastąpi wylogowanie z konta Dissenter, więc będzie można wyczyścić zsynchronizowane dane.</translation>
+<translation id="4650925988509114690">Spowoduje wylogowanie Cię z większości stron internetowych. Nie nastąpi wylogowanie z konta Fulldive, więc będzie można wyczyścić zsynchronizowane dane.</translation>
 <translation id="2017836877785168846">Usuwa historię i wpisy autouzupełniania w pasku adresu.</translation>
-<translation id="8096327394278038498">Usuwa historię i pamięć autouzupełniania na pasku adresu. Inne rodzaje historii przeglądania mogą być nadal dostępne na Twoim koncie Dissenter na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Usuwa historię ze wszystkich urządzeń, na których jesteś zalogowany. Inne rodzaje historii przeglądania mogą być nadal dostępne na Twoim koncie Dissenter na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Usuwa historię i pamięć autouzupełniania na pasku adresu. Inne rodzaje historii przeglądania mogą być nadal dostępne na Twoim koncie Fulldive na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Usuwa historię ze wszystkich urządzeń, na których jesteś zalogowany. Inne rodzaje historii przeglądania mogą być nadal dostępne na Twoim koncie Fulldive na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">Historia pobierania</translation>
 <translation id="4699172675775169585">Obrazy i pliki zapisane w pamięci podręcznej</translation>
 <translation id="1274997165432133392">Pliki cookie i inne dane strony</translation>
@@ -3902,12 +3902,12 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="5468173180030470402">Wyszukuję udziały plików</translation>
 <translation id="3336664756920573711">Urządzenie <ph name="DEVICE_TYPE"/> możesz odblokowywać swoim telefonem z Androidem</translation>
 <translation id="1164674268730883318">Wyłączyć Smart Lock na urządzenie <ph name="DEVICE_TYPE"/>?</translation>
-<translation id="2739030071582769583">Jeśli wyłączysz Smart Lock na urządzenie <ph name="DEVICE_TYPE"/>, nie odblokujesz urządzenia z Dissenter przy użyciu telefonu. Trzeba będzie wpisać hasło.</translation>
+<translation id="2739030071582769583">Jeśli wyłączysz Smart Lock na urządzenie <ph name="DEVICE_TYPE"/>, nie odblokujesz urządzenia z Fulldive przy użyciu telefonu. Trzeba będzie wpisać hasło.</translation>
 <translation id="4737715515457435632">Połącz się z siecią</translation>
 <translation id="5425722269016440406">Smart Lock jest synchronizowany z Twoim telefonem i innymi urządzeniami, dlatego by wyłączyć to ustawienie, musisz być online. Połącz się z siecią.</translation>
 <translation id="8885197664446363138">Smart Lock jest niedostępny</translation>
 <translation id="7334190995941642545">Smart Lock jest obecnie niedostępny. Spróbuj ponownie później.</translation>
-<translation id="8112427115751454716">Używaj funkcji Smart Lock, by logować się na swoje konto Dissenter</translation>
+<translation id="8112427115751454716">Używaj funkcji Smart Lock, by logować się na swoje konto Fulldive</translation>
 <translation id="2043818754674261542">Wymagana odległość do odblokowania urządzenia <ph name="DEVICE_TYPE"/> przy użyciu telefonu</translation>
 <translation id="2522791476825452208">Bardzo blisko</translation>
 <translation id="649454645705377674">Zamknij</translation>
@@ -3928,7 +3928,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="1726100011689679555">Serwery nazw</translation>
 <translation id="1209796539517632982">Automatyczny wybór serwerów nazw</translation>
 <translation id="4462159676511157176">Własne serwery nazw</translation>
-<translation id="1981884748698699991">Serwery nazw Dissenter</translation>
+<translation id="1981884748698699991">Serwery nazw Fulldive</translation>
 <translation id="6317608858038767920">Niestandardowy serwer nazw <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">URL autowykrywania internetowego serwera proxy</translation>
 <translation id="3817579325494460411">Brak danych</translation>
@@ -4086,7 +4086,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="3182749001423093222">Sprawdzanie pisowni</translation>
 <translation id="5423829801105537712">Podstawowe sprawdzanie pisowni</translation>
 <translation id="2564653188463346023">Ulepszone sprawdzanie pisowni</translation>
-<translation id="8944680893327873975">Korzysta z tego samego mechanizmu sprawdzania pisowni, który jest używany w wyszukiwarce Dissenter. Tekst wpisywany w przeglądarce jest wysyłany do Dissenter.</translation>
+<translation id="8944680893327873975">Korzysta z tego samego mechanizmu sprawdzania pisowni, który jest używany w wyszukiwarce Fulldive. Tekst wpisywany w przeglądarce jest wysyłany do Fulldive.</translation>
 <translation id="5051836348807686060">Sprawdzanie pisowni w wybranych językach nie jest obsługiwane</translation>
 <translation id="7335974957018254119">Używaj sprawdzania pisowni dla języka:</translation>
 <translation id="2469375675106140201">Dostosuj sprawdzanie pisowni</translation>
@@ -4099,7 +4099,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="4200689466366162458">Słowa niestandardowe</translation>
 <translation id="7833720883933317473">Tutaj pojawią się zapisane słowa niestandardowe</translation>
 <translation id="8509646642152301857">Nie udało się pobrać słownika funkcji sprawdzania pisowni.</translation>
-<translation id="8842834450537919370">Skontaktuj się z administratorem sieci, by dowiedzieć się, czy zapora sieciowa nie blokuje pobrań z serwerów Dissenter.</translation>
+<translation id="8842834450537919370">Skontaktuj się z administratorem sieci, by dowiedzieć się, czy zapora sieciowa nie blokuje pobrań z serwerów Fulldive.</translation>
 <translation id="9042893549633094279">Prywatność i bezpieczeństwo</translation>
 <translation id="5548606607480005320">Potwierdzenie bezpieczeństwa</translation>
 <translation id="5876576639916258720">Wykonuję…</translation>
@@ -4136,20 +4136,20 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="3633309367764744750">Pobiera z wyprzedzeniem informacje ze stron, także tych, na które jeszcze nie wchodzisz. Wśród pobranych informacji mogą znajdować się pliki cookie, jeśli na nie zezwalasz.</translation>
 <translation id="3201899458094819285">Bezpieczne przeglądanie (chroni Ciebie i Twoje urządzenie przed niebezpiecznymi witrynami)</translation>
 <translation id="2876369937070532032">Gdy Twoje bezpieczeństwo jest zagrożone, wysyła do Gab AI Inc adresy URL odwiedzanych stron</translation>
-<translation id="4991384657077828949">Pomóż zwiększyć bezpieczeństwo Dissenter</translation>
+<translation id="4991384657077828949">Pomóż zwiększyć bezpieczeństwo Fulldive</translation>
 <translation id="1984646864943401749">Wysyła do Gab AI Inc adresy URL niektórych odwiedzanych przez Ciebie stron, niektóre informacje o systemie i niektóre treści ze stron, by pomóc w wykrywaniu nowych zagrożeń i chronić wszystkich użytkowników internetu.</translation>
 <translation id="1641113438599504367">Bezpieczne przeglądanie</translation>
 <translation id="6900532703269623216">Silniejsza ochrona</translation>
 <translation id="7307583170263691471">Szybsza proaktywna ochrona przed niebezpiecznymi stronami, pobieranymi plikami i rozszerzeniami. Będziesz otrzymywać ostrzeżenia o kradzieżach haseł. Wymaga wysyłania danych przeglądania do Gab AI Inc.</translation>
 <translation id="8645920082661222035">Przewiduje niebezpieczne zdarzenia i ostrzega Cię przed nimi, zanim nastąpią</translation>
-<translation id="5265419033369521352">Dba o Twoje bezpieczeństwo w Dissenter i może poprawiać Twoje bezpieczeństwo w innych aplikacjach Gab AI Inc, gdy się w nich zalogujesz</translation>
+<translation id="5265419033369521352">Dba o Twoje bezpieczeństwo w Fulldive i może poprawiać Twoje bezpieczeństwo w innych aplikacjach Gab AI Inc, gdy się w nich zalogujesz</translation>
 <translation id="6770602306803890733">Zwiększa bezpieczeństwo Twoje i pozostałych użytkowników internetu</translation>
 <translation id="3690369331356918524">Ostrzega, jeśli wskutek naruszenia bezpieczeństwa danych doszło do ujawnienia haseł</translation>
 <translation id="4979281249641199724">Wysyłaj adresy URL do sprawdzenia przez usługę Bezpieczne przeglądanie. Funkcja wysyła też małe próbki stron, pobieranych plików, aktywności rozszerzeń i informacji o systemie, by pomóc w wykrywaniu nowych zagrożeń. Tymczasowo łączy te dane z Twoim kontem Gab AI Inc, gdy się na nie zalogujesz, by chronić Cię we wszystkich aplikacjach Gab AI Inc.</translation>
 <translation id="1963976881984600709">Standardowa ochrona</translation>
 <translation id="6882836635272038266">Standardowa ochrona przed stronami, pobieranymi plikami i rozszerzeniami, które są uznawane za niebezpieczne.</translation>
 <translation id="5561162485081632007">Wykrywa niebezpieczne zdarzenia i natychmiast Cię o nich ostrzega</translation>
-<translation id="7810992039564280750">Sprawdza, czy URL jest na liście potencjalnie niebezpiecznych stron zapisanej w Dissenter. Jeśli strona próbuje wykraść Twoje hasło lub pobierasz szkodliwy plik, Dissenter może też wysłać URL wraz z fragmentami zawartości strony do usługi Bezpieczne przeglądanie.</translation>
+<translation id="7810992039564280750">Sprawdza, czy URL jest na liście potencjalnie niebezpiecznych stron zapisanej w Fulldive. Jeśli strona próbuje wykraść Twoje hasło lub pobierasz szkodliwy plik, Fulldive może też wysłać URL wraz z fragmentami zawartości strony do usługi Bezpieczne przeglądanie.</translation>
 <translation id="3847319713229060696">Pomóż poprawić bezpieczeństwo wszystkich użytkowników internetu</translation>
 <translation id="1984417487208496350">Brak ochrony (niezalecane)</translation>
 <translation id="1295971429974142731">Nie chroni przed niebezpiecznymi stronami, pobieranymi plikami ani rozszerzeniami. Funkcja Bezpieczne przeglądanie nadal będzie chronić Cię w innych usługach Gab AI Inc, w których jest dostępna (takich jak Gmail i wyszukiwarka).</translation>
@@ -4205,7 +4205,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="8632933437936028548">Zresetuj ustawienia</translation>
 <translation id="5293170712604732402">Przywróć ustawienia do wartości domyślnych</translation>
 <translation id="892706138619340876">Niektóre ustawienia zostały zresetowane</translation>
-<translation id="2334029754052191847">Przeglądarka Dissenter wykryła, że niektóre z jej ustawień zostały zmodyfikowane przez inny program, i przywróciła im pierwotne wartości domyślne.</translation>
+<translation id="2334029754052191847">Przeglądarka Fulldive wykryła, że niektóre z jej ustawień zostały zmodyfikowane przez inny program, i przywróciła im pierwotne wartości domyślne.</translation>
 <translation id="4582563038311694664">Zresetuj wszystkie ustawienia</translation>
 <translation id="4146785383423576110">Resetowanie komputera i czyszczenie danych</translation>
 <translation id="2603115962224169880">Oczyść komputer</translation>
@@ -4274,7 +4274,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="5340638867532133571">Zezwalaj stronom na instalowanie modułów do obsługi płatności (zalecane)</translation>
 <translation id="763632859238619983">Nie zezwalaj żadnym stronom na instalowanie modułów do obsługi płatności</translation>
 <translation id="8270242299912238708">Dokumenty PDF</translation>
-<translation id="539658326146969381">Pobieraj pliki PDF zamiast otwierać je automatycznie w Dissenter</translation>
+<translation id="539658326146969381">Pobieraj pliki PDF zamiast otwierać je automatycznie w Fulldive</translation>
 <translation id="4434045419905280838">Pop-upy i przekierowania</translation>
 <translation id="6612358246767739896">Treść chroniona</translation>
 <translation id="4252852543720145436">Identyfikatory treści chronionych</translation>
@@ -4335,7 +4335,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="2913331724188855103">Zezwalaj stronom na zapisywanie danych w plikach cookie i ich odczytywanie (zalecane)</translation>
 <translation id="5908769186679515905">Zablokuj uruchamianie Flasha na stronach</translation>
 <translation id="783214144752121388">Zablokuj uruchamianie Flasha na stronach (zalecane)</translation>
-<translation id="6096007141921397775">Ustawienia Flasha będą zachowane tylko do momentu zamknięcia Dissenter.</translation>
+<translation id="6096007141921397775">Ustawienia Flasha będą zachowane tylko do momentu zamknięcia Fulldive.</translation>
 <translation id="8074127646604999664">Zezwól niedawno zamkniętym stronom na dokończenie wysyłania i odbierania danych</translation>
 <translation id="7062222374113411376">Zezwól niedawno zamkniętym stronom na dokończenie wysyłania i odbierania danych (zalecane)</translation>
 <translation id="5068918910148307423">Nie zezwalaj niedawno zamkniętym stronom na dokończenie wysyłania i odbierania danych</translation>
@@ -4415,7 +4415,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="5566692924079383101">Ten wyjątek zostanie automatycznie usunięty, gdy zakończysz bieżącą sesję incognito</translation>
 <translation id="383891835335927981">Żadna strona nie jest powiększana ani pomniejszana</translation>
 <translation id="3566721612727112615">Nie dodano żadnych stron</translation>
-<translation id="8098574385249290065">Niech Dissenter decyduje, które strony mogą odtwarzać dźwięk (zalecane)</translation>
+<translation id="8098574385249290065">Niech Fulldive decyduje, które strony mogą odtwarzać dźwięk (zalecane)</translation>
 <translation id="4354344420232759511">Strony, które odwiedzasz, pojawią się tutaj</translation>
 <translation id="3757733214359997190">Nie znaleziono stron</translation>
 <translation id="6545864417968258051">Skanowanie Bluetooth</translation>
@@ -4428,7 +4428,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Dodawanie strony</translation>
 <translation id="5052499409147950210">Edytowanie strony internetowej</translation>
-<translation id="4610862967073369855">Zezwala Wiadomościom na Androida przesyłać SMS-y z telefonu na Dissenterbooka</translation>
+<translation id="4610862967073369855">Zezwala Wiadomościom na Androida przesyłać SMS-y z telefonu na Fulldivebooka</translation>
 <translation id="6742339027238151589">Dostępny dla skryptu</translation>
 <translation id="361106536627977100">Dane Flash</translation>
 <translation id="8557930019681227453">Plik manifestu</translation>
@@ -4440,7 +4440,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="8016266267177410919">Pamięć tymczasowa</translation>
 <translation id="4175737294868205930">Pamięć trwała</translation>
 <translation id="8397843425685839889">Ty i Gab AI Inc</translation>
-<translation id="8907706281008466056">Zdjęcie profilowe Dissenter</translation>
+<translation id="8907706281008466056">Zdjęcie profilowe Fulldive</translation>
 <translation id="2023167225947895179">Ten kod PIN może być łatwy do odgadnięcia</translation>
 <translation id="5342091991439452114">Kod PIN musi się składać co najmniej z <ph name="MINIMUM"/> cyfr</translation>
 <translation id="5252653240322147470">Liczba cyfr w kodzie PIN musi być mniejsza niż <ph name="MAXIMUM"/></translation>
@@ -4454,26 +4454,26 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="899676909165543803">Czytnik linii papilarnych to klawisz w prawym dolnym rogu klawiatury. Dotknij go delikatnie dowolnym palcem.</translation>
 <translation id="4535767533210902251">Czytnik linii papilarnych to klawisz w prawym górnym rogu klawiatury. Dotknij go delikatnie dowolnym palcem.</translation>
 <translation id="5449551289610225147">Nieprawidłowe hasło</translation>
-<translation id="4326270470840334364">Ponieważ to konto jest zarządzane przez <ph name="DOMAIN"/>, Twoje zakładki, historia, hasła i inne ustawienia zostaną usunięte z tego urządzenia. Twoje dane pozostaną zapisane na koncie Dissenter. Możesz nimi zarządzać w <ph name="BEGIN_LINK"/>Panelu Dissenter<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">Ponieważ to konto jest zarządzane przez <ph name="DOMAIN"/>, Twoje zakładki, historia, hasła i inne ustawienia zostaną usunięte z tego urządzenia. Twoje dane pozostaną zapisane na koncie Fulldive. Możesz nimi zarządzać w <ph name="BEGIN_LINK"/>Panelu Fulldive<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">Edytuj profil</translation>
 <translation id="3699920817649120894">Wyłączyć synchronizację i personalizację?</translation>
 <translation id="5643620609347735571">Usuń i kontynuuj</translation>
 <translation id="5602765853043467355">Usuń z tego urządzenia zakładki, historię, hasła i inne informacje</translation>
 <translation id="4089235344645910861">Ustawienia zapisane. Synchronizacja rozpoczęta.</translation>
 <translation id="6739923123728562974">Pokaż skrót na pulpicie</translation>
-<translation id="2951604498031550705">Twoje zakładki, historia, hasła i inne ustawienia nie będą już synchronizowane z kontem Dissenter. Wcześniejsze dane pozostaną zapisane na koncie Dissenter. Możesz nimi zarządzać w <ph name="BEGIN_LINK"/>Panelu Dissenter<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">Spowoduje to wylogowanie Cię z Twoich kont Dissenter. Twoje zakładki, historia, hasła i inne dane przestaną być synchronizowane.</translation>
+<translation id="2951604498031550705">Twoje zakładki, historia, hasła i inne ustawienia nie będą już synchronizowane z kontem Fulldive. Wcześniejsze dane pozostaną zapisane na koncie Fulldive. Możesz nimi zarządzać w <ph name="BEGIN_LINK"/>Panelu Fulldive<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">Spowoduje to wylogowanie Cię z Twoich kont Fulldive. Twoje zakładki, historia, hasła i inne dane przestaną być synchronizowane.</translation>
 <translation id="8588866096426746242">Wyświetl statystyki profilu</translation>
 <translation id="5535941515421698170">Usuń też swoje dane z tego urządzenia</translation>
 <translation id="2162155940152307086">Synchronizacja rozpocznie się zaraz po zamknięciu ustawień</translation>
-<translation id="1125261911132334651">Zarządzaj kontem Dissenter</translation>
+<translation id="1125261911132334651">Zarządzaj kontem Fulldive</translation>
 <translation id="5117427536932535467">Motywy i tapety</translation>
 <translation id="7257173066616499747">Sieci Wi-Fi</translation>
 <translation id="2120297377148151361">Aktywność i interakcje</translation>
 <translation id="5833397272224757657">Zawartość otwieranych stron oraz informacje o Twoich interakcjach i aktywności w przeglądarce zostaną wykorzystane do personalizacji</translation>
-<translation id="8135094938656535588">Zarządzaj synchronizowanymi danymi w Panelu Dissenter</translation>
-<translation id="5958351589333270173">Szyfruj synchronizowane dane własnym <ph name="BEGIN_LINK"/>hasłem synchronizacji<ph name="END_LINK"/>. Nie obejmuje to form płatności ani adresów w Dissenter Pay.</translation>
-<translation id="4817583816512767754">Twoje zaszyfrowane dane może odczytać tylko ktoś znający hasło. Dissenter nie otrzyma Twojego hasła ani nie będzie go przechowywać. Jeśli je zapomnisz lub zechcesz zmienić to ustawienie, musisz <ph name="BEGIN_LINK"/>zresetować synchronizację<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Zarządzaj synchronizowanymi danymi w Panelu Fulldive</translation>
+<translation id="5958351589333270173">Szyfruj synchronizowane dane własnym <ph name="BEGIN_LINK"/>hasłem synchronizacji<ph name="END_LINK"/>. Nie obejmuje to form płatności ani adresów w Fulldive Pay.</translation>
+<translation id="4817583816512767754">Twoje zaszyfrowane dane może odczytać tylko ktoś znający hasło. Fulldive nie otrzyma Twojego hasła ani nie będzie go przechowywać. Jeśli je zapomnisz lub zechcesz zmienić to ustawienie, musisz <ph name="BEGIN_LINK"/>zresetować synchronizację<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Aby zmienić to ustawienie, <ph name="BEGIN_LINK"/>zresetuj synchronizację<ph name="END_LINK"/>, by usunąć hasło synchronizacji</translation>
 <translation id="3873315167136380065">Aby włączyć tę funkcję, <ph name="BEGIN_LINK"/>zresetuj synchronizację<ph name="END_LINK"/> w celu usunięcia hasła synchronizacji</translation>
 <translation id="6451689256222386810">Jeśli nie pamiętasz hasła lub chcesz zmienić to ustawienie, <ph name="BEGIN_LINK"/>zresetuj synchronizację<ph name="END_LINK"/>.</translation>
@@ -4505,23 +4505,23 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="3817524650114746564">Otwórz ustawienia serwera proxy dla komputera</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> używa ustawień serwera proxy z rozszerzenia</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> używa ustawień serwera proxy określonych przez administratora</translation>
-<translation id="6187156085111579405">W razie potrzeby zostaną usunięte też elementy niewymienione tutaj. Więcej informacji o &lt;a href="<ph name="URL"/>"&gt;ochronie przed niechcianym oprogramowaniem&lt;/a&gt; znajdziesz w dokumencie dotyczącym prywatności w Dissenter.</translation>
+<translation id="6187156085111579405">W razie potrzeby zostaną usunięte też elementy niewymienione tutaj. Więcej informacji o &lt;a href="<ph name="URL"/>"&gt;ochronie przed niechcianym oprogramowaniem&lt;/a&gt; znajdziesz w dokumencie dotyczącym prywatności w Fulldive.</translation>
 <translation id="5280174558369304332">Rozszerzenia do usunięcia:</translation>
 <translation id="7712836429117959503">Nieznane rozszerzenie o identyfikatorze <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">Pliki i programy, które mają być poddane kwarantannie:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 pozycja}few{{NUM_ITEMS} pozycje}many{{NUM_ITEMS} pozycji}other{{NUM_ITEMS} pozycji}}</translation>
 <translation id="7187428571767585875">Wpisy w rejestrze, które zostaną usunięte lub zmienione:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{1 więcej}few{{NUM_DOWNLOADS} więcej}many{{NUM_DOWNLOADS} więcej}other{{NUM_DOWNLOADS} więcej}}</translation>
-<translation id="2749608811030566578">Podczas usuwania szkodliwego oprogramowania przez Dissenter wystąpił błąd</translation>
-<translation id="8189483132214844139">Dissenter może znaleźć i usunąć szkodliwe oprogramowanie na Twoim komputerze</translation>
+<translation id="2749608811030566578">Podczas usuwania szkodliwego oprogramowania przez Fulldive wystąpił błąd</translation>
+<translation id="8189483132214844139">Fulldive może znaleźć i usunąć szkodliwe oprogramowanie na Twoim komputerze</translation>
 <translation id="1426870617281699524">Kliknij Spróbuj ponownie i zaakceptuj komunikat na komputerze</translation>
-<translation id="7886744396008377537">Masz na komputerze szkodliwe oprogramowanie. Dissenter właśnie je usuwa, przywraca Twoje ustawienia i wyłącza rozszerzenia. Dzięki temu przeglądarka znowu będzie działać normalnie.</translation>
-<translation id="1484912962860902625">Podczas wyszukiwania szkodliwego oprogramowania przez Dissenter wystąpił błąd</translation>
+<translation id="7886744396008377537">Masz na komputerze szkodliwe oprogramowanie. Fulldive właśnie je usuwa, przywraca Twoje ustawienia i wyłącza rozszerzenia. Dzięki temu przeglądarka znowu będzie działać normalnie.</translation>
+<translation id="1484912962860902625">Podczas wyszukiwania szkodliwego oprogramowania przez Fulldive wystąpił błąd</translation>
 <translation id="451407183922382411">Technologia <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">Pokaż pliki do usunięcia</translation>
 <translation id="296026337010986570">Gotowe. Szkodliwe oprogramowanie zostało usunięte. Aby z powrotem włączyć rozszerzenia, otwórz &lt;a href="chrome://extensions"&gt;Rozszerzenia&lt;/a&gt;.</translation>
 <translation id="284975061945174219">Błąd czyszczenia</translation>
-<translation id="9014750448058570312">Dissenter wymaga pozwolenia na kontynuację</translation>
+<translation id="9014750448058570312">Fulldive wymaga pozwolenia na kontynuację</translation>
 <translation id="1852141627593563189">Znajdź szkodliwe oprogramowanie</translation>
 <translation id="850875081535031620">Nie znaleziono szkodliwego oprogramowania</translation>
 <translation id="1186771945450942097">Usuń szkodliwe oprogramowanie</translation>
@@ -4534,7 +4534,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="6555810572223193255">Czyszczenie jest obecnie niedostępne</translation>
 <translation id="7117228822971127758">Spróbuj ponownie później</translation>
 <translation id="443475966875174318">Zaktualizuj lub usuń niezgodne aplikacje</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Ta aplikacja może uniemożliwiać prawidłowe działanie Dissenter.}few{Te aplikacje mogą uniemożliwiać prawidłowe działanie Dissenter.}many{Te aplikacje mogą uniemożliwiać prawidłowe działanie Dissenter.}other{Te aplikacje mogą uniemożliwiać prawidłowe działanie Dissenter.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Ta aplikacja może uniemożliwiać prawidłowe działanie Fulldive.}few{Te aplikacje mogą uniemożliwiać prawidłowe działanie Fulldive.}many{Te aplikacje mogą uniemożliwiać prawidłowe działanie Fulldive.}other{Te aplikacje mogą uniemożliwiać prawidłowe działanie Fulldive.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Aby móc dalej przeglądać internet, poproś administratora o usunięcie tej aplikacji.}few{Aby móc dalej przeglądać internet, poproś administratora o usunięcie tych aplikacji.}many{Aby móc dalej przeglądać internet, poproś administratora o usunięcie tych aplikacji.}other{Aby móc dalej przeglądać internet, poproś administratora o usunięcie tych aplikacji.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Dowiedz się, jak zaktualizować aplikacje<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{Aplikacja}few{Aplikacje}many{Aplikacje}other{Aplikacje}}</translation>
@@ -4614,16 +4614,16 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="161042844686301425">Cyjan</translation>
 <translation id="4115378294792113321">Magenta</translation>
 <translation id="8438566539970814960">Ulepsz wyszukiwanie i przeglądanie</translation>
-<translation id="284843628681142937">Adresy URL odwiedzanych stron będą wysyłane do Dissenter</translation>
+<translation id="284843628681142937">Adresy URL odwiedzanych stron będą wysyłane do Fulldive</translation>
 <translation id="7704317875155739195">Autouzupełniaj wyszukiwania i adresy URL</translation>
 <translation id="2000419248597011803">Niektóre pliki cookie oraz zapytania wpisane na pasku adresu i w polu wyszukiwania zostaną wysłane do domyślnej wyszukiwarki</translation>
-<translation id="918192811481327695">Pomóż w ulepszaniu funkcji i działania Dissenter</translation>
+<translation id="918192811481327695">Pomóż w ulepszaniu funkcji i działania Fulldive</translation>
 <translation id="9063160602596686558">Automatycznie przesyła do Gab AI Inc statystyki użytkowania i raporty o awariach</translation>
 <translation id="6697492270171225480">Gdy nie można odnaleźć strony, pokazuj sugestie podobnych stron</translation>
-<translation id="4534361985432360439">Wysyła do Dissenter adres internetowy strony, którą próbujesz otworzyć</translation>
+<translation id="4534361985432360439">Wysyła do Fulldive adres internetowy strony, którą próbujesz otworzyć</translation>
 <translation id="3831436149286513437">Podpowiedzi z Dysku Gab AI Inc podczas wyszukiwania</translation>
 <translation id="5244474230056479698">Synchronizowanie z <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Inteligentne rozwiązania Dissenter w Dissenter</translation>
+<translation id="9125982323641182972">Inteligentne rozwiązania Fulldive w Fulldive</translation>
 <translation id="2537178555904266562">Błąd podczas synchronizowania haseł</translation>
 <translation id="4314815835985389558">Zarządzanie synchronizacją</translation>
 <translation id="8931475688782629595">Zarządzanie synchronizacją</translation>
@@ -4632,18 +4632,18 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="4570387585180509432">Adresy, numery telefonów i inne dane</translation>
 <translation id="3268451620468152448">Otwarte karty</translation>
 <translation id="4684427112815847243">Synchronizuj wszystko</translation>
-<translation id="5428209950370661546">Inne usługi Dissenter</translation>
+<translation id="5428209950370661546">Inne usługi Fulldive</translation>
 <translation id="7399045143794278225">Dostosuj synchronizację</translation>
 <translation id="7044606776288350625">Synchronizowanie danych</translation>
 <translation id="9050666287014529139">Hasło</translation>
 <translation id="6596325263575161958">Opcje szyfrowania</translation>
-<translation id="2459230470861708651">Szyfruj synchronizowane hasła przy użyciu nazwy użytkownika i hasła Dissenter</translation>
+<translation id="2459230470861708651">Szyfruj synchronizowane hasła przy użyciu nazwy użytkownika i hasła Fulldive</translation>
 <translation id="1651008383952180276">Musisz dwukrotnie wpisać to samo hasło</translation>
 <translation id="988978206646512040">Puste hasło jest niedozwolone</translation>
 <translation id="2136476978468204130">Wpisane hasło jest nieprawidłowe</translation>
-<translation id="7505421639213002314">Dane synchronizacji Dissenter</translation>
+<translation id="7505421639213002314">Dane synchronizacji Fulldive</translation>
 <translation id="452750746583162491">Przejrzyj synchronizowane dane</translation>
-<translation id="7956662517480676674">Synchronizacja i usługi Dissenter</translation>
+<translation id="7956662517480676674">Synchronizacja i usługi Fulldive</translation>
 <translation id="7772032839648071052">Potwierdź hasło</translation>
 <translation id="7529411698175791732">Sprawdź połączenie z internetem. Jeśli problem nie ustąpi, wyloguj się i zaloguj ponownie.</translation>
 <translation id="6406506848690869874">Synchronizacja</translation>
@@ -4740,7 +4740,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="1992397118740194946">Nie ustawiono</translation>
 <translation id="6706210727756204531">Zakres</translation>
 <translation id="5532223876348815659">Globalne</translation>
-<translation id="300669147395456190">Aplikacje Dissenter</translation>
+<translation id="300669147395456190">Aplikacje Fulldive</translation>
 <translation id="6787839852456839824">Skróty klawiszowe</translation>
 <translation id="6419546358665792306">Załaduj rozpakowane</translation>
 <translation id="8023801379949507775">Aktualizuj rozszerzenia</translation>
@@ -4754,13 +4754,13 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="8447409163267621480">Uwzględnij Ctrl lub Alt</translation>
 <translation id="3365598184818502391">Użyj klawisza Ctrl lub Alt</translation>
 <translation id="1688935057616748272">Wpisz literę</translation>
-<translation id="1579879232130925590">Dissenter w świetnym stanie</translation>
+<translation id="1579879232130925590">Fulldive w świetnym stanie</translation>
 <translation id="964057662886721376">Niektóre rozszerzenia mogą spowalniać przeglądarkę – zwłaszcza te zainstalowane mimowolnie.</translation>
 <translation id="1499271269825557605">Jeśli nie rozpoznajesz jakiegoś rozszerzenia lub przeglądarka nie działa w oczekiwany sposób, tutaj możesz wyłączyć lub dostosować rozszerzenia.</translation>
 <translation id="2382818385048255866">Sprawdzanie rozszerzeń</translation>
 <translation id="3900789207771372462">Niektóre rozszerzenia widzą Twoją aktywność związaną z przeglądaniem – w tym Twoje dane osobowe.</translation>
 <translation id="6772339735733515807">Zarządzanie rozszerzeniami</translation>
-<translation id="1510515462062582289">Na tej stronie możesz zobaczyć wszystkie rozszerzenia zainstalowane w Dissenter.</translation>
+<translation id="1510515462062582289">Na tej stronie możesz zobaczyć wszystkie rozszerzenia zainstalowane w Fulldive.</translation>
 <translation id="2810390687497823527">Jeśli nie rozpoznajesz jakiegoś rozszerzenia lub przeglądarka nie działa w oczekiwany sposób, tutaj możesz wyłączyć lub dostosować rozszerzenia.</translation>
 <translation id="4479424953165245642">Zarządzaj aplikacjami kiosku</translation>
 <translation id="6619801788773578757">Dodaj aplikację kiosku</translation>
@@ -4776,9 +4776,9 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="2342740338116612727">Dodano zakładki</translation>
 <translation id="7835178595033117206">Zakładka została usunięta</translation>
 <translation id="742130257665691897">Usunięto zakładki</translation>
-<translation id="5468853758063275923">Dissenter jest domyślną przeglądarką</translation>
-<translation id="2950533317914339731">Dodaj zakładki do swoich ulubionych aplikacji Dissenter</translation>
-<translation id="939305735877869636">Dissenter</translation>
+<translation id="5468853758063275923">Fulldive jest domyślną przeglądarką</translation>
+<translation id="2950533317914339731">Dodaj zakładki do swoich ulubionych aplikacji Fulldive</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Mapy</translation>
 <translation id="6709133671862442373">Wiadomości</translation>
@@ -4791,14 +4791,14 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="5033266061063942743">Kształty geometryczne</translation>
 <translation id="7789963078219276159">Zmieniono tło strony startowej na <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Na stronie startowej zostało przywrócone domyślne tło.</translation>
-<translation id="239760341987199724">Ustaw Dissenter jako domyślną przeglądarkę</translation>
-<translation id="96037229054033864">Korzystaj z wyszukiwarki i innych inteligentnych usług Dissenter na każdej stronie, którą otwierasz</translation>
-<translation id="296137235951584143">Dostosuj Dissenter do swoich potrzeb</translation>
+<translation id="239760341987199724">Ustaw Fulldive jako domyślną przeglądarkę</translation>
+<translation id="96037229054033864">Korzystaj z wyszukiwarki i innych inteligentnych usług Fulldive na każdej stronie, którą otwierasz</translation>
+<translation id="296137235951584143">Dostosuj Fulldive do swoich potrzeb</translation>
 <translation id="3982375475032951137">Skonfiguruj przeglądarkę w kilku prostych krokach</translation>
 <translation id="6972754398087986839">Rozpocznij</translation>
-<translation id="3707821975049107110">Używasz już Dissenter? Zaloguj się.</translation>
-<translation id="7113572760575285642">Twój Dissenter na dowolnym urządzeniu</translation>
-<translation id="567643736130151854">Zaloguj się w Dissenter, by mieć dostęp do swoich zakładek, haseł i innych ustawień na wszystkich swoich urządzeniach.</translation>
+<translation id="3707821975049107110">Używasz już Fulldive? Zaloguj się.</translation>
+<translation id="7113572760575285642">Twój Fulldive na dowolnym urządzeniu</translation>
+<translation id="567643736130151854">Zaloguj się w Fulldive, by mieć dostęp do swoich zakładek, haseł i innych ustawień na wszystkich swoich urządzeniach.</translation>
 <translation id="725758059478686223">Usługa drukowania</translation>
 <translation id="15662109988763471">Wybrana drukarka jest niedostępna lub nieprawidłowo zainstalowana. Sprawdź ją lub wybierz inną.</translation>
 <translation id="1430915738399379752">Drukuj</translation>
@@ -4920,7 +4920,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="7574650250151586813">Aby wpisywać tekst, zaktualizuj aplikację Klawiatura Daydream</translation>
 <translation id="983511809958454316">Ta funkcja nie jest obsługiwana w rzeczywistości wirtualnej</translation>
 <translation id="4008291085758151621">Informacje o stronie nie są dostępne w rzeczywistości wirtualnej</translation>
-<translation id="1439926347196400598">Zezwolić Dissenter na nagrywanie dźwięku?</translation>
+<translation id="1439926347196400598">Zezwolić Fulldive na nagrywanie dźwięku?</translation>
 <translation id="6313641880021325787">WYŁĄCZ TRYB VR</translation>
 <translation id="2670429602441959756">Strona zawiera funkcje, które nie są jeszcze obsługiwane w rzeczywistości wirtualnej. Zamykam…</translation>
 <translation id="1802687198411089702">Strona nie odpowiada. Możesz zaczekać lub ją zamknąć.</translation>
@@ -4942,7 +4942,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="1721312023322545264">Aby wejść na tę stronę, musisz uzyskać pozwolenie od użytkownika <ph name="NAME"/></translation>
 <translation id="7543525346216957623">Poproś rodzica</translation>
 <translation id="471880041731876836">Nie masz pozwolenia, by wejść na tę stronę</translation>
-<translation id="3480834636742786788">Aby użyć tej aplikacji, najpierw uruchom Dissenter i zaloguj się w nim.</translation>
+<translation id="3480834636742786788">Aby użyć tej aplikacji, najpierw uruchom Fulldive i zaloguj się w nim.</translation>
 <translation id="2851634818064021665">Musisz mieć pozwolenie, by wejść na tę stronę</translation>
 <translation id="4933782374919065856">Masz pytania? Skontaktuj się z osobą, która nadzoruje Twój profil.</translation>
 <translation id="2712173769900027643">Poproś o pozwolenie</translation>
@@ -4962,7 +4962,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="7755287808199759310">Może ją dla Ciebie odblokować Twój rodzic</translation>
 <translation id="5732392974455271431">Mogą ją dla Ciebie odblokować Twoi rodzice</translation>
 <translation id="3556433843310711081">Twój menedżer może ją dla Ciebie odblokować</translation>
-<translation id="1254756632288991504">Uruchom Dissenter i zaloguj się w nim, by mógł sprawdzić, czy masz uprawnienia dostępu do tej strony.</translation>
+<translation id="1254756632288991504">Uruchom Fulldive i zaloguj się w nim, by mógł sprawdzić, czy masz uprawnienia dostępu do tej strony.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> – wstrzymano</translation>
 <translation id="8015163965024115122">Ustawiony przez rodzica czas korzystania z aplikacji <ph name="IDS_SHORT_PRODUCT_NAME"/> lub <ph name="IDS_SHORT_PRODUCT_NAME"/> dobiegł końca.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> – wstrzymano</translation>

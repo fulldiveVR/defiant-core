@@ -26,9 +26,9 @@
 <translation id="3700405816184340252">Zgodovina v Chromu</translation>
 <translation id="7602079150116086782">Ni zavihkov iz drugih naprav</translation>
 <translation id="4619615317237390068">Zavihki iz drugih naprav</translation>
-<translation id="82609232232243542">Prijava v Gab AI Inc Dissenter</translation>
+<translation id="82609232232243542">Prijava v Gab AI Inc Fulldive</translation>
 <translation id="4627442949885028695">Nadaljevanje iz druge naprave</translation>
-<translation id="7253276740368043692">Če želite dostopati do zavihkov v drugih napravah, se prijavite v Dissenter.</translation>
+<translation id="7253276740368043692">Če želite dostopati do zavihkov v drugih napravah, se prijavite v Fulldive.</translation>
 <translation id="6351063337294363751">Podatke o brskanju lahko izbrišete v tem meniju</translation>
 <translation id="6040143037577758943">Zapri</translation>
 <translation id="6463795194797719782">&amp;Urejanje</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Nastavitve ...</translation>
 <translation id="5801568494490449797">Prednostne nastavitve</translation>
 <translation id="3677911431265050325">Zahtevaj spletno mesto za mobilno napravo</translation>
-<translation id="236470849334943016">Pogoji storitve za Dissenter se bodo spremenili 31. marca</translation>
+<translation id="236470849334943016">Pogoji storitve za Fulldive se bodo spremenili 31. marca</translation>
 <translation id="1032605640136438169">Preglejte nove pogoje</translation>
 <translation id="8712637175834984815">Razumem</translation>
 <translation id="5007392906805964215">Pregled</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Znova zaženi</translation>
 <translation id="3479552764303398839">Ne zdaj</translation>
 <translation id="1008557486741366299">Ne zdaj</translation>
-<translation id="8201192017531062522">Dissenter se izvaja naprej, dokler so odprte aplikacije za Dissenter.</translation>
-<translation id="7397305826909094212">Zapri vse aplikacije za Dissenter</translation>
+<translation id="8201192017531062522">Fulldive se izvaja naprej, dokler so odprte aplikacije za Fulldive.</translation>
+<translation id="7397305826909094212">Zapri vse aplikacije za Fulldive</translation>
 <translation id="5026874946691314267">Ne prikaži več tega</translation>
 <translation id="91568222606626347">Ustvari bližnjico ...</translation>
 <translation id="2783321960289401138">Ustvari bližnjico ...</translation>
@@ -825,7 +825,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
 <translation id="3183139917765991655">Uvoznik profilov</translation>
 <translation id="7367714965999718019">Generator kod QR</translation>
 <translation id="2190069059097339078">Pripomoček za pridobivanje poverilnic za WiFi</translation>
-<translation id="5920835625712313205">Zapisovalnik sistemskih slik za OS Dissenter</translation>
+<translation id="5920835625712313205">Zapisovalnik sistemskih slik za OS Fulldive</translation>
 <translation id="4873312501243535625">Pripomoček za preverjanje predstavnostnih datotek</translation>
 <translation id="5972666587303800813">Nedelujoča storitev</translation>
 <translation id="1545775234664667895">Nameščena tema »<ph name="THEME_NAME"/>«</translation>
@@ -1004,7 +1004,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
 <translation id="1616298854599875024">Razširitve »<ph name="IMPORT_NAME"/>« ni mogoče uvoziti, ker ni modul v skupni rabi.</translation>
 <translation id="2131077480075264">»<ph name="APP_NAME"/>« ni mogoče namestiti, ker »<ph name="IMPORT_NAME"/>« tega ne dovoli.</translation>
 <translation id="1875387611427697908">To je mogoče dodati samo z mesta <ph name="CHROME_WEB_STORE"/></translation>
-<translation id="3862788408946266506">Aplikacijo z atributom manifesta »kiosk_only« je treba namestiti v načinu kioska sistema OS Dissenter</translation>
+<translation id="3862788408946266506">Aplikacijo z atributom manifesta »kiosk_only« je treba namestiti v načinu kioska sistema OS Fulldive</translation>
 <translation id="3834775135533257713">Aplikacije »<ph name="TO_INSTALL_APP_NAME"/>« ni bilo mogoče dodati, ker je v sporu z aplikacijo »<ph name="INSTALLED_APP_NAME"/>«.</translation>
 <translation id="144518587530125858">Ni bilo mogoče naložiti slike »<ph name="IMAGE_PATH"/>« za temo.</translation>
 <translation id="3576324189521867626">Uspešno nameščeno</translation>
@@ -1314,7 +1314,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8017679124341497925">Bližnjica je bila urejena</translation>
 <translation id="1174073918202301297">Bližnjica je bila dodana</translation>
 <translation id="2926085873880284723">Obnovi privzete bližnjice</translation>
-<translation id="5801450813341024983">Ozadja za Dissenter</translation>
+<translation id="5801450813341024983">Ozadja za Fulldive</translation>
 <translation id="2800760947029405028">Naloži sliko</translation>
 <translation id="8342861492835240085">Izberi zbirko</translation>
 <translation id="3132996321662585180">Dnevno osveževanje</translation>
@@ -1462,7 +1462,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6686817083349815241">Shranite geslo</translation>
 <translation id="8141725884565838206">Upravljanje gesel</translation>
 <translation id="8275038454117074363">Uvozi</translation>
-<translation id="3191314862567596053">Uvoz gesel v Dissenter</translation>
+<translation id="3191314862567596053">Uvoz gesel v Fulldive</translation>
 <translation id="6368144843345980623">Izvoz gesel iz Chroma</translation>
 <translation id="8503813439785031346">Uporabniško ime</translation>
 <translation id="6657585470893396449">Geslo</translation>
@@ -1494,7 +1494,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="7052237160939977163">Pošlji podatke za sledenje učinkovitosti delovanja</translation>
 <translation id="5526928694260255286">Priložite <ph name="BEGIN_LINK"/>Dnevnike za Bluetooth<ph name="END_LINK"/> (Gab AI Inc – interno)</translation>
 <translation id="3047644958362961983">S temi podatki si pomagamo pri razumevanju vaše težave s Pomočnikom. Shranjeni so do 90 dni in dostop je omogočen samo ustreznim skupinam inženirjev in skupinam za povratne informacije.</translation>
-<translation id="8545590844135745781">Googlovi uporabniki lahko za boljše diagnosticiranje težav z Bluetoothom v poročila s povratnimi informacijami vključijo dodatne dnevnike za Bluetooth. Če je označena ta možnost, bosta v vašem poročilu vključena dnevnika btsnoop in HCI iz trenutne seje, in sicer prečiščena tako, da je odstranjenih čim več podatkov, ki omogočajo osebno prepoznavo. Dostop do teh dnevnikov bo omejen na skrbnike skupine izdelkov OS Dissenter za Listnr. Dnevniki bodo trajno odstranjeni po 90 dneh.</translation>
+<translation id="8545590844135745781">Googlovi uporabniki lahko za boljše diagnosticiranje težav z Bluetoothom v poročila s povratnimi informacijami vključijo dodatne dnevnike za Bluetooth. Če je označena ta možnost, bosta v vašem poročilu vključena dnevnika btsnoop in HCI iz trenutne seje, in sicer prečiščena tako, da je odstranjenih čim več podatkov, ki omogočajo osebno prepoznavo. Dostop do teh dnevnikov bo omejen na skrbnike skupine izdelkov OS Fulldive za Listnr. Dnevniki bodo trajno odstranjeni po 90 dneh.</translation>
 <translation id="4206323443866416204">Poročilo s povratnimi informacijami</translation>
 <translation id="3681311097828166361">Hvala za povratne informacije. Trenutno nimate povezave, zato bo poročilo poslano pozneje.</translation>
 <translation id="8713570323158206935">Pošlji <ph name="BEGIN_LINK1"/>podatke o sistemu<ph name="END_LINK1"/></translation>
@@ -1650,7 +1650,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="4711067597921221305">Pomagajte izboljšati <ph name="PRODUCT_NAME"/> s samodejnim pošiljanjem statističnih podatkov o uporabi in poročil o zrušitvah Googlu</translation>
 <translation id="5972826969634861500">Zaženi <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Pomagajte našim tehnikom preučiti in odpraviti to zrušitev. Natančno navedite svoje korake, če lahko. Pomembna je vsaka podrobnost.</translation>
-<translation id="5418694430960033386">Dissenter je zmanjkalo pomnilnika ali pa se je proces spletne strani končal iz drugih razlogov. Če želite nadaljevati, znova naložite ali pojdite na drugo stran.</translation>
+<translation id="5418694430960033386">Fulldive je zmanjkalo pomnilnika ali pa se je proces spletne strani končal iz drugih razlogov. Če želite nadaljevati, znova naložite ali pojdite na drugo stran.</translation>
 <translation id="3065041951436100775">Povratne informacije o zaustavitvi zavihka.</translation>
 <translation id="3941565636838060942">Če želite skriti dostop do tega programa, ga morate odstraniti z možnostjo
   <ph name="CONTROL_PANEL_APPLET_NAME"/> na nadzorni plošči.
@@ -1678,10 +1678,10 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="4980805016576257426">Ta razširitev vsebuje zlonamerno programsko opremo.</translation>
 <translation id="5522156646677899028">Ta razširitev vsebuje veliko varnostno ranljivost.</translation>
 <translation id="6945695820322143954">Ta razširitev krši politiko spletne trgovine.</translation>
-<translation id="177808131755847449">Razširitev je onemogočil Dissenter, ker morda ni varna.</translation>
+<translation id="177808131755847449">Razširitev je onemogočil Fulldive, ker morda ni varna.</translation>
 <translation id="1434696352799406980">S tem bodo ponastavljeni začetna stran, nov zavihek s povezavami, iskalnik in pripeti zavihki. Prav tako bodo onemogočene vse razširitve in izbrisani bodo začasni podatki, kot so piškotki. Zaznamki, zgodovina in shranjena gesla ne bodo izbrisani.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> želi ponastaviti nastavitve.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> želi vaše nastavitve za Dissenter ponastaviti na izvirne privzete nastavitve. S tem bodo ponastavljeni domača stran, nov zavihek s povezavami in iskalnik ter onemogočene razširitve in odpeti vsi zavihki. S tem bodo tudi izbrisani začasni in predpomnjeni podatki, kot so piškotki, vsebina in podatki spletnih mest.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> želi vaše nastavitve za Fulldive ponastaviti na izvirne privzete nastavitve. S tem bodo ponastavljeni domača stran, nov zavihek s povezavami in iskalnik ter onemogočene razširitve in odpeti vsi zavihki. S tem bodo tudi izbrisani začasni in predpomnjeni podatki, kot so piškotki, vsebina in podatki spletnih mest.</translation>
 <translation id="7581462281756524039">Orodje za čiščenje</translation>
 <translation id="1233721473400465416">Jezik</translation>
 <translation id="2907619724991574506">Zagonski URL-ji</translation>
@@ -1875,7 +1875,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6664774537677393800">Pri odpiranju profila je prišlo do težave. Odjavite se in se znova prijavite.</translation>
 <translation id="1794791083288629568">Pošiljanje povratnih informacij zaradi odpravljanja te težave.</translation>
 <translation id="8234795456569844941">Pomagajte našim tehnikom odpraviti to težavo. Opišite, kaj se je zgodilo, tik preden se je prikazalo sporočilo o napaki profila:</translation>
-<translation id="6500340165622970282">Chroma ni mogoče zagnati, ker je prišlo do težave pri odpiranju profila. Poskusite znova zagnati Dissenter.</translation>
+<translation id="6500340165622970282">Chroma ni mogoče zagnati, ker je prišlo do težave pri odpiranju profila. Poskusite znova zagnati Fulldive.</translation>
 <translation id="6812349420832218321">Programa <ph name="PRODUCT_NAME"/> ni mogoče zagnati kot korenski uporabnik.</translation>
 <translation id="2292848386125228270">Zaženite <ph name="PRODUCT_NAME"/> kot običajni uporabnik. Če ga morate zaradi razvoja izvajati kot korenski uporabnik, ga znova zaženite z zastavico »--no-sandbox«.</translation>
 <translation id="7547317915858803630">Opozorilo: Nastavitve za <ph name="PRODUCT_NAME"/> so shranjene v omrežnem pogonu, zaradi česa lahko pride do upočasnitev, zrušitev ali celo izgube podatkov.</translation>
@@ -2251,8 +2251,8 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="4720113199587244118">Dodaj naprave</translation>
 <translation id="2776441542064982094">Zdi se, da ni naprav, ki bi jih bilo mogoče registrirati v omrežju. Če je vaša naprava vklopljena in ima internetno povezavo, jo poskušajte registrirati po postopku iz priročnika z navodili za napravo.</translation>
 <translation id="1007408791287232274">Naprav ni bilo mogoče naložiti.</translation>
-<translation id="3886420006370338208">Če želite videti svoje naprave, se morate prijaviti v Dissenter</translation>
-<translation id="6711610692002680394">Za registracijo novih naprav se morate prijaviti v Dissenter</translation>
+<translation id="3886420006370338208">Če želite videti svoje naprave, se morate prijaviti v Fulldive</translation>
+<translation id="6711610692002680394">Za registracijo novih naprav se morate prijaviti v Fulldive</translation>
 <translation id="8931394284949551895">Nove naprave</translation>
 <translation id="3752673729237782832">Moje naprave</translation>
 <translation id="1721937473331968728">V <ph name="CLOUD_PRINT_NAME"/> lahko dodate navadne tiskalnike, priključene na računalnik.</translation>
@@ -2325,7 +2325,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="4540437243849625078">Ta spletna stran bo v kratkem delila informacije z aplikacijo zunaj zasebnega načina.</translation>
 <translation id="1227836882233136433">Želite zapustiti način brez beleženja zgodovine?</translation>
 <translation id="662080504995468778">Ostani</translation>
-<translation id="2593289874938379417">Dissenter nima dostopa do zahtevanega vira</translation>
+<translation id="2593289874938379417">Fulldive nima dostopa do zahtevanega vira</translation>
 <translation id="760197030861754408">Odprite <ph name="LANDING_PAGE"/>, če želite vzpostaviti povezavo.</translation>
 <translation id="3648348069317717750">Zaznana naprava USB: <ph name="USB_DEVICE_NAME"/></translation>
 <translation id="5042282098504489593">Odprite nastavitve, če želite napravo <ph name="USB_DEVICE_NAME"/> povezati z Linuxom</translation>
@@ -2380,7 +2380,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="2859806420264540918">To spletno mesto prikazuje vsiljive ali zavajajoče oglase.</translation>
 <translation id="4077917118009885966">Oglasi blokirani na tem spletnem mestu</translation>
 <translation id="6456955391422100996">Oglas je odstranjen.</translation>
-<translation id="7533556202636568669">Ta oglas uporablja preveč sredstev za napravo, zato ga je Dissenter odstranil.</translation>
+<translation id="7533556202636568669">Ta oglas uporablja preveč sredstev za napravo, zato ga je Fulldive odstranil.</translation>
 <translation id="8497219075884839166">Orodja sistema Windows</translation>
 <translation id="897525204902889653">Storitev karantene</translation>
 <translation id="7055152154916055070">Preusmeritev je preprečena:</translation>
@@ -2393,11 +2393,11 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8438328416656800239">Preklop na pametni brskalnik</translation>
 <translation id="491691592645955587">Preklop na varni brskalnik</translation>
 <translation id="683373380308365518">Preklop na pametni in varni brskalnik</translation>
-<translation id="989239400026154074">Gab AI Inc priporoča Dissenter</translation>
-<translation id="6676231621615806698">Odpri Dissenter</translation>
+<translation id="989239400026154074">Gab AI Inc priporoča Fulldive</translation>
+<translation id="6676231621615806698">Odpri Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> uporablja lokacijo za zagotavljanje lokalne vsebine. To lahko spremenite tukaj: <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Tu so prikazani prenosi</translation>
-<translation id="4782664866169793230">Dissenter upravlja avtomatizirana preskusna programska oprema.</translation>
+<translation id="4782664866169793230">Fulldive upravlja avtomatizirana preskusna programska oprema.</translation>
 <translation id="6721678857435001674">Ogled znamke in modela varnostnega ključa</translation>
 <translation id="1673137583248014546"><ph name="URL"/> si želi ogledati znamko in model varnostnega ključa</translation>
 <translation id="6010869025736512584">Dostopanje do videovhoda</translation>
@@ -2530,7 +2530,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="3984431586879874039">Dovolite, da si to spletno mesto ogleda vaš varnostni ključ?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> si želi ogledati znamko in model varnostnega ključa</translation>
 <translation id="7618452966706304788">Ali želite uporabiti funkcijo Touch ID <ph name="APP_NAME"/> v načinu brez beleženja zgodovine?</translation>
-<translation id="3098826269712097986">Podatki za prijavo bodo shranjeni v programu Dissenter, ko zapustite brez beleženja zgodovine. S tem boste pozneje znova uporabili funkcijo Touch ID s to spletno stranjo.</translation>
+<translation id="3098826269712097986">Podatki za prijavo bodo shranjeni v programu Fulldive, ko zapustite brez beleženja zgodovine. S tem boste pozneje znova uporabili funkcijo Touch ID s to spletno stranjo.</translation>
 <translation id="2172784515318616985">Naprej</translation>
 <translation id="5186185447130319458">Način brez beleženja zgodovine</translation>
 <translation id="7643842463591647490">{0,plural, =1{# odprto okno}one{# odprto okno}two{# odprti okni}few{# odprta okna}other{# odprtih oken}}</translation>
@@ -2572,7 +2572,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="2346953515226895098">Storitev SODA</translation>
 <translation id="7516981202574715431">Aplikacija <ph name="APP_NAME"/> je začasno zaustavljena</translation>
 <translation id="917350715406657904">Dosegel(-la) si časovno omejitev, ki jo je starš nastavil za aplikacijo <ph name="APP_NAME"/>. Jutri jo lahko uporabljaš <ph name="TIME_LIMIT"/>.</translation>
-<translation id="8891261408659902804">Dosegel(-la) si časovno omejitev, ki jo je starš nastavil za aplikacijo <ph name="APP_NAME"/> za Dissenter. Jutri jo lahko uporabljaš <ph name="TIME_LIMIT"/>.</translation>
+<translation id="8891261408659902804">Dosegel(-la) si časovno omejitev, ki jo je starš nastavil za aplikacijo <ph name="APP_NAME"/> za Fulldive. Jutri jo lahko uporabljaš <ph name="TIME_LIMIT"/>.</translation>
 <translation id="142655739075382478">Aplikacija <ph name="APP_NAME"/> je blokirana</translation>
 <translation id="4404843640767531781">Aplikacijo <ph name="APP_NAME"/> je blokiral starš. Če želiš uporabljati to aplikacijo, prosi starša za dovoljenje.</translation>
 <translation id="751523031290522286">Aplikacijo <ph name="APP_NAME"/> je blokiral skrbnik. Če želite uporabljati to aplikacijo, prosite skrbnika za dovoljenje.</translation>
@@ -2917,7 +2917,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="672213144943476270">Preden brskate kot gost, odklenite profil.</translation>
 <translation id="8086119151297127544">Svoj profil odklenite preden odstranite profil.</translation>
 <translation id="7805701378418968629">Svoj profil odklenite preden dodate profil.</translation>
-<translation id="8978225823042133615">Če želite uporabljati Dissenter, se prijavite</translation>
+<translation id="8978225823042133615">Če želite uporabljati Fulldive, se prijavite</translation>
 <translation id="4893336867552636863">S tem boste iz te naprave trajno izbrisali podatke o brskanju.</translation>
 <translation id="2496180316473517155">Zgodovina brskanja</translation>
 <translation id="6865313869410766144">Podatki za samodejno izpolnjevanje obrazcev</translation>
@@ -2941,7 +2941,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="9013707997379828817">Skrbnik je povrnil napravo na prejšnjo različico. Shranite pomembne datoteke, nato napravo znova zaženite. Vsi podatki v napravi bodo izbrisani.</translation>
 <translation id="5877064549588274448">Kanal spremenjen. Znova zaženite napravo, da uveljavite spremembe.</translation>
 <translation id="4716483597559580346">Opravite postopek »Powerwash« zaradi dodane varnosti</translation>
-<translation id="4089922565956168950">S to nadgradnjo bo ponastavljen Dissenterbook in odstranjeni bodo trenutni uporabniški podatki.</translation>
+<translation id="4089922565956168950">S to nadgradnjo bo ponastavljen Fulldivebook in odstranjeni bodo trenutni uporabniški podatki.</translation>
 <translation id="3688526734140524629">Spremeni različico</translation>
 <translation id="6410328738210026208">Sprememba različice in Powerwash</translation>
 <translation id="1979280758666859181">Preklapljate na kanal s starejšo različico brskalnika <ph name="PRODUCT_NAME"/>. Sprememba kanala bo uporabljena, ko se različica kanala ujema z različico, ki je trenutno nameščena v vaši napravi.</translation>
@@ -2973,7 +2973,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> in še 1 račun}one{<ph name="EMAIL"/> in še <ph name="EXTRA_ACCOUNTS"/> račun}two{<ph name="EMAIL"/> in še <ph name="EXTRA_ACCOUNTS"/> računa}few{<ph name="EMAIL"/> in še <ph name="EXTRA_ACCOUNTS"/> računi}other{<ph name="EMAIL"/> in še <ph name="EXTRA_ACCOUNTS"/> računov}}</translation>
 <translation id="7434635829372401939">Sinhroniziranje nastavitev</translation>
 <translation id="1036348656032585052">Izklop</translation>
-<translation id="3267705913905916810">Vaše aplikacije in nastavitve se bodo sinhronizirale v vseh napravah s sistemom Dissenter OS, v katerih ste prijavljeni z računom Gab AI Inc. Če vas zanimajo možnosti sinhronizacije brskalnika, odprite <ph name="LINK_BEGIN"/>Chromove nastavitve<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Vaše aplikacije in nastavitve se bodo sinhronizirale v vseh napravah s sistemom Fulldive OS, v katerih ste prijavljeni z računom Gab AI Inc. Če vas zanimajo možnosti sinhronizacije brskalnika, odprite <ph name="LINK_BEGIN"/>Chromove nastavitve<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Tiskalniki</translation>
 <translation id="8418661265246754237">Gab AI Inc Računi</translation>
 <translation id="3953834000574892725">Moji računi</translation>
@@ -3020,7 +3020,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="2187700606737131818">Gab AI Inc Foto</translation>
 <translation id="1827738518074806965">Umetnostna galerija</translation>
 <translation id="9137157311132182254">Prednostni iskalnik</translation>
-<translation id="7423118389528876103">Uporabljata brskalnik Dissenter in zaganjalnik za napravo <ph name="DEVICE_TYPE"/></translation>
+<translation id="7423118389528876103">Uporabljata brskalnik Fulldive in zaganjalnik za napravo <ph name="DEVICE_TYPE"/></translation>
 <translation id="2862205630718215619">Pomočnik Gab AI Inc</translation>
 <translation id="8959699239363253085">Vklopljeno</translation>
 <translation id="971479617738309149">Izklopljeno</translation>
@@ -3040,15 +3040,15 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6644513150317163574">Neveljavna oblika URL-ja. Če se uporablja preverjanje pristnosti z enotno prijavo, mora biti strežnik naveden kot gostitelj.</translation>
 <translation id="6091761513005122595">Datotečno sredstvo v skupni rabi je bilo uspešno vpeto.</translation>
 <translation id="5770125698810550803">Pokaži gumbe za krmarjenje</translation>
-<translation id="2972318514147518075">Premikanje na začetni zaslon in nazaj ter preklop med aplikacijami z gumbi v načinu tabličnega računalnika. Ta možnost je vklopljena, če je omogočen DissenterVox ali je omogočena možnost samodejnih klikov.</translation>
+<translation id="2972318514147518075">Premikanje na začetni zaslon in nazaj ter preklop med aplikacijami z gumbi v načinu tabličnega računalnika. Ta možnost je vklopljena, če je omogočen FulldiveVox ali je omogočena možnost samodejnih klikov.</translation>
 <translation id="2558896001721082624">Vedno pokaži možnosti funkcij za ljudi s posebnimi potrebami v sistemskem meniju</translation>
 <translation id="2981113813906970160">Pokaži velik miškin kazalec</translation>
 <translation id="5072052264945641674">Prilagoditev velikosti kazalca</translation>
 <translation id="4209092469652827314">Velika</translation>
 <translation id="499165176004408815">Uporabi visokokontrastni način</translation>
 <translation id="142758023928848008">Omogočanje zaklepanja tipk (za vnos bližnjičnih tipk z zaporednim tipkanjem)</translation>
-<translation id="5914872514449971753">Omogoči DissenterVox (izgovarjava povratnih informacij)</translation>
-<translation id="7099511550603534982">Odpri nastavitve DissenterVoxa</translation>
+<translation id="5914872514449971753">Omogoči FulldiveVox (izgovarjava povratnih informacij)</translation>
+<translation id="7099511550603534982">Odpri nastavitve FulldiveVoxa</translation>
 <translation id="8547013269961688403">Omogoči celozaslonsko lupo</translation>
 <translation id="8743390665131937741">Stopnja povečave celozaslonske lupe:</translation>
 <translation id="7334274148831027933">Omogoči zasidrano lupo</translation>
@@ -3212,7 +3212,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="234889437187286781">Napaka pri nalaganju podatkov</translation>
 <translation id="4660540330091848931">Spreminjanje velikosti</translation>
 <translation id="1481537595330271162">Napaka pri spreminjanju velikosti diska</translation>
-<translation id="2756917833575664962">Če želite omogočiti most za odpravljanje težav s sistemom Android (ADB), morate ta Dissenterbook ponastaviti na tovarniške nastavitve. <ph name="BEGIN_LINK_LEARN_MORE"/>Več o tem<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">Če želite omogočiti most za odpravljanje težav s sistemom Android (ADB), morate ta Fulldivebook ponastaviti na tovarniške nastavitve. <ph name="BEGIN_LINK_LEARN_MORE"/>Več o tem<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">Če želite omogočiti odpravljanje napak z mostom za odpravljanje težav s sistemom Android (ADB), morate znova zagnati napravo <ph name="DEVICE_TYPE"/>. Če ga onemogočite, je potrebna ponastavitev na tovarniške nastavitve.</translation>
 <translation id="8082390128630131497">Če onemogočite odpravljanje napak z mostom za odpravljanje težav s sistemom Android (ADB), bo ta naprava <ph name="DEVICE_TYPE"/> ponastavljena na tovarniške nastavitve. Izbrisani bodo vsi uporabniški računi in lokalni podatki.</translation>
 <translation id="7932969338829957666">Mape v skupni rabi so v Linuxu na voljo v <ph name="BASE_DIR"/>.</translation>
@@ -3340,10 +3340,10 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8002670234429879764">Tiskalnik <ph name="PRINTER_NAME"/> ni več na voljo</translation>
 <translation id="3976108569178263973">Noben tiskalnik ni na voljo.</translation>
 <translation id="217576141146192373">Tiskalnika ni mogoče dodati. Preverite konfiguracijo tiskalnika in poskusite znova.</translation>
-<translation id="4052689580269971502">Ni se mogoče povezati s tiskalnikom. Preverite, ali je tiskalnik vklopljen in povezan s Dissenterbookom prek omrežja Wi-Fi ali z USB-jem.</translation>
+<translation id="4052689580269971502">Ni se mogoče povezati s tiskalnikom. Preverite, ali je tiskalnik vklopljen in povezan s Fulldivebookom prek omrežja Wi-Fi ali z USB-jem.</translation>
 <translation id="7099337801055912064">Velikih datotek PPD ni mogoče naložiti. Največja dovoljena velikost je 250 KB.</translation>
 <translation id="4310139701823742692">Datoteka je v napačni obliki zapisa. Preverite datoteko PPD in poskusite znova.</translation>
-<translation id="6580983683519551561">Datoteke PPD ni mogoče najti. Preverite, ali je Dissenterbook povezan v splet, in poskusite znova.</translation>
+<translation id="6580983683519551561">Datoteke PPD ni mogoče najti. Preverite, ali je Fulldivebook povezan v splet, in poskusite znova.</translation>
 <translation id="4694024090038830733">Konfiguracijo tiskalnikov upravlja skrbnik.</translation>
 <translation id="5816434091619127343">Če uveljavite zahtevane spremembe tiskalnika, bo ta neuporaben.</translation>
 <translation id="6504611359718185067">Povežite se v internet, če želite dodati tiskalnik</translation>
@@ -3679,18 +3679,18 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="7770651108375708429">Prekinitev povezave z Wi-Fi-jem</translation>
 <translation id="4168015872538332605">Nekatere nastavitve, ki se nanašajo na uporabnika <ph name="PRIMARY_EMAIL"/>, so deljene z vami. Te nastavitve vplivajo na vaš račun samo pri uporabi prijave z več računi.</translation>
 <translation id="1485141095922496924">Različica <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Samodejno posodobi Dissenter za vse uporabnike</translation>
+<translation id="4570609078116869893">Samodejno posodobi Fulldive za vse uporabnike</translation>
 <translation id="7102687220333134671">Samodejne posodobitve so vklopljene</translation>
 <translation id="6981982820502123353">Dostopnost</translation>
 <translation id="5840822070878669614">Odpri spletno trgovino</translation>
 <translation id="6073903501322152803">Dodajanje funkcij za ljudi s posebnimi potrebami</translation>
 <translation id="7988355189918024273">Omogoči funkcije za ljudi s posebnimi potrebami</translation>
-<translation id="5499063270485366718">Če slika nima koristnega opisa, ga bo Dissenter poskušal zagotoviti. Opisi se ustvarijo tako, da se slike pošljejo Googlu.</translation>
+<translation id="5499063270485366718">Če slika nima koristnega opisa, ga bo Fulldive poskušal zagotoviti. Opisi se ustvarijo tako, da se slike pošljejo Googlu.</translation>
 <translation id="8957762313041272117">Samodejni podnapisi</translation>
 <translation id="7075426315046750605">Samodejni podnapisi zaznavajo govor v predstavnostni vsebini in samodejno ustvarijo podnapise za vso predstavnost, ki se predvaja v Chromu.</translation>
 <translation id="572155275267014074">Nastavitve za Android</translation>
 <translation id="7201042526153088083">Namestite aplikacije in igre iz Googla Play v napravi <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Več o tem&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Aplikacije, ki ste jih prenesli iz Googla Play, bodo izbrisane iz tega Dissenterbooka.
+<translation id="8039595758121742506">Aplikacije, ki ste jih prenesli iz Googla Play, bodo izbrisane iz tega Fulldivebooka.
       <ph name="LINE_BREAKS1"/>
       Kupljena vsebina, na primer filmi, TV-oddaje, glasba, knjige ali drugi nakupi v aplikacijah, bo morda tudi izbrisana.
       <ph name="LINE_BREAKS2"/>
@@ -3704,7 +3704,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6006484371116297560">Klasična</translation>
 <translation id="1795214765651529549">Uporabi klasično</translation>
 <translation id="2332742915001411729">Ponastavi na privzeto</translation>
-<translation id="8338457030135232378">Barve za Dissenter</translation>
+<translation id="8338457030135232378">Barve za Fulldive</translation>
 <translation id="827097179112817503">Pokaži gumb za domačo stran</translation>
 <translation id="383007806262310953">Pokaži vrstico z zaznamki</translation>
 <translation id="3911824782900911339">Nov zavihek s povezavami</translation>
@@ -3716,7 +3716,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1670399744444387456">Osnovno</translation>
 <translation id="1763808908432309942">Odpre se na novem zavihku</translation>
 <translation id="6248988683584659830">Nastavitve iskanja</translation>
-<translation id="883304095704384301">Odprite <ph name="BEGIN_LINK_CHROMIUM"/>pomoč za Gab AI Inc Dissenter<ph name="END_LINK_CHROMIUM"/>, če ne najdete tega, kar iščete</translation>
+<translation id="883304095704384301">Odprite <ph name="BEGIN_LINK_CHROMIUM"/>pomoč za Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/>, če ne najdete tega, kar iščete</translation>
 <translation id="6406708970972405507">Nastavitve – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Gumb za podstran</translation>
 <translation id="379509625511193653">Izklopljeno</translation>
@@ -3903,7 +3903,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="5468173180030470402">Iskanje datotečnih sredstev v skupni rabi</translation>
 <translation id="3336664756920573711">Odklenite napravo <ph name="DEVICE_TYPE"/> s telefonom Android.</translation>
 <translation id="1164674268730883318">Želite izklopiti Smart Lock za napravo <ph name="DEVICE_TYPE"/>?</translation>
-<translation id="2739030071582769583">Če izklopite Smart Lock za napravo <ph name="DEVICE_TYPE"/>, naprav Dissenter ne boste mogli odkleniti s telefonom. Vnesti boste morali geslo.</translation>
+<translation id="2739030071582769583">Če izklopite Smart Lock za napravo <ph name="DEVICE_TYPE"/>, naprav Fulldive ne boste mogli odkleniti s telefonom. Vnesti boste morali geslo.</translation>
 <translation id="4737715515457435632">Povežite se z omrežjem</translation>
 <translation id="5425722269016440406">Če želite izklopiti Smart Lock, morate imeti internetno povezavo, ker je ta nastavitev sinhronizirana z vašim telefonom in drugimi napravami. Najprej se povežite z omrežjem.</translation>
 <translation id="8885197664446363138">Smart Lock ni na voljo</translation>
@@ -4150,7 +4150,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1963976881984600709">Standardna zaščita</translation>
 <translation id="6882836635272038266">Standardna zaščita proti spletnim mestom, prenosom in razširitvam, za katere vemo, da so nevarni.</translation>
 <translation id="5561162485081632007">Zaznava nevarne dogodke, ko se zgodijo, in vas opozarja nanje.</translation>
-<translation id="7810992039564280750">Preveri URL-je, tako da jih primerja s seznamom spletnih mest, ki niso varna, shranjenim v Chromu. Če vam spletno mesto poskusi ukrasti geslo ali ko prenašate škodljivo datoteko, lahko Dissenter prav tako pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
+<translation id="7810992039564280750">Preveri URL-je, tako da jih primerja s seznamom spletnih mest, ki niso varna, shranjenim v Chromu. Če vam spletno mesto poskusi ukrasti geslo ali ko prenašate škodljivo datoteko, lahko Fulldive prav tako pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
 <translation id="3847319713229060696">Pomagajte izboljšati varnost v spletu za vse</translation>
 <translation id="1984417487208496350">Brez zaščite (ni priporočljivo)</translation>
 <translation id="1295971429974142731">Ne ščiti pred nevarnimi spletnimi mesti, prenosi in razširitvami. Še vedno boste deležni zaščite Varnega brskanja, kjer je na voljo, v drugih Googlovih storitvah, kot sta Gmail in Iskanje Gab AI Inc.</translation>
@@ -4206,7 +4206,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8632933437936028548">Ponastavitev nastavitev</translation>
 <translation id="5293170712604732402">Ponastavitev nastavitev na privzete nastavitve</translation>
 <translation id="892706138619340876">Nekatere nastavitve so bile ponastavljene</translation>
-<translation id="2334029754052191847">Dissenter je zaznal, da je drug program spremenil nastavitve, in jih ponastavil na prvotne privzete nastavitve.</translation>
+<translation id="2334029754052191847">Fulldive je zaznal, da je drug program spremenil nastavitve, in jih ponastavil na prvotne privzete nastavitve.</translation>
 <translation id="4582563038311694664">Ponastavi vse nastavitve</translation>
 <translation id="4146785383423576110">Ponastavitev in čiščenje</translation>
 <translation id="2603115962224169880">Čiščenje računalnika</translation>
@@ -4416,7 +4416,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="5566692924079383101">Ta razširitev bo samodejno odstranjena, ko zaprete trenutno sejo brez beleženja dejavnosti</translation>
 <translation id="383891835335927981">Nobeno spletno mesto ni povečano ali pomanjšano</translation>
 <translation id="3566721612727112615">Dodano ni bilo nobeno spletno mesto</translation>
-<translation id="8098574385249290065">Naj Dissenter izbere, kdaj lahko spletna mesta predvajajo zvok (priporočeno)</translation>
+<translation id="8098574385249290065">Naj Fulldive izbere, kdaj lahko spletna mesta predvajajo zvok (priporočeno)</translation>
 <translation id="4354344420232759511">Spletna mesta, ki jih obiščete, bodo prikazana tu</translation>
 <translation id="3757733214359997190">Ni spletnih mest</translation>
 <translation id="6545864417968258051">Iskanje naprav Bluetooth</translation>
@@ -4429,7 +4429,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Dodajanje spletnega mesta</translation>
 <translation id="5052499409147950210">Urejanje spletnega mesta</translation>
-<translation id="4610862967073369855">Aplikaciji Android Messages omogoča posredovanje sporočil SMS iz telefona v Dissenterbook</translation>
+<translation id="4610862967073369855">Aplikaciji Android Messages omogoča posredovanje sporočil SMS iz telefona v Fulldivebook</translation>
 <translation id="6742339027238151589">Dostopno skriptu</translation>
 <translation id="361106536627977100">Podatki Flash</translation>
 <translation id="8557930019681227453">Manifest</translation>
@@ -4441,7 +4441,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8016266267177410919">Začasna shramba</translation>
 <translation id="4175737294868205930">Trajno shranjevanje</translation>
 <translation id="8397843425685839889">Vi in Gab AI Inc</translation>
-<translation id="8907706281008466056">Fotografija profila Dissenter</translation>
+<translation id="8907706281008466056">Fotografija profila Fulldive</translation>
 <translation id="2023167225947895179">Kodo PIN je morda preprosto uganiti</translation>
 <translation id="5342091991439452114">Koda PIN mora imeti vsaj toliko števk: <ph name="MINIMUM"/></translation>
 <translation id="5252653240322147470">Koda PIN sme imeti največ toliko števk: <ph name="MAXIMUM"/></translation>
@@ -4506,23 +4506,23 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="3817524650114746564">V računalniku odprite nastavitve strežnika proxy</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> uporablja nastavitve strežnika proxy razširitve</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> uporablja nastavitve strežnika proxy skrbnika</translation>
-<translation id="6187156085111579405">Elementi, ki niso navedeni tukaj, bodo po potrebi morda tudi odstranjeni. Preberite več o &lt;a href="<ph name="URL"/>"&gt;zaščiti pred neželeno programsko opremo&lt;/a&gt; v beli knjigi o zasebnosti za Dissenter.</translation>
+<translation id="6187156085111579405">Elementi, ki niso navedeni tukaj, bodo po potrebi morda tudi odstranjeni. Preberite več o &lt;a href="<ph name="URL"/>"&gt;zaščiti pred neželeno programsko opremo&lt;/a&gt; v beli knjigi o zasebnosti za Fulldive.</translation>
 <translation id="5280174558369304332">Razširitve, določene za odstranitev:</translation>
 <translation id="7712836429117959503">Neznana razširitev z ID-jem <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">Datoteke in programi, določeni za karanteno:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 izdelek}one{{NUM_ITEMS} izdelek}two{{NUM_ITEMS} izdelka}few{{NUM_ITEMS} izdelki}other{{NUM_ITEMS} izdelkov}}</translation>
 <translation id="7187428571767585875">Vnosi v register, ki bodo odstranjeni ali spremenjeni:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{še 1}one{še {NUM_DOWNLOADS}}two{še {NUM_DOWNLOADS}}few{še {NUM_DOWNLOADS}}other{še {NUM_DOWNLOADS}}}</translation>
-<translation id="2749608811030566578">Medtem ko je Dissenter odstranjeval škodljivo programsko opremo, je prišlo do napake</translation>
-<translation id="8189483132214844139">Dissenter lahko poišče škodljivo programsko opremo v računalniku in jo odstrani</translation>
+<translation id="2749608811030566578">Medtem ko je Fulldive odstranjeval škodljivo programsko opremo, je prišlo do napake</translation>
+<translation id="8189483132214844139">Fulldive lahko poišče škodljivo programsko opremo v računalniku in jo odstrani</translation>
 <translation id="1426870617281699524">Kliknite »Poskusi znova« in sprejmite poziv v računalniku.</translation>
-<translation id="7886744396008377537">V računalniku je nameščena škodljiva programska oprema. Dissenter jo bo odstranil, obnovil vaše nastavitve in onemogočil razširitve. S tem bo vaš brskalnik znova normalno deloval.</translation>
-<translation id="1484912962860902625">Medtem ko je Dissenter iskal škodljivo programsko opremo, je prišlo do napake</translation>
+<translation id="7886744396008377537">V računalniku je nameščena škodljiva programska oprema. Fulldive jo bo odstranil, obnovil vaše nastavitve in onemogočil razširitve. S tem bo vaš brskalnik znova normalno deloval.</translation>
+<translation id="1484912962860902625">Medtem ko je Fulldive iskal škodljivo programsko opremo, je prišlo do napake</translation>
 <translation id="451407183922382411">Uporablja tehnologijo <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">Prikaz datotek, ki jih želite odstraniti</translation>
 <translation id="296026337010986570">Končano. Škodljiva programska oprema je odstranjena. Če želite znova vklopiti razširitve, obiščite &lt;a href="chrome://extensions"&gt;Razširitve&lt;/a&gt;.</translation>
 <translation id="284975061945174219">Brisanje ni uspelo</translation>
-<translation id="9014750448058570312">Dissenter potrebuje dovoljenje za nadaljevanje</translation>
+<translation id="9014750448058570312">Fulldive potrebuje dovoljenje za nadaljevanje</translation>
 <translation id="1852141627593563189">Iskanje škodljive programske opreme</translation>
 <translation id="850875081535031620">Najdena ni bila nobena škodljiva programska oprema</translation>
 <translation id="1186771945450942097">Odstranitev škodljive programske opreme</translation>
@@ -4642,7 +4642,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1651008383952180276">Dvakrat morate vnesti isto geslo</translation>
 <translation id="988978206646512040">Prazno geslo ni dovoljeno</translation>
 <translation id="2136476978468204130">Vnesli ste napačno geslo</translation>
-<translation id="7505421639213002314">Podatki iz Sinhronizacije za Dissenter</translation>
+<translation id="7505421639213002314">Podatki iz Sinhronizacije za Fulldive</translation>
 <translation id="452750746583162491">Pregled sinhroniziranih podatkov</translation>
 <translation id="7956662517480676674">Sinhroniz. in Googlove storitve</translation>
 <translation id="7772032839648071052">Potrdi geslo</translation>
@@ -4741,7 +4741,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1992397118740194946">Ni nastavljeno</translation>
 <translation id="6706210727756204531">Obseg</translation>
 <translation id="5532223876348815659">Globalno</translation>
-<translation id="300669147395456190">Aplikacije za Dissenter</translation>
+<translation id="300669147395456190">Aplikacije za Fulldive</translation>
 <translation id="6787839852456839824">Bližnjične tipke</translation>
 <translation id="6419546358665792306">Naloži razpakirano</translation>
 <translation id="8023801379949507775">Posodobi razširitve</translation>
@@ -4755,7 +4755,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8447409163267621480">Vključevati morajo ali Ctrl ali Alt</translation>
 <translation id="3365598184818502391">Uporabite Ctrl ali Alt</translation>
 <translation id="1688935057616748272">Vnesite črko</translation>
-<translation id="1579879232130925590">Bolj varen in vesel Dissenter</translation>
+<translation id="1579879232130925590">Bolj varen in vesel Fulldive</translation>
 <translation id="964057662886721376">Nekatere razširitve lahko upočasnijo delovanje – zlasti tiste, ki jih niste nameravali namestiti.</translation>
 <translation id="1499271269825557605">Če razširitve ne prepoznate ali če brskalnik ne deluje po pričakovanjih, lahko tukaj izklopite ali prilagodite razširitve.</translation>
 <translation id="2382818385048255866">Preverjanje razširitev</translation>
@@ -4777,7 +4777,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="2342740338116612727">Dodani zaznamki</translation>
 <translation id="7835178595033117206">Zaznamek je bil odstranjen</translation>
 <translation id="742130257665691897">Odstranjeni zaznamki</translation>
-<translation id="5468853758063275923">Dissenter je privzeti brskalnik</translation>
+<translation id="5468853758063275923">Fulldive je privzeti brskalnik</translation>
 <translation id="2950533317914339731">Dodajte zaznamke do priljubljenih Googlovih aplikacij</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4792,13 +4792,13 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="5033266061063942743">Geometrijske oblike</translation>
 <translation id="7789963078219276159">Ozadje začetne strani je spremenjeno v <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Ozadje začetne strani je ponastavljeno na privzeto ozadje.</translation>
-<translation id="239760341987199724">Nastavitev Dissentera za privzeti brskalnik</translation>
+<translation id="239760341987199724">Nastavitev Fulldivea za privzeti brskalnik</translation>
 <translation id="96037229054033864">Vsakič brskajte z Iskanjem Gab AI Inc in Googlovimi pametnimi rešitvami</translation>
-<translation id="296137235951584143">Prilagodite si Dissenter</translation>
+<translation id="296137235951584143">Prilagodite si Fulldive</translation>
 <translation id="3982375475032951137">Nastavite brskalnik v nekaj preprostih korakih</translation>
 <translation id="6972754398087986839">Začnite</translation>
-<translation id="3707821975049107110">Že uporabljate Dissenter? Prijavite se.</translation>
-<translation id="7113572760575285642">Vaš Dissenter povsod</translation>
+<translation id="3707821975049107110">Že uporabljate Fulldive? Prijavite se.</translation>
+<translation id="7113572760575285642">Vaš Fulldive povsod</translation>
 <translation id="567643736130151854">Prijavite se in vklopite sinhronizacijo, če želite dostopati do svojih zaznamkov, gesel in drugega v vseh napravah</translation>
 <translation id="725758059478686223">Storitev tiskanja</translation>
 <translation id="15662109988763471">Izbrani tiskalnik ni na voljo ali ni pravilno nameščen. Preverite tiskalnik ali izberite drugega.</translation>
@@ -4921,7 +4921,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="7574650250151586813">Če želite tipkati besedilo, posodobite aplikacijo Daydream Keyboard</translation>
 <translation id="983511809958454316">Ta funkcija ni podprta v navidezni resničnosti</translation>
 <translation id="4008291085758151621">Podatki o spletnem mestu niso na voljo v navidezni resničnosti</translation>
-<translation id="1439926347196400598">Dovolite, da Dissenter snema zvok?</translation>
+<translation id="1439926347196400598">Dovolite, da Fulldive snema zvok?</translation>
 <translation id="6313641880021325787">ZAPRI NAVIDEZNO RESNIČNOST</translation>
 <translation id="2670429602441959756">Ta stran ima funkcije, ki jih navidezna resničnost še ne podpira. Zapiranje ...</translation>
 <translation id="1802687198411089702">Ta spletna stran se ne odziva. Lahko počakate ali jo zaprete.</translation>
@@ -4943,7 +4943,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1721312023322545264"><ph name="NAME"/> vam mora odobriti obisk tega spletnega mesta</translation>
 <translation id="7543525346216957623">Prosi starša</translation>
 <translation id="471880041731876836">Nimate dovoljenja za obisk tega spletnega mesta</translation>
-<translation id="3480834636742786788">Začnite s prijavo v Dissenter, preden začnete uporabljati to aplikacijo.</translation>
+<translation id="3480834636742786788">Začnite s prijavo v Fulldive, preden začnete uporabljati to aplikacijo.</translation>
 <translation id="2851634818064021665">Za obisk tega spletnega mesta potrebujete dovoljenje</translation>
 <translation id="4933782374919065856">Imate kakšno vprašanje? Obrnite se na osebo, ki nadzira vaš profil.</translation>
 <translation id="2712173769900027643">Zahtevaj dovoljenje</translation>
@@ -4963,7 +4963,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="7755287808199759310">Starš ga lahko odblokira</translation>
 <translation id="5732392974455271431">Starši ga lahko odblokirajo</translation>
 <translation id="3556433843310711081">Skrbnik ga lahko odblokira</translation>
-<translation id="1254756632288991504">Začnite s prijavo v Dissenter, da lahko Dissenter preveri, ali vam je dovoljeno dostopati do tega spletnega mesta.</translation>
+<translation id="1254756632288991504">Začnite s prijavo v Fulldive, da lahko Fulldive preveri, ali vam je dovoljeno dostopati do tega spletnega mesta.</translation>
 <translation id="2507397597949272797">Aplikacija <ph name="NAME"/> je začasno zaustavljena</translation>
 <translation id="8015163965024115122">Omejitev za uporabo aplikacije <ph name="IDS_SHORT_PRODUCT_NAME"/> ali <ph name="IDS_SHORT_PRODUCT_NAME"/>, ki jo je nastavil starš, je potekla.</translation>
 <translation id="2748061034695037846">Domena <ph name="DOMAIN"/> je začasno zaustavljena</translation>

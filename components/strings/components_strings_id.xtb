@@ -42,7 +42,7 @@
 <translation id="2359808026110333948">Lanjutkan</translation>
 <translation id="8066955247577885446">Maaf, terjadi kesalahan.</translation>
 <translation id="3963837677003247395">Lanjutkan secara manual?</translation>
-<translation id="5880900081429361525">Asisten Dissenter di Dissenter berhenti</translation>
+<translation id="5880900081429361525">Asisten Fulldive di Fulldive berhenti</translation>
 <translation id="2360873523816792727">Untuk menggunakan kartu Anda di semua peranti, nyalakan Sinkronisasi</translation>
 <translation id="5786044859038896871">Anda ingin mengisi informasi kartu Anda?</translation>
 <translation id="4378154925671717803">Ponsel</translation>
@@ -51,14 +51,14 @@
 <translation id="4901778704868714008">Simpan...</translation>
 <translation id="2881276955470682203">Simpan kartu?</translation>
 <translation id="8968766641738584599">Simpan kartu</translation>
-<translation id="3385003879165845790">Anda ingin menyimpan kartu ini di Akun Dissenter Anda?</translation>
-<translation id="4485557118067663303">Anda ingin menyimpan kartu ini di Akun Dissenter pada peranti ini?</translation>
-<translation id="5624611466880082169">Simpan kartu ke Akun Dissenter?</translation>
+<translation id="3385003879165845790">Anda ingin menyimpan kartu ini di Akun Fulldive Anda?</translation>
+<translation id="4485557118067663303">Anda ingin menyimpan kartu ini di Akun Fulldive pada peranti ini?</translation>
+<translation id="5624611466880082169">Simpan kartu ke Akun Fulldive?</translation>
 <translation id="5887400589839399685">Kartu disimpan</translation>
 <translation id="4524805452350978254">Kelola kartu</translation>
 <translation id="1638780421120290329">Tidak dapat menyimpan kartu</translation>
 <translation id="4194250254487269611">Kartu Anda tidak dapat disimpan saat ini</translation>
-<translation id="405970181812690156">Lakukan pembayaran dengan cepat di situs dan aplikasi antarperanti menggunakan kartu yang Anda simpan dengan Dissenter.</translation>
+<translation id="405970181812690156">Lakukan pembayaran dengan cepat di situs dan aplikasi antarperanti menggunakan kartu yang Anda simpan dengan Fulldive.</translation>
 <translation id="860043288473659153">Nama pemegang kartu</translation>
 <translation id="869891660844655955">Masa berlaku</translation>
 <translation id="5457113250005438886">Tidak valid</translation>
@@ -130,7 +130,7 @@
 <translation id="7514365320538308">Download</translation>
 <translation id="8041089156583427627">Kirim Masukan</translation>
 <translation id="7552846755917812628">Coba tips berikut:</translation>
-<translation id="3960299545138990065">Buka Ulang Dissenter</translation>
+<translation id="3960299545138990065">Buka Ulang Fulldive</translation>
 <translation id="4275830172053184480">Mulai ulang perangkat Anda</translation>
 <translation id="413544239732274901">Pelajari lebih lanjut</translation>
 <translation id="7554791636758816595">Tab Baru</translation>
@@ -205,7 +205,7 @@
 <translation id="7240120331469437312">Nama Alternatif Subjek Sertifikat</translation>
 <translation id="10614374240317010">Jangan pernah disimpan</translation>
 <translation id="5869522115854928033">Sandi tersimpan</translation>
-<translation id="230699814587342492">Sandi Dissenter</translation>
+<translation id="230699814587342492">Sandi Fulldive</translation>
 <translation id="5087580092889165836">Tambahkan kartu</translation>
 <translation id="2154484045852737596">Edit kartu</translation>
 <translation id="4923459931733593730">Pembayaran</translation>

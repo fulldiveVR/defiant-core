@@ -22,7 +22,7 @@
 <translation id="5342314432463739672">Tillatelsesforespørsler</translation>
 <translation id="3749259744154402564">Støttes ikke</translation>
 <translation id="629730747756840877">Konto</translation>
-<translation id="82609232232243542">Logg på Dissenter</translation>
+<translation id="82609232232243542">Logg på Fulldive</translation>
 <translation id="7956662517480676674">Synkronisering/Gab AI Inc-tjenester</translation>
 <translation id="5294439808117722387">Du holder på å tilpasse innstillingene for Synkronisering og Gab AI Inc-tjenester. For å gjøre deg ferdig med å slå på synkronisering, trykk på Bekreft-knappen nederst på skjermen. Gå opp</translation>
 <translation id="2096012225669085171">Synkronisering og personlig tilpasning på alle enheter</translation>
@@ -34,7 +34,7 @@
 <translation id="6303969859164067831">Logg av og slå av synkronisering</translation>
 <translation id="1125261911132334651">Administrer Gab AI Inc-kontoen din</translation>
 <translation id="6406506848690869874">Synkroniser</translation>
-<translation id="714362445477979774">Synkroniser Dissenter-dataene dine</translation>
+<translation id="714362445477979774">Synkroniser Fulldive-dataene dine</translation>
 <translation id="4314815835985389558">Administrer synkronisering</translation>
 <translation id="5428209950370661546">Andre Gab AI Inc-tjenester</translation>
 <translation id="7704317875155739195">Autofullfør søk og nettadresser</translation>
@@ -46,7 +46,7 @@
 <translation id="8438566539970814960">Gjør søking og surfing bedre</translation>
 <translation id="284843628681142937">Sender Gab AI Inc nettadressene til sider du besøker</translation>
 <translation id="7222718784508482526">Se <ph name="BEGIN_LINK"/>Synkronisering og Gab AI Inc tjenester<ph name="END_LINK"/> for flere innstillinger knyttet til personvern, sikkerhet og datainnsamling.</translation>
-<translation id="918192811481327695">Hjelp til med å forbedre funksjonene og ytelsen til Dissenter</translation>
+<translation id="918192811481327695">Hjelp til med å forbedre funksjonene og ytelsen til Fulldive</translation>
 <translation id="9063160602596686558">Sender automatisk brukerstatistikk og programstopprapporter til Gab AI Inc</translation>
 <translation id="4824958205181053313">Vil du avbryte synkroniseringen?</translation>
 <translation id="3058498974290601450">Du kan når som helst slå på synkronisering i innstillingene</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">Kortnummer</translation>
 <translation id="869891660844655955">Utløpsdato</translation>
 <translation id="2286841657746966508">Faktureringsadresse</translation>
-<translation id="663059986967017181">Kopiert til Dissenter</translation>
+<translation id="663059986967017181">Kopiert til Fulldive</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/> og <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> til}other{<ph name="PAYMENT_METHOD_PREVIEW"/> og <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> til}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/> og <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> til}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/> og <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> til}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/> og <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> til}other{<ph name="SHIPPING_OPTION_PREVIEW"/> og <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> til}}</translation>
@@ -112,7 +112,7 @@
 <translation id="6154478581116148741">Slå på skjermlåsen i Innstillinger for å eksportere passordene dine fra denne enheten</translation>
 <translation id="4842092870884894799">Viser forgrunnsvinduet for passordgenerering</translation>
 <translation id="2259659629660284697">Eksportér passord</translation>
-<translation id="133012818630824069">Eksportér passord som er lagret med Dissenter</translation>
+<translation id="133012818630824069">Eksportér passord som er lagret med Fulldive</translation>
 <translation id="6914783257214138813">Passordene dine blir synlige for alle som kan se den eksporterte filen.</translation>
 <translation id="2321086116217818302">Klargjør passordene …</translation>
 <translation id="8445448999790540984">Kan ikke eksportere passordene</translation>
@@ -123,11 +123,11 @@
 <translation id="6891726759199484455">Lås opp for å kopiere passordet ditt</translation>
 <translation id="5515439363601853141">Lås opp for å se passordet ditt</translation>
 <translation id="6221633008163990886">Lås opp for å eksportere passordene dine</translation>
-<translation id="230699814587342492">Dissenter-passord</translation>
+<translation id="230699814587342492">Fulldive-passord</translation>
 <translation id="1925021887439448749">Skriv inn en egendefinert nettadresse</translation>
 <translation id="8127542551745560481">Endre startsiden</translation>
 <translation id="854522910157234410">Åpne denne siden</translation>
-<translation id="5063487983358782016">Startsiden for Dissenter</translation>
+<translation id="5063487983358782016">Startsiden for Fulldive</translation>
 <translation id="2482878487686419369">Varsler</translation>
 <translation id="6255999984061454636">Innholdsforslag</translation>
 <translation id="805047784848435650">Basert på nettlesingsloggen din</translation>
@@ -139,8 +139,8 @@
 <translation id="2760989362628427051">Slå på mørkt tema når batterisparing eller enhetsinnstillingen for mørkt tema er på</translation>
 <translation id="6381421346744604172">Formørk nettsteder</translation>
 <translation id="5040262127954254034">Personvern</translation>
-<translation id="4991384657077828949">Bidra til å gjøre Dissenter sikrere</translation>
-<translation id="1943176487615318915">For å oppdage farlige apper og nettsteder sender Dissenter nettadressene til noen av sidene du besøker, begrenset systeminformasjon og noe sideinnhold til Gab AI Inc.</translation>
+<translation id="4991384657077828949">Bidra til å gjøre Fulldive sikrere</translation>
+<translation id="1943176487615318915">For å oppdage farlige apper og nettsteder sender Fulldive nettadressene til noen av sidene du besøker, begrenset systeminformasjon og noe sideinnhold til Gab AI Inc.</translation>
 <translation id="3201899458094819285">Safe Browsing (beskytter deg og enheten din mot farlige nettsteder)</translation>
 <translation id="2876369937070532032">Sender Gab AI Inc nettadressene til noen av sidene du besøker, når sikkerheten din står i fare</translation>
 <translation id="3738139272394829648">Trykk for å søke</translation>
@@ -160,8 +160,8 @@ Noen nettsteder kan for eksempel svare på denne forespørselen ved å vise deg 
 <translation id="7359002509206457351">Gå til betalingsmåter</translation>
 <translation id="8026334261755873520">Slett nettleserdata</translation>
 <translation id="1291207594882862231">Slett loggoppføringer, informasjonskapsler, nettstedsdata, bufferen …</translation>
-<translation id="7814200940910057384">Dissenter-dataene er slettet</translation>
-<translation id="1664855196866195614">De valgte dataene er er fjernet fra Dissenter og de synkroniserte enhetene dine.
+<translation id="7814200940910057384">Fulldive-dataene er slettet</translation>
+<translation id="1664855196866195614">De valgte dataene er er fjernet fra Fulldive og de synkroniserte enhetene dine.
 
 Gab AI Inc-kontoen din kan ha andre former for nettleserlogger, for eksempel søk og aktivitet fra andre Gab AI Inc-tjenester, på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="4699172675775169585">Bufrede bilder og filer</translation>
@@ -311,12 +311,12 @@ Gab AI Inc-kontoen din kan ha andre former for nettleserlogger, for eksempel sø
 <translation id="8156139159503939589">Hvilke språk kan du lese?</translation>
 <translation id="5689516760719285838">Sted</translation>
 <translation id="2440823041667407902">Posisjonstilgang</translation>
-<translation id="2023546461831060654">Slå på tillatelsene for Dissenter i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
-<translation id="6665548517310046133">Slå på tillatelsen for Dissenter i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
-<translation id="2928908108430545745">For å gi Dissenter tilgang til posisjonen din må du også slå på posisjon i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
-<translation id="1028853271388022585">For å gi Dissenter tilgang til kameraet må du også slå på kameraet i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
-<translation id="2913721282607281710">For at Dissenter skal kunne sende deg varsler, må du også slå på varsler i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
-<translation id="8753483718490035722">For å gi Dissenter tilgang til mikrofonen må du også slå på mikrofonen i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
+<translation id="2023546461831060654">Slå på tillatelsene for Fulldive i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
+<translation id="6665548517310046133">Slå på tillatelsen for Fulldive i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
+<translation id="2928908108430545745">For å gi Fulldive tilgang til posisjonen din må du også slå på posisjon i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
+<translation id="1028853271388022585">For å gi Fulldive tilgang til kameraet må du også slå på kameraet i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
+<translation id="2913721282607281710">For at Fulldive skal kunne sende deg varsler, må du også slå på varsler i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
+<translation id="8753483718490035722">For å gi Fulldive tilgang til mikrofonen må du også slå på mikrofonen i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
 <translation id="1887786770086287077">Posisjonstilgang er slått av for denne enheten. Slå den på i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
 <translation id="2570922361219980984">Posisjonstilgang er også slått av for denne enheten. Slå den på i <ph name="BEGIN_LINK"/>Android-innstillingene<ph name="END_LINK"/>.</translation>
 <translation id="1620510694547887537">Kamera</translation>
@@ -334,8 +334,8 @@ Gab AI Inc-kontoen din kan ha andre former for nettleserlogger, for eksempel sø
 <translation id="7821588508402923572">Datasparingen din vises her</translation>
 <translation id="2131665479022868825"><ph name="DATA"/> spart</translation>
 <translation id="8569404424186215731">siden <ph name="DATE"/></translation>
-<translation id="3252158532344029638">I forenklet modus laster Dissenter inn sider raskere og bruker opptil 60 prosent mindre data.</translation>
-<translation id="1438581767753657407">Når forenklet modus er på, brukes Dissenter-tjenerne til å laste inn sider raskere. Forenklet modus omskriver svært trege sider, slik at kun essensielt innhold lastes inn. Forenklet modus brukes ikke på private faner.</translation>
+<translation id="3252158532344029638">I forenklet modus laster Fulldive inn sider raskere og bruker opptil 60 prosent mindre data.</translation>
+<translation id="1438581767753657407">Når forenklet modus er på, brukes Fulldive-tjenerne til å laste inn sider raskere. Forenklet modus omskriver svært trege sider, slik at kun essensielt innhold lastes inn. Forenklet modus brukes ikke på private faner.</translation>
 <translation id="6159335304067198720"><ph name="PERCENT"/> datasparing</translation>
 <translation id="7494974237137038751">data spart</translation>
 <translation id="6111020039983847643">data brukt</translation>
@@ -358,15 +358,15 @@ Gab AI Inc-kontoen din kan ha andre former for nettleserlogger, for eksempel sø
 <translation id="3658159451045945436">Tilbakestilling fjerner historikken for datasparing, inkludert listen over besøkte nettsteder.</translation>
 <translation id="5939518447894949180">Tilbakestill</translation>
 <translation id="3295530008794733555">Surf raskere. Bruk mindre data.</translation>
-<translation id="7340390500800578919">I forenklet modus laster Dissenter inn sider raskere og bruker opptil 60 prosent mindre data. For å optimalisere sidene du besøker, sender Dissenter nettrafikken din til Gab AI Inc. <ph name="BEGIN_LINK"/>Finn ut mer<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">I forenklet modus laster Fulldive inn sider raskere og bruker opptil 60 prosent mindre data. For å optimalisere sidene du besøker, sender Fulldive nettrafikken din til Gab AI Inc. <ph name="BEGIN_LINK"/>Finn ut mer<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Slå på forenklet modus</translation>
 <translation id="4493497663118223949">Forenklet modus er på</translation>
 <translation id="7559975015014302720">Forenklet modus er av</translation>
 <translation id="7606077192958116810">Forenklet modus er på. Du kan endre dette i Innstillinger.</translation>
 <translation id="4714588616299687897">Reduser databruken med opptil 60 %</translation>
 <translation id="1006927014032731288">Gab AI Inc-tjenere optimaliserer sidene du besøker.</translation>
-<translation id="3257320067425202300">Dissenter har spart deg for <ph name="MEGABYTES"/> MB</translation>
-<translation id="5813223329348543512">Dissenter har spart deg for <ph name="GIGABYTES"/> GB</translation>
+<translation id="3257320067425202300">Fulldive har spart deg for <ph name="MEGABYTES"/> MB</translation>
+<translation id="5813223329348543512">Fulldive har spart deg for <ph name="GIGABYTES"/> GB</translation>
 <translation id="8266862848225348053">Nedlastingssted</translation>
 <translation id="7077143737582773186">SD-kort</translation>
 <translation id="7762668264895820836">SD-kort <ph name="SD_CARD_NUMBER"/></translation>
@@ -392,15 +392,15 @@ Gab AI Inc-kontoen din kan ha andre former for nettleserlogger, for eksempel sø
 <translation id="7290209999329137901">Du kan ikke endre navn</translation>
 <translation id="3334729583274622784">Vil du endre filetternavnet?</translation>
 <translation id="107147699690128016">Hvis du endrer filetternavnet, kan filen bli åpnet i et annet program og muligens utgjøre en fare for enheten.</translation>
-<translation id="8541922081612557424">Om Dissenter</translation>
+<translation id="8541922081612557424">Om Fulldive</translation>
 <translation id="5311273890481188673">Copyright <ph name="YEAR"/> Gab AI Inc LLC. Med enerett.</translation>
 <translation id="1416550906796893042">Programversjon</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (oppdatert <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Operativsystem</translation>
-<translation id="3968054912784331254">Denne Android-versjonen støtter ikke lenger Dissenter-oppdateringer</translation>
+<translation id="3968054912784331254">Denne Android-versjonen støtter ikke lenger Fulldive-oppdateringer</translation>
 <translation id="7665369617277396874">Legg til konto</translation>
 <translation id="649070405679044769">Logget på Gab AI Inc som</translation>
-<translation id="6234515504547364178">Logg av Dissenter</translation>
+<translation id="6234515504547364178">Logg av Fulldive</translation>
 <translation id="5324858694974489420">Foreldreinnstillinger</translation>
 <translation id="8920114477895755567">Venter på informasjon om foreldre.</translation>
 <translation id="5512137114520586844">Denne kontoen er administrert av <ph name="PARENT_NAME"/>.</translation>
@@ -409,7 +409,7 @@ Gab AI Inc-kontoen din kan ha andre former for nettleserlogger, for eksempel sø
 <translation id="5403644198645076998">Tillat bare visse nettsteder</translation>
 <translation id="8641930654639604085">Prøv å blokkere nettsteder med voksent innhold</translation>
 <translation id="5639724618331995626">Tillat alle nettsteder</translation>
-<translation id="796823723482603597">Drevet av Dissenter</translation>
+<translation id="796823723482603597">Drevet av Fulldive</translation>
 <translation id="6324034347079777476">Synkronisering for Android-systemet er slått av</translation>
 <translation id="5127805178023152808">Synkronisering er slått av</translation>
 <translation id="7015203776128479407">Innledende synkroniseringsoppsett ble ikke fullført. Synkronisering er slått av.</translation>
@@ -418,26 +418,26 @@ Gab AI Inc-kontoen din kan ha andre former for nettleserlogger, for eksempel sø
 <translation id="6108923351542677676">Konfigurasjon pågår …</translation>
 <translation id="4062305924942672200">Juridisk informasjon</translation>
 <translation id="4256782883801055595">Lisenser for åpen kildekode</translation>
-<translation id="1138681184697033370">Vilkår for bruk av Dissenter</translation>
-<translation id="2368444735104192323">Tilleggsvilkår for bruk av Dissenter og Dissenter OS</translation>
-<translation id="7392539049993970338">Merknad om personvern for Dissenter</translation>
+<translation id="1138681184697033370">Vilkår for bruk av Fulldive</translation>
+<translation id="2368444735104192323">Tilleggsvilkår for bruk av Fulldive og Fulldive OS</translation>
+<translation id="7392539049993970338">Merknad om personvern for Fulldive</translation>
 <translation id="2968755619301702150">Visningsprogram for sertifikater</translation>
 <translation id="1360432990279830238">Vil du logge av og slå av synkronisering?</translation>
-<translation id="8581481290581777242">Vil du fjerne Dissenter-dataene dine fra denne enheten?</translation>
-<translation id="1318865768845061710">Bokmerker, logg, passord og andre Dissenter-data synkroniseres ikke lenger med Gab AI Inc-kontoen din.</translation>
-<translation id="3325020657155065477">Fjern også Dissenter-dataene dine fra denne enheten</translation>
-<translation id="6136448902816743006">Fordi du logger av en konto som administreres av <ph name="DOMAIN_NAME"/>, slettes Dissenter-dataene dine fra denne enheten. De blir værende i Gab AI Inc-kontoen din.</translation>
+<translation id="8581481290581777242">Vil du fjerne Fulldive-dataene dine fra denne enheten?</translation>
+<translation id="1318865768845061710">Bokmerker, logg, passord og andre Fulldive-data synkroniseres ikke lenger med Gab AI Inc-kontoen din.</translation>
+<translation id="3325020657155065477">Fjern også Fulldive-dataene dine fra denne enheten</translation>
+<translation id="6136448902816743006">Fordi du logger av en konto som administreres av <ph name="DOMAIN_NAME"/>, slettes Fulldive-dataene dine fra denne enheten. De blir værende i Gab AI Inc-kontoen din.</translation>
 <translation id="1853026300647876496">Kontakter Gab AI Inc. Dette kan ta en liten stund.</translation>
 <translation id="2328985652426384049">Kan ikke logge på</translation>
 <translation id="7723158744459952869">Gab AI Inc brukte for lang tid på å svare</translation>
 <translation id="4572422548854449519">Logg på en administrert konto</translation>
-<translation id="2689656545739939160">Du logger på med en konto som administreres av <ph name="MANAGED_DOMAIN"/>, og du gir administratoren for dette domenet kontroll over Dissenter-dataene dine. Dataene dine blir permanent knyttet til denne kontoen. Når du logger av Dissenter, slettes dataene dine fra denne enheten, men de fortsetter å være lagret i Gab AI Inc-kontoen din.</translation>
+<translation id="2689656545739939160">Du logger på med en konto som administreres av <ph name="MANAGED_DOMAIN"/>, og du gir administratoren for dette domenet kontroll over Fulldive-dataene dine. Dataene dine blir permanent knyttet til denne kontoen. Når du logger av Fulldive, slettes dataene dine fra denne enheten, men de fortsetter å være lagret i Gab AI Inc-kontoen din.</translation>
 <translation id="1749561566933687563">Synkroniser bokmerkene dine</translation>
 <translation id="4242533952199664413">Åpne innstillingene</translation>
 <translation id="1111673857033749125">Bokmerker som er lagret på de andre enhetene dine, vises her.</translation>
 <translation id="8636825310635137004">For å få fanene dine fra de andre enhetene du bruker, slå på synkronisering.</translation>
 <translation id="3269956123044984603">For å få fanene dine fra de andre enhetene du bruker, slå på «Synkroniser data automatisk» i kontoinnstillingene for Android.</translation>
-<translation id="5157964048453367290">Faner du har åpnet i Dissenter på de andre enhetene dine, vises her.</translation>
+<translation id="5157964048453367290">Faner du har åpnet i Fulldive på de andre enhetene dine, vises her.</translation>
 <translation id="5795872532621730126">Søk etter og bla gjennom</translation>
 <translation id="9086302186042011942">Synkroniserer</translation>
 <translation id="4684427112815847243">Synkroniser alt</translation>
@@ -476,11 +476,11 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="7624880197989616768"><ph name="BEGIN_LINK1"/>Få hjelp<ph name="END_LINK1"/> eller <ph name="BEGIN_LINK2"/>skann på nytt<ph name="END_LINK2"/></translation>
 <translation id="230115972905494466">Fant ingen kompatible enheter</translation>
 <translation id="3773755127849930740"><ph name="BEGIN_LINK"/>Slå på Bluetooth<ph name="END_LINK"/> for å tillate tilkobling</translation>
-<translation id="998321811308652668">Dissenter kan ikke slå på Bluetooth-adapteren</translation>
+<translation id="998321811308652668">Fulldive kan ikke slå på Bluetooth-adapteren</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Få hjelp<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">Dissenter trenger posisjonstilgang for å søke etter enheter. <ph name="BEGIN_LINK"/>Oppdater tillatelsene<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">Dissenter trenger posisjonstilgang for å søke etter enheter. Posisjonstilgang er <ph name="BEGIN_LINK"/>slått av for denne enheten<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">Dissenter trenger posisjonstilgang for å søke etter enheter. <ph name="BEGIN_LINK1"/>Oppdater tillatelsene<ph name="END_LINK1"/>. Posisjonstilgang er også <ph name="BEGIN_LINK2"/>slått av for denne enheten<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">Fulldive trenger posisjonstilgang for å søke etter enheter. <ph name="BEGIN_LINK"/>Oppdater tillatelsene<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">Fulldive trenger posisjonstilgang for å søke etter enheter. Posisjonstilgang er <ph name="BEGIN_LINK"/>slått av for denne enheten<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">Fulldive trenger posisjonstilgang for å søke etter enheter. <ph name="BEGIN_LINK1"/>Oppdater tillatelsene<ph name="END_LINK1"/>. Posisjonstilgang er også <ph name="BEGIN_LINK2"/>slått av for denne enheten<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">Tilkoblet enhet</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{Signalstyrkenivå: # stolpe}other{Signalstyrkenivå: # stolper}}</translation>
 <translation id="5230560987958996918"><ph name="SITE"/> vil søke etter Bluetooth-enheter i nærheten. Fant disse enhetene:</translation>
@@ -488,11 +488,11 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="7605594153474022051">Synkronisering fungerer ikke</translation>
 <translation id="2537178555904266562">Feil under synkronisering av passord</translation>
 <translation id="1810845389119482123">Det innledende synkroniseringsoppsettet er ikke fullført</translation>
-<translation id="3235722914093408050">Start Dissenter-synkronisering ved å slå på synkronisering i Android-innstillingene</translation>
+<translation id="3235722914093408050">Start Fulldive-synkronisering ved å slå på synkronisering i Android-innstillingene</translation>
 <translation id="3367813778245106622">Logg på igjen for å starte synkroniseringen</translation>
 <translation id="3701167022068948696">Løs dette nå</translation>
 <translation id="974555521953189084">Skriv inn passordfrasen din for å starte synkroniseringen</translation>
-<translation id="2997266899014181325">For å starte synkronisering, slå på «Synkroniser Dissenter-dataene dine».</translation>
+<translation id="2997266899014181325">For å starte synkronisering, slå på «Synkroniser Fulldive-dataene dine».</translation>
 <translation id="8260126382462817229">Prøv å logge på igjen</translation>
 <translation id="5919204609460789179">Oppdater <ph name="PRODUCT_NAME"/> for å starte synkroniseringen</translation>
 <translation id="397583555483684758">Synkroniseringen har sluttet å fungere</translation>
@@ -526,14 +526,14 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037"><ph name="MESSAGE"/> <ph name="LINK_NAME"/>-knapp</translation>
 <translation id="3205824638308738187">Nesten ferdig!</translation>
-<translation id="3960299545138990065">Start Dissenter på nytt</translation>
+<translation id="3960299545138990065">Start Fulldive på nytt</translation>
 <translation id="3771001275138982843">Kunne ikke laste ned oppdateringen</translation>
-<translation id="3888648114124182147">Laster ned en Dissenter-oppdatering …</translation>
-<translation id="1705567146636171298">Oppdater Dissenter</translation>
-<translation id="6195417478702700398">For å få den beste surfeopplevelsen, åpne for å oppdatere Dissenter</translation>
-<translation id="3512968675351418494">For å se nettet på ditt eget språk, skaff den nyeste versjonen av Dissenter</translation>
+<translation id="3888648114124182147">Laster ned en Fulldive-oppdatering …</translation>
+<translation id="1705567146636171298">Oppdater Fulldive</translation>
+<translation id="6195417478702700398">For å få den beste surfeopplevelsen, åpne for å oppdatere Fulldive</translation>
+<translation id="3512968675351418494">For å se nettet på ditt eget språk, skaff den nyeste versjonen av Fulldive</translation>
 <translation id="6427112570124116297">Oversett nettet</translation>
-<translation id="1379423114029199501">Oppdater for å få språket ditt i den nyeste versjonen av Dissenter</translation>
+<translation id="1379423114029199501">Oppdater for å få språket ditt i den nyeste versjonen av Fulldive</translation>
 <translation id="5684874026226664614">Beklager. Denne siden kunne ikke oversettes.</translation>
 <translation id="6831043979455480757">Oversett</translation>
 <translation id="1285320974508926690">Oversett aldri dette nettstedet</translation>
@@ -557,7 +557,7 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="2532336938189706096">Nettvisning</translation>
 <translation id="6005538289190791541">Foreslått passord</translation>
 <translation id="4634124774493850572">Bruk passord</translation>
-<translation id="3088191967551450609">Dissenter må ha lagringstilgang for å laste ned filer.</translation>
+<translation id="3088191967551450609">Fulldive må ha lagringstilgang for å laste ned filer.</translation>
 <translation id="8942627711005830162">Åpne i et annet vindu</translation>
 <translation id="4195643157523330669">Åpne i ny fane</translation>
 <translation id="1100066534610197918">Åpne i en ny fane i en gruppe</translation>
@@ -580,7 +580,7 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="3384347053049321195">Del bildet</translation>
 <translation id="5833984609253377421">Del en link</translation>
 <translation id="6475951671322991020">Last ned videoen</translation>
-<translation id="2317945146070194624">Åpne i en ny Dissenter-fane</translation>
+<translation id="2317945146070194624">Åpne i en ny Fulldive-fane</translation>
 <translation id="7975379999046275268">Forhåndsvis siden <ph name="BEGIN_NEW"/>Nyhet<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Raskt nettsted</translation>
 <translation id="6112702117600201073">Oppdaterer siden.</translation>
@@ -710,14 +710,14 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="6820686453637990663">CVC</translation>
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">ÅÅ</translation>
-<translation id="724102042129299115">Førsteinntrykk ved bruk av Dissenter</translation>
-<translation id="7766792282581704663">Ved å bruke Dissenter samtykker du i <ph name="BEGIN_LINK1"/>Gab AI Incs vilkår for bruk<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>tilleggsvilkårene for bruk av Gab AI Inc Dissenter og Dissenter OS<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Ved å bruke Dissenter samtykker du i <ph name="BEGIN_LINK1"/>Gab AI Incs vilkår for bruk<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>tilleggsvilkårene for bruk av Gab AI Inc Dissenter og Dissenter OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Merknaden om personvern for Gab AI Inc-kontoer som administreres via Family Link<ph name="END_LINK3"/>, gjelder også.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> åpnes i Dissenter. Ved å fortsette samtykker du i <ph name="BEGIN_LINK1"/>Gab AI Incs vilkår for bruk<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>tilleggsvilkårene for bruk av Gab AI Inc Dissenter og Dissenter OS<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> åpnes i Dissenter. Ved å fortsette samtykker du i <ph name="BEGIN_LINK1"/>Gab AI Incs vilkår for bruk<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>tilleggsvilkårene for bruk av Gab AI Inc Dissenter og Dissenter OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Merknaden om personvern for Gab AI Inc-kontoer som administreres via Family Link<ph name="END_LINK3"/>, gjelder også.</translation>
-<translation id="673197144963363525">Gjør Dissenter bedre ved å sende bruksstatistikk og programstopprapporter til Gab AI Inc.</translation>
+<translation id="724102042129299115">Førsteinntrykk ved bruk av Fulldive</translation>
+<translation id="7766792282581704663">Ved å bruke Fulldive samtykker du i <ph name="BEGIN_LINK1"/>Gab AI Incs vilkår for bruk<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>tilleggsvilkårene for bruk av Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Ved å bruke Fulldive samtykker du i <ph name="BEGIN_LINK1"/>Gab AI Incs vilkår for bruk<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>tilleggsvilkårene for bruk av Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Merknaden om personvern for Gab AI Inc-kontoer som administreres via Family Link<ph name="END_LINK3"/>, gjelder også.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> åpnes i Fulldive. Ved å fortsette samtykker du i <ph name="BEGIN_LINK1"/>Gab AI Incs vilkår for bruk<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>tilleggsvilkårene for bruk av Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> åpnes i Fulldive. Ved å fortsette samtykker du i <ph name="BEGIN_LINK1"/>Gab AI Incs vilkår for bruk<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>tilleggsvilkårene for bruk av Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Merknaden om personvern for Gab AI Inc-kontoer som administreres via Family Link<ph name="END_LINK3"/>, gjelder også.</translation>
+<translation id="673197144963363525">Gjør Fulldive bedre ved å sende bruksstatistikk og programstopprapporter til Gab AI Inc.</translation>
 <translation id="3518985090088779359">Godta og fortsett</translation>
-<translation id="7207456302801184289">Velkommen til Dissenter</translation>
+<translation id="7207456302801184289">Velkommen til Fulldive</translation>
 <translation id="7189372733857464326">Venter på at Gab AI Inc Play Tjenester fullfører oppdateringen</translation>
 <translation id="1231733316453485619">Vil du slå på synkronisering?</translation>
 <translation id="5132942445612118989">Synkroniser passordene dine, loggen din med mer på alle enheter</translation>
@@ -780,7 +780,7 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="6336451774241870485">Ny privat fane</translation>
 <translation id="4521874409998847950">Fra <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>levert av Gab AI Inc<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">En nyere versjon er tilgjengelig</translation>
-<translation id="4058091506841967397">Kan ikke oppdatere Dissenter</translation>
+<translation id="4058091506841967397">Kan ikke oppdatere Fulldive</translation>
 <translation id="6316139424528454185">Android-versjonen støttes ikke</translation>
 <translation id="6989267951144302301">Kunne ikke laste ned</translation>
 <translation id="624789221780392884">Oppdateringen er klar</translation>
@@ -830,7 +830,7 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="2536728043171574184">Ser på en lokalt lagret versjon av denne siden</translation>
 <translation id="4698034686595694889">Se uten nett i <ph name="APP_NAME"/></translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> og flere nettsteder</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Dissenter laster inn siden når den er klar}other{Dissenter laster inn sidene når de er klare}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Fulldive laster inn siden når den er klar}other{Fulldive laster inn sidene når de er klare}}</translation>
 <translation id="6811034713472274749">Siden er klar til å vises</translation>
 <translation id="4561979708150884304">Ingen tilkobling</translation>
 <translation id="8274165955039650276">Se nedlastinger</translation>
@@ -842,14 +842,14 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="3298243779924642547">Forenklet</translation>
 <translation id="393697183122708255">Ingen aktiverte talesøk er tilgjengelige</translation>
 <translation id="7191430249889272776">En fane ble åpnet i bakgrunnen.</translation>
-<translation id="8445059357334030806">Åpne i Dissenter</translation>
+<translation id="8445059357334030806">Åpne i Fulldive</translation>
 <translation id="4720023427747327413">Åpne i <ph name="PRODUCT_NAME"/></translation>
 <translation id="7022756207310403729">Åpne i nettleseren</translation>
 <translation id="1113597929977215864">Vis forenklet visning</translation>
 <translation id="1513352483775369820">Bokmerker og nettlogg</translation>
-<translation id="4939482511480190003">Hjelp til med å forbedre Dissenter. <ph name="BEGIN_LINK"/>Delta i undersøkelsen<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Hjelp til med å forbedre Fulldive. <ph name="BEGIN_LINK"/>Delta i undersøkelsen<ph name="END_LINK"/></translation>
 <translation id="3522247891732774234">En oppdatering er tilgjengelig. Flere alternativer</translation>
-<translation id="6773423637732432200">Kan ikke oppdatere Dissenter. Flere alternativer</translation>
+<translation id="6773423637732432200">Kan ikke oppdatere Fulldive. Flere alternativer</translation>
 <translation id="1383876407941801731">Søk</translation>
 <translation id="3328801116991980348">Informasjon om nettstedet</translation>
 <translation id="9070377983101773829">Start talesøk</translation>
@@ -901,7 +901,7 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="3211426585530211793">Slettet <ph name="ITEM_TITLE"/></translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> bokmerker ble slettet</translation>
 <translation id="3819178904835489326"><ph name="NUMBER_OF_DOWNLOADS"/> nedlastinger er slettet</translation>
-<translation id="1248710015876067820">For mange Dissenter-forekomster.</translation>
+<translation id="1248710015876067820">For mange Fulldive-forekomster.</translation>
 <translation id="4259722352634471385">Nettadressen er blokkert: <ph name="URL"/></translation>
 <translation id="8959122750345127698">Nettadressen er utilgjengelig: <ph name="URL"/></translation>
 <translation id="5210365745912300556">Lukk fanen</translation>
@@ -916,18 +916,18 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="2942036813789421260">Fanen for forhåndsvisning er lukket</translation>
 <translation id="6355102470683871794">Gab AI Inc <ph name="APP_NAME"/>-lagring</translation>
 <translation id="3822502789641063741">Slette nettstedslagring?</translation>
-<translation id="9205995714227143200">Nettstedslagring Dissenter ikke tror er viktig (for eksempel områder uten lagrede innstillinger eller som du ikke besøker ofte)</translation>
+<translation id="9205995714227143200">Nettstedslagring Fulldive ikke tror er viktig (for eksempel områder uten lagrede innstillinger eller som du ikke besøker ofte)</translation>
 <translation id="3997476611815694295">Uviktig lagring</translation>
 <translation id="8493948351860045254">Frigjør plass</translation>
-<translation id="2324920234469020158">Dette sletter informasjonskapsler, buffere og annen data fra nettsteder Dissenter ikke tror er viktige.</translation>
+<translation id="2324920234469020158">Dette sletter informasjonskapsler, buffere og annen data fra nettsteder Fulldive ikke tror er viktige.</translation>
 <translation id="5447201525962359567">All nettstedslagring, inkludert informasjonskapsler og andre lokalt lagrede data</translation>
 <translation id="1376578503827013741">Beregner …</translation>
 <translation id="583281660410589416">Ukjent</translation>
 <translation id="2323763861024343754">Nettstedslagring</translation>
-<translation id="3587672679800759167">Total datamengde som brukes av Dissenter, deriblant kontoer, bokmerker og lagrede innstillinger</translation>
+<translation id="3587672679800759167">Total datamengde som brukes av Fulldive, deriblant kontoer, bokmerker og lagrede innstillinger</translation>
 <translation id="6545017243486555795">Slett alle data</translation>
 <translation id="4095146165863963773">Slette appdataene?</translation>
-<translation id="53119194224775367">Alle appdataene for Dissenter slettes permanent. Dette omfatter alle filer, innstillinger, kontoer, databaser osv.</translation>
+<translation id="53119194224775367">Alle appdataene for Fulldive slettes permanent. Dette omfatter alle filer, innstillinger, kontoer, databaser osv.</translation>
 <translation id="5307446750509046227">Slett nettstedslagring</translation>
 <translation id="300526633675317032">Dette sletter alle dataene (<ph name="SIZE_IN_KB"/>) fra nettstedslagringen.</translation>
 <translation id="8068648041423924542">Kan ikke velge sertifikat.</translation>
@@ -954,15 +954,15 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="3114012059975132928">Videospiller</translation>
 <translation id="5489227211564503167">Medgått tid: <ph name="ELAPSED_TIME"/> av <ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Søk med Sogou</translation>
-<translation id="5406914950576900927">Dissenter kan bruke <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> for søk i Kina. Du kan endre dette i <ph name="BEGIN_LINK"/>Innstillinger<ph name="END_LINK"/>.</translation>
+<translation id="5406914950576900927">Fulldive kan bruke <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> for søk i Kina. Du kan endre dette i <ph name="BEGIN_LINK"/>Innstillinger<ph name="END_LINK"/>.</translation>
 <translation id="6456271171669383967">Behold Gab AI Inc</translation>
 <translation id="4384468725000734951">Bruker Sogou til å søke</translation>
 <translation id="6103327872225198548">Bruker Gab AI Inc til å søke</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
-<translation id="919933208285147476">Denne appen kjører i Dissenter</translation>
-<translation id="6143689084714664628">Kjører i Dissenter</translation>
-<translation id="7675869148432102528"><ph name="APP_NAME"/> har også data i Dissenter</translation>
-<translation id="2734140769649165081">Du kan slette dataene i Dissenter-innstillingene</translation>
+<translation id="919933208285147476">Denne appen kjører i Fulldive</translation>
+<translation id="6143689084714664628">Kjører i Fulldive</translation>
+<translation id="7675869148432102528"><ph name="APP_NAME"/> har også data i Fulldive</translation>
+<translation id="2734140769649165081">Du kan slette dataene i Fulldive-innstillingene</translation>
 <translation id="8232956427053453090">Behold dataene</translation>
 <translation id="4298388696830689168">Tilknyttede nettsteder</translation>
 <translation id="5763514718066511291">Trykk for å kopiere nettadressen for denne appen</translation>
@@ -987,13 +987,13 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 <translation id="8015452622527143194">Tilbakestill alt på siden til standardstørrelsen</translation>
 <translation id="3443221991560634068">Last inn den aktive siden på nytt</translation>
 <translation id="123724288017357924">Last inn siden på nytt, men ignorer bufret innhold</translation>
-<translation id="305870044889644984">Åpne brukerstøtten for Dissenter i en ny fane</translation>
+<translation id="305870044889644984">Åpne brukerstøtten for Fulldive i en ny fane</translation>
 <translation id="3166827708714933426">Hurtigtaster for vinduer og faner</translation>
-<translation id="3169981355900570544">Hurtigtaster for funksjoner i Gab AI Inc Dissenter.</translation>
+<translation id="3169981355900570544">Hurtigtaster for funksjoner i Gab AI Inc Fulldive.</translation>
 <translation id="4558311620361989323">Hurtigtaster for nettsider</translation>
-<translation id="1908301351964700579">Dissenter klargjør fremdeles for VR. Start Dissenter på nytt senere.</translation>
+<translation id="1908301351964700579">Fulldive klargjør fremdeles for VR. Start Fulldive på nytt senere.</translation>
 <translation id="8970887620466824814">Noe gikk galt.</translation>
-<translation id="1875543012935658554">Åpne Dissenter på nytt.</translation>
+<translation id="1875543012935658554">Åpne Fulldive på nytt.</translation>
 <translation id="79859296434321399">Du må installere ARCore for å se innhold med utvidet virkelighet</translation>
 <translation id="8558485628462305855">Du må oppdatere ARCore for å se innhold med utvidet virkelighet</translation>
 <translation id="3513704683820682405">Utvidet virkelighet</translation>
@@ -1005,9 +1005,9 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK"/>tilbakestill synkronise
 Det er bare du som kan se hva kameraet ditt ser på. Nettstedet kan ikke se bildene fra kameraet.</translation>
 <translation id="1188239144602654184">Start utvidet virkelighet</translation>
 <translation id="473775607612524610">Oppdater</translation>
-<translation id="3133489217401741157">Installerer <ph name="MODULE"/> for Dissenter …</translation>
+<translation id="3133489217401741157">Installerer <ph name="MODULE"/> for Fulldive …</translation>
 <translation id="1791662854739702043">Installert</translation>
-<translation id="5131234170665854056">Kan ikke installere <ph name="MODULE"/> for Dissenter</translation>
+<translation id="5131234170665854056">Kan ikke installere <ph name="MODULE"/> for Fulldive</translation>
 <translation id="2567385386134582609">BILDE</translation>
 <translation id="6395288395575013217">LINK</translation>
 <translation id="7352939065658542140">VIDEO</translation>
@@ -1027,7 +1027,7 @@ Det er bare du som kan se hva kameraet ditt ser på. Nettstedet kan ikke se bild
 <translation id="1792959175193046959">Endre standard nedlastingssted når som helst</translation>
 <translation id="6942665639005891494">Endre standard nedlastingssted når som helst via menyalternativet Innstillinger</translation>
 <translation id="6850409657436465440">Nedlastingen din pågår fremdeles</translation>
-<translation id="5817715962196959877">Dissenter laster ned filer raskere nå</translation>
+<translation id="5817715962196959877">Fulldive laster ned filer raskere nå</translation>
 <translation id="3976396876660209797">Fjern denne snarveien, og opprett den på nytt</translation>
 <translation id="6766622839693428701">Sveip ned for å lukke.</translation>
 <translation id="1028699632127661925">Sender til <ph name="DEVICE_NAME"/> …</translation>
@@ -1043,17 +1043,17 @@ Det er bare du som kan se hva kameraet ditt ser på. Nettstedet kan ikke se bild
 <translation id="1521774566618522728">Aktiv i dag</translation>
 <translation id="3631987586758005671">Deler med <ph name="DEVICE_NAME"/></translation>
 <translation id="9028914725102941583">Slå på synkronisering for å dele på tvers av enheter</translation>
-<translation id="6162454065885854378">For å dele noe på telefonen med en annen enhet, slå på synkronisering i Dissenter-innstillingene på begge enhetene</translation>
-<translation id="6084271560289605378">Gå til Dissenter-innstillingene</translation>
-<translation id="2746024117903470217">For å dele denne siden med en annen enhet, slå på synkronisering i Dissenter-innstillingene på den andre enheten</translation>
-<translation id="7760665516427405230">For å dele denne siden med andre enheter, slå på synkronisering i Dissenter-innstillingene</translation>
+<translation id="6162454065885854378">For å dele noe på telefonen med en annen enhet, slå på synkronisering i Fulldive-innstillingene på begge enhetene</translation>
+<translation id="6084271560289605378">Gå til Fulldive-innstillingene</translation>
+<translation id="2746024117903470217">For å dele denne siden med en annen enhet, slå på synkronisering i Fulldive-innstillingene på den andre enheten</translation>
+<translation id="7760665516427405230">For å dele denne siden med andre enheter, slå på synkronisering i Fulldive-innstillingene</translation>
 <translation id="2318045970523081853">Trykk for å ringe</translation>
 <translation id="9209888181064652401">Kan ikke ringe</translation>
 <translation id="2860954141821109167">Kontrollér at en telefon-app er påslått på denne enheten</translation>
 <translation id="2067805253194386918">tekst</translation>
 <translation id="1450753235335490080">Kan ikke dele <ph name="CONTENT_TYPE"/></translation>
 <translation id="1266864766717917324">Kunne ikke dele <ph name="CONTENT_TYPE"/></translation>
-<translation id="8287068819750208230">Kontrollér at <ph name="TARGET_DEVICE_NAME"/> har synkronisering påslått i Dissenter</translation>
+<translation id="8287068819750208230">Kontrollér at <ph name="TARGET_DEVICE_NAME"/> har synkronisering påslått i Fulldive</translation>
 <translation id="3016635187733453316">Kontrollér at enheten er koblet til internett</translation>
 <translation id="8466613982764129868">Kontrollér at <ph name="TARGET_DEVICE_NAME"/> er koblet til internett</translation>
 <translation id="6539092367496845964">Noe gikk galt. Prøv på nytt senere.</translation>
@@ -1076,17 +1076,17 @@ Det er bare du som kan se hva kameraet ditt ser på. Nettstedet kan ikke se bild
 <translation id="7055152154916055070">Viderekoblingen er blokkert:</translation>
 <translation id="5524843473235508879">Viderekobling blokkert.</translation>
 <translation id="6573096386450695060">Tillat alltid</translation>
-<translation id="5805364706385912897">Denne siden bruker for mye minne, så Dissenter har satt den på pause.</translation>
-<translation id="5138664332909611586">Denne siden bruker for mye minne, så Dissenter har fjernet noe av innholdet.</translation>
+<translation id="5805364706385912897">Denne siden bruker for mye minne, så Fulldive har satt den på pause.</translation>
+<translation id="5138664332909611586">Denne siden bruker for mye minne, så Fulldive har fjernet noe av innholdet.</translation>
 <translation id="9137013805542155359">Vis original</translation>
-<translation id="6361779936989026201">Gab AI Inc-assistenten i Dissenter</translation>
+<translation id="6361779936989026201">Gab AI Inc-assistenten i Fulldive</translation>
 <translation id="7291387454912369099">Assistent-aktivert betaling</translation>
 <translation id="9037412730408024068">For å hjelpe deg med å fullføre oppgaver mottar Gab AI Inc nettadressene til og innholdet på nettsteder der du bruker assistenten, i tillegg til informasjon som du sender inn gjennom assistenten</translation>
-<translation id="4565206163201411670">Vil du vise Dissenter-aktiviteten din i Digital balanse?</translation>
-<translation id="9055113864158719823">Du kan se nettstedene du besøker i Dissenter, og angi tidtakere for dem.\n\nGab AI Inc får informasjon om nettstedene du angir tidtakere for, og hvor lenge du besøker dem. Denne informasjonen brukes til å gjøre Digital balanse bedre.</translation>
-<translation id="4596514158372210596">Fjerne Dissenter-aktiviteten din fra Digital balanse</translation>
-<translation id="1174893863889683998">Vil du fjerne Dissenter-aktiviteten din fra Digital balanse?</translation>
-<translation id="708829030563435351">Nettsteder du besøker i Dissenter, vises ikke. Alle tidtakere for nettsteder blir slettet.</translation>
+<translation id="4565206163201411670">Vil du vise Fulldive-aktiviteten din i Digital balanse?</translation>
+<translation id="9055113864158719823">Du kan se nettstedene du besøker i Fulldive, og angi tidtakere for dem.\n\nGab AI Inc får informasjon om nettstedene du angir tidtakere for, og hvor lenge du besøker dem. Denne informasjonen brukes til å gjøre Digital balanse bedre.</translation>
+<translation id="4596514158372210596">Fjerne Fulldive-aktiviteten din fra Digital balanse</translation>
+<translation id="1174893863889683998">Vil du fjerne Fulldive-aktiviteten din fra Digital balanse?</translation>
+<translation id="708829030563435351">Nettsteder du besøker i Fulldive, vises ikke. Alle tidtakere for nettsteder blir slettet.</translation>
 <translation id="2056878612599315956">Nettstedet er satt på pause</translation>
 <translation id="671481426037969117">Tidtakeren for <ph name="FQDN"/> gikk ut. Den starter igjen i morgen.</translation>
 <translation id="7479104141328977413">Faneadministrering</translation>
@@ -1102,7 +1102,7 @@ Det er bare du som kan se hva kameraet ditt ser på. Nettstedet kan ikke se bild
 <translation id="6201345951596836663">Linken er kopiert</translation>
 <translation id="6597891566292541626">Plassér QR-/strekkoden i denne rammen.</translation>
 <translation id="3140134512074889489">Slå på kameraet for å skanne QR-koder</translation>
-<translation id="5149323899804758325">For å skanne QR-koder, endre innstillingene slik at Dissenter kan bruke kameraet</translation>
+<translation id="5149323899804758325">For å skanne QR-koder, endre innstillingene slik at Fulldive kan bruke kameraet</translation>
 <translation id="2359808026110333948">Fortsett</translation>
 <translation id="8233540874193135768">For å skanne QR-koder, bruk en enhet med kamera.</translation>
 <translation id="6297765934698848803">Organisasjonen som administrerer enheten din, har slått av kameraet.</translation>

@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">刪除</translation>
 <translation id="144283815522798837">已選取 <ph name="NUMBER_OF_ITEMS_SELECTED"/> 個項目</translation>
 <translation id="5582839680698949063">主選單</translation>
-<translation id="3700405816184340252">Dissenter 歷史記錄</translation>
+<translation id="3700405816184340252">Fulldive 歷史記錄</translation>
 <translation id="7602079150116086782">沒有在其他裝置上開啟的分頁</translation>
 <translation id="4619615317237390068">在其他裝置上開啟的分頁</translation>
-<translation id="82609232232243542">登入 Dissenter</translation>
+<translation id="82609232232243542">登入 Fulldive</translation>
 <translation id="4627442949885028695">透過其他裝置繼續瀏覽</translation>
-<translation id="7253276740368043692">如要存取您在其他裝置上開啟的分頁，請登入 Dissenter。</translation>
+<translation id="7253276740368043692">如要存取您在其他裝置上開啟的分頁，請登入 Fulldive。</translation>
 <translation id="6351063337294363751">你可以使用這個選單清除瀏覽資料</translation>
 <translation id="6040143037577758943">關閉</translation>
 <translation id="6463795194797719782">編輯(&amp;E)</translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">貼上(&amp;P)</translation>
 <translation id="1815083418640426271">以純文字貼上</translation>
 <translation id="4022426551683927403">新增到字典(&amp;A)</translation>
-<translation id="6849870115130610913">從 Dissenter 取得圖片描述</translation>
+<translation id="6849870115130610913">從 Fulldive 取得圖片描述</translation>
 <translation id="372722114124766626">限用一次</translation>
 <translation id="4079140982534148664">使用進階拼字檢查功能</translation>
 <translation id="7487141338393529395">開啟進階拼字檢查功能</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">偏好設定...</translation>
 <translation id="5801568494490449797">偏好設定</translation>
 <translation id="3677911431265050325">切換為行動版網站</translation>
-<translation id="236470849334943016">Dissenter《服務條款》將於 3 月 31 日變更</translation>
+<translation id="236470849334943016">Fulldive《服務條款》將於 3 月 31 日變更</translation>
 <translation id="1032605640136438169">請詳閱新版條款</translation>
 <translation id="8712637175834984815">我瞭解了</translation>
 <translation id="5007392906805964215">查看</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">重新啟動</translation>
 <translation id="3479552764303398839">現在不要</translation>
 <translation id="1008557486741366299">現在不要</translation>
-<translation id="8201192017531062522">在 Dissenter 應用程式開啟的狀態下保持 Dissenter 繼續執行。</translation>
-<translation id="7397305826909094212">結束所有 Dissenter 應用程式</translation>
+<translation id="8201192017531062522">在 Fulldive 應用程式開啟的狀態下保持 Fulldive 繼續執行。</translation>
+<translation id="7397305826909094212">結束所有 Fulldive 應用程式</translation>
 <translation id="5026874946691314267">不要再顯示這則通知</translation>
 <translation id="91568222606626347">建立捷徑...</translation>
 <translation id="2783321960289401138">建立捷徑...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">Linux 虛擬機器：<ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">外掛程式虛擬機器：<ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP 剖析器</translation>
-<translation id="7171242884588191792">Dissenter 檔案公用程式</translation>
+<translation id="7171242884588191792">Fulldive 檔案公用程式</translation>
 <translation id="3183139917765991655">設定檔匯入工具</translation>
 <translation id="7367714965999718019">QR 圖碼產生器</translation>
 <translation id="2190069059097339078">WiFi 憑證擷取工具</translation>
-<translation id="5920835625712313205">Dissenter 作業系統映像檔寫入工具</translation>
+<translation id="5920835625712313205">Fulldive 作業系統映像檔寫入工具</translation>
 <translation id="4873312501243535625">媒體檔案檢查工具</translation>
 <translation id="5972666587303800813">無作業服務</translation>
 <translation id="1545775234664667895">已安裝「<ph name="THEME_NAME"/>」主題</translation>
@@ -851,14 +851,14 @@
 <translation id="3507421388498836150">「<ph name="EXTENSION_NAME"/>」目前擁有的權限</translation>
 <translation id="5242724311594467048">啟用「<ph name="EXTENSION_NAME"/>」？</translation>
 <translation id="4014432863917027322">修復「<ph name="EXTENSION_NAME"/>」？</translation>
-<translation id="5173189340601754836">電腦中的其他程式新增了一個應用程式，可能會使 Dissenter 的運作方式發生變更。
+<translation id="5173189340601754836">電腦中的其他程式新增了一個應用程式，可能會使 Fulldive 的運作方式發生變更。
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">電腦中的其他程式新增了一個擴充功能，可能會使 Dissenter 的運作方式發生變更。
+<translation id="6654312501894761082">電腦中的其他程式新增了一個擴充功能，可能會使 Fulldive 的運作方式發生變更。
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">電腦中的其他程式新增了一個主題，可能會使 Dissenter 的運作方式發生變更。
+<translation id="3225882094369124157">電腦中的其他程式新增了一個主題，可能會使 Fulldive 的運作方式發生變更。
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">啟用擴充功能</translation>
@@ -867,7 +867,7 @@
 <translation id="3908501907586732282">啟用擴充功能</translation>
 <translation id="2327492829706409234">啟用應用程式</translation>
 <translation id="175772926354468439">啟用主題</translation>
-<translation id="5267531627648004734">從 Dissenter 中移除</translation>
+<translation id="5267531627648004734">從 Fulldive 中移除</translation>
 <translation id="4998873842614926205">確認變更</translation>
 <translation id="1799071797295057738">系統已自動停用「<ph name="EXTENSION_NAME"/>」擴充功能。</translation>
 <translation id="5238278114306905396">「<ph name="EXTENSION_NAME"/>」應用程式已自動移除。</translation>
@@ -1003,7 +1003,7 @@
 <translation id="1616298854599875024">「<ph name="IMPORT_NAME"/>」擴充功能不是共用模組，因此無法匯入</translation>
 <translation id="2131077480075264">由於「<ph name="IMPORT_NAME"/>」不允許，因此無法安裝「<ph name="APP_NAME"/>」</translation>
 <translation id="1875387611427697908">只能從 <ph name="CHROME_WEB_STORE"/> 新增</translation>
-<translation id="3862788408946266506">含有「kiosk_only」資訊清單屬性的應用程式只能在 Dissenter 作業系統 Kiosk 模式中安裝</translation>
+<translation id="3862788408946266506">含有「kiosk_only」資訊清單屬性的應用程式只能在 Fulldive 作業系統 Kiosk 模式中安裝</translation>
 <translation id="3834775135533257713">「<ph name="TO_INSTALL_APP_NAME"/>」應用程式和「<ph name="INSTALLED_APP_NAME"/>」發生衝突，因此無法新增。</translation>
 <translation id="144518587530125858">無法載入主題的「<ph name="IMAGE_PATH"/>」。</translation>
 <translation id="3576324189521867626">已成功安裝</translation>
@@ -1106,9 +1106,9 @@
 <translation id="6101226222197207147">已新增以下應用程式：<ph name="EXTENSION_NAME"/></translation>
 <translation id="7818135753970109980">已新增以下主題：<ph name="EXTENSION_NAME"/></translation>
 <translation id="9215293857209265904">已新增「<ph name="EXTENSION_NAME"/>」</translation>
-<translation id="6637045053447935202">電腦中其他程式所新增的應用程式可能會變更 Dissenter 的運作方式。</translation>
-<translation id="2015014930243978107">電腦中其他程式所新增的擴充功能可能會變更 Dissenter 的運作方式。</translation>
-<translation id="2060128809251156338">電腦中其他程式所新增的主題可能會變更 Dissenter 的運作方式。</translation>
+<translation id="6637045053447935202">電腦中其他程式所新增的應用程式可能會變更 Fulldive 的運作方式。</translation>
+<translation id="2015014930243978107">電腦中其他程式所新增的擴充功能可能會變更 Fulldive 的運作方式。</translation>
+<translation id="2060128809251156338">電腦中其他程式所新增的主題可能會變更 Fulldive 的運作方式。</translation>
 <translation id="2470702053775288986">已停用不支援的擴充功能</translation>
 <translation id="2809586584051668049">和另外 <ph name="NUMBER_ADDITIONAL_DISABLED"/> 個</translation>
 <translation id="5301954838959518834">好，我知道了</translation>
@@ -1313,7 +1313,7 @@
 <translation id="8017679124341497925">已編輯捷徑</translation>
 <translation id="1174073918202301297">已新增捷徑</translation>
 <translation id="2926085873880284723">還原預設捷徑</translation>
-<translation id="5801450813341024983">Dissenter 背景</translation>
+<translation id="5801450813341024983">Fulldive 背景</translation>
 <translation id="2800760947029405028">上傳圖片</translation>
 <translation id="8342861492835240085">選取集合</translation>
 <translation id="3132996321662585180">每天重新整理</translation>
@@ -1400,7 +1400,7 @@
 <translation id="833986336429795709">請選擇要用來開啟這個連結的應用程式</translation>
 <translation id="192494336144674234">選擇開啟工具</translation>
 <translation id="9053893665344928494">記住我的選擇</translation>
-<translation id="5340857474604400806">繼續使用 Dissenter</translation>
+<translation id="5340857474604400806">繼續使用 Fulldive</translation>
 <translation id="3043581297103810752">來自 <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/>（私人）</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (訪客)</translation>
@@ -1461,8 +1461,8 @@
 <translation id="6686817083349815241">儲存你的密碼</translation>
 <translation id="8141725884565838206">管理你的密碼</translation>
 <translation id="8275038454117074363">匯入</translation>
-<translation id="3191314862567596053">將密碼匯入 Dissenter 中</translation>
-<translation id="6368144843345980623">從 Dissenter 中匯出密碼</translation>
+<translation id="3191314862567596053">將密碼匯入 Fulldive 中</translation>
+<translation id="6368144843345980623">從 Fulldive 中匯出密碼</translation>
 <translation id="8503813439785031346">使用者名稱</translation>
 <translation id="6657585470893396449">密碼</translation>
 <translation id="5472627187093107397">儲存這個網站的密碼</translation>
@@ -1493,7 +1493,7 @@
 <translation id="7052237160939977163">傳送效能追蹤資料</translation>
 <translation id="5526928694260255286">附加<ph name="BEGIN_LINK"/>藍牙記錄<ph name="END_LINK"/> (Gab AI Inc 內部使用)</translation>
 <translation id="3047644958362961983">這項資訊可協助我們進一步瞭解 Gab AI Inc 助理的問題。這項資訊會儲存在系統中最多 90 天，且只有相關的工程小組和意見回饋小組才能存取。</translation>
-<translation id="8545590844135745781">為了進一步診斷藍牙問題，Gab AI Inc 員工可在意見回饋報告額外納入藍牙記錄。勾選這個選項後，你的報告就會納入你目前工作階段的 btsnoop 和 HCI 記錄；這些記錄會經過處理，儘可能移除個人識別資訊 (PII)。這些記錄只有 Listnr 的 Dissenter 作業系統產品小組主管可以存取，且會在 90 天後遭到清除。</translation>
+<translation id="8545590844135745781">為了進一步診斷藍牙問題，Gab AI Inc 員工可在意見回饋報告額外納入藍牙記錄。勾選這個選項後，你的報告就會納入你目前工作階段的 btsnoop 和 HCI 記錄；這些記錄會經過處理，儘可能移除個人識別資訊 (PII)。這些記錄只有 Listnr 的 Fulldive 作業系統產品小組主管可以存取，且會在 90 天後遭到清除。</translation>
 <translation id="4206323443866416204">意見回饋報告</translation>
 <translation id="3681311097828166361">感謝你提供意見！你目前處於離線狀態，重新上線後系統就會傳送你的意見回饋報告。</translation>
 <translation id="8713570323158206935">傳送<ph name="BEGIN_LINK1"/>系統資訊<ph name="END_LINK1"/></translation>
@@ -1510,15 +1510,15 @@
 <translation id="6885771755599377173">預覽系統資訊</translation>
 <translation id="1016566241875885511">其他資訊 (選填)</translation>
 <translation id="8026334261755873520">清除瀏覽資料</translation>
-<translation id="4718442817388594217">系統已將所選資料從 Dissenter 和其他同步的裝置中移除。你的 Gab AI Inc 帳戶仍可能保留了其他類型的瀏覽記錄，例如其他 Gab AI Inc 服務中的搜尋和活動記錄 (可前往 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 查詢)。</translation>
-<translation id="7814200940910057384">已清除 Dissenter 資料</translation>
+<translation id="4718442817388594217">系統已將所選資料從 Fulldive 和其他同步的裝置中移除。你的 Gab AI Inc 帳戶仍可能保留了其他類型的瀏覽記錄，例如其他 Gab AI Inc 服務中的搜尋和活動記錄 (可前往 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 查詢)。</translation>
+<translation id="7814200940910057384">已清除 Fulldive 資料</translation>
 <translation id="7346909386216857016">好，我知道了</translation>
 <translation id="8493236660459102203">麥克風：</translation>
 <translation id="3925573269917483990">相機：</translation>
 <translation id="648927581764831596">沒有可用的裝置</translation>
 <translation id="4172051516777682613">一律顯示</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{已封鎖彈出式視窗}other{已封鎖 # 個彈出式視窗}}</translation>
-<translation id="4156865452842056672">(Dissenter 錯誤頁面)</translation>
+<translation id="4156865452842056672">(Fulldive 錯誤頁面)</translation>
 <translation id="1734824808160898225">「<ph name="PRODUCT_NAME"/>」可能無法自動更新</translation>
 <translation id="8590375307970699841">設定自動更新</translation>
 <translation id="8926389886865778422">不再詢問這個問題</translation>
@@ -1623,10 +1623,10 @@
 <translation id="8658645149275195032"><ph name="APP_NAME"/> 正在與 <ph name="TAB_NAME"/> 共用您的畫面和音訊。</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> 正在共用視窗。</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> 正在與 <ph name="TAB_NAME"/> 共用視窗。</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> 正在共用 Dissenter 分頁。</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> 正在與 <ph name="TAB_NAME"/> 共用 Dissenter 分頁。</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> 正在共用 Dissenter 分頁和音訊。</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> 正在與 <ph name="TAB_NAME"/> 共用 Dissenter 分頁和音訊。</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> 正在共用 Fulldive 分頁。</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> 正在與 <ph name="TAB_NAME"/> 共用 Fulldive 分頁。</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> 正在共用 Fulldive 分頁和音訊。</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> 正在與 <ph name="TAB_NAME"/> 共用 Fulldive 分頁和音訊。</translation>
 <translation id="7108338896283013870">隱藏</translation>
 <translation id="890616557918890486">變更來源</translation>
 <translation id="7792388396321542707">停止共用</translation>
@@ -1649,7 +1649,7 @@
 <translation id="4711067597921221305">只要自動傳送使用統計資料及當機報告給 Gab AI Inc，就能助我們一臂之力，讓「<ph name="PRODUCT_NAME"/>」更臻完美</translation>
 <translation id="5972826969634861500">啟動 <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">協助我們的工程師調查這項當機問題並予以修正。請儘可能列出所有確切步驟，鉅細靡遺！</translation>
-<translation id="5418694430960033386">Dissenter 記憶體不足或其他某些原因導致網頁處理程序終止。如要繼續執行，請重新載入或前往其他網頁。</translation>
+<translation id="5418694430960033386">Fulldive 記憶體不足或其他某些原因導致網頁處理程序終止。如要繼續執行，請重新載入或前往其他網頁。</translation>
 <translation id="3065041951436100775">分頁毀損意見回饋。</translation>
 <translation id="3941565636838060942">如要隱藏這個程式的存取權，你必須使用控制台中的「<ph name="CONTROL_PANEL_APPLET_NAME"/>」解除安裝此程式。
 
@@ -1676,10 +1676,10 @@
 <translation id="4980805016576257426">這個擴充功能含有惡意軟體。</translation>
 <translation id="5522156646677899028">這個擴充功能內含嚴重安全性漏洞。</translation>
 <translation id="6945695820322143954">此擴充功能違反線上商店政策。</translation>
-<translation id="177808131755847449">這個擴充功能可能不安全，因此遭到 Dissenter 停用。</translation>
+<translation id="177808131755847449">這個擴充功能可能不安全，因此遭到 Fulldive 停用。</translation>
 <translation id="1434696352799406980">這項功能會重設您的起始網頁、新分頁、搜尋引擎和固定分頁，同時停用所有擴充功能並清除 Cookie 等暫存資料，但不會清除您的書籤、歷史記錄和已儲存的密碼。</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> 要求重設您的設定。</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> 要求將您的 Dissenter 設定還原成原始預設值。這會重設您的首頁、新分頁和搜尋引擎，停用您的擴充功能，以及取消固定所有分頁。其他暫存資料和快取資料 (例如 Cookie、內容和網站資料) 也會一併遭到清除。</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> 要求將您的 Fulldive 設定還原成原始預設值。這會重設您的首頁、新分頁和搜尋引擎，停用您的擴充功能，以及取消固定所有分頁。其他暫存資料和快取資料 (例如 Cookie、內容和網站資料) 也會一併遭到清除。</translation>
 <translation id="7581462281756524039">清理工具</translation>
 <translation id="1233721473400465416">語言代碼</translation>
 <translation id="2907619724991574506">起始網址</translation>
@@ -1873,7 +1873,7 @@
 <translation id="6664774537677393800">開啟你的設定檔時發生錯誤。請先登出，然後再次登入。</translation>
 <translation id="1794791083288629568">提供意見，協助我們修正這個問題。</translation>
 <translation id="8234795456569844941">請告訴我們在你收到設定檔錯誤訊息前執行的動作，以協助工程師修正此問題：</translation>
-<translation id="6500340165622970282">開啟你的設定檔時發生錯誤，因此無法啟動 Dissenter，請嘗試重新啟動。</translation>
+<translation id="6500340165622970282">開啟你的設定檔時發生錯誤，因此無法啟動 Fulldive，請嘗試重新啟動。</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> 無法以根使用者的身分執行。</translation>
 <translation id="2292848386125228270">請以一般使用者身分啟用 <ph name="PRODUCT_NAME"/>。開發時，如要以 root 身分執行，請使用 --no-sandbox 標記重新執行。</translation>
 <translation id="7547317915858803630">警告：你的 <ph name="PRODUCT_NAME"/> 設定均儲存在網路硬碟中。這麼做可能導致速度變慢、當機，甚至資料遺失。</translation>
@@ -2247,8 +2247,8 @@
 <translation id="4720113199587244118">新增裝置</translation>
 <translation id="2776441542064982094">網路上沒有可註冊的裝置，如果你的裝置已開啟並連上網際網路，請依照操作說明手冊中的指示進行註冊。</translation>
 <translation id="1007408791287232274">無法載入裝置。</translation>
-<translation id="3886420006370338208">你必須登入 Dissenter 才能查看自己的裝置</translation>
-<translation id="6711610692002680394">你必須登入 Dissenter 註冊新裝置</translation>
+<translation id="3886420006370338208">你必須登入 Fulldive 才能查看自己的裝置</translation>
+<translation id="6711610692002680394">你必須登入 Fulldive 註冊新裝置</translation>
 <translation id="8931394284949551895">新裝置</translation>
 <translation id="3752673729237782832">我的裝置</translation>
 <translation id="1721937473331968728">你可以將已連接電腦的傳統印表機新增到 <ph name="CLOUD_PRINT_NAME"/>。</translation>
@@ -2321,7 +2321,7 @@
 <translation id="4540437243849625078">此網站即將與私人模式外的應用程式分享資訊。</translation>
 <translation id="1227836882233136433">是否要離開私人模式？</translation>
 <translation id="662080504995468778">不離開</translation>
-<translation id="2593289874938379417">Dissenter 無法存取要求的資源。</translation>
+<translation id="2593289874938379417">Fulldive 無法存取要求的資源。</translation>
 <translation id="760197030861754408">如要連線，請前往 <ph name="LANDING_PAGE"/>。</translation>
 <translation id="3648348069317717750">偵測到 <ph name="USB_DEVICE_NAME"/></translation>
 <translation id="5042282098504489593">開啟設定以將 <ph name="USB_DEVICE_NAME"/> 連線至 Linux</translation>
@@ -2376,24 +2376,24 @@
 <translation id="2859806420264540918">這個網站會顯示干擾性或誤導性的廣告。</translation>
 <translation id="4077917118009885966">已封鎖這個網站的廣告</translation>
 <translation id="6456955391422100996">已移除廣告。</translation>
-<translation id="7533556202636568669">這個廣告使用太多裝置資源，因此 Dissenter 已將其移除。</translation>
+<translation id="7533556202636568669">這個廣告使用太多裝置資源，因此 Fulldive 已將其移除。</translation>
 <translation id="8497219075884839166">Windows 公用程式</translation>
 <translation id="897525204902889653">隔離服務</translation>
 <translation id="7055152154916055070">已禁止重新導向：</translation>
 <translation id="6777817260680419853">已禁止重新導向</translation>
 <translation id="694592694773692225">已在這個網頁禁止重新導向。</translation>
-<translation id="8945142681652245463">使用 Gab AI Inc Dissenter 快速瀏覽網路</translation>
-<translation id="2618024864038703735">使用 Gab AI Inc Dissenter 安全瀏覽網路</translation>
-<translation id="8142180567942285208">使用 Dissenter 享有智慧瀏覽體驗</translation>
+<translation id="8945142681652245463">使用 Gab AI Inc Fulldive 快速瀏覽網路</translation>
+<translation id="2618024864038703735">使用 Gab AI Inc Fulldive 安全瀏覽網路</translation>
+<translation id="8142180567942285208">使用 Fulldive 享有智慧瀏覽體驗</translation>
 <translation id="8862003515646449717">改用速度飛快的瀏覽器</translation>
 <translation id="8438328416656800239">改用智慧瀏覽器</translation>
 <translation id="491691592645955587">改用安全的瀏覽器</translation>
 <translation id="683373380308365518">改用智慧又安全的瀏覽器</translation>
-<translation id="989239400026154074">Gab AI Inc 推薦使用 Dissenter</translation>
-<translation id="6676231621615806698">開啟 Dissenter</translation>
+<translation id="989239400026154074">Gab AI Inc 推薦使用 Fulldive</translation>
+<translation id="6676231621615806698">開啟 Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> 會使用你的位置資訊，為你提供當地的相關內容。你可以在 [<ph name="SETTINGS_LINK"/>] 中變更這項設定。</translation>
 <translation id="3737536731758327622">你的下載內容會顯示在這裡</translation>
-<translation id="4782664866169793230">Dissenter 目前受到自動測試軟體控制。</translation>
+<translation id="4782664866169793230">Fulldive 目前受到自動測試軟體控制。</translation>
 <translation id="6721678857435001674">查看安全金鑰的製造商和型號</translation>
 <translation id="1673137583248014546"><ph name="URL"/> 要求查看安全金鑰的製造商和型號</translation>
 <translation id="6010869025736512584">正在存取視訊輸入</translation>
@@ -2526,7 +2526,7 @@
 <translation id="3984431586879874039">要允許這個網站查看你的安全金鑰嗎？</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> 要求查看安全金鑰的製造商和型號</translation>
 <translation id="7618452966706304788">您是否要在私人模式中使用 Touch ID 和 <ph name="APP_NAME"/>？</translation>
-<translation id="3098826269712097986">登入資料將在您結束私人模式後儲存在 Dissenter。這可使您稍後在此網站再次使用 Touch ID。</translation>
+<translation id="3098826269712097986">登入資料將在您結束私人模式後儲存在 Fulldive。這可使您稍後在此網站再次使用 Touch ID。</translation>
 <translation id="2172784515318616985">繼續</translation>
 <translation id="5186185447130319458">私人</translation>
 <translation id="7643842463591647490">{0,plural, =1{# 個開啟的視窗}other{# 個開啟的視窗}}</translation>
@@ -2568,7 +2568,7 @@
 <translation id="2346953515226895098">SODA Service</translation>
 <translation id="7516981202574715431">「<ph name="APP_NAME"/>」已暫停</translation>
 <translation id="917350715406657904">你已達到貴家長為「<ph name="APP_NAME"/>」設定的使用時間限制。你明天可以使用 <ph name="TIME_LIMIT"/>。</translation>
-<translation id="8891261408659902804">你已達到貴家長為「<ph name="APP_NAME"/>」這款 Dissenter 應用程式設定的使用時間限制。你明天可以使用 <ph name="TIME_LIMIT"/>。</translation>
+<translation id="8891261408659902804">你已達到貴家長為「<ph name="APP_NAME"/>」這款 Fulldive 應用程式設定的使用時間限制。你明天可以使用 <ph name="TIME_LIMIT"/>。</translation>
 <translation id="142655739075382478">「<ph name="APP_NAME"/>」已遭封鎖</translation>
 <translation id="4404843640767531781">貴家長已封鎖「<ph name="APP_NAME"/>」。如要使用這個應用程式，請要求家長授予權限。</translation>
 <translation id="751523031290522286">管理員已封鎖「<ph name="APP_NAME"/>」。如要使用這個應用程式，請要求管理員授予權限。</translation>
@@ -2913,7 +2913,7 @@
 <translation id="672213144943476270">以訪客身分瀏覽之前，請先取消鎖定您的個人資料。</translation>
 <translation id="8086119151297127544">請在移除設定檔之前，先解鎖您的設定檔。</translation>
 <translation id="7805701378418968629">請在新增設定檔之前，先解鎖您的設定檔。</translation>
-<translation id="8978225823042133615">如要使用 Dissenter，請登入帳戶</translation>
+<translation id="8978225823042133615">如要使用 Fulldive，請登入帳戶</translation>
 <translation id="4893336867552636863">這會將您的瀏覽資料從這個裝置上永久刪除。</translation>
 <translation id="2496180316473517155">瀏覽記錄</translation>
 <translation id="6865313869410766144">自動填入表單資料</translation>
@@ -2937,7 +2937,7 @@
 <translation id="9013707997379828817">你的管理員已復原這個裝置。請儲存重要檔案後再重新啟動。重新啟動後，裝置上的資料將全數刪除。</translation>
 <translation id="5877064549588274448">版本已變更。請重新啟動裝置以套用變更。</translation>
 <translation id="4716483597559580346">執行 Powerwash 以提升安全性</translation>
-<translation id="4089922565956168950">這項升級作業會重設你的 Dissenterbook 並移除目前的使用者資料。</translation>
+<translation id="4089922565956168950">這項升級作業會重設你的 Fulldivebook 並移除目前的使用者資料。</translation>
 <translation id="3688526734140524629">變更版本</translation>
 <translation id="6410328738210026208">變更版本並執行 Powerwash</translation>
 <translation id="1979280758666859181">你即將變更為較舊版本的 <ph name="PRODUCT_NAME"/>。該版本的版本號與你電腦上所安裝的版本號必須相符，系統才會套用版本變更。</translation>
@@ -2969,7 +2969,7 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> 和另外 1 個帳戶}other{<ph name="EMAIL"/> 和另外 <ph name="EXTRA_ACCOUNTS"/> 個帳戶}}</translation>
 <translation id="7434635829372401939">同步處理你的設定</translation>
 <translation id="1036348656032585052">關閉</translation>
-<translation id="3267705913905916810">當你使用 Gab AI Inc 帳戶登入後，所有 Dissenter 作業系統裝置上的應用程式和設定都會保持同步。如要查看瀏覽器同步處理選項，請前往 <ph name="LINK_BEGIN"/>Dissenter 設定<ph name="LINK_END"/>。</translation>
+<translation id="3267705913905916810">當你使用 Gab AI Inc 帳戶登入後，所有 Fulldive 作業系統裝置上的應用程式和設定都會保持同步。如要查看瀏覽器同步處理選項，請前往 <ph name="LINK_BEGIN"/>Fulldive 設定<ph name="LINK_END"/>。</translation>
 <translation id="6985607387932385770">印表機</translation>
 <translation id="8418661265246754237">Gab AI Inc 帳戶</translation>
 <translation id="3953834000574892725">我的帳戶</translation>
@@ -3016,7 +3016,7 @@
 <translation id="2187700606737131818">Gab AI Inc 相簿</translation>
 <translation id="1827738518074806965">畫廊</translation>
 <translation id="9137157311132182254">偏好的搜尋引擎</translation>
-<translation id="7423118389528876103">由 Dissenter 瀏覽器和 <ph name="DEVICE_TYPE"/> 啟動器使用</translation>
+<translation id="7423118389528876103">由 Fulldive 瀏覽器和 <ph name="DEVICE_TYPE"/> 啟動器使用</translation>
 <translation id="2862205630718215619">Gab AI Inc 助理</translation>
 <translation id="8959699239363253085">開啟</translation>
 <translation id="971479617738309149">關閉</translation>
@@ -3036,15 +3036,15 @@
 <translation id="6644513150317163574">網址格式無效。使用單一登入 (SSO) 驗證時，必須將伺服器指定為主機名稱。</translation>
 <translation id="6091761513005122595">已成功共用掛接的裝置。</translation>
 <translation id="5770125698810550803">顯示瀏覽按鈕</translation>
-<translation id="2972318514147518075">在平板電腦模式中，使用按鈕前往主畫面、返回及切換應用程式。系統會在你啟用 DissenterVox 或自動點擊功能時開啟這項設定。</translation>
+<translation id="2972318514147518075">在平板電腦模式中，使用按鈕前往主畫面、返回及切換應用程式。系統會在你啟用 FulldiveVox 或自動點擊功能時開啟這項設定。</translation>
 <translation id="2558896001721082624">一律在系統選單中顯示協助工具選項</translation>
 <translation id="2981113813906970160">顯示大型滑鼠游標</translation>
 <translation id="5072052264945641674">調整游標大小</translation>
 <translation id="4209092469652827314">大</translation>
 <translation id="499165176004408815">使用高反差模式</translation>
 <translation id="142758023928848008">啟用相黏鍵 (執行鍵盤快速鍵時只需依序輸入按鍵)</translation>
-<translation id="5914872514449971753">啟用 DissenterVox (互動朗讀)</translation>
-<translation id="7099511550603534982">開啟 DissenterVox 設定</translation>
+<translation id="5914872514449971753">啟用 FulldiveVox (互動朗讀)</translation>
+<translation id="7099511550603534982">開啟 FulldiveVox 設定</translation>
 <translation id="8547013269961688403">啟用全螢幕放大鏡</translation>
 <translation id="8743390665131937741">全螢幕縮放比例：</translation>
 <translation id="7334274148831027933">啟用停駐放大鏡</translation>
@@ -3136,7 +3136,7 @@
 <translation id="6902066522699286937">要預覽的語音</translation>
 <translation id="304747341537320566">語音引擎</translation>
 <translation id="2755367719610958252">管理協助工具功能</translation>
-<translation id="1203953622051744249">管理已登入的帳戶。Dissenter 和 Gab AI Inc Play 的網站、應用程式和擴充功能可能會使用這些帳戶為你提供個人化的使用體驗 (依權限而定)。<ph name="LINK_BEGIN"/>瞭解詳情<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">管理已登入的帳戶。Fulldive 和 Gab AI Inc Play 的網站、應用程式和擴充功能可能會使用這些帳戶為你提供個人化的使用體驗 (依權限而定)。<ph name="LINK_BEGIN"/>瞭解詳情<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">你可以在這裡新增學校帳戶或管理兒童帳戶。<ph name="LINK_BEGIN"/>瞭解詳情<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">帳戶</translation>
 <translation id="6597148444736186483">如要登出這部裝置的主要帳戶，請按一下畫面上的時間。在畫面上顯示的選單中，按一下 [登出]。</translation>
@@ -3208,7 +3208,7 @@
 <translation id="234889437187286781">載入資料時發生錯誤</translation>
 <translation id="4660540330091848931">正在調整大小</translation>
 <translation id="1481537595330271162">調整磁碟大小時發生錯誤</translation>
-<translation id="2756917833575664962">如要啟用 ADB 偵錯，必須將這部 Dissenterbook 恢復原廠設定。<ph name="BEGIN_LINK_LEARN_MORE"/>瞭解詳情<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">如要啟用 ADB 偵錯，必須將這部 Fulldivebook 恢復原廠設定。<ph name="BEGIN_LINK_LEARN_MORE"/>瞭解詳情<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">如要啟用 ADB 偵錯，必須重新啟動這部 <ph name="DEVICE_TYPE"/>。如要停用 ADB 偵錯，必須將裝置恢復原廠設定。</translation>
 <translation id="8082390128630131497">停用 ADB 偵錯會將這部 <ph name="DEVICE_TYPE"/> 恢復原廠設定。所有使用者帳戶和本機資料都將遭到清除。</translation>
 <translation id="7932969338829957666">在 Linux 中，你可以前往 <ph name="BASE_DIR"/> 存取共用資料夾。</translation>
@@ -3336,10 +3336,10 @@
 <translation id="8002670234429879764">「<ph name="PRINTER_NAME"/>」已無法使用</translation>
 <translation id="3976108569178263973">沒有可用的印表機。</translation>
 <translation id="217576141146192373">無法新增印表機。請檢查你的印表機設定，然後再試一次。</translation>
-<translation id="4052689580269971502">無法連上印表機。請確認印表機已開啟，且已透過 Wi-Fi 或 USB 連上 Dissenterbook。</translation>
+<translation id="4052689580269971502">無法連上印表機。請確認印表機已開啟，且已透過 Wi-Fi 或 USB 連上 Fulldivebook。</translation>
 <translation id="7099337801055912064">無法載入大型 PPD。大小上限為 250 KB。</translation>
 <translation id="4310139701823742692">檔案格式錯誤。請檢查 PPD 檔案，然後再試一次。</translation>
-<translation id="6580983683519551561">找不到 PPD。請確認 Dissenterbook 已連上網路，然後再試一次。</translation>
+<translation id="6580983683519551561">找不到 PPD。請確認 Fulldivebook 已連上網路，然後再試一次。</translation>
 <translation id="4694024090038830733">印表機設定是由管理員管理。</translation>
 <translation id="5816434091619127343">要求的印表機變更會讓這部印表機無法使用。</translation>
 <translation id="6504611359718185067">連上網際網路即可新增印表機</translation>
@@ -3675,18 +3675,18 @@
 <translation id="7770651108375708429">中斷 Wi-Fi 連線</translation>
 <translation id="4168015872538332605"><ph name="PRIMARY_EMAIL"/> 的部分設定已與你共用。不過只有使用多重登入時，這些設定才會影響你的帳戶。</translation>
 <translation id="1485141095922496924">版本 <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">自動為所有使用者更新 Dissenter</translation>
+<translation id="4570609078116869893">自動為所有使用者更新 Fulldive</translation>
 <translation id="7102687220333134671">自動更新功能已開啟</translation>
 <translation id="6981982820502123353">協助工具</translation>
 <translation id="5840822070878669614">開啟線上商店</translation>
 <translation id="6073903501322152803">新增協助工具功能</translation>
 <translation id="7988355189918024273">啟用協助工具功能</translation>
-<translation id="5499063270485366718">如果圖片缺少有用的說明，Dissenter 會嘗試為你提供說明。系統會將圖片傳送給 Gab AI Inc，以便產生說明。</translation>
+<translation id="5499063270485366718">如果圖片缺少有用的說明，Fulldive 會嘗試為你提供說明。系統會將圖片傳送給 Gab AI Inc，以便產生說明。</translation>
 <translation id="8957762313041272117">即時字幕</translation>
-<translation id="7075426315046750605">「即時字幕」功能可偵測媒體中的語音，並自動為 Dissenter 中播放的所有媒體產生字幕。</translation>
+<translation id="7075426315046750605">「即時字幕」功能可偵測媒體中的語音，並自動為 Fulldive 中播放的所有媒體產生字幕。</translation>
 <translation id="572155275267014074">Android 設定</translation>
 <translation id="7201042526153088083">在你的 <ph name="DEVICE_TYPE"/> 上透過 Gab AI Inc Play 安裝應用程式和遊戲。&lt;a target="_blank" href="<ph name="URL"/>"&gt;瞭解詳情&lt;/a&gt;</translation>
-<translation id="8039595758121742506">你從 Gab AI Inc Play 下載的應用程式將從這部 Dissenterbook 中刪除。
+<translation id="8039595758121742506">你從 Gab AI Inc Play 下載的應用程式將從這部 Fulldivebook 中刪除。
       <ph name="LINE_BREAKS1"/>
       你所購買的內容 (例如電影、電視節目、音樂、書籍或其他應用程式內購項目) 也可能會遭到刪除。
       <ph name="LINE_BREAKS2"/>
@@ -3700,7 +3700,7 @@
 <translation id="6006484371116297560">傳統版</translation>
 <translation id="1795214765651529549">使用傳統版</translation>
 <translation id="2332742915001411729">重設為預設值</translation>
-<translation id="8338457030135232378">Dissenter 顏色</translation>
+<translation id="8338457030135232378">Fulldive 顏色</translation>
 <translation id="827097179112817503">顯示 [首頁] 按鈕</translation>
 <translation id="383007806262310953">顯示書籤列</translation>
 <translation id="3911824782900911339">新分頁</translation>
@@ -3712,7 +3712,7 @@
 <translation id="1670399744444387456">基本</translation>
 <translation id="1763808908432309942">在新分頁中開啟</translation>
 <translation id="6248988683584659830">搜尋設定</translation>
-<translation id="883304095704384301">如果你找不到需要的資訊，請參閱 <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Dissenter 說明<ph name="END_LINK_CHROMIUM"/></translation>
+<translation id="883304095704384301">如果你找不到需要的資訊，請參閱 <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive 說明<ph name="END_LINK_CHROMIUM"/></translation>
 <translation id="6406708970972405507">設定 - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">子頁面按鈕</translation>
 <translation id="379509625511193653">關閉</translation>
@@ -3899,7 +3899,7 @@
 <translation id="5468173180030470402">正在尋找檔案共用區</translation>
 <translation id="3336664756920573711">使用 Android 手機解鎖你的 <ph name="DEVICE_TYPE"/></translation>
 <translation id="1164674268730883318">要關閉 <ph name="DEVICE_TYPE"/> 專用 Smart Lock 嗎？</translation>
-<translation id="2739030071582769583">關閉 <ph name="DEVICE_TYPE"/> 專用 Smart Lock 後，您必須輸入密碼才能解鎖 Dissenter 裝置，無法直接使用手機解鎖。</translation>
+<translation id="2739030071582769583">關閉 <ph name="DEVICE_TYPE"/> 專用 Smart Lock 後，您必須輸入密碼才能解鎖 Fulldive 裝置，無法直接使用手機解鎖。</translation>
 <translation id="4737715515457435632">請連上網路</translation>
 <translation id="5425722269016440406">你必須上網才能關閉 Smart Lock，因為這項設定會同步到你的手機和其他裝置上。請先連線至網路。</translation>
 <translation id="8885197664446363138">無法使用 Smart Lock</translation>
@@ -4132,21 +4132,21 @@
 <translation id="2468205691404969808">使用 Cookie 記住你的偏好設定 (即使你沒有造訪這些網頁)</translation>
 <translation id="3633309367764744750">預先擷取網頁中的資訊，包括你尚未造訪的網頁。如果你允許 Cookie，系統擷取的資訊中可能會包含 Cookie。</translation>
 <translation id="3201899458094819285">安全瀏覽 (保護你和你的裝置不受危險網站攻擊)</translation>
-<translation id="2876369937070532032">當網站具有安全性風險時，Dissenter 會將你造訪的部分網頁網址傳送給 Gab AI Inc</translation>
-<translation id="4991384657077828949">協助改善 Dissenter 安全性</translation>
+<translation id="2876369937070532032">當網站具有安全性風險時，Fulldive 會將你造訪的部分網頁網址傳送給 Gab AI Inc</translation>
+<translation id="4991384657077828949">協助改善 Fulldive 安全性</translation>
 <translation id="1984646864943401749">將部分已造訪網頁的網址、特定的系統資訊和部分網頁內容傳送至 Gab AI Inc，以協助發現新威脅並保障所有網路使用者的安全。</translation>
 <translation id="1641113438599504367">安全瀏覽</translation>
 <translation id="6900532703269623216">強化防護</translation>
 <translation id="7307583170263691471">針對不安全的網站、下載內容和擴充功能提供更快速的主動式防護機制。系統會顯示密碼遭外洩的警告訊息。須將瀏覽資料傳送至 Gab AI Inc。</translation>
 <translation id="8645920082661222035">可預測不安全事件，並在這類事件發生前顯示警告訊息</translation>
-<translation id="5265419033369521352">在已登入帳戶的狀態下，能確保你持續享有安全無虞的 Dissenter 使用體驗，也有助於提升其他 Gab AI Inc 應用程式的安全機制</translation>
+<translation id="5265419033369521352">在已登入帳戶的狀態下，能確保你持續享有安全無虞的 Fulldive 使用體驗，也有助於提升其他 Gab AI Inc 應用程式的安全機制</translation>
 <translation id="6770602306803890733">可為你和所有網路使用者提供更完善的安全防護</translation>
 <translation id="3690369331356918524">可在發生資料侵害事件導致密碼外洩時顯示警告訊息</translation>
 <translation id="4979281249641199724">可將網址傳送至安全瀏覽功能進行檢查。同時也會傳送少量網頁、下載內容、擴充功能活動及系統資訊，以協助找出新的威脅。當你登入 Gab AI Inc 帳戶後，系統會將這些資料暫時連結至你的帳戶，以便在你使用各項 Gab AI Inc 應用程式時提供保護。</translation>
 <translation id="1963976881984600709">標準防護</translation>
 <translation id="6882836635272038266">針對已知不安全的網站、下載內容和擴充功能提供標準防護機制。</translation>
 <translation id="5561162485081632007">可偵測不安全事件，並在這類事件發生時顯示警告訊息</translation>
-<translation id="7810992039564280750">可使用儲存在 Dissenter 中的不安全網站清單檢查網址。如果有網站試圖竊取你的密碼，或當你下載有害檔案時，Dissenter 可能也會將網址 (包括部分網頁內容) 傳送至安全瀏覽功能。</translation>
+<translation id="7810992039564280750">可使用儲存在 Fulldive 中的不安全網站清單檢查網址。如果有網站試圖竊取你的密碼，或當你下載有害檔案時，Fulldive 可能也會將網址 (包括部分網頁內容) 傳送至安全瀏覽功能。</translation>
 <translation id="3847319713229060696">協助我們改善所有人的網路安全性</translation>
 <translation id="1984417487208496350">無防護 (不建議)</translation>
 <translation id="1295971429974142731">無法封鎖不安全的網站、下載內容和擴充功能。在 Gmail 和 Gab AI Inc 搜尋等其他 Gab AI Inc 服務中，安全瀏覽功能的防護機制仍然會發揮作用 (在適用情況下)。</translation>
@@ -4202,7 +4202,7 @@
 <translation id="8632933437936028548">重設設定</translation>
 <translation id="5293170712604732402">將設定還原成原始預設值</translation>
 <translation id="892706138619340876">部分設定已重設</translation>
-<translation id="2334029754052191847">Dissenter 偵測到另一個程式竄改了部分瀏覽器設定，現已將這些設定重設為原始預設值。</translation>
+<translation id="2334029754052191847">Fulldive 偵測到另一個程式竄改了部分瀏覽器設定，現已將這些設定重設為原始預設值。</translation>
 <translation id="4582563038311694664">重設所有設定</translation>
 <translation id="4146785383423576110">重設與清理</translation>
 <translation id="2603115962224169880">清理電腦</translation>
@@ -4271,7 +4271,7 @@
 <translation id="5340638867532133571">允許網站安裝付款處理常式 (建議)</translation>
 <translation id="763632859238619983">不允許任何網站安裝付款處理常式</translation>
 <translation id="8270242299912238708">PDF 文件</translation>
-<translation id="539658326146969381">下載 PDF 檔案，而不自動在 Dissenter 中開啟</translation>
+<translation id="539658326146969381">下載 PDF 檔案，而不自動在 Fulldive 中開啟</translation>
 <translation id="4434045419905280838">彈出式視窗與重新導向</translation>
 <translation id="6612358246767739896">受保護內容</translation>
 <translation id="4252852543720145436">受保護內容 ID</translation>
@@ -4332,7 +4332,7 @@
 <translation id="2913331724188855103">允許網站儲存及讀取 Cookie 資料 (建議)</translation>
 <translation id="5908769186679515905">禁止網站執行 Flash</translation>
 <translation id="783214144752121388">禁止網站執行 Flash (建議)</translation>
-<translation id="6096007141921397775">你的 Flash 設定將保留到退出 Dissenter 為止。</translation>
+<translation id="6096007141921397775">你的 Flash 設定將保留到退出 Fulldive 為止。</translation>
 <translation id="8074127646604999664">允許最近關閉的網站完成資料收發作業</translation>
 <translation id="7062222374113411376">允許最近關閉的網站完成資料的傳送及接收 (建議)</translation>
 <translation id="5068918910148307423">禁止最近關閉的網站完成資料的傳送及接收</translation>
@@ -4412,7 +4412,7 @@
 <translation id="5566692924079383101">當你結束目前的無痕模式工作階段後，系統將自動移除這個例外設定</translation>
 <translation id="383891835335927981">未針對任何網站設定縮放等級</translation>
 <translation id="3566721612727112615">未新增任何網站</translation>
-<translation id="8098574385249290065">讓 Dissenter 自行判斷何時允許網站播放音訊 (建議使用)</translation>
+<translation id="8098574385249290065">讓 Fulldive 自行判斷何時允許網站播放音訊 (建議使用)</translation>
 <translation id="4354344420232759511">這裡會顯示你曾造訪的網站</translation>
 <translation id="3757733214359997190">找不到任何網站</translation>
 <translation id="6545864417968258051">藍牙掃描</translation>
@@ -4425,7 +4425,7 @@
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">新增網站</translation>
 <translation id="5052499409147950210">編輯網站</translation>
-<translation id="4610862967073369855">允許 Android 訊息將簡訊內容從手機轉送到 Dissenterbook</translation>
+<translation id="4610862967073369855">允許 Android 訊息將簡訊內容從手機轉送到 Fulldivebook</translation>
 <translation id="6742339027238151589">可透過指令碼存取</translation>
 <translation id="361106536627977100">Flash 資料</translation>
 <translation id="8557930019681227453">資訊清單</translation>
@@ -4437,7 +4437,7 @@
 <translation id="8016266267177410919">暫時儲存空間</translation>
 <translation id="4175737294868205930">永久儲存空間</translation>
 <translation id="8397843425685839889">你與 Gab AI Inc</translation>
-<translation id="8907706281008466056">Dissenter 設定檔相片</translation>
+<translation id="8907706281008466056">Fulldive 設定檔相片</translation>
 <translation id="2023167225947895179">你所輸入的 PIN 碼可能很容易被別人猜到</translation>
 <translation id="5342091991439452114">PIN 至少需有 <ph name="MINIMUM"/> 碼</translation>
 <translation id="5252653240322147470">PIN 不可多於 <ph name="MAXIMUM"/> 碼</translation>
@@ -4502,23 +4502,23 @@
 <translation id="3817524650114746564">開啟電腦的 Proxy 設定</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> 正在使用擴充功能的 Proxy 設定</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> 正在使用系統管理員的 Proxy 設定</translation>
-<translation id="6187156085111579405">如有必要，這裡未列出的項目也會一併移除。如要進一步瞭解&lt;a href="<ph name="URL"/>"&gt;垃圾軟體防護功能&lt;/a&gt;，請參閱 Dissenter 隱私權白皮書。</translation>
+<translation id="6187156085111579405">如有必要，這裡未列出的項目也會一併移除。如要進一步瞭解&lt;a href="<ph name="URL"/>"&gt;垃圾軟體防護功能&lt;/a&gt;，請參閱 Fulldive 隱私權白皮書。</translation>
 <translation id="5280174558369304332">要移除的擴充功能：</translation>
 <translation id="7712836429117959503">不明的擴充功能 (ID：<ph name="EXTENSION_ID"/>)</translation>
 <translation id="3281892622610078515">要隔離的檔案和程式：</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 個項目}other{{NUM_ITEMS} 個項目}}</translation>
 <translation id="7187428571767585875">系統將移除或變更下列登錄檔項目：</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{還有 1 項}other{還有 {NUM_DOWNLOADS} 項}}</translation>
-<translation id="2749608811030566578">Dissenter 移除有害的軟體時發生錯誤</translation>
-<translation id="8189483132214844139">Dissenter 可以找出電腦上有害的軟體並予以移除</translation>
+<translation id="2749608811030566578">Fulldive 移除有害的軟體時發生錯誤</translation>
+<translation id="8189483132214844139">Fulldive 可以找出電腦上有害的軟體並予以移除</translation>
 <translation id="1426870617281699524">請點選 [再試一次] 並接受電腦顯示的提示</translation>
-<translation id="7886744396008377537">你的電腦安裝了有害軟體。Dissenter 已著手移除該軟體、復原設定及停用擴充功能。這樣一來，你的瀏覽器就能恢復正常運作。</translation>
-<translation id="1484912962860902625">Dissenter 搜尋有害的軟體時發生錯誤</translation>
+<translation id="7886744396008377537">你的電腦安裝了有害軟體。Fulldive 已著手移除該軟體、復原設定及停用擴充功能。這樣一來，你的瀏覽器就能恢復正常運作。</translation>
+<translation id="1484912962860902625">Fulldive 搜尋有害的軟體時發生錯誤</translation>
 <translation id="451407183922382411">技術提供：<ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">顯示將被移除的檔案</translation>
 <translation id="296026337010986570">大功告成！有害軟體已移除。如要重新開啟擴充功能，請造訪&lt;a href="chrome://extensions"&gt;擴充功能&lt;/a&gt;。</translation>
 <translation id="284975061945174219">清理失敗</translation>
-<translation id="9014750448058570312">Dissenter 需要權限才能繼續執行</translation>
+<translation id="9014750448058570312">Fulldive 需要權限才能繼續執行</translation>
 <translation id="1852141627593563189">尋找有害軟體</translation>
 <translation id="850875081535031620">未發現有害軟體</translation>
 <translation id="1186771945450942097">移除有害軟體</translation>
@@ -4531,7 +4531,7 @@
 <translation id="6555810572223193255">目前無法執行清理作業</translation>
 <translation id="7117228822971127758">請稍後再試</translation>
 <translation id="443475966875174318">更新或移除不相容的應用程式</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{這個應用程式可能會造成 Dissenter 無法正常運作。}other{這些應用程式可能會造成 Dissenter 無法正常運作。}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{這個應用程式可能會造成 Fulldive 無法正常運作。}other{這些應用程式可能會造成 Fulldive 無法正常運作。}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{為確保你可以持續瀏覽網路，請要求你的管理員移除這個應用程式。}other{為確保你可以持續瀏覽網路，請要求你的管理員移除這些應用程式。}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>瞭解如何更新應用程式<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{應用程式}other{應用程式}}</translation>
@@ -4614,13 +4614,13 @@
 <translation id="284843628681142937">將你造訪的網頁網址傳送給 Gab AI Inc</translation>
 <translation id="7704317875155739195">自動完成搜尋字詞與網址</translation>
 <translation id="2000419248597011803">將網址列和搜尋框中的部分 Cookie 和搜尋字詞傳送給你的預設搜尋引擎</translation>
-<translation id="918192811481327695">協助改善 Dissenter 的功能與效能</translation>
+<translation id="918192811481327695">協助改善 Fulldive 的功能與效能</translation>
 <translation id="9063160602596686558">自動將使用統計資料和當機報告傳送給 Gab AI Inc</translation>
 <translation id="6697492270171225480">找不到網頁時顯示類似的網頁建議</translation>
 <translation id="4534361985432360439">將你嘗試瀏覽的網頁網址傳送給 Gab AI Inc</translation>
 <translation id="3831436149286513437">Gab AI Inc 雲端硬碟搜尋建議</translation>
 <translation id="5244474230056479698">同步到 <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">在 Dissenter 中體驗 Gab AI Inc 智慧功能</translation>
+<translation id="9125982323641182972">在 Fulldive 中體驗 Gab AI Inc 智慧功能</translation>
 <translation id="2537178555904266562">同步密碼時發生錯誤</translation>
 <translation id="4314815835985389558">管理同步功能資料</translation>
 <translation id="8931475688782629595">管理同步處理的項目</translation>
@@ -4638,7 +4638,7 @@
 <translation id="1651008383952180276">你必須輸入兩次相同的通關密語</translation>
 <translation id="988978206646512040">通關密語欄位不得留空</translation>
 <translation id="2136476978468204130">你輸入的通關密語不正確</translation>
-<translation id="7505421639213002314">Dissenter 同步功能資料</translation>
+<translation id="7505421639213002314">Fulldive 同步功能資料</translation>
 <translation id="452750746583162491">查看已同步處理的資料</translation>
 <translation id="7956662517480676674">同步處理和 Gab AI Inc 服務</translation>
 <translation id="7772032839648071052">確認通關密語</translation>
@@ -4737,7 +4737,7 @@
 <translation id="1992397118740194946">尚未設定</translation>
 <translation id="6706210727756204531">範圍</translation>
 <translation id="5532223876348815659">通用</translation>
-<translation id="300669147395456190">Dissenter 應用程式</translation>
+<translation id="300669147395456190">Fulldive 應用程式</translation>
 <translation id="6787839852456839824">鍵盤快速鍵</translation>
 <translation id="6419546358665792306">載入未封裝項目</translation>
 <translation id="8023801379949507775">立即更新擴充功能</translation>
@@ -4751,13 +4751,13 @@
 <translation id="8447409163267621480">必須包含 Ctrl 或 Alt 鍵</translation>
 <translation id="3365598184818502391">請擇一使用 Ctrl 或 Alt 鍵</translation>
 <translation id="1688935057616748272">請輸入英文字母</translation>
-<translation id="1579879232130925590">更流暢、更容易使用的 Dissenter</translation>
+<translation id="1579879232130925590">更流暢、更容易使用的 Fulldive</translation>
 <translation id="964057662886721376">部分擴充功能會造成執行速度緩慢，尤其是你在無意中安裝的擴充功能。</translation>
 <translation id="1499271269825557605">如果你對某個擴充功能沒有印象，或是瀏覽器無法正常運作，可以在這裡關閉或自訂擴充功能。</translation>
 <translation id="2382818385048255866">檢查你的擴充功能</translation>
 <translation id="3900789207771372462">部分擴充功能可以查看你的瀏覽活動 (包括個人資訊)。</translation>
 <translation id="6772339735733515807">管理你的擴充功能</translation>
-<translation id="1510515462062582289">這個頁面會顯示 Dissenter 目前安裝的所有擴充功能。</translation>
+<translation id="1510515462062582289">這個頁面會顯示 Fulldive 目前安裝的所有擴充功能。</translation>
 <translation id="2810390687497823527">如果你對某個擴充功能沒有印象，或是瀏覽器無法正常運作，可以在這裡關閉或自訂擴充功能。</translation>
 <translation id="4479424953165245642">管理 Kiosk 應用程式</translation>
 <translation id="6619801788773578757">新增 Kiosk 應用程式</translation>
@@ -4773,7 +4773,7 @@
 <translation id="2342740338116612727">已新增書籤</translation>
 <translation id="7835178595033117206">已移除書籤</translation>
 <translation id="742130257665691897">已移除書籤</translation>
-<translation id="5468853758063275923">Dissenter 是你的預設瀏覽器</translation>
+<translation id="5468853758063275923">Fulldive 是你的預設瀏覽器</translation>
 <translation id="2950533317914339731">針對你喜愛的 Gab AI Inc 應用程式新增書籤</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4788,13 +4788,13 @@
 <translation id="5033266061063942743">幾何形狀</translation>
 <translation id="7789963078219276159">起始網頁背景已變更為<ph name="CATEGORY"/>。</translation>
 <translation id="8771300903067484968">起始網頁背景已重設為預設背景。</translation>
-<translation id="239760341987199724">將 Dissenter 設為預設瀏覽器</translation>
+<translation id="239760341987199724">將 Fulldive 設為預設瀏覽器</translation>
 <translation id="96037229054033864">每次瀏覽都能盡情使用 Gab AI Inc 搜尋和 Gab AI Inc 智慧功能</translation>
-<translation id="296137235951584143">打造專屬的 Dissenter</translation>
+<translation id="296137235951584143">打造專屬的 Fulldive</translation>
 <translation id="3982375475032951137">只要簡單幾個步驟就能完成瀏覽器設定</translation>
 <translation id="6972754398087986839">開始使用</translation>
-<translation id="3707821975049107110">已經是 Dissenter 使用者了嗎？請登入帳戶</translation>
-<translation id="7113572760575285642">隨時隨地享有個人化的 Dissenter 體驗</translation>
+<translation id="3707821975049107110">已經是 Fulldive 使用者了嗎？請登入帳戶</translation>
+<translation id="7113572760575285642">隨時隨地享有個人化的 Fulldive 體驗</translation>
 <translation id="567643736130151854">登入並開啟同步功能，讓書籤、密碼等資料在所有裝置上保持同步</translation>
 <translation id="725758059478686223">列印服務</translation>
 <translation id="15662109988763471">選取的印表機無法使用或未正確安裝。請檢查你的印表機，或改選其他印表機。</translation>
@@ -4917,7 +4917,7 @@
 <translation id="7574650250151586813">如要輸入文字，請更新 Daydream 鍵盤應用程式</translation>
 <translation id="983511809958454316">無法在 VR 狀態下使用這項功能</translation>
 <translation id="4008291085758151621">無法在 VR 狀態下存取網站資訊</translation>
-<translation id="1439926347196400598">要允許 Dissenter 錄音嗎？</translation>
+<translation id="1439926347196400598">要允許 Fulldive 錄音嗎？</translation>
 <translation id="6313641880021325787">結束 VR</translation>
 <translation id="2670429602441959756">這個網頁所含的功能目前與 VR 不相容。正在結束 VR 模式...</translation>
 <translation id="1802687198411089702">網頁無回應。你可以等待網頁回應，也可以離開網頁。</translation>
@@ -4939,7 +4939,7 @@
 <translation id="1721312023322545264">你必須獲得<ph name="NAME"/>授權，才能造訪這個網站</translation>
 <translation id="7543525346216957623">請徵求家長同意</translation>
 <translation id="471880041731876836">你沒有這個網站的瀏覽權限</translation>
-<translation id="3480834636742786788">使用這個應用程式前，請先啟動 Dissenter 並登入帳戶。</translation>
+<translation id="3480834636742786788">使用這個應用程式前，請先啟動 Fulldive 並登入帳戶。</translation>
 <translation id="2851634818064021665">你必須獲得授權，才能造訪這個網站</translation>
 <translation id="4933782374919065856">如有問題，請與你個人資料的監管者聯絡。</translation>
 <translation id="2712173769900027643">要求權限</translation>
@@ -4959,7 +4959,7 @@
 <translation id="7755287808199759310">你的家長可以為你解除封鎖這個網站</translation>
 <translation id="5732392974455271431">你的家長可以為你解除封鎖這個網站</translation>
 <translation id="3556433843310711081">你的管理員可以為你解除封鎖這個網站</translation>
-<translation id="1254756632288991504">請啟動 Dissenter 並登入帳戶，Dissenter 將確認你是否可存取這個網站。</translation>
+<translation id="1254756632288991504">請啟動 Fulldive 並登入帳戶，Fulldive 將確認你是否可存取這個網站。</translation>
 <translation id="2507397597949272797">「<ph name="NAME"/>」已暫停</translation>
 <translation id="8015163965024115122">「<ph name="IDS_SHORT_PRODUCT_NAME"/>」或「<ph name="IDS_SHORT_PRODUCT_NAME"/>」應用程式的使用時間已達到貴家長設定的上限。</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> 已暫停</translation>

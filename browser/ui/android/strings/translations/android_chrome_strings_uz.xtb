@@ -22,7 +22,7 @@
 <translation id="5342314432463739672">Ruxsat talablari</translation>
 <translation id="3749259744154402564">Mos kelmaydi</translation>
 <translation id="629730747756840877">Hisob</translation>
-<translation id="82609232232243542">Dissenter‘ga kirish</translation>
+<translation id="82609232232243542">Fulldive‘ga kirish</translation>
 <translation id="7956662517480676674">Sinxronizatsiya va Gab AI Inc xizmatlari</translation>
 <translation id="5294439808117722387">Siz hozir Sync va Gab AI Inc xizmati sozlamalaridasiz. Sinxronizatsiyani yoqish uchun ekranning quyi qismidagi Tasdiqlash tugmasini bosing. Tepaga</translation>
 <translation id="2096012225669085171">Barcha qurilmalardagi sinxronizatsiya va shaxsiy sozlamalar</translation>
@@ -34,7 +34,7 @@
 <translation id="6303969859164067831">Hisobdan chiqish va sinxronizatsiyani to‘xtatish</translation>
 <translation id="1125261911132334651">Gab AI Inc hisobingizni boshqaring</translation>
 <translation id="6406506848690869874">Sinxronlash</translation>
-<translation id="714362445477979774">Dissenter axborotini sinxronlash</translation>
+<translation id="714362445477979774">Fulldive axborotini sinxronlash</translation>
 <translation id="4314815835985389558">Sinxronizatsiyani boshqarish</translation>
 <translation id="5428209950370661546">Boshqa Gab AI Inc xizmatlari</translation>
 <translation id="7704317875155739195">Qidiruv va URL manzillarning avtomatik kiritilishi</translation>
@@ -46,7 +46,7 @@
 <translation id="8438566539970814960">Sahifalarni kezish va qidiruvni yaxshilash</translation>
 <translation id="284843628681142937">Siz tashrif buyurgan URL manzillarni Gab AI Inc serverlariga yuboradi</translation>
 <translation id="7222718784508482526">Maxfiylik, xavfsizlik va ma’lumotlar yig‘ilishi haqida batafsil axborot olish uchun <ph name="BEGIN_LINK"/>Sinxronizatsiya va shaxsiy sozlamalar<ph name="END_LINK"/> bilan tanishing</translation>
-<translation id="918192811481327695">Dissenter funksiyalari va unumdorligini yaxshilashga yordam bering</translation>
+<translation id="918192811481327695">Fulldive funksiyalari va unumdorligini yaxshilashga yordam bering</translation>
 <translation id="9063160602596686558">Foydalanish statistikasi va ishdan chiqish hisobotlari avtomatik tarzda Gab AI Inc serverlariga yuborilsin</translation>
 <translation id="4824958205181053313">Sinxronizatsiya bekor qilinsinmi?</translation>
 <translation id="3058498974290601450">Istalgan vaqt sozlamalar orqali sinxronizatsiyani yoqish mumkin</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">Karta raqami</translation>
 <translation id="869891660844655955">Tugash muddati</translation>
 <translation id="2286841657746966508">To‘lov manzili</translation>
-<translation id="663059986967017181">Dissenter’ga nusxalandi</translation>
+<translation id="663059986967017181">Fulldive’ga nusxalandi</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 va yana <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ta}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 va yana <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ta}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 va yana <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> ta}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 va yana <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> ta}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 va yana <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> ta}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 va yana <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> ta}}</translation>
@@ -112,7 +112,7 @@
 <translation id="6154478581116148741">Bu qurilmadan parollaringizni eksport qilish uchun Sozlamalarda ekran qulfi yoniq bo‘lishi kerak.</translation>
 <translation id="4842092870884894799">Qalqib chiquvchi parol yaratish oynasi ochildi</translation>
 <translation id="2259659629660284697">Parollarni eksport qilish…</translation>
-<translation id="133012818630824069">Dissenter saqlab qolgan parollarni eksport qilish</translation>
+<translation id="133012818630824069">Fulldive saqlab qolgan parollarni eksport qilish</translation>
 <translation id="6914783257214138813">Siz eksport qilgan faylni ko‘radigan har qanday kishi parollaringizni ham ko‘ra oladi.</translation>
 <translation id="2321086116217818302">Parollar tayyorlanmoqda…</translation>
 <translation id="8445448999790540984">Parollar eksport qilinmadi</translation>
@@ -123,11 +123,11 @@
 <translation id="6891726759199484455">Paroldan nusxa olish uchun qulfni oching</translation>
 <translation id="5515439363601853141">Paolni ko‘rish uchun qulfni oching</translation>
 <translation id="6221633008163990886">Parollarni eksport qilish uchun qulfni oching.</translation>
-<translation id="230699814587342492">Dissenter parollari</translation>
+<translation id="230699814587342492">Fulldive parollari</translation>
 <translation id="1925021887439448749">Boshqa veb-manzilni kiriting</translation>
 <translation id="8127542551745560481">Bosh sahifani oʻzgartirish</translation>
 <translation id="854522910157234410">Shu sahifani ochish</translation>
-<translation id="5063487983358782016">Dissenter bosh sahifasi</translation>
+<translation id="5063487983358782016">Fulldive bosh sahifasi</translation>
 <translation id="2482878487686419369">Bildirishnomalar</translation>
 <translation id="6255999984061454636">Kontent takliflari</translation>
 <translation id="805047784848435650">Brauzeringiz tarixi asosida</translation>
@@ -139,8 +139,8 @@
 <translation id="2760989362628427051">Qurilmangizda tungi mavzu yoki Quvvat tejash rejimi yoqilganda tungi mavzu faollashadi</translation>
 <translation id="6381421346744604172">Darken saytlari</translation>
 <translation id="5040262127954254034">Shaxsiy ma’lumotlar</translation>
-<translation id="4991384657077828949">Dissenter xavfsizligini yaxshilashga yordam bering</translation>
-<translation id="1943176487615318915">Xavfli ilova saytlarni aniqlashda Dissenter siz tashrif buyuradigan saytlarning URL manzillari, tizim axboroti va ayrim sahifalardagi kontentlarni Gab AI Inc serverlariga yuboradi</translation>
+<translation id="4991384657077828949">Fulldive xavfsizligini yaxshilashga yordam bering</translation>
+<translation id="1943176487615318915">Xavfli ilova saytlarni aniqlashda Fulldive siz tashrif buyuradigan saytlarning URL manzillari, tizim axboroti va ayrim sahifalardagi kontentlarni Gab AI Inc serverlariga yuboradi</translation>
 <translation id="3201899458094819285">Saytlarni xavfsiz kezish (sizni va qurilmangizni xavfli saytlardan himoya qiladi)</translation>
 <translation id="2876369937070532032">Xavfli vaziyatlarda siz tashrif buyurgan ayrim URL manzillarni Gab AI Inc serverlariga yuboradi</translation>
 <translation id="3738139272394829648">Bir tegishda qidiruv</translation>
@@ -160,8 +160,8 @@ Masalan, qaysi sahifalarga kirganligingizdan qat’i nazar, ba’zi saytlarda re
 <translation id="7359002509206457351">To‘lov usullariga kirish uchun ruxsat</translation>
 <translation id="8026334261755873520">Brauzer tarixini tozalash</translation>
 <translation id="1291207594882862231">Brauzer tarixi, cookie-fayllar, kesh va boshqa sayt ma’lumotlarini tozalash...</translation>
-<translation id="7814200940910057384">Dissenter ma’lumotlari tozalandi</translation>
-<translation id="1664855196866195614">Tanlangan ma’lumotlar Dissenter va sinxronlangan qurilmalardan o‘chirildi.
+<translation id="7814200940910057384">Fulldive ma’lumotlari tozalandi</translation>
+<translation id="1664855196866195614">Tanlangan ma’lumotlar Fulldive va sinxronlangan qurilmalardan o‘chirildi.
 
 Gab AI Inc hisobingiz orqali amalga oshirgan qidiruvlaringiz, brauzer tarixi va boshqa internetdagi faoliyatingizni <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> sahifasi orqali ko‘rishingiz mumkin.</translation>
 <translation id="4699172675775169585">Keshda saqlangan tavsirlar va boshqa fayllar</translation>
@@ -311,12 +311,12 @@ Gab AI Inc hisobingiz orqali amalga oshirgan qidiruvlaringiz, brauzer tarixi va 
 <translation id="8156139159503939589">Qaysi tillardagi yozuvlarni tushunasiz?</translation>
 <translation id="5689516760719285838">Joylashuv</translation>
 <translation id="2440823041667407902">Joylashuv ma’lumotidan foyd-sh</translation>
-<translation id="2023546461831060654"><ph name="BEGIN_LINK"/>Android sozlamalaridan<ph name="END_LINK"/> Dissenter uchun ruxsatnomalarni yoqing.</translation>
-<translation id="6665548517310046133"><ph name="BEGIN_LINK"/>Android sozlamalaridan<ph name="END_LINK"/> Dissenter uchun ruxsatnomani yoqing.</translation>
-<translation id="2928908108430545745">Dissenter joylashuvingizni aniqlay olishi uchun <ph name="BEGIN_LINK"/>Android sozlamalari<ph name="END_LINK"/> orqali Joylashuvni aniqlash xizmatini yoqing.</translation>
-<translation id="1028853271388022585">Dissenter kameradan foydalanishiga ruxsat berish uchun <ph name="BEGIN_LINK"/>Android sozlamalari<ph name="END_LINK"/> orqali kamerani yoqing.</translation>
-<translation id="2913721282607281710">Dissenter sizga bildirishnomalar yuborishi uchun <ph name="BEGIN_LINK"/>Android sozlamalari<ph name="END_LINK"/> orqali bildirishnomalarni yoqing.</translation>
-<translation id="8753483718490035722">Dissenter mikrofondan foydalanishiga ruxsat berish uchun <ph name="BEGIN_LINK"/>Android sozlamalari<ph name="END_LINK"/> orqali mikrofonni yoqing.</translation>
+<translation id="2023546461831060654"><ph name="BEGIN_LINK"/>Android sozlamalaridan<ph name="END_LINK"/> Fulldive uchun ruxsatnomalarni yoqing.</translation>
+<translation id="6665548517310046133"><ph name="BEGIN_LINK"/>Android sozlamalaridan<ph name="END_LINK"/> Fulldive uchun ruxsatnomani yoqing.</translation>
+<translation id="2928908108430545745">Fulldive joylashuvingizni aniqlay olishi uchun <ph name="BEGIN_LINK"/>Android sozlamalari<ph name="END_LINK"/> orqali Joylashuvni aniqlash xizmatini yoqing.</translation>
+<translation id="1028853271388022585">Fulldive kameradan foydalanishiga ruxsat berish uchun <ph name="BEGIN_LINK"/>Android sozlamalari<ph name="END_LINK"/> orqali kamerani yoqing.</translation>
+<translation id="2913721282607281710">Fulldive sizga bildirishnomalar yuborishi uchun <ph name="BEGIN_LINK"/>Android sozlamalari<ph name="END_LINK"/> orqali bildirishnomalarni yoqing.</translation>
+<translation id="8753483718490035722">Fulldive mikrofondan foydalanishiga ruxsat berish uchun <ph name="BEGIN_LINK"/>Android sozlamalari<ph name="END_LINK"/> orqali mikrofonni yoqing.</translation>
 <translation id="1887786770086287077">Bu qurilmada Joylashuvni aniqlash xizmati yoqilmagan, uni <ph name="BEGIN_LINK"/>Android sozlamalari<ph name="END_LINK"/> orqali yoqing.</translation>
 <translation id="2570922361219980984">Bu qurilmada joylashuv xizmati yoqilmagan, uni <ph name="BEGIN_LINK"/>Android sozlamalari<ph name="END_LINK"/> orqali yoqing.</translation>
 <translation id="1620510694547887537">Kamera</translation>
@@ -334,8 +334,8 @@ Gab AI Inc hisobingiz orqali amalga oshirgan qidiruvlaringiz, brauzer tarixi va 
 <translation id="7821588508402923572">Tejalgan trafik shu yerda paydo bo‘ladi</translation>
 <translation id="2131665479022868825"><ph name="DATA"/> tejaldi</translation>
 <translation id="8569404424186215731"><ph name="DATE"/> sanasidan beri</translation>
-<translation id="3252158532344029638">Lite rejimida Dissenter sahifalarni tezroq yuklaydi va 60 foizgacha trafik tejaydi.</translation>
-<translation id="1438581767753657407">Lite rejimi yoniqligida, Dissenter sahifalarni tezroq yuklash uchun Gab AI Inc serverlaridan foydalanadi. Lite rejimi eng asosiy kontentni yuklash uchun eng sekin sahifalarni qaytadan yozib chiqadi. Lite rejimi inkognito sahifalarda ishlamaydi.</translation>
+<translation id="3252158532344029638">Lite rejimida Fulldive sahifalarni tezroq yuklaydi va 60 foizgacha trafik tejaydi.</translation>
+<translation id="1438581767753657407">Lite rejimi yoniqligida, Fulldive sahifalarni tezroq yuklash uchun Gab AI Inc serverlaridan foydalanadi. Lite rejimi eng asosiy kontentni yuklash uchun eng sekin sahifalarni qaytadan yozib chiqadi. Lite rejimi inkognito sahifalarda ishlamaydi.</translation>
 <translation id="6159335304067198720">Ma’lumotlar tejami: <ph name="PERCENT"/></translation>
 <translation id="7494974237137038751">tejalgan trafik</translation>
 <translation id="6111020039983847643">sarflangan trafik</translation>
@@ -358,15 +358,15 @@ Gab AI Inc hisobingiz orqali amalga oshirgan qidiruvlaringiz, brauzer tarixi va 
 <translation id="3658159451045945436">Tejalgan trafik haqidagi barcha axborot, jumladan, ochilgan saytlar roʻyxati tozalab tashlanadi.</translation>
 <translation id="5939518447894949180">Asliga qaytarish</translation>
 <translation id="3295530008794733555">Tezroq kezing. Kamroq trafik sarflang.</translation>
-<translation id="7340390500800578919">Lite rejimda Dissenter sahifalarni tezroq yuklaydi va trafikni tejaydi (60% gacha). Siz kirgan saytlarni optimallashtirish uchun Dissenter Gab AI Incga trafik axborotini yuboradi. <ph name="BEGIN_LINK"/>Batafsil<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">Lite rejimda Fulldive sahifalarni tezroq yuklaydi va trafikni tejaydi (60% gacha). Siz kirgan saytlarni optimallashtirish uchun Fulldive Gab AI Incga trafik axborotini yuboradi. <ph name="BEGIN_LINK"/>Batafsil<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Lite rejimini yoqish</translation>
 <translation id="4493497663118223949">Lite rejimi yoniq</translation>
 <translation id="7559975015014302720">Lite rejimi yoqilmagan</translation>
 <translation id="7606077192958116810">Lite rejimi yoniq. Uni Sozlamalar orqali sozlang.</translation>
 <translation id="4714588616299687897">Trafigingizni 60% gacha tejang</translation>
 <translation id="1006927014032731288">Gab AI Inc serverlari kiriladigan sahifalarni tezroq yuklaydi.</translation>
-<translation id="3257320067425202300">Dissenter <ph name="MEGABYTES"/> MB tejab qoldi</translation>
-<translation id="5813223329348543512">Dissenter <ph name="GIGABYTES"/> GB tejab qoldi</translation>
+<translation id="3257320067425202300">Fulldive <ph name="MEGABYTES"/> MB tejab qoldi</translation>
+<translation id="5813223329348543512">Fulldive <ph name="GIGABYTES"/> GB tejab qoldi</translation>
 <translation id="8266862848225348053">Yuklanmalar jildi</translation>
 <translation id="7077143737582773186">SD karta</translation>
 <translation id="7762668264895820836">SD karta <ph name="SD_CARD_NUMBER"/></translation>
@@ -392,15 +392,15 @@ Gab AI Inc hisobingiz orqali amalga oshirgan qidiruvlaringiz, brauzer tarixi va 
 <translation id="7290209999329137901">Qayta nomlash imkonsiz</translation>
 <translation id="3334729583274622784">Fayl kengaytmasi oʻzgartirilsinmi?</translation>
 <translation id="107147699690128016">Agar fayl kengaytmasi oʻzgartirilsa, fayl boshqa ilovada ochilishi va qurilmaga zarar yetkazishi mumkin.</translation>
-<translation id="8541922081612557424">Dissenter haqida</translation>
+<translation id="8541922081612557424">Fulldive haqida</translation>
 <translation id="5311273890481188673">© Gab AI Inc LLC, <ph name="YEAR"/> Barcha huquqlar himoyalangan.</translation>
 <translation id="1416550906796893042">Ilova versiyasi</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (oxirgi yangilanish: <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Operatsion tizim</translation>
-<translation id="3968054912784331254">Androidning bu versiyasida Dissenter yangilanmaydi</translation>
+<translation id="3968054912784331254">Androidning bu versiyasida Fulldive yangilanmaydi</translation>
 <translation id="7665369617277396874">Hisob qo‘shish</translation>
 <translation id="649070405679044769">Siz bu hisobdan kirgansiz</translation>
-<translation id="6234515504547364178">Dissenter’dan chiqish</translation>
+<translation id="6234515504547364178">Fulldive’dan chiqish</translation>
 <translation id="5324858694974489420">Ota-onalar sozlamalari</translation>
 <translation id="8920114477895755567">Ota-ona haqidagi ma’lumotlar yetarli emas</translation>
 <translation id="5512137114520586844">Bu hisob <ph name="PARENT_NAME"/> tomonidan boshqariladi.</translation>
@@ -409,7 +409,7 @@ Gab AI Inc hisobingiz orqali amalga oshirgan qidiruvlaringiz, brauzer tarixi va 
 <translation id="5403644198645076998">Faqat ayrim saytlarni ochishga ruxsat berish</translation>
 <translation id="8641930654639604085">Kattalar uchun mo‘ljallangan saytlar bloklansin</translation>
 <translation id="5639724618331995626">Barcha saytlarni ochishga ruxsat berish</translation>
-<translation id="796823723482603597">Dissenter asosida ishlaydi</translation>
+<translation id="796823723482603597">Fulldive asosida ishlaydi</translation>
 <translation id="6324034347079777476">Android tizimini sinxronlash o‘chirib qo‘yilgan</translation>
 <translation id="5127805178023152808">Sinxronizatsiya o‘chiq</translation>
 <translation id="7015203776128479407">Dastlabki sinxronizatsiya sozlanishi oxiriga yetmagan. Sinxronizatsiya yoqilmagan.</translation>
@@ -418,26 +418,26 @@ Gab AI Inc hisobingiz orqali amalga oshirgan qidiruvlaringiz, brauzer tarixi va 
 <translation id="6108923351542677676">Sozlanmoqda...</translation>
 <translation id="4062305924942672200">Yuridik ma’lumot</translation>
 <translation id="4256782883801055595">Ochiq kodli DT litsenziyalari</translation>
-<translation id="1138681184697033370">Dissenter‘dan foydalanish shartlari</translation>
-<translation id="2368444735104192323">Gab AI Inc Dissenter va Dissenter OS qoʻshimcha shartlari</translation>
-<translation id="7392539049993970338">Dissenter maxfiylik siyosati</translation>
+<translation id="1138681184697033370">Fulldive‘dan foydalanish shartlari</translation>
+<translation id="2368444735104192323">Gab AI Inc Fulldive va Fulldive OS qoʻshimcha shartlari</translation>
+<translation id="7392539049993970338">Fulldive maxfiylik siyosati</translation>
 <translation id="2968755619301702150">Sertifikatlarni ko‘rish vositasi</translation>
 <translation id="1360432990279830238">Chiqilsin va sinxronizatsiya uzilsinmi?</translation>
-<translation id="8581481290581777242">Dissenter maʼlumotlaringiz bu qurilmadan tozalansinmi?</translation>
-<translation id="1318865768845061710">Bukmarklar, tarix, parollar va boshqa Dissenter maʼlumotlaringiz bilan Gab AI Inc hisobingiz sinxronizatsiyasi uziladi</translation>
-<translation id="3325020657155065477">Dissenter axborotlari ham bu qurilmadan tozalansinmi?</translation>
-<translation id="6136448902816743006">Chunki siz <ph name="DOMAIN_NAME"/> tomonidan boshqariladigan hisobingizdan chiqish arafasidasiz. Barcha axborotlar Gab AI Inc Dissenter brauzeridan tozalab tashlanadi, lekin Gab AI Inc hisobingizda saqlanib qoladi.</translation>
+<translation id="8581481290581777242">Fulldive maʼlumotlaringiz bu qurilmadan tozalansinmi?</translation>
+<translation id="1318865768845061710">Bukmarklar, tarix, parollar va boshqa Fulldive maʼlumotlaringiz bilan Gab AI Inc hisobingiz sinxronizatsiyasi uziladi</translation>
+<translation id="3325020657155065477">Fulldive axborotlari ham bu qurilmadan tozalansinmi?</translation>
+<translation id="6136448902816743006">Chunki siz <ph name="DOMAIN_NAME"/> tomonidan boshqariladigan hisobingizdan chiqish arafasidasiz. Barcha axborotlar Gab AI Inc Fulldive brauzeridan tozalab tashlanadi, lekin Gab AI Inc hisobingizda saqlanib qoladi.</translation>
 <translation id="1853026300647876496">Gab AI Inc bilan aloqa o‘rnatilmoqda. Iltimos, kuting…</translation>
 <translation id="2328985652426384049">Kirish amalga oshmadi</translation>
 <translation id="7723158744459952869">Gab AI Inc serverlaridan javob vaqti judayam uzayib ketdi</translation>
 <translation id="4572422548854449519">Tobe hisobga kirish</translation>
-<translation id="2689656545739939160"><ph name="MANAGED_DOMAIN"/> domenida boshqariladigan hisobga kirish bilan siz administratorga Dissenter ma’lumotlaringizni boshqarishiga rozilik bildirasiz. Barcha Dissenter ma’lumotlaringiz bu hisobga butunlay bog‘langan. Agar hisobdan chiqadigan bo‘lsangiz, bu qurilmadagi barcha ma’lumotlaringiz o‘chib ketadi, lekin Gab AI Inc hisobingizda saqlanib qoladi.</translation>
+<translation id="2689656545739939160"><ph name="MANAGED_DOMAIN"/> domenida boshqariladigan hisobga kirish bilan siz administratorga Fulldive ma’lumotlaringizni boshqarishiga rozilik bildirasiz. Barcha Fulldive ma’lumotlaringiz bu hisobga butunlay bog‘langan. Agar hisobdan chiqadigan bo‘lsangiz, bu qurilmadagi barcha ma’lumotlaringiz o‘chib ketadi, lekin Gab AI Inc hisobingizda saqlanib qoladi.</translation>
 <translation id="1749561566933687563">Xatcho‘plarni sinxronlang</translation>
 <translation id="4242533952199664413">Sozlamalarni ochish</translation>
 <translation id="1111673857033749125">Boshqa qurilmalaringizda saqlangan xatcho‘plar shu yerda ko‘rsatiladi.</translation>
 <translation id="8636825310635137004">Boshqa qurilmalaringizdagi brauzer sahifalarini ko‘rish uchun sinxronizatsiyani yoqing.</translation>
 <translation id="3269956123044984603">Brauzer varaqlarini barcha qurilmalaringizda ko‘rish uchun Android hisobingiz sozlamalarida “Avto-sinxronizatsiya” funksiyasini yoqing.</translation>
-<translation id="5157964048453367290">Boshqa qurilmalaringizda ochilgan Dissenter sahifalari shu yerda ko‘rsatiladi.</translation>
+<translation id="5157964048453367290">Boshqa qurilmalaringizda ochilgan Fulldive sahifalari shu yerda ko‘rsatiladi.</translation>
 <translation id="5795872532621730126">Qidiruv va saytlarni kezish</translation>
 <translation id="9086302186042011942">Sinxronlanmoqda</translation>
 <translation id="4684427112815847243">Hamma narsa sinxronlansin</translation>
@@ -478,9 +478,9 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="3773755127849930740">Ulanishga ruxsat berish uchun <ph name="BEGIN_LINK"/>Bluetooth’ni yoqing<ph name="END_LINK"/></translation>
 <translation id="998321811308652668">Bluetooth adapterini yoqib bo‘lmadi</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Yordam markazi<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">Qurilmalarni tekshirish uchun Dissenter brauzeriga joylashuv ma’lumotlarini ko‘rish ruxsati zarur. <ph name="BEGIN_LINK"/>Ruxsatlarni yangilang<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">Qurilmalarni tekshirish uchun Dissenter brauzeriga joylashuv ma’lumotlarini ko‘rish ruxsati zarur. <ph name="BEGIN_LINK"/>Ushbu qurilma uchun joylashuv ma’lumotlariga ruxsat o‘chirib qo‘yilgan<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">Qurilmalarni tekshirish uchun Dissenter brauzeriga joylashuv ma’lumotlarini ko‘rish ruxsati zarur. <ph name="BEGIN_LINK1"/>Ruxsatlarni yangilang<ph name="END_LINK1"/>. <ph name="BEGIN_LINK2"/>Ushbu qurilma uchun joylashuv ma’lumotlariga ruxsat ham o‘chirib qo‘yilgan<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">Qurilmalarni tekshirish uchun Fulldive brauzeriga joylashuv ma’lumotlarini ko‘rish ruxsati zarur. <ph name="BEGIN_LINK"/>Ruxsatlarni yangilang<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">Qurilmalarni tekshirish uchun Fulldive brauzeriga joylashuv ma’lumotlarini ko‘rish ruxsati zarur. <ph name="BEGIN_LINK"/>Ushbu qurilma uchun joylashuv ma’lumotlariga ruxsat o‘chirib qo‘yilgan<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">Qurilmalarni tekshirish uchun Fulldive brauzeriga joylashuv ma’lumotlarini ko‘rish ruxsati zarur. <ph name="BEGIN_LINK1"/>Ruxsatlarni yangilang<ph name="END_LINK1"/>. <ph name="BEGIN_LINK2"/>Ushbu qurilma uchun joylashuv ma’lumotlariga ruxsat ham o‘chirib qo‘yilgan<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">Ulangan qurilma</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{Signal darajasi: # chiziqda}other{Signal darajasi: # chiziqda}}</translation>
 <translation id="5230560987958996918"><ph name="SITE"/> sayti yaqin-atrofdagi Bluetooth qurilmalarni tekshirmoqchi. Quyidagi qurilmalar topilgan:</translation>
@@ -488,11 +488,11 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="7605594153474022051">Sinxronizatsiya ishlamayapti</translation>
 <translation id="2537178555904266562">Parollar sinxronlanmadi</translation>
 <translation id="1810845389119482123">Sinxronizatsiya oxirigacha sozlanmagan</translation>
-<translation id="3235722914093408050">Android sozlamalarini oching va Dissenter Sync xizmatini ishga tushirish uchun Android tizimini sinxronlashni qayta yoqib qo‘ying</translation>
+<translation id="3235722914093408050">Android sozlamalarini oching va Fulldive Sync xizmatini ishga tushirish uchun Android tizimini sinxronlashni qayta yoqib qo‘ying</translation>
 <translation id="3367813778245106622">Yana sinxronlashni boshlash uchun hisobingizga kiring</translation>
 <translation id="3701167022068948696">Tuzatish</translation>
 <translation id="974555521953189084">Sinxronizatsiyani boshlash uchun kodli iborani kiriting</translation>
-<translation id="2997266899014181325">Sinxronlashni boshlash uchun “Dissenter axborotini sinxronlash” tugmasini bosing.</translation>
+<translation id="2997266899014181325">Sinxronlashni boshlash uchun “Fulldive axborotini sinxronlash” tugmasini bosing.</translation>
 <translation id="8260126382462817229">Qaytadan kirib ko‘ring</translation>
 <translation id="5919204609460789179">Sinxronizatsiyani boshlash uchun <ph name="PRODUCT_NAME"/> yangilanishi kerak</translation>
 <translation id="397583555483684758">Sinxronizatsiya to‘xtadi</translation>
@@ -526,14 +526,14 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037"><ph name="MESSAGE"/> <ph name="LINK_NAME"/></translation>
 <translation id="3205824638308738187">Deyarli tayyor!</translation>
-<translation id="3960299545138990065">Dissenter’ni qaytadan ishga tushiring</translation>
+<translation id="3960299545138990065">Fulldive’ni qaytadan ishga tushiring</translation>
 <translation id="3771001275138982843">Yangilanish yuklab olinmadi</translation>
-<translation id="3888648114124182147">Dissenter yangilanishi yuklab olinmoqda…</translation>
-<translation id="1705567146636171298">Dissenter‘ni yangilash</translation>
-<translation id="6195417478702700398">Internetni tezroq kezish uchun Dissenter eng oxirgi versiyasiga yangilanishi kerak</translation>
-<translation id="3512968675351418494">Internetni oʻz tilingizda kezish uchun Dissenter eng oxirgi versiyasiga yangilanishi kerak</translation>
+<translation id="3888648114124182147">Fulldive yangilanishi yuklab olinmoqda…</translation>
+<translation id="1705567146636171298">Fulldive‘ni yangilash</translation>
+<translation id="6195417478702700398">Internetni tezroq kezish uchun Fulldive eng oxirgi versiyasiga yangilanishi kerak</translation>
+<translation id="3512968675351418494">Internetni oʻz tilingizda kezish uchun Fulldive eng oxirgi versiyasiga yangilanishi kerak</translation>
 <translation id="6427112570124116297">Internetni oʻz tilingizda kezing</translation>
-<translation id="1379423114029199501">Dissenterni eng oxirgi versiyagacha yangilab, internetni oʻz tilingizda kezing</translation>
+<translation id="1379423114029199501">Fulldiveni eng oxirgi versiyagacha yangilab, internetni oʻz tilingizda kezing</translation>
 <translation id="5684874026226664614">Bu sahifani tarjima qilib bo‘lmadi.</translation>
 <translation id="6831043979455480757">Tarjima</translation>
 <translation id="1285320974508926690">Bu sayt hech qachon tarjima qilinmasin</translation>
@@ -557,7 +557,7 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="2532336938189706096">Veb-versiya</translation>
 <translation id="6005538289190791541">Taklif qilingan parol</translation>
 <translation id="4634124774493850572">Paroldan foydalanish</translation>
-<translation id="3088191967551450609">Yuklab olish uchun Dissenter brauzerida omborga saqlash ruxsati bo‘lishi zarur.</translation>
+<translation id="3088191967551450609">Yuklab olish uchun Fulldive brauzerida omborga saqlash ruxsati bo‘lishi zarur.</translation>
 <translation id="8942627711005830162">Yangi oynada ochish</translation>
 <translation id="4195643157523330669">Yangi varaqda ochish</translation>
 <translation id="1100066534610197918">Guruhda yangi varaqda ochish</translation>
@@ -580,7 +580,7 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="3384347053049321195">Tasvirni ulashish</translation>
 <translation id="5833984609253377421">Havolani ulashish</translation>
 <translation id="6475951671322991020">Videoni yuklab olish</translation>
-<translation id="2317945146070194624">Yangi Dissenter oynasida ochish</translation>
+<translation id="2317945146070194624">Yangi Fulldive oynasida ochish</translation>
 <translation id="7975379999046275268">Sahifaga razm solish <ph name="BEGIN_NEW"/>Yangi<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Tez ochiladi</translation>
 <translation id="6112702117600201073">Sahifa yangilanmoqda</translation>
@@ -709,14 +709,14 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="6820686453637990663">CVC kod</translation>
 <translation id="3244271242291266297">OO</translation>
 <translation id="605721222689873409">YY</translation>
-<translation id="724102042129299115">Dissenterning birinchi marta ishga tushirilishi</translation>
-<translation id="7766792282581704663">Dissenterni ishlatish bilan siz <ph name="BEGIN_LINK1"/>Gab AI Inc xizmat shartlari<ph name="END_LINK1"/> bilan <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter va Dissenter OS qoʻshimcha xizmat shartlariga<ph name="END_LINK2"/> rozilik bildirgan hisoblanasiz.</translation>
-<translation id="4301045550182524767">Dissenterni ishlatish bilan siz <ph name="BEGIN_LINK1"/>Gab AI Inc xizmat shartlari<ph name="END_LINK1"/> bilan <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter va Dissenter OS qoʻshimcha xizmat shartlariga<ph name="END_LINK2"/> rozilik bildirgan hisoblanasiz. <ph name="BEGIN_LINK3"/>Family Link bilan boshqariladigan Gab AI Inc hisoblari uchun Maxfiylik eslatmasi<ph name="END_LINK3"/> ham tatbiq qilinadi.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> ilovasi Dissenter ichida ochiladi. Davom etish bilan siz <ph name="BEGIN_LINK1"/>Gab AI Inc xizmat shartlari<ph name="END_LINK1"/> bilan <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter va Dissenter OS qoʻshimcha xizmat shartlariga<ph name="END_LINK2"/> rozilik bildirgan hisoblanasiz.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> ilovasi Dissenter ichida ochiladi. Davom etish bilan siz <ph name="BEGIN_LINK1"/>Gab AI Inc xizmat shartlari<ph name="END_LINK1"/> bilan <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter va Dissenter OS qoʻshimcha xizmat shartlariga<ph name="END_LINK2"/> rozilik bildirgan hisoblanasiz. <ph name="BEGIN_LINK3"/>Family Link bilan boshqariladigan Gab AI Inc hisoblari uchun Maxfiylik eslatmasi<ph name="END_LINK3"/> ham tatbiq qilinadi.</translation>
-<translation id="673197144963363525">Gab AI Inc’ga foydalanish statistikasi va ishdan chiqish hisobotlarini jo‘natish orqali Dissenter’ning takomillashtirishga yordam bering</translation>
+<translation id="724102042129299115">Fulldivening birinchi marta ishga tushirilishi</translation>
+<translation id="7766792282581704663">Fulldiveni ishlatish bilan siz <ph name="BEGIN_LINK1"/>Gab AI Inc xizmat shartlari<ph name="END_LINK1"/> bilan <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive va Fulldive OS qoʻshimcha xizmat shartlariga<ph name="END_LINK2"/> rozilik bildirgan hisoblanasiz.</translation>
+<translation id="4301045550182524767">Fulldiveni ishlatish bilan siz <ph name="BEGIN_LINK1"/>Gab AI Inc xizmat shartlari<ph name="END_LINK1"/> bilan <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive va Fulldive OS qoʻshimcha xizmat shartlariga<ph name="END_LINK2"/> rozilik bildirgan hisoblanasiz. <ph name="BEGIN_LINK3"/>Family Link bilan boshqariladigan Gab AI Inc hisoblari uchun Maxfiylik eslatmasi<ph name="END_LINK3"/> ham tatbiq qilinadi.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> ilovasi Fulldive ichida ochiladi. Davom etish bilan siz <ph name="BEGIN_LINK1"/>Gab AI Inc xizmat shartlari<ph name="END_LINK1"/> bilan <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive va Fulldive OS qoʻshimcha xizmat shartlariga<ph name="END_LINK2"/> rozilik bildirgan hisoblanasiz.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> ilovasi Fulldive ichida ochiladi. Davom etish bilan siz <ph name="BEGIN_LINK1"/>Gab AI Inc xizmat shartlari<ph name="END_LINK1"/> bilan <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive va Fulldive OS qoʻshimcha xizmat shartlariga<ph name="END_LINK2"/> rozilik bildirgan hisoblanasiz. <ph name="BEGIN_LINK3"/>Family Link bilan boshqariladigan Gab AI Inc hisoblari uchun Maxfiylik eslatmasi<ph name="END_LINK3"/> ham tatbiq qilinadi.</translation>
+<translation id="673197144963363525">Gab AI Inc’ga foydalanish statistikasi va ishdan chiqish hisobotlarini jo‘natish orqali Fulldive’ning takomillashtirishga yordam bering</translation>
 <translation id="3518985090088779359">Davom etish</translation>
-<translation id="7207456302801184289">Dissenter brauzeriga xush kelibsiz</translation>
+<translation id="7207456302801184289">Fulldive brauzeriga xush kelibsiz</translation>
 <translation id="7189372733857464326">Gab AI Inc Play xizmatlari yangilanib bo‘lishi kutilmoqda</translation>
 <translation id="1231733316453485619">Sinxronizatsiya yoqilsinmi?</translation>
 <translation id="5132942445612118989">Parollar, tarix va boshqa sozlamalaringizni barcha qurilmalaringizda sinxronlang</translation>
@@ -779,7 +779,7 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="6336451774241870485">Yangi inkognito ichki oynasi</translation>
 <translation id="4521874409998847950">Muallifi: <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>Gab AI Inc tomonidan taqdim etildi<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Yangi versiyasi chiqdi.</translation>
-<translation id="4058091506841967397">Dissenter yangilanmadi</translation>
+<translation id="4058091506841967397">Fulldive yangilanmadi</translation>
 <translation id="6316139424528454185">Android versiyasi bilan mos emas</translation>
 <translation id="6989267951144302301">Yuklab olinmadi</translation>
 <translation id="624789221780392884">Yangilanish tayyor</translation>
@@ -829,7 +829,7 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="2536728043171574184">Bu sahifaning oflayn nusxasi ko‘rilmoqda</translation>
 <translation id="4698034686595694889"><ph name="APP_NAME"/> orqali oflayn ko‘rish mumkin</translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> va boshqa saytlar</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Dissenter sahifani tayyor boʻlishi bilan ochadi}other{Dissenter sahifalarni tayyor boʻlishi bilan ochadi}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Fulldive sahifani tayyor boʻlishi bilan ochadi}other{Fulldive sahifalarni tayyor boʻlishi bilan ochadi}}</translation>
 <translation id="6811034713472274749">Sahifani koʻrish mumkin</translation>
 <translation id="4561979708150884304">Internetga ulanmagansiz</translation>
 <translation id="8274165955039650276">Yuklanmalarni ochish</translation>
@@ -841,14 +841,14 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="3298243779924642547">Lite</translation>
 <translation id="393697183122708255">Ovozli qidiruv fuksiyasi yoqilmagan</translation>
 <translation id="7191430249889272776">Ichki oyna orqa fonda ochildi.</translation>
-<translation id="8445059357334030806">Dissenter brauzerida ochish</translation>
+<translation id="8445059357334030806">Fulldive brauzerida ochish</translation>
 <translation id="4720023427747327413"><ph name="PRODUCT_NAME"/> orqali ochish</translation>
 <translation id="7022756207310403729">Brauzerda ochish</translation>
 <translation id="1113597929977215864">Soddalashgan shaklda ko‘rsatish</translation>
 <translation id="1513352483775369820">Xatcho‘plar va qidiruv tarixi</translation>
-<translation id="4939482511480190003">Dissenter brauzerini yaxshilashga yordam bering. <ph name="BEGIN_LINK"/>So‘rovnomada qatnashing.<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Fulldive brauzerini yaxshilashga yordam bering. <ph name="BEGIN_LINK"/>So‘rovnomada qatnashing.<ph name="END_LINK"/></translation>
 <translation id="3522247891732774234">Yangilanish mavjud. Qo‘shimcha parametrlarni ko‘rish</translation>
-<translation id="6773423637732432200">Dissenter yangilanmadi. Boshqa sozlamalar</translation>
+<translation id="6773423637732432200">Fulldive yangilanmadi. Boshqa sozlamalar</translation>
 <translation id="1383876407941801731">Qidiruv</translation>
 <translation id="3328801116991980348">Sayt haqida ma’lumot</translation>
 <translation id="9070377983101773829">Ovozli qidiruv</translation>
@@ -900,7 +900,7 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="3211426585530211793">Oʻchirib tashlandi: <ph name="ITEM_TITLE"/></translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> ta xatcho‘p o‘chirib tashlandi</translation>
 <translation id="3819178904835489326"><ph name="NUMBER_OF_DOWNLOADS"/> ta yuklanma o‘chirib tashlandi</translation>
-<translation id="1248710015876067820">Bir nechta Dissenter versiyalari birdaniga ishlamaydi.</translation>
+<translation id="1248710015876067820">Bir nechta Fulldive versiyalari birdaniga ishlamaydi.</translation>
 <translation id="4259722352634471385">Sahifa bloklandi: <ph name="URL"/></translation>
 <translation id="8959122750345127698">Sahifa topilmadi: <ph name="URL"/></translation>
 <translation id="5210365745912300556">Tabni yopish</translation>
@@ -915,18 +915,18 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="2942036813789421260">Razm solish sahifasi yopildi</translation>
 <translation id="6355102470683871794">Gab AI Inc <ph name="APP_NAME"/> xotirasi</translation>
 <translation id="3822502789641063741">Sayt xotirasi tozalansinmi?</translation>
-<translation id="9205995714227143200">Dissenter muhim emas deb hisoblaydigan sayt xotirasi (masalan, saqlanmaydigan yoki kam kiriladigan saytlar)</translation>
+<translation id="9205995714227143200">Fulldive muhim emas deb hisoblaydigan sayt xotirasi (masalan, saqlanmaydigan yoki kam kiriladigan saytlar)</translation>
 <translation id="3997476611815694295">Muhim bo‘lmagan xotira</translation>
 <translation id="8493948351860045254">Joy ochish</translation>
-<translation id="2324920234469020158">Dissenter muhim emas deb hisoblaydigan cookie-fayllar, kesh va boshqa sayt ma’lumotlari o‘chiriladi.</translation>
+<translation id="2324920234469020158">Fulldive muhim emas deb hisoblaydigan cookie-fayllar, kesh va boshqa sayt ma’lumotlari o‘chiriladi.</translation>
 <translation id="5447201525962359567">Barcha sayt ma’lumotlari saqlanadigan xotira, shuningdek, cookie-fayllar va boshqa kompyuterga saqlangan ma’lumotlar</translation>
 <translation id="1376578503827013741">Hisoblanmoqda…</translation>
 <translation id="583281660410589416">Noma’lum</translation>
 <translation id="2323763861024343754">Sayt xotirasi</translation>
-<translation id="3587672679800759167">Dissenter foydalanadigan barcha ma’lumotlar: hisoblar, xatcho‘plar va saqlangan sozlamalar</translation>
+<translation id="3587672679800759167">Fulldive foydalanadigan barcha ma’lumotlar: hisoblar, xatcho‘plar va saqlangan sozlamalar</translation>
 <translation id="6545017243486555795">Barcha ma’lumotlarni tozalash</translation>
 <translation id="4095146165863963773">Ilovaga tegishli ma’lumotlar o‘chirilsinmi?</translation>
-<translation id="53119194224775367">Barcha Dissenter ilovalari ma’lumotlari o‘chiriladi. Bularga barcha fayllar, sozlamalar, hisoblar va ma’lumotlar bazasi kiradi.</translation>
+<translation id="53119194224775367">Barcha Fulldive ilovalari ma’lumotlari o‘chiriladi. Bularga barcha fayllar, sozlamalar, hisoblar va ma’lumotlar bazasi kiradi.</translation>
 <translation id="5307446750509046227">Sayt xotirasini tozalash</translation>
 <translation id="300526633675317032">Veb-sayt xotirasidan <ph name="SIZE_IN_KB"/> tozalanadi.</translation>
 <translation id="8068648041423924542">Sertifikatni tanlab bo‘lmadi.</translation>
@@ -953,15 +953,15 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="3114012059975132928">Video pleyer</translation>
 <translation id="5489227211564503167">Ijro etilgan vaqt: <ph name="ELAPSED_TIME"/>/<ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Sogou orqali qidirib ko‘ring</translation>
-<translation id="5406914950576900927">Dissenter Xitoyda <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> qidiruv tizimidan foydalanishi mumkin. Asosiy qidiruv tizimini <ph name="BEGIN_LINK"/>Sozlamalar<ph name="END_LINK"/> orqali tayinlash mumkin.</translation>
+<translation id="5406914950576900927">Fulldive Xitoyda <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> qidiruv tizimidan foydalanishi mumkin. Asosiy qidiruv tizimini <ph name="BEGIN_LINK"/>Sozlamalar<ph name="END_LINK"/> orqali tayinlash mumkin.</translation>
 <translation id="6456271171669383967">Gab AI Inc qolaversin</translation>
 <translation id="4384468725000734951">Asosiy qidiruv tizimi – Sogou</translation>
 <translation id="6103327872225198548">Asosiy qidiruv tizimi – Gab AI Inc</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
-<translation id="919933208285147476">Bu ilova Dissenter brauzerida ishlayapti.</translation>
-<translation id="6143689084714664628">Dissenter brauzerida ishga tushgan</translation>
-<translation id="7675869148432102528">Dissenter brauzeridagi <ph name="APP_NAME"/> maʼlumotlari ham tozalanadi</translation>
-<translation id="2734140769649165081">Maʼlumotlarni Dissenter sozlamalaridan tozalashingiz mumkin</translation>
+<translation id="919933208285147476">Bu ilova Fulldive brauzerida ishlayapti.</translation>
+<translation id="6143689084714664628">Fulldive brauzerida ishga tushgan</translation>
+<translation id="7675869148432102528">Fulldive brauzeridagi <ph name="APP_NAME"/> maʼlumotlari ham tozalanadi</translation>
+<translation id="2734140769649165081">Maʼlumotlarni Fulldive sozlamalaridan tozalashingiz mumkin</translation>
 <translation id="8232956427053453090">Maʼlumotlar joyida qolsin</translation>
 <translation id="4298388696830689168">Aloqador saytlar</translation>
 <translation id="5763514718066511291">Ushbu ilova URL manzilini nusxalash uchun bosing</translation>
@@ -986,13 +986,13 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 <translation id="8015452622527143194">Sahifadagi barcha narsani standart hajmga qaytarish</translation>
 <translation id="3443221991560634068">Joriy sahifani qayta yuklash</translation>
 <translation id="123724288017357924">Keshga yuklangan ma’lumotlarsiz sahifani qayta yuklang.</translation>
-<translation id="305870044889644984">Dissenter yordam markazini yangi varaqda ochish</translation>
+<translation id="305870044889644984">Fulldive yordam markazini yangi varaqda ochish</translation>
 <translation id="3166827708714933426">Varaq va oynalar bilan ishlash</translation>
-<translation id="3169981355900570544">Gab AI Inc Dissenter funksiyalari</translation>
+<translation id="3169981355900570544">Gab AI Inc Fulldive funksiyalari</translation>
 <translation id="4558311620361989323">Veb-sahifalar bilan ishlash</translation>
-<translation id="1908301351964700579">Dissenter hali ham VR rejimga tayyorlanmoqda. Dissenterni keyinroq qayta ishga tushirish.</translation>
+<translation id="1908301351964700579">Fulldive hali ham VR rejimga tayyorlanmoqda. Fulldiveni keyinroq qayta ishga tushirish.</translation>
 <translation id="8970887620466824814">Xatolik yuz berdi.</translation>
-<translation id="1875543012935658554">Dissenterni qaytadan oching.</translation>
+<translation id="1875543012935658554">Fulldiveni qaytadan oching.</translation>
 <translation id="79859296434321399">Virtual reallik kontentini ochish uchun ARCore ilovasini yuklab oling</translation>
 <translation id="8558485628462305855">Virtual reallik kontentini ochish uchun ARCore ilovasini yangilang</translation>
 <translation id="3513704683820682405">Boyitilgan reallik</translation>
@@ -1004,9 +1004,9 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK"/>sinxronizatsiyani tiklang
 Kameradagi tasvirlar faqat sizga koʻrinadi. Kamera tasvirlari saytga koʻrinmaydi.</translation>
 <translation id="1188239144602654184">Virtual reallikka kirish</translation>
 <translation id="473775607612524610">Yangilash</translation>
-<translation id="3133489217401741157">Dissenter uchun <ph name="MODULE"/> oʻrnatilmoqda…</translation>
+<translation id="3133489217401741157">Fulldive uchun <ph name="MODULE"/> oʻrnatilmoqda…</translation>
 <translation id="1791662854739702043">Oʻrnatilgan</translation>
-<translation id="5131234170665854056">Dissenter uchun <ph name="MODULE"/> oʻrnatilmadi</translation>
+<translation id="5131234170665854056">Fulldive uchun <ph name="MODULE"/> oʻrnatilmadi</translation>
 <translation id="2567385386134582609">TASVIR</translation>
 <translation id="6395288395575013217">HAVOLA</translation>
 <translation id="7352939065658542140">VIDEO</translation>
@@ -1026,7 +1026,7 @@ Kameradagi tasvirlar faqat sizga koʻrinadi. Kamera tasvirlari saytga koʻrinmay
 <translation id="1792959175193046959">Yuklanmalar standart jildini istalgan vaqtda o‘zgartirish mumkin</translation>
 <translation id="6942665639005891494">Yuklanmalar standart jildini istalgan vaqtda sozlamalar menyusidan o‘zgartirish mumkin</translation>
 <translation id="6850409657436465440">Fayl hali ham yuklab olinmoqda</translation>
-<translation id="5817715962196959877">Dissenter endi fayllarni tezroq yuklab oladi</translation>
+<translation id="5817715962196959877">Fulldive endi fayllarni tezroq yuklab oladi</translation>
 <translation id="3976396876660209797">Yorliqni o‘chirib qaytadan yarating</translation>
 <translation id="6766622839693428701">Yopish uchun pastga suring.</translation>
 <translation id="1028699632127661925"><ph name="DEVICE_NAME"/> qurilmasiga yuborilmoqda...</translation>
@@ -1042,17 +1042,17 @@ Kameradagi tasvirlar faqat sizga koʻrinadi. Kamera tasvirlari saytga koʻrinmay
 <translation id="1521774566618522728">Bugun onlayn edi</translation>
 <translation id="3631987586758005671"><ph name="DEVICE_NAME"/> qurilmasiga ulashilmoqda</translation>
 <translation id="9028914725102941583">Qurilmalararo ulashish uchun sinxronizatsiyani yoqing</translation>
-<translation id="6162454065885854378">Telefoningizdan biror narsani boshqa qurilmaga ulashish uchun har ikki qurilmadagi Dissenter brauzerida sinxronizatsiyani yoqing</translation>
-<translation id="6084271560289605378">Dissenter sozlamalarini ochish</translation>
-<translation id="2746024117903470217">Bu sahifani boshqa qurilmaga ulashish uchun oʻsha qurilmadagi Dissenter sozlamalarida sinxronizatsiyani yoqing</translation>
-<translation id="7760665516427405230">Bu sahifani boshqa qurilmaga ulashish uchun Dissenter sozlamalarida sinxronizatsiyani yoqing</translation>
+<translation id="6162454065885854378">Telefoningizdan biror narsani boshqa qurilmaga ulashish uchun har ikki qurilmadagi Fulldive brauzerida sinxronizatsiyani yoqing</translation>
+<translation id="6084271560289605378">Fulldive sozlamalarini ochish</translation>
+<translation id="2746024117903470217">Bu sahifani boshqa qurilmaga ulashish uchun oʻsha qurilmadagi Fulldive sozlamalarida sinxronizatsiyani yoqing</translation>
+<translation id="7760665516427405230">Bu sahifani boshqa qurilmaga ulashish uchun Fulldive sozlamalarida sinxronizatsiyani yoqing</translation>
 <translation id="2318045970523081853">Chaqirish uchun bosing</translation>
 <translation id="9209888181064652401">Telefon qilinmaydi</translation>
 <translation id="2860954141821109167">Bu qurilmada telefon ilovasi yoniqligini tekshiring</translation>
 <translation id="2067805253194386918">matn</translation>
 <translation id="1450753235335490080"><ph name="CONTENT_TYPE"/> yuborilmadi</translation>
 <translation id="1266864766717917324"><ph name="CONTENT_TYPE"/> yuborilmadi</translation>
-<translation id="8287068819750208230"><ph name="TARGET_DEVICE_NAME"/> sozlamalarida Dissenter sinxronizatsiyasi yoniqligini tekshiring</translation>
+<translation id="8287068819750208230"><ph name="TARGET_DEVICE_NAME"/> sozlamalarida Fulldive sinxronizatsiyasi yoniqligini tekshiring</translation>
 <translation id="3016635187733453316">Bu qurilma internetga ulanganini tekshiring</translation>
 <translation id="8466613982764129868"><ph name="TARGET_DEVICE_NAME"/> internetga ulanganini tekshiring.</translation>
 <translation id="6539092367496845964">Xatolik yuz berdi. Keyinroq qaytadan urining.</translation>
@@ -1075,17 +1075,17 @@ Kameradagi tasvirlar faqat sizga koʻrinadi. Kamera tasvirlari saytga koʻrinmay
 <translation id="7055152154916055070">Yo‘naltirish bloklandi:</translation>
 <translation id="5524843473235508879">Yo‘naltirish bloklandi.</translation>
 <translation id="6573096386450695060">Har doim ruxsat berilsin</translation>
-<translation id="5805364706385912897">Bu sahifa juda ko‘p xotira ishlatishi sababli Dissenter tomonidan to‘xtatildi.</translation>
-<translation id="5138664332909611586">Bu sahifa juda ko‘p xotira ishlatishi sababli Dissenter bu kontentni olib tashladi.</translation>
+<translation id="5805364706385912897">Bu sahifa juda ko‘p xotira ishlatishi sababli Fulldive tomonidan to‘xtatildi.</translation>
+<translation id="5138664332909611586">Bu sahifa juda ko‘p xotira ishlatishi sababli Fulldive bu kontentni olib tashladi.</translation>
 <translation id="9137013805542155359">Asl tilda ko‘rsatish</translation>
-<translation id="6361779936989026201">Dissenter ichidagi Gab AI Inc Assistent</translation>
+<translation id="6361779936989026201">Fulldive ichidagi Gab AI Inc Assistent</translation>
 <translation id="7291387454912369099">Assistent orqali toʻlov</translation>
 <translation id="9037412730408024068">Gab AI Inc internetda ishlashingizni osonlashtirish uchun Assistent orqali kirilgan saytlarning URL manzillari va kontentlarini, shuningdek, soʻrovlarni ham oladi</translation>
-<translation id="4565206163201411670">Raqamli muvozanat xizmatida Dissenter amallari chiqsinmi?</translation>
-<translation id="9055113864158719823">Dissenterda ochilgan saytlarni koʻrish va ular uchun taymerlar sozlash mumkin.\n\nGab AI Incga faqat taymer sozlangan saytlar va ular qancha vaqt ochilganligi haqidagi axborot yuboriladi. Bu axborot Raqamli qulaylikni yaxshilashga yordam beradi.</translation>
-<translation id="4596514158372210596">Dissenter amallarini Raqamli qulaylikdan olib tashlash</translation>
-<translation id="1174893863889683998">Raqamli muvozanat xizmatidan Dissenter amallari olib tashlansinmi?</translation>
-<translation id="708829030563435351">Dissenter brauzerida ochilgan saytlar chiqmaydi. Barcha sayt taymerlari tozalanadi.</translation>
+<translation id="4565206163201411670">Raqamli muvozanat xizmatida Fulldive amallari chiqsinmi?</translation>
+<translation id="9055113864158719823">Fulldiveda ochilgan saytlarni koʻrish va ular uchun taymerlar sozlash mumkin.\n\nGab AI Incga faqat taymer sozlangan saytlar va ular qancha vaqt ochilganligi haqidagi axborot yuboriladi. Bu axborot Raqamli qulaylikni yaxshilashga yordam beradi.</translation>
+<translation id="4596514158372210596">Fulldive amallarini Raqamli qulaylikdan olib tashlash</translation>
+<translation id="1174893863889683998">Raqamli muvozanat xizmatidan Fulldive amallari olib tashlansinmi?</translation>
+<translation id="708829030563435351">Fulldive brauzerida ochilgan saytlar chiqmaydi. Barcha sayt taymerlari tozalanadi.</translation>
 <translation id="2056878612599315956">Sayt pauzalangan</translation>
 <translation id="671481426037969117"><ph name="FQDN"/> taymeridagi vaqt tugadi. Ertaga qaytadan boshlanadi.</translation>
 <translation id="7479104141328977413">Varaqlar boshqaruvi</translation>
@@ -1101,7 +1101,7 @@ Kameradagi tasvirlar faqat sizga koʻrinadi. Kamera tasvirlari saytga koʻrinmay
 <translation id="6201345951596836663">Nusxalandi</translation>
 <translation id="6597891566292541626">Bu kadrga QR yoki shtrix kodni joylang.</translation>
 <translation id="3140134512074889489">QR kodni skanerlash uchun kamerani yoqing</translation>
-<translation id="5149323899804758325">Dissenter QR kodni skanerlashi uchun sozlamalar orqali kamerani yoqing.</translation>
+<translation id="5149323899804758325">Fulldive QR kodni skanerlashi uchun sozlamalar orqali kamerani yoqing.</translation>
 <translation id="2359808026110333948">Davom etish</translation>
 <translation id="8233540874193135768">QR kod yoki bank kartasini skanerlash uchun kamerali qurilmadan foydalaning.</translation>
 <translation id="6297765934698848803">Kamerangiz qurilmangizni boshqaruvchi tashkilot tomonidan oʻchirib qoʻyildi.</translation>

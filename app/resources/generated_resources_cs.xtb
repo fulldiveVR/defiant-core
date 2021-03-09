@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Nastavení...</translation>
 <translation id="5801568494490449797">Nastavení</translation>
 <translation id="3677911431265050325">Požadovat mobilní web</translation>
-<translation id="236470849334943016">Smluvní podmínky prohlížeče Dissenter se 31. března změní</translation>
+<translation id="236470849334943016">Smluvní podmínky prohlížeče Fulldive se 31. března změní</translation>
 <translation id="1032605640136438169">Prostudujte si nové smluvní podmínky</translation>
 <translation id="8712637175834984815">Hotovo</translation>
 <translation id="5007392906805964215">Zkontrolovat</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Restartovat</translation>
 <translation id="3479552764303398839">Teď ne</translation>
 <translation id="1008557486741366299">Teď ne</translation>
-<translation id="8201192017531062522">Pokud jsou otevřeny aplikace Dissenter, zůstane Dissenter spuštěný.</translation>
-<translation id="7397305826909094212">Ukončit všechny aplikace Dissenter</translation>
+<translation id="8201192017531062522">Pokud jsou otevřeny aplikace Fulldive, zůstane Fulldive spuštěný.</translation>
+<translation id="7397305826909094212">Ukončit všechny aplikace Fulldive</translation>
 <translation id="5026874946691314267">Příště tuto zprávu nezobrazovat</translation>
 <translation id="91568222606626347">Vytvořit zástupce...</translation>
 <translation id="2783321960289401138">Vytvořit zástupce...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">Virtuální počítač systému Linux: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Pluginový virtuální počítač: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">Analyzátor požadavků IPP</translation>
-<translation id="7171242884588191792">Nástroje Dissenter pro práci se soubory</translation>
+<translation id="7171242884588191792">Nástroje Fulldive pro práci se soubory</translation>
 <translation id="3183139917765991655">Nástroj na import profilů</translation>
 <translation id="7367714965999718019">Generátor QR kódů</translation>
 <translation id="2190069059097339078">Nástroj na získávání identifikačních údajů sítí Wi-Fi</translation>
-<translation id="5920835625712313205">Zapisovač obrazu systému Dissenter OS</translation>
+<translation id="5920835625712313205">Zapisovač obrazu systému Fulldive OS</translation>
 <translation id="4873312501243535625">Nástroj na kontrolu mediálních souborů</translation>
 <translation id="5972666587303800813">Prázdná služba</translation>
 <translation id="1545775234664667895">Nainstalován motiv <ph name="THEME_NAME"/></translation>
@@ -1003,7 +1003,7 @@
 <translation id="1616298854599875024">Rozšíření <ph name="IMPORT_NAME"/> nelze importovat, protože se nejedná o sdílený modul</translation>
 <translation id="2131077480075264">Aplikaci <ph name="APP_NAME"/> nelze nainstalovat, protože není povolena rozhraním <ph name="IMPORT_NAME"/></translation>
 <translation id="1875387611427697908">Lze přidat pouze ze stránek <ph name="CHROME_WEB_STORE"/></translation>
-<translation id="3862788408946266506">Aplikace s atributem manifestu kiosk_only je třeba nainstalovat v režimu veřejného terminálu systému Dissenter OS</translation>
+<translation id="3862788408946266506">Aplikace s atributem manifestu kiosk_only je třeba nainstalovat v režimu veřejného terminálu systému Fulldive OS</translation>
 <translation id="3834775135533257713">Aplikaci <ph name="TO_INSTALL_APP_NAME"/> nelze přidat, protože je v konfliktu s aplikací <ph name="INSTALLED_APP_NAME"/>.</translation>
 <translation id="144518587530125858">Pro motiv nelze načíst bitovou kopii „<ph name="IMAGE_PATH"/>“.</translation>
 <translation id="3576324189521867626">Úspěšně nainstalováno</translation>
@@ -1313,7 +1313,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="8017679124341497925">Zkratka byla upravena</translation>
 <translation id="1174073918202301297">Zkratka byla přidána</translation>
 <translation id="2926085873880284723">Obnovit výchozí zkratky</translation>
-<translation id="5801450813341024983">Pozadí prohlížeče Dissenter</translation>
+<translation id="5801450813341024983">Pozadí prohlížeče Fulldive</translation>
 <translation id="2800760947029405028">Nahrát obrázek</translation>
 <translation id="8342861492835240085">Vyberte sbírku</translation>
 <translation id="3132996321662585180">Každý den obnovit</translation>
@@ -1493,7 +1493,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="7052237160939977163">Odesílat údaje sledování výkonu</translation>
 <translation id="5526928694260255286">Připojit <ph name="BEGIN_LINK"/>Protokoly rozhraní Bluetooth<ph name="END_LINK"/> (interní funkce Gab AI Inc)</translation>
 <translation id="3047644958362961983">Tyto informace nám pomohou lépe porozumět problému, který s Asistentem máte. Zůstanou uloženy až 90 dní a budou k ním mít přístup jen příslušné týmy vývojářů a pracovníků, kteří zpracovávají zpětnou vazbu.</translation>
-<translation id="8545590844135745781">Pro lepší diagnostiku problémů s rozhraním Bluetooth mohou zaměstnanci společnosti Gab AI Inc ke zpětné vazbě přiložit protokoly rozhraní Bluetooth. Když je tato možnost zaškrtnutá, bude hlášení zahrnovat protokoly btsnoop a HCI z aktuální návštěvy, z nichž bylo odstraněno co nejvíc údajů umožňujících zjištění totožnosti. K těmto protokolům budou mít přístup pouze správci skupiny produktů Dissenter OS v nástroji Listnr. Po 90 dnech budou protokoly trvale odstraněny.</translation>
+<translation id="8545590844135745781">Pro lepší diagnostiku problémů s rozhraním Bluetooth mohou zaměstnanci společnosti Gab AI Inc ke zpětné vazbě přiložit protokoly rozhraní Bluetooth. Když je tato možnost zaškrtnutá, bude hlášení zahrnovat protokoly btsnoop a HCI z aktuální návštěvy, z nichž bylo odstraněno co nejvíc údajů umožňujících zjištění totožnosti. K těmto protokolům budou mít přístup pouze správci skupiny produktů Fulldive OS v nástroji Listnr. Po 90 dnech budou protokoly trvale odstraněny.</translation>
 <translation id="4206323443866416204">Zpětná vazba</translation>
 <translation id="3681311097828166361">Děkujeme vám za zpětnou vazbu. Nyní jste offline, zpráva bude odeslána později.</translation>
 <translation id="8713570323158206935">Odeslat <ph name="BEGIN_LINK1"/>informace o systému<ph name="END_LINK1"/></translation>
@@ -1623,10 +1623,10 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="8658645149275195032"><ph name="APP_NAME"/> sdílí vaši obrazovku a zvuk s kartou <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> sdílí okno.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> sdílí okno s kartou <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> sdílí kartu Dissenter.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> sdílí kartu Dissenter s kartou <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> sdílí kartu Dissenter a zvuk.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> sdílí kartu Dissenter a zvuk s kartou <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> sdílí kartu Fulldive.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> sdílí kartu Fulldive s kartou <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> sdílí kartu Fulldive a zvuk.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> sdílí kartu Fulldive a zvuk s kartou <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">Skrýt</translation>
 <translation id="890616557918890486">Změnit zdroj</translation>
 <translation id="7792388396321542707">Ukončit sdílení</translation>
@@ -1649,7 +1649,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="4711067597921221305">Pomozte <ph name="PRODUCT_NAME"/> zlepšit tím, že budete Googlu automaticky zasílat statistiky využití a zprávy o selhání aplikace</translation>
 <translation id="5972826969634861500">Spustit <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Pomozte našim technikům prozkoumat toto selhání a odstranit jeho příčiny. Je-li to možné, přesně popište jednotlivé kroky. Důležité mohou být i nejmenší podrobnosti.</translation>
-<translation id="5418694430960033386">Buď má Gab AI Inc Dissenter nedostatek paměti, nebo byl proces načítání webové stránky ukončen z jiného důvodu. Chcete-li pokračovat, načtěte stránku znovu, nebo přejděte na jinou stránku.</translation>
+<translation id="5418694430960033386">Buď má Gab AI Inc Fulldive nedostatek paměti, nebo byl proces načítání webové stránky ukončen z jiného důvodu. Chcete-li pokračovat, načtěte stránku znovu, nebo přejděte na jinou stránku.</translation>
 <translation id="3065041951436100775">Zpětná vazba k ukončení procesu karty</translation>
 <translation id="3941565636838060942">Chcete-li skrýt přístup k tomuto programu, je třeba jej odinstalovat pomocí apletu <ph name="CONTROL_PANEL_APPLET_NAME"/> v ovládacích panelech.
 
@@ -1676,7 +1676,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="4980805016576257426">Toto rozšíření obsahuje malware.</translation>
 <translation id="5522156646677899028">Toto rozšíření představuje závažné bezpečnostní riziko.</translation>
 <translation id="6945695820322143954">Toto rozšíření porušuje podmínky Internetového obchodu.</translation>
-<translation id="177808131755847449">Toto rozšíření Dissenter zakázal, protože může být nebezpečné.</translation>
+<translation id="177808131755847449">Toto rozšíření Fulldive zakázal, protože může být nebezpečné.</translation>
 <translation id="1434696352799406980">Bude resetována vaše počáteční stránka, stránka Nová karta, vyhledávač a připnuté karty. Budou také zakázána všechna rozšíření a vymazána dočasná data, jako jsou soubory cookie. Uložené záložky, historie ani hesla vymazána nebudou.</translation>
 <translation id="1242633766021457174">Nástroj <ph name="THIRD_PARTY_TOOL_NAME"/> chce resetovat vaše nastavení.</translation>
 <translation id="8073477228424628709">Nástroj <ph name="THIRD_PARTY_TOOL_NAME"/> chce obnovit vaše nastavení Chromu na výchozí hodnoty. Bude resetována vaše domovská stránka, stránka Nová karta a vyhledávač, budou deaktivována rozšíření a uvolněny všechny karty. Budou také vymazána další dočasná data a data uložená v mezipaměti, například soubory cookie, obsah a data webů.</translation>
@@ -1873,7 +1873,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="6664774537677393800">Při otevírání vašeho profilu se něco pokazilo. Odhlaste se a poté se znovu přihlaste.</translation>
 <translation id="1794791083288629568">Odeslat zpětnou vazbu, která nám pomůže při řešení tohoto problému</translation>
 <translation id="8234795456569844941">Pomozte našim technikům opravit tento problém. Sdělte nám, co se stalo těsně před zobrazením zprávy o chybě profilu:</translation>
-<translation id="6500340165622970282">Dissenter nelze spustit, protože při otevírání vašeho profilu došlo k chybě. Zkuste Dissenter restartovat.</translation>
+<translation id="6500340165622970282">Fulldive nelze spustit, protože při otevírání vašeho profilu došlo k chybě. Zkuste Fulldive restartovat.</translation>
 <translation id="6812349420832218321">Aplikaci <ph name="PRODUCT_NAME"/> nelze spustit jako uživatel root.</translation>
 <translation id="2292848386125228270">Spusťte prosím aplikaci <ph name="PRODUCT_NAME"/> jako běžný uživatel. Pokud ji pro účely vývoje potřebujete spustit jako uživatel root, spusťte ji znovu s příznakem --no-sandbox.</translation>
 <translation id="7547317915858803630">Upozornění: Vaše nastavení aplikace <ph name="PRODUCT_NAME"/> jsou uložena na síťovém disku. To může vést ke zpomalení, chybám nebo ztrátě dat.</translation>
@@ -2321,7 +2321,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="4540437243849625078">Tento web se chystá sdílet informace s aplikací mimo soukromý režim.</translation>
 <translation id="1227836882233136433">Opustit soukromý režim?</translation>
 <translation id="662080504995468778">Zůstat</translation>
-<translation id="2593289874938379417">Dissenter k požadovanému zdroji nemá přístup.</translation>
+<translation id="2593289874938379417">Fulldive k požadovanému zdroji nemá přístup.</translation>
 <translation id="760197030861754408">Chcete-li zařízení připojit, přejděte na stránku <ph name="LANDING_PAGE"/>.</translation>
 <translation id="3648348069317717750">Bylo rozpoznáno zařízení <ph name="USB_DEVICE_NAME"/></translation>
 <translation id="5042282098504489593">Chcete-li zařízení <ph name="USB_DEVICE_NAME"/> připojit k Linuxu, otevřete Nastavení</translation>
@@ -2376,24 +2376,24 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="2859806420264540918">Tento web zobrazuje rušivé nebo zavádějící reklamy.</translation>
 <translation id="4077917118009885966">Na tomto webu jsou blokovány reklamy</translation>
 <translation id="6456955391422100996">Reklama byla odstraněna.</translation>
-<translation id="7533556202636568669">Tato reklama v zařízení používá příliš mnoho zdrojů, proto ji Dissenter odstranil.</translation>
+<translation id="7533556202636568669">Tato reklama v zařízení používá příliš mnoho zdrojů, proto ji Fulldive odstranil.</translation>
 <translation id="8497219075884839166">Nástroje Windows</translation>
 <translation id="897525204902889653">Karanténní služba</translation>
 <translation id="7055152154916055070">Bylo zablokováno přesměrování:</translation>
 <translation id="6777817260680419853">Bylo zablokováno přesměrování</translation>
 <translation id="694592694773692225">Na této stránce bylo zablokováno přesměrování.</translation>
-<translation id="8945142681652245463">Pohybujte se na internetu rychle pomocí prohlížeče Gab AI Inc Dissenter</translation>
-<translation id="2618024864038703735">Pohybujte se na internetu bezpečně pomocí prohlížeče Gab AI Inc Dissenter</translation>
-<translation id="8142180567942285208">Pohybujte se na internetu chytře pomocí prohlížeče Gab AI Inc Dissenter</translation>
+<translation id="8945142681652245463">Pohybujte se na internetu rychle pomocí prohlížeče Gab AI Inc Fulldive</translation>
+<translation id="2618024864038703735">Pohybujte se na internetu bezpečně pomocí prohlížeče Gab AI Inc Fulldive</translation>
+<translation id="8142180567942285208">Pohybujte se na internetu chytře pomocí prohlížeče Gab AI Inc Fulldive</translation>
 <translation id="8862003515646449717">Přejděte na rychlý prohlížeč</translation>
 <translation id="8438328416656800239">Přejděte na chytrý prohlížeč</translation>
 <translation id="491691592645955587">Přejděte na bezpečný prohlížeč</translation>
 <translation id="683373380308365518">Přejděte na chytrý a zabezpečený prohlížeč</translation>
-<translation id="989239400026154074">Gab AI Inc doporučuje prohlížeč Dissenter</translation>
-<translation id="6676231621615806698">Spustit Dissenter</translation>
+<translation id="989239400026154074">Gab AI Inc doporučuje prohlížeč Fulldive</translation>
+<translation id="6676231621615806698">Spustit Fulldive</translation>
 <translation id="5250372599208556903">Vyhledávač <ph name="SEARCH_ENGINE_NAME"/> poskytuje místní obsah na základě vaší polohy. Toto nastavení můžete změnit na stránce <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Zde se zobrazují vaše stažené soubory</translation>
-<translation id="4782664866169793230">Dissenter je právě kontrolován pomocí automatického testovacího softwaru.</translation>
+<translation id="4782664866169793230">Fulldive je právě kontrolován pomocí automatického testovacího softwaru.</translation>
 <translation id="6721678857435001674">Zobrazení modelu a značky vašeho bezpečnostního klíče</translation>
 <translation id="1673137583248014546"><ph name="URL"/> chce zjistit model a značku vašeho bezpečnostního klíče</translation>
 <translation id="6010869025736512584">Přístup k vstupu videa</translation>
@@ -2526,7 +2526,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="3984431586879874039">Povolit tomuto webu přístup k vašemu bezpečnostnímu klíči?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> chce zjistit model a značku vašeho bezpečnostního klíče</translation>
 <translation id="7618452966706304788">Chcete s <ph name="APP_NAME"/> použít Touch ID v Soukromém režimu?</translation>
-<translation id="3098826269712097986">Poté co odejdete ze Soukromého režimu budou přihlašovací data uložena v Dissenter. To vám umožní opětovné použití Touch ID na této webové stránce.</translation>
+<translation id="3098826269712097986">Poté co odejdete ze Soukromého režimu budou přihlašovací data uložena v Fulldive. To vám umožní opětovné použití Touch ID na této webové stránce.</translation>
 <translation id="2172784515318616985">Pokračovat</translation>
 <translation id="5186185447130319458">Soukromé</translation>
 <translation id="7643842463591647490">{0,plural, =1{# otevřené okno}few{# otevřená okna}many{# otevřeného okna}other{# otevřených oken}}</translation>
@@ -2568,7 +2568,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="2346953515226895098">Služba SODA</translation>
 <translation id="7516981202574715431">Aplikace <ph name="APP_NAME"/> je pozastavená</translation>
 <translation id="917350715406657904">Byl vyčerpán časový limit, který pro aplikaci <ph name="APP_NAME"/> nastavili rodiče. Zítra ji budeš moci používat <ph name="TIME_LIMIT"/>.</translation>
-<translation id="8891261408659902804">Byl vyčerpán časový limit, který pro aplikaci <ph name="APP_NAME"/> pro Dissenter nastavili rodiče. Zítra ji budeš moci používat <ph name="TIME_LIMIT"/>.</translation>
+<translation id="8891261408659902804">Byl vyčerpán časový limit, který pro aplikaci <ph name="APP_NAME"/> pro Fulldive nastavili rodiče. Zítra ji budeš moci používat <ph name="TIME_LIMIT"/>.</translation>
 <translation id="142655739075382478">Aplikace <ph name="APP_NAME"/> je zablokována</translation>
 <translation id="4404843640767531781">Tvůj rodič aplikaci <ph name="APP_NAME"/> zablokoval. Pokud ji chceš používat, požádej rodiče o oprávnění.</translation>
 <translation id="751523031290522286">Správce aplikaci <ph name="APP_NAME"/> zablokoval. Chcete-li ji používat, požádejte správce o oprávnění.</translation>
@@ -2913,7 +2913,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="672213144943476270">Před zahájením procházení v režimu hosta prosím odemkněte svůj profil.</translation>
 <translation id="8086119151297127544">Než odstraníte profil, tak ten svůj prosím odemkněte.</translation>
 <translation id="7805701378418968629">Než přidáte profil, tak ten svůj prosím odemkněte.</translation>
-<translation id="8978225823042133615">Chcete-li používat Dissenter, přihlaste se</translation>
+<translation id="8978225823042133615">Chcete-li používat Fulldive, přihlaste se</translation>
 <translation id="4893336867552636863">Tímto z tohoto zařízení trvale smažete své údaje o prohlížení.</translation>
 <translation id="2496180316473517155">Historie procházení</translation>
 <translation id="6865313869410766144">Automatické vyplňování formulářů</translation>
@@ -2937,7 +2937,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="9013707997379828817">Administrátor v tomto zařízení obnovil předchozí verzi systému. Uložte důležité soubory a poté zařízení restartujte. Veškerá data v zařízení budou ztracena.</translation>
 <translation id="5877064549588274448">Verze byla změněna. Změny se projeví po restartování zařízení.</translation>
 <translation id="4716483597559580346">Kvůli lepšímu zabezpečení zařízení vyčistěte pomocí funkce Powerwash</translation>
-<translation id="4089922565956168950">Tento upgrade váš Dissenterbook resetuje a odstraní z něj uživatelská data.</translation>
+<translation id="4089922565956168950">Tento upgrade váš Fulldivebook resetuje a odstraní z něj uživatelská data.</translation>
 <translation id="3688526734140524629">Změnit kanál</translation>
 <translation id="6410328738210026208">Změnit kanál a použít funkci Powerwash</translation>
 <translation id="1979280758666859181">Přepínáte na kanál s nižší verzí <ph name="PRODUCT_NAME"/>. Změna kanálu bude použita, až bude verze v nově zvoleném kanálu odpovídat verzi nainstalované v zařízení.</translation>
@@ -2969,7 +2969,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> a 1 další účet}few{<ph name="EMAIL"/> a <ph name="EXTRA_ACCOUNTS"/> další účty}many{<ph name="EMAIL"/> a <ph name="EXTRA_ACCOUNTS"/> dalšího účtu}other{<ph name="EMAIL"/> a <ph name="EXTRA_ACCOUNTS"/> dalších účtů}}</translation>
 <translation id="7434635829372401939">Synchronizace nastavení</translation>
 <translation id="1036348656032585052">Vypnout</translation>
-<translation id="3267705913905916810">Vaše aplikace a nastavení se budou synchronizovat do všech zařízení Dissenter OS, na kterých jste přihlášeni pomocí svého účtu Gab AI Inc. Možnosti synchronizace prohlížeče naleznete v <ph name="LINK_BEGIN"/>nastavení Chromu<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Vaše aplikace a nastavení se budou synchronizovat do všech zařízení Fulldive OS, na kterých jste přihlášeni pomocí svého účtu Gab AI Inc. Možnosti synchronizace prohlížeče naleznete v <ph name="LINK_BEGIN"/>nastavení Chromu<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Tiskárny</translation>
 <translation id="8418661265246754237">Účty Gab AI Inc</translation>
 <translation id="3953834000574892725">Mé účty</translation>
@@ -3016,7 +3016,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="2187700606737131818">Fotky Gab AI Inc</translation>
 <translation id="1827738518074806965">Galerie umění</translation>
 <translation id="9137157311132182254">Preferovaný vyhledávač</translation>
-<translation id="7423118389528876103">Používáno prohlížečem Dissenter a spouštěčem zařízení <ph name="DEVICE_TYPE"/></translation>
+<translation id="7423118389528876103">Používáno prohlížečem Fulldive a spouštěčem zařízení <ph name="DEVICE_TYPE"/></translation>
 <translation id="2862205630718215619">Asistent Gab AI Inc</translation>
 <translation id="8959699239363253085">Zapnuto</translation>
 <translation id="971479617738309149">Vypnuto</translation>
@@ -3036,15 +3036,15 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="6644513150317163574">Neplatný formát adresy URL. Při použití ověření SSO je jako název hostitele potřeba zadat server.</translation>
 <translation id="6091761513005122595">Sdílená složka byla úspěšně připojena.</translation>
 <translation id="5770125698810550803">Zobrazit navigační tlačítka</translation>
-<translation id="2972318514147518075">Umožňuje přejít na domovskou stránku či zpět a přepínat aplikace pomocí tlačítek v režimu tabletu. Když je aktivovaná funkce DissenterVox či Automatická kliknutí, je tato možnost zapnutá.</translation>
+<translation id="2972318514147518075">Umožňuje přejít na domovskou stránku či zpět a přepínat aplikace pomocí tlačítek v režimu tabletu. Když je aktivovaná funkce FulldiveVox či Automatická kliknutí, je tato možnost zapnutá.</translation>
 <translation id="2558896001721082624">Vždy v nabídce systému zobrazovat možnosti usnadnění přístupu</translation>
 <translation id="2981113813906970160">Zobrazit velký kurzor myši</translation>
 <translation id="5072052264945641674">Velikost kurzoru</translation>
 <translation id="4209092469652827314">Velké</translation>
 <translation id="499165176004408815">Použít režim s vysokým kontrastem</translation>
 <translation id="142758023928848008">Aktivovat funkci StickyKeys (umožňuje zadávat klávesové zkratky postupně)</translation>
-<translation id="5914872514449971753">Zapnout funkci DissenterVox (hlasovou odezvu)</translation>
-<translation id="7099511550603534982">Otevřít nastavení funkce DissenterVox</translation>
+<translation id="5914872514449971753">Zapnout funkci FulldiveVox (hlasovou odezvu)</translation>
+<translation id="7099511550603534982">Otevřít nastavení funkce FulldiveVox</translation>
 <translation id="8547013269961688403">Zapnout lupu celé obrazovky</translation>
 <translation id="8743390665131937741">Úroveň přiblížení lupy celé obrazovky:</translation>
 <translation id="7334274148831027933">Zapnout zadokovanou lupu</translation>
@@ -3208,7 +3208,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="234889437187286781">Při načítání dat došlo k chybě</translation>
 <translation id="4660540330091848931">Probíhá změna velikosti</translation>
 <translation id="1481537595330271162">Při změně velikosti disku došlo k chybě</translation>
-<translation id="2756917833575664962">K aktivaci ladění ADB je tento Dissenterbook potřeba resetovat do továrního nastavení. <ph name="BEGIN_LINK_LEARN_MORE"/>Další informace<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">K aktivaci ladění ADB je tento Fulldivebook potřeba resetovat do továrního nastavení. <ph name="BEGIN_LINK_LEARN_MORE"/>Další informace<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">K aktivaci ladění ADB je toto zařízení <ph name="DEVICE_TYPE"/> potřeba restartovat. K vypnutí je potřeba resetovat tovární nastavení.</translation>
 <translation id="8082390128630131497">Deaktivací ladění ADB toto zařízení <ph name="DEVICE_TYPE"/> resetujete do továrního nastavení. Budou vymazány všechny uživatelské účty a místní data.</translation>
 <translation id="7932969338829957666">Sdílené složky jsou v Linuxu k dispozici v adresáři <ph name="BASE_DIR"/>.</translation>
@@ -3336,10 +3336,10 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="8002670234429879764">Tiskárna <ph name="PRINTER_NAME"/> už není dostupná</translation>
 <translation id="3976108569178263973">Žádné tiskárny nejsou k dispozici.</translation>
 <translation id="217576141146192373">Tiskárnu nelze přidat. Zkontrolujte konfiguraci tiskárny a zkuste to znovu.</translation>
-<translation id="4052689580269971502">K tiskárně se nelze připojit. Zkontrolujte, zda je tiskárna zapnutá a připojená k Dissenterbooku přes Wi-Fi nebo USB.</translation>
+<translation id="4052689580269971502">K tiskárně se nelze připojit. Zkontrolujte, zda je tiskárna zapnutá a připojená k Fulldivebooku přes Wi-Fi nebo USB.</translation>
 <translation id="7099337801055912064">Soubor PPD nelze načíst, protože je příliš velký. Maximální povolená velikost je 250 kB.</translation>
 <translation id="4310139701823742692">Soubor má nesprávný formát. Zkontrolujte soubor PPD a zkuste to znovu.</translation>
-<translation id="6580983683519551561">Soubor PPD nebyl nalezen. Zkontrolujte, zda je Dissenterbook online, a zkuste to znovu.</translation>
+<translation id="6580983683519551561">Soubor PPD nebyl nalezen. Zkontrolujte, zda je Fulldivebook online, a zkuste to znovu.</translation>
 <translation id="4694024090038830733">Konfiguraci tiskáren spravuje administrátor.</translation>
 <translation id="5816434091619127343">Po provedení požadovaných změn by tiskárna nebyla použitelná.</translation>
 <translation id="6504611359718185067">Chcete-li přidat tiskárnu, připojte se k internetu.</translation>
@@ -3675,18 +3675,18 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="7770651108375708429">Odpojit od Wi-Fi</translation>
 <translation id="4168015872538332605">Uživatel <ph name="PRIMARY_EMAIL"/> s vámi sdílí některá svá nastavení. Tato nastavení váš účet ovlivní pouze během vícenásobného přihlášení.</translation>
 <translation id="1485141095922496924">Verze <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Automaticky aktualizovat Dissenter pro všechny uživatele</translation>
+<translation id="4570609078116869893">Automaticky aktualizovat Fulldive pro všechny uživatele</translation>
 <translation id="7102687220333134671">Automatické aktualizace jsou zapnuté</translation>
 <translation id="6981982820502123353">Usnadnění</translation>
 <translation id="5840822070878669614">Otevřít Internetový obchod</translation>
 <translation id="6073903501322152803">Přidat funkce přístupnosti</translation>
 <translation id="7988355189918024273">Aktivovat funkce usnadnění přístupu</translation>
-<translation id="5499063270485366718">Pokud obrázek nemá užitečný popis, Dissenter se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu.</translation>
+<translation id="5499063270485366718">Pokud obrázek nemá užitečný popis, Fulldive se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu.</translation>
 <translation id="8957762313041272117">Živý přepis</translation>
 <translation id="7075426315046750605">Živý přepis rozpoznává v médiích řeč a automaticky pro veškerý mediální obsah přehrávaný v Chromu generuje titulky.</translation>
 <translation id="572155275267014074">Nastavení zařízení Android</translation>
 <translation id="7201042526153088083">Instalujte do svého zařízení <ph name="DEVICE_TYPE"/> aplikace a hry z Gab AI Inc Play. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Další informace&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Z tohoto Dissenterbooku budou smazány aplikace, které jste stáhli z Gab AI Inc Play.
+<translation id="8039595758121742506">Z tohoto Fulldivebooku budou smazány aplikace, které jste stáhli z Gab AI Inc Play.
       <ph name="LINE_BREAKS1"/>
       Může být smazán i váš zakoupený obsah, jako jsou například filmy, televizní pořady, hudba, knihy a další nákupy v aplikacích.
       <ph name="LINE_BREAKS2"/>
@@ -3712,7 +3712,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="1670399744444387456">Základní</translation>
 <translation id="1763808908432309942">Otevře se na nové kartě</translation>
 <translation id="6248988683584659830">Nastavení vyhledávání</translation>
-<translation id="883304095704384301">Pokud nemůžete najít, co hledáte, navštivte <ph name="BEGIN_LINK_CHROMIUM"/>nápovědu Gab AI Inc Dissenter<ph name="END_LINK_CHROMIUM"/>.</translation>
+<translation id="883304095704384301">Pokud nemůžete najít, co hledáte, navštivte <ph name="BEGIN_LINK_CHROMIUM"/>nápovědu Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/>.</translation>
 <translation id="6406708970972405507">Nastavení – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Tlačítko podstránky</translation>
 <translation id="379509625511193653">Vypnuto</translation>
@@ -3899,7 +3899,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="5468173180030470402">Vyhledávání sdílených úložišť</translation>
 <translation id="3336664756920573711">Odemykejte zařízení <ph name="DEVICE_TYPE"/> telefonem Android</translation>
 <translation id="1164674268730883318">Vypnout v zařízení <ph name="DEVICE_TYPE"/> funkci Smart Lock?</translation>
-<translation id="2739030071582769583">Pokud v zařízení <ph name="DEVICE_TYPE"/> vypnete funkci Smart Lock, nebudete moci svá zařízení Dissenter odemykat pomocí telefonu. Budete muset zadat heslo.</translation>
+<translation id="2739030071582769583">Pokud v zařízení <ph name="DEVICE_TYPE"/> vypnete funkci Smart Lock, nebudete moci svá zařízení Fulldive odemykat pomocí telefonu. Budete muset zadat heslo.</translation>
 <translation id="4737715515457435632">Připojte se prosím k síti</translation>
 <translation id="5425722269016440406">Chcete-li funkci Smart Lock vypnout, musíte být online, protože toto nastavení je synchronizováno do telefonu a ostatních zařízení. Nejdříve se prosím připojte k síti.</translation>
 <translation id="8885197664446363138">Funkce Smart Lock není k dispozici</translation>
@@ -4146,7 +4146,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="1963976881984600709">Standardní ochrana</translation>
 <translation id="6882836635272038266">Standardní ochrana před weby, soubory ke stažení a rozšířeními, o nichž je známo, že jsou nebezpečné.</translation>
 <translation id="5561162485081632007">Rozpoznává nebezpečné události a upozorňuje vás na ně, když k nim dojde.</translation>
-<translation id="7810992039564280750">Kontroluje adresy URL oproti seznamu nebezpečných webů uloženému v Chromu. Pokud se web pokusí odcizit vám heslo nebo když stáhnete škodlivý soubor, může Dissenter Bezpečnému prohlížení odeslat také adresy URL, včetně částí obsahu stránky.</translation>
+<translation id="7810992039564280750">Kontroluje adresy URL oproti seznamu nebezpečných webů uloženému v Chromu. Pokud se web pokusí odcizit vám heslo nebo když stáhnete škodlivý soubor, může Fulldive Bezpečnému prohlížení odeslat také adresy URL, včetně částí obsahu stránky.</translation>
 <translation id="3847319713229060696">Pomáhat se zlepšováním bezpečnosti internetu pro všechny</translation>
 <translation id="1984417487208496350">Bez ochrany (nedoporučujeme)</translation>
 <translation id="1295971429974142731">Nebudete chráněni před nebezpečnými weby, soubory ke stažení a rozšířeními. V jiných službách Gab AI Inc, v nichž je ochrana pomocí Bezpečného prohlížení k dispozici (např. Gmail a Vyhledávání), ji budete mít i nadále.</translation>
@@ -4202,7 +4202,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="8632933437936028548">Resetovat nastavení</translation>
 <translation id="5293170712604732402">Obnovit nastavení na původní výchozí hodnoty</translation>
 <translation id="892706138619340876">Některá nastavení byla obnovena</translation>
-<translation id="2334029754052191847">Prohlížeč Dissenter zjistil, že některá z vašich nastavení byla upravena jiným programem, a obnovil je na původní výchozí hodnoty.</translation>
+<translation id="2334029754052191847">Prohlížeč Fulldive zjistil, že některá z vašich nastavení byla upravena jiným programem, a obnovil je na původní výchozí hodnoty.</translation>
 <translation id="4582563038311694664">Resetovat všechna nastavení</translation>
 <translation id="4146785383423576110">Resetovat a vyčistit</translation>
 <translation id="2603115962224169880">Vyčištění počítače</translation>
@@ -4332,7 +4332,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="2913331724188855103">Povolit webům ukládat a číst data souborů cookie (doporučeno)</translation>
 <translation id="5908769186679515905">Blokovat spouštění obsahu Flash na webech</translation>
 <translation id="783214144752121388">Blokovat webům spouštění obsahu Flash (doporučeno)</translation>
-<translation id="6096007141921397775">Nastavení přehrávače Flash zůstanou zachována, dokud Dissenter neukončíte.</translation>
+<translation id="6096007141921397775">Nastavení přehrávače Flash zůstanou zachována, dokud Fulldive neukončíte.</translation>
 <translation id="8074127646604999664">Povolit nedávno zavřeným webům dokončit odeslání a příjem dat</translation>
 <translation id="7062222374113411376">Povolit nedávno zavřeným webům dokončit odeslání a příjem dat (doporučeno)</translation>
 <translation id="5068918910148307423">Nepovolovat nedávno zavřeným webům dokončit odeslání a příjem dat</translation>
@@ -4412,7 +4412,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="5566692924079383101">Až opustíte aktuální anonymní relaci, bude tato výjimka automaticky odstraněna</translation>
 <translation id="383891835335927981">Žádný web nemá nastaveno přiblížení či oddálení zobrazení</translation>
 <translation id="3566721612727112615">Nebyly přidány žádné weby</translation>
-<translation id="8098574385249290065">Nechat Dissenter zvolit, kdy weby mohou přehrávat zvuk (doporučeno)</translation>
+<translation id="8098574385249290065">Nechat Fulldive zvolit, kdy weby mohou přehrávat zvuk (doporučeno)</translation>
 <translation id="4354344420232759511">Zde se zobrazí weby, které navštívíte</translation>
 <translation id="3757733214359997190">Nebyly nalezeny žádné weby</translation>
 <translation id="6545864417968258051">Vyhledávání Bluetooth</translation>
@@ -4425,7 +4425,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Přidání webu</translation>
 <translation id="5052499409147950210">Upravit web</translation>
-<translation id="4610862967073369855">Povoluje Zprávám pro Android předávat zprávy SMS z telefonu do Dissenterbooku</translation>
+<translation id="4610862967073369855">Povoluje Zprávám pro Android předávat zprávy SMS z telefonu do Fulldivebooku</translation>
 <translation id="6742339027238151589">Přístupné skriptu</translation>
 <translation id="361106536627977100">Data Flash</translation>
 <translation id="8557930019681227453">Manifest</translation>
@@ -4437,7 +4437,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="8016266267177410919">Dočasné úložiště</translation>
 <translation id="4175737294868205930">Trvalé úložiště</translation>
 <translation id="8397843425685839889">Vy a Gab AI Inc</translation>
-<translation id="8907706281008466056">Profilová fotka Dissenter</translation>
+<translation id="8907706281008466056">Profilová fotka Fulldive</translation>
 <translation id="2023167225947895179">PIN může být snadné uhodnout.</translation>
 <translation id="5342091991439452114">Minimální počet číslic v kódu PIN: <ph name="MINIMUM"/></translation>
 <translation id="5252653240322147470">Maximální počet číslic v kódu PIN: <ph name="MAXIMUM"/></translation>
@@ -4509,16 +4509,16 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{Jedna položka}few{{NUM_ITEMS} položky}many{{NUM_ITEMS} položky}other{{NUM_ITEMS} položek}}</translation>
 <translation id="7187428571767585875">Záznamy v registru, které budou odstraněny nebo změněny:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{1 další}few{{NUM_DOWNLOADS} další}many{{NUM_DOWNLOADS} dalšího}other{{NUM_DOWNLOADS} dalších}}</translation>
-<translation id="2749608811030566578">Při odstraňování škodlivého softwaru Dissenterm došlo k chybě</translation>
-<translation id="8189483132214844139">Dissenter na vašem počítači může vyhledat škodlivý software a odstranit jej</translation>
+<translation id="2749608811030566578">Při odstraňování škodlivého softwaru Fulldivem došlo k chybě</translation>
+<translation id="8189483132214844139">Fulldive na vašem počítači může vyhledat škodlivý software a odstranit jej</translation>
 <translation id="1426870617281699524">Klikněte na Zkusit znovu a potvrďte výzvu na počítači</translation>
-<translation id="7886744396008377537">Máte v počítači škodlivý software. Dissenter ho odstraní, obnoví vaše nastavení a zakáže rozšíření. Prohlížeč bude zase fungovat jako normálně.</translation>
+<translation id="7886744396008377537">Máte v počítači škodlivý software. Fulldive ho odstraní, obnoví vaše nastavení a zakáže rozšíření. Prohlížeč bude zase fungovat jako normálně.</translation>
 <translation id="1484912962860902625">Při vyhledávání škodlivého softwaru v Chromu došlo k chybě</translation>
 <translation id="451407183922382411">Založeno na technologii <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">Zobrazit soubory, které budou odstraněny</translation>
 <translation id="296026337010986570">Hotovo! Škodlivý software byl odstraněn. Budete-li chtít rozšíření znovu zapnout, přejděte na stránku &lt;a href="chrome://extensions"&gt;Rozšíření&lt;/a&gt;.</translation>
 <translation id="284975061945174219">Vyčištění se nezdařilo</translation>
-<translation id="9014750448058570312">Dissenter k pokračování potřebuje oprávnění</translation>
+<translation id="9014750448058570312">Fulldive k pokračování potřebuje oprávnění</translation>
 <translation id="1852141627593563189">Najděte škodlivý software</translation>
 <translation id="850875081535031620">Nebyl nalezen žádný škodlivý software</translation>
 <translation id="1186771945450942097">Odstranit škodlivý software</translation>
@@ -4614,7 +4614,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="284843628681142937">Odesílá do Googlu adresy URL stránek, které navštěvujete</translation>
 <translation id="7704317875155739195">Automaticky doplňovat vyhledávací dotazy a adresy URL</translation>
 <translation id="2000419248597011803">Odesílá soubory cookie a vyhledávací dotazy z adresního řádku a vyhledávacího pole a několik souborů cookie vašemu výchozímu vyhledávači</translation>
-<translation id="918192811481327695">Pomoci s vylepšováním funkcí a výkonu prohlížeče Dissenter</translation>
+<translation id="918192811481327695">Pomoci s vylepšováním funkcí a výkonu prohlížeče Fulldive</translation>
 <translation id="9063160602596686558">Automaticky odesílá statistiky o využívání a zprávy o selhání do Googlu</translation>
 <translation id="6697492270171225480">Zobrazovat návrhy podobných stránek, když stránku nelze najít</translation>
 <translation id="4534361985432360439">Odesílá do Googlu webovou adresu stránky, na kterou se pokoušíte přejít</translation>
@@ -4737,7 +4737,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="1992397118740194946">Hodnota není nastavena</translation>
 <translation id="6706210727756204531">Rozsah</translation>
 <translation id="5532223876348815659">Globální</translation>
-<translation id="300669147395456190">Aplikace Dissenter</translation>
+<translation id="300669147395456190">Aplikace Fulldive</translation>
 <translation id="6787839852456839824">Klávesové zkratky</translation>
 <translation id="6419546358665792306">Načíst nerozbalené</translation>
 <translation id="8023801379949507775">Aktualizovat rozšíření</translation>
@@ -4751,7 +4751,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="8447409163267621480">Zahrňte klávesu Ctrl nebo Alt</translation>
 <translation id="3365598184818502391">Použijte buď Ctrl, nebo Alt</translation>
 <translation id="1688935057616748272">Zadejte písmeno</translation>
-<translation id="1579879232130925590">Zdravější a šťastnější Dissenter</translation>
+<translation id="1579879232130925590">Zdravější a šťastnější Fulldive</translation>
 <translation id="964057662886721376">Některá rozšíření mohou prohlížeč zpomalovat – zejména ta, která jste nainstalovat nechtěli.</translation>
 <translation id="1499271269825557605">Pokud nějaké rozšíření nepoznáváte nebo prohlížeč nefunguje podle očekávání, můžete zde rozšíření vypnout nebo si je přizpůsobit.</translation>
 <translation id="2382818385048255866">Zkontrolujte rozšíření</translation>
@@ -4773,7 +4773,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="2342740338116612727">Byly přidány záložky</translation>
 <translation id="7835178595033117206">Záložka byla odstraněna</translation>
 <translation id="742130257665691897">Záložky byly odstraněny</translation>
-<translation id="5468853758063275923">Dissenter je váš výchozí prohlížeč</translation>
+<translation id="5468853758063275923">Fulldive je váš výchozí prohlížeč</translation>
 <translation id="2950533317914339731">Přidejte záložky svých oblíbeným aplikací Gab AI Inc</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4788,13 +4788,13 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="5033266061063942743">Geometrické obrazce</translation>
 <translation id="7789963078219276159">Pozadí úvodní stránky bylo změněno na: <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Pozadí úvodní stránky bylo resetováno na výchozí pozadí.</translation>
-<translation id="239760341987199724">Nastavit Dissenter jako výchozí prohlížeč</translation>
+<translation id="239760341987199724">Nastavit Fulldive jako výchozí prohlížeč</translation>
 <translation id="96037229054033864">Mějte při procházení internetu vždy k dispozici Vyhledávání Gab AI Inc a chytré funkce Gab AI Inc</translation>
-<translation id="296137235951584143">Přizpůsobte si Dissenter</translation>
+<translation id="296137235951584143">Přizpůsobte si Fulldive</translation>
 <translation id="3982375475032951137">Několika jednoduchými kroky si prohlížeč nastavte</translation>
 <translation id="6972754398087986839">Get Started</translation>
 <translation id="3707821975049107110">Už uživatelský profil Chromu máte? Přihlaste se</translation>
-<translation id="7113572760575285642">Váš Dissenter, všude</translation>
+<translation id="7113572760575285642">Váš Fulldive, všude</translation>
 <translation id="567643736130151854">Chcete-li mít své záložky, hesla a další obsah na všech zařízeních, přihlaste se a zapněte synchronizaci</translation>
 <translation id="725758059478686223">Služba tisku</translation>
 <translation id="15662109988763471">Zvolená tiskárna není k dispozici nebo není správně nainstalovaná. Zkontrolujte tiskárnu nebo vyberte jinou.</translation>

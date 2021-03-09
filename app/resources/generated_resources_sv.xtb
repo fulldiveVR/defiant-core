@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Radera</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> markerade</translation>
 <translation id="5582839680698949063">Huvudmeny</translation>
-<translation id="3700405816184340252">Dissenter-historik</translation>
+<translation id="3700405816184340252">Fulldive-historik</translation>
 <translation id="7602079150116086782">Inga flikar från andra enheter</translation>
 <translation id="4619615317237390068">Flikar från andra enheter</translation>
-<translation id="82609232232243542">Logga in i Dissenter</translation>
+<translation id="82609232232243542">Logga in i Fulldive</translation>
 <translation id="4627442949885028695">Fortsätta på en annan enhet</translation>
-<translation id="7253276740368043692">Logga in i Dissenter om du vill ha samma flikar tillgängliga på alla enheter.</translation>
+<translation id="7253276740368043692">Logga in i Fulldive om du vill ha samma flikar tillgängliga på alla enheter.</translation>
 <translation id="6351063337294363751">Du kan rensa webbinformation från den här menyn</translation>
 <translation id="6040143037577758943">Stäng</translation>
 <translation id="6463795194797719782">&amp;Redigera</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Inställningar...</translation>
 <translation id="5801568494490449797">Inställningar</translation>
 <translation id="3677911431265050325">Begär mobilversion</translation>
-<translation id="236470849334943016">Dissenters användarvillkor ändras den 31 mars</translation>
+<translation id="236470849334943016">Fulldives användarvillkor ändras den 31 mars</translation>
 <translation id="1032605640136438169">Läs de nya villkoren</translation>
 <translation id="8712637175834984815">Uppfattat</translation>
 <translation id="5007392906805964215">Granska</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Starta om</translation>
 <translation id="3479552764303398839">Inte nu</translation>
 <translation id="1008557486741366299">Inte nu</translation>
-<translation id="8201192017531062522">Dissenter fortsätter köras när Dissenter-appar är öppna.</translation>
-<translation id="7397305826909094212">Stäng alla Dissenter-appar</translation>
+<translation id="8201192017531062522">Fulldive fortsätter köras när Fulldive-appar är öppna.</translation>
+<translation id="7397305826909094212">Stäng alla Fulldive-appar</translation>
 <translation id="5026874946691314267">Visa inte detta igen</translation>
 <translation id="91568222606626347">Skapa genväg ...</translation>
 <translation id="2783321960289401138">Skapa genväg ...</translation>
@@ -820,17 +820,17 @@
 <translation id="5799508265798272974">Virtuell maskin för Linux: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Plugin för virtuell maskin: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP-analysator</translation>
-<translation id="7171242884588191792">Dissenters filverktyg</translation>
+<translation id="7171242884588191792">Fulldives filverktyg</translation>
 <translation id="3183139917765991655">Profilimportör</translation>
 <translation id="7367714965999718019">QR-kodgenerator</translation>
 <translation id="2190069059097339078">Hämtningsfunktion för Wi-Fi-användaruppgifter</translation>
-<translation id="5920835625712313205">Systemavbildningsskrivare för Dissenter OS</translation>
+<translation id="5920835625712313205">Systemavbildningsskrivare för Fulldive OS</translation>
 <translation id="4873312501243535625">Mediefilkontroll</translation>
 <translation id="5972666587303800813">Testtjänst utan funktion</translation>
 <translation id="1545775234664667895">Installerat tema "<ph name="THEME_NAME"/>"</translation>
 <translation id="2256115617011615191">Starta om nu</translation>
 <translation id="4545028762441890696">Godkänn de nya behörigheterna om du vill återaktivera det:</translation>
-<translation id="3009487527589249344">Dissenter har flaggat <ph name="EXTENSION_NAME"/> som skadligt och installationen har förhindrats</translation>
+<translation id="3009487527589249344">Fulldive har flaggat <ph name="EXTENSION_NAME"/> som skadligt och installationen har förhindrats</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> har lagts till via fjärranslutning</translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> har inaktiverats</translation>
 <translation id="595959584676692139">Läs in sidan igen om du vill använda det här tillägget</translation>
@@ -851,14 +851,14 @@
 <translation id="3507421388498836150">Aktuella behörigheter för <ph name="EXTENSION_NAME"/></translation>
 <translation id="5242724311594467048">Vill du aktivera <ph name="EXTENSION_NAME"/>?</translation>
 <translation id="4014432863917027322">Vill du reparera <ph name="EXTENSION_NAME"/>?</translation>
-<translation id="5173189340601754836">Ett annat program i datorn har lagt till en app som kan ändra hur Dissenter fungerar.
+<translation id="5173189340601754836">Ett annat program i datorn har lagt till en app som kan ändra hur Fulldive fungerar.
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Ett annat program i datorn har lagt till ett tillägg som kan ändra hur Dissenter fungerar.
+<translation id="6654312501894761082">Ett annat program i datorn har lagt till ett tillägg som kan ändra hur Fulldive fungerar.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Ett annat program i datorn har lagt till ett tema som kan ändra hur Dissenter fungerar.
+<translation id="3225882094369124157">Ett annat program i datorn har lagt till ett tema som kan ändra hur Fulldive fungerar.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Aktivera tillägget</translation>
@@ -867,7 +867,7 @@
 <translation id="3908501907586732282">Aktivera tillägg</translation>
 <translation id="2327492829706409234">Aktivera app</translation>
 <translation id="175772926354468439">Aktivera tema</translation>
-<translation id="5267531627648004734">Ta bort från Dissenter</translation>
+<translation id="5267531627648004734">Ta bort från Fulldive</translation>
 <translation id="4998873842614926205">Bekräfta ändringar</translation>
 <translation id="1799071797295057738">Tillägget <ph name="EXTENSION_NAME"/> har inaktiverats automatiskt.</translation>
 <translation id="5238278114306905396">Appen <ph name="EXTENSION_NAME"/> togs bort automatiskt.</translation>
@@ -1003,7 +1003,7 @@
 <translation id="1616298854599875024">Det gick inte att importera tillägget <ph name="IMPORT_NAME"/> eftersom det inte är en delad modul</translation>
 <translation id="2131077480075264">Det går inte att installera <ph name="APP_NAME"/> eftersom den inte tillåts av <ph name="IMPORT_NAME"/></translation>
 <translation id="1875387611427697908">Kan endast installeras från <ph name="CHROME_WEB_STORE"/></translation>
-<translation id="3862788408946266506">En app med manifestattributet kiosk_only måste installeras i kioskläget i Dissenter OS</translation>
+<translation id="3862788408946266506">En app med manifestattributet kiosk_only måste installeras i kioskläget i Fulldive OS</translation>
 <translation id="3834775135533257713">Det gick inte att lägga till appen <ph name="TO_INSTALL_APP_NAME"/> eftersom den inte fungerar med <ph name="INSTALLED_APP_NAME"/>.</translation>
 <translation id="144518587530125858">Det gick inte att läsa in <ph name="IMAGE_PATH"/> för temat.</translation>
 <translation id="3576324189521867626">Appen har installerats</translation>
@@ -1106,9 +1106,9 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="6101226222197207147">En ny app har lagts till (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">Ett nytt tema har lagts till (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904"><ph name="EXTENSION_NAME"/> har lagts till</translation>
-<translation id="6637045053447935202">Ett annat program i datorn har lagt till en app som kan ändra hur Dissenter fungerar.</translation>
-<translation id="2015014930243978107">Ett annat program i datorn har lagt till ett tillägg som kan ändra hur Dissenter fungerar.</translation>
-<translation id="2060128809251156338">Ett annat program i datorn har lagt till ett tema som kan ändra hur Dissenter fungerar.</translation>
+<translation id="6637045053447935202">Ett annat program i datorn har lagt till en app som kan ändra hur Fulldive fungerar.</translation>
+<translation id="2015014930243978107">Ett annat program i datorn har lagt till ett tillägg som kan ändra hur Fulldive fungerar.</translation>
+<translation id="2060128809251156338">Ett annat program i datorn har lagt till ett tema som kan ändra hur Fulldive fungerar.</translation>
 <translation id="2470702053775288986">Tillägg som inte stöds har inaktiverats</translation>
 <translation id="2809586584051668049">och ytterligare <ph name="NUMBER_ADDITIONAL_DISABLED"/></translation>
 <translation id="5301954838959518834">Ok, jag förstår</translation>
@@ -1313,7 +1313,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8017679124341497925">Genvägen har ändrats</translation>
 <translation id="1174073918202301297">Genvägen har lagts till</translation>
 <translation id="2926085873880284723">Återställ standardgenvägarna</translation>
-<translation id="5801450813341024983">Dissenter-bakgrunder</translation>
+<translation id="5801450813341024983">Fulldive-bakgrunder</translation>
 <translation id="2800760947029405028">Ladda upp en bild</translation>
 <translation id="8342861492835240085">Välj en samling</translation>
 <translation id="3132996321662585180">Uppdatera dagligen</translation>
@@ -1400,7 +1400,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="833986336429795709">Välj en app för att öppna länken</translation>
 <translation id="192494336144674234">Öppna med</translation>
 <translation id="9053893665344928494">Kom ihåg mitt val</translation>
-<translation id="5340857474604400806">Fortsätt i Dissenter</translation>
+<translation id="5340857474604400806">Fortsätt i Fulldive</translation>
 <translation id="3043581297103810752">Från <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (gäst)</translation>
@@ -1461,8 +1461,8 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="6686817083349815241">Spara lösenordet</translation>
 <translation id="8141725884565838206">Hantera dina lösenord</translation>
 <translation id="8275038454117074363">Importera</translation>
-<translation id="3191314862567596053">Importera lösenord till Dissenter</translation>
-<translation id="6368144843345980623">Exportera lösenord från Dissenter</translation>
+<translation id="3191314862567596053">Importera lösenord till Fulldive</translation>
+<translation id="6368144843345980623">Exportera lösenord från Fulldive</translation>
 <translation id="8503813439785031346">Användarnamn</translation>
 <translation id="6657585470893396449">Lösenord</translation>
 <translation id="5472627187093107397">Spara lösenord för den här webbplatsen</translation>
@@ -1493,7 +1493,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="7052237160939977163">Skicka data från resultatspårning</translation>
 <translation id="5526928694260255286">Bifoga <ph name="BEGIN_LINK"/>Bluetooth-loggar<ph name="END_LINK"/> (internt för Gab AI Inc)</translation>
 <translation id="3047644958362961983">Med den här informationen blir det lättare för oss att förstå problemet med assistenten. Informationen lagras i upp till 90 dagar och endast behöriga ingenjörs- och feedbackteam har åtkomst till den.</translation>
-<translation id="8545590844135745781">Anställda hos Gab AI Inc kan inkludera ytterligare Bluetooth-loggar i sina feedbackrapporter för att underlätta diagnosticeringen av problem med Bluetooth. När alternativet är markerat ingår HCI-loggar i btsnoop-format från den nuvarande sessionen i din rapport. Dessa loggar rensas på så mycket personligt identifierande information som möjligt. Åtkomsten till loggarna begränsas till ansvariga i produktgruppen för Dissenter OS på Listnr. Loggarna raderas permanent efter 90 dagar.</translation>
+<translation id="8545590844135745781">Anställda hos Gab AI Inc kan inkludera ytterligare Bluetooth-loggar i sina feedbackrapporter för att underlätta diagnosticeringen av problem med Bluetooth. När alternativet är markerat ingår HCI-loggar i btsnoop-format från den nuvarande sessionen i din rapport. Dessa loggar rensas på så mycket personligt identifierande information som möjligt. Åtkomsten till loggarna begränsas till ansvariga i produktgruppen för Fulldive OS på Listnr. Loggarna raderas permanent efter 90 dagar.</translation>
 <translation id="4206323443866416204">Feedbackrapport</translation>
 <translation id="3681311097828166361">Tack för din feedback. Just nu är du offline, så rapporten skickas senare.</translation>
 <translation id="8713570323158206935">Skicka <ph name="BEGIN_LINK1"/>systeminformation<ph name="END_LINK1"/></translation>
@@ -1510,15 +1510,15 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="6885771755599377173">Förhandsgranska systeminformation</translation>
 <translation id="1016566241875885511">Mer information (valfritt)</translation>
 <translation id="8026334261755873520">Rensa webbinformation</translation>
-<translation id="4718442817388594217">Den data som markerades har tagits bort från Dissenter och från synkroniserade enheter. Det kan finnas webbhistorik av annat slag i Gab AI Inc-kontot på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>, t.ex. sökningar och aktivitet på andra tjänster från Gab AI Inc.</translation>
-<translation id="7814200940910057384">Data i Dissenter har rensats</translation>
+<translation id="4718442817388594217">Den data som markerades har tagits bort från Fulldive och från synkroniserade enheter. Det kan finnas webbhistorik av annat slag i Gab AI Inc-kontot på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>, t.ex. sökningar och aktivitet på andra tjänster från Gab AI Inc.</translation>
+<translation id="7814200940910057384">Data i Fulldive har rensats</translation>
 <translation id="7346909386216857016">Ok, jag förstår</translation>
 <translation id="8493236660459102203">Mikrofon:</translation>
 <translation id="3925573269917483990">Kamera:</translation>
 <translation id="648927581764831596">Inte tillgängligt</translation>
 <translation id="4172051516777682613">Visa alltid</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Popup-fönster har blockerats}other{# popup-fönster har blockerats}}</translation>
-<translation id="4156865452842056672">(Felsidor i Dissenter)</translation>
+<translation id="4156865452842056672">(Felsidor i Fulldive)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> kanske inte kan uppdateras automatiskt</translation>
 <translation id="8590375307970699841">Konfigurera automatiska uppdateringar</translation>
 <translation id="8926389886865778422">Fråga inte igen.</translation>
@@ -1623,10 +1623,10 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8658645149275195032"><ph name="APP_NAME"/> delar skärmen och ljudet med <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> delar ett fönster.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> delar ett fönster med <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> delar en Dissenter-flik.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> delar en Dissenter-flik med <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> delar ljud och en flik från Dissenter.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> delar ljud och en flik i Dissenter med <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> delar en Fulldive-flik.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> delar en Fulldive-flik med <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> delar ljud och en flik från Fulldive.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> delar ljud och en flik i Fulldive med <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">Dölj</translation>
 <translation id="890616557918890486">Ändra källa</translation>
 <translation id="7792388396321542707">Sluta dela</translation>
@@ -1649,7 +1649,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="4711067597921221305">Hjälp till att göra <ph name="PRODUCT_NAME"/> bättre genom att automatiskt skicka användningsstatistik och felrapporter till Gab AI Inc</translation>
 <translation id="5972826969634861500">Starta <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Hjälp våra ingenjörer att undersöka och åtgärda den här kraschen. Ange de exakta stegen om du kan. Ingen detalj är för liten.</translation>
-<translation id="5418694430960033386">Antingen tog minnet slut i Dissenter eller så avslutades processen för webbsidan av någon annan anledning. Om du vill fortsätta läser du in sidan på nytt eller öppnar en annan sida.</translation>
+<translation id="5418694430960033386">Antingen tog minnet slut i Fulldive eller så avslutades processen för webbsidan av någon annan anledning. Om du vill fortsätta läser du in sidan på nytt eller öppnar en annan sida.</translation>
 <translation id="3065041951436100775">Feedback vid stängd flik.</translation>
 <translation id="3941565636838060942">Om du vill dölja programmet måste du avinstallera det med
   <ph name="CONTROL_PANEL_APPLET_NAME"/> i kontrollpanelen.
@@ -1680,7 +1680,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="177808131755847449">Tillägget har inaktiverats. Det kan vara osäkert.</translation>
 <translation id="1434696352799406980">Den här funktionen återställer startfliken, sidan Ny flik, sökmotorn och de fästa flikarna. Den inaktiverar också alla tillägg och rensar tillfälliga uppgifter som cookies. Bokmärken, historik och sparade lösenord rensas inte.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> önskar återställa dina inställningar.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> önskar återställa inställningarna för Dissenter till de ursprungliga standardinställningarna. Detta innebär att din startsida tillsammans med sidan ny flik och sökmotorn återställs liksom att tillägg inaktiveras och alla flikar lossas. Dessutom rensas alla tillfälliga och cachelagrade data, såsom cookies, innehåll och webbplatsdata</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> önskar återställa inställningarna för Fulldive till de ursprungliga standardinställningarna. Detta innebär att din startsida tillsammans med sidan ny flik och sökmotorn återställs liksom att tillägg inaktiveras och alla flikar lossas. Dessutom rensas alla tillfälliga och cachelagrade data, såsom cookies, innehåll och webbplatsdata</translation>
 <translation id="7581462281756524039">Ett rensningsverktyg</translation>
 <translation id="1233721473400465416">Språkkod</translation>
 <translation id="2907619724991574506">Webbadresser för start</translation>
@@ -1874,7 +1874,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="6664774537677393800">Något gick snett när profilen skulle öppnas. Logga ut och sedan in igen.</translation>
 <translation id="1794791083288629568">Skicka feedback som hjälper oss att åtgärda problemet.</translation>
 <translation id="8234795456569844941">Hjälp våra programutvecklare att lösa problemet genom att berätta vad som hände precis innan profilmeddelandet visades:</translation>
-<translation id="6500340165622970282">Det gick inte att starta Dissenter eftersom något gick snett när profilen skulle öppnas. Testa att starta om Dissenter.</translation>
+<translation id="6500340165622970282">Det gick inte att starta Fulldive eftersom något gick snett när profilen skulle öppnas. Testa att starta om Fulldive.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> kan inte köras av en systemadministratör.</translation>
 <translation id="2292848386125228270">Starta <ph name="PRODUCT_NAME"/> som vanlig användare. Om du behöver köra som systemadministratör startar du om med flaggan --no-sandbox.</translation>
 <translation id="7547317915858803630">Varning! Dina inställningar för <ph name="PRODUCT_NAME"/> sparas på en nätverksenhet. Det kan göra datorn långsammare eller orsaka krascher och till och med dataförlust.</translation>
@@ -2250,8 +2250,8 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="4720113199587244118">Lägg till enheter</translation>
 <translation id="2776441542064982094">Det verkar som om det inte finns några enheter att registrera i nätverket. Om enheten är på och ansluten till internet kan du prova att registrera den med anvisningarna i handboken för enheten.</translation>
 <translation id="1007408791287232274">Det gick inte att läsa in enheterna.</translation>
-<translation id="3886420006370338208">Du måste logga in i Dissenter för att kunna visa dina enheter</translation>
-<translation id="6711610692002680394">Du måste logga in i Dissenter för att kunna registrera nya enheter</translation>
+<translation id="3886420006370338208">Du måste logga in i Fulldive för att kunna visa dina enheter</translation>
+<translation id="6711610692002680394">Du måste logga in i Fulldive för att kunna registrera nya enheter</translation>
 <translation id="8931394284949551895">Nya enheter</translation>
 <translation id="3752673729237782832">Mina enheter</translation>
 <translation id="1721937473331968728">Du kan lägga till vanliga skrivare som är anslutna till datorn i <ph name="CLOUD_PRINT_NAME"/>.</translation>
@@ -2324,7 +2324,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="4540437243849625078">Denna webbplats är på väg att dela information med en app utanför privat läge.</translation>
 <translation id="1227836882233136433">Lämna privat läge?</translation>
 <translation id="662080504995468778">Stanna kvar</translation>
-<translation id="2593289874938379417">Dissenter har inte tillgång till den begärda resursen.</translation>
+<translation id="2593289874938379417">Fulldive har inte tillgång till den begärda resursen.</translation>
 <translation id="760197030861754408">Besök <ph name="LANDING_PAGE"/> om du vill ansluta.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> hittades</translation>
 <translation id="5042282098504489593">Öppna inställningarna om du vill ansluta <ph name="USB_DEVICE_NAME"/> till Linux</translation>
@@ -2379,24 +2379,24 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="2859806420264540918">Påträngande eller vilseledande annonser visas på den här webbplatsen.</translation>
 <translation id="4077917118009885966">Annonser blockeras på den här webbplatsen</translation>
 <translation id="6456955391422100996">Annonsen har tagits bort.</translation>
-<translation id="7533556202636568669">Den här annonsen använder för många resurser för enheten, så den togs bort i Dissenter.</translation>
+<translation id="7533556202636568669">Den här annonsen använder för många resurser för enheten, så den togs bort i Fulldive.</translation>
 <translation id="8497219075884839166">Fönsterverktyg</translation>
 <translation id="897525204902889653">Karantäntjänst</translation>
 <translation id="7055152154916055070">Omdirigeringen blockerades:</translation>
 <translation id="6777817260680419853">Omdirigeringen blockerades</translation>
 <translation id="694592694773692225">Omdirigering blockerad på den här sidan.</translation>
-<translation id="8945142681652245463">Surfa snabbt med Gab AI Inc Dissenter</translation>
-<translation id="2618024864038703735">Surfa säkert med Gab AI Inc Dissenter</translation>
-<translation id="8142180567942285208">Surfa smart med Dissenter</translation>
+<translation id="8945142681652245463">Surfa snabbt med Gab AI Inc Fulldive</translation>
+<translation id="2618024864038703735">Surfa säkert med Gab AI Inc Fulldive</translation>
+<translation id="8142180567942285208">Surfa smart med Fulldive</translation>
 <translation id="8862003515646449717">Byt till en snabb webbläsare</translation>
 <translation id="8438328416656800239">Byt till en smart webbläsare</translation>
 <translation id="491691592645955587">Byt till en säker webbläsare</translation>
 <translation id="683373380308365518">Byt till en smart och säker webbläsare</translation>
-<translation id="989239400026154074">Gab AI Inc rekommenderar Dissenter</translation>
-<translation id="6676231621615806698">Öppna Dissenter</translation>
+<translation id="989239400026154074">Gab AI Inc rekommenderar Fulldive</translation>
+<translation id="6676231621615806698">Öppna Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> använder din plats för att ge dig lokalt innehåll. Detta går att ändra i <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Det du laddar ned visas här</translation>
-<translation id="4782664866169793230">Dissenter kontrolleras av automatisk testprogramvara.</translation>
+<translation id="4782664866169793230">Fulldive kontrolleras av automatisk testprogramvara.</translation>
 <translation id="6721678857435001674">Visa säkerhetsnyckelns märke och modell</translation>
 <translation id="1673137583248014546"><ph name="URL"/> vill få tillgång till din säkerhetsnyckels märke och modell.</translation>
 <translation id="6010869025736512584">Får åtkomst till videoindata</translation>
@@ -2529,7 +2529,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="3984431586879874039">Vill du tillåta att webbplatsen ser din säkerhetsnyckel?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> vill få tillgång till din säkerhetsnyckels märke och modell</translation>
 <translation id="7618452966706304788">Vill du använda Touch ID med <ph name="APP_NAME"/> i privat läge?</translation>
-<translation id="3098826269712097986">Inloggningsdata kommer att lagras i Dissenter efter att du lämnar privat läge. Detta låter dig använda Touch ID på den här webbplatsen igen senare.</translation>
+<translation id="3098826269712097986">Inloggningsdata kommer att lagras i Fulldive efter att du lämnar privat läge. Detta låter dig använda Touch ID på den här webbplatsen igen senare.</translation>
 <translation id="2172784515318616985">Fortsätt</translation>
 <translation id="5186185447130319458">Privat</translation>
 <translation id="7643842463591647490">{0,plural, =1{# öppet fönster}other{# öppna fönster}}</translation>
@@ -2571,7 +2571,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="2346953515226895098">SODA-tjänst</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> har pausats</translation>
 <translation id="917350715406657904">Du har nått gränsen som din förälder har ställt in för <ph name="APP_NAME"/>. Du kan använda den i <ph name="TIME_LIMIT"/> i morgon.</translation>
-<translation id="8891261408659902804">Du har nått gränsen som din förälder har ställt in för Dissenter-appen <ph name="APP_NAME"/>. Du kan använda den i <ph name="TIME_LIMIT"/> i morgon.</translation>
+<translation id="8891261408659902804">Du har nått gränsen som din förälder har ställt in för Fulldive-appen <ph name="APP_NAME"/>. Du kan använda den i <ph name="TIME_LIMIT"/> i morgon.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> har blockerats</translation>
 <translation id="4404843640767531781"><ph name="APP_NAME"/> blockeras av en förälder. Be en förälder om behörighet att använda den här appen.</translation>
 <translation id="751523031290522286"><ph name="APP_NAME"/> blockeras av administratören. Be administratören om behörighet att använda den här appen.</translation>
@@ -2916,7 +2916,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="672213144943476270">Du måste låsa upp din profil innan du kan surfa som gäst.</translation>
 <translation id="8086119151297127544">Lås upp din profil innan du tar bort en profil.</translation>
 <translation id="7805701378418968629">Lås upp din profil innan du lägger till en profil.</translation>
-<translation id="8978225823042133615">Logga in om du vill använda Dissenter</translation>
+<translation id="8978225823042133615">Logga in om du vill använda Fulldive</translation>
 <translation id="4893336867552636863">All webbinformation raderas permanent från den här enheten.</translation>
 <translation id="2496180316473517155">Webbhistorik</translation>
 <translation id="6865313869410766144">Formuläruppgifter för Autofyll</translation>
@@ -2940,7 +2940,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="9013707997379828817">Administratören har återställt enheten. Spara viktiga filer och starta sedan om. All data på enheten raderas.</translation>
 <translation id="5877064549588274448">Kanalen har ändrats. Starta om enheten om du vill tillämpa ändringarna.</translation>
 <translation id="4716483597559580346">Gör en powerwash för ökad säkerhet</translation>
-<translation id="4089922565956168950">Med den här uppgraderingen återställs Dissenterbook och nuvarande användardata tas bort.</translation>
+<translation id="4089922565956168950">Med den här uppgraderingen återställs Fulldivebook och nuvarande användardata tas bort.</translation>
 <translation id="3688526734140524629">Byt kanal</translation>
 <translation id="6410328738210026208">Byt kanal och Powerwash</translation>
 <translation id="1979280758666859181">Du byter till en kanal med en äldre version av <ph name="PRODUCT_NAME"/>. Kanalen byts när kanalversionen matchar den version som är installerad på din enhet.</translation>
@@ -2972,7 +2972,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> och 1 till konto}other{<ph name="EMAIL"/> och <ph name="EXTRA_ACCOUNTS"/> fler konton}}</translation>
 <translation id="7434635829372401939">Synkronisera inställningar</translation>
 <translation id="1036348656032585052">Inaktivera</translation>
-<translation id="3267705913905916810">Appar och inställningar synkroniseras på alla Dissenter OS-enheter där du är inloggad på ditt Gab AI Inc-konto. Alternativ för synkronisering av webbläsaren finns i <ph name="LINK_BEGIN"/>Dissenter-inställningarna<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Appar och inställningar synkroniseras på alla Fulldive OS-enheter där du är inloggad på ditt Gab AI Inc-konto. Alternativ för synkronisering av webbläsaren finns i <ph name="LINK_BEGIN"/>Fulldive-inställningarna<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Skrivare</translation>
 <translation id="8418661265246754237">Gab AI Inc Konton</translation>
 <translation id="3953834000574892725">Mina konton</translation>
@@ -3019,7 +3019,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="2187700606737131818">Gab AI Inc Foto</translation>
 <translation id="1827738518074806965">Konstgalleri</translation>
 <translation id="9137157311132182254">Prioriterad sökmotor</translation>
-<translation id="7423118389528876103">Används i Dissenter-webbläsaren och <ph name="DEVICE_TYPE"/>-översikten</translation>
+<translation id="7423118389528876103">Används i Fulldive-webbläsaren och <ph name="DEVICE_TYPE"/>-översikten</translation>
 <translation id="2862205630718215619">Gab AI Inc Assistent</translation>
 <translation id="8959699239363253085">På</translation>
 <translation id="971479617738309149">Av</translation>
@@ -3039,15 +3039,15 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="6644513150317163574">Ogiltigt webbadressformat. Servern måste anges som ett värdnamn med SSO-autentisering.</translation>
 <translation id="6091761513005122595">Den delade resursen har monterats.</translation>
 <translation id="5770125698810550803">Visa navigeringsknapparna</translation>
-<translation id="2972318514147518075">Navigera till startsidan, tillbaka och byt appar med knappar i surfplatteläget. Gäller när DissenterVox eller Automatiska klick aktiveras.</translation>
+<translation id="2972318514147518075">Navigera till startsidan, tillbaka och byt appar med knappar i surfplatteläget. Gäller när FulldiveVox eller Automatiska klick aktiveras.</translation>
 <translation id="2558896001721082624">Visa alltid tillgänglighetsalternativ i systemmenyn</translation>
 <translation id="2981113813906970160">Visa stor muspekare</translation>
 <translation id="5072052264945641674">Ändra markörstorlek</translation>
 <translation id="4209092469652827314">Stor</translation>
 <translation id="499165176004408815">Använd högkontrastläge</translation>
 <translation id="142758023928848008">Aktivera Tröga tangenter (för att utföra kortkommandon genom att skriva in dem i följd)</translation>
-<translation id="5914872514449971753">Aktivera DissenterVox (talad feedback)</translation>
-<translation id="7099511550603534982">Öppna DissenterVox-inställningarna</translation>
+<translation id="5914872514449971753">Aktivera FulldiveVox (talad feedback)</translation>
+<translation id="7099511550603534982">Öppna FulldiveVox-inställningarna</translation>
 <translation id="8547013269961688403">Aktivera helskärmsförstorare</translation>
 <translation id="8743390665131937741">Zoomnivå för helskärmsförstorare</translation>
 <translation id="7334274148831027933">Aktivera dockad skärmförstoring</translation>
@@ -3139,7 +3139,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="6902066522699286937">Röst att förhandsgranska</translation>
 <translation id="304747341537320566">Talmotorer</translation>
 <translation id="2755367719610958252">Hantera tillgänglighetsfunktioner</translation>
-<translation id="1203953622051744249">Hantera konton där du är inloggad. Webbplatser, appar och tillägg i Dissenter och på Gab AI Inc Play kan anpassa din upplevelse utifrån dessa konton beroende på behörighet. <ph name="LINK_BEGIN"/>Läs mer<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Hantera konton där du är inloggad. Webbplatser, appar och tillägg i Fulldive och på Gab AI Inc Play kan anpassa din upplevelse utifrån dessa konton beroende på behörighet. <ph name="LINK_BEGIN"/>Läs mer<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Lägg till ett skolkonto eller hantera konton för barn här. <ph name="LINK_BEGIN"/>Läs mer<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Konton</translation>
 <translation id="6597148444736186483">Klicka på klockan på skärmen om du vill logga ut från det primära kontot. Klicka på Logga ut i menyn som visas.</translation>
@@ -3211,7 +3211,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="234889437187286781">Fel vid inläsning av data</translation>
 <translation id="4660540330091848931">Ändrar storlek</translation>
 <translation id="1481537595330271162">Det gick inte att ändra storlek på disken</translation>
-<translation id="2756917833575664962">Du måste återställa denna Dissenterbook till standardinställningarna om du vill aktivera felsökning med ADB. <ph name="BEGIN_LINK_LEARN_MORE"/>Läs mer<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">Du måste återställa denna Fulldivebook till standardinställningarna om du vill aktivera felsökning med ADB. <ph name="BEGIN_LINK_LEARN_MORE"/>Läs mer<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">Du måste starta om <ph name="DEVICE_TYPE"/> om du vill aktivera felsökning med ADB. Om du vill inaktivera funktionen måste du återställa enheten till standardinställningarna.</translation>
 <translation id="8082390128630131497">Denna <ph name="DEVICE_TYPE"/> återställs till standardinställningarna om du inaktiverar felsökning med ADB. Alla användarkonton och all lokal data rensas.</translation>
 <translation id="7932969338829957666">Delade mappar finns i <ph name="BASE_DIR"/> i Linux.</translation>
@@ -3339,10 +3339,10 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> är inte längre tillgänglig</translation>
 <translation id="3976108569178263973">Inga skrivare är tillgängliga.</translation>
 <translation id="217576141146192373">Det gick inte att lägga till en skrivare. Kontrollera skrivarens konfiguration och försök igen.</translation>
-<translation id="4052689580269971502">Det gick inte att ansluta till skrivaren. Kontrollera att skrivaren är påslagen och ansluten till Dissenterbook via Wi-Fi eller USB.</translation>
+<translation id="4052689580269971502">Det gick inte att ansluta till skrivaren. Kontrollera att skrivaren är påslagen och ansluten till Fulldivebook via Wi-Fi eller USB.</translation>
 <translation id="7099337801055912064">PPD-filen var för stor att läsa in. Storleksgränsen är 250 kB.</translation>
 <translation id="4310139701823742692">Filen har fel format. Kontrollera PPD-filen och försök igen.</translation>
-<translation id="6580983683519551561">Det gick inte att hitta PPD-filen. Kontrollera att Dissenterbook är ansluten till internet och försök igen.</translation>
+<translation id="6580983683519551561">Det gick inte att hitta PPD-filen. Kontrollera att Fulldivebook är ansluten till internet och försök igen.</translation>
 <translation id="4694024090038830733">Skrivarkonfigurationen hanteras av administratören.</translation>
 <translation id="5816434091619127343">De begärda ändringarna av skrivaren innebär att skrivaren inte kan användas.</translation>
 <translation id="6504611359718185067">Anslut till internet om du vill lägga till en skrivare</translation>
@@ -3678,18 +3678,18 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="7770651108375708429">Koppla från Wi-Fi</translation>
 <translation id="4168015872538332605">Vissa inställningar som tillhör <ph name="PRIMARY_EMAIL"/> delas med dig. Dessa inställningar påverkar bara ditt konto när du använder multiinloggning.</translation>
 <translation id="1485141095922496924">Version <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Uppdatera Dissenter automatiskt för alla användare</translation>
+<translation id="4570609078116869893">Uppdatera Fulldive automatiskt för alla användare</translation>
 <translation id="7102687220333134671">Automatiska uppdateringar har aktiverats</translation>
 <translation id="6981982820502123353">Tillgänglighet</translation>
 <translation id="5840822070878669614">Öppna Web Store</translation>
 <translation id="6073903501322152803">Lägg till tillgänglighetsfunktioner</translation>
 <translation id="7988355189918024273">Aktivera tillgänglighetsfunktioner</translation>
-<translation id="5499063270485366718">Om en bild inte har någon användbar beskrivning görs ett försök att beskriva den åt dig i Dissenter. Bilderna skickas till Gab AI Inc så att beskrivningen kan genereras.</translation>
+<translation id="5499063270485366718">Om en bild inte har någon användbar beskrivning görs ett försök att beskriva den åt dig i Fulldive. Bilderna skickas till Gab AI Inc så att beskrivningen kan genereras.</translation>
 <translation id="8957762313041272117">Live Caption</translation>
-<translation id="7075426315046750605">Med Live Caption textas tal som identifieras vid uppspelning i Dissenter automatiskt.</translation>
+<translation id="7075426315046750605">Med Live Caption textas tal som identifieras vid uppspelning i Fulldive automatiskt.</translation>
 <translation id="572155275267014074">Android-inställningar</translation>
 <translation id="7201042526153088083">Installera appar och spel från Gab AI Inc Play på <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Läs mer&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Appar som du har laddat ned från Gab AI Inc Play tas bort från Dissenterbook.
+<translation id="8039595758121742506">Appar som du har laddat ned från Gab AI Inc Play tas bort från Fulldivebook.
       <ph name="LINE_BREAKS1"/>
       Innehåll du har köpt, t.ex. filmer, TV-program, musik, böcker eller andra köp i appar, kan också tas bort.
       <ph name="LINE_BREAKS2"/>
@@ -3703,7 +3703,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="6006484371116297560">Klassiskt</translation>
 <translation id="1795214765651529549">Använd klassiskt</translation>
 <translation id="2332742915001411729">Återställ standardvärden</translation>
-<translation id="8338457030135232378">Färger i Dissenter</translation>
+<translation id="8338457030135232378">Färger i Fulldive</translation>
 <translation id="827097179112817503">Visa hemknappen</translation>
 <translation id="383007806262310953">Visa bokmärkesfältet</translation>
 <translation id="3911824782900911339">Sidan Ny flik</translation>
@@ -3715,7 +3715,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="1670399744444387456">Grunder</translation>
 <translation id="1763808908432309942">Öppnas på en ny flik</translation>
 <translation id="6248988683584659830">Sök i inställningar</translation>
-<translation id="883304095704384301">Öppna <ph name="BEGIN_LINK_CHROMIUM"/>Hjälp för Gab AI Inc Dissenter<ph name="END_LINK_CHROMIUM"/> om du inte hittar vad du letar efter.</translation>
+<translation id="883304095704384301">Öppna <ph name="BEGIN_LINK_CHROMIUM"/>Hjälp för Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/> om du inte hittar vad du letar efter.</translation>
 <translation id="6406708970972405507">Inställningar – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Knapp till undersida</translation>
 <translation id="379509625511193653">Av</translation>
@@ -3902,7 +3902,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="5468173180030470402">Söker efter filresurser</translation>
 <translation id="3336664756920573711">Lås upp <ph name="DEVICE_TYPE"/> med Android-mobilen</translation>
 <translation id="1164674268730883318">Vill du inaktivera Smart Lock för <ph name="DEVICE_TYPE"/>?</translation>
-<translation id="2739030071582769583">Om du inaktiverar Smart Lock för <ph name="DEVICE_TYPE"/> kan du inte låsa upp dina Dissenter-enheter med mobilen. Du måste ange ditt lösenord.</translation>
+<translation id="2739030071582769583">Om du inaktiverar Smart Lock för <ph name="DEVICE_TYPE"/> kan du inte låsa upp dina Fulldive-enheter med mobilen. Du måste ange ditt lösenord.</translation>
 <translation id="4737715515457435632">Anslut till ett nätverk</translation>
 <translation id="5425722269016440406">Du måste vara online för att kunna inaktivera Smart Lock eftersom den här inställningen är synkroniserad med din mobil och andra enheter. Anslut först till ett nätverk.</translation>
 <translation id="8885197664446363138">Smart Lock är inte tillgängligt</translation>
@@ -4136,20 +4136,20 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="3633309367764744750">Hämtar information i förväg från sidor, även sidor som du inte har besökt ännu. Informationen som hämtas kan innehålla cookies om du tillåter sådana.</translation>
 <translation id="3201899458094819285">Säker webbsökning (skyddar dig och enheten från skadliga webbplatser)</translation>
 <translation id="2876369937070532032">Webbadresser till vissa sidor som du besöker skickas till Gab AI Inc när din säkerhet är utsatt för risk.</translation>
-<translation id="4991384657077828949">Bidra till att göra Dissenter säkrare</translation>
+<translation id="4991384657077828949">Bidra till att göra Fulldive säkrare</translation>
 <translation id="1984646864943401749">Skickar webbadresser till vissa sidor som du besöker, vissa systemuppgifter och visst sidinnehåll till Gab AI Inc för att upptäcka och blockera nya hot och skydda alla användare på internet.</translation>
 <translation id="1641113438599504367">Säker webbsökning</translation>
 <translation id="6900532703269623216">Förbättrat skydd</translation>
 <translation id="7307583170263691471">Snabbare och förebyggande skydd mot farliga webbplatser, nedladdningar och tillägg. En varning om lösenordsläckor visas. Webbinformation måste skickas till Gab AI Inc.</translation>
 <translation id="8645920082661222035">Förutser och varnar dig om farliga händelser innan de inträffar</translation>
-<translation id="5265419033369521352">Skyddar dig i Dissenter och kan användas för förbättrad säkerhet i andra Gab AI Inc-appar där du är inloggad</translation>
+<translation id="5265419033369521352">Skyddar dig i Fulldive och kan användas för förbättrad säkerhet i andra Gab AI Inc-appar där du är inloggad</translation>
 <translation id="6770602306803890733">Förbättrar säkerheten för dig och alla andra på webben</translation>
 <translation id="3690369331356918524">En varning visas om lösenord har läckt ut vid ett dataintrång</translation>
 <translation id="4979281249641199724">Webbadresser skickas till Säker webbsökning för kontroll. Ett litet urval av sidor, nedladdning, tilläggsaktivitet och systeminformation skickas även för att upptäcka nya hot. Denna data länkas tillfälligt till Gab AI Inc-kontot när du loggar in för att skydda dig i Gab AI Incs appar.</translation>
 <translation id="1963976881984600709">Standardskydd</translation>
 <translation id="6882836635272038266">Standardskydd mot kända skadliga webbplatser, nedladdningar och tillägg.</translation>
 <translation id="5561162485081632007">Identifierar och varnar dig om farliga händelser som inträffar</translation>
-<translation id="7810992039564280750">Kontrollera webbadresser mot en lista över osäkra webbplatser i Dissenter. Om du utsätts för försök att kapa ditt lösenord på en webbplats eller om du laddar ned en skadlig fil kan webbadresserna skickas från Dissenter till Säker webbsökning tillsammans med delar av sidinnehållet.</translation>
+<translation id="7810992039564280750">Kontrollera webbadresser mot en lista över osäkra webbplatser i Fulldive. Om du utsätts för försök att kapa ditt lösenord på en webbplats eller om du laddar ned en skadlig fil kan webbadresserna skickas från Fulldive till Säker webbsökning tillsammans med delar av sidinnehållet.</translation>
 <translation id="3847319713229060696">Hjälp till att förbättra säkerheten på webben för alla</translation>
 <translation id="1984417487208496350">Inget skydd (rekommenderas inte)</translation>
 <translation id="1295971429974142731">Skyddar inte mot farliga webbplatser, nedladdningar och tillägg. Du behåller skydd med Säker webbsökning, där denna funktion är tillgänglig, i andra tjänster från Gab AI Inc, till exempel Gmail och Sök.</translation>
@@ -4205,7 +4205,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8632933437936028548">Återställ inställningarna</translation>
 <translation id="5293170712604732402">Återställ inställningarna till standardinställningarna</translation>
 <translation id="892706138619340876">Vissa inställningar återställdes</translation>
-<translation id="2334029754052191847">Dissenter har upptäckt att visa av inställningarna har skadats av ett annat program och återställer dem till standardinställningarna.</translation>
+<translation id="2334029754052191847">Fulldive har upptäckt att visa av inställningarna har skadats av ett annat program och återställer dem till standardinställningarna.</translation>
 <translation id="4582563038311694664">Återställ alla inställningar</translation>
 <translation id="4146785383423576110">Återställ och rensa</translation>
 <translation id="2603115962224169880">Rensa upp på datorn</translation>
@@ -4274,7 +4274,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="5340638867532133571">Tillåt att nya betalningshanterare installeras av webbplatser (rekommenderas)</translation>
 <translation id="763632859238619983">Tillåt inte att betalningshanterare installeras av någon webbplats</translation>
 <translation id="8270242299912238708">PDF-dokument</translation>
-<translation id="539658326146969381">Ladda ned PDF-filer i stället för att låta dem öppnas automatiskt i Dissenter</translation>
+<translation id="539658326146969381">Ladda ned PDF-filer i stället för att låta dem öppnas automatiskt i Fulldive</translation>
 <translation id="4434045419905280838">Popup-fönster och omdirigeringar</translation>
 <translation id="6612358246767739896">Skyddat innehåll</translation>
 <translation id="4252852543720145436">Identifierare för skyddat innehåll</translation>
@@ -4335,7 +4335,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="2913331724188855103">Tillåt att webbplatser sparar och läser kakdata (rekommenderas)</translation>
 <translation id="5908769186679515905">Förhindra att webbplatser kör Flash</translation>
 <translation id="783214144752121388">Blockera webbplatser från att köra Flash (rekommenderas)</translation>
-<translation id="6096007141921397775">Flash-inställningarna sparas tills du avslutar Dissenter.</translation>
+<translation id="6096007141921397775">Flash-inställningarna sparas tills du avslutar Fulldive.</translation>
 <translation id="8074127646604999664">Tillåt webbplatser som nyligen har stängts att slutföra överföringen av data</translation>
 <translation id="7062222374113411376">Tillåt webbplatser som nyligen har stängts att slutföra överföringen av data (rekommenderas)</translation>
 <translation id="5068918910148307423">Tillåt inte att webbplatser som nyligen har stängts får slutföra överföring av data som skickas och tas emot</translation>
@@ -4415,7 +4415,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="5566692924079383101">Detta undantag tas bort automatiskt när du stänger den aktuella inkognitosessionen</translation>
 <translation id="383891835335927981">Inga webbplatser har zoomats in eller ut</translation>
 <translation id="3566721612727112615">Inga webbplatser har lagts till</translation>
-<translation id="8098574385249290065">Låt Dissenter välja när webbplatser kan spela upp ljud (rekommenderas)</translation>
+<translation id="8098574385249290065">Låt Fulldive välja när webbplatser kan spela upp ljud (rekommenderas)</translation>
 <translation id="4354344420232759511">Webbplatser du besöker visas här</translation>
 <translation id="3757733214359997190">Inga webbplatser hittades</translation>
 <translation id="6545864417968258051">Bluetooth-sökning</translation>
@@ -4428,7 +4428,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Lägg till en webbplats</translation>
 <translation id="5052499409147950210">Redigera webbplats</translation>
-<translation id="4610862967073369855">Tillåter Android Messages att dirigera sms från mobilen till Dissenterbook</translation>
+<translation id="4610862967073369855">Tillåter Android Messages att dirigera sms från mobilen till Fulldivebook</translation>
 <translation id="6742339027238151589">Tillgänglig för skript</translation>
 <translation id="361106536627977100">Flash-data</translation>
 <translation id="8557930019681227453">Manifest</translation>
@@ -4440,7 +4440,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8016266267177410919">Tillfällig lagring</translation>
 <translation id="4175737294868205930">Beständig lagring</translation>
 <translation id="8397843425685839889">Du och Gab AI Inc</translation>
-<translation id="8907706281008466056">Dissenter profilbild</translation>
+<translation id="8907706281008466056">Fulldive profilbild</translation>
 <translation id="2023167225947895179">Pinkoden kan vara lätt att lista ut</translation>
 <translation id="5342091991439452114">Pinkoden måste bestå av minst <ph name="MINIMUM"/> siffror</translation>
 <translation id="5252653240322147470">Pinkoden får inte överskrida <ph name="MAXIMUM"/> siffror</translation>
@@ -4505,23 +4505,23 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="3817524650114746564">Öppna datorns proxyinställningar</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> använder proxyinställningar från ett tillägg</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> använder proxyinställningar från administratören</translation>
-<translation id="6187156085111579405">Även objekt som inte står med här tas bort om det behövs. Läs mer om &lt;a href="<ph name="URL"/>"&gt;skydd mot oönskad programvara&lt;/a&gt; i vitboken om sekretess och Dissenter.</translation>
+<translation id="6187156085111579405">Även objekt som inte står med här tas bort om det behövs. Läs mer om &lt;a href="<ph name="URL"/>"&gt;skydd mot oönskad programvara&lt;/a&gt; i vitboken om sekretess och Fulldive.</translation>
 <translation id="5280174558369304332">Tillägg som tas bort:</translation>
 <translation id="7712836429117959503">Okänt tillägg med id <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">Filer och program som sätts i karantän:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 vara}other{{NUM_ITEMS} varor}}</translation>
 <translation id="7187428571767585875">Registerposter som tas bort eller ändras:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{1 till}other{{NUM_DOWNLOADS} till}}</translation>
-<translation id="2749608811030566578">Ett fel uppstod när skadlig programvara skulle tas bort med Dissenter</translation>
-<translation id="8189483132214844139">Dissenter kan hjälpa dig att upptäcka skadlig programvara på datorn och ta bort den</translation>
+<translation id="2749608811030566578">Ett fel uppstod när skadlig programvara skulle tas bort med Fulldive</translation>
+<translation id="8189483132214844139">Fulldive kan hjälpa dig att upptäcka skadlig programvara på datorn och ta bort den</translation>
 <translation id="1426870617281699524">Klicka på Försök igen och godkänn frågan på datorn</translation>
 <translation id="7886744396008377537">Det finns skadlig programvara på datorn. Den skadliga programvaran tas bort, inställningarna återställs och tillägg inaktiveras. Därefter fungerar webbläsaren som den ska igen.</translation>
-<translation id="1484912962860902625">Ett fel uppstod vid sökningen efter skadlig programvara med Dissenter</translation>
+<translation id="1484912962860902625">Ett fel uppstod vid sökningen efter skadlig programvara med Fulldive</translation>
 <translation id="451407183922382411">Tekniken kommer från <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">Visa vilka filer som tas bort</translation>
 <translation id="296026337010986570">Klart! Skadlig programvara har tagits bort. Om du vill aktivera tilläggen på nytt besöker du &lt;a href="chrome://extensions"&gt;Tillägg&lt;/a&gt;.</translation>
 <translation id="284975061945174219">Rensningen misslyckades</translation>
-<translation id="9014750448058570312">Du måste ge Dissenter behörighet att fortsätta</translation>
+<translation id="9014750448058570312">Du måste ge Fulldive behörighet att fortsätta</translation>
 <translation id="1852141627593563189">Sök efter skadliga program</translation>
 <translation id="850875081535031620">Ingen skadlig programvara hittades</translation>
 <translation id="1186771945450942097">Ta bort skadlig programvara</translation>
@@ -4534,7 +4534,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="6555810572223193255">Rensning är inte tillgängligt för tillfället</translation>
 <translation id="7117228822971127758">Försök igen senare</translation>
 <translation id="443475966875174318">Uppdatera och ta bort inkompatibla appar</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Den här appen kan göra så att Dissenter inte fungerar korrekt.}other{De här apparna kan göra så att Dissenter inte fungerar korrekt.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Den här appen kan göra så att Fulldive inte fungerar korrekt.}other{De här apparna kan göra så att Fulldive inte fungerar korrekt.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Be administratören att ta bort den här appen så att du kan fortsätta att surfa på internet.}other{Be administratören att ta bort de här apparna så att du kan fortsätta att surfa på internet.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Läs mer om hur du uppdaterar appar<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{App}other{Appar}}</translation>
@@ -4617,13 +4617,13 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="284843628681142937">Skickar webbadresserna till sidor du besöker till Gab AI Inc</translation>
 <translation id="7704317875155739195">Autoslutför sökningar och webbadresser</translation>
 <translation id="2000419248597011803">Skickar vissa cookies och sökningar från adressfältet och sökrutan till standardsökmotorn</translation>
-<translation id="918192811481327695">Bidra till att förbättra Dissenters funktioner och prestanda</translation>
+<translation id="918192811481327695">Bidra till att förbättra Fulldives funktioner och prestanda</translation>
 <translation id="9063160602596686558">Skickar användningsstatistik och felrapporter till Gab AI Inc automatiskt</translation>
 <translation id="6697492270171225480">Visa förslag på liknande sidor om en sida inte hittas</translation>
 <translation id="4534361985432360439">Skickar webbadresserna till sidor som du försöker nå till Gab AI Inc</translation>
 <translation id="3831436149286513437">Sökförslag från Gab AI Inc Drive</translation>
 <translation id="5244474230056479698">Synkroniseras med <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Få Gab AI Inc-teknik i Dissenter</translation>
+<translation id="9125982323641182972">Få Gab AI Inc-teknik i Fulldive</translation>
 <translation id="2537178555904266562">Det gick inte att synkronisera lösenord</translation>
 <translation id="4314815835985389558">Hantera synkronisering</translation>
 <translation id="8931475688782629595">Hantera det du vill synkronisera</translation>
@@ -4641,7 +4641,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="1651008383952180276">Du måste ange samma lösenfras två gånger</translation>
 <translation id="988978206646512040">Lösenfrasen får inte vara tom</translation>
 <translation id="2136476978468204130">Den angivna lösenfrasen är felaktig</translation>
-<translation id="7505421639213002314">Data från Dissenter sync</translation>
+<translation id="7505421639213002314">Data från Fulldive sync</translation>
 <translation id="452750746583162491">Granska din synkroniserade data</translation>
 <translation id="7956662517480676674">Synk och Gab AI Incs tjänster</translation>
 <translation id="7772032839648071052">Bekräfta lösenfras</translation>
@@ -4740,7 +4740,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="1992397118740194946">Inte angett</translation>
 <translation id="6706210727756204531">Omfattning</translation>
 <translation id="5532223876348815659">Globalt</translation>
-<translation id="300669147395456190">Dissenter-appar</translation>
+<translation id="300669147395456190">Fulldive-appar</translation>
 <translation id="6787839852456839824">Kortkommandon</translation>
 <translation id="6419546358665792306">Läser in okomprimerat tillägg</translation>
 <translation id="8023801379949507775">Uppdatera tillägg nu</translation>
@@ -4754,13 +4754,13 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8447409163267621480">Ctrl- eller alt-tangenten måste finnas med</translation>
 <translation id="3365598184818502391">Använd Ctrl eller Alt</translation>
 <translation id="1688935057616748272">Skriv en bokstav</translation>
-<translation id="1579879232130925590">Håll Dissenter i trim</translation>
+<translation id="1579879232130925590">Håll Fulldive i trim</translation>
 <translation id="964057662886721376">Vissa tillägg kan göra webbläsaren långsammare – i synnerhet sådana tillägg som du inte själv har valt att installera.</translation>
 <translation id="1499271269825557605">Om du inte känner igen ett tillägg eller om webbläsaren inte fungerar som den ska kan du stänga av eller anpassa tillägg här.</translation>
 <translation id="2382818385048255866">Kontrollera dina tillägg</translation>
 <translation id="3900789207771372462">Din webbaktivitet är synlig för vissa tillägg. Det gäller även personliga uppgifter.</translation>
 <translation id="6772339735733515807">Hantera tillägg</translation>
-<translation id="1510515462062582289">På den här sidan visas alla tillägg som har installerats i Dissenter.</translation>
+<translation id="1510515462062582289">På den här sidan visas alla tillägg som har installerats i Fulldive.</translation>
 <translation id="2810390687497823527">Om du inte känner igen ett tillägg eller om webbläsaren inte fungerar som den ska kan du stänga av eller anpassa tillägg här.</translation>
 <translation id="4479424953165245642">Hantera kioskappar</translation>
 <translation id="6619801788773578757">Lägg till en kioskapp</translation>
@@ -4776,7 +4776,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="2342740338116612727">Bokmärkena har lagts till</translation>
 <translation id="7835178595033117206">Bokmärket har tagits bort</translation>
 <translation id="742130257665691897">Bokmärkena har tagits bort</translation>
-<translation id="5468853758063275923">Dissenter är din standardwebbläsare</translation>
+<translation id="5468853758063275923">Fulldive är din standardwebbläsare</translation>
 <translation id="2950533317914339731">Lägg till bokmärken i appar från Gab AI Inc</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4791,13 +4791,13 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="5033266061063942743">Geometriska former</translation>
 <translation id="7789963078219276159">Startsidans bakgrundsbild har ändrats till <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Startsidans bakgrund har återställts till standardbakgrunden.</translation>
-<translation id="239760341987199724">Använd Dissenter som standardwebbläsare</translation>
+<translation id="239760341987199724">Använd Fulldive som standardwebbläsare</translation>
 <translation id="96037229054033864">Få Gab AI Inc Sök och Gab AI Inc-teknik varje gång du surfar</translation>
-<translation id="296137235951584143">Anpassa Dissenter</translation>
+<translation id="296137235951584143">Anpassa Fulldive</translation>
 <translation id="3982375475032951137">Konfigurera webbläsaren med några enkla steg</translation>
 <translation id="6972754398087986839">Komma igång</translation>
-<translation id="3707821975049107110">Använder du redan Dissenter? Logga in</translation>
-<translation id="7113572760575285642">Dissenter på ditt sätt, var du än är</translation>
+<translation id="3707821975049107110">Använder du redan Fulldive? Logga in</translation>
+<translation id="7113572760575285642">Fulldive på ditt sätt, var du än är</translation>
 <translation id="567643736130151854">Logga in och aktivera synkronisering om du vill få dina bokmärken, lösenord och annat på alla dina enheter</translation>
 <translation id="725758059478686223">Utskriftstjänst</translation>
 <translation id="15662109988763471">Den valda skrivaren är inte tillgänglig eller har inte installerats korrekt. Kontrollera skrivaren eller välj en annan.</translation>
@@ -4920,7 +4920,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="7574650250151586813">Uppdatera appen Daydream Keyboard om du vill kunna använda tangentbordet</translation>
 <translation id="983511809958454316">Den här funktionen stöds inte i VR-läget</translation>
 <translation id="4008291085758151621">Information om webbplatsen är inte tillgänglig i VR-läget</translation>
-<translation id="1439926347196400598">Tillåter du ljudinspelning i Dissenter?</translation>
+<translation id="1439926347196400598">Tillåter du ljudinspelning i Fulldive?</translation>
 <translation id="6313641880021325787">AVSLUTA VR-LÄGET</translation>
 <translation id="2670429602441959756">Den här sidan har funktioner som inte stöds i VR ännu. VR-läget avslutas …</translation>
 <translation id="1802687198411089702">Sidan svarar inte. Vänta tills den svarar eller avbryt.</translation>
@@ -4942,7 +4942,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="1721312023322545264">Du behöver tillstånd från <ph name="NAME"/> om du vill besöka den här webbplatsen</translation>
 <translation id="7543525346216957623">Fråga en förälder</translation>
 <translation id="471880041731876836">Du har inte behörighet att besöka den här webbplatsen.</translation>
-<translation id="3480834636742786788">Logga in på Dissenter innan du använder den här appen.</translation>
+<translation id="3480834636742786788">Logga in på Fulldive innan du använder den här appen.</translation>
 <translation id="2851634818064021665">Du behöver tillstånd att besöka den här webbplatsen</translation>
 <translation id="4933782374919065856">Frågor? Kontakta den som kontrollerar profilen.</translation>
 <translation id="2712173769900027643">Begär behörighet</translation>
@@ -4962,7 +4962,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="7755287808199759310">En förälder kan ta bort blockeringen</translation>
 <translation id="5732392974455271431">Dina föräldrar kan ta bort blockeringen</translation>
 <translation id="3556433843310711081">En ansvarig kan ta bort blockeringen</translation>
-<translation id="1254756632288991504">Logga in på Dissenter så att Dissenter kan kontrollera om du har tillgång till den här webbplatsen.</translation>
+<translation id="1254756632288991504">Logga in på Fulldive så att Fulldive kan kontrollera om du har tillgång till den här webbplatsen.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> har pausats</translation>
 <translation id="8015163965024115122">Du har nått den gräns som din förälder har angett för <ph name="IDS_SHORT_PRODUCT_NAME"/> eller <ph name="IDS_SHORT_PRODUCT_NAME"/>.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> har pausats</translation>

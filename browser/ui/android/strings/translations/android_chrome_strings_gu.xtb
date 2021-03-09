@@ -22,7 +22,7 @@
 <translation id="5342314432463739672">પરવાનગીની વિનંતી કરી</translation>
 <translation id="3749259744154402564">અનસપોર્ટેડ</translation>
 <translation id="629730747756840877">એકાઉન્ટ</translation>
-<translation id="82609232232243542">Dissenter માં સાઇન ઇન કરો</translation>
+<translation id="82609232232243542">Fulldive માં સાઇન ઇન કરો</translation>
 <translation id="7956662517480676674">સિંક અને Gab AI Inc સેવાઓ</translation>
 <translation id="5294439808117722387">તમે હાલમાં તમારા સિંક અને Gab AI Inc સેવા સેટિંગને કસ્ટમાઇઝ કરી રહ્યાં છો. સિંક ચાલુ કરવાનું પૂર્ણ કરવા માટે, સ્ક્રીનની નીચેની બાજુએ કન્ફર્મ કરો બટન પર ટૅપ કરો. ઉપર નૅવિગેટ કરો</translation>
 <translation id="2096012225669085171">સમગ્ર ઉપકરણો પર સિંક કરો અને વ્યક્તિગત બનાવો</translation>
@@ -34,7 +34,7 @@
 <translation id="6303969859164067831">સાઇન આઉટ કરો અને સિંક બંધ કરો</translation>
 <translation id="1125261911132334651">તમારું Gab AI Inc એકાઉન્ટ મેનેજ કરો</translation>
 <translation id="6406506848690869874">સમન્વયન</translation>
-<translation id="714362445477979774">તમારા Dissenterના ડેટાને સિંક કરો</translation>
+<translation id="714362445477979774">તમારા Fulldiveના ડેટાને સિંક કરો</translation>
 <translation id="4314815835985389558">સિંક મેનેજ કરો</translation>
 <translation id="5428209950370661546">અન્ય Gab AI Inc સેવાઓ</translation>
 <translation id="7704317875155739195">શોધ અને URLsને આપમેળે પૂર્ણ કરો</translation>
@@ -46,7 +46,7 @@
 <translation id="8438566539970814960">શોધ અને બ્રાઉઝિંગ વધુ સારું બનાવો</translation>
 <translation id="284843628681142937">તમે મુલાકાત લો તે પેજના URLs Gab AI Incને મોકલે છે</translation>
 <translation id="7222718784508482526">ગોપનીયતા, સુરક્ષા, અને ડેટા સંગ્રહથી સંબંધિત વધુ સેટિંગ માટે, <ph name="BEGIN_LINK"/>સિંક અને Gab AI Inc સેવાઓ<ph name="END_LINK"/> જુઓ</translation>
-<translation id="918192811481327695">Dissenterની સુવિધાઓ અને પ્રદર્શનને સુધારવામાં સહાય કરો</translation>
+<translation id="918192811481327695">Fulldiveની સુવિધાઓ અને પ્રદર્શનને સુધારવામાં સહાય કરો</translation>
 <translation id="9063160602596686558">Gab AI Incને વપરાશના આંકડા અને ક્રૅશ રિપોર્ટ ઑટોમૅટિક રીતે મોકલે છે</translation>
 <translation id="4824958205181053313">સિંક કરવાનું રદ કરીએ?</translation>
 <translation id="3058498974290601450">તમે કોઈ પણ સમયે સેટિંગમાં 'સિંક કરો' ચાલુ કરી શકો છો</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">કાર્ડ નંબર</translation>
 <translation id="869891660844655955">સમાપ્તિ તારીખ</translation>
 <translation id="2286841657746966508">બિલિંગ સરનામું</translation>
-<translation id="663059986967017181">Dissenter માં કોપી કરાયું</translation>
+<translation id="663059986967017181">Fulldive માં કોપી કરાયું</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 અને વધુ <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}one{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 અને વધુ <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 અને વધુ <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 અને વધુ <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}one{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 અને વધુ <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 અને વધુ <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 અને વધુ <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}one{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 અને વધુ <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 અને વધુ <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}}</translation>
@@ -112,7 +112,7 @@
 <translation id="6154478581116148741">આ ઉપકરણ પરથી તમારા બધા પાસવર્ડને નિકાસ કરવા માટે સેટિંગમાંથી સ્ક્રીન લૉક ચાલુ કરો</translation>
 <translation id="4842092870884894799">પાસવર્ડ જનરેશન પોપઅપ દર્શાવે છે</translation>
 <translation id="2259659629660284697">બધા પાસવર્ડની નિકાસ કરો…</translation>
-<translation id="133012818630824069">Dissenterમાં સંગ્રહિત કરેલા પાસવર્ડની નિકાસ કરો</translation>
+<translation id="133012818630824069">Fulldiveમાં સંગ્રહિત કરેલા પાસવર્ડની નિકાસ કરો</translation>
 <translation id="6914783257214138813">જે કોઈપણ તમારી નિકાસ કરેલ પાસવર્ડની ફાઇલને જોઈ શકશે, તેમને તમારા પાસવર્ડ પણ દૃશ્યક્ષમ થશે.</translation>
 <translation id="2321086116217818302">પાસવર્ડ તૈયાર કરી રહ્યાં છીએ…</translation>
 <translation id="8445448999790540984">બધા પાસવર્ડ નિકાસ કરી શકાતાં નથી</translation>
@@ -123,11 +123,11 @@
 <translation id="6891726759199484455">તમારો પાસવર્ડ કૉપિ કરવા માટે અનલૉક કરો</translation>
 <translation id="5515439363601853141">તમારો પાસવર્ડ જોવા માટે અનલૉક કરો</translation>
 <translation id="6221633008163990886">તમારા બધા પાસવર્ડને નિકાસ કરવા માટે અનલૉક કરો</translation>
-<translation id="230699814587342492">Dissenter પાસવર્ડ</translation>
+<translation id="230699814587342492">Fulldive પાસવર્ડ</translation>
 <translation id="1925021887439448749">કસ્ટમ વેબ ઍડ્રેસ દાખલ કરો</translation>
 <translation id="8127542551745560481">હોમપેજમાં ફેરફાર કરો</translation>
 <translation id="854522910157234410">આ પૃષ્ઠ ખોલો</translation>
-<translation id="5063487983358782016">Dissenterનું હોમપેજ</translation>
+<translation id="5063487983358782016">Fulldiveનું હોમપેજ</translation>
 <translation id="2482878487686419369">સૂચનાઓ</translation>
 <translation id="6255999984061454636">કન્ટેન્ટ માટેના સૂચનો</translation>
 <translation id="805047784848435650">તમારા બ્રાઉઝિંગ ઇતિહાસના આધારે</translation>
@@ -139,8 +139,8 @@
 <translation id="2760989362628427051">જ્યારે તમારા ડિવાઇસની ઘેરી થીમ અથવા બૅટરી સેવર ચાલુ હોય ત્યારે ઘેરી થીમ ચાલુ કરો</translation>
 <translation id="6381421346744604172">ડાર્કન વેબસાઇટ</translation>
 <translation id="5040262127954254034">ગોપનીયતા</translation>
-<translation id="4991384657077828949">Dissenter સુરક્ષાને વધુ સારી બનાવવામાં સહાય કરો</translation>
-<translation id="1943176487615318915">જોખમી ઍપ અને સાઇટ શોધી કાઢવા માટે, Dissenter તમે મુલાકાત લો તે કેટલાક પેજના URLs, સિસ્ટમ વિશેની સીમિત માહિતી અને પેજનું કેટલુંક કન્ટેન્ટ Gab AI Incને મોકલે છે</translation>
+<translation id="4991384657077828949">Fulldive સુરક્ષાને વધુ સારી બનાવવામાં સહાય કરો</translation>
+<translation id="1943176487615318915">જોખમી ઍપ અને સાઇટ શોધી કાઢવા માટે, Fulldive તમે મુલાકાત લો તે કેટલાક પેજના URLs, સિસ્ટમ વિશેની સીમિત માહિતી અને પેજનું કેટલુંક કન્ટેન્ટ Gab AI Incને મોકલે છે</translation>
 <translation id="3201899458094819285">Safe Browsing (તમારું અને તમારા ડિવાઇસનું જોખમી સાઇટથી રક્ષણ કરે છે)</translation>
 <translation id="2876369937070532032">તમારી સુરક્ષા જોખમમાં હોય ત્યારે, તમે મુલાકાત લેતા હો તે કેટલાક પેજના URLs Gab AI Incને મોકલે છે</translation>
 <translation id="3738139272394829648">શોધવા માટે ટચ કરો</translation>
@@ -160,8 +160,8 @@
 <translation id="7359002509206457351">ચુકવણી પદ્ધતિઓને ઍક્સેસ કરો</translation>
 <translation id="8026334261755873520">બ્રાઉઝિંગ ડેટા સાફ કરો</translation>
 <translation id="1291207594882862231">ઇતિહાસ, કુકી, સાઇટ ડેટા, કૅશ સાફ કરો…</translation>
-<translation id="7814200940910057384">Dissenter ડેટા સાફ કર્યો</translation>
-<translation id="1664855196866195614">પસંદ કરેલો ડેટા Dissenter અને તમારા સિંક કરેલ ડિવાઇસમાંથી ડિલીટ કરવામાં આવ્યો છે.
+<translation id="7814200940910057384">Fulldive ડેટા સાફ કર્યો</translation>
+<translation id="1664855196866195614">પસંદ કરેલો ડેટા Fulldive અને તમારા સિંક કરેલ ડિવાઇસમાંથી ડિલીટ કરવામાં આવ્યો છે.
 
 તમારા Gab AI Inc એકાઉન્ટમાં બ્રાઉઝિંગ ઇતિહાસના બીજા સ્વરૂપો જેમ કે શોધ અને બીજા Gab AI Inc સેવાઓ પરની પ્રવૃત્તિઓ <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> પર હોય શકે છે.</translation>
 <translation id="4699172675775169585">કેશ કરેલ છબીઓ અને ફાઇલો</translation>
@@ -311,12 +311,12 @@
 <translation id="8156139159503939589">તમે કઈ ભાષાઓ વાંચી શકો છો?</translation>
 <translation id="5689516760719285838">સ્થાન</translation>
 <translation id="2440823041667407902">સ્થાન ઍક્સેસ</translation>
-<translation id="2023546461831060654"><ph name="BEGIN_LINK"/>Android સેટિંગ્સ<ph name="END_LINK"/>માં Dissenter માટે પરવાનગીઓ ચાલુ કરો.</translation>
-<translation id="6665548517310046133"><ph name="BEGIN_LINK"/>Android સેટિંગ્સ<ph name="END_LINK"/>માં Dissenter માટે પરવાનગી ચાલુ કરો.</translation>
-<translation id="2928908108430545745">Dissenter તમારું સ્થાન ઍક્સેસ કરી શકે તે માટે <ph name="BEGIN_LINK"/>Android સેટિંગ<ph name="END_LINK"/>માં પણ સ્થાન ચાલુ કરો.</translation>
-<translation id="1028853271388022585">Dissenter તમારો કૅમેરા ઍક્સેસ કરી શકે તે માટે <ph name="BEGIN_LINK"/>Android સેટિંગ<ph name="END_LINK"/>માં પણ કૅમેરા ચાલુ કરો.</translation>
-<translation id="2913721282607281710">Dissenter તમને નોટિફિકેશન મોકલી શકે તે માટે <ph name="BEGIN_LINK"/>Android સેટિંગ<ph name="END_LINK"/>માં પણ નોટિફિકેશન ચાલુ કરો.</translation>
-<translation id="8753483718490035722">Dissenter તમારું માઇક્રોફોન ઍક્સેસ કરી શકે તે માટે <ph name="BEGIN_LINK"/>Android સેટિંગ<ph name="END_LINK"/>માં પણ માઇક્રોફોન ચાલુ કરો.</translation>
+<translation id="2023546461831060654"><ph name="BEGIN_LINK"/>Android સેટિંગ્સ<ph name="END_LINK"/>માં Fulldive માટે પરવાનગીઓ ચાલુ કરો.</translation>
+<translation id="6665548517310046133"><ph name="BEGIN_LINK"/>Android સેટિંગ્સ<ph name="END_LINK"/>માં Fulldive માટે પરવાનગી ચાલુ કરો.</translation>
+<translation id="2928908108430545745">Fulldive તમારું સ્થાન ઍક્સેસ કરી શકે તે માટે <ph name="BEGIN_LINK"/>Android સેટિંગ<ph name="END_LINK"/>માં પણ સ્થાન ચાલુ કરો.</translation>
+<translation id="1028853271388022585">Fulldive તમારો કૅમેરા ઍક્સેસ કરી શકે તે માટે <ph name="BEGIN_LINK"/>Android સેટિંગ<ph name="END_LINK"/>માં પણ કૅમેરા ચાલુ કરો.</translation>
+<translation id="2913721282607281710">Fulldive તમને નોટિફિકેશન મોકલી શકે તે માટે <ph name="BEGIN_LINK"/>Android સેટિંગ<ph name="END_LINK"/>માં પણ નોટિફિકેશન ચાલુ કરો.</translation>
+<translation id="8753483718490035722">Fulldive તમારું માઇક્રોફોન ઍક્સેસ કરી શકે તે માટે <ph name="BEGIN_LINK"/>Android સેટિંગ<ph name="END_LINK"/>માં પણ માઇક્રોફોન ચાલુ કરો.</translation>
 <translation id="1887786770086287077">આ ઉપકરણ માટે સ્થાન ઍક્સેસ બંધ છે. તેને <ph name="BEGIN_LINK"/>Android સેટિંગ<ph name="END_LINK"/>માં ચાલુ કરો.</translation>
 <translation id="2570922361219980984">આ ઉપકરણ માટે સ્થાન ઍક્સેસ પણ બંધ છે. તેને <ph name="BEGIN_LINK"/>Android સેટિંગ<ph name="END_LINK"/>માં ચાલુ કરો.</translation>
 <translation id="1620510694547887537">કૅમેરો</translation>
@@ -334,8 +334,8 @@
 <translation id="7821588508402923572">તમારી ડેટા બચત અહીં દેખાશે</translation>
 <translation id="2131665479022868825"><ph name="DATA"/> સાચવ્યો</translation>
 <translation id="8569404424186215731"><ph name="DATE"/> થી</translation>
-<translation id="3252158532344029638">લાઇટ મોડમાં, Dissenter પેજને વધુ ઝડપથી લોડ કરે છે અને તે 60 ટકા ઓછા ડેટાનો ઉપયોગ કરે છે.</translation>
-<translation id="1438581767753657407">જ્યારે Lite મોડ ચાલુ હોય ત્યારે, પૃષ્ઠોને વધુ ઝડપથી લોડ કરવા માટે Dissenter Dissenter સર્વરોનો ઉપયોગ કરે છે. Lite મોડ ફક્ત આવશ્યક સામગ્રીને લોડ કરવા માટે ખૂબ ધીમું પૃષ્ઠો ફરીથી લખે છે. Lite મોડ ખાનગી ટૅબ્સ પર લાગુ પડતું નથી.</translation>
+<translation id="3252158532344029638">લાઇટ મોડમાં, Fulldive પેજને વધુ ઝડપથી લોડ કરે છે અને તે 60 ટકા ઓછા ડેટાનો ઉપયોગ કરે છે.</translation>
+<translation id="1438581767753657407">જ્યારે Lite મોડ ચાલુ હોય ત્યારે, પૃષ્ઠોને વધુ ઝડપથી લોડ કરવા માટે Fulldive Fulldive સર્વરોનો ઉપયોગ કરે છે. Lite મોડ ફક્ત આવશ્યક સામગ્રીને લોડ કરવા માટે ખૂબ ધીમું પૃષ્ઠો ફરીથી લખે છે. Lite મોડ ખાનગી ટૅબ્સ પર લાગુ પડતું નથી.</translation>
 <translation id="6159335304067198720"><ph name="PERCENT"/> ડેટા બચત</translation>
 <translation id="7494974237137038751">ડેટા બચત</translation>
 <translation id="6111020039983847643">ડેટા વપરાશ</translation>
@@ -358,15 +358,15 @@
 <translation id="3658159451045945436">રીસેટ કરવાથી મુલાકાત લીધેલી સાઇટની સૂચિ સહિત તમારા ડેટા બચતના ઇતિહાસને કાઢી નાખે છે.</translation>
 <translation id="5939518447894949180">રીસેટ કરો</translation>
 <translation id="3295530008794733555">વધુ ઝડપથી બ્રાઉઝ કરો. ઓછા ડેટાનો ઉપયોગ કરો.</translation>
-<translation id="7340390500800578919">લાઇટ મોડમાં, Dissenter પેજને વધુ ઝડપથી લોડ કરે છે અને તે 60 ટકા ઓછા ડેટાનો વપરાશ કરે છે. તમે જે પેજની મુલાકાત લેતા હો તેને ઑપ્ટિમાઇઝ કરવા માટે, Dissenter તમારો વેબ ટ્રાફિક Gab AI Incને મોકલે છે. <ph name="BEGIN_LINK"/>વધુ જાણો<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">લાઇટ મોડમાં, Fulldive પેજને વધુ ઝડપથી લોડ કરે છે અને તે 60 ટકા ઓછા ડેટાનો વપરાશ કરે છે. તમે જે પેજની મુલાકાત લેતા હો તેને ઑપ્ટિમાઇઝ કરવા માટે, Fulldive તમારો વેબ ટ્રાફિક Gab AI Incને મોકલે છે. <ph name="BEGIN_LINK"/>વધુ જાણો<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">લાઇટ મોડ ચાલુ કરો</translation>
 <translation id="4493497663118223949">લાઇટ મોડ ચાલુ છે</translation>
 <translation id="7559975015014302720">લાઇટ મોડ બંધ છે</translation>
 <translation id="7606077192958116810">લાઇટ મોડ ચાલુ છે. તેને સેટિંગમાં મેનેજ કરો.</translation>
 <translation id="4714588616299687897">તમારો 60% જેટલો ડેટા બચાવો</translation>
 <translation id="1006927014032731288">Gab AI Inc સર્વર, તમે મુલાકાત લો છો તે પેજને ઑપ્ટિમાઇઝ કરશે.</translation>
-<translation id="3257320067425202300">Dissenter એ તમારો <ph name="MEGABYTES"/> MB ડેટા બચાવ્યો</translation>
-<translation id="5813223329348543512">Dissenter એ તમારો <ph name="GIGABYTES"/> GB બચાવ્યો</translation>
+<translation id="3257320067425202300">Fulldive એ તમારો <ph name="MEGABYTES"/> MB ડેટા બચાવ્યો</translation>
+<translation id="5813223329348543512">Fulldive એ તમારો <ph name="GIGABYTES"/> GB બચાવ્યો</translation>
 <translation id="8266862848225348053">સ્થાન ડાઉનલોડ કરો</translation>
 <translation id="7077143737582773186">SD કાર્ડ</translation>
 <translation id="7762668264895820836">SD કાર્ડ <ph name="SD_CARD_NUMBER"/></translation>
@@ -392,15 +392,15 @@
 <translation id="7290209999329137901">નામ બદલવું ઉપલબ્ધ નથી</translation>
 <translation id="3334729583274622784">ફાઇલનું એક્સ્ટેંશન બદલવું છે?</translation>
 <translation id="107147699690128016">જો તમે ફાઇલનું એક્સ્ટેંશન બદલશો, તો તે કોઈ અલગ ઍપ્લિકેશનમાં ખુલી શકે છે અને તમારા ડિવાઇસ માટે નુકસાનકારક હોવાનું સંભવિત હોય શકે.</translation>
-<translation id="8541922081612557424">Dissenter વિશે</translation>
+<translation id="8541922081612557424">Fulldive વિશે</translation>
 <translation id="5311273890481188673">કૉપિરાઇટ <ph name="YEAR"/> Gab AI Inc LLC. સર્વાધિકાર સુરક્ષિત.</translation>
 <translation id="1416550906796893042">ઍપ્લિકેશન વર્ઝન</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (અપડેટ કર્યું <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">ઓપરેટિંગ સિસ્ટમ</translation>
-<translation id="3968054912784331254">Androidના આ વર્ઝન માટે Dissenter અપડેટ હવે સમર્થિત નથી</translation>
+<translation id="3968054912784331254">Androidના આ વર્ઝન માટે Fulldive અપડેટ હવે સમર્થિત નથી</translation>
 <translation id="7665369617277396874">એકાઉન્ટ ઉમેરો</translation>
 <translation id="649070405679044769">Gab AI Inc પર આ તરીકે સાઇન ઇન કરો</translation>
-<translation id="6234515504547364178">Dissenterમાંથી સાઇન આઉટ કરો</translation>
+<translation id="6234515504547364178">Fulldiveમાંથી સાઇન આઉટ કરો</translation>
 <translation id="5324858694974489420">પેરેંટલ સેટિંગ્સ</translation>
 <translation id="8920114477895755567">માતાપિતાની વિગતોની રાહ જોઈ રહ્યાં છે.</translation>
 <translation id="5512137114520586844">આ એકાઉન્ટ <ph name="PARENT_NAME"/> દ્વારા મેનેજ થાય છે.</translation>
@@ -409,7 +409,7 @@
 <translation id="5403644198645076998">ફક્ત અમુક સાઇટની મંજૂરી આપો</translation>
 <translation id="8641930654639604085">વયસ્ક સાઇટને અવરોધિત કરવાનો પ્રયાસ કરો</translation>
 <translation id="5639724618331995626">તમામ સાઇટની મંજૂરી આપો</translation>
-<translation id="796823723482603597">Dissenter દ્વારા સંચાલિત</translation>
+<translation id="796823723482603597">Fulldive દ્વારા સંચાલિત</translation>
 <translation id="6324034347079777476">Android સિસ્ટમ સમન્વયન અક્ષમ છે</translation>
 <translation id="5127805178023152808">સમન્વયન બંધ છે</translation>
 <translation id="7015203776128479407">આરંભિક સિંક સેટઅપ પૂરું થયું નથી. સિંક કરવાનું બંધ છે.</translation>
@@ -418,26 +418,26 @@
 <translation id="6108923351542677676">સેટઅપની પ્રક્રિયા ચાલુ છે...</translation>
 <translation id="4062305924942672200">કાનુની માહિતી</translation>
 <translation id="4256782883801055595">ઓપન સોર્સ લાઇસન્સ</translation>
-<translation id="1138681184697033370">Dissenter સેવાની શરતો</translation>
-<translation id="2368444735104192323">Dissenter અને Dissenter OSની વધારાની સેવાની શરતો</translation>
-<translation id="7392539049993970338">Dissenter ગોપનીયતા સૂચના</translation>
+<translation id="1138681184697033370">Fulldive સેવાની શરતો</translation>
+<translation id="2368444735104192323">Fulldive અને Fulldive OSની વધારાની સેવાની શરતો</translation>
+<translation id="7392539049993970338">Fulldive ગોપનીયતા સૂચના</translation>
 <translation id="2968755619301702150">પ્રમાણપત્ર દર્શક</translation>
 <translation id="1360432990279830238">સાઇન આઉટ કરી સિંકનો વિકલ્પ બંધ કરવો છે?</translation>
-<translation id="8581481290581777242">આ ડિવાઇસમાંથી તમારા Dissenter ડેટાને સાફ કરીએ?</translation>
-<translation id="1318865768845061710">તમારો બુકમાર્ક, ઇતિહાસ, પાસવર્ડ અને અન્ય Dissenter ડેટા હવેથી તમારા Gab AI Inc એકાઉન્ટ પર સિંક થશે નહીં</translation>
-<translation id="3325020657155065477">આ ડિવાઇસમાંથી તમારો Dissenter ડેટા પણ સાફ કરો</translation>
-<translation id="6136448902816743006"><ph name="DOMAIN_NAME"/> દ્વારા મેનેજ કરવામાં આવતા એકાઉન્ટમાંથી તમે સાઇન આઉટ કરી રહ્યાં હોવાને કારણે આ ડિવાઇસમાંથી તમારો Dissenter ડેટા ડિલીટ કરવામાં આવશે. તે તમારા Gab AI Inc એકાઉન્ટમાં રહેશે.</translation>
+<translation id="8581481290581777242">આ ડિવાઇસમાંથી તમારા Fulldive ડેટાને સાફ કરીએ?</translation>
+<translation id="1318865768845061710">તમારો બુકમાર્ક, ઇતિહાસ, પાસવર્ડ અને અન્ય Fulldive ડેટા હવેથી તમારા Gab AI Inc એકાઉન્ટ પર સિંક થશે નહીં</translation>
+<translation id="3325020657155065477">આ ડિવાઇસમાંથી તમારો Fulldive ડેટા પણ સાફ કરો</translation>
+<translation id="6136448902816743006"><ph name="DOMAIN_NAME"/> દ્વારા મેનેજ કરવામાં આવતા એકાઉન્ટમાંથી તમે સાઇન આઉટ કરી રહ્યાં હોવાને કારણે આ ડિવાઇસમાંથી તમારો Fulldive ડેટા ડિલીટ કરવામાં આવશે. તે તમારા Gab AI Inc એકાઉન્ટમાં રહેશે.</translation>
 <translation id="1853026300647876496">Gab AI Incનો સંપર્ક કરી રહ્યાં છીએ. આમાં એક મિનિટ લાગી શકે છે…</translation>
 <translation id="2328985652426384049">સાઇન ઇન કરી શકાતું નથી</translation>
 <translation id="7723158744459952869">પ્રતિભાવ આપવા માટે Gab AI Incએ ઘણો સમય લીધો</translation>
 <translation id="4572422548854449519">મેનેજ એકાઉન્ટમાં સાઇન ઇન કરો</translation>
-<translation id="2689656545739939160">તમે <ph name="MANAGED_DOMAIN"/> દ્વારા મેનેજ એકાઉન્ટમાં સાઇન ઇન કરી રહ્યાં છો અને તમારા Dissenter ડેટા પર એનું એડમિન નિયંત્રણ આપી રહ્યાં છો. તમારો ડેટા આ એકાઉન્ટ સાથે કાયમીરૂપે જોડાયેલું રહેશે. Dissenterમાંથી સાઇન આઉટ કરવું આ ડિવાઇસ પરથી તમારો ડેટા ડિલીટ કરશે, પરંતુ એ તમારા Gab AI Inc એકાઉન્ટમાં સ્ટોર રહેશે.</translation>
+<translation id="2689656545739939160">તમે <ph name="MANAGED_DOMAIN"/> દ્વારા મેનેજ એકાઉન્ટમાં સાઇન ઇન કરી રહ્યાં છો અને તમારા Fulldive ડેટા પર એનું એડમિન નિયંત્રણ આપી રહ્યાં છો. તમારો ડેટા આ એકાઉન્ટ સાથે કાયમીરૂપે જોડાયેલું રહેશે. Fulldiveમાંથી સાઇન આઉટ કરવું આ ડિવાઇસ પરથી તમારો ડેટા ડિલીટ કરશે, પરંતુ એ તમારા Gab AI Inc એકાઉન્ટમાં સ્ટોર રહેશે.</translation>
 <translation id="1749561566933687563">તમારા બુકમાર્ક્સ સમન્વયિત કરો</translation>
 <translation id="4242533952199664413">સેટિંગ્સ ખોલો</translation>
 <translation id="1111673857033749125">તમારા અન્ય ઉપકરણો પર સાચવેલા બુકમાર્ક્સ અહીં દેખાશે.</translation>
 <translation id="8636825310635137004">તમારા અન્ય ઉપકરણો પરથી તમારા ટૅબ્સ મેળવવા માટે, સમન્વયન ચાલુ કરો.</translation>
 <translation id="3269956123044984603">તમારા બીજા ડિવાઇસ પરથી તમારા ટૅબ્સ મેળવવા માટે, Android એકાઉન્ટ સેટિંગમાં "સ્વતઃ-સિંક કરો ડેટા" ચાલુ કરો.</translation>
-<translation id="5157964048453367290">તમારા અન્ય ઉપકરણો પર તમે Dissenter માં ખોલેલા ટૅબ્સ અહીં દેખાશે.</translation>
+<translation id="5157964048453367290">તમારા અન્ય ઉપકરણો પર તમે Fulldive માં ખોલેલા ટૅબ્સ અહીં દેખાશે.</translation>
 <translation id="5795872532621730126">શોધો અને બ્રાઉઝ કરો</translation>
 <translation id="9086302186042011942">સમન્વય કરી રહ્યું છે</translation>
 <translation id="4684427112815847243">દરેક વસ્તુ સમન્વયિત કરો</translation>
@@ -476,11 +476,11 @@
 <translation id="7624880197989616768"><ph name="BEGIN_LINK1"/>સહાય મેળવો<ph name="END_LINK1"/> અથવા <ph name="BEGIN_LINK2"/>ફરીથી સ્કેન કરો<ph name="END_LINK2"/></translation>
 <translation id="230115972905494466">કોઈ સુસંગત ઉપકરણો મળ્યા નથી</translation>
 <translation id="3773755127849930740">જોડી કરવાની મંજૂરી આપવા માટે <ph name="BEGIN_LINK"/>Bluetooth ચાલુ કરો<ph name="END_LINK"/></translation>
-<translation id="998321811308652668">Dissenter, Bluetooth એડેપ્ટરને ચાલુ કરવામાં અસમર્થ છે</translation>
+<translation id="998321811308652668">Fulldive, Bluetooth એડેપ્ટરને ચાલુ કરવામાં અસમર્થ છે</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>સહાય મેળવો<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">ઉપકરણો માટે સ્કેન કરવા માટે Dissenter ને સ્થાન ઍક્સેસની જરૂર છે. <ph name="BEGIN_LINK"/>પરવાનગીઓ અપડેટ કરો<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">ઉપકરણો માટે સ્કેન કરવા Dissenter ને સ્થાન ઍક્સેસની જરૂર છે. સ્થાન ઍક્સેસ, <ph name="BEGIN_LINK"/>આ ઉપકરણ માટે બંધ કરેલ છે<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">ઉપકરણો માટે સ્કેન કરવા Dissenter ને સ્થાન ઍક્સેસની જરૂર છે. <ph name="BEGIN_LINK1"/>પરવાનગીઓ અપડેટ કરો<ph name="END_LINK1"/>. સ્થાન ઍક્સેસ પણ <ph name="BEGIN_LINK2"/>આ ઉપકરણ માટે બંધ કરેલ છે<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">ઉપકરણો માટે સ્કેન કરવા માટે Fulldive ને સ્થાન ઍક્સેસની જરૂર છે. <ph name="BEGIN_LINK"/>પરવાનગીઓ અપડેટ કરો<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">ઉપકરણો માટે સ્કેન કરવા Fulldive ને સ્થાન ઍક્સેસની જરૂર છે. સ્થાન ઍક્સેસ, <ph name="BEGIN_LINK"/>આ ઉપકરણ માટે બંધ કરેલ છે<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">ઉપકરણો માટે સ્કેન કરવા Fulldive ને સ્થાન ઍક્સેસની જરૂર છે. <ph name="BEGIN_LINK1"/>પરવાનગીઓ અપડેટ કરો<ph name="END_LINK1"/>. સ્થાન ઍક્સેસ પણ <ph name="BEGIN_LINK2"/>આ ઉપકરણ માટે બંધ કરેલ છે<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">કનેક્ટ કરેલ ઉપકરણ</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{સિગ્નલની ક્ષમતાનું સ્તર: # બાર}one{સિગ્નલની ક્ષમતાનું સ્તર: # બાર}other{સિગ્નલની ક્ષમતાનું સ્તર: # બાર}}</translation>
 <translation id="5230560987958996918"><ph name="SITE"/> નજીકના બ્લૂટૂથ ડિવાઇસ માટે સ્કૅન કરવા માગે છે. નીચે મુજબના ડિવાઇસ મળ્યા છે:</translation>
@@ -488,11 +488,11 @@
 <translation id="7605594153474022051">સમન્વયન કામ કરતું નથી</translation>
 <translation id="2537178555904266562">પાસવર્ડ સિંક કરવામાં ભૂલ આવી</translation>
 <translation id="1810845389119482123">સિંકનું પ્રારંભિક સેટઅપ પૂર્ણ થયું નથી</translation>
-<translation id="3235722914093408050">Dissenter સિંક શરૂ કરવા Android સેટિંગ ખોલો અને Android સિસ્ટમ સિંક ફરી ચાલુ કરો</translation>
+<translation id="3235722914093408050">Fulldive સિંક શરૂ કરવા Android સેટિંગ ખોલો અને Android સિસ્ટમ સિંક ફરી ચાલુ કરો</translation>
 <translation id="3367813778245106622">સમન્વયન શરૂ કરવા માટે ફરીથી સાઇન ઇન કરો</translation>
 <translation id="3701167022068948696">હમણાં જ સુધારો</translation>
 <translation id="974555521953189084">સમન્વયન શરૂ કરવા માટે તમારો પાસફ્રેઝ દાખલ કરો</translation>
-<translation id="2997266899014181325">સિંક શરુ કરવા માટે, "તમારો Dissenterનો ડેટા સિંક કરો" ચાલુ કરો.</translation>
+<translation id="2997266899014181325">સિંક શરુ કરવા માટે, "તમારો Fulldiveનો ડેટા સિંક કરો" ચાલુ કરો.</translation>
 <translation id="8260126382462817229">ફરીથી સાઇન ઇન કરવાનો પ્રયાસ કરો</translation>
 <translation id="5919204609460789179">સમન્વયન પ્રારંભ કરવા માટે <ph name="PRODUCT_NAME"/> અપડેટ કરો</translation>
 <translation id="397583555483684758">સમન્વયન એ કામ કરવાનું બંધ કરી દીધું છે</translation>
@@ -526,14 +526,14 @@
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037"><ph name="MESSAGE"/> <ph name="LINK_NAME"/> બટન</translation>
 <translation id="3205824638308738187">લગભગ સમાપ્ત થયું!</translation>
-<translation id="3960299545138990065">Dissenter ને પુનઃપ્રારંભ કરો</translation>
+<translation id="3960299545138990065">Fulldive ને પુનઃપ્રારંભ કરો</translation>
 <translation id="3771001275138982843">અપડેટ ડાઉનલોડ કરી શકાઈ નથી</translation>
-<translation id="3888648114124182147">Dissenter અપડેટ ડાઉનલોડ કરી રહ્યાં છીએ…</translation>
-<translation id="1705567146636171298">Dissenter અપડેટ કરો</translation>
-<translation id="6195417478702700398">બ્રાઉઝિંગનો શ્રેષ્ઠ અનુભવ મેળવવા અપડેટ કરવા માટે Dissenter ખોલો</translation>
-<translation id="3512968675351418494">વેબ તમારી ભાષામાં જોવા માટે Dissenterનું એકદમ નવું વર્ઝન મેળવો</translation>
+<translation id="3888648114124182147">Fulldive અપડેટ ડાઉનલોડ કરી રહ્યાં છીએ…</translation>
+<translation id="1705567146636171298">Fulldive અપડેટ કરો</translation>
+<translation id="6195417478702700398">બ્રાઉઝિંગનો શ્રેષ્ઠ અનુભવ મેળવવા અપડેટ કરવા માટે Fulldive ખોલો</translation>
+<translation id="3512968675351418494">વેબ તમારી ભાષામાં જોવા માટે Fulldiveનું એકદમ નવું વર્ઝન મેળવો</translation>
 <translation id="6427112570124116297">વેબનો અનુવાદ કરો</translation>
-<translation id="1379423114029199501">Dissenterના એકદમ નવા વર્ઝનમાં તમારી ભાષા મેળવવા માટે અપડેટ કરો</translation>
+<translation id="1379423114029199501">Fulldiveના એકદમ નવા વર્ઝનમાં તમારી ભાષા મેળવવા માટે અપડેટ કરો</translation>
 <translation id="5684874026226664614">અરેરે. આ પૃષ્ઠનો અનુવાદ કરી શકાયો નથી.</translation>
 <translation id="6831043979455480757">અનુવાદ કરો</translation>
 <translation id="1285320974508926690">આ સાઇટનું ક્યારેય ભાષાંતર કરશો નહીં</translation>
@@ -557,7 +557,7 @@
 <translation id="2532336938189706096">વેબ દૃશ્ય</translation>
 <translation id="6005538289190791541">સૂચવેલ પાસવર્ડ</translation>
 <translation id="4634124774493850572">પાસવર્ડનો ઉપયોગ કરો</translation>
-<translation id="3088191967551450609">ફાઇલો ડાઉનલોડ કરવા માટે Dissenter ને સ્ટોરેજ ઍક્સેસની જરૂર છે.</translation>
+<translation id="3088191967551450609">ફાઇલો ડાઉનલોડ કરવા માટે Fulldive ને સ્ટોરેજ ઍક્સેસની જરૂર છે.</translation>
 <translation id="8942627711005830162">અન્ય વિંડોમાં ખોલો</translation>
 <translation id="4195643157523330669">નવા ટૅબમાં ખોલો</translation>
 <translation id="1100066534610197918">ગ્રૂપમાં નવા ટૅબમાં ખોલો</translation>
@@ -580,7 +580,7 @@
 <translation id="3384347053049321195">છબી શેર કરો</translation>
 <translation id="5833984609253377421">લિંક શેર કરો</translation>
 <translation id="6475951671322991020">વીડિયો ડાઉનલોડ કરો</translation>
-<translation id="2317945146070194624">નવા Dissenter ટૅબમાં ખોલો</translation>
+<translation id="2317945146070194624">નવા Fulldive ટૅબમાં ખોલો</translation>
 <translation id="7975379999046275268">પેજને પ્રીવ્યૂ કરો <ph name="BEGIN_NEW"/>નવું<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">ઝડપી સાઇટ</translation>
 <translation id="6112702117600201073">પૃષ્ઠ તાજું કરી રહ્યું છે</translation>
@@ -710,14 +710,14 @@
 <translation id="6820686453637990663">CVC</translation>
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">YY</translation>
-<translation id="724102042129299115">Dissenter પ્રથમ વાર ઉપયોગ કર્યાનો અનુભવ</translation>
-<translation id="7766792282581704663">Dissenterનો ઉપયોગ કરીને, તમે <ph name="BEGIN_LINK1"/>Gab AI Incની સેવાની શરતો<ph name="END_LINK1"/> અને <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter તથા Dissenter OSની વધારાની સેવાની શરતો<ph name="END_LINK2"/> સાથે સંમત થાઓ છો.</translation>
-<translation id="4301045550182524767">Dissenterનો ઉપયોગ કરીને, તમે <ph name="BEGIN_LINK1"/>Gab AI Incની સેવાની શરતો<ph name="END_LINK1"/> અને <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter તથા Dissenter OSની વધારાની સેવાની શરતો<ph name="END_LINK2"/> સાથે સંમત થાઓ છો. <ph name="BEGIN_LINK3"/>Family Link વડે મેનેજ કરવામાં આવતા Gab AI Inc એકાઉન્ટ માટેની પ્રાઇવસી નોટિસ<ph name="END_LINK3"/> પણ લાગુ.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> Dissenterમાં ખૂલશે. આગળ વધીને, તમે <ph name="BEGIN_LINK1"/>Gab AI Incની સેવાની શરતો<ph name="END_LINK1"/> અને <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter તથા Dissenter OSની વધારાની સેવાની શરતો<ph name="END_LINK2"/> સાથે સંમત થાઓ છો.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> Dissenterમાં ખૂલશે. આગળ વધીને, તમે <ph name="BEGIN_LINK1"/>Gab AI Incની સેવાની શરતો<ph name="END_LINK1"/> અને <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter તથા Dissenter OSની વધારાની સેવાની શરતો<ph name="END_LINK2"/> સાથે સંમત થાઓ છો. <ph name="BEGIN_LINK3"/>Family Link વડે મેનેજ કરવામાં આવતા Gab AI Inc એકાઉન્ટ માટેની પ્રાઇવસી નોટિસ<ph name="END_LINK3"/> પણ લાગુ.</translation>
-<translation id="673197144963363525">ઉપયોગનાં આંકડા અને ક્રૅશ રિપોર્ટ Gab AI Incને મોકલીને Dissenterને વધુ સારું બનાવવામાં મદદ કરો.</translation>
+<translation id="724102042129299115">Fulldive પ્રથમ વાર ઉપયોગ કર્યાનો અનુભવ</translation>
+<translation id="7766792282581704663">Fulldiveનો ઉપયોગ કરીને, તમે <ph name="BEGIN_LINK1"/>Gab AI Incની સેવાની શરતો<ph name="END_LINK1"/> અને <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive તથા Fulldive OSની વધારાની સેવાની શરતો<ph name="END_LINK2"/> સાથે સંમત થાઓ છો.</translation>
+<translation id="4301045550182524767">Fulldiveનો ઉપયોગ કરીને, તમે <ph name="BEGIN_LINK1"/>Gab AI Incની સેવાની શરતો<ph name="END_LINK1"/> અને <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive તથા Fulldive OSની વધારાની સેવાની શરતો<ph name="END_LINK2"/> સાથે સંમત થાઓ છો. <ph name="BEGIN_LINK3"/>Family Link વડે મેનેજ કરવામાં આવતા Gab AI Inc એકાઉન્ટ માટેની પ્રાઇવસી નોટિસ<ph name="END_LINK3"/> પણ લાગુ.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> Fulldiveમાં ખૂલશે. આગળ વધીને, તમે <ph name="BEGIN_LINK1"/>Gab AI Incની સેવાની શરતો<ph name="END_LINK1"/> અને <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive તથા Fulldive OSની વધારાની સેવાની શરતો<ph name="END_LINK2"/> સાથે સંમત થાઓ છો.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> Fulldiveમાં ખૂલશે. આગળ વધીને, તમે <ph name="BEGIN_LINK1"/>Gab AI Incની સેવાની શરતો<ph name="END_LINK1"/> અને <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive તથા Fulldive OSની વધારાની સેવાની શરતો<ph name="END_LINK2"/> સાથે સંમત થાઓ છો. <ph name="BEGIN_LINK3"/>Family Link વડે મેનેજ કરવામાં આવતા Gab AI Inc એકાઉન્ટ માટેની પ્રાઇવસી નોટિસ<ph name="END_LINK3"/> પણ લાગુ.</translation>
+<translation id="673197144963363525">ઉપયોગનાં આંકડા અને ક્રૅશ રિપોર્ટ Gab AI Incને મોકલીને Fulldiveને વધુ સારું બનાવવામાં મદદ કરો.</translation>
 <translation id="3518985090088779359">સ્વીકારો અને ચાલુ રાખો</translation>
-<translation id="7207456302801184289">Dissenter પર આપનું સ્વાગત છે</translation>
+<translation id="7207456302801184289">Fulldive પર આપનું સ્વાગત છે</translation>
 <translation id="7189372733857464326">Gab AI Inc Play સેવાઓ દ્વારા અપડેટ થવાનું સમાપ્ત કરવાની રાહ જોવામાં આવી રહી છે</translation>
 <translation id="1231733316453485619">સિંક કરવાનું ચાલુ કરીએ?</translation>
 <translation id="5132942445612118989">બધા ડિવાઇસ પર તમારા પાસવર્ડ, ઇતિહાસ અને વધુ સિંક કરો</translation>
@@ -780,7 +780,7 @@
 <translation id="6336451774241870485">નવું ખાનગી ટૅબ</translation>
 <translation id="4521874409998847950"><ph name="PUBLISHER_ORIGIN"/> તરફથી - <ph name="BEGIN_DEEMPHASIZED"/>Gab AI Inc દ્વારા વિતરિત <ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">નવું વર્ઝન ઉપલબ્ધ છે</translation>
-<translation id="4058091506841967397">Dissenter અપડેટ કરી શકતા નથી</translation>
+<translation id="4058091506841967397">Fulldive અપડેટ કરી શકતા નથી</translation>
 <translation id="6316139424528454185">Android વર્ઝન અસમર્થિત છે</translation>
 <translation id="6989267951144302301">ડાઉનલોડ ન કરી શક્યા</translation>
 <translation id="624789221780392884">અપડેટ તૈયાર</translation>
@@ -830,7 +830,7 @@
 <translation id="2536728043171574184">આ પેજની ઓફલાઇન કૉપિ જોઈ રહ્યા છે</translation>
 <translation id="4698034686595694889"><ph name="APP_NAME"/>માં ઑફલાઇન જુઓ</translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> અને વધુ સાઇટ</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{તૈયાર હશે ત્યારે Dissenter તમારું પેજ લોડ કરશે}one{તૈયાર હશે ત્યારે Dissenter તમારાં પેજ લોડ કરશે}other{તૈયાર હશે ત્યારે Dissenter તમારાં પેજ લોડ કરશે}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{તૈયાર હશે ત્યારે Fulldive તમારું પેજ લોડ કરશે}one{તૈયાર હશે ત્યારે Fulldive તમારાં પેજ લોડ કરશે}other{તૈયાર હશે ત્યારે Fulldive તમારાં પેજ લોડ કરશે}}</translation>
 <translation id="6811034713472274749">પેજ જોવા માટે તૈયાર છે</translation>
 <translation id="4561979708150884304">કોઈ કનેક્શન નથી</translation>
 <translation id="8274165955039650276">ડાઉનલોડ જુઓ</translation>
@@ -842,14 +842,14 @@
 <translation id="3298243779924642547">લાઇટ</translation>
 <translation id="393697183122708255">કોઈ સક્ષમ વૉઇસ શોધ ઉપલબ્ધ નથી</translation>
 <translation id="7191430249889272776">ટેબ પૃષ્ઠભૂમિમાં ખોલવામાં આવ્યું છે.</translation>
-<translation id="8445059357334030806">Dissenter માં ખોલો</translation>
+<translation id="8445059357334030806">Fulldive માં ખોલો</translation>
 <translation id="4720023427747327413"><ph name="PRODUCT_NAME"/> માં ખોલો</translation>
 <translation id="7022756207310403729">બ્રાઉઝરમાં ખોલો</translation>
 <translation id="1113597929977215864">સરળ દૃશ્ય બતાવો</translation>
 <translation id="1513352483775369820">બુકમાર્ક્સ અને વેબ ઇતિહાસ</translation>
-<translation id="4939482511480190003">Dissenterને બહેતર બનાવવામાં સહાય કરો. <ph name="BEGIN_LINK"/>સર્વેક્ષણમાં ભાગ લો<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Fulldiveને બહેતર બનાવવામાં સહાય કરો. <ph name="BEGIN_LINK"/>સર્વેક્ષણમાં ભાગ લો<ph name="END_LINK"/></translation>
 <translation id="3522247891732774234">અપડેટ ઉપલબ્ધ છે. વધુ વિકલ્પો</translation>
-<translation id="6773423637732432200">Dissenter અપડેટ કરી શકાતું નથી. વધુ વિકલ્પો</translation>
+<translation id="6773423637732432200">Fulldive અપડેટ કરી શકાતું નથી. વધુ વિકલ્પો</translation>
 <translation id="1383876407941801731">શોધો</translation>
 <translation id="3328801116991980348">સાઇટ માહિતી</translation>
 <translation id="9070377983101773829">વૉઇસ શોધ પ્રારંભ કરો</translation>
@@ -901,7 +901,7 @@
 <translation id="3211426585530211793"><ph name="ITEM_TITLE"/> કાઢી નાખી</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> બુકમાર્ક્સ કાઢી નાખ્યાં</translation>
 <translation id="3819178904835489326"><ph name="NUMBER_OF_DOWNLOADS"/> ડાઉનલોડ કાઢી નાખ્યાં</translation>
-<translation id="1248710015876067820">અસમર્થિત સંખ્યામાં Dissenter આવૃત્તિઓ.</translation>
+<translation id="1248710015876067820">અસમર્થિત સંખ્યામાં Fulldive આવૃત્તિઓ.</translation>
 <translation id="4259722352634471385">નેવિગેશન અવરોધિત છે: <ph name="URL"/></translation>
 <translation id="8959122750345127698">નેવિગેશન બિનપહોંચ યોગ્ય છે: <ph name="URL"/></translation>
 <translation id="5210365745912300556">ટૅબ બંધ કરો</translation>
@@ -916,18 +916,18 @@
 <translation id="2942036813789421260">પ્રીવ્યૂની ટૅબ બંધ કરવામાં આવી</translation>
 <translation id="6355102470683871794">Gab AI Inc <ph name="APP_NAME"/> સ્ટોરેજ</translation>
 <translation id="3822502789641063741">સાઇટ સ્ટોરેજ સાફ કરીએ?</translation>
-<translation id="9205995714227143200">Dissenter ને મહત્વનું ન લાગતું સાઇટ સ્ટોરેજ (ઉદા., કોઇ સાચવેલ સેટિંગ્સ ન હોય તેવી અથવા વારંવાર મુલાકાત ન લેવાતી હોય તેવી સાઇટ્સ)</translation>
+<translation id="9205995714227143200">Fulldive ને મહત્વનું ન લાગતું સાઇટ સ્ટોરેજ (ઉદા., કોઇ સાચવેલ સેટિંગ્સ ન હોય તેવી અથવા વારંવાર મુલાકાત ન લેવાતી હોય તેવી સાઇટ્સ)</translation>
 <translation id="3997476611815694295">બિનમહત્વપૂર્ણ સ્ટોરેજ</translation>
 <translation id="8493948351860045254">સ્થાન ખાલી કરો</translation>
-<translation id="2324920234469020158">આ કુકી, કૅશ અને Dissenterને લાગતું હોય કે આ મહત્વનું નથી એવા સાઇટના બીજા ડેટાને સાફ કરશે.</translation>
+<translation id="2324920234469020158">આ કુકી, કૅશ અને Fulldiveને લાગતું હોય કે આ મહત્વનું નથી એવા સાઇટના બીજા ડેટાને સાફ કરશે.</translation>
 <translation id="5447201525962359567">કુકીઝ અને અન્ય સ્થાનિક રીતે સંગ્રહિત કરેલ ડેટા સહિત, બધું સાઇટ સ્ટોરેજ</translation>
 <translation id="1376578503827013741">ગણતરી કરી રહ્યાં છે…</translation>
 <translation id="583281660410589416">અજ્ઞાત</translation>
 <translation id="2323763861024343754">સાઇટ સ્ટોરેજ</translation>
-<translation id="3587672679800759167">Dissenter દ્વારા ઉપયોગમાં લેવાયેલ કુલ સ્ટોરેજ, એકાઉન્ટ્સ, બુકમાર્ક્સ અને સાચવેલ સેટિંગ્સ સહિત</translation>
+<translation id="3587672679800759167">Fulldive દ્વારા ઉપયોગમાં લેવાયેલ કુલ સ્ટોરેજ, એકાઉન્ટ્સ, બુકમાર્ક્સ અને સાચવેલ સેટિંગ્સ સહિત</translation>
 <translation id="6545017243486555795">બધો ડેટા સાફ કરો</translation>
 <translation id="4095146165863963773">ઍપ મેમરીન ડેટા ડિલીટ કરી દઈએ?</translation>
-<translation id="53119194224775367">Dissenter નો તમામ ઍપ્લિકેશન ડેટા કાયમીરૂપે કાઢી નાખવામાં આવશે. આમાં તમામ ફાઇલો, સેટિંગ્સ, એકાઉન્ટ, ડેટાબેઝ, વગેરેનો સમાવેશ થાય છે.</translation>
+<translation id="53119194224775367">Fulldive નો તમામ ઍપ્લિકેશન ડેટા કાયમીરૂપે કાઢી નાખવામાં આવશે. આમાં તમામ ફાઇલો, સેટિંગ્સ, એકાઉન્ટ, ડેટાબેઝ, વગેરેનો સમાવેશ થાય છે.</translation>
 <translation id="5307446750509046227">સાઇટ સ્ટોરેજ સાફ કરો</translation>
 <translation id="300526633675317032">આ <ph name="SIZE_IN_KB"/> નું બધું વેબસાઇટ સ્ટોરેજ સાફ કરશે.</translation>
 <translation id="8068648041423924542">પ્રમાણપત્ર પસંદ કરવામાં અસમર્થ.</translation>
@@ -954,15 +954,15 @@
 <translation id="3114012059975132928">વીડિયો પ્લેયર</translation>
 <translation id="5489227211564503167"><ph name="TOTAL_TIME"/>માંથી <ph name="ELAPSED_TIME"/>નો સમય વીતી ગયો.</translation>
 <translation id="6560414384669816528">Sogou થી શોધો</translation>
-<translation id="5406914950576900927">Dissenter, ચાઇનામાં શોધ માટે <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> નો ઉપયોગ કરી શકે છે. તમે આને <ph name="BEGIN_LINK"/>સેટિંગ્સ<ph name="END_LINK"/>માં બદલી શકો છો.</translation>
+<translation id="5406914950576900927">Fulldive, ચાઇનામાં શોધ માટે <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> નો ઉપયોગ કરી શકે છે. તમે આને <ph name="BEGIN_LINK"/>સેટિંગ્સ<ph name="END_LINK"/>માં બદલી શકો છો.</translation>
 <translation id="6456271171669383967">Gab AI Inc રાખો</translation>
 <translation id="4384468725000734951">શોધ માટે Sogou નો ઉપયોગ કરી રહ્યાં છે</translation>
 <translation id="6103327872225198548">શોધ માટે Gab AI Inc નો ઉપયોગ કરી રહ્યાં છે</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
-<translation id="919933208285147476">આ ઍપ Dissenterમાં ચાલી રહી છે</translation>
-<translation id="6143689084714664628">Dissenterમાં ચાલી રહ્યું છે</translation>
-<translation id="7675869148432102528"><ph name="APP_NAME"/> નો ડેટા Dissenterમાં પણ છે</translation>
-<translation id="2734140769649165081">Dissenter સેટિંગમાં તમે ડેટા સાફ કરી શકો છો</translation>
+<translation id="919933208285147476">આ ઍપ Fulldiveમાં ચાલી રહી છે</translation>
+<translation id="6143689084714664628">Fulldiveમાં ચાલી રહ્યું છે</translation>
+<translation id="7675869148432102528"><ph name="APP_NAME"/> નો ડેટા Fulldiveમાં પણ છે</translation>
+<translation id="2734140769649165081">Fulldive સેટિંગમાં તમે ડેટા સાફ કરી શકો છો</translation>
 <translation id="8232956427053453090">ડેટા રાખો</translation>
 <translation id="4298388696830689168">લિંક કરેલી સાઇટ</translation>
 <translation id="5763514718066511291">આ ઍપ માટેની URL કૉપિ કરવા માટે ટૅપ કરો</translation>
@@ -987,13 +987,13 @@
 <translation id="8015452622527143194">પેજ પરનું બધું કન્ટેન્ટ પાછું ડિફૉલ્ટ કદમાં બદલો</translation>
 <translation id="3443221991560634068">વર્તમાન પૃષ્ઠ ફરીથી લોડ કરો</translation>
 <translation id="123724288017357924">કૅશ કરેલ કન્ટેન્ટને અવગણીને વર્તમાન પેજ ફરીથી લોડ કરો</translation>
-<translation id="305870044889644984">Dissenter સહાયતા કેન્દ્રમાં એક નવું ટૅબ ખોલો</translation>
+<translation id="305870044889644984">Fulldive સહાયતા કેન્દ્રમાં એક નવું ટૅબ ખોલો</translation>
 <translation id="3166827708714933426">ટૅબ અને વિંડો શૉર્ટકટ્સ</translation>
-<translation id="3169981355900570544">Gab AI Inc Dissenter સુવિધાના શૉર્ટકટ્સ</translation>
+<translation id="3169981355900570544">Gab AI Inc Fulldive સુવિધાના શૉર્ટકટ્સ</translation>
 <translation id="4558311620361989323">વેબ પેજના શૉર્ટકટ</translation>
-<translation id="1908301351964700579">Dissenter હજી પણ VR માટે તૈયારી કરી રહ્યું છે. Dissenterને પછી ફરી શરૂ કરો.</translation>
+<translation id="1908301351964700579">Fulldive હજી પણ VR માટે તૈયારી કરી રહ્યું છે. Fulldiveને પછી ફરી શરૂ કરો.</translation>
 <translation id="8970887620466824814">કંઈક ખોટું થયું.</translation>
-<translation id="1875543012935658554">Dissenter ફરીથી ખોલો.</translation>
+<translation id="1875543012935658554">Fulldive ફરીથી ખોલો.</translation>
 <translation id="79859296434321399">ઑગ્મેન્ટેડ રિયાલિટી કન્ટેન્ટ જોવા માટે, ARCore ઇન્સ્ટૉલ કરો</translation>
 <translation id="8558485628462305855">ઑગ્મેન્ટેડ રિયાલિટી કન્ટેન્ટ જોવા માટે ARCore અપડેટ કરો</translation>
 <translation id="3513704683820682405">ઑગ્મેન્ટેડ રિયાલિટી</translation>
@@ -1005,9 +1005,9 @@
 તમારો કૅમેરા શું જોઈ રહ્યો છે તે માત્ર તમે જ જોઈ શકો છો. સાઇટ તમારા કૅમેરાની છબીઓને જોઈ શકતી નથી.</translation>
 <translation id="1188239144602654184">AR દાખલ કરો</translation>
 <translation id="473775607612524610">અપડેટ કરો</translation>
-<translation id="3133489217401741157">Dissenter માટે <ph name="MODULE"/> ઇન્સ્ટૉલ કરી રહ્યાં છે…</translation>
+<translation id="3133489217401741157">Fulldive માટે <ph name="MODULE"/> ઇન્સ્ટૉલ કરી રહ્યાં છે…</translation>
 <translation id="1791662854739702043">ઇન્સ્ટોલ કરેલું</translation>
-<translation id="5131234170665854056">Dissenter માટે <ph name="MODULE"/> ઇન્સ્ટૉલ કરવામાં અસમર્થ</translation>
+<translation id="5131234170665854056">Fulldive માટે <ph name="MODULE"/> ઇન્સ્ટૉલ કરવામાં અસમર્થ</translation>
 <translation id="2567385386134582609">છબી</translation>
 <translation id="6395288395575013217">લિંક</translation>
 <translation id="7352939065658542140">વીડિયો</translation>
@@ -1027,7 +1027,7 @@
 <translation id="1792959175193046959">ડિફૉલ્ટ ડાઉનલોડ સ્થાનને કોઈપણ સમયે બદલો</translation>
 <translation id="6942665639005891494">સેટિંગ મેનૂ વિકલ્પનો ઉપયોગ કરીને ડિફૉલ્ટ ડાઉનલોડ સ્થાનને કોઈપણ સમયે બદલો</translation>
 <translation id="6850409657436465440">તમારું ડાઉનલોડ હજી પણ પ્રક્રિયામાં છે</translation>
-<translation id="5817715962196959877">Dissenter હવે ફાઇલોને વધુ ઝડપથી ડાઉનલોડ કરે છે</translation>
+<translation id="5817715962196959877">Fulldive હવે ફાઇલોને વધુ ઝડપથી ડાઉનલોડ કરે છે</translation>
 <translation id="3976396876660209797">આ શૉર્ટકટ દૂર કરો અને ફરી બનાવો</translation>
 <translation id="6766622839693428701">બંધ કરવા માટે નીચેની તરફ સ્વાઇપ કરો.</translation>
 <translation id="1028699632127661925"><ph name="DEVICE_NAME"/> પર મોકલી રહ્યાં છીએ...</translation>
@@ -1043,17 +1043,17 @@
 <translation id="1521774566618522728">આજે સક્રિય છે</translation>
 <translation id="3631987586758005671"><ph name="DEVICE_NAME"/> પર શેર કરી રહ્યાં છે</translation>
 <translation id="9028914725102941583">બધા ડિવાઇસ પર શેર કરવા માટે 'સિંક કરો'ની સુવિધા ચાલુ કરો</translation>
-<translation id="6162454065885854378">તમારા ફોનથી કોઈ અન્ય ડિવાઇસ પર કંઈક શેર કરવા માટે, બન્ને ડિવાઇસ પરના Dissenter સેટિંગમાં સિંકની સુવિધા ચાલુ કરો</translation>
-<translation id="6084271560289605378">Dissenter સેટિંગ પર જાઓ</translation>
-<translation id="2746024117903470217">આ પેજને બીજા ડિવાઇસ પર શેર કરવા માટે, અન્ય ડિવાઇસ પર Dissenter સેટિંગમાં સિંક ચાલુ કરો</translation>
-<translation id="7760665516427405230">આ પેજને બીજા ડિવાઇસ પર શેર કરવા માટે, Dissenter સેટિંગમાં સિંક ચાલુ કરો</translation>
+<translation id="6162454065885854378">તમારા ફોનથી કોઈ અન્ય ડિવાઇસ પર કંઈક શેર કરવા માટે, બન્ને ડિવાઇસ પરના Fulldive સેટિંગમાં સિંકની સુવિધા ચાલુ કરો</translation>
+<translation id="6084271560289605378">Fulldive સેટિંગ પર જાઓ</translation>
+<translation id="2746024117903470217">આ પેજને બીજા ડિવાઇસ પર શેર કરવા માટે, અન્ય ડિવાઇસ પર Fulldive સેટિંગમાં સિંક ચાલુ કરો</translation>
+<translation id="7760665516427405230">આ પેજને બીજા ડિવાઇસ પર શેર કરવા માટે, Fulldive સેટિંગમાં સિંક ચાલુ કરો</translation>
 <translation id="2318045970523081853">કૉલ કરવા માટે ટૅપ કરો</translation>
 <translation id="9209888181064652401">કૉલ કરી શકતા નથી</translation>
 <translation id="2860954141821109167">ખાતરી કરો કે આ ડિવાઇસ પર ફોન ઍપ ચાલુ કરેલી છે</translation>
 <translation id="2067805253194386918">ટેક્સ્ટ</translation>
 <translation id="1450753235335490080"><ph name="CONTENT_TYPE"/> શેર કરી શકતાં નથી</translation>
 <translation id="1266864766717917324"><ph name="CONTENT_TYPE"/> શેર કરી શકાયો નથી</translation>
-<translation id="8287068819750208230">ખાતરી કરો કે <ph name="TARGET_DEVICE_NAME"/>માં Dissenterમાં સિંક ચાલુ કરેલું છે</translation>
+<translation id="8287068819750208230">ખાતરી કરો કે <ph name="TARGET_DEVICE_NAME"/>માં Fulldiveમાં સિંક ચાલુ કરેલું છે</translation>
 <translation id="3016635187733453316">ખાતરી કરો કે આ ડિવાઇસ ઇન્ટરનેટ સાથે કનેક્ટ કરેલું છે</translation>
 <translation id="8466613982764129868">ખાતરી કરો કે <ph name="TARGET_DEVICE_NAME"/>ને ઇન્ટરનેટ સાથે કનેક્ટ કરેલું છે</translation>
 <translation id="6539092367496845964">કંઈક ખોટું થયું હતું. થોડીવાર પછી ફરી પ્રયાસ કરો.</translation>
@@ -1076,17 +1076,17 @@
 <translation id="7055152154916055070">રીડાયરેક્ટ કરવાનું બ્લૉક કરવામાં આવ્યું છે:</translation>
 <translation id="5524843473235508879">રીડાયરેક્ટ કરવાનું અવરોધિત.</translation>
 <translation id="6573096386450695060">હંમેશાં મંજૂરી આપો</translation>
-<translation id="5805364706385912897">આ પેજ ઘણી વધુ મેમરીનો ઉપયોગ કરે છે, તેથી Dissenterએ તેને થોભાવ્યું છે.</translation>
-<translation id="5138664332909611586">આ પેજ મેમરીનો બહુ ઉપયોગ કરે છે, તેથી Dissenterએ કેટલુંક કન્ટેન્ટ કાઢી નાખ્યું છે.</translation>
+<translation id="5805364706385912897">આ પેજ ઘણી વધુ મેમરીનો ઉપયોગ કરે છે, તેથી Fulldiveએ તેને થોભાવ્યું છે.</translation>
+<translation id="5138664332909611586">આ પેજ મેમરીનો બહુ ઉપયોગ કરે છે, તેથી Fulldiveએ કેટલુંક કન્ટેન્ટ કાઢી નાખ્યું છે.</translation>
 <translation id="9137013805542155359">મૂળ બતાવો</translation>
-<translation id="6361779936989026201">Dissenterમાં Gab AI Inc આસિસ્ટંટ</translation>
+<translation id="6361779936989026201">Fulldiveમાં Gab AI Inc આસિસ્ટંટ</translation>
 <translation id="7291387454912369099">આસિસ્ટંટે ચેકઆઉટ ટ્રિગર કર્યું</translation>
 <translation id="9037412730408024068">કામને પૂર્ણ કરવામાં તમારી સહાય માટે, Gab AI Incને તમે જેના પર આસિસ્ટંટનો ઉપયોગ કરો છો તે URLs અને સાઇટના કન્ટેન્ટ તેમજ તમે આસિસ્ટંટ મારફતે સબમિટ કરો છો તે માહિતી મળશે</translation>
-<translation id="4565206163201411670">શું તમારી Dissenterની પ્રવૃત્તિ ડિજિટલ લાઇફસ્ટાઇલમાં બતાવીએ?</translation>
-<translation id="9055113864158719823">તમે Dissenterમાં મુલાકાત લીધેલી સાઇટ જોઈ શકશો અને તેના માટે ટાઇમર પણ સેટ કરી શકશો.\n\nતમે જે સાઇટ માટે ટાઇમર સેટ કરો છો અને કેટલા સમય માટે તેની મુલાકાત લો છો, તે માહિતી Gab AI Inc મેળવે છે. આ માહિતી ડિજિટલ લાઇફસ્ટાઇલને બહેતર બનાવવા માટે ઉપયોગમાં લેવામાં આવે છે.</translation>
-<translation id="4596514158372210596">ડિજિટલ લાઇફસ્ટાઇલમાંથી તમારી Dissenterની પ્રવૃત્તિને કેવી રીતે કાઢવી</translation>
-<translation id="1174893863889683998">તમારી Dissenterની પ્રવૃત્તિને ડિજિટલ લાઇફસ્ટાઇલમાંથી કાઢી નાખીએ?</translation>
-<translation id="708829030563435351">Dissenterમાં તમે મુલાકાત લીધેલી સાઇટ બતાવવામાં આવશે નહીં. સાઇટના બધા ટાઇમર ડિલીટ કરવામાં આવશે.</translation>
+<translation id="4565206163201411670">શું તમારી Fulldiveની પ્રવૃત્તિ ડિજિટલ લાઇફસ્ટાઇલમાં બતાવીએ?</translation>
+<translation id="9055113864158719823">તમે Fulldiveમાં મુલાકાત લીધેલી સાઇટ જોઈ શકશો અને તેના માટે ટાઇમર પણ સેટ કરી શકશો.\n\nતમે જે સાઇટ માટે ટાઇમર સેટ કરો છો અને કેટલા સમય માટે તેની મુલાકાત લો છો, તે માહિતી Gab AI Inc મેળવે છે. આ માહિતી ડિજિટલ લાઇફસ્ટાઇલને બહેતર બનાવવા માટે ઉપયોગમાં લેવામાં આવે છે.</translation>
+<translation id="4596514158372210596">ડિજિટલ લાઇફસ્ટાઇલમાંથી તમારી Fulldiveની પ્રવૃત્તિને કેવી રીતે કાઢવી</translation>
+<translation id="1174893863889683998">તમારી Fulldiveની પ્રવૃત્તિને ડિજિટલ લાઇફસ્ટાઇલમાંથી કાઢી નાખીએ?</translation>
+<translation id="708829030563435351">Fulldiveમાં તમે મુલાકાત લીધેલી સાઇટ બતાવવામાં આવશે નહીં. સાઇટના બધા ટાઇમર ડિલીટ કરવામાં આવશે.</translation>
 <translation id="2056878612599315956">સાઇટ રોકવામાં આવી</translation>
 <translation id="671481426037969117">તમારું <ph name="FQDN"/> ટાઇમર સમાપ્ત થયું. તે આવતી કાલે ફરી શરૂ થશે.</translation>
 <translation id="7479104141328977413">ટૅબ મેનેજમેન્ટ</translation>
@@ -1102,7 +1102,7 @@
 <translation id="6201345951596836663">લિંક કૉપિ કરી</translation>
 <translation id="6597891566292541626">QR/બારકોડને આ ફ્રેમમાં મૂકો.</translation>
 <translation id="3140134512074889489">કોઈ QR કોડ સ્કૅન કરવા માટે, કૃપા કરીને તમારો કૅમેરા ચાલુ કરો</translation>
-<translation id="5149323899804758325">QR કોડ સ્કૅન કરવા માટે, તમારું સેટિંગ બદલો જેથી Dissenter તમારા કૅમેરાનો ઉપયોગ કરી શકે</translation>
+<translation id="5149323899804758325">QR કોડ સ્કૅન કરવા માટે, તમારું સેટિંગ બદલો જેથી Fulldive તમારા કૅમેરાનો ઉપયોગ કરી શકે</translation>
 <translation id="2359808026110333948">આગળ વધો</translation>
 <translation id="8233540874193135768">QR કોડને સ્કૅન કરવા માટે કૅમેરાવાળા ડિવાઇસનો ઉપયોગ કરો.</translation>
 <translation id="6297765934698848803">જે સંસ્થા તમારા ડિવાઇસને મેનેજ કરે છે તેણે તમારો કૅમેરા બંધ કર્યો છે.</translation>

@@ -22,8 +22,8 @@
 <translation id="5342314432463739672">Toestemmingversoeke</translation>
 <translation id="3749259744154402564">Ongesteun</translation>
 <translation id="629730747756840877">Rekening</translation>
-<translation id="82609232232243542">Teken aan op Dissenter</translation>
-<translation id="7956662517480676674">Sinchroniseer en Dissenter-dienste</translation>
+<translation id="82609232232243542">Teken aan op Fulldive</translation>
+<translation id="7956662517480676674">Sinchroniseer en Fulldive-dienste</translation>
 <translation id="5294439808117722387">Jy pasmaak tans jou sinkronisering- en Gab AI Inc-diensinstellings. Tik op die Bevestig-knoppie naby die onderkant van die skerm om die aanskakel van sinkronisering te voltooi. Gaan op</translation>
 <translation id="2096012225669085171">Sinkroniseer en personaliseer oor toestelle heen</translation>
 <translation id="1692118695553449118">Sinkronisering is aan</translation>
@@ -32,11 +32,11 @@
 <translation id="4882831918239250449">Beheer hoe u blaaigeskiedenis gebruik word om soektogte, advertensies, en meer te verpersoonlik</translation>
 <translation id="7431991332293347422">Beheer hoe jou blaaigeskiedenis gebruik word om Search en meer te personaliseer</translation>
 <translation id="6303969859164067831">Meld af en skakel sinkronisering af</translation>
-<translation id="1125261911132334651">Bestuur u Dissenter-rekening</translation>
+<translation id="1125261911132334651">Bestuur u Fulldive-rekening</translation>
 <translation id="6406506848690869874">Sinchroniseer</translation>
-<translation id="714362445477979774">Sinkroniseer jou Dissenter-data</translation>
+<translation id="714362445477979774">Sinkroniseer jou Fulldive-data</translation>
 <translation id="4314815835985389558">Bestuur sinkronisering</translation>
-<translation id="5428209950370661546">Ander Dissenter-dienste</translation>
+<translation id="5428209950370661546">Ander Fulldive-dienste</translation>
 <translation id="7704317875155739195">Outovoltooi soekopdragte en bronadresse</translation>
 <translation id="2000419248597011803">Dit stuur sommige koekies en soekopdragte van die adresbalk en soekkas na u versteksoekenjin</translation>
 <translation id="7981313251711023384">Laai blaaie vooraf vir vinniger blaai en soek</translation>
@@ -44,9 +44,9 @@
 <translation id="6697492270171225480">Toon voorstelle vir soortgelyke blaaie wanneer ’n blad nie gevind kan word nie</translation>
 <translation id="8109318360573330108">Stuur die URL van 'n bladsy wat jy probeer bereik na Gab AI Inc toe</translation>
 <translation id="8438566539970814960">Verbeter soektogte en blaaiery</translation>
-<translation id="284843628681142937">Dit stuur die bronadresse van die blaaie wat u besoek na Dissenter</translation>
+<translation id="284843628681142937">Dit stuur die bronadresse van die blaaie wat u besoek na Fulldive</translation>
 <translation id="7222718784508482526">Sien <ph name="BEGIN_LINK"/>Sinkornisering en Gab AI Inc-dienste<ph name="END_LINK"/> vir meer instellings wat verband hou met privaatheid, sekuriteit en data-insameling</translation>
-<translation id="918192811481327695">Help om Dissenter se funksies en verrigting te verbeter</translation>
+<translation id="918192811481327695">Help om Fulldive se funksies en verrigting te verbeter</translation>
 <translation id="9063160602596686558">Stuur gebruikstatistieke en omvalverslae outomaties na Gab AI Inc</translation>
 <translation id="4824958205181053313">Kanselleer sinkronisering?</translation>
 <translation id="3058498974290601450">Jy kan sinkronisering enige tyd in Instellings aanskakel</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">Kaartnommer</translation>
 <translation id="869891660844655955">Vervaldatum</translation>
 <translation id="2286841657746966508">Faktureringadres</translation>
-<translation id="663059986967017181">Gekopieer na Dissenter</translation>
+<translation id="663059986967017181">Gekopieer na Fulldive</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 en nog <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}other{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 en nog <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/> \u2026 en nog <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/> \u2026 en nog <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/>}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/> \u2026 en nog <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}other{<ph name="SHIPPING_OPTION_PREVIEW"/> \u2026 en nog <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}}</translation>
@@ -112,7 +112,7 @@
 <translation id="6154478581116148741">Skakel skermslot in Instellings aan om jou wagwoorde van hierdie toestel af uit te voer</translation>
 <translation id="4842092870884894799">Wys tans opspringer vir wagwoordgenerering</translation>
 <translation id="2259659629660284697">Voer wagwoorde uit …</translation>
-<translation id="133012818630824069">Voer wagwoorde wat met Dissenter gestoor word, uit</translation>
+<translation id="133012818630824069">Voer wagwoorde wat met Fulldive gestoor word, uit</translation>
 <translation id="6914783257214138813">U wagwoorde sal sigbaar wees aan enigeen wat die uitgestuurde lêer kan sien.</translation>
 <translation id="2321086116217818302">Maak tans wagwoorde gereed …</translation>
 <translation id="8445448999790540984">Kan nie wagwoorde uitvoer nie</translation>
@@ -123,11 +123,11 @@
 <translation id="6891726759199484455">Ontsluit om jou wagwoord te kopieer</translation>
 <translation id="5515439363601853141">Ontsluit om jou wagwoord te sien</translation>
 <translation id="6221633008163990886">Ontsluit om jou wagwoorde uit te voer</translation>
-<translation id="230699814587342492">Dissenter-wagwoorde</translation>
+<translation id="230699814587342492">Fulldive-wagwoorde</translation>
 <translation id="1925021887439448749">Voer gepasmaakte webadres in</translation>
 <translation id="8127542551745560481">Wysig tuisblad</translation>
 <translation id="854522910157234410">Maak hierdie bladsy oop</translation>
-<translation id="5063487983358782016">Dissenter se tuisblad</translation>
+<translation id="5063487983358782016">Fulldive se tuisblad</translation>
 <translation id="2482878487686419369">Kennisgewings</translation>
 <translation id="6255999984061454636">Inhoudvoorstelle</translation>
 <translation id="805047784848435650">Gegrond op jou blaaigeskiedenis</translation>
@@ -139,8 +139,8 @@
 <translation id="2760989362628427051">Skakel Donker-tema aan wanneer jou toestel se Donker-tema of Batterybespaarder aan is</translation>
 <translation id="6381421346744604172">Verdonker webwerwe</translation>
 <translation id="5040262127954254034">Privaatheid</translation>
-<translation id="4991384657077828949">Help om Dissenter-sekuriteit te verbeter</translation>
-<translation id="1943176487615318915">Dissenter stuur URL'e van sommige bladsye wat jy besoek, beperkte stelselinligting en sekere bladinhoud aan Gab AI Inc om gevaarlike programme en werwe te bespeur</translation>
+<translation id="4991384657077828949">Help om Fulldive-sekuriteit te verbeter</translation>
+<translation id="1943176487615318915">Fulldive stuur URL'e van sommige bladsye wat jy besoek, beperkte stelselinligting en sekere bladinhoud aan Gab AI Inc om gevaarlike programme en werwe te bespeur</translation>
 <translation id="3201899458094819285">Veiligblaai (beskerm jou en jou toestel teen gevaarlike werwe)</translation>
 <translation id="2876369937070532032">Stuur URL'e van sommige bladsye wat jy besoek aan Gab AI Inc wanneer jou sekuriteit bedreig word</translation>
 <translation id="3738139272394829648">Raak om te soek</translation>
@@ -160,8 +160,8 @@ Byvoorbeeld, sommige webwerwe kan op hierdie versoek reageer deur vir jou advert
 <translation id="7359002509206457351">Toegang tot betaalmetodes</translation>
 <translation id="8026334261755873520">Wis blaaidata</translation>
 <translation id="1291207594882862231">Maak geskiedenis, webkoekies, werfdata, kas skoon …</translation>
-<translation id="7814200940910057384">Gewiste Dissenter-data</translation>
-<translation id="1664855196866195614">Die gekose data is van Dissenter en jou gesinkroniseerde toestelle verwyder.
+<translation id="7814200940910057384">Gewiste Fulldive-data</translation>
+<translation id="1664855196866195614">Die gekose data is van Fulldive en jou gesinkroniseerde toestelle verwyder.
 
 Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogte en aktiwiteit van ander Gab AI Inc-dienste af, by <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="4699172675775169585">Gekaste beelde en lêers</translation>
@@ -311,12 +311,12 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="8156139159503939589">Watter tale lees jy?</translation>
 <translation id="5689516760719285838">Ligging</translation>
 <translation id="2440823041667407902">Liggingtoegang</translation>
-<translation id="2023546461831060654">Skakel toestemmings vir Dissenter aan in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/>.</translation>
-<translation id="6665548517310046133">Skakel toestemming vir Dissenter aan in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/>.</translation>
-<translation id="2928908108430545745">Vir Dissenter om toegang tot jou ligging te kry, moet jy ligging ook in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/> aanskakel.</translation>
-<translation id="1028853271388022585">Vir Dissenter om toegang tot jou kamera te kry, moet jy kamera ook in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/> aanskakel.</translation>
-<translation id="2913721282607281710">Vir Dissenter om toegang tot jou kennisgewings te kry, moet jy kennisgewings ook in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/> aanskakel.</translation>
-<translation id="8753483718490035722">Vir Dissenter om toegang tot jou mikrofoon te kry, moet jy mikrofoon ook in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/> aanskakel.</translation>
+<translation id="2023546461831060654">Skakel toestemmings vir Fulldive aan in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/>.</translation>
+<translation id="6665548517310046133">Skakel toestemming vir Fulldive aan in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/>.</translation>
+<translation id="2928908108430545745">Vir Fulldive om toegang tot jou ligging te kry, moet jy ligging ook in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/> aanskakel.</translation>
+<translation id="1028853271388022585">Vir Fulldive om toegang tot jou kamera te kry, moet jy kamera ook in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/> aanskakel.</translation>
+<translation id="2913721282607281710">Vir Fulldive om toegang tot jou kennisgewings te kry, moet jy kennisgewings ook in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/> aanskakel.</translation>
+<translation id="8753483718490035722">Vir Fulldive om toegang tot jou mikrofoon te kry, moet jy mikrofoon ook in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/> aanskakel.</translation>
 <translation id="1887786770086287077">Liggingtoegang is af vir hierdie toestel. Skakel dit in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/> aan.</translation>
 <translation id="2570922361219980984">Liggingtoegang is ook af vir hierdie toestel. Skakel dit in <ph name="BEGIN_LINK"/>Android-instellings<ph name="END_LINK"/> aan.</translation>
 <translation id="1620510694547887537">Kamera</translation>
@@ -334,8 +334,8 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="7821588508402923572">Jou databesparing sal hier verskyn</translation>
 <translation id="2131665479022868825"><ph name="DATA"/> gestoor</translation>
 <translation id="8569404424186215731">sedert <ph name="DATE"/></translation>
-<translation id="3252158532344029638">In Ligte modus laai Dissenter bladsye vinniger en gebruik tot 60 persent minder data.</translation>
-<translation id="1438581767753657407">Wanneer Ligte Modus aan is, gebruik Dissenter Gab AI Inc-bedieners om bladsye vinniger te laat laai. Ligte Modus herskryf baie stadige bladsye om net noodsaaklike inhoud te laai. Ligte Modus geld nie vir Incognito-oortjies nie.</translation>
+<translation id="3252158532344029638">In Ligte modus laai Fulldive bladsye vinniger en gebruik tot 60 persent minder data.</translation>
+<translation id="1438581767753657407">Wanneer Ligte Modus aan is, gebruik Fulldive Gab AI Inc-bedieners om bladsye vinniger te laat laai. Ligte Modus herskryf baie stadige bladsye om net noodsaaklike inhoud te laai. Ligte Modus geld nie vir Incognito-oortjies nie.</translation>
 <translation id="6159335304067198720"><ph name="PERCENT"/> databesparings</translation>
 <translation id="7494974237137038751">data bespaar</translation>
 <translation id="6111020039983847643">data gebruik</translation>
@@ -358,15 +358,15 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="3658159451045945436">As jy terugstel, sal jou geskiedenis van databesparings uitgevee word, insluitend die lys werwe wat jy besoek het.</translation>
 <translation id="5939518447894949180">Herstel</translation>
 <translation id="3295530008794733555">Blaai vinniger. Gebruik minder data.</translation>
-<translation id="7340390500800578919">In Ligte modus laai Dissenter bladsye vinniger en gebruik tot 60 persent minder data. Dissenter stuur jou webverkeer na Gab AI Inc toe om die bladsye wat jy besoek, te optimeer. <ph name="BEGIN_LINK"/>Kom meer te wete<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">In Ligte modus laai Fulldive bladsye vinniger en gebruik tot 60 persent minder data. Fulldive stuur jou webverkeer na Gab AI Inc toe om die bladsye wat jy besoek, te optimeer. <ph name="BEGIN_LINK"/>Kom meer te wete<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Skakel Ligte Modus aan</translation>
 <translation id="4493497663118223949">Ligte Modus is aan</translation>
 <translation id="7559975015014302720">Ligte Modus is af</translation>
 <translation id="7606077192958116810">Ligte Modus is aan. Bestuur dit in Instellings.</translation>
 <translation id="4714588616299687897">Spaar tot 60% van jou data</translation>
 <translation id="1006927014032731288">Gab AI Inc-bedieners sal die bladsye wat jy besoek, optimeer.</translation>
-<translation id="3257320067425202300">Dissenter het vir jou <ph name="MEGABYTES"/> MB bespaar</translation>
-<translation id="5813223329348543512">Dissenter het vir jou <ph name="GIGABYTES"/> GB bespaar</translation>
+<translation id="3257320067425202300">Fulldive het vir jou <ph name="MEGABYTES"/> MB bespaar</translation>
+<translation id="5813223329348543512">Fulldive het vir jou <ph name="GIGABYTES"/> GB bespaar</translation>
 <translation id="8266862848225348053">Laai ligging af</translation>
 <translation id="7077143737582773186">SD-kaart</translation>
 <translation id="7762668264895820836">SD-kaart <ph name="SD_CARD_NUMBER"/></translation>
@@ -392,15 +392,15 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="7290209999329137901">Hernoeming is nie beskikbaar nie</translation>
 <translation id="3334729583274622784">Verander lêeruitbreiding?</translation>
 <translation id="107147699690128016">As jy die lêeruitbreiding verander, sal die lêer dalk in 'n ander program oopmaak en sal dit potensieel skadelik wees vir jou toestel.</translation>
-<translation id="8541922081612557424">Oor Dissenter</translation>
+<translation id="8541922081612557424">Oor Fulldive</translation>
 <translation id="5311273890481188673">Kopiereg <ph name="YEAR"/> Gab AI Inc LLC. Alle regte voorbehou.</translation>
 <translation id="1416550906796893042">Programweergawe</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (opgedateer <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Bedryfstelsel</translation>
-<translation id="3968054912784331254">Dissenter-opdaterings word nie meer vir hierdie weergawe van Android gesteun nie</translation>
+<translation id="3968054912784331254">Fulldive-opdaterings word nie meer vir hierdie weergawe van Android gesteun nie</translation>
 <translation id="7665369617277396874">Voeg rekening toe</translation>
 <translation id="649070405679044769">By Gab AI Inc aangemeld as</translation>
-<translation id="6234515504547364178">Meld af uit Dissenter</translation>
+<translation id="6234515504547364178">Meld af uit Fulldive</translation>
 <translation id="5324858694974489420">Ouerinstellings</translation>
 <translation id="8920114477895755567">Wag tans vir besonderhede van ouers.</translation>
 <translation id="5512137114520586844">Hierdie rekening word bestuur deur <ph name="PARENT_NAME"/>.</translation>
@@ -409,7 +409,7 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="5403644198645076998">Laat net sekere werwe toe</translation>
 <translation id="8641930654639604085">Probeer volwasse werwe blokkeer</translation>
 <translation id="5639724618331995626">Laat alle werwe toe</translation>
-<translation id="796823723482603597">Aangedryf deur Dissenter</translation>
+<translation id="796823723482603597">Aangedryf deur Fulldive</translation>
 <translation id="6324034347079777476">Android-stelsel se sinkronisering is gedeaktiveer</translation>
 <translation id="5127805178023152808">Sinchroniseer is af</translation>
 <translation id="7015203776128479407">Aanvanklike sinkroniseringopstelling is nie voltooi nie. Sinkronisering is af.</translation>
@@ -418,26 +418,26 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="6108923351542677676">Opstelling is besig …</translation>
 <translation id="4062305924942672200">Regsinligting</translation>
 <translation id="4256782883801055595">Oopbronlisensies</translation>
-<translation id="1138681184697033370">Dissenter se diensbepalings</translation>
-<translation id="2368444735104192323">Dissenter en Dissenter-bedryfstelsel se bykomende bepalings</translation>
-<translation id="7392539049993970338">Dissenter se privaatheidkennisgewing</translation>
+<translation id="1138681184697033370">Fulldive se diensbepalings</translation>
+<translation id="2368444735104192323">Fulldive en Fulldive-bedryfstelsel se bykomende bepalings</translation>
+<translation id="7392539049993970338">Fulldive se privaatheidkennisgewing</translation>
 <translation id="2968755619301702150">Sertifikaatbekyker</translation>
 <translation id="1360432990279830238">Meld af en skakel sinkronisasie af?</translation>
-<translation id="8581481290581777242">Vee jou Dissenter-data op hierdie toestel uit?</translation>
-<translation id="1318865768845061710">Jou boekmerke, geskiedenis, wagwoorde en ander Dissenter-data sal nie meer met jou Gab AI Inc-rekening gesinkroniseer word nie</translation>
-<translation id="3325020657155065477">Vee ook jou Dissenter-data op hierdie toestel uit</translation>
-<translation id="6136448902816743006">Jou Dissenter-data sal van hierdie toestel af uitgevee word omdat jy uitteken by 'n rekening wat deur <ph name="DOMAIN_NAME"/> bestuur word. Dit sal in jou Gab AI Inc-rekening bly.</translation>
+<translation id="8581481290581777242">Vee jou Fulldive-data op hierdie toestel uit?</translation>
+<translation id="1318865768845061710">Jou boekmerke, geskiedenis, wagwoorde en ander Fulldive-data sal nie meer met jou Gab AI Inc-rekening gesinkroniseer word nie</translation>
+<translation id="3325020657155065477">Vee ook jou Fulldive-data op hierdie toestel uit</translation>
+<translation id="6136448902816743006">Jou Fulldive-data sal van hierdie toestel af uitgevee word omdat jy uitteken by 'n rekening wat deur <ph name="DOMAIN_NAME"/> bestuur word. Dit sal in jou Gab AI Inc-rekening bly.</translation>
 <translation id="1853026300647876496">Kontak tans Gab AI Inc. Dit kan dalk 'n minuut neem …</translation>
 <translation id="2328985652426384049">Kan nie aanmeld nie</translation>
 <translation id="7723158744459952869">Gab AI Inc het te lank gevat om te reageer</translation>
 <translation id="4572422548854449519">Meld by 'n bestuurde rekening aan</translation>
-<translation id="2689656545739939160">Jy meld tans aan met 'n rekening wat deur <ph name="MANAGED_DOMAIN"/> bestuur word en gee sy administrateur beheer oor jou Dissenter-data. Jou data sal permanent met hierdie rekening verbind word. As jy by Dissenter afmeld, sal jou data van hierdie toestel af uitgevee word, maar dit sal steeds in jou Gab AI Inc-rekening geberg word.</translation>
+<translation id="2689656545739939160">Jy meld tans aan met 'n rekening wat deur <ph name="MANAGED_DOMAIN"/> bestuur word en gee sy administrateur beheer oor jou Fulldive-data. Jou data sal permanent met hierdie rekening verbind word. As jy by Fulldive afmeld, sal jou data van hierdie toestel af uitgevee word, maar dit sal steeds in jou Gab AI Inc-rekening geberg word.</translation>
 <translation id="1749561566933687563">Sinkroniseer jou boekmerke</translation>
 <translation id="4242533952199664413">Open instellings</translation>
 <translation id="1111673857033749125">Boekmerke wat op jou ander toestelle gestoor is, sal hier verskyn.</translation>
 <translation id="8636825310635137004">Skakel sinkronisering aan om jou oortjies van jou ander toestelle af te kry.</translation>
 <translation id="3269956123044984603">Skakel “Sinkroniseer data outomaties” in Android-rekeninginstellings aan om jou oortjies van jou ander toestelle af te kry.</translation>
-<translation id="5157964048453367290">Oortjies wat jy op jou ander toestelle in Dissenter oopgemaak het, sal hier verskyn.</translation>
+<translation id="5157964048453367290">Oortjies wat jy op jou ander toestelle in Fulldive oopgemaak het, sal hier verskyn.</translation>
 <translation id="5795872532621730126">Soek en blaai</translation>
 <translation id="9086302186042011942">Sinkroniseer tans</translation>
 <translation id="4684427112815847243">Sinchroniseer alles</translation>
@@ -452,7 +452,7 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="7810580217418711046">Enkripteer gesinkroniseerde data met Gab AI Inc-wagwoord vanaf <ph name="TIME"/></translation>
 <translation id="8461694314515752532">Enkripteer gesinkroniseerde data met jou eie sinkroniseringwagfrase</translation>
 <translation id="2996291259634659425">Skep wagfrase</translation>
-<translation id="5713644099811900409">Dissenter-rekening</translation>
+<translation id="5713644099811900409">Fulldive-rekening</translation>
 <translation id="8997474919031554666">Wagfrase-enkripsie sluit nie betaalmetodes en adresse van Gab AI Inc Pay af in nie. Net iemand met jou wagfrase kan jou geënkripteerde data lees. Die wagfrase word nie na Gab AI Inc toe gestuur of deur Gab AI Inc geberg nie. As jy jou wagfrase vergeet of hierdie instelling wil verander, sal jy sinkronisering moet terugstel. <ph name="BEGIN_LINK"/>Kom meer te wete<ph name="END_LINK"/></translation>
 <translation id="9050666287014529139">Wagfrase</translation>
 <translation id="7772032839648071052">Bevestig wagfrase</translation>
@@ -476,11 +476,11 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="7624880197989616768"><ph name="BEGIN_LINK1"/>Kry hulp<ph name="END_LINK1"/> of <ph name="BEGIN_LINK2"/>soek weer<ph name="END_LINK2"/></translation>
 <translation id="230115972905494466">Geen versoenbare toestelle gekry nie</translation>
 <translation id="3773755127849930740"><ph name="BEGIN_LINK"/>Skakel Bluetooth aan<ph name="END_LINK"/> om saambinding moontlik te maak</translation>
-<translation id="998321811308652668">Dissenter kan nie Bluetooth-aansluitprop aanskakel nie</translation>
+<translation id="998321811308652668">Fulldive kan nie Bluetooth-aansluitprop aanskakel nie</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Kry hulp<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">Dissenter benodig liggingtoegang om toestelle te soek. <ph name="BEGIN_LINK"/>Dateer toestemmings op<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">Dissenter benodig liggingtoegang om toestelle te soek. Liggingtoegang is <ph name="BEGIN_LINK"/>afgeskakel vir hierdie toestel<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">Dissenter benodig liggingtoegang om toestelle te soek. <ph name="BEGIN_LINK1"/>Dateer toestemmings op<ph name="END_LINK1"/>. Liggingtoegang is ook <ph name="BEGIN_LINK2"/>afgeskakel vir hierdie toestel<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">Fulldive benodig liggingtoegang om toestelle te soek. <ph name="BEGIN_LINK"/>Dateer toestemmings op<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">Fulldive benodig liggingtoegang om toestelle te soek. Liggingtoegang is <ph name="BEGIN_LINK"/>afgeskakel vir hierdie toestel<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">Fulldive benodig liggingtoegang om toestelle te soek. <ph name="BEGIN_LINK1"/>Dateer toestemmings op<ph name="END_LINK1"/>. Liggingtoegang is ook <ph name="BEGIN_LINK2"/>afgeskakel vir hierdie toestel<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">Gekoppelde toestel</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{Seinsterktevlak: # stafie}other{Seinsterktevlak: # stafies}}</translation>
 <translation id="5230560987958996918"><ph name="SITE"/> wil vir Bluetooth-toestelle in die omtrek soek. Die volgende toestelle is gekry:</translation>
@@ -488,11 +488,11 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="7605594153474022051">Sinchroniseer werk nie</translation>
 <translation id="2537178555904266562">Kon nie wagwoorde sinkroniseer nie</translation>
 <translation id="1810845389119482123">Aanvanklike sinkronisering-opstelling is nie klaar nie</translation>
-<translation id="3235722914093408050">Maak Android-instellings oop en heraktiveer Android-stelselsinkronisering om Dissenter-sinkronisering te begin</translation>
+<translation id="3235722914093408050">Maak Android-instellings oop en heraktiveer Android-stelselsinkronisering om Fulldive-sinkronisering te begin</translation>
 <translation id="3367813778245106622">Meld weer aan om sinkronisering te begin</translation>
 <translation id="3701167022068948696">Stel nou reg</translation>
 <translation id="974555521953189084">Voer jou wagfrase in om sinkronisering te begin</translation>
-<translation id="2997266899014181325">Skakel "Sinkroniseer jou Dissenter-data" aan om met sinkronisering te begin.</translation>
+<translation id="2997266899014181325">Skakel "Sinkroniseer jou Fulldive-data" aan om met sinkronisering te begin.</translation>
 <translation id="8260126382462817229">Probeer weer aanteken</translation>
 <translation id="5919204609460789179">Dateer <ph name="PRODUCT_NAME"/> op om sinkronisering te begin</translation>
 <translation id="397583555483684758">Sinkronisering het ophou werk</translation>
@@ -526,14 +526,14 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037"><ph name="MESSAGE"/> <ph name="LINK_NAME"/>-knoppie</translation>
 <translation id="3205824638308738187">Amper klaar!</translation>
-<translation id="3960299545138990065">Herbegin Dissenter</translation>
+<translation id="3960299545138990065">Herbegin Fulldive</translation>
 <translation id="3771001275138982843">Kon nie die opdatering aflaai nie</translation>
-<translation id="3888648114124182147">Laai tans Dissenter-opdatering af …</translation>
-<translation id="1705567146636171298">Werk Dissenter By</translation>
-<translation id="6195417478702700398">Maak oop om Dissenter op te dateer vir die beste blaai-ervaring</translation>
-<translation id="3512968675351418494">Kry die jongste weergawe van Dissenter om die web in jou taal te sien.</translation>
+<translation id="3888648114124182147">Laai tans Fulldive-opdatering af …</translation>
+<translation id="1705567146636171298">Werk Fulldive By</translation>
+<translation id="6195417478702700398">Maak oop om Fulldive op te dateer vir die beste blaai-ervaring</translation>
+<translation id="3512968675351418494">Kry die jongste weergawe van Fulldive om die web in jou taal te sien.</translation>
 <translation id="6427112570124116297">Vertaal die Web</translation>
-<translation id="1379423114029199501">Dateer op om jou taal in die jongste weergawe van Dissenter kry</translation>
+<translation id="1379423114029199501">Dateer op om jou taal in die jongste weergawe van Fulldive kry</translation>
 <translation id="5684874026226664614">Oeps. Hierdie bladsy kon nie vertaal word nie.</translation>
 <translation id="6831043979455480757">Vertaal</translation>
 <translation id="1285320974508926690">Moet nooit hierdie werf vertaal nie</translation>
@@ -557,7 +557,7 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="2532336938189706096">Webaansig</translation>
 <translation id="6005538289190791541">Voorgestelde wagwoord</translation>
 <translation id="4634124774493850572">Gebruik wagwoord</translation>
-<translation id="3088191967551450609">Dissenter het bergingtoegang nodig om lêers af te laai.</translation>
+<translation id="3088191967551450609">Fulldive het bergingtoegang nodig om lêers af te laai.</translation>
 <translation id="8942627711005830162">Maak in 'n ander venster oop</translation>
 <translation id="4195643157523330669">Open in nuwe oortjie</translation>
 <translation id="1100066534610197918">Open in nuwe oortjie in groep</translation>
@@ -580,7 +580,7 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="3384347053049321195">Deel prent</translation>
 <translation id="5833984609253377421">Deel skakel</translation>
 <translation id="6475951671322991020">Laai video af</translation>
-<translation id="2317945146070194624">Open in nuwe Dissenter-oortjie</translation>
+<translation id="2317945146070194624">Open in nuwe Fulldive-oortjie</translation>
 <translation id="7975379999046275268">Voorbeskou bladsy <ph name="BEGIN_NEW"/>Nuwe<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Vinnige werf</translation>
 <translation id="6112702117600201073">Herlaai tans bladsy</translation>
@@ -709,14 +709,14 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="6820686453637990663">CVC</translation>
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">YY</translation>
-<translation id="724102042129299115">Dissenter se eerste laatloopervaring</translation>
-<translation id="7766792282581704663">As jy Dissenter gebruik, stem jy in tot <ph name="BEGIN_LINK1"/>Gab AI Inc se diensbepalings<ph name="END_LINK1"/> en <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter en Dissenter-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">As jy Dissenter gebruik, stem jy in tot <ph name="BEGIN_LINK1"/>Gab AI Inc se diensbepalings<ph name="END_LINK1"/> en <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter en Dissenter-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2"/>. Die <ph name="BEGIN_LINK3"/>Privaatheidskennisgewing vir Gab AI Inc-rekeninge wat met Family Link bestuur word<ph name="END_LINK3"/> is ook van toepassing.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> sal in Dissenter oopmaak. As jy voortgaan, stem jy in tot <ph name="BEGIN_LINK1"/>Gab AI Inc se diensbepalings<ph name="END_LINK1"/> en <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter en Dissenter-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> sal in Dissenter oopmaak. As jy voortgaan, stem jy in tot <ph name="BEGIN_LINK1"/>Gab AI Inc se diensbepalings<ph name="END_LINK1"/> en <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter en Dissenter-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2"/>. Die <ph name="BEGIN_LINK3"/>Privaatheidskennisgewing vir Gab AI Inc-rekeninge wat met Family Link bestuur word<ph name="END_LINK3"/> is ook van toepassing.</translation>
-<translation id="673197144963363525">Help om Dissenter te verbeter deur gebruikstatistiek en omvalverslae na Gab AI Inc te stuur.</translation>
+<translation id="724102042129299115">Fulldive se eerste laatloopervaring</translation>
+<translation id="7766792282581704663">As jy Fulldive gebruik, stem jy in tot <ph name="BEGIN_LINK1"/>Gab AI Inc se diensbepalings<ph name="END_LINK1"/> en <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive en Fulldive-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">As jy Fulldive gebruik, stem jy in tot <ph name="BEGIN_LINK1"/>Gab AI Inc se diensbepalings<ph name="END_LINK1"/> en <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive en Fulldive-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2"/>. Die <ph name="BEGIN_LINK3"/>Privaatheidskennisgewing vir Gab AI Inc-rekeninge wat met Family Link bestuur word<ph name="END_LINK3"/> is ook van toepassing.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> sal in Fulldive oopmaak. As jy voortgaan, stem jy in tot <ph name="BEGIN_LINK1"/>Gab AI Inc se diensbepalings<ph name="END_LINK1"/> en <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive en Fulldive-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> sal in Fulldive oopmaak. As jy voortgaan, stem jy in tot <ph name="BEGIN_LINK1"/>Gab AI Inc se diensbepalings<ph name="END_LINK1"/> en <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive en Fulldive-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2"/>. Die <ph name="BEGIN_LINK3"/>Privaatheidskennisgewing vir Gab AI Inc-rekeninge wat met Family Link bestuur word<ph name="END_LINK3"/> is ook van toepassing.</translation>
+<translation id="673197144963363525">Help om Fulldive te verbeter deur gebruikstatistiek en omvalverslae na Gab AI Inc te stuur.</translation>
 <translation id="3518985090088779359">Aanvaar, gaan voort</translation>
-<translation id="7207456302801184289">Welkom by Dissenter</translation>
+<translation id="7207456302801184289">Welkom by Fulldive</translation>
 <translation id="7189372733857464326">Wag tans dat Gab AI Inc Play Dienste klaar opdateer</translation>
 <translation id="1231733316453485619">Aktiveer sinchronisering?</translation>
 <translation id="5132942445612118989">Sinkroniseer jou wagwoorde, geskiedenis en meer op alle toestelle</translation>
@@ -779,7 +779,7 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="6336451774241870485">Nuwe privaat oortjie</translation>
 <translation id="4521874409998847950">Vanaf <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>afgelewer deur Gab AI Inc<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Nuwer weergawe is beskikbaar</translation>
-<translation id="4058091506841967397">Dissenter dateer nie op nie</translation>
+<translation id="4058091506841967397">Fulldive dateer nie op nie</translation>
 <translation id="6316139424528454185">Steun nie Android-weergawe nie</translation>
 <translation id="6989267951144302301">Kon nie aflaai nie</translation>
 <translation id="624789221780392884">Bywerking gereed</translation>
@@ -829,7 +829,7 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="2536728043171574184">Bekyk tans 'n vanlyn kopie van hierdie bladsy</translation>
 <translation id="4698034686595694889">Bekyk vanlyn in <ph name="APP_NAME"/></translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> en nog webwerwe</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Dissenter sal jou bladsy laai wanneer dit gereed is}other{Dissenter sal jou bladsye laai wanneer dit gereed is}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Fulldive sal jou bladsy laai wanneer dit gereed is}other{Fulldive sal jou bladsye laai wanneer dit gereed is}}</translation>
 <translation id="6811034713472274749">Bladsy is gereed om bekyk te word</translation>
 <translation id="4561979708150884304">Geen verbinding nie</translation>
 <translation id="8274165955039650276">Sien aflaaie</translation>
@@ -841,14 +841,14 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="3298243779924642547">Lig</translation>
 <translation id="393697183122708255">Geaktiveerde stemsoektog is onbeskikbaar</translation>
 <translation id="7191430249889272776">Oortjie is op die agtergrond oopgemaak.</translation>
-<translation id="8445059357334030806">Maak in Dissenter oop</translation>
+<translation id="8445059357334030806">Maak in Fulldive oop</translation>
 <translation id="4720023427747327413">Maak in <ph name="PRODUCT_NAME"/> oop</translation>
 <translation id="7022756207310403729">Maak in blaaier oop</translation>
 <translation id="1113597929977215864">Wys vereenvoudigde aansig</translation>
 <translation id="1513352483775369820">Boekmerke en webgeskiedenis</translation>
-<translation id="4939482511480190003">Help om Dissenter te verbeter. <ph name="BEGIN_LINK"/>Neem aan die opname deel<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Help om Fulldive te verbeter. <ph name="BEGIN_LINK"/>Neem aan die opname deel<ph name="END_LINK"/></translation>
 <translation id="3522247891732774234">Opdatering is beskikbaar. Meer opsies</translation>
-<translation id="6773423637732432200">Dissenter kan nie opdateer nie. Meer opsies</translation>
+<translation id="6773423637732432200">Fulldive kan nie opdateer nie. Meer opsies</translation>
 <translation id="1383876407941801731">Soek</translation>
 <translation id="3328801116991980348">Werfinligting</translation>
 <translation id="9070377983101773829">Begin stemsoektog</translation>
@@ -900,7 +900,7 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="3211426585530211793">Het <ph name="ITEM_TITLE"/> uitgevee</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> boekmerke is uitgevee</translation>
 <translation id="3819178904835489326"><ph name="NUMBER_OF_DOWNLOADS"/> aflaaie is uitgevee</translation>
-<translation id="1248710015876067820">Ongesteunde aantal Dissenter-gevalle.</translation>
+<translation id="1248710015876067820">Ongesteunde aantal Fulldive-gevalle.</translation>
 <translation id="4259722352634471385">Navigasie is geblokkeer: <ph name="URL"/></translation>
 <translation id="8959122750345127698">Navigasie is onbereikbaar: <ph name="URL"/></translation>
 <translation id="5210365745912300556">Maak oortjie toe</translation>
@@ -915,18 +915,18 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="2942036813789421260">Voorskou-oortjie is toegemaak</translation>
 <translation id="6355102470683871794">Gab AI Inc <ph name="APP_NAME"/>-berging</translation>
 <translation id="3822502789641063741">Vee werfberging uit?</translation>
-<translation id="9205995714227143200">Berging van werwe wat Dissenter nie dink belangrik is nie (bv. werwe met geen gestoorde instellings nie of wat jy nie dikwels besoek nie)</translation>
+<translation id="9205995714227143200">Berging van werwe wat Fulldive nie dink belangrik is nie (bv. werwe met geen gestoorde instellings nie of wat jy nie dikwels besoek nie)</translation>
 <translation id="3997476611815694295">Berging vir onbelangrike werwe</translation>
 <translation id="8493948351860045254">Maak spasie beskikbaar</translation>
-<translation id="2324920234469020158">Dit sal koekies, kas en ander data uitvee van werwe wat Dissenter nie dink belangrik is nie.</translation>
+<translation id="2324920234469020158">Dit sal koekies, kas en ander data uitvee van werwe wat Fulldive nie dink belangrik is nie.</translation>
 <translation id="5447201525962359567">Alle werfberging, insluitend koekies en ander plaaslik gestoorde data</translation>
 <translation id="1376578503827013741">Bereken tans …</translation>
 <translation id="583281660410589416">Onbekend</translation>
 <translation id="2323763861024343754">Werfberging</translation>
-<translation id="3587672679800759167">Alle data deur Dissenter gebruik, insluitend rekeninge, boekmerke en gestoorde instellings</translation>
+<translation id="3587672679800759167">Alle data deur Fulldive gebruik, insluitend rekeninge, boekmerke en gestoorde instellings</translation>
 <translation id="6545017243486555795">Vee alle data uit</translation>
 <translation id="4095146165863963773">Vee programdata uit?</translation>
-<translation id="53119194224775367">Al Dissenter se programdata sal permanent uitgevee word. Dit sluit in alle lêers, instellings, rekeninge, databasisse, ens.</translation>
+<translation id="53119194224775367">Al Fulldive se programdata sal permanent uitgevee word. Dit sluit in alle lêers, instellings, rekeninge, databasisse, ens.</translation>
 <translation id="5307446750509046227">Vee werfberging uit</translation>
 <translation id="300526633675317032">Dit sal al <ph name="SIZE_IN_KB"/> se webwerfberging uitvee.</translation>
 <translation id="8068648041423924542">Kan nie sertifikaat kies nie.</translation>
@@ -953,15 +953,15 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="3114012059975132928">Videospeler</translation>
 <translation id="5489227211564503167">Tyd verstreke is <ph name="ELAPSED_TIME"/> van <ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Soek met Sogou</translation>
-<translation id="5406914950576900927">Dissenter kan <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> gebruik om soektogte in China uit te voer. Jy kan dit in <ph name="BEGIN_LINK"/>Instellings<ph name="END_LINK"/> verander.</translation>
+<translation id="5406914950576900927">Fulldive kan <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> gebruik om soektogte in China uit te voer. Jy kan dit in <ph name="BEGIN_LINK"/>Instellings<ph name="END_LINK"/> verander.</translation>
 <translation id="6456271171669383967">Hou Gab AI Inc</translation>
 <translation id="4384468725000734951">Gebruik Sogou om te soek</translation>
 <translation id="6103327872225198548">Gebruik Gab AI Inc om te soek</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
-<translation id="919933208285147476">Hierdie program loop tans in Dissenter</translation>
-<translation id="6143689084714664628">Werk in Dissenter</translation>
-<translation id="7675869148432102528"><ph name="APP_NAME"/> het ook data in Dissenter</translation>
-<translation id="2734140769649165081">Jy kan die data in Dissenter-instellings uitvee</translation>
+<translation id="919933208285147476">Hierdie program loop tans in Fulldive</translation>
+<translation id="6143689084714664628">Werk in Fulldive</translation>
+<translation id="7675869148432102528"><ph name="APP_NAME"/> het ook data in Fulldive</translation>
+<translation id="2734140769649165081">Jy kan die data in Fulldive-instellings uitvee</translation>
 <translation id="8232956427053453090">Hou data</translation>
 <translation id="4298388696830689168">Gekoppelde werwe</translation>
 <translation id="5763514718066511291">Tik om hierdie program se URL te kopieer</translation>
@@ -986,13 +986,13 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 <translation id="8015452622527143194">Stel alles op die bladsy terug na verstekgrootte</translation>
 <translation id="3443221991560634068">Herlaai die huidige bladsy</translation>
 <translation id="123724288017357924">Herlaai die huidige bladsy en ignoreer kasinhoud</translation>
-<translation id="305870044889644984">Maak die Dissenter-hulpsentrum in 'n nuwe oortjie oop</translation>
+<translation id="305870044889644984">Maak die Fulldive-hulpsentrum in 'n nuwe oortjie oop</translation>
 <translation id="3166827708714933426">Oortjie- en vensterkortpaaie</translation>
-<translation id="3169981355900570544">Gab AI Inc Dissenter-kenmerkkortpaaie</translation>
+<translation id="3169981355900570544">Gab AI Inc Fulldive-kenmerkkortpaaie</translation>
 <translation id="4558311620361989323">Webbladkortpaaie</translation>
-<translation id="1908301351964700579">Dissenter maak nog gereed vir VR. Herbegin Dissenter later.</translation>
+<translation id="1908301351964700579">Fulldive maak nog gereed vir VR. Herbegin Fulldive later.</translation>
 <translation id="8970887620466824814">Iets is fout.</translation>
-<translation id="1875543012935658554">Maak Dissenter weer oop.</translation>
+<translation id="1875543012935658554">Maak Fulldive weer oop.</translation>
 <translation id="79859296434321399">Installeer ARCore om verhoogderealiteitinhoud te bekyk</translation>
 <translation id="8558485628462305855">Dateer ARCore op om verhoogderealiteitinhoud te bekyk</translation>
 <translation id="3513704683820682405">Aangevulde realiteit</translation>
@@ -1004,9 +1004,9 @@ Jou Gab AI Inc-rekening het dalk ander vorme van blaaigeskiedenis, soos soektogt
 Net jy kan sien waarna jou kamera kyk. Hierdie werf kan nie jou kamera se prente sien nie.</translation>
 <translation id="1188239144602654184">Gaan by AR in</translation>
 <translation id="473775607612524610">Werk By</translation>
-<translation id="3133489217401741157">Installeer tans <ph name="MODULE"/> vir Dissenter …</translation>
+<translation id="3133489217401741157">Installeer tans <ph name="MODULE"/> vir Fulldive …</translation>
 <translation id="1791662854739702043">Geïnstalleer</translation>
-<translation id="5131234170665854056">Kan nie <ph name="MODULE"/> vir Dissenter installeer nie</translation>
+<translation id="5131234170665854056">Kan nie <ph name="MODULE"/> vir Fulldive installeer nie</translation>
 <translation id="2567385386134582609">PRENT</translation>
 <translation id="6395288395575013217">SKAKEL</translation>
 <translation id="7352939065658542140">VIDEO</translation>
@@ -1026,7 +1026,7 @@ Net jy kan sien waarna jou kamera kyk. Hierdie werf kan nie jou kamera se prente
 <translation id="1792959175193046959">Verander enige tyd die verstekaflaailigging</translation>
 <translation id="6942665639005891494">Verander enige tyd die verstekaflaailigging met die Instellingskieslysopsie</translation>
 <translation id="6850409657436465440">Jou aflaai is nog aan die gang</translation>
-<translation id="5817715962196959877">Dissenter laai lêers nou vinniger af</translation>
+<translation id="5817715962196959877">Fulldive laai lêers nou vinniger af</translation>
 <translation id="3976396876660209797">Verwyder hierdie kortpad en skep dit weer</translation>
 <translation id="6766622839693428701">Swiep ondertoe om toe te maak</translation>
 <translation id="1028699632127661925">Stuur tans na <ph name="DEVICE_NAME"/> toe …</translation>
@@ -1042,17 +1042,17 @@ Net jy kan sien waarna jou kamera kyk. Hierdie werf kan nie jou kamera se prente
 <translation id="1521774566618522728">Aktief vandag</translation>
 <translation id="3631987586758005671">Deel tans na <ph name="DEVICE_NAME"/></translation>
 <translation id="9028914725102941583">Skakel sinkronisering aan om tussen toestelle te deel</translation>
-<translation id="6162454065885854378">Skakel sinkronisering op albei toestelle in Dissenter-instellings aan om iets van jou foon af na 'n ander toestel toe te deel</translation>
-<translation id="6084271560289605378">Gaan na Dissenter-instellings</translation>
-<translation id="2746024117903470217">Skakel sinkronisering in Dissenter-instellings op 'n ander toestel aan om hierdie bladsy met die ander toestel te deel</translation>
-<translation id="7760665516427405230">Skakel sinkronisering in Dissenter-instellings aan om hierdie bladsy met 'n ander toestel te deel</translation>
+<translation id="6162454065885854378">Skakel sinkronisering op albei toestelle in Fulldive-instellings aan om iets van jou foon af na 'n ander toestel toe te deel</translation>
+<translation id="6084271560289605378">Gaan na Fulldive-instellings</translation>
+<translation id="2746024117903470217">Skakel sinkronisering in Fulldive-instellings op 'n ander toestel aan om hierdie bladsy met die ander toestel te deel</translation>
+<translation id="7760665516427405230">Skakel sinkronisering in Fulldive-instellings aan om hierdie bladsy met 'n ander toestel te deel</translation>
 <translation id="2318045970523081853">Tik om 'n oproep te maak</translation>
 <translation id="9209888181064652401">Kan nie oproepe maak nie</translation>
 <translation id="2860954141821109167">Maak seker dat 'n foonprogram op hierdie toestel geaktiveer is</translation>
 <translation id="2067805253194386918">teks</translation>
 <translation id="1450753235335490080">Kan nie <ph name="CONTENT_TYPE"/> deel nie</translation>
 <translation id="1266864766717917324">Kon nie <ph name="CONTENT_TYPE"/> deel nie.</translation>
-<translation id="8287068819750208230">Maak seker dat sinkronisering in Dissenter op <ph name="TARGET_DEVICE_NAME"/> aangeskakel is.</translation>
+<translation id="8287068819750208230">Maak seker dat sinkronisering in Fulldive op <ph name="TARGET_DEVICE_NAME"/> aangeskakel is.</translation>
 <translation id="3016635187733453316">Maak seker dat hierdie toestel aan die internet gekoppel is</translation>
 <translation id="8466613982764129868">Maak seker dat <ph name="TARGET_DEVICE_NAME"/> aan die internet gekoppel is.</translation>
 <translation id="6539092367496845964">Iets is fout. Probeer later weer.</translation>
@@ -1075,17 +1075,17 @@ Net jy kan sien waarna jou kamera kyk. Hierdie werf kan nie jou kamera se prente
 <translation id="7055152154916055070">Herleiding is geblokkeer:</translation>
 <translation id="5524843473235508879">Herleiding is geblokkeer.</translation>
 <translation id="6573096386450695060">Laat altyd toe</translation>
-<translation id="5805364706385912897">Hierdie blad gebruik te veel geheue daarom het Dissenter dit laat wag.</translation>
-<translation id="5138664332909611586">Hierdie blad gebruik te veel geheue daarom het Dissenter van die inhoud verwyder.</translation>
+<translation id="5805364706385912897">Hierdie blad gebruik te veel geheue daarom het Fulldive dit laat wag.</translation>
+<translation id="5138664332909611586">Hierdie blad gebruik te veel geheue daarom het Fulldive van die inhoud verwyder.</translation>
 <translation id="9137013805542155359">Toon oorspronklike</translation>
-<translation id="6361779936989026201">Gab AI Inc Assistent in Dissenter</translation>
+<translation id="6361779936989026201">Gab AI Inc Assistent in Fulldive</translation>
 <translation id="7291387454912369099">Assistent-geleide betaalpunt</translation>
 <translation id="9037412730408024068">Om jou te help om take te voltooi, sal Gab AI Inc die URL'e en inhoud ontvang van werwe waarop jy Assistent gebruik, asook inligting wat jy deur Assistent indien</translation>
-<translation id="4565206163201411670">Wys jou Dissenter-aktiwiteit in Digitale Welstand?</translation>
-<translation id="9055113864158719823">Jy kan werwe sien wat jy in Dissenter besoek en tydtellers vir hulle stel.\n\nGab AI Inc kry inligting oor die werwe waarvoor jy tydtellers stel en hoe lank jy hulle besoek. Hierdie inligting word gebruik om Digitale Welstand te verbeter.</translation>
-<translation id="4596514158372210596">Verwyder jou Dissenter-aktiwiteit van Digitale Welstand</translation>
-<translation id="1174893863889683998">Verwyder jou Dissenter-aktiwiteit van Digitale Welstand?</translation>
-<translation id="708829030563435351">Werwe wat jy in Dissenter besoek, sal nie wys nie. Alle werftydtellers sal uitgevee word.</translation>
+<translation id="4565206163201411670">Wys jou Fulldive-aktiwiteit in Digitale Welstand?</translation>
+<translation id="9055113864158719823">Jy kan werwe sien wat jy in Fulldive besoek en tydtellers vir hulle stel.\n\nGab AI Inc kry inligting oor die werwe waarvoor jy tydtellers stel en hoe lank jy hulle besoek. Hierdie inligting word gebruik om Digitale Welstand te verbeter.</translation>
+<translation id="4596514158372210596">Verwyder jou Fulldive-aktiwiteit van Digitale Welstand</translation>
+<translation id="1174893863889683998">Verwyder jou Fulldive-aktiwiteit van Digitale Welstand?</translation>
+<translation id="708829030563435351">Werwe wat jy in Fulldive besoek, sal nie wys nie. Alle werftydtellers sal uitgevee word.</translation>
 <translation id="2056878612599315956">Werf is onderbreek</translation>
 <translation id="671481426037969117">Jou <ph name="FQDN"/>-tydteller het uitgetel. Dit sal môre weer begin.</translation>
 <translation id="7479104141328977413">Oortjiebestuur</translation>
@@ -1101,7 +1101,7 @@ Net jy kan sien waarna jou kamera kyk. Hierdie werf kan nie jou kamera se prente
 <translation id="6201345951596836663">Skakel is gekopieer</translation>
 <translation id="6597891566292541626">Plaas QR- of strepieskode in hierdie raam.</translation>
 <translation id="3140134512074889489">Aktiveer asseblief jou kamera om 'n QR-kode te skandeer</translation>
-<translation id="5149323899804758325">Verander jou instellings sodat Dissenter jou kamera kan gebruik as jy 'n QR-kode wil skandeer</translation>
+<translation id="5149323899804758325">Verander jou instellings sodat Fulldive jou kamera kan gebruik as jy 'n QR-kode wil skandeer</translation>
 <translation id="2359808026110333948">Gaan voort</translation>
 <translation id="8233540874193135768">Gebruik 'n toestel met 'n kamera as jy 'n QR-kode wil skandeer.</translation>
 <translation id="6297765934698848803">Die organisasie wat jou toestel bestuur, het jou kamera afgeskakel.</translation>

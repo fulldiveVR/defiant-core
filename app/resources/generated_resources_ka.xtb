@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">წაშლა</translation>
 <translation id="144283815522798837">არჩეულია <ph name="NUMBER_OF_ITEMS_SELECTED"/></translation>
 <translation id="5582839680698949063">მთავარი მენიუ</translation>
-<translation id="3700405816184340252">Dissenter ისტორია</translation>
+<translation id="3700405816184340252">Fulldive ისტორია</translation>
 <translation id="7602079150116086782">ჩანართები სხვა მოწყობილობებიდან არ არის</translation>
 <translation id="4619615317237390068">ჩანართები სხვა მოწყობილობებიდან</translation>
-<translation id="82609232232243542">შესვლა Dissenter-ში</translation>
+<translation id="82609232232243542">შესვლა Fulldive-ში</translation>
 <translation id="4627442949885028695">სხვა მოწყობილობიდან გაგრძელება</translation>
-<translation id="7253276740368043692">თქვენს სხვა მოწყობილობებზე არსებულ ჩანართებზე წვდომის მისაღებად, შედით Dissenter-ში.</translation>
+<translation id="7253276740368043692">თქვენს სხვა მოწყობილობებზე არსებულ ჩანართებზე წვდომის მისაღებად, შედით Fulldive-ში.</translation>
 <translation id="6351063337294363751">ამ მენიუდან თქვენი დათვალიერების მონაცემების გასუფთავება შეგიძლიათ</translation>
 <translation id="6040143037577758943">დახურვა</translation>
 <translation id="6463795194797719782">&amp;რედაქტირება</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">პარამეტრები…</translation>
 <translation id="5801568494490449797">პარამეტრები</translation>
 <translation id="3677911431265050325">მობილური საიტის მოთხოვნა</translation>
-<translation id="236470849334943016">Dissenter-ის მომსახურების პირობები შეიცვლება 31 მარტს</translation>
+<translation id="236470849334943016">Fulldive-ის მომსახურების პირობები შეიცვლება 31 მარტს</translation>
 <translation id="1032605640136438169">გთხოვთ, გადახედოთ ახალ პირობებს</translation>
 <translation id="8712637175834984815">კარგი</translation>
 <translation id="5007392906805964215">გადახედვა</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">გადატვირთვა</translation>
 <translation id="3479552764303398839">ახლა არა</translation>
 <translation id="1008557486741366299">ახლა არა</translation>
-<translation id="8201192017531062522">Dissenter გააგრძელებს მუშაობას, სანამ Dissenter პროგრამები გახსნილი იქნება.</translation>
-<translation id="7397305826909094212">Dissenter-ის ყველა პროგრამის დახურვა</translation>
+<translation id="8201192017531062522">Fulldive გააგრძელებს მუშაობას, სანამ Fulldive პროგრამები გახსნილი იქნება.</translation>
+<translation id="7397305826909094212">Fulldive-ის ყველა პროგრამის დახურვა</translation>
 <translation id="5026874946691314267">აღარ მაჩვენო ეს</translation>
 <translation id="91568222606626347">მალსახმობის შექმნა…</translation>
 <translation id="2783321960289401138">მალსახმობის შექმნა…</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">ვირტუალური Linux მოწყობილობა: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">დანამატების ვირტუალური მანქანა: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP სინტაქსური ანალიზის პროგრამა</translation>
-<translation id="7171242884588191792">Dissenter ფაილების უტილიტები</translation>
+<translation id="7171242884588191792">Fulldive ფაილების უტილიტები</translation>
 <translation id="3183139917765991655">პროფილის იმპორტიორი</translation>
 <translation id="7367714965999718019">QR კოდების გენერატორი</translation>
 <translation id="2190069059097339078">WiFi-ს ავტორიზაციის მონაცემების მიმღები</translation>
-<translation id="5920835625712313205">Dissenter OS-ის სისტემური იმიჯ-ფაილის ჩამწერი</translation>
+<translation id="5920835625712313205">Fulldive OS-ის სისტემური იმიჯ-ფაილის ჩამწერი</translation>
 <translation id="4873312501243535625">მედია ფაილების შემმოწმებელი</translation>
 <translation id="5972666587303800813">ფიქტიური სერვისი</translation>
 <translation id="1545775234664667895">დაინსტალირებული თემა „<ph name="THEME_NAME"/>“</translation>
@@ -851,14 +851,14 @@
 <translation id="3507421388498836150">„<ph name="EXTENSION_NAME"/>“-ის მიმდინარე ნებართვები</translation>
 <translation id="5242724311594467048">ჩავრთოთ "<ph name="EXTENSION_NAME"/>"?</translation>
 <translation id="4014432863917027322">აღვადგინოთ „<ph name="EXTENSION_NAME"/>“?</translation>
-<translation id="5173189340601754836">თქვენს კომპიუტერში არსებულმა სხვა პროგრამამ დაამატა აპი, რომელსაც Dissenter-ის მუშაობის შეცვლა შეუძლია.
+<translation id="5173189340601754836">თქვენს კომპიუტერში არსებულმა სხვა პროგრამამ დაამატა აპი, რომელსაც Fulldive-ის მუშაობის შეცვლა შეუძლია.
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">თქვენს კომპიუტერში არსებულმა სხვა პროგრამამ დაამატა გაფართოება, რომელსაც Dissenter-ის მუშაობის შეცვლა შეუძლია.
+<translation id="6654312501894761082">თქვენს კომპიუტერში არსებულმა სხვა პროგრამამ დაამატა გაფართოება, რომელსაც Fulldive-ის მუშაობის შეცვლა შეუძლია.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">თქვენს კომპიუტერში არსებულმა სხვა პროგრამამ დაამატა თემა, რომელსაც Dissenter-ის მუშაობის შეცვლა შეუძლია.
+<translation id="3225882094369124157">თქვენს კომპიუტერში არსებულმა სხვა პროგრამამ დაამატა თემა, რომელსაც Fulldive-ის მუშაობის შეცვლა შეუძლია.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">გაფართოების ჩართვა</translation>
@@ -867,7 +867,7 @@
 <translation id="3908501907586732282">გაფართოების ჩართვა</translation>
 <translation id="2327492829706409234">პროგრამის ჩართვა</translation>
 <translation id="175772926354468439">თემის ჩართვა</translation>
-<translation id="5267531627648004734">Dissenter-იდან წაშლა</translation>
+<translation id="5267531627648004734">Fulldive-იდან წაშლა</translation>
 <translation id="4998873842614926205">დაადასტურეთ ცვლილებები</translation>
 <translation id="1799071797295057738">გაფართოება „<ph name="EXTENSION_NAME"/>“ ავტომატურად გაითიშა.</translation>
 <translation id="5238278114306905396">პროგრამა „<ph name="EXTENSION_NAME"/>“ ავტომატურად წაიშალა.</translation>
@@ -1003,7 +1003,7 @@
 <translation id="1616298854599875024">გაფართოების „<ph name="IMPORT_NAME"/>“ იმპორტირება ვერ მოხერხდა, რადგან ის არ არის გაზიარებული მოდული</translation>
 <translation id="2131077480075264">„<ph name="APP_NAME"/>“-ის ინსტალაცია შეუძლებელია, რადგან იგი არ არის ნებადართული „<ph name="IMPORT_NAME"/>“-ის მიერ</translation>
 <translation id="1875387611427697908">ამის დამატება შესაძლებელია მხოლოდ <ph name="CHROME_WEB_STORE"/>-დან</translation>
-<translation id="3862788408946266506">აპი, რომლის მანიფესტის ატრიბუტიცაა „kiosk_only“, უნდა დაინსტალირდეს Dissenter OS-ის კიოსკის რეჟიმში</translation>
+<translation id="3862788408946266506">აპი, რომლის მანიფესტის ატრიბუტიცაა „kiosk_only“, უნდა დაინსტალირდეს Fulldive OS-ის კიოსკის რეჟიმში</translation>
 <translation id="3834775135533257713">აპლიკაცია „<ph name="TO_INSTALL_APP_NAME"/>“ ვერ დაემატა, რადგან „<ph name="INSTALLED_APP_NAME"/>“ მასთან კონფლიქტშია.</translation>
 <translation id="144518587530125858">ვერ მოხერხდა „<ph name="IMAGE_PATH"/>“ ის დეკორაციისთვის ჩამოტვირთვა.</translation>
 <translation id="3576324189521867626">წარმატებით დაინსტალირდა</translation>
@@ -1097,7 +1097,7 @@
 <translation id="5483785310822538350">ფაილებსა და მოწყობილობებზე წვდომის გაუქმება</translation>
 <translation id="93766956588638423">გაფართოების აღდგენა</translation>
 <translation id="3905761538810670789">აპის აღდგენა</translation>
-<translation id="8808478386290700967">Dissenter-ის ვებ მაღაზია</translation>
+<translation id="8808478386290700967">Fulldive-ის ვებ მაღაზია</translation>
 <translation id="488785315393301722">დეტალების ჩვენება</translation>
 <translation id="8962083179518285172">დეტალების დამალვა</translation>
 <translation id="7287143125007575591">წვდომა აკრძალულია.</translation>
@@ -1106,9 +1106,9 @@
 <translation id="6101226222197207147">დამატებულია ახალი პროგრამა (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">დამატებულია ახალი თემა (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">„<ph name="EXTENSION_NAME"/>“ დამატებულია</translation>
-<translation id="6637045053447935202">სხვა პროგრამამ თქვენს კომპიუტერში დაამატა პროგრამა, რომელმაც შეიძლება შეცვალოს Dissenter-ის მუშაობის ფორმა.</translation>
-<translation id="2015014930243978107">სხვა პროგრამამ თქვენს კომპიუტერში დაამატა გაფართოება, რომელსაც შეუძლია შეცვალოს Dissenter-ის მუშაობის ფორმა.</translation>
-<translation id="2060128809251156338">სხვა პროგრამამ თქვენს კომპიუტერში დაამატა თემა, რომელმაც შეიძლება შეცვალოს Dissenter-ის მუშაობის ფორმა.</translation>
+<translation id="6637045053447935202">სხვა პროგრამამ თქვენს კომპიუტერში დაამატა პროგრამა, რომელმაც შეიძლება შეცვალოს Fulldive-ის მუშაობის ფორმა.</translation>
+<translation id="2015014930243978107">სხვა პროგრამამ თქვენს კომპიუტერში დაამატა გაფართოება, რომელსაც შეუძლია შეცვალოს Fulldive-ის მუშაობის ფორმა.</translation>
+<translation id="2060128809251156338">სხვა პროგრამამ თქვენს კომპიუტერში დაამატა თემა, რომელმაც შეიძლება შეცვალოს Fulldive-ის მუშაობის ფორმა.</translation>
 <translation id="2470702053775288986">გამოუყენებელი გაფართოებების გამორთვა</translation>
 <translation id="2809586584051668049">და <ph name="NUMBER_ADDITIONAL_DISABLED"/> მეტი</translation>
 <translation id="5301954838959518834">კარგი, გასაგებია</translation>
@@ -1313,7 +1313,7 @@
 <translation id="8017679124341497925">მალსახმობი რედაქტირებულია</translation>
 <translation id="1174073918202301297">მალსახმობი დამატებულია</translation>
 <translation id="2926085873880284723">ნაგულისხმევი მალსახმობების აღდგენა</translation>
-<translation id="5801450813341024983">Dissenter-ის ფონები</translation>
+<translation id="5801450813341024983">Fulldive-ის ფონები</translation>
 <translation id="2800760947029405028">სურათის ატვირთვა</translation>
 <translation id="8342861492835240085">აირჩიეთ კოლექცია</translation>
 <translation id="3132996321662585180">ყოველდღიურად განახლება</translation>
@@ -1400,7 +1400,7 @@
 <translation id="833986336429795709">აირჩიეთ აპი ამ ბმულის გასახსნელად</translation>
 <translation id="192494336144674234">გახსნა აპლიკაციით</translation>
 <translation id="9053893665344928494">ჩემი არჩევანის დამახსოვრება</translation>
-<translation id="5340857474604400806">Dissenter-ში დარჩენა</translation>
+<translation id="5340857474604400806">Fulldive-ში დარჩენა</translation>
 <translation id="3043581297103810752"><ph name="ORIGIN"/>-დან</translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ინკოგნიტო)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (სტუმარი)</translation>
@@ -1461,8 +1461,8 @@
 <translation id="6686817083349815241">შეინახეთ თქვენი პაროლი</translation>
 <translation id="8141725884565838206">მართეთ თქვენი პაროლები</translation>
 <translation id="8275038454117074363">იმპორტი</translation>
-<translation id="3191314862567596053">პაროლების იმპორტი Dissenter-ში</translation>
-<translation id="6368144843345980623">პაროლების ექსპორტი Dissenter-იდან</translation>
+<translation id="3191314862567596053">პაროლების იმპორტი Fulldive-ში</translation>
+<translation id="6368144843345980623">პაროლების ექსპორტი Fulldive-იდან</translation>
 <translation id="8503813439785031346">მომხმარებლის სახელი</translation>
 <translation id="6657585470893396449">პაროლი</translation>
 <translation id="5472627187093107397">პაროლების შენახვა ამ საიტისთვის</translation>
@@ -1493,7 +1493,7 @@
 <translation id="7052237160939977163">ეფექტურობის ტრასირების მონაცემების გაგზავნა</translation>
 <translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth ჟურნალების<ph name="END_LINK"/> დართვა (Gab AI Inc-ის შიდა გამოყენებისთვის)</translation>
 <translation id="3047644958362961983">ეს ინფორმაცია დაგვეხმარება, უკეთ გავერკვიოთ, თუ რა პრობლემა გაქვთ ასისტენტთან დაკავშირებით. ის ინახება მაქსიმუმ 90 დღის ვადით და მასზე წვდომა აქვს მხოლოდ ინჟინერებისა და უკუკავშირის შესაბამის გუნდებს.</translation>
-<translation id="8545590844135745781">Bluetooth-თან დაკავშირებული პრობლემების უკეთ დიაგნოსტირების მიზნით, Gab AI Incr-ის თანამშრომლებს შეუძლიათ გამოხმაურებისთვის Bluetooth-ის დამატებითი ჟურნალების დართვა. ამ ვარიანტის მონიშვნის შემთხვევაში, თქვენს ანგარიშს დაერთვება მიმდინარე სესიის btsnoop და HCI ჟურნალები, რომლებიდანაც მაქსიმალურად ამოიშლება ინფორმაცია, რომლის მეშვეობითაც შესაძლებელია პიროვნების ვინაობის დადგენა. აღნიშნულ ჟურნალებზე წვდომა შეეძლებათ მხოლოდ Dissenter OS პროდუქტის ჯგუფის მენეჯერებს Listnr-ში. ჟურნალები გასუფთავდება 90 დღის შემდეგ.</translation>
+<translation id="8545590844135745781">Bluetooth-თან დაკავშირებული პრობლემების უკეთ დიაგნოსტირების მიზნით, Gab AI Incr-ის თანამშრომლებს შეუძლიათ გამოხმაურებისთვის Bluetooth-ის დამატებითი ჟურნალების დართვა. ამ ვარიანტის მონიშვნის შემთხვევაში, თქვენს ანგარიშს დაერთვება მიმდინარე სესიის btsnoop და HCI ჟურნალები, რომლებიდანაც მაქსიმალურად ამოიშლება ინფორმაცია, რომლის მეშვეობითაც შესაძლებელია პიროვნების ვინაობის დადგენა. აღნიშნულ ჟურნალებზე წვდომა შეეძლებათ მხოლოდ Fulldive OS პროდუქტის ჯგუფის მენეჯერებს Listnr-ში. ჟურნალები გასუფთავდება 90 დღის შემდეგ.</translation>
 <translation id="4206323443866416204">გამოხმაურების ანგარიში</translation>
 <translation id="3681311097828166361">გმადლობთ გამოხმაურებისთვის. ახლა ხაზგარეშე რეჟიმში ხართ და თქვენი ანგარიში მოგვიანებით გაიგზავნება.</translation>
 <translation id="8713570323158206935">გააგზავნეთ <ph name="BEGIN_LINK1"/>სისტემის ინფორმაცია<ph name="END_LINK1"/></translation>
@@ -1510,15 +1510,15 @@
 <translation id="6885771755599377173">სისტემის ინფორმაციის გადახედვა</translation>
 <translation id="1016566241875885511">დამატებითი ინფორმაცია (არასავალდებულო)</translation>
 <translation id="8026334261755873520">დათვალიერების მონაცემების გასუფთავება</translation>
-<translation id="4718442817388594217">არჩეული მონაცემები ამოიშალა Dissenter-იდან და სინქრონიზებული მოწყობილობებიდან. თქვენს Gab AI Inc ანგარიშში შეიძლება სხვა ტიპის დათვალიერების ისტორია იყოს შენახული (მაგალითად, ძიებები და Gab AI Inc-ის სხვა სერვისებზე აქტივობა), რომელიც ხელმისაწვდომია მისამართზე: <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="7814200940910057384">Dissenter მონაცემები გასუფთავდა</translation>
+<translation id="4718442817388594217">არჩეული მონაცემები ამოიშალა Fulldive-იდან და სინქრონიზებული მოწყობილობებიდან. თქვენს Gab AI Inc ანგარიშში შეიძლება სხვა ტიპის დათვალიერების ისტორია იყოს შენახული (მაგალითად, ძიებები და Gab AI Inc-ის სხვა სერვისებზე აქტივობა), რომელიც ხელმისაწვდომია მისამართზე: <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="7814200940910057384">Fulldive მონაცემები გასუფთავდა</translation>
 <translation id="7346909386216857016">კარგი, გასაგებია</translation>
 <translation id="8493236660459102203">მიკროფონი:</translation>
 <translation id="3925573269917483990">კამერა:</translation>
 <translation id="648927581764831596">არ არის ხელმისაწვდომი</translation>
 <translation id="4172051516777682613">ყოველთვის ჩვენება</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{ამომხტარი ფანჯარა დაიბლოკა}other{# ამომხტარი ფანჯარა დაიბლოკა}}</translation>
-<translation id="4156865452842056672">(Dissenter-ის შეცდომების გვერდები)</translation>
+<translation id="4156865452842056672">(Fulldive-ის შეცდომების გვერდები)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> შეიძლება ვერ განახლდეს დამოუკიდებლად</translation>
 <translation id="8590375307970699841">დააყენეთ ავტომატური განახლებება</translation>
 <translation id="8926389886865778422">აღარ მკითხო</translation>
@@ -1623,10 +1623,10 @@
 <translation id="8658645149275195032"><ph name="APP_NAME"/> თქვენს ეკრანსა და აუდიოს <ph name="TAB_NAME"/>-ს უზიარებს.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> ფანჯარას აზიარებს.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> ფანჯარას <ph name="TAB_NAME"/>-ს უზიარებს.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> Dissenter-ის ჩანართს აზიარებს.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> Dissenter-ის ჩანართს <ph name="TAB_NAME"/>-ს უზიარებს.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> Dissenter-ის ჩანართსა და აუდიოს აზიარებს.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> Dissenter-ის ჩანართს და აუდიოს <ph name="TAB_NAME"/>-ს უზიარებს.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> Fulldive-ის ჩანართს აზიარებს.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> Fulldive-ის ჩანართს <ph name="TAB_NAME"/>-ს უზიარებს.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> Fulldive-ის ჩანართსა და აუდიოს აზიარებს.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> Fulldive-ის ჩანართს და აუდიოს <ph name="TAB_NAME"/>-ს უზიარებს.</translation>
 <translation id="7108338896283013870">დამალვა</translation>
 <translation id="890616557918890486">წყაროს შეცვლა</translation>
 <translation id="7792388396321542707">შეწყვიტეთ გაზიარება</translation>
@@ -1649,7 +1649,7 @@
 <translation id="4711067597921221305">დახმარება აუმჯობესებს <ph name="PRODUCT_NAME"/> ს Gab AI Inc-ისათვის მეხსიერების სტატისტიკის და ავარიული ანგარიშების ავტომატურ მიწოდებას</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/>-ის გაშვება</translation>
 <translation id="4876273079589074638">ხელი შეუწყვეთ ჩვენს ინჟინრებს, შეისწავლონ და გამოასწორონ ავარიულად გათიშვის მიზეზი. შეძლებისდაგვარად, ზუსტად ჩამოთვალეთ ყველა ეტაპი. ყოველი დეტალი მნიშვნელოვანია!</translation>
-<translation id="5418694430960033386">შესაძლოა Dissenter-ისთვის არასაკმარისი მეხსიერებაა ან ვებგვერდისთვის გაშვებული პროცესი შეწყდა სხვა მიზეზის გამო. გასაგრძელებლად, ხელახლა ჩატვირთეთ ან გადადით სხვა გვერდზე.</translation>
+<translation id="5418694430960033386">შესაძლოა Fulldive-ისთვის არასაკმარისი მეხსიერებაა ან ვებგვერდისთვის გაშვებული პროცესი შეწყდა სხვა მიზეზის გამო. გასაგრძელებლად, ხელახლა ჩატვირთეთ ან გადადით სხვა გვერდზე.</translation>
 <translation id="3065041951436100775">ჩანართის დახურვის შესახებ გამოხმაურება.</translation>
 <translation id="3941565636838060942">იმისათვის, რომ დამალოთ წვდომა ამ ვებსაიტზე, უნდა მოახდინოთ მისი დეინსტალაცია
   <ph name="CONTROL_PANEL_APPLET_NAME"/> -ის გამოყენებით მართვის პანელზე.
@@ -1670,14 +1670,14 @@
 <translation id="4846680374085650406">ამ პატარამეტრის შემთხვევაში, თქვენ იზიარებთ ადმინისტრატორის რეკომენდაციას.</translation>
 <translation id="1223853788495130632">თქვენი ადმინისტრატორი გირჩევთ, დააყენოთ კონკრეტული მნიშვნელობა ამ პარამეტრისთვის.</translation>
 <translation id="5464660706533281090">ამ პარამეტრს ბავშვი-მომხმარებელი ვერ შეცვლის.</translation>
-<translation id="8839398440242019256">არ არის Dissenter Web Store-იდან.</translation>
+<translation id="8839398440242019256">არ არის Fulldive Web Store-იდან.</translation>
 <translation id="5337771866151525739">დაყენებულია მესამე მხარის მიერ.</translation>
 <translation id="4538792345715658285">დაყენებულია ორგანიზაციის პოლიტიკის შესაბამისად.</translation>
 <translation id="4359408040881008151">ინსტალაცია შესრულდა გაფართოებაზე დაყრდნობით.</translation>
 <translation id="4980805016576257426">ეს გაფართოება მავნე პროგრამას შეიცავს.</translation>
 <translation id="5522156646677899028">ეს გაფართოება შეიცავს უსაფრთხოების სერიოზულ ხარვეზს.</translation>
-<translation id="6945695820322143954">ეს გაფართოება არღვევს Dissenter-ის ვებ მაღაზიის პოლიტიკას.</translation>
-<translation id="177808131755847449">გათიშულია Dissenter-ის მიერ. ეს გაფართოება შეიძლება არ იყოს უსაფრთხო.</translation>
+<translation id="6945695820322143954">ეს გაფართოება არღვევს Fulldive-ის ვებ მაღაზიის პოლიტიკას.</translation>
+<translation id="177808131755847449">გათიშულია Fulldive-ის მიერ. ეს გაფართოება შეიძლება არ იყოს უსაფრთხო.</translation>
 <translation id="1434696352799406980">ამ მოქმედებით ჩამოიყრება თქვენი გაშვების გვერდი, ახალი ჩანართის გვერდი, საძიებო სისტემა და ჩამაგრებული ჩანართები. ამასთანავე, გაითიშება ყველა გაფართოება და გასუფთავდება დროებითი მონაცემები, როგორიცაა ქუქი-ჩანაწერები. თქვენი სანიშნეები, ისტორია და შენახული პაროლები არ გასუფთავდება.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/>-ს თქვენი პარამეტრების გადაყენება სურს.</translation>
 <translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/>-ს სურს თქვენი პარამეტრების საწყის მნიშვნელობებზე დაბრუნდება. ეს მოქმედება გადააყენებს თქვენს მთავარ გვერდს, ახალი ჩანართის გვერდსა და საძიებო სისტემას, ასევე გაითიშება გაფართოებები და მოიხსენება ყველა ჩანართის ჩამაგრება. ეს მოქმედება გაასუფთავებს სხვა დროებით და ქეშირებულ მონაცემებსაც, როგორიცაა ქუქი-ჩანაწერები, კონტენტი და საიტების მონაცემები.</translation>
@@ -1874,7 +1874,7 @@
 <translation id="6664774537677393800">თქვენი პროფილის გახსნისას შეფერხება წარმოიქმნა. გთხოვთ, გამოხვიდეთ და ხელახლა შეხვიდეთ სისტემაში.</translation>
 <translation id="1794791083288629568">გამოხმაურება ამ პრობლემის მოგვარების ხელშესაწყობად.</translation>
 <translation id="8234795456569844941">დაეხმარეთ ჩვენს ინჟინრებს ამ პრობლემის მოგვარებაში. გვიამბეთ, რა უძღვოდა წინ პროფილთან დაკავშირებული შეცდომის გამოჩენას:</translation>
-<translation id="6500340165622970282">Dissenter-ის გაშვება ვერ მოხერხდა, რადგან თქვენი პროფილის გახსნისას შეფერხება წარმოიქმნა. ცადეთ Dissenter-ის ხელახლა გაშვება.</translation>
+<translation id="6500340165622970282">Fulldive-ის გაშვება ვერ მოხერხდა, რადგან თქვენი პროფილის გახსნისას შეფერხება წარმოიქმნა. ცადეთ Fulldive-ის ხელახლა გაშვება.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> არ შეიძლება გაიშვას, როგორც ძირეული.</translation>
 <translation id="2292848386125228270">გთხოვთ, გაუშვათ <ph name="PRODUCT_NAME"/> ჩვეულებრივი მომხმარებლის სახელით. თუ დეველოპერული მიზნებისთვის მისი გაშვება root-ის სახელით გსურთ, ხელახლა გაშვებისას გამოიყენეთ ალამი --no-sandbox.</translation>
 <translation id="7547317915858803630">გაფრთხილება: თქვენი <ph name="PRODUCT_NAME"/>-ის პარამეტრები ინახება ქსელის დისკწამყვანზე. ამან შეიძლება გამოიწვიოს შენელება, მწყობრიდან გამოსვლა და მონაცემთა დაკარგვაც კი.</translation>
@@ -2248,8 +2248,8 @@
 <translation id="4720113199587244118">დაამატეთ მოწყობილობები</translation>
 <translation id="2776441542064982094">როგორც ჩანს, ქსელში დასარეგისტრირებელი მოწყობილობები არ არის ხელმისაწვდომი. თუ თქვენი მოწყობილობა ჩართულია და დაკავშირებულია ინტერნეტთან, სცადეთ მისი რეგისტრაცია სახელმძღვანელოში მოცემული ინსტრუქციის შესაბამისად.</translation>
 <translation id="1007408791287232274">მოწყობილობების ატვირთვა ვერ მოხერხდა.</translation>
-<translation id="3886420006370338208">მოწყობილობების სანახავად უნდა შეხვიდეთ Dissenter-ში</translation>
-<translation id="6711610692002680394">ახალი მოწყობილობების რეგისრტაციისთვის უნდა შეხვიდეთ Dissenter-ში</translation>
+<translation id="3886420006370338208">მოწყობილობების სანახავად უნდა შეხვიდეთ Fulldive-ში</translation>
+<translation id="6711610692002680394">ახალი მოწყობილობების რეგისრტაციისთვის უნდა შეხვიდეთ Fulldive-ში</translation>
 <translation id="8931394284949551895">ახალი მოწყობილობები</translation>
 <translation id="3752673729237782832">ჩემი მოწყობილობები</translation>
 <translation id="1721937473331968728">შეგიძლიათ დაამატოთ კლასიკური პრინტერები, რომლებიც დაკავშირებულია თქვენს კომპიუტერთან, <ph name="CLOUD_PRINT_NAME"/>-ში.</translation>
@@ -2322,7 +2322,7 @@
 <translation id="4540437243849625078">ეს საიტი აპირებს ინფორმაციის გაზიარებას აპთან ინკოგნიტო რეჟიმის გარეთ.</translation>
 <translation id="1227836882233136433">გსურთ ინკოგნიტო რეჟიმიდან გამოსვლა?</translation>
 <translation id="662080504995468778">დარჩენა</translation>
-<translation id="2593289874938379417">Dissenter-ს მოთხოვნილ რესურსზე წვდომა არ აქვს.</translation>
+<translation id="2593289874938379417">Fulldive-ს მოთხოვნილ რესურსზე წვდომა არ აქვს.</translation>
 <translation id="760197030861754408">დასაკავშირებლად მოინახულეთ <ph name="LANDING_PAGE"/>.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> აღმოჩენილია</translation>
 <translation id="5042282098504489593"><ph name="USB_DEVICE_NAME"/> რომ დაუკავშიროთ Linux-ს, გახსენით პარამეტრები</translation>
@@ -2376,24 +2376,24 @@
 <translation id="2859806420264540918">ამ საიტზე ნაჩვენებია მომაბეზრებელი ან შეცდომაში შემყვანი რეკლამა.</translation>
 <translation id="4077917118009885966">რეკლამა დაბლოკილია ამ საიტზე</translation>
 <translation id="6456955391422100996">რეკლამა ამოიშალა.</translation>
-<translation id="7533556202636568669">ეს რეკლამა იყენებს თქვენი მოწყობილობის მეტისმეტად ბევრ რესურს, ამიტომ Dissenter-მა ამოშალა ის.</translation>
+<translation id="7533556202636568669">ეს რეკლამა იყენებს თქვენი მოწყობილობის მეტისმეტად ბევრ რესურს, ამიტომ Fulldive-მა ამოშალა ის.</translation>
 <translation id="8497219075884839166">Windows-ის უტილიტები</translation>
 <translation id="897525204902889653">კარანტინის სერვისი</translation>
 <translation id="7055152154916055070">გადამისამართება დაიბლოკა:</translation>
 <translation id="6777817260680419853">გადამისამართება დაიბლოკა</translation>
 <translation id="694592694773692225">გადამისამართება დაიბლოკა ამ გვერდზე.</translation>
-<translation id="8945142681652245463">დაათვალიერეთ ვები სწრაფად Gab AI Inc Dissenter-ის მეშვეობით</translation>
-<translation id="2618024864038703735">დაათვალიერეთ ვები უსაფრთხოდ Gab AI Inc Dissenter-ის მეშვეობით</translation>
-<translation id="8142180567942285208">დაათვალიერეთ ვები გონივრულად Dissenter-ის მეშვეობით</translation>
+<translation id="8945142681652245463">დაათვალიერეთ ვები სწრაფად Gab AI Inc Fulldive-ის მეშვეობით</translation>
+<translation id="2618024864038703735">დაათვალიერეთ ვები უსაფრთხოდ Gab AI Inc Fulldive-ის მეშვეობით</translation>
+<translation id="8142180567942285208">დაათვალიერეთ ვები გონივრულად Fulldive-ის მეშვეობით</translation>
 <translation id="8862003515646449717">გადადით სწრაფ ბრაუზერზე</translation>
 <translation id="8438328416656800239">გადადით გონიერ ბრაუზერზე</translation>
 <translation id="491691592645955587">გადადით უსაფრთხო ბრაუზერზე</translation>
 <translation id="683373380308365518">გადადით გონიერ და უსაფრთხო ბრაუზერზე</translation>
-<translation id="989239400026154074">Gab AI Inc გირჩევთ Dissenter-ს</translation>
-<translation id="6676231621615806698">Dissenter-ის გახსნა</translation>
+<translation id="989239400026154074">Gab AI Inc გირჩევთ Fulldive-ს</translation>
+<translation id="6676231621615806698">Fulldive-ის გახსნა</translation>
 <translation id="5250372599208556903">ადგილობრივი კონტენტის უზრუნველსაყოფად <ph name="SEARCH_ENGINE_NAME"/> იყენებს თქვენს მდებარეობას. ამის შეცვლა შეგიძლიათ სექციაში „<ph name="SETTINGS_LINK"/>“.</translation>
 <translation id="3737536731758327622">აქ გამოჩნდება თქვენი ჩამოტვირთვები</translation>
-<translation id="4782664866169793230">Dissenter-ს ავტომატიზებული სატესტო პროგრამული უზრუნველყოფა აკონტროლებს.</translation>
+<translation id="4782664866169793230">Fulldive-ს ავტომატიზებული სატესტო პროგრამული უზრუნველყოფა აკონტროლებს.</translation>
 <translation id="6721678857435001674">თქვენი უსაფრთხოების გასაღების ბრენდისა და მოდელის ნახვა</translation>
 <translation id="1673137583248014546"><ph name="URL"/> ითხოვს თქვენი უსაფრთხოების გასაღების ბრენდისა და მოდელის ნახვის ნებართვას</translation>
 <translation id="6010869025736512584">შემომავალ ვიდეოზე წვდომა</translation>
@@ -2526,7 +2526,7 @@
 <translation id="3984431586879874039">გსურთ, ამ საიტმა ნახოს თქვენი უსაფრთხოების გასაღები?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> ითხოვს თქვენი უსაფრთხოების გასაღების ბრენდისა და მოდელის ნახვის ნებართვას</translation>
 <translation id="7618452966706304788">გსურთ, ინკოგნიტო რეჟიმში გამოიყენოთ Touch ID <ph name="APP_NAME"/>-ისთვის?</translation>
-<translation id="3098826269712097986">ინკოგნიტო რეჟიმიდან გასვლის შემდეგ სისტემაში შესვლის მონაცემები შეინახება Dissenter-ში. ეს საშუალებას მოგცემთ, ამ ვებსაიტზე მოგვიანებით გამოიყენოთ Touch ID.</translation>
+<translation id="3098826269712097986">ინკოგნიტო რეჟიმიდან გასვლის შემდეგ სისტემაში შესვლის მონაცემები შეინახება Fulldive-ში. ეს საშუალებას მოგცემთ, ამ ვებსაიტზე მოგვიანებით გამოიყენოთ Touch ID.</translation>
 <translation id="2172784515318616985">გაგრძელება</translation>
 <translation id="5186185447130319458">ინკოგნიტო</translation>
 <translation id="7643842463591647490">{0,plural, =1{# გახსნილი ფანჯარა}other{# გახსნილი ფანჯარა}}</translation>
@@ -2568,7 +2568,7 @@
 <translation id="2346953515226895098">SODA Service</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> დაპაუზებულია</translation>
 <translation id="917350715406657904">მიღწეულია მშობლის მიერ <ph name="APP_NAME"/>-ზე დაწესებული დროის ლიმიტი. ხვალ შეგიძლიათ <ph name="TIME_LIMIT"/> გამოიყენოთ ის.</translation>
-<translation id="8891261408659902804">მიღწეულია მშობლის მიერ <ph name="APP_NAME"/>-ის Dissenter აპზე დაწესებული დროის ლიმიტი. ხვალ შეგიძლიათ <ph name="TIME_LIMIT"/> გამოიყენოთ ის.</translation>
+<translation id="8891261408659902804">მიღწეულია მშობლის მიერ <ph name="APP_NAME"/>-ის Fulldive აპზე დაწესებული დროის ლიმიტი. ხვალ შეგიძლიათ <ph name="TIME_LIMIT"/> გამოიყენოთ ის.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> დაბლოკილია</translation>
 <translation id="4404843640767531781"><ph name="APP_NAME"/> დაბლოკილია თქვენი მშობლის მიერ. ამ აპის გამოსაყენებლად დაგჭირდებათ მშობლის ნებართვა.</translation>
 <translation id="751523031290522286"><ph name="APP_NAME"/> დაბლოკილია ადმინისტრატორის მიერ. ამ აპის გამოსაყენებლად დაგჭირდებათ ადმინისტრატორის ნებართვა.</translation>
@@ -2901,7 +2901,7 @@
 <translation id="672213144943476270">სტუმრის სტატუსით დათვალიერებამდე, გთხოვთ, განბლოკოთ თქვენი პროფილი.</translation>
 <translation id="8086119151297127544">პიროვნების ამოშლამდე, გთხოვთ, განბლოკოთ თქვენი პროფილი.</translation>
 <translation id="7805701378418968629">პიროვნების დამატებამდე, გთხოვთ, განბლოკოთ თქვენი პროფილი.</translation>
-<translation id="8978225823042133615">Dissenter-ის გამოსაყენებლად, გთხოვთ, შეხვიდეთ სისტემაში</translation>
+<translation id="8978225823042133615">Fulldive-ის გამოსაყენებლად, გთხოვთ, შეხვიდეთ სისტემაში</translation>
 <translation id="4893336867552636863">ეს მოქმედება სამუდამოდ წაშლის თქვენს დათვალიერების მონაცემებს ამ მოწყობილობიდან.</translation>
 <translation id="2496180316473517155">ნახვის ისტორია</translation>
 <translation id="6865313869410766144">ფორმათა მონაცემების ავტომატური შევსება</translation>
@@ -2925,7 +2925,7 @@
 <translation id="9013707997379828817">თქვენმა ადმინისტრატორმა დააბრუნა ეს მოწყობილობა ძველ ვერსიაზე. გთხოვთ, შეინახოთ მნიშვნელოვანი ფაილები, შემდეგ კი გადატვირთოთ მოწყობილობა. მასზე არსებული ყველა მონაცემი წაიშლება.</translation>
 <translation id="5877064549588274448">არხი შეიცვალა. გადატვირთეთ მოწყობილობა ცვლილებების გამოსაყენებლად.</translation>
 <translation id="4716483597559580346">Powerwash-ის განხორციელება დამატებითი უსაფრთხოებისთვის</translation>
-<translation id="4089922565956168950">ეს განახლება გამოიწვევს თქვენი Dissenterbook-ის გადაყენებას და ამჟამინდელი მომხმარებლის მონაცემების ამოშლას.</translation>
+<translation id="4089922565956168950">ეს განახლება გამოიწვევს თქვენი Fulldivebook-ის გადაყენებას და ამჟამინდელი მომხმარებლის მონაცემების ამოშლას.</translation>
 <translation id="3688526734140524629">არხის შეცვლა</translation>
 <translation id="6410328738210026208">არხის შეცვლა და განახლება</translation>
 <translation id="1979280758666859181">მიმდინარეობს არხის შეცვლა <ph name="PRODUCT_NAME"/>-ის ძველი ვერსიით. არხის ცვლილება გააქტიურდება, როდესაც არხის ვერსია დაემთხვევა მოწყობილობაში ამჟამად დაინსტალირებულ ვერსიას.</translation>
@@ -2957,7 +2957,7 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> და კიდევ 1 სხვა ანგარიში}other{<ph name="EMAIL"/> და კიდევ <ph name="EXTRA_ACCOUNTS"/> სხვა ანგარიში}}</translation>
 <translation id="7434635829372401939">თქვენი პარამეტრების სინქრონიზაცია</translation>
 <translation id="1036348656032585052">გამორთვა</translation>
-<translation id="3267705913905916810">თქვენი აპები და პარამეტრები სინქრონიზებული იქნება თქვენს ყველა Dissenter OS მოწყობილობასთან, რომელზეც შესული ხართ თქვენი Gab AI Inc ანგარიშით. ბრაუზერის სინქრონიზაციის პარამეტრების სანახავად გადადით <ph name="LINK_BEGIN"/>Dissenter-ის პარამეტრებზე<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">თქვენი აპები და პარამეტრები სინქრონიზებული იქნება თქვენს ყველა Fulldive OS მოწყობილობასთან, რომელზეც შესული ხართ თქვენი Gab AI Inc ანგარიშით. ბრაუზერის სინქრონიზაციის პარამეტრების სანახავად გადადით <ph name="LINK_BEGIN"/>Fulldive-ის პარამეტრებზე<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">პრინტერები</translation>
 <translation id="8418661265246754237">Gab AI Inc ანგარიშები</translation>
 <translation id="3953834000574892725">ჩემი ანგარიშები</translation>
@@ -3004,7 +3004,7 @@
 <translation id="2187700606737131818">Gab AI Inc Photos</translation>
 <translation id="1827738518074806965">ხელოვნების გალერეა</translation>
 <translation id="9137157311132182254">სასურველი საძიებო სისტემა</translation>
-<translation id="7423118389528876103">გამოიყენება Dissenter ბრაუზერისა და <ph name="DEVICE_TYPE"/> გამშვების მიერ</translation>
+<translation id="7423118389528876103">გამოიყენება Fulldive ბრაუზერისა და <ph name="DEVICE_TYPE"/> გამშვების მიერ</translation>
 <translation id="2862205630718215619">Gab AI Inc ასისტენტი</translation>
 <translation id="8959699239363253085">ჩართული</translation>
 <translation id="971479617738309149">გამორთული</translation>
@@ -3024,15 +3024,15 @@
 <translation id="6644513150317163574">URL-ის ფორმატი არასწორია. SSO ავტორიზაციით სარგებლობისას სერვერი მითითებული უნდა იყოს ჰოსტის სახელის სახით.</translation>
 <translation id="6091761513005122595">გაზიარება მიერთებულია წარმატებით.</translation>
 <translation id="5770125698810550803">ნავიგაციის ღილაკების ჩვენება</translation>
-<translation id="2972318514147518075">ნავიგაცია მთავარზე/უკან და აპებს შორის გადართვა ღილაკების მეშვეობით ტაბლეტის რეჟიმში. ჩაირთვება, როცა გააქტიურებულია DissenterVox ან ავტომატური დაწკაპუნებები.</translation>
+<translation id="2972318514147518075">ნავიგაცია მთავარზე/უკან და აპებს შორის გადართვა ღილაკების მეშვეობით ტაბლეტის რეჟიმში. ჩაირთვება, როცა გააქტიურებულია FulldiveVox ან ავტომატური დაწკაპუნებები.</translation>
 <translation id="2558896001721082624">სისტემის მენიუში მარტივი წვდომის ვარიანტების ყოველთვის ჩვენება</translation>
 <translation id="2981113813906970160">აჩვენეთ მაუსის დიდი კურსორი</translation>
 <translation id="5072052264945641674">კურსორის ზომის დარეგულირება</translation>
 <translation id="4209092469652827314">დიდი</translation>
 <translation id="499165176004408815">მაღალკონტრასტული რეჟიმის გამოყენება</translation>
 <translation id="142758023928848008">ფიქსირებული ღილაკების ჩართვა (კლავიატურის მალსახმობების შესრულება, მათი თანმიმდევრულად აკრეფის გზით)</translation>
-<translation id="5914872514449971753">DissenterVox-ის ჩართვა (ხმოვანი შეფასება)</translation>
-<translation id="7099511550603534982">DissenterVox-ის პარამეტრების გახსნა</translation>
+<translation id="5914872514449971753">FulldiveVox-ის ჩართვა (ხმოვანი შეფასება)</translation>
+<translation id="7099511550603534982">FulldiveVox-ის პარამეტრების გახსნა</translation>
 <translation id="8547013269961688403">სრულეკრანიანი ლუპის ჩართვა</translation>
 <translation id="8743390665131937741">სრულეკრანიანი მასშტაბის დონე:</translation>
 <translation id="7334274148831027933">ჩამაგრებული ლუპის ჩართვა</translation>
@@ -3124,7 +3124,7 @@
 <translation id="6902066522699286937">გადასახედი ხმა</translation>
 <translation id="304747341537320566">მეტყველების მოდულები</translation>
 <translation id="2755367719610958252">მარტივი წვდომის ფუნქციების მართვა</translation>
-<translation id="1203953622051744249">მართეთ თქვენი სისტემაში შესული ანგარიშები. მინიჭებული ნებართვების მიხედვით, Dissenter-სა და Gab AI Inc Play-ში არსებულმა ვებსაიტებმა, აპებმა თუ გაფართოებებმა შეიძლება გამოიყენოს აღნიშნული ანგარიშები სერვისებით სარგებლობის პროცესის თქვენზე მოსარგებად. <ph name="LINK_BEGIN"/>შეიტყვეთ მეტი<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">მართეთ თქვენი სისტემაში შესული ანგარიშები. მინიჭებული ნებართვების მიხედვით, Fulldive-სა და Gab AI Inc Play-ში არსებულმა ვებსაიტებმა, აპებმა თუ გაფართოებებმა შეიძლება გამოიყენოს აღნიშნული ანგარიშები სერვისებით სარგებლობის პროცესის თქვენზე მოსარგებად. <ph name="LINK_BEGIN"/>შეიტყვეთ მეტი<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">აქ შეგიძლიათ სასწავლებლის ანგარიშის დამატება ან შვილის ანგარიშების მართვა. <ph name="LINK_BEGIN"/>შეიტყვეთ მეტი<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">ანგარიშები</translation>
 <translation id="6597148444736186483">ამ მოწყობილობაზე ძირითადი ანგარიშიდან გამოსასვლელად ეკრანზე დააწკაპუნეთ დროზე. გამოჩენილ მენიუში დააწკაპუნეთ „გასვლაზე“.</translation>
@@ -3196,7 +3196,7 @@
 <translation id="234889437187286781">შეცდომა მონაცემების ჩატვირთვისას</translation>
 <translation id="4660540330091848931">მიმდინარეობს ზომის შეცვლა</translation>
 <translation id="1481537595330271162">შეცდომა დისკის ზომის შეცვლისას</translation>
-<translation id="2756917833575664962">ADB გამართვის ჩასართავად საჭიროა ამ Dissenterbook-ის ქარხნულ პარამეტრებზე დაბრუნება. <ph name="BEGIN_LINK_LEARN_MORE"/>შეიტყვეთ მეტი<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">ADB გამართვის ჩასართავად საჭიროა ამ Fulldivebook-ის ქარხნულ პარამეტრებზე დაბრუნება. <ph name="BEGIN_LINK_LEARN_MORE"/>შეიტყვეთ მეტი<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">ADB გამართვის ჩასართავად უნდა გადატვირთოთ ეს <ph name="DEVICE_TYPE"/>. მის გასათიშად საჭირო ქარხნული პარამეტრების დაბრუნება.</translation>
 <translation id="8082390128630131497">ADB გამართვის გათიშვის შემთხვევაში ეს <ph name="DEVICE_TYPE"/> დაბრუნდება ქარხნულ პარამეტრებზე. მომხმარებლის ყველა ანგარიში და ლოკალური მონაცემები ამოიშლება.</translation>
 <translation id="7932969338829957666">გაზიარებული საქაღალდეები Linux-ში ხელმისაწვდომია აქ: <ph name="BASE_DIR"/>.</translation>
@@ -3324,10 +3324,10 @@
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> ხელმისაწვდომი აღარ არის</translation>
 <translation id="3976108569178263973">ხელმისაწვდომი პრინტერები არ არის.</translation>
 <translation id="217576141146192373">პრინტერის დამატება ვერ მოხერხდა. შეამოწმეთ პრინტერის კონფიგურაცია და ცადეთ ხელახლა.</translation>
-<translation id="4052689580269971502">პრინტერთან დაკავშირება ვერ მოხერხდა. დარწმუნდით, რომ პრინტერი ჩართულია და დაკავშირებულია თქვენს Dissenterbook-თან Wi-Fi ქსელის ან USB-ის მეშვეობით.</translation>
+<translation id="4052689580269971502">პრინტერთან დაკავშირება ვერ მოხერხდა. დარწმუნდით, რომ პრინტერი ჩართულია და დაკავშირებულია თქვენს Fulldivebook-თან Wi-Fi ქსელის ან USB-ის მეშვეობით.</translation>
 <translation id="7099337801055912064">დიდი ზომის PPD-ის ჩატვირთვა ვერ მოხერხდება. მაქსიმალური ზომაა 250 კბაიტი.</translation>
 <translation id="4310139701823742692">ფაილის ფორმატი არასწორია. შეამოწმეთ PPD ფაილი და ცადეთ ხელახლა.</translation>
-<translation id="6580983683519551561">PPD ვერ მოიძებნა. დარწმუნდით, რომ თქვენი Dissenterbook ონლაინ რეჟიმშია და ცადეთ ხელახლა.</translation>
+<translation id="6580983683519551561">PPD ვერ მოიძებნა. დარწმუნდით, რომ თქვენი Fulldivebook ონლაინ რეჟიმშია და ცადეთ ხელახლა.</translation>
 <translation id="4694024090038830733">პრინტერის კონფიგურაციას ახდენს ადმინისტრატორი.</translation>
 <translation id="5816434091619127343">პრინტერთან დაკავშირებული მოთხოვნილი ცვლილებები მის მუშაობას არასტაბილურს გახდის.</translation>
 <translation id="6504611359718185067">პრინტერის დასამატებლად, დაუკავშირდით ინტერნეტს</translation>
@@ -3663,18 +3663,18 @@
 <translation id="7770651108375708429">Wi-Fi-ს გათიშვა</translation>
 <translation id="4168015872538332605">გაგიზიარეთ ზოგიერთი პარამეტრი რომელიც.მიეკუთვნება <ph name="PRIMARY_EMAIL"/>. ეს პარამეტრები იმოქმედებს თქვენს ანგარიშზე მხოლოდ მაშინ, როდესაც გამოყენებთ მრავლობით შესვლას.</translation>
 <translation id="1485141095922496924">ვერსია <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Dissenter-ის ავტომატურად განახლება ყველა მომხმარებლისთვის</translation>
+<translation id="4570609078116869893">Fulldive-ის ავტომატურად განახლება ყველა მომხმარებლისთვის</translation>
 <translation id="7102687220333134671">ავტომატური განახლებები ჩართულია</translation>
 <translation id="6981982820502123353">სპეციალური შესაძლებლობები</translation>
-<translation id="5840822070878669614">Dissenter Web Store-ის გახსნა</translation>
+<translation id="5840822070878669614">Fulldive Web Store-ის გახსნა</translation>
 <translation id="6073903501322152803">მარტივი წვდომის ფუნქციების დამატება</translation>
 <translation id="7988355189918024273">მარტივი წვდომის ფუნქციების ჩართვა</translation>
-<translation id="5499063270485366718">თუ სურათს არ ექნება სასარგებლო აღწერილობა, Dissenter შეეცდება მის უზრუნველყოფას. აღწერილობების შესაქმნელად სურათები იგზავნება Gab AI Inc-ში.</translation>
+<translation id="5499063270485366718">თუ სურათს არ ექნება სასარგებლო აღწერილობა, Fulldive შეეცდება მის უზრუნველყოფას. აღწერილობების შესაქმნელად სურათები იგზავნება Gab AI Inc-ში.</translation>
 <translation id="8957762313041272117">ავტოსუბტიტრები</translation>
-<translation id="7075426315046750605">ავტოსუბტიტრები ამოიცნობს მეტყველებას მედიაფაილში და ავტომატურად შექმნის სუბტიტრებს Dissenter-ში გაშვებული მედიაკონტენტისთვის.</translation>
+<translation id="7075426315046750605">ავტოსუბტიტრები ამოიცნობს მეტყველებას მედიაფაილში და ავტომატურად შექმნის სუბტიტრებს Fulldive-ში გაშვებული მედიაკონტენტისთვის.</translation>
 <translation id="572155275267014074">Android-ის პარამეტრები</translation>
 <translation id="7201042526153088083">დააინსტალირეთ აპები და თამაშები Gab AI Inc Play-დან თქვენს <ph name="DEVICE_TYPE"/>-ზე. &lt;a target="_blank" href="<ph name="URL"/>"&gt;შეიტყვეთ მეტი&lt;/a&gt;</translation>
-<translation id="8039595758121742506">ამ Dissenterbook-იდან წაიშლება Gab AI Inc Play-ს მეშვეობით ჩამოტვირთული აპები.
+<translation id="8039595758121742506">ამ Fulldivebook-იდან წაიშლება Gab AI Inc Play-ს მეშვეობით ჩამოტვირთული აპები.
       <ph name="LINE_BREAKS1"/>
       გარდა ამისა, შეიძლება წაიშალოს თქვენ მიერ შეძენილი კონტენტი, როგორიცაა ფილმები, სატელევიზიო შოუები, მუსიკა, წიგნები ან აპს-შიდა შენაძენები.
       <ph name="LINE_BREAKS2"/>
@@ -3688,7 +3688,7 @@
 <translation id="6006484371116297560">კლასიკური</translation>
 <translation id="1795214765651529549">კლასიკურის გამოყენება</translation>
 <translation id="2332742915001411729">დააბრუნეთ ნაგულისხმევზე</translation>
-<translation id="8338457030135232378">Dissenter-ის ფერები</translation>
+<translation id="8338457030135232378">Fulldive-ის ფერები</translation>
 <translation id="827097179112817503">მთავარი გვერდის ღილაკის ჩვენება</translation>
 <translation id="383007806262310953">სანიშნეების ზოლის ჩვენება</translation>
 <translation id="3911824782900911339">ახალი ჩანართის გვერდი</translation>
@@ -3700,7 +3700,7 @@
 <translation id="1670399744444387456">ძირითადი</translation>
 <translation id="1763808908432309942">გაიხსნება ახალ ჩანართში</translation>
 <translation id="6248988683584659830">ძიების პარამეტრები</translation>
-<translation id="883304095704384301">თუ სასურველ კონტენტს ვერ პოულობთ, გადადით <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Dissenter-ის დახმარების<ph name="END_LINK_CHROMIUM"/> სექციაზე</translation>
+<translation id="883304095704384301">თუ სასურველ კონტენტს ვერ პოულობთ, გადადით <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive-ის დახმარების<ph name="END_LINK_CHROMIUM"/> სექციაზე</translation>
 <translation id="6406708970972405507">პარამეტრები — <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">ქვეგვერდის ღილაკი</translation>
 <translation id="379509625511193653">გამორთული</translation>
@@ -3887,7 +3887,7 @@
 <translation id="5468173180030470402">მიმდინარეობს ფაილების გაზიარებების ძიება.</translation>
 <translation id="3336664756920573711">განბლოკეთ <ph name="DEVICE_TYPE"/> თქვენი Android ტელეფონის მეშვეობით</translation>
 <translation id="1164674268730883318">გსურთ, ჩართოთ Smart Lock <ph name="DEVICE_TYPE"/>-ისთვის?</translation>
-<translation id="2739030071582769583">ფუნქცია „Smart Lock <ph name="DEVICE_TYPE"/>-ისთვის“ გამორთვის შემთხვევაში, ტელეფონის მეშვეობით თქვენი Dissenter მოწყობილობების განბლოკვას ვეღარ შეძლებთ და პაროლის აკრეფა მოგიწევთ.</translation>
+<translation id="2739030071582769583">ფუნქცია „Smart Lock <ph name="DEVICE_TYPE"/>-ისთვის“ გამორთვის შემთხვევაში, ტელეფონის მეშვეობით თქვენი Fulldive მოწყობილობების განბლოკვას ვეღარ შეძლებთ და პაროლის აკრეფა მოგიწევთ.</translation>
 <translation id="4737715515457435632">დაუკავშირდით ქსელს</translation>
 <translation id="5425722269016440406">თუ გსურთ Smart Lock-ის ფუნქციის გამორთვა, თქვენ უნდა იყოთ ონლაინ რეჟიმში. ეს პარამეტრი სინქრონირდება თქვენს ტელეფონთან და სხვა მოწყობილობებთან. გთხოვთ, პირველ რიგში, დაამყაროთ ქსელთან კავშირდი.</translation>
 <translation id="8885197664446363138">Smart Lock მიუწვდომელია</translation>
@@ -4121,20 +4121,20 @@
 <translation id="3633309367764744750">წინასწარ ჩატვირთავს ინფორმაციას გვერდებიდან, მათ შორის, გვერდებიდან, რომლებიც ჯერ არ მოგინახულებიათ. წინასწარ ჩატვირთული ინფორმაცია შეიძლება მოიცავდეს ქუქი-ჩანაწერებს (თუ დაუშვებთ მათ).</translation>
 <translation id="3201899458094819285">Safe Browsing (თქვენ და თქვენს მოწყობილობებს გიცავთ სახიფათო საიტებისგან)</translation>
 <translation id="2876369937070532032">Gab AI Inc-ს უგზავნის თქვენ მიერ მონახულებული ზოგიერთი გვერდის URL-ებს, როცა უსაფრთხოება რისკის ქვეშ არის</translation>
-<translation id="4991384657077828949">Dissenter-ის უსაფრთხოების გაუმჯობესების ხელშეწყობა</translation>
+<translation id="4991384657077828949">Fulldive-ის უსაფრთხოების გაუმჯობესების ხელშეწყობა</translation>
 <translation id="1984646864943401749">Gab AI Inc-ს გაუგზავნის თქვენ მიერ მონახულებული ზოგიერთი გვერდის URL-ებს, სისტემის შეზღუდულ ინფორმაციასა და გვერდების გარკვეულ კონტენტს ვების ყველა მომხმარებლისთვის ახალი საფრთხეების აღმოსაჩენად და დასაბლოკად.</translation>
 <translation id="1641113438599504367">Safe Browsing</translation>
 <translation id="6900532703269623216">გაძლიერებული დაცვა</translation>
 <translation id="7307583170263691471">უფრო სწრაფი, პროაქტიური დაცვა სახიფათო ვებსაიტებისგან, ჩამოტვირთვებისა და გაფართოებებისგან. გაგაფრთხილებთ პაროლების შესახებ ინფორმაციის გაჟონვის შემთხვევაში. საჭირო იქნება დათვალიერების მონაცემების Gab AI Inc-ში გაგზავნა.</translation>
 <translation id="8645920082661222035">პროგნოზირებს სახიფათო მოვლენებს და გაგაფრთხილებთ მათ შესახებ</translation>
-<translation id="5265419033369521352">უზრუნველყოფს თქვენს უსაფრთხოებას Dissenter-ში და Gab AI Inc-ის სხვა აპებში, როცა სისტემაში შესული ხართ</translation>
+<translation id="5265419033369521352">უზრუნველყოფს თქვენს უსაფრთხოებას Fulldive-ში და Gab AI Inc-ის სხვა აპებში, როცა სისტემაში შესული ხართ</translation>
 <translation id="6770602306803890733">უსაფრთხოების გაუმჯობესება თქვენთვის და ვების ყველა მომხმარებლისთვის</translation>
 <translation id="3690369331356918524">გაგაფრთხილებთ მონაცემთა გაჟონვისას პაროლების გამოაშკარავების შემთხვევაში</translation>
 <translation id="4979281249641199724">URL-ებს შესამოწმებლად Safe Browsing-ს უგზავნის. ახალი საფრთხეების აღმოჩენის ხელშესაწყობად ასევე გზავნის გვერდების მცირე ნიმუშებს, ჩამოტვირთვებს, გაფართოებათა აქტივობას და სისტემის ინფორმაციას. Gab AI Inc-ის აპებში თქვენს დასაცავად დროებით მიაბამს ამ მონაცემებს თქვენს Gab AI Inc ანგარიშს, როცა სისტემაში შესული ხართ.</translation>
 <translation id="1963976881984600709">სტანდარტული დაცვა</translation>
 <translation id="6882836635272038266">სტანდარტული დაცვა ცნობილი სახიფათო ვებსაიტებისგან, ჩამოტვირთვებისა და გაფართოებებისგან.</translation>
 <translation id="5561162485081632007">აღმოაჩენს სახიფათო მოვლენებს და გაგაფრთხილებთ მათ შესახებ</translation>
-<translation id="7810992039564280750">შეამოწმებს URL-ების თანხვედრას Dissenter-ში შენახულ არაუსაფრთხო საიტების სიასთან. საიტის მიერ პაროლის მოპარვის მცდელობის ან თქვენ მიერ საზიანო ფაილის ჩამოტვირთვის შემთხვევაში Dissenter-ის მიერ Safe Browsing-ს გაეგზავნება URL-ები და შესაბამისი გვერდის კონტენტის გარკვეული ნაწილი.</translation>
+<translation id="7810992039564280750">შეამოწმებს URL-ების თანხვედრას Fulldive-ში შენახულ არაუსაფრთხო საიტების სიასთან. საიტის მიერ პაროლის მოპარვის მცდელობის ან თქვენ მიერ საზიანო ფაილის ჩამოტვირთვის შემთხვევაში Fulldive-ის მიერ Safe Browsing-ს გაეგზავნება URL-ები და შესაბამისი გვერდის კონტენტის გარკვეული ნაწილი.</translation>
 <translation id="3847319713229060696">ხელი შეუწყვეთ ვების უსაფრთხოების ყველასთვის გაუმჯობესებას</translation>
 <translation id="1984417487208496350">დაცვის გარეშე (არარეკომენდებული)</translation>
 <translation id="1295971429974142731">არ დაგიცავთ სახიფათო ვებსაიტებისგან, ჩამოტვირთვებისა თუ გაფართოებებისგან. Safe Browsing-ის დაცვით (ხელმისაწვდომობის მიხედვით) მაინც ისარგებლებთ სხვა Gab AI Inc სერვისებში, როგორიცაა Gmail თუ Search.</translation>
@@ -4190,7 +4190,7 @@
 <translation id="8632933437936028548">პარამეტრების გადაყენება</translation>
 <translation id="5293170712604732402">პარამეტრების დაბრუნება თავდაპირველ ნაგულისხმევ მნიშვნელობებზე</translation>
 <translation id="892706138619340876">ზოგიერთი პარამეტრი გადაყენებულია</translation>
-<translation id="2334029754052191847">Dissenter-მა აღმოაჩინა, რომ თქვენი ბრაუზერის ზოგიერთი პარამეტრი დაზიანდა სხვა პროგრამის მიერ და აღდგენილ იქნა ორიგინალი ნაგულისხმევი პარამეტრები.</translation>
+<translation id="2334029754052191847">Fulldive-მა აღმოაჩინა, რომ თქვენი ბრაუზერის ზოგიერთი პარამეტრი დაზიანდა სხვა პროგრამის მიერ და აღდგენილ იქნა ორიგინალი ნაგულისხმევი პარამეტრები.</translation>
 <translation id="4582563038311694664">ყველა პარამეტრის აღდგენა</translation>
 <translation id="4146785383423576110">გადაყენება და გასუფთავება</translation>
 <translation id="2603115962224169880">კომპიუტერის გასუფთავება</translation>
@@ -4259,7 +4259,7 @@
 <translation id="5340638867532133571">საიტებისთვის გადახდის დამმუშავებლების ინსტალაციის დაშვება (რეკომენდებული)</translation>
 <translation id="763632859238619983">საიტებისთვის გადახდის დამმუშავებლების ინსტალაციის აკრძალვა</translation>
 <translation id="8270242299912238708">PDF დოკუმენტები</translation>
-<translation id="539658326146969381">PDF-ფაილების ჩამოტვირთვა, Dissenter-ში მათი ავტომატურად გახსნის ნაცვლად</translation>
+<translation id="539658326146969381">PDF-ფაილების ჩამოტვირთვა, Fulldive-ში მათი ავტომატურად გახსნის ნაცვლად</translation>
 <translation id="4434045419905280838">ამომხ. ფანჯრები/გადამისამართება</translation>
 <translation id="6612358246767739896">დაცული შიგთავსი</translation>
 <translation id="4252852543720145436">დაცული კონტენტის იდენტიფიკატორები</translation>
@@ -4320,7 +4320,7 @@
 <translation id="2913331724188855103">საშუალებას აძლევს საიტებს შეინახონ და გაეცნონ ქუქი ფაილებს (რეკომენდირებული)</translation>
 <translation id="5908769186679515905">საიტებისთვის Flash-ის გაშვების დაბლოკვა</translation>
 <translation id="783214144752121388">საიტებისთვის Flash-ის გაშვების აკრძალვა (რეკომენდებული)</translation>
-<translation id="6096007141921397775">თქვენი Flash პარამეტრები შენარჩუნდება Dissenter-იდან გასვლამდე.</translation>
+<translation id="6096007141921397775">თქვენი Flash პარამეტრები შენარჩუნდება Fulldive-იდან გასვლამდე.</translation>
 <translation id="8074127646604999664">ახლახან დახურული საიტებისთვის მონაცემების გაგზავნისა და მიღების დასრულების დაშვება</translation>
 <translation id="7062222374113411376">ახლახან დახურული საიტებისთვის მონაცემების გაგზავნისა და მიღების დასრულების დაშვება</translation>
 <translation id="5068918910148307423">არ დაიშვას ახლახან დახურული საიტებისთვის მონაცემების გაგზავნისა და მიღების დასრულება</translation>
@@ -4400,7 +4400,7 @@
 <translation id="5566692924079383101">ეს გამონაკლისი ავტომატურად ამოიშლება ამჟამინდელი ინკოგნიტო სესიიდან გასვლის შემდეგ</translation>
 <translation id="383891835335927981">მასშტაბის გადიდება ან შემცირება არცერთ საიტზე არ მოხდარა</translation>
 <translation id="3566721612727112615">საიტები არ დამატებულა</translation>
-<translation id="8098574385249290065">საიტებისთვის ხმის დაკვრის დაშვების Dissenter-ისთვის მინდობა (რეკომენდებული)</translation>
+<translation id="8098574385249290065">საიტებისთვის ხმის დაკვრის დაშვების Fulldive-ისთვის მინდობა (რეკომენდებული)</translation>
 <translation id="4354344420232759511">აქ გამოჩნდება თქვენ მიერ მონახულებული საიტები</translation>
 <translation id="3757733214359997190">საიტები ვერ მოიძებნა</translation>
 <translation id="6545864417968258051">Bluetooth სკანირება</translation>
@@ -4413,7 +4413,7 @@
 <translation id="8546541260734613940">[*].еxample.com</translation>
 <translation id="7366415735885268578">საიტის დამატება</translation>
 <translation id="5052499409147950210">საიტის რედაქტირება</translation>
-<translation id="4610862967073369855">საშუალებას აძლევს Android Messages-ს, მოახდინოს ტექსტური შეტყობინებების რეტრანსლირება ტელეფონიდან თქვენს Dissenterbook-ში</translation>
+<translation id="4610862967073369855">საშუალებას აძლევს Android Messages-ს, მოახდინოს ტექსტური შეტყობინებების რეტრანსლირება ტელეფონიდან თქვენს Fulldivebook-ში</translation>
 <translation id="6742339027238151589">ხელმისაწვდომია სკრიპტისთვის</translation>
 <translation id="361106536627977100">ფლეშ მონაცემები</translation>
 <translation id="8557930019681227453">მანიფესტი</translation>
@@ -4490,23 +4490,23 @@
 <translation id="3817524650114746564">პროქსი-სერვერის პარამეტრების გახსნა თქვენს კომპიუტერზე</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> იყენებს პროქსი-სერვერის პარამეტრებს, რომლებიც განსაზღვრულია გაფართოების მიერ</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> იყენებს პროქსი-სერვერის პარამეტრებს, რომლებიც განსაზღვრულია თქვენი ადმინისტრატორის მიერ</translation>
-<translation id="6187156085111579405">საჭიროების შემთხვევაში, შეიძლება ამოიშალოს ის ერთეულებიც, რომელიც აქ ჩამოთვლილი არ არის. შეიტყვეთ მეტი &lt;a href="<ph name="URL"/>"&gt;არასასურველი პროგრამული უზრუნველყოფისგან დაცვის&lt;/a&gt; შესახებ Dissenter-ის კონფიდენციალურობასთან დაკავშირებულ დოკუმენტში.</translation>
+<translation id="6187156085111579405">საჭიროების შემთხვევაში, შეიძლება ამოიშალოს ის ერთეულებიც, რომელიც აქ ჩამოთვლილი არ არის. შეიტყვეთ მეტი &lt;a href="<ph name="URL"/>"&gt;არასასურველი პროგრამული უზრუნველყოფისგან დაცვის&lt;/a&gt; შესახებ Fulldive-ის კონფიდენციალურობასთან დაკავშირებულ დოკუმენტში.</translation>
 <translation id="5280174558369304332">ამოსაშლელი გაფართოებები:</translation>
 <translation id="7712836429117959503">უცნობი გაფართოება შემდეგი ID-ით: <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">კარანტინში მოსათავსებელი ფაილები და პროგრამები:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 ერთეული}other{{NUM_ITEMS} ერთეული}}</translation>
 <translation id="7187428571767585875">ამოიშლება ან შეიცვლება რეესტრის შემდეგი ჩანაწერები:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{1 სხვა}other{{NUM_DOWNLOADS} სხვა}}</translation>
-<translation id="2749608811030566578">Dissenter-ის მიერ საზიანო პროგრამული უზრუნველყოფის ამოშლისას წარმოიქმნა შეცდომა</translation>
-<translation id="8189483132214844139">Dissenter-ს შეუძლია თქვენს კომპიუტერზე საზიანო პროგრამული უზრუნველყოფის პოვნა და ამოშლა</translation>
+<translation id="2749608811030566578">Fulldive-ის მიერ საზიანო პროგრამული უზრუნველყოფის ამოშლისას წარმოიქმნა შეცდომა</translation>
+<translation id="8189483132214844139">Fulldive-ს შეუძლია თქვენს კომპიუტერზე საზიანო პროგრამული უზრუნველყოფის პოვნა და ამოშლა</translation>
 <translation id="1426870617281699524">დააწკაპუნეთ „ხელახლა ცდა“-ზე და დაეთანხმეთ მოთხოვნას თქვენს კომპიუტერზე</translation>
-<translation id="7886744396008377537">თქვენს კომპიუტერზე აღმოჩენილია საზიანო პროგრამული უზრუნველყოფა. ამჟამად Dissenter ცდილობს მის ამოშლას, თქვენი პარამეტრების აღდგენას და გაფართოებების გათიშვას. ამის შემდეგ თქვენი ბრაუზერი კვლავ ნორმალურად იმუშავებს.</translation>
-<translation id="1484912962860902625">Dissenter-ის მიერ საზიანო პროგრამული უზრუნველყოფის ძიებისას წარმოიქმნა შეცდომა</translation>
+<translation id="7886744396008377537">თქვენს კომპიუტერზე აღმოჩენილია საზიანო პროგრამული უზრუნველყოფა. ამჟამად Fulldive ცდილობს მის ამოშლას, თქვენი პარამეტრების აღდგენას და გაფართოებების გათიშვას. ამის შემდეგ თქვენი ბრაუზერი კვლავ ნორმალურად იმუშავებს.</translation>
+<translation id="1484912962860902625">Fulldive-ის მიერ საზიანო პროგრამული უზრუნველყოფის ძიებისას წარმოიქმნა შეცდომა</translation>
 <translation id="451407183922382411">უზრუნველყოფს <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">ამოსაშლელი ფაილების ჩვენება</translation>
 <translation id="296026337010986570">საზიანო პროგრამული უზრუნველყოფა ამოიშალა. გაფართოებების ხელახლა ჩასართავად გადადით &lt;a href="chrome://extensions"&gt;გაფართოებებზე&lt;/a&gt;.</translation>
 <translation id="284975061945174219">გასუფთავება ვერ მოხერხდა</translation>
-<translation id="9014750448058570312">გასაგრძელებლად Dissenter საჭიროებს ნებართვას</translation>
+<translation id="9014750448058570312">გასაგრძელებლად Fulldive საჭიროებს ნებართვას</translation>
 <translation id="1852141627593563189">იპოვეთ საზიანო პროგრამული უზრუნველყოფა</translation>
 <translation id="850875081535031620">საზიანო პროგრამული უზრუნველყოფა არ მოიძებნა</translation>
 <translation id="1186771945450942097">საზიანო პროგრამული უზრუნველყოფის ამოშლა</translation>
@@ -4519,7 +4519,7 @@
 <translation id="6555810572223193255">გასუფთავების ფუნქცია ამჟამად მიუწვდომელია</translation>
 <translation id="7117228822971127758">გთხოვთ, ცადოთ მოგვიანებით</translation>
 <translation id="443475966875174318">შეუთავსებელი აპლიკაციების განახლება ან ამოშლა</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{მითითებულ აპლიკაციას შეუძლია Dissenter-ის გამართული მუშაობისთვის ხელის შეშლა.}other{მითითებულ აპლიკაციებს შეუძლია Dissenter-ის გამართული მუშაობისთვის ხელის შეშლა.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{მითითებულ აპლიკაციას შეუძლია Fulldive-ის გამართული მუშაობისთვის ხელის შეშლა.}other{მითითებულ აპლიკაციებს შეუძლია Fulldive-ის გამართული მუშაობისთვის ხელის შეშლა.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{იმისთვის, რომ კვლავ შეძლოთ ვების დათვალიერება, სთხოვეთ თქვენს ადმინისტრატორს, ამოშალოს ეს აპლიკაცია.}other{იმისთვის, რომ კვლავ შეძლოთ ვების დათვალიერება, სთხოვეთ თქვენს ადმინისტრატორს, ამოშალოს ეს აპლიკაციები.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>შეიტყვეთ აპლიკაციების განახლების შესახებ<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{აპლიკაცია}other{აპლიკაციები}}</translation>
@@ -4602,13 +4602,13 @@
 <translation id="284843628681142937">Gab AI Inc-ს უგზავნის თქვენ მიერ მონახულებული გვერდების URL-ებს</translation>
 <translation id="7704317875155739195">ძიებებისა და URL-ების ავტომატური დასრულება</translation>
 <translation id="2000419248597011803">თქვენს ნაგულისხმევ საძიებო სისტემას უგზავნის ზოგიერთ ქუქი-ჩანაწერს და საძიებო მოთხოვნებს მისამართთა ზოლიდან ან საძიებო ველიდან</translation>
-<translation id="918192811481327695">შეუწყვეთ ხელი Dissenter-ის ფუნქციებისა და წარმადობის გაუმჯობესებას</translation>
+<translation id="918192811481327695">შეუწყვეთ ხელი Fulldive-ის ფუნქციებისა და წარმადობის გაუმჯობესებას</translation>
 <translation id="9063160602596686558">ავტომატური აგზავნის Gab AI Inc-ში გამოყენების სტატისტიკასა და შეცდომების ანგარიშებს</translation>
 <translation id="6697492270171225480">მსგავსი გვერდების შემოთავაზებების ჩვენება, როცა გვერდი ვერ მოიძებნება</translation>
 <translation id="4534361985432360439">Gab AI Inc-ს უგზავნის იმ გვერდის ვებ-მისამართს, რომელთან დაკავშირებასაც ცდილობთ</translation>
 <translation id="3831436149286513437">ძიების შემოთავაზებები Gab AI Inc Drive-იდან</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/>-თან სინქრონიზაცია</translation>
-<translation id="9125982323641182972">ისარგებლეთ Gab AI Inc-ის გონიერი ფუნქციებით Dissenter-ში</translation>
+<translation id="9125982323641182972">ისარგებლეთ Gab AI Inc-ის გონიერი ფუნქციებით Fulldive-ში</translation>
 <translation id="2537178555904266562">შეცდომა პაროლების სინქრონიზაციისას</translation>
 <translation id="4314815835985389558">სინქრონიზაციის მართვა</translation>
 <translation id="8931475688782629595">დასასინქრონებელი მონაცემების მართვა</translation>
@@ -4626,7 +4626,7 @@
 <translation id="1651008383952180276">შეყვანილი საიდუმლო ფრაზები უნდა ემთხვეოდეს</translation>
 <translation id="988978206646512040">ცარიელი საიდუმლო ფრაზის გამოყენება დაუშვებელია</translation>
 <translation id="2136476978468204130">თქვენ მიერ შეყვანილი საიდუმლო ფრაზა არასწორია</translation>
-<translation id="7505421639213002314">Dissenter-ის სინქრონიზაციის მონაცემები</translation>
+<translation id="7505421639213002314">Fulldive-ის სინქრონიზაციის მონაცემები</translation>
 <translation id="452750746583162491">სინქრონიზებული მონაცემების გადახედვა</translation>
 <translation id="7956662517480676674">სინქრონიზაციის/Gab AI Inc სერვისები</translation>
 <translation id="7772032839648071052">დაადასტურეთ პაროლი</translation>
@@ -4714,7 +4714,7 @@
 <translation id="7235716375204803342">მიმდინარეობს აქტივობების მიღება…</translation>
 <translation id="8314381333424235892">ნაკლული ან დაუინსტალირებელი გაფართოება</translation>
 <translation id="7647403192093989392">ბოლოდროინდელი აქტივობები არ არის</translation>
-<translation id="38046578254905003">იპოვეთ გაფართოებები და თემები <ph name="BEGIN_LINK"/>Dissenter Web Store<ph name="END_LINK"/>-ში</translation>
+<translation id="38046578254905003">იპოვეთ გაფართოებები და თემები <ph name="BEGIN_LINK"/>Fulldive Web Store<ph name="END_LINK"/>-ში</translation>
 <translation id="7272674038937250585">აღწერილობა არ არის მოწოდებული</translation>
 <translation id="3855441664322950881">გაფართოების შეფუთვა</translation>
 <translation id="2958721676848865875">პაკეტის გაფართოების გაფრთხილება</translation>
@@ -4725,7 +4725,7 @@
 <translation id="1992397118740194946">არ არის დაყენებული</translation>
 <translation id="6706210727756204531">არეალი</translation>
 <translation id="5532223876348815659">მსოფლიო</translation>
-<translation id="300669147395456190">Dissenter-ის პროგრამები</translation>
+<translation id="300669147395456190">Fulldive-ის პროგრამები</translation>
 <translation id="6787839852456839824">კლავიატურის მალსახმობები</translation>
 <translation id="6419546358665792306">გახსნილის ჩატვირთვა</translation>
 <translation id="8023801379949507775">გაანახლეთ გაფართოებები ეხლა</translation>
@@ -4739,13 +4739,13 @@
 <translation id="8447409163267621480">დაურთეთ Ctrl ან Alt</translation>
 <translation id="3365598184818502391">გამოიყენეთ Ctrl ან Alt</translation>
 <translation id="1688935057616748272">აკრიფეთ ასო</translation>
-<translation id="1579879232130925590">უფრო დაცული და ეფექტური Dissenter</translation>
+<translation id="1579879232130925590">უფრო დაცული და ეფექტური Fulldive</translation>
 <translation id="964057662886721376">ზოგიერთმა გაფართოებამ (განსაკუთრებით, რომელთა ინსტალაციასაც არ გეგმავდით) შეიძლება შეანელოს მოწყობილობა.</translation>
 <translation id="1499271269825557605">თუ გაფართოებას ვერ ცნობთ ან ბრაუზერი მოლოდინისამებრ არ მუშაობს, აქ შეგიძლიათ გამორთოთ ან მოირგოთ გაფართოებები.</translation>
 <translation id="2382818385048255866">შეამოწმეთ თქვენი გაფართოებები</translation>
 <translation id="3900789207771372462">ზოგიერთ გაფართოებას შეუძლია თქვენი დათვალიერების აქტივობის (მათ შორის, პერსონალური ინფორმაციის) ნახვა.</translation>
 <translation id="6772339735733515807">თქვენი გაფართოებების მართვა</translation>
-<translation id="1510515462062582289">ამ გვერდზე შეგიძლიათ იხილოთ Dissenter-ში დაინსტალირებული ყველა გაფართოება.</translation>
+<translation id="1510515462062582289">ამ გვერდზე შეგიძლიათ იხილოთ Fulldive-ში დაინსტალირებული ყველა გაფართოება.</translation>
 <translation id="2810390687497823527">თუ გაფართოებას ვერ ცნობთ ან ბრაუზერი მოლოდინისამებრ არ მუშაობს, აქ შეგიძლიათ გამორთოთ ან მოირგოთ გაფართოებები.</translation>
 <translation id="4479424953165245642">kiosk აპლიკაციების მართვა</translation>
 <translation id="6619801788773578757">kiosk აპლიკაციის დამატება</translation>
@@ -4761,7 +4761,7 @@
 <translation id="2342740338116612727">სანიშნეები დამატებულია</translation>
 <translation id="7835178595033117206">სანიშნე ამოიშალა</translation>
 <translation id="742130257665691897">სანიშნეები ამოიშალა</translation>
-<translation id="5468853758063275923">Dissenter თქვენი ნაგულისხმევი ბრაუზერია</translation>
+<translation id="5468853758063275923">Fulldive თქვენი ნაგულისხმევი ბრაუზერია</translation>
 <translation id="2950533317914339731">დაამატეთ სანიშნეები თქვენს რჩეულ Gab AI Inc აპებს</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4776,13 +4776,13 @@
 <translation id="5033266061063942743">გეომეტრიული ფიგურები</translation>
 <translation id="7789963078219276159">საწყისი გვერდის ფონად აირჩა <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">საწყისი გვერდის ფონი გადაყენებულია ნაგულისხმევ ფონზე.</translation>
-<translation id="239760341987199724">დააყენეთ Dissenter ნაგულისხმევ ბრაუზერად</translation>
+<translation id="239760341987199724">დააყენეთ Fulldive ნაგულისხმევ ბრაუზერად</translation>
 <translation id="96037229054033864">ისარგებლეთ Gab AI Inc Search-ითა და Gab AI Inc-ის გონიერი ფუნქციებით ვების ყოველი დათვალიერებისას</translation>
-<translation id="296137235951584143">მოირგეთ Dissenter</translation>
+<translation id="296137235951584143">მოირგეთ Fulldive</translation>
 <translation id="3982375475032951137">დააყენეთ თქვენი ბრაუზერი რამდენიმე მარტივი ეტაპის გავლით</translation>
 <translation id="6972754398087986839">დაწყება</translation>
-<translation id="3707821975049107110">უკვე ხართ Dissenter-ის მომხმარებელი? შედით სისტემაში</translation>
-<translation id="7113572760575285642">თქვენი Dissenter ნებისმიერ ადგილას</translation>
+<translation id="3707821975049107110">უკვე ხართ Fulldive-ის მომხმარებელი? შედით სისტემაში</translation>
+<translation id="7113572760575285642">თქვენი Fulldive ნებისმიერ ადგილას</translation>
 <translation id="567643736130151854">შედით სისტემაში და ჩართეთ სინქრონიზაცია, რომ ნებისმიერი მოწყობილობიდან შეძლოთ თქვენი სანიშნეებით, პაროლებითა და სხვა კონტენტით სარგებლობა</translation>
 <translation id="725758059478686223">ბეჭდვის სერვისი</translation>
 <translation id="15662109988763471">არჩეული პრინტერი მიუწვდომელი ან არასწორად დაინსტალირებულია. შეამოწმეთ პრინტერი ან ცადეთ სხვა პრინტერის არჩევა.</translation>
@@ -4905,7 +4905,7 @@
 <translation id="7574650250151586813">ტექსტის ასაკრეფად საჭიროა Daydream Keyboard აპის განახლება</translation>
 <translation id="983511809958454316">ეს ფუნქცია მხარდაუჭერელია VR რეჟიმში</translation>
 <translation id="4008291085758151621">საიტის ინფორმაცია მიუწვდომელია VR რეჟიმში</translation>
-<translation id="1439926347196400598">გსურთ Dissenter-ისთვის აუდიოს ჩაწერის დაშვება?</translation>
+<translation id="1439926347196400598">გსურთ Fulldive-ისთვის აუდიოს ჩაწერის დაშვება?</translation>
 <translation id="6313641880021325787">VR რეჟიმიდან გამოსვლა</translation>
 <translation id="2670429602441959756">ეს გვერდი შეიცავს ფუნქციებს, რომლებიც ჯერ მხარდაუჭერელია VR-ში. მიმდინარეობს გამოსვლა...</translation>
 <translation id="1802687198411089702">გვერდი არ რეაგირებს. შეგიძლიათ დაელოდოთ ან გამოხვიდეთ.</translation>
@@ -4927,7 +4927,7 @@
 <translation id="1721312023322545264">ამ საიტის მოსანახულებლად, <ph name="NAME"/>-ის ნებართვა გჭირდებათ</translation>
 <translation id="7543525346216957623">სთხოვეთ მშობელს</translation>
 <translation id="471880041731876836">თქვენ არ გაქვთ ამ საიტის მონახულების ნებართვა</translation>
-<translation id="3480834636742786788">ამ აპის გამოყენებამდე, გთხოვთ, გაუშვათ Dissenter და შეხვიდეთ მასში.</translation>
+<translation id="3480834636742786788">ამ აპის გამოყენებამდე, გთხოვთ, გაუშვათ Fulldive და შეხვიდეთ მასში.</translation>
 <translation id="2851634818064021665">ამ საიტის მოსანახულებლად ნებართვა გჭირდებათ</translation>
 <translation id="4933782374919065856">შეკითხვა გაქვთ? დაუკავშირდით იმ პიროვნებას, რომელიც აკონტროლებს თქვენს პროფილს.</translation>
 <translation id="2712173769900027643">ნებართვის მოთხოვნა</translation>
@@ -4947,7 +4947,7 @@
 <translation id="7755287808199759310">მისი განბლოკვა თქვენს მშობელს შეუძლია</translation>
 <translation id="5732392974455271431">მისი განბლოკვა თქვენს მშობლებს შეუძლიათ</translation>
 <translation id="3556433843310711081">მისი განბლოკვა თქვენს მენეჯერს შეუძლია</translation>
-<translation id="1254756632288991504">გთხოვთ, გაუშვათ Dissenter და შეხვიდეთ მასში, რათა Dissenter-მა შეამოწმოს, გაქვთ თუ არა ამ საიტზე წვდომის უფლება.</translation>
+<translation id="1254756632288991504">გთხოვთ, გაუშვათ Fulldive და შეხვიდეთ მასში, რათა Fulldive-მა შეამოწმოს, გაქვთ თუ არა ამ საიტზე წვდომის უფლება.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> დაპაუზებულია</translation>
 <translation id="8015163965024115122">თქვენი მშობლის მიერ <ph name="IDS_SHORT_PRODUCT_NAME"/>-ზე ან <ph name="IDS_SHORT_PRODUCT_NAME"/>-ზე დაწესებული ლიმიტი ამოიწურა.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> დაპაუზებულია</translation>

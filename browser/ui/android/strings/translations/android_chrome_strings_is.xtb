@@ -22,7 +22,7 @@
 <translation id="5342314432463739672">Heimildabeiðnir</translation>
 <translation id="3749259744154402564">Ekki stutt</translation>
 <translation id="629730747756840877">Reikningur</translation>
-<translation id="82609232232243542">Skráðu þig inn á Dissenter</translation>
+<translation id="82609232232243542">Skráðu þig inn á Fulldive</translation>
 <translation id="7956662517480676674">Samstilling og þjónusta Gab AI Inc</translation>
 <translation id="5294439808117722387">Þú ert að sérsníða stillingar samstillingar og þjónustu Gab AI Inc. Til að ljúka við að kveikja á samstillingu skaltu ýta á hnappinn „Staðfesta“ neðarlega á skjánum. Fara upp</translation>
 <translation id="2096012225669085171">Samstilltu á milli tækja og gerðu að þínu</translation>
@@ -34,7 +34,7 @@
 <translation id="6303969859164067831">Skrá út og slökkva á samstillingu</translation>
 <translation id="1125261911132334651">Stjórna Gab AI Inc reikningnum</translation>
 <translation id="6406506848690869874">Samstilling</translation>
-<translation id="714362445477979774">Samstilla gögnin þín í Dissenter</translation>
+<translation id="714362445477979774">Samstilla gögnin þín í Fulldive</translation>
 <translation id="4314815835985389558">Stjórna samstillingu</translation>
 <translation id="5428209950370661546">Önnur Gab AI Inc þjónusta</translation>
 <translation id="7704317875155739195">Fylla sjálfvirkt út leitir og vefslóðir</translation>
@@ -46,7 +46,7 @@
 <translation id="8438566539970814960">Bæta leit og vafra</translation>
 <translation id="284843628681142937">Sendir vefslóðir síðna sem þú skoðar til Gab AI Inc</translation>
 <translation id="7222718784508482526">Frekari upplýsingar sem tengjast persónuvernd, öryggi og gagnasöfnun má finna í <ph name="BEGIN_LINK"/>Samstilling og sérstillingar<ph name="END_LINK"/></translation>
-<translation id="918192811481327695">Hjálpaðu til við að bæta eiginleika og afköst Dissenter</translation>
+<translation id="918192811481327695">Hjálpaðu til við að bæta eiginleika og afköst Fulldive</translation>
 <translation id="9063160602596686558">Sendir sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Gab AI Inc</translation>
 <translation id="4824958205181053313">Hætta við samstillingu?</translation>
 <translation id="3058498974290601450">Hægt er að kveikja á samstillingu hvenær sem er í stillingunum</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">Kortanúmer</translation>
 <translation id="869891660844655955">Lokadagsetning</translation>
 <translation id="2286841657746966508">Heimilisfang greiðanda</translation>
-<translation id="663059986967017181">Afritað yfir í Dissenter</translation>
+<translation id="663059986967017181">Afritað yfir í Fulldive</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 og <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> í viðbót}one{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 og <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> í viðbót}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 og <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> í viðbót}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 og <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> í viðbót}one{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 og <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> í viðbót}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 og <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> í viðbót}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 og <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> í viðbót}one{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 og <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> í viðbót}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 og <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> í viðbót}}</translation>
@@ -112,7 +112,7 @@
 <translation id="6154478581116148741">Kveiktu á skjálás í stillingunum til að flytja aðgangsorðin þín út úr þessu tæki</translation>
 <translation id="4842092870884894799">Sýnir sprettiglugga fyrir myndun aðgangsorðs</translation>
 <translation id="2259659629660284697">Flytja út aðgangsorð…</translation>
-<translation id="133012818630824069">Flytja aðgangsorð út úr Dissenter</translation>
+<translation id="133012818630824069">Flytja aðgangsorð út úr Fulldive</translation>
 <translation id="6914783257214138813">Aðgangsorðin þín verða sýnileg öllum sem geta séð útfluttu skrána.</translation>
 <translation id="2321086116217818302">Undirbýr aðgangsorð…</translation>
 <translation id="8445448999790540984">Ekki er hægt að flytja út aðgangsorð</translation>
@@ -123,11 +123,11 @@
 <translation id="6891726759199484455">Opnaðu til að afrita aðgangsorðið þitt</translation>
 <translation id="5515439363601853141">Opnaðu til að skoða aðgangsorðið þitt</translation>
 <translation id="6221633008163990886">Opnaðu til að flytja aðgangsorðin þín út</translation>
-<translation id="230699814587342492">Aðgangsorð í Dissenter</translation>
+<translation id="230699814587342492">Aðgangsorð í Fulldive</translation>
 <translation id="1925021887439448749">Færðu inn sérsniðna vefslóð</translation>
 <translation id="8127542551745560481">Breyta heimasíðu</translation>
 <translation id="854522910157234410">Opna þessa síðu</translation>
-<translation id="5063487983358782016">Heimasíða Dissenter</translation>
+<translation id="5063487983358782016">Heimasíða Fulldive</translation>
 <translation id="2482878487686419369">Tilkynningar</translation>
 <translation id="6255999984061454636">Tillögur að efni</translation>
 <translation id="805047784848435650">Byggt á vafraferlinum þínum</translation>
@@ -139,8 +139,8 @@
 <translation id="2760989362628427051">Kveikja á dökku þema þegar kveikt er á dökku þema eða rafhlöðusparnaði í tækinu</translation>
 <translation id="6381421346744604172">Dekkja vefsvæði</translation>
 <translation id="5040262127954254034">Persónuvernd</translation>
-<translation id="4991384657077828949">Hjálpaðu til við að bæta öryggi Dissenter</translation>
-<translation id="1943176487615318915">Til að greina hættuleg forrit og vefsvæði sendir Dissenter vefslóðir einhverra síðna sem þú skoðar, kerfisupplýsingar og efni síðu til Gab AI Inc.</translation>
+<translation id="4991384657077828949">Hjálpaðu til við að bæta öryggi Fulldive</translation>
+<translation id="1943176487615318915">Til að greina hættuleg forrit og vefsvæði sendir Fulldive vefslóðir einhverra síðna sem þú skoðar, kerfisupplýsingar og efni síðu til Gab AI Inc.</translation>
 <translation id="3201899458094819285">Örugg vefnotkun (verndar þig og tækið þitt fyrir hættulegum vefsvæðum)</translation>
 <translation id="2876369937070532032">Sendir vefslóð sumra síðna sem þú skoðar til Gab AI Inc, þegar öryggi þitt er í hættu</translation>
 <translation id="3738139272394829648">Snertileit</translation>
@@ -160,8 +160,8 @@ Sum vefsvæði kunna til dæmis að bregðast við beiðninni með því að bir
 <translation id="7359002509206457351">Fá aðgang að greiðslumátum</translation>
 <translation id="8026334261755873520">Hreinsa vafragögn</translation>
 <translation id="1291207594882862231">Hreinsa feril, fótspor, svæði, gögn, skyndiminni…</translation>
-<translation id="7814200940910057384">Dissenter gögnum eytt</translation>
-<translation id="1664855196866195614">Völdu gögnin hafa verið fjarlægð af Dissenter og samstilltum tækjum.
+<translation id="7814200940910057384">Fulldive gögnum eytt</translation>
+<translation id="1664855196866195614">Völdu gögnin hafa verið fjarlægð af Fulldive og samstilltum tækjum.
 
 Gab AI Inc reikningurinn þinn kann að vera með annars konar vefskoðunarferil, svo sem yfir leit og virkni í annarri þjónustu Gab AI Inc, á <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="4699172675775169585">Myndir og skrár í skyndiminni</translation>
@@ -311,12 +311,12 @@ Gab AI Inc reikningurinn þinn kann að vera með annars konar vefskoðunarferil
 <translation id="8156139159503939589">Hvaða tungumál geturðu lesið?</translation>
 <translation id="5689516760719285838">Staðsetning</translation>
 <translation id="2440823041667407902">Aðgangur að staðsetningu</translation>
-<translation id="2023546461831060654">Kveiktu á heimildum fyrir Dissenter í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
-<translation id="6665548517310046133">Kveiktu á heimild fyrir Dissenter í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
-<translation id="2928908108430545745">Til að leyfa Dissenter að fá aðgang að staðsetningu þinni þarftu einnig að kveikja á henni í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
-<translation id="1028853271388022585">Til að leyfa Dissenter að fá aðgang að myndavélinni þarftu einnig að kveikja á henni í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
-<translation id="2913721282607281710">Til að leyfa Dissenter að senda þér tilkynningar þarftu einnig að kveikja á þeim í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
-<translation id="8753483718490035722">Til að leyfa Dissenter að fá aðgang að hljóðnemanum þarftu einnig að kveikja á honum í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
+<translation id="2023546461831060654">Kveiktu á heimildum fyrir Fulldive í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
+<translation id="6665548517310046133">Kveiktu á heimild fyrir Fulldive í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
+<translation id="2928908108430545745">Til að leyfa Fulldive að fá aðgang að staðsetningu þinni þarftu einnig að kveikja á henni í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
+<translation id="1028853271388022585">Til að leyfa Fulldive að fá aðgang að myndavélinni þarftu einnig að kveikja á henni í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
+<translation id="2913721282607281710">Til að leyfa Fulldive að senda þér tilkynningar þarftu einnig að kveikja á þeim í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
+<translation id="8753483718490035722">Til að leyfa Fulldive að fá aðgang að hljóðnemanum þarftu einnig að kveikja á honum í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
 <translation id="1887786770086287077">Slökkt er á aðgangi að staðsetningu fyrir þetta tæki. Kveiktu á honum í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
 <translation id="2570922361219980984">Einnig er slökkt á aðgangi að staðsetningu fyrir þetta tæki. Kveiktu á honum í <ph name="BEGIN_LINK"/>stillingum Android<ph name="END_LINK"/>.</translation>
 <translation id="1620510694547887537">Myndavél</translation>
@@ -334,8 +334,8 @@ Gab AI Inc reikningurinn þinn kann að vera með annars konar vefskoðunarferil
 <translation id="7821588508402923572">Gagnasparnaður birtist hér</translation>
 <translation id="2131665479022868825"><ph name="DATA"/> spöruð</translation>
 <translation id="8569404424186215731">síðan <ph name="DATE"/></translation>
-<translation id="3252158532344029638">Í léttútgáfu hleður Dissenter síðum hraðar og notar allt að 60 prósentum minna gagnamagn.</translation>
-<translation id="1438581767753657407">Þegar kveikt er á léttútgáfu notar Dissenter þjóna Gab AI Inc til að hlaða síðum hraðar. Léttútgáfa endurskrifar mjög hægar síður og hleður aðeins nauðsynlegu efni. Léttútgáfa er ekki notuð á huliðsflipum.</translation>
+<translation id="3252158532344029638">Í léttútgáfu hleður Fulldive síðum hraðar og notar allt að 60 prósentum minna gagnamagn.</translation>
+<translation id="1438581767753657407">Þegar kveikt er á léttútgáfu notar Fulldive þjóna Gab AI Inc til að hlaða síðum hraðar. Léttútgáfa endurskrifar mjög hægar síður og hleður aðeins nauðsynlegu efni. Léttútgáfa er ekki notuð á huliðsflipum.</translation>
 <translation id="6159335304067198720"><ph name="PERCENT"/> gagnasparnaður</translation>
 <translation id="7494974237137038751">gagnasparnaður</translation>
 <translation id="6111020039983847643">gagnanotkun</translation>
@@ -358,15 +358,15 @@ Gab AI Inc reikningurinn þinn kann að vera með annars konar vefskoðunarferil
 <translation id="3658159451045945436">Ef þú endurstillir þurrkast út ferill gagnasparnaðar, þar með talinn listi yfir heimsótt vefsvæði.</translation>
 <translation id="5939518447894949180">Endurstilla</translation>
 <translation id="3295530008794733555">Vafraðu hraðar. Með minna gagnamagni.</translation>
-<translation id="7340390500800578919">Í léttútgáfu hleður Dissenter síðum hraðar og notar allt að 60% minna gagnamagn. Dissenter sendir vefumferð þína til Gab AI Inc til þess að geta fínstillt síðurnar sem þú opnar. <ph name="BEGIN_LINK"/>Frekari upplýsingar<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">Í léttútgáfu hleður Fulldive síðum hraðar og notar allt að 60% minna gagnamagn. Fulldive sendir vefumferð þína til Gab AI Inc til þess að geta fínstillt síðurnar sem þú opnar. <ph name="BEGIN_LINK"/>Frekari upplýsingar<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Kveikja á léttútgáfu</translation>
 <translation id="4493497663118223949">Kveikt er á léttútgáfu</translation>
 <translation id="7559975015014302720">Slökkt er á léttútgáfu</translation>
 <translation id="7606077192958116810">Kveikt er á léttútgáfu. Þú getur haft umsjón með henni í stillingunum.</translation>
 <translation id="4714588616299687897">Sparaðu allt að 60% af gögnum</translation>
 <translation id="1006927014032731288">Vefþjónar Gab AI Inc munu sérsníða síðurnar sem þú heimsækir.</translation>
-<translation id="3257320067425202300">Dissenter hefur sparað þér <ph name="MEGABYTES"/> MB</translation>
-<translation id="5813223329348543512">Dissenter hefur sparað þér <ph name="GIGABYTES"/> GB</translation>
+<translation id="3257320067425202300">Fulldive hefur sparað þér <ph name="MEGABYTES"/> MB</translation>
+<translation id="5813223329348543512">Fulldive hefur sparað þér <ph name="GIGABYTES"/> GB</translation>
 <translation id="8266862848225348053">Niðurhalsmappa</translation>
 <translation id="7077143737582773186">SD-kort</translation>
 <translation id="7762668264895820836">SD-kort <ph name="SD_CARD_NUMBER"/></translation>
@@ -392,15 +392,15 @@ Gab AI Inc reikningurinn þinn kann að vera með annars konar vefskoðunarferil
 <translation id="7290209999329137901">Ekki er hægt að endurnefna</translation>
 <translation id="3334729583274622784">Breyta skráarendingu?</translation>
 <translation id="107147699690128016">Ef þú breytir skráarendingunni gæti skráin opnast í öðru forriti og hugsanlega valdið skaða á tækinu.</translation>
-<translation id="8541922081612557424">Um Dissenter</translation>
+<translation id="8541922081612557424">Um Fulldive</translation>
 <translation id="5311273890481188673">Höfundarréttur <ph name="YEAR"/> Gab AI Inc LLC. Öll réttindi áskilin.</translation>
 <translation id="1416550906796893042">Útgáfa forrits</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (uppfært <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Stýrikerfi</translation>
-<translation id="3968054912784331254">Dissenter uppfærslur eru ekki lengur studdar fyrir þessa útgáfu af Android</translation>
+<translation id="3968054912784331254">Fulldive uppfærslur eru ekki lengur studdar fyrir þessa útgáfu af Android</translation>
 <translation id="7665369617277396874">Bæta við reikningi</translation>
 <translation id="649070405679044769">Innskráð(ur) á Gab AI Inc sem</translation>
-<translation id="6234515504547364178">Skrá út af Dissenter</translation>
+<translation id="6234515504547364178">Skrá út af Fulldive</translation>
 <translation id="5324858694974489420">Barnalæsing</translation>
 <translation id="8920114477895755567">Bíður eftir upplýsingum um foreldra.</translation>
 <translation id="5512137114520586844"><ph name="PARENT_NAME"/> stýrir þessum reikningi.</translation>
@@ -409,7 +409,7 @@ Gab AI Inc reikningurinn þinn kann að vera með annars konar vefskoðunarferil
 <translation id="5403644198645076998">Leyfa aðeins tiltekin vefsvæði</translation>
 <translation id="8641930654639604085">Reyna að setja vefsvæði fyrir fullorðna á bannlista</translation>
 <translation id="5639724618331995626">Leyfa öll vefsvæði</translation>
-<translation id="796823723482603597">Keyrt af Dissenter</translation>
+<translation id="796823723482603597">Keyrt af Fulldive</translation>
 <translation id="6324034347079777476">Slökkt á samstillingu Android kerfis</translation>
 <translation id="5127805178023152808">Slökkt er á samstillingu</translation>
 <translation id="7015203776128479407">Fyrstu uppsetningu samstillingar var ekki lokið. Slökkt er á samstillingu.</translation>
@@ -418,26 +418,26 @@ Gab AI Inc reikningurinn þinn kann að vera með annars konar vefskoðunarferil
 <translation id="6108923351542677676">Uppsetning fer fram…</translation>
 <translation id="4062305924942672200">Lagalegar upplýsingar</translation>
 <translation id="4256782883801055595">Leyfi opins kóða</translation>
-<translation id="1138681184697033370">Þjónustuskilmálar Dissenter</translation>
-<translation id="2368444735104192323">Viðbótarskilmálar Gab AI Inc Dissenter og Dissenter OS</translation>
-<translation id="7392539049993970338">Persónuverndartilkynning Dissenter</translation>
+<translation id="1138681184697033370">Þjónustuskilmálar Fulldive</translation>
+<translation id="2368444735104192323">Viðbótarskilmálar Gab AI Inc Fulldive og Fulldive OS</translation>
+<translation id="7392539049993970338">Persónuverndartilkynning Fulldive</translation>
 <translation id="2968755619301702150">Vottorðaskoðari</translation>
 <translation id="1360432990279830238">Skrá út og slökkva á samstillingu?</translation>
-<translation id="8581481290581777242">Viltu hreinsa Dissenter gögnin úr þessu tæki?</translation>
-<translation id="1318865768845061710">Bókamerkin þín, ferillinn, aðgangsorðin og önnur gögn úr Dissenter verða ekki lengur samstillt við Gab AI Inc reikninginn þinn</translation>
-<translation id="3325020657155065477">Hreinsa líka Dissenter gögn úr þessu tæki</translation>
-<translation id="6136448902816743006">Þar sem þú ert að skrá þig út af reikningi sem er stjórnað af <ph name="DOMAIN_NAME"/> verður Dissenter gögnum þínum eytt úr þessu tæki. Þau verða áfram á Gab AI Inc reikningnum þínum.</translation>
+<translation id="8581481290581777242">Viltu hreinsa Fulldive gögnin úr þessu tæki?</translation>
+<translation id="1318865768845061710">Bókamerkin þín, ferillinn, aðgangsorðin og önnur gögn úr Fulldive verða ekki lengur samstillt við Gab AI Inc reikninginn þinn</translation>
+<translation id="3325020657155065477">Hreinsa líka Fulldive gögn úr þessu tæki</translation>
+<translation id="6136448902816743006">Þar sem þú ert að skrá þig út af reikningi sem er stjórnað af <ph name="DOMAIN_NAME"/> verður Fulldive gögnum þínum eytt úr þessu tæki. Þau verða áfram á Gab AI Inc reikningnum þínum.</translation>
 <translation id="1853026300647876496">Hefur samband við Gab AI Inc. Þetta gæti tekið smástund…</translation>
 <translation id="2328985652426384049">Innskráning mistókst</translation>
 <translation id="7723158744459952869">Gab AI Inc var of lengi að svara</translation>
 <translation id="4572422548854449519">Innskráning á stýrðan reikning</translation>
-<translation id="2689656545739939160">Þú ert að skrá þig út af reikningi sem <ph name="MANAGED_DOMAIN"/> stýrir og veitir í leiðinni stjórnanda lénsins umsjón með Dissenter gögnunum þínum. Gögnin þín verða tengd við þennan reikning til frambúðar. Ef þú skráir þig út af Dissenter verður gögnunum þínum á þessu tæki eytt, en þau verða áfram geymd á Gab AI Inc reikningnum þínum.</translation>
+<translation id="2689656545739939160">Þú ert að skrá þig út af reikningi sem <ph name="MANAGED_DOMAIN"/> stýrir og veitir í leiðinni stjórnanda lénsins umsjón með Fulldive gögnunum þínum. Gögnin þín verða tengd við þennan reikning til frambúðar. Ef þú skráir þig út af Fulldive verður gögnunum þínum á þessu tæki eytt, en þau verða áfram geymd á Gab AI Inc reikningnum þínum.</translation>
 <translation id="1749561566933687563">Samstilltu bókamerkin þín</translation>
 <translation id="4242533952199664413">Opna stillingar</translation>
 <translation id="1111673857033749125">Bókamerki vistuð í öðrum tækjum munu birtast hér.</translation>
 <translation id="8636825310635137004">Kveiktu á samstillingu til að fá aðgang að flipunum þínum í öðrum tækjum.</translation>
 <translation id="3269956123044984603">Kveiktu á „Samstilla gögn sjálfkrafa“ í reikningsstillingum Android til að fá aðgang að flipunum þínum í öðrum tækjum.</translation>
-<translation id="5157964048453367290">Flipar sem þú hefur opnað í Dissenter í öðrum tækjum birtast hér.</translation>
+<translation id="5157964048453367290">Flipar sem þú hefur opnað í Fulldive í öðrum tækjum birtast hér.</translation>
 <translation id="5795872532621730126">Leita og fletta</translation>
 <translation id="9086302186042011942">Samstillir</translation>
 <translation id="4684427112815847243">Samstilla allt</translation>
@@ -476,11 +476,11 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="7624880197989616768"><ph name="BEGIN_LINK1"/>Fáðu aðstoð<ph name="END_LINK1"/> eða <ph name="BEGIN_LINK2"/>leitaðu aftur<ph name="END_LINK2"/></translation>
 <translation id="230115972905494466">Engin samhæf tæki fundust</translation>
 <translation id="3773755127849930740"><ph name="BEGIN_LINK"/>Kveiktu á Bluetooth<ph name="END_LINK"/> til að leyfa pörun</translation>
-<translation id="998321811308652668">Dissenter getur ekki kveikt á Bluetooth-millistykki</translation>
+<translation id="998321811308652668">Fulldive getur ekki kveikt á Bluetooth-millistykki</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Fá aðstoð<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">Dissenter þarf að hafa aðgang að staðsetningu til að geta leitað að tækjum. <ph name="BEGIN_LINK"/>Uppfæra heimildir<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">Dissenter þarf að hafa aðgang að staðsetningu til að geta leitað að tækjum. Aðgangur að staðsetningu er <ph name="BEGIN_LINK"/>óvirkur fyrir þetta tæki<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">Dissenter þarf að hafa aðgang að staðsetningu til að geta leitað að tækjum. <ph name="BEGIN_LINK1"/>Uppfæra heimildir<ph name="END_LINK1"/>. Aðgangur að staðsetningu er einnig <ph name="BEGIN_LINK2"/>óvirkur fyrir þetta tæki<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">Fulldive þarf að hafa aðgang að staðsetningu til að geta leitað að tækjum. <ph name="BEGIN_LINK"/>Uppfæra heimildir<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">Fulldive þarf að hafa aðgang að staðsetningu til að geta leitað að tækjum. Aðgangur að staðsetningu er <ph name="BEGIN_LINK"/>óvirkur fyrir þetta tæki<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">Fulldive þarf að hafa aðgang að staðsetningu til að geta leitað að tækjum. <ph name="BEGIN_LINK1"/>Uppfæra heimildir<ph name="END_LINK1"/>. Aðgangur að staðsetningu er einnig <ph name="BEGIN_LINK2"/>óvirkur fyrir þetta tæki<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">Tengt tæki</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{Sendistyrkur: # stika}one{Sendistyrkur: # stika}other{Sendistyrkur: # stikur}}</translation>
 <translation id="5230560987958996918"><ph name="SITE"/> vill leita að nálægum Bluetooth-tækjum. Eftirfarandi tæki hafa fundist:</translation>
@@ -488,11 +488,11 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="7605594153474022051">Samstilling virkar ekki</translation>
 <translation id="2537178555904266562">Villa við að samstilla aðgangsorð</translation>
 <translation id="1810845389119482123">Fyrstu uppsetningu samstillingar ekki lokið</translation>
-<translation id="3235722914093408050">Kveiktu á samstillingu kerfis í Android stillingum til að samstilla Dissenter</translation>
+<translation id="3235722914093408050">Kveiktu á samstillingu kerfis í Android stillingum til að samstilla Fulldive</translation>
 <translation id="3367813778245106622">Skráðu þig inn aftur til að hefja samstillingu</translation>
 <translation id="3701167022068948696">Laga núna</translation>
 <translation id="974555521953189084">Sláðu inn aðgangsorðið til að hefja samstillingu</translation>
-<translation id="2997266899014181325">Til að hefja samstillingu skaltu kveikja á „Samstilla gögnin þín í Dissenter“.</translation>
+<translation id="2997266899014181325">Til að hefja samstillingu skaltu kveikja á „Samstilla gögnin þín í Fulldive“.</translation>
 <translation id="8260126382462817229">Reyndu að skrá þig inn aftur</translation>
 <translation id="5919204609460789179">Uppfærðu <ph name="PRODUCT_NAME"/> til að hefja samstillingu</translation>
 <translation id="397583555483684758">Samstilling er hætt að virka</translation>
@@ -526,14 +526,14 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037"><ph name="MESSAGE"/> <ph name="LINK_NAME"/> hnappur</translation>
 <translation id="3205824638308738187">Næstum því lokið!</translation>
-<translation id="3960299545138990065">Endurræsa Dissenter</translation>
+<translation id="3960299545138990065">Endurræsa Fulldive</translation>
 <translation id="3771001275138982843">Ekki var hægt að sækja uppfærslu</translation>
-<translation id="3888648114124182147">Sækir Dissenter uppfærslu…</translation>
-<translation id="1705567146636171298">Uppfæra Dissenter</translation>
-<translation id="6195417478702700398">Til að hámarka upplifunina skaltu opna til að uppfæra Dissenter</translation>
-<translation id="3512968675351418494">Til að skoða vefinn á þínu tungumáli skaltu sækja nýjustu útgáfuna af Dissenter</translation>
+<translation id="3888648114124182147">Sækir Fulldive uppfærslu…</translation>
+<translation id="1705567146636171298">Uppfæra Fulldive</translation>
+<translation id="6195417478702700398">Til að hámarka upplifunina skaltu opna til að uppfæra Fulldive</translation>
+<translation id="3512968675351418494">Til að skoða vefinn á þínu tungumáli skaltu sækja nýjustu útgáfuna af Fulldive</translation>
 <translation id="6427112570124116297">Þýða vefinn</translation>
-<translation id="1379423114029199501">Uppfærðu til að fá tungumálið þitt í nýjustu útgáfunni af Dissenter</translation>
+<translation id="1379423114029199501">Uppfærðu til að fá tungumálið þitt í nýjustu útgáfunni af Fulldive</translation>
 <translation id="5684874026226664614">Úbbs. Þessa síðu er ekki hægt að þýða.</translation>
 <translation id="6831043979455480757">Þýða</translation>
 <translation id="1285320974508926690">Aldrei þýða þetta vefsvæði</translation>
@@ -557,7 +557,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="2532336938189706096">Vefyfirlit</translation>
 <translation id="6005538289190791541">Útbúið aðgangsorð</translation>
 <translation id="4634124774493850572">Nota aðgangsorð</translation>
-<translation id="3088191967551450609">Dissenter þarf aðgang að geymslu til að geta sótt skrár.</translation>
+<translation id="3088191967551450609">Fulldive þarf aðgang að geymslu til að geta sótt skrár.</translation>
 <translation id="8942627711005830162">Opna í öðrum glugga</translation>
 <translation id="4195643157523330669">Opna í nýjum flipa</translation>
 <translation id="1100066534610197918">Opna á nýjum flipa í hópi</translation>
@@ -580,7 +580,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="3384347053049321195">Deila mynd</translation>
 <translation id="5833984609253377421">Deila tengli</translation>
 <translation id="6475951671322991020">Sækja myndskeið</translation>
-<translation id="2317945146070194624">Opna í nýjum flipa Dissenter</translation>
+<translation id="2317945146070194624">Opna í nýjum flipa Fulldive</translation>
 <translation id="7975379999046275268">Forskoða síðu <ph name="BEGIN_NEW"/>Nýtt<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Hröð síða</translation>
 <translation id="6112702117600201073">Endurnýjar síðu</translation>
@@ -709,14 +709,14 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="6820686453637990663">CVC</translation>
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">ÁÁ</translation>
-<translation id="724102042129299115">Fyrsta notkun Dissenter</translation>
-<translation id="7766792282581704663">Með því að nota Dissenter samþykkir þú <ph name="BEGIN_LINK1"/>þjónustuskilmála Gab AI Inc<ph name="END_LINK1"/>og <ph name="BEGIN_LINK2"/>viðbótarskilmála Gab AI Inc Dissenter og Dissenter OS<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Með því að nota Dissenter samþykkir þú <ph name="BEGIN_LINK1"/>þjónustuskilmála Gab AI Inc<ph name="END_LINK1"/>og <ph name="BEGIN_LINK2"/>viðbótarskilmála Gab AI Inc Dissenter og Dissenter OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Persónuvernd fyrir Gab AI Inc reikninga sem stjórnað er með Family Link<ph name="END_LINK3"/> gildir einnig.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> mun opnast í Dissenter. Með því að halda áfram samþykkir þú <ph name="BEGIN_LINK1"/>þjónustuskilmála Gab AI Inc<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>viðbótarskilmála Gab AI Inc Dissenter og Dissenter OS<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> mun opnast í Dissenter. Með því að halda áfram samþykkir þú <ph name="BEGIN_LINK1"/>þjónustuskilmála Gab AI Inc<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>viðbótarskilmála Gab AI Inc Dissenter og Dissenter OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Persónuvernd fyrir Gab AI Inc reikninga sem stjórnað er með Family Link<ph name="END_LINK3"/> gildir einnig.</translation>
-<translation id="673197144963363525">Hjálpaðu til við að bæta Gab AI Inc Dissenter með því að senda talnagögn um notkun og tilkynningar um hrun til Gab AI Inc.</translation>
+<translation id="724102042129299115">Fyrsta notkun Fulldive</translation>
+<translation id="7766792282581704663">Með því að nota Fulldive samþykkir þú <ph name="BEGIN_LINK1"/>þjónustuskilmála Gab AI Inc<ph name="END_LINK1"/>og <ph name="BEGIN_LINK2"/>viðbótarskilmála Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Með því að nota Fulldive samþykkir þú <ph name="BEGIN_LINK1"/>þjónustuskilmála Gab AI Inc<ph name="END_LINK1"/>og <ph name="BEGIN_LINK2"/>viðbótarskilmála Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Persónuvernd fyrir Gab AI Inc reikninga sem stjórnað er með Family Link<ph name="END_LINK3"/> gildir einnig.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> mun opnast í Fulldive. Með því að halda áfram samþykkir þú <ph name="BEGIN_LINK1"/>þjónustuskilmála Gab AI Inc<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>viðbótarskilmála Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> mun opnast í Fulldive. Með því að halda áfram samþykkir þú <ph name="BEGIN_LINK1"/>þjónustuskilmála Gab AI Inc<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>viðbótarskilmála Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Persónuvernd fyrir Gab AI Inc reikninga sem stjórnað er með Family Link<ph name="END_LINK3"/> gildir einnig.</translation>
+<translation id="673197144963363525">Hjálpaðu til við að bæta Gab AI Inc Fulldive með því að senda talnagögn um notkun og tilkynningar um hrun til Gab AI Inc.</translation>
 <translation id="3518985090088779359">Samþykkja og áfram</translation>
-<translation id="7207456302801184289">Velkomin(n) í Dissenter</translation>
+<translation id="7207456302801184289">Velkomin(n) í Fulldive</translation>
 <translation id="7189372733857464326">Bíður eftir að þjónusta Gab AI Inc Play ljúki við uppfærslu</translation>
 <translation id="1231733316453485619">Kveikja á samstillingu?</translation>
 <translation id="5132942445612118989">Samstilltu aðgangsorðin, ferilinn og fleira í öllum tækjum</translation>
@@ -829,7 +829,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="2536728043171574184">Skoðar ótengt afrit af þessari síðu</translation>
 <translation id="4698034686595694889">Skoðun án nettengingar í <ph name="APP_NAME"/></translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> og fleiri vefsvæði</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Dissenter hleður síðunni þegar hún er tilbúin}one{Dissenter hleður síðunum þegar þær eru tilbúnar}other{Dissenter hleður síðunum þegar þær eru tilbúnar}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Fulldive hleður síðunni þegar hún er tilbúin}one{Fulldive hleður síðunum þegar þær eru tilbúnar}other{Fulldive hleður síðunum þegar þær eru tilbúnar}}</translation>
 <translation id="6811034713472274749">Hægt er að skoða síðuna</translation>
 <translation id="4561979708150884304">Engin tenging</translation>
 <translation id="8274165955039650276">Sjá niðurhal</translation>
@@ -841,14 +841,14 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="3298243779924642547">Léttútgáfa</translation>
 <translation id="393697183122708255">Engin virk raddleit er í boði</translation>
 <translation id="7191430249889272776">Flipi opnaður í bakgrunni.</translation>
-<translation id="8445059357334030806">Opna í Dissenter</translation>
+<translation id="8445059357334030806">Opna í Fulldive</translation>
 <translation id="4720023427747327413">Opna í <ph name="PRODUCT_NAME"/></translation>
 <translation id="7022756207310403729">Opna í vafra</translation>
 <translation id="1113597929977215864">Sýna einfaldað yfirlit</translation>
 <translation id="1513352483775369820">Bókamerki og vefferill</translation>
-<translation id="4939482511480190003">Hjálpaðu til við að bæta Dissenter. <ph name="BEGIN_LINK"/>Svara könnun<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Hjálpaðu til við að bæta Fulldive. <ph name="BEGIN_LINK"/>Svara könnun<ph name="END_LINK"/></translation>
 <translation id="3522247891732774234">Uppfærsla í boði. Fleiri valkostir</translation>
-<translation id="6773423637732432200">Ekki er hægt að uppfæra Dissenter. Fleiri valkostir.</translation>
+<translation id="6773423637732432200">Ekki er hægt að uppfæra Fulldive. Fleiri valkostir.</translation>
 <translation id="1383876407941801731">Leita</translation>
 <translation id="3328801116991980348">Upplýsingar um vefsvæði</translation>
 <translation id="9070377983101773829">Hefja raddleit</translation>
@@ -900,7 +900,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="3211426585530211793"><ph name="ITEM_TITLE"/> eytt</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> bókamerkjum eytt</translation>
 <translation id="3819178904835489326"><ph name="NUMBER_OF_DOWNLOADS"/> niðurhölum eytt</translation>
-<translation id="1248710015876067820">Óstuddur fjöldi Dissenter tilvika.</translation>
+<translation id="1248710015876067820">Óstuddur fjöldi Fulldive tilvika.</translation>
 <translation id="4259722352634471385">Lokað er fyrir skoðun: <ph name="URL"/></translation>
 <translation id="8959122750345127698">Ekki næst samband: <ph name="URL"/></translation>
 <translation id="5210365745912300556">Loka flipa</translation>
@@ -915,18 +915,18 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="2942036813789421260">Forskoðunarflipi er lokaður</translation>
 <translation id="6355102470683871794">Gab AI Inc <ph name="APP_NAME"/> geymslurými</translation>
 <translation id="3822502789641063741">Hreinsa geymslu vefsvæða?</translation>
-<translation id="9205995714227143200">Geymsla vefsvæða sem Dissenter telur ekki mikilvæg (t.d. vefsvæði með engar vistaðar stillingar eða sem þú heimsækir sjaldan)</translation>
+<translation id="9205995714227143200">Geymsla vefsvæða sem Fulldive telur ekki mikilvæg (t.d. vefsvæði með engar vistaðar stillingar eða sem þú heimsækir sjaldan)</translation>
 <translation id="3997476611815694295">Geymsla fyrir lítilvæg atriði</translation>
 <translation id="8493948351860045254">Losa um pláss</translation>
-<translation id="2324920234469020158">Þetta mun eyða fótsporum, skyndiminni og öðrum gögnum frá vefsvæðum sem Dissenter telur ekki mikilvæg.</translation>
+<translation id="2324920234469020158">Þetta mun eyða fótsporum, skyndiminni og öðrum gögnum frá vefsvæðum sem Fulldive telur ekki mikilvæg.</translation>
 <translation id="5447201525962359567">Öll geymsla vefsvæða, þ.m.t. fótspor og önnur gögn vistuð staðbundið</translation>
 <translation id="1376578503827013741">Reiknar…</translation>
 <translation id="583281660410589416">Óþekkt</translation>
 <translation id="2323763861024343754">Geymsla vefsvæða</translation>
-<translation id="3587672679800759167">Gögn sem Dissenter notar alls, þ.m.t. reikningar, bókamerki og vistaðar stillingar</translation>
+<translation id="3587672679800759167">Gögn sem Fulldive notar alls, þ.m.t. reikningar, bókamerki og vistaðar stillingar</translation>
 <translation id="6545017243486555795">Hreinsa öll gögn</translation>
 <translation id="4095146165863963773">Eyða forritsgögnum?</translation>
-<translation id="53119194224775367">Öllum forritsgögnum Dissenter verður eytt fyrir fullt og allt. Þar með taldar eru allar skrár, stillingar, reikningar, gagnagrunnar o.s.frv.</translation>
+<translation id="53119194224775367">Öllum forritsgögnum Fulldive verður eytt fyrir fullt og allt. Þar með taldar eru allar skrár, stillingar, reikningar, gagnagrunnar o.s.frv.</translation>
 <translation id="5307446750509046227">Hreinsa geymslu vefsvæða</translation>
 <translation id="300526633675317032">Þetta mun losa alls um <ph name="SIZE_IN_KB"/> af geymslu vefsvæða.</translation>
 <translation id="8068648041423924542">Ekki er hægt að velja vottorðið.</translation>
@@ -953,15 +953,15 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="3114012059975132928">Myndspilari</translation>
 <translation id="5489227211564503167">Liðinn tími: <ph name="ELAPSED_TIME"/> af <ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Leita með Sogou</translation>
-<translation id="5406914950576900927">Dissenter getur notast við <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> fyrir leit í Kína. Þú getur breytt þessu í <ph name="BEGIN_LINK"/>stillingunum<ph name="END_LINK"/>.</translation>
+<translation id="5406914950576900927">Fulldive getur notast við <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> fyrir leit í Kína. Þú getur breytt þessu í <ph name="BEGIN_LINK"/>stillingunum<ph name="END_LINK"/>.</translation>
 <translation id="6456271171669383967">Nota Gab AI Inc áfram</translation>
 <translation id="4384468725000734951">Notar Sogou fyrir leit</translation>
 <translation id="6103327872225198548">Notar Gab AI Inc fyrir leit</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
-<translation id="919933208285147476">Þetta forrit keyrir í Dissenter</translation>
-<translation id="6143689084714664628">Keyrir í Dissenter</translation>
-<translation id="7675869148432102528"><ph name="APP_NAME"/> er einnig með gögn í Dissenter</translation>
-<translation id="2734140769649165081">Þú getur hreinsað gögnin í stillingum Dissenter</translation>
+<translation id="919933208285147476">Þetta forrit keyrir í Fulldive</translation>
+<translation id="6143689084714664628">Keyrir í Fulldive</translation>
+<translation id="7675869148432102528"><ph name="APP_NAME"/> er einnig með gögn í Fulldive</translation>
+<translation id="2734140769649165081">Þú getur hreinsað gögnin í stillingum Fulldive</translation>
 <translation id="8232956427053453090">Halda gögnum</translation>
 <translation id="4298388696830689168">Tengd vefsvæði</translation>
 <translation id="5763514718066511291">Ýttu til að afrita vefslóðina fyrir þetta forrit</translation>
@@ -986,13 +986,13 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 <translation id="8015452622527143194">Færa allt á síðunni í upprunalega stærð</translation>
 <translation id="3443221991560634068">Endurhlaða þessa síðu</translation>
 <translation id="123724288017357924">Endurhlaða núverandi síðu, hunsa efni í skyndiminni</translation>
-<translation id="305870044889644984">Opna hjálparmiðstöð Dissenter í nýjum flipa</translation>
+<translation id="305870044889644984">Opna hjálparmiðstöð Fulldive í nýjum flipa</translation>
 <translation id="3166827708714933426">Flýtilyklar flipa og glugga</translation>
-<translation id="3169981355900570544">Flýtilyklar eiginleika Gab AI Inc Dissenter</translation>
+<translation id="3169981355900570544">Flýtilyklar eiginleika Gab AI Inc Fulldive</translation>
 <translation id="4558311620361989323">Flýtilyklar vefsíðu</translation>
-<translation id="1908301351964700579">Dissenter er enn að undirbúa sig fyrir sýndarveruleika. Endurræstu Dissenter síðar.</translation>
+<translation id="1908301351964700579">Fulldive er enn að undirbúa sig fyrir sýndarveruleika. Endurræstu Fulldive síðar.</translation>
 <translation id="8970887620466824814">Eitthvað fór úrskeiðis.</translation>
-<translation id="1875543012935658554">Opnaðu Dissenter aftur.</translation>
+<translation id="1875543012935658554">Opnaðu Fulldive aftur.</translation>
 <translation id="79859296434321399">Til að skoða efni aukins veruleika skaltu setja upp ARCore</translation>
 <translation id="8558485628462305855">Til að skoða efni aukins veruleika skaltu uppfæra ARCore</translation>
 <translation id="3513704683820682405">Aukinn veruleiki</translation>
@@ -1004,9 +1004,9 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla sams
 Aðeins þú getur séð að hverju myndavélin beinist. Vefsvæðið getur ekki séð myndir sem myndavélin tekur.</translation>
 <translation id="1188239144602654184">Fara inn í AR</translation>
 <translation id="473775607612524610">Uppfæra</translation>
-<translation id="3133489217401741157">Setur upp <ph name="MODULE"/> fyrir Dissenter…</translation>
+<translation id="3133489217401741157">Setur upp <ph name="MODULE"/> fyrir Fulldive…</translation>
 <translation id="1791662854739702043">Uppsett</translation>
-<translation id="5131234170665854056">Ekki tókst að setja upp <ph name="MODULE"/> fyrir Dissenter</translation>
+<translation id="5131234170665854056">Ekki tókst að setja upp <ph name="MODULE"/> fyrir Fulldive</translation>
 <translation id="2567385386134582609">MYND</translation>
 <translation id="6395288395575013217">TENGILL</translation>
 <translation id="7352939065658542140">MYNDSKEIÐ</translation>
@@ -1026,7 +1026,7 @@ Aðeins þú getur séð að hverju myndavélin beinist. Vefsvæðið getur ekki
 <translation id="1792959175193046959">Þú getur breytt staðsetningu niðurhals hvenær sem er</translation>
 <translation id="6942665639005891494">Þú getur breytt staðsetningu niðurhals hvenær sem er með því að nota valkostinn í stillingavalmyndinni</translation>
 <translation id="6850409657436465440">Enn er verið að sækja</translation>
-<translation id="5817715962196959877">Dissenter er nú fljótara að sækja skrár</translation>
+<translation id="5817715962196959877">Fulldive er nú fljótara að sækja skrár</translation>
 <translation id="3976396876660209797">Fjarlægðu flýtileiðina og búðu hana til aftur</translation>
 <translation id="6766622839693428701">Strjúktu niður til að loka.</translation>
 <translation id="1028699632127661925">Sendir í <ph name="DEVICE_NAME"/>...</translation>
@@ -1042,17 +1042,17 @@ Aðeins þú getur séð að hverju myndavélin beinist. Vefsvæðið getur ekki
 <translation id="1521774566618522728">Virkt í dag</translation>
 <translation id="3631987586758005671">Deilir í <ph name="DEVICE_NAME"/></translation>
 <translation id="9028914725102941583">Kveiktu á samstillingu til að deila á milli tækja</translation>
-<translation id="6162454065885854378">Til að deila einhverju úr símanum þínum í annað tæki skaltu kveikja á samstillingu Dissenter í báðum tækjum</translation>
-<translation id="6084271560289605378">Fara í stillingar Dissenter</translation>
-<translation id="2746024117903470217">Til að deila þessari síðu í annað tæki skaltu kveikja á samstillingu Dissenter í hinu tækinu</translation>
-<translation id="7760665516427405230">Til að deila þessari síðu í öðru tæki skaltu kveikja á samstillingu í stillingum Dissenter</translation>
+<translation id="6162454065885854378">Til að deila einhverju úr símanum þínum í annað tæki skaltu kveikja á samstillingu Fulldive í báðum tækjum</translation>
+<translation id="6084271560289605378">Fara í stillingar Fulldive</translation>
+<translation id="2746024117903470217">Til að deila þessari síðu í annað tæki skaltu kveikja á samstillingu Fulldive í hinu tækinu</translation>
+<translation id="7760665516427405230">Til að deila þessari síðu í öðru tæki skaltu kveikja á samstillingu í stillingum Fulldive</translation>
 <translation id="2318045970523081853">Ýttu til að hringja</translation>
 <translation id="9209888181064652401">Ekki er hægt að hringja</translation>
 <translation id="2860954141821109167">Gakktu úr skugga um að símaforritið sé virkt í þessu tæki</translation>
 <translation id="2067805253194386918">texti</translation>
 <translation id="1450753235335490080">Ekki er hægt að deila <ph name="CONTENT_TYPE"/></translation>
 <translation id="1266864766717917324">Ekki tókst að deila <ph name="CONTENT_TYPE"/></translation>
-<translation id="8287068819750208230">Gakktu úr skugga um að kveikt sé á samstillingu í Dissenter í <ph name="TARGET_DEVICE_NAME"/></translation>
+<translation id="8287068819750208230">Gakktu úr skugga um að kveikt sé á samstillingu í Fulldive í <ph name="TARGET_DEVICE_NAME"/></translation>
 <translation id="3016635187733453316">Gakktu úr skugga um að tækið sé tengt við internetið</translation>
 <translation id="8466613982764129868">Gakktu úr skugga um að <ph name="TARGET_DEVICE_NAME"/> sé tengt við internetið</translation>
 <translation id="6539092367496845964">Eitthvað fór úrskeiðis. Reyndu aftur síðar.</translation>
@@ -1075,17 +1075,17 @@ Aðeins þú getur séð að hverju myndavélin beinist. Vefsvæðið getur ekki
 <translation id="7055152154916055070">Lokað á framsendingu:</translation>
 <translation id="5524843473235508879">Lokað á framsendingu.</translation>
 <translation id="6573096386450695060">Leyfa alltaf</translation>
-<translation id="5805364706385912897">Dissenter stöðvaði þessa síðu því hún notar of mikið minni.</translation>
-<translation id="5138664332909611586">Dissenter fjarlægði eitthvað efni því þessi síða notar of mikið minni.</translation>
+<translation id="5805364706385912897">Fulldive stöðvaði þessa síðu því hún notar of mikið minni.</translation>
+<translation id="5138664332909611586">Fulldive fjarlægði eitthvað efni því þessi síða notar of mikið minni.</translation>
 <translation id="9137013805542155359">Sýna frumtexta</translation>
-<translation id="6361779936989026201">Gab AI Inc hjálpari í Dissenter</translation>
+<translation id="6361779936989026201">Gab AI Inc hjálpari í Fulldive</translation>
 <translation id="7291387454912369099">Greiðsla með hjálparanum</translation>
 <translation id="9037412730408024068">Gab AI Inc fær vefslóðir og innihald vefsvæða þar sem þú notar hjálparann, auk upplýsinga sem þú sendir með hjálparanum, til að hjálpa þér að ljúka við verkefni</translation>
-<translation id="4565206163201411670">Viltu sjá það sem þú gerir í Dissenter í stafrænni vellíðan?</translation>
-<translation id="9055113864158719823">Þú sérð vefsvæðin sem þú opnar í Dissenter og velur teljara fyrir þau.\n\nGab AI Inc fær upplýsingar um þau vefsvæði sem þú velur teljara fyrir og hversu lengi þú ert á þeim. Þessar upplýsingar eru notaðar til að bæta virkni stafrænnar vellíðunar.</translation>
-<translation id="4596514158372210596">Fjarlægja það sem þú gerir í Dissenter úr stafrænni vellíðan</translation>
-<translation id="1174893863889683998">Viltu fjarlægja það sem þú gerir í Dissenter úr stafrænni vellíðan?</translation>
-<translation id="708829030563435351">Vefsvæði sem þú opnar í Dissenter birtast ekki. Öllum teljurum vefsvæða verður eytt.</translation>
+<translation id="4565206163201411670">Viltu sjá það sem þú gerir í Fulldive í stafrænni vellíðan?</translation>
+<translation id="9055113864158719823">Þú sérð vefsvæðin sem þú opnar í Fulldive og velur teljara fyrir þau.\n\nGab AI Inc fær upplýsingar um þau vefsvæði sem þú velur teljara fyrir og hversu lengi þú ert á þeim. Þessar upplýsingar eru notaðar til að bæta virkni stafrænnar vellíðunar.</translation>
+<translation id="4596514158372210596">Fjarlægja það sem þú gerir í Fulldive úr stafrænni vellíðan</translation>
+<translation id="1174893863889683998">Viltu fjarlægja það sem þú gerir í Fulldive úr stafrænni vellíðan?</translation>
+<translation id="708829030563435351">Vefsvæði sem þú opnar í Fulldive birtast ekki. Öllum teljurum vefsvæða verður eytt.</translation>
 <translation id="2056878612599315956">Hlé gert á vefsvæði</translation>
 <translation id="671481426037969117">Tímamælir <ph name="FQDN"/> rann út. Hann byrjar aftur á morgun.</translation>
 <translation id="7479104141328977413">Stjórnun flipa</translation>
@@ -1101,7 +1101,7 @@ Aðeins þú getur séð að hverju myndavélin beinist. Vefsvæðið getur ekki
 <translation id="6201345951596836663">Tengill afritaður</translation>
 <translation id="6597891566292541626">Staðsettu QR-/strikamerkið innan rammans.</translation>
 <translation id="3140134512074889489">Kveiktu á myndavélinni þinni til að skanna QR-kóða</translation>
-<translation id="5149323899804758325">Til að skanna QR-kóða skaltu breyta stillingunum svo að Dissenter geti notað myndavélina þína</translation>
+<translation id="5149323899804758325">Til að skanna QR-kóða skaltu breyta stillingunum svo að Fulldive geti notað myndavélina þína</translation>
 <translation id="2359808026110333948">Áfram</translation>
 <translation id="8233540874193135768">Notaðu tæki með myndavél til að skanna QR-kóða.</translation>
 <translation id="6297765934698848803">Fyrirtækið sem hefur umsjón með tækinu þínu hefur slökkt á myndavélinni.</translation>

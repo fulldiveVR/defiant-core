@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Жою</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> таңдалған</translation>
 <translation id="5582839680698949063">Басты мәзір</translation>
-<translation id="3700405816184340252">Dissenter тарихы</translation>
+<translation id="3700405816184340252">Fulldive тарихы</translation>
 <translation id="7602079150116086782">Басқа құрылғылардан қойындылар жоқ</translation>
 <translation id="4619615317237390068">Басқа құрылғылардағы қойындылар</translation>
-<translation id="82609232232243542">Dissenter жүйесіне кіру</translation>
+<translation id="82609232232243542">Fulldive жүйесіне кіру</translation>
 <translation id="4627442949885028695">Басқа құрылғыдан жалғастыру</translation>
-<translation id="7253276740368043692">Басқа құрылғылардағы қойындыларды алу үшін, Dissenter жүйесіне кіріңіз.</translation>
+<translation id="7253276740368043692">Басқа құрылғылардағы қойындыларды алу үшін, Fulldive жүйесіне кіріңіз.</translation>
 <translation id="6351063337294363751">Осы мәзірден браузерді пайдалану деректерін өшіре аласыз</translation>
 <translation id="6040143037577758943">Жабу</translation>
 <translation id="6463795194797719782">&amp;Өзгерту</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Реттеулер…</translation>
 <translation id="5801568494490449797">Параметрлер</translation>
 <translation id="3677911431265050325">Сайттың мобильдік нұсқасын сұрау</translation>
-<translation id="236470849334943016">Dissenter-ның Қызмет көрсету шарттары 31 наурыздан бастап өзгереді</translation>
+<translation id="236470849334943016">Fulldive-ның Қызмет көрсету шарттары 31 наурыздан бастап өзгереді</translation>
 <translation id="1032605640136438169">Жаңа шарттарды қарап шығыңыз.</translation>
 <translation id="8712637175834984815">Түсінікті</translation>
 <translation id="5007392906805964215">Көру</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Қайта іске қосу</translation>
 <translation id="3479552764303398839">Қазір емес</translation>
 <translation id="1008557486741366299">Қазір емес</translation>
-<translation id="8201192017531062522">Dissenter қолданбалары ашық болғанда, Dissenter жұмысын жалғастырады.</translation>
-<translation id="7397305826909094212">Барлық Dissenter қолданбаларынан шығу</translation>
+<translation id="8201192017531062522">Fulldive қолданбалары ашық болғанда, Fulldive жұмысын жалғастырады.</translation>
+<translation id="7397305826909094212">Барлық Fulldive қолданбаларынан шығу</translation>
 <translation id="5026874946691314267">Бұны қайта көрсетпеу</translation>
 <translation id="91568222606626347">Таңбаша жасау…</translation>
 <translation id="2783321960289401138">Таңбаша жасау…</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">Linux виртуалды машинасы: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Виртуалды құрылғыға арналған плагин: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP талдау құралы</translation>
-<translation id="7171242884588191792">Dissenter файл утилиталары</translation>
+<translation id="7171242884588191792">Fulldive файл утилиталары</translation>
 <translation id="3183139917765991655">Profile Importer</translation>
 <translation id="7367714965999718019">QR кодының генераторы</translation>
 <translation id="2190069059097339078">WiFi Credentials Getter</translation>
-<translation id="5920835625712313205">Dissenter OС жүйесінің кескін жазу құралы</translation>
+<translation id="5920835625712313205">Fulldive OС жүйесінің кескін жазу құралы</translation>
 <translation id="4873312501243535625">Media File Checker</translation>
 <translation id="5972666587303800813">NOOP</translation>
 <translation id="1545775234664667895">"<ph name="THEME_NAME"/>" тақырыбы орнатылды</translation>
@@ -851,14 +851,14 @@
 <translation id="3507421388498836150">Ағымдағы "<ph name="EXTENSION_NAME"/>" рұқсаттары</translation>
 <translation id="5242724311594467048">"<ph name="EXTENSION_NAME"/>" қосасыз ба?</translation>
 <translation id="4014432863917027322">"<ph name="EXTENSION_NAME"/>" жөндейсіз бе?</translation>
-<translation id="5173189340601754836">Компьютеріңіздегі басқа бір бағдарлама жаңа қолданбаны енгізді, ол Dissenter жұмысын өзгертуі мүмкін.
+<translation id="5173189340601754836">Компьютеріңіздегі басқа бір бағдарлама жаңа қолданбаны енгізді, ол Fulldive жұмысын өзгертуі мүмкін.
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Компьютеріңіздегі басқа бір бағдарлама жаңа кеңейтім қосты, ол Dissenter жұмысын өзгертуі мүмкін.
+<translation id="6654312501894761082">Компьютеріңіздегі басқа бір бағдарлама жаңа кеңейтім қосты, ол Fulldive жұмысын өзгертуі мүмкін.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Компьютеріңіздегі басқа бір бағдарлама жаңа тақырып қосты, ол Dissenter жұмысын өзгертуі мүмкін.
+<translation id="3225882094369124157">Компьютеріңіздегі басқа бір бағдарлама жаңа тақырып қосты, ол Fulldive жұмысын өзгертуі мүмкін.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Кеңейтімді қосу</translation>
@@ -867,7 +867,7 @@
 <translation id="3908501907586732282">Кеңейтімді қосу</translation>
 <translation id="2327492829706409234">Қолданбаны қосу</translation>
 <translation id="175772926354468439">Тақырыпты қосу</translation>
-<translation id="5267531627648004734">Dissenter бағдарламасынан жою</translation>
+<translation id="5267531627648004734">Fulldive бағдарламасынан жою</translation>
 <translation id="4998873842614926205">Өзгерістерді растау</translation>
 <translation id="1799071797295057738">"<ph name="EXTENSION_NAME"/>" кеңейтімі автоматты түрде өшірілген.</translation>
 <translation id="5238278114306905396">"<ph name="EXTENSION_NAME"/>" қолданбасы автоматты түрде жойылды.</translation>
@@ -1003,7 +1003,7 @@
 <translation id="1616298854599875024">Бөлісілмеген модуль болғандықтан, "<ph name="IMPORT_NAME"/>" кеңейтімін импорттау мүмкін емес.</translation>
 <translation id="2131077480075264">"<ph name="APP_NAME"/>" орнату мүмкін емес, себебі оған "<ph name="IMPORT_NAME"/>" рұқсат бермеген</translation>
 <translation id="1875387611427697908">Мұны тек <ph name="CHROME_WEB_STORE"/> дүкенінен енгізуге болады</translation>
-<translation id="3862788408946266506">"kiosk_only" манифест атрибутына ие қолданба Dissenter OS киоск режимінде орнатылуы тиіс</translation>
+<translation id="3862788408946266506">"kiosk_only" манифест атрибутына ие қолданба Fulldive OS киоск режимінде орнатылуы тиіс</translation>
 <translation id="3834775135533257713">"<ph name="TO_INSTALL_APP_NAME"/>" қолданбасы қосылмады, себебі ол "<ph name="INSTALLED_APP_NAME"/>" қолданбасымен қайшы.</translation>
 <translation id="144518587530125858">Тақырыпқа арналған "<ph name="IMAGE_PATH"/>" жүктеу мүмкін емес.</translation>
 <translation id="3576324189521867626">Сәтті орнатылды</translation>
@@ -1097,7 +1097,7 @@
 <translation id="5483785310822538350">Файл мен құрылғыға кіру құқығын қайтарып алу</translation>
 <translation id="93766956588638423">Кеңейтімді жөндеу</translation>
 <translation id="3905761538810670789">Қолданбаны жөндеу</translation>
-<translation id="8808478386290700967">Dissenter Web Store</translation>
+<translation id="8808478386290700967">Fulldive Web Store</translation>
 <translation id="488785315393301722">Мәліметтерді көрсету</translation>
 <translation id="8962083179518285172">Мәліметтерді жасыру</translation>
 <translation id="7287143125007575591">Кіруге тыйым салынған.</translation>
@@ -1106,9 +1106,9 @@
 <translation id="6101226222197207147">Жаңа қолданба қосылды (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">Жаңа тақырып қосылды (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">"<ph name="EXTENSION_NAME"/>" қосылды</translation>
-<translation id="6637045053447935202">Компьютеріңіздегі басқа бір бағдарлама қолданба қосты, ол Dissenter жұмысын өзгертуі мүмкін.</translation>
-<translation id="2015014930243978107">Компьютеріңіздегі басқа бір бағдарлама кеңейтім қосты, ол Dissenter жұмысын өзгертуі мүмкін.</translation>
-<translation id="2060128809251156338">Компьютеріңіздегі басқа бір бағдарлама тақырыпты қосты, ол Dissenter жұмысын өзгертуі мүмкін.</translation>
+<translation id="6637045053447935202">Компьютеріңіздегі басқа бір бағдарлама қолданба қосты, ол Fulldive жұмысын өзгертуі мүмкін.</translation>
+<translation id="2015014930243978107">Компьютеріңіздегі басқа бір бағдарлама кеңейтім қосты, ол Fulldive жұмысын өзгертуі мүмкін.</translation>
+<translation id="2060128809251156338">Компьютеріңіздегі басқа бір бағдарлама тақырыпты қосты, ол Fulldive жұмысын өзгертуі мүмкін.</translation>
 <translation id="2470702053775288986">Қолдау көрсетілмейтін кеңейтімдер өшірілген</translation>
 <translation id="2809586584051668049">және тағы <ph name="NUMBER_ADDITIONAL_DISABLED"/></translation>
 <translation id="5301954838959518834">Жарайды, түсінікті</translation>
@@ -1313,7 +1313,7 @@
 <translation id="8017679124341497925">Таңбаша өзгерді</translation>
 <translation id="1174073918202301297">Таңбаша енгізілді</translation>
 <translation id="2926085873880284723">Әдепкі таңбашаларды қалпына келтіру</translation>
-<translation id="5801450813341024983">Dissenter фондары</translation>
+<translation id="5801450813341024983">Fulldive фондары</translation>
 <translation id="2800760947029405028">Кескін жүктеп салу</translation>
 <translation id="8342861492835240085">Жинақ таңдау</translation>
 <translation id="3132996321662585180">Күнделікті жаңарту</translation>
@@ -1400,7 +1400,7 @@
 <translation id="833986336429795709">Бұл сілтемені ашу үшін қолданбаны таңдаңыз</translation>
 <translation id="192494336144674234">Ашу әдісі</translation>
 <translation id="9053893665344928494">Таңдауымды есте сақтау</translation>
-<translation id="5340857474604400806">Dissenter браузерінде қалу</translation>
+<translation id="5340857474604400806">Fulldive браузерінде қалу</translation>
 <translation id="3043581297103810752"><ph name="ORIGIN"/> сайтынан</translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Инкогнито)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (қонақ)</translation>
@@ -1461,8 +1461,8 @@
 <translation id="6686817083349815241">Құпия сөзді сақтау</translation>
 <translation id="8141725884565838206">Құпия сөздеріңізді басқару</translation>
 <translation id="8275038454117074363">Импорттау</translation>
-<translation id="3191314862567596053">Құпия сөздерді Dissenter жүйесіне импорттау</translation>
-<translation id="6368144843345980623">Құпия сөздердерді Dissenter жүйесінен экспорттау</translation>
+<translation id="3191314862567596053">Құпия сөздерді Fulldive жүйесіне импорттау</translation>
+<translation id="6368144843345980623">Құпия сөздердерді Fulldive жүйесінен экспорттау</translation>
 <translation id="8503813439785031346">Пайдаланушы аты</translation>
 <translation id="6657585470893396449">Құпия сөз</translation>
 <translation id="5472627187093107397">Осы сайт үшін құпия сөздерді сақтау</translation>
@@ -1493,7 +1493,7 @@
 <translation id="7052237160939977163">Өнімділікті бақылау деректерін жіберу</translation>
 <translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth журналдарын<ph name="END_LINK"/> (Gab AI Inc-де ішкі пайдалану үшін) тіркеңіз</translation>
 <translation id="3047644958362961983">Бұл ақпарат Assistant мәселесін жақсырақ түсінуге көмектеседі. Ол 90 күнге дейін сақталады және тек сәйкес инженерлер мен кері байланыс ұжымына ғана қолжетімді болады.</translation>
-<translation id="8545590844135745781">Bluetooth ақауларын жақсырақ анықтау үшін Gab AI Inc қызметкерлері пікір есептеріне қосымша Bluetooth журналдарын енгізе алады. Бұл опция таңдалса, есебіңіз жеке ақпараттарды барынша өшіре отырып, өңделген сеанстағы btsnoop және HCI журналдарын қамтиды. Журналдарға тек қана Listnr ішіндегі Dissenter OS өнім тобының басқарушылары кіре алады. Журналдар 90 күннен кейін өшіріледі.</translation>
+<translation id="8545590844135745781">Bluetooth ақауларын жақсырақ анықтау үшін Gab AI Inc қызметкерлері пікір есептеріне қосымша Bluetooth журналдарын енгізе алады. Бұл опция таңдалса, есебіңіз жеке ақпараттарды барынша өшіре отырып, өңделген сеанстағы btsnoop және HCI журналдарын қамтиды. Журналдарға тек қана Listnr ішіндегі Fulldive OS өнім тобының басқарушылары кіре алады. Журналдар 90 күннен кейін өшіріледі.</translation>
 <translation id="4206323443866416204">Пікір есебі</translation>
 <translation id="3681311097828166361">Пікіріңіз үшін рақмет. Қазір желіге қосылмағансыз, есебіңіз кейінірек жіберіледі.</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>Жүйе ақпаратын<ph name="END_LINK1"/> жіберу</translation>
@@ -1510,15 +1510,15 @@
 <translation id="6885771755599377173">Жүйе ақпаратын алдын ала қарау</translation>
 <translation id="1016566241875885511">Қосымша ақпарат (міндетті емес)</translation>
 <translation id="8026334261755873520">Шолу деректерін өшіру</translation>
-<translation id="4718442817388594217">Таңдалған деректер Dissenter жүйесінен және синхрондалған құрылғылардан алынып тасталды. Gab AI Inc есептік жазбасының шолу тарихы басқа Gab AI Inc қызметтеріндегі іздеулер мен әрекеттер тізімі түрінде де болуы мүмкін, оларды <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> мекенжайынан табуға болады.</translation>
-<translation id="7814200940910057384">Dissenter деректері өшірілді</translation>
+<translation id="4718442817388594217">Таңдалған деректер Fulldive жүйесінен және синхрондалған құрылғылардан алынып тасталды. Gab AI Inc есептік жазбасының шолу тарихы басқа Gab AI Inc қызметтеріндегі іздеулер мен әрекеттер тізімі түрінде де болуы мүмкін, оларды <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> мекенжайынан табуға болады.</translation>
+<translation id="7814200940910057384">Fulldive деректері өшірілді</translation>
 <translation id="7346909386216857016">Жарайды, түсінікті</translation>
 <translation id="8493236660459102203">Микрофон:</translation>
 <translation id="3925573269917483990">Камера:</translation>
 <translation id="648927581764831596">Жоқ</translation>
 <translation id="4172051516777682613">Әрқашан көрсету</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Қалқымалы терезе бөгелді}other{# қалқымалы терезе бөгелді}}</translation>
-<translation id="4156865452842056672">(Dissenter қате беттері)</translation>
+<translation id="4156865452842056672">(Fulldive қате беттері)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> өздігінен жаңартыла алмауы мүмкін</translation>
 <translation id="8590375307970699841">Автоматты жаңартуларды орнату</translation>
 <translation id="8926389886865778422">Енді сұралмасын</translation>
@@ -1623,10 +1623,10 @@
 <translation id="8658645149275195032"><ph name="APP_NAME"/> қолданбасы <ph name="TAB_NAME"/> сайтымен экранды және аудионы бөлісуде.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> терезені бөлісуде.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> қолданбасы <ph name="TAB_NAME"/> сайтымен терезені бөлісуде.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> қолданбасы Dissenter қойындысын бөлісуде.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> қолданбасы <ph name="TAB_NAME"/> сайтымен Dissenter қойындысын бөлісуде.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> қолданбасы Dissenter қойындысын және аудионы бөлісуде.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> қолданбасы <ph name="TAB_NAME"/> сайтымен Dissenter қойындысын және аудионы бөлісуде.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> қолданбасы Fulldive қойындысын бөлісуде.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> қолданбасы <ph name="TAB_NAME"/> сайтымен Fulldive қойындысын бөлісуде.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> қолданбасы Fulldive қойындысын және аудионы бөлісуде.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> қолданбасы <ph name="TAB_NAME"/> сайтымен Fulldive қойындысын және аудионы бөлісуде.</translation>
 <translation id="7108338896283013870">Жасыру</translation>
 <translation id="890616557918890486">Дереккөзді өзгерту</translation>
 <translation id="7792388396321542707">Бөлісуді тоқтату</translation>
@@ -1649,7 +1649,7 @@
 <translation id="4711067597921221305">Пайдалану статистикасын және бұзылу туралы есептерді Gab AI Inc компаниясына автоматты түрде жіберу арқылы <ph name="PRODUCT_NAME"/> өнімін жақсартуға көмектесіңіз</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/> іске қосу</translation>
 <translation id="4876273079589074638">Инженерлерге бұзылу мәселелерін зерттеуге және жөндеуге көмектесіңіз. Мүмкін болса, әрекеттеріңізді ретімен сипаттаңыз. Ұсақ-түйектің өзі маңызды!</translation>
-<translation id="5418694430960033386">Dissenter жады толған немесе веб-бетке арналған процесс кейбір басқа себептер үшін тоқтатылған. Жалғастыру үшін қайта жүктеңіз немесе басқа бетке өтіңіз.</translation>
+<translation id="5418694430960033386">Fulldive жады толған немесе веб-бетке арналған процесс кейбір басқа себептер үшін тоқтатылған. Жалғастыру үшін қайта жүктеңіз немесе басқа бетке өтіңіз.</translation>
 <translation id="3065041951436100775">Қойындының жойылғандығы жөніндегі пікір.</translation>
 <translation id="3941565636838060942">Бұл бағдарламаға кіру құқығын жасыру үшін оны Басқару панеліндегі
   <ph name="CONTROL_PANEL_APPLET_NAME"/> пайдалану арқылы жою керек.
@@ -1670,17 +1670,17 @@
 <translation id="4846680374085650406">Бұл параметр үшін әкімші ұсынысын орындаудасыз.</translation>
 <translation id="1223853788495130632">Әкімшіңіз бұл параметр үшін арнайы мәнді ұсынады.</translation>
 <translation id="5464660706533281090">Бұл параметрді бала пайдаланушы өзгерте алмайды.</translation>
-<translation id="8839398440242019256">Dissenter Web Store дүкенінен емес.</translation>
+<translation id="8839398440242019256">Fulldive Web Store дүкенінен емес.</translation>
 <translation id="5337771866151525739">Үшінші тарап орнатқан.</translation>
 <translation id="4538792345715658285">Кәсіпорын саясаты бойынша орнатылған.</translation>
 <translation id="4359408040881008151">Тәуелді кеңейтім(дер) себебінен орнатылды.</translation>
 <translation id="4980805016576257426">Бұл кеңейтімде зиянды бағдарлама бар.</translation>
 <translation id="5522156646677899028">Бұл кеңейтім өте қауіпсіз.</translation>
-<translation id="6945695820322143954">Бұл кеңейтім Dissenter Web Store саясатын бұзады.</translation>
-<translation id="177808131755847449">Dissenter арқылы өшірілген. Бұл кеңейтім қауіпті болуы мүмкін.</translation>
+<translation id="6945695820322143954">Бұл кеңейтім Fulldive Web Store саясатын бұзады.</translation>
+<translation id="177808131755847449">Fulldive арқылы өшірілген. Бұл кеңейтім қауіпті болуы мүмкін.</translation>
 <translation id="1434696352799406980">Бұл іске қосу бетін, жаңа қойынды бетін, іздеу жүйесін және бекітілген қойындыларды бастапқы қалпына келтіреді. Бұл сондай-ақ барлық кеңейтімдерді және cookie тәрізді уақытша файлдарды алып тастайды. Бетбелгілеріңіз, тарих және сақталған құпия сөздеріңіз жойылады.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> параметрлеріңізді бастапқы қалпына келтіргісі келеді.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> бастапқы Dissenter параметрлеріңіздің әдепкі мәндерін қалпына келтіргісі келеді. Бұл әрекет бастапқы бетті, жаңа қойынды бетін және іздеу жүйесін бастапқы қалпына келтіреді және кеңейтімдерді өшіреді, барлық қойындыларды босатады. Сонымен қатар cookie файлдары, мазмұн және сайт деректері тәрізді басқа уақытша және кэштелген деректер өшіріледі.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/> бастапқы Fulldive параметрлеріңіздің әдепкі мәндерін қалпына келтіргісі келеді. Бұл әрекет бастапқы бетті, жаңа қойынды бетін және іздеу жүйесін бастапқы қалпына келтіреді және кеңейтімдерді өшіреді, барлық қойындыларды босатады. Сонымен қатар cookie файлдары, мазмұн және сайт деректері тәрізді басқа уақытша және кэштелген деректер өшіріледі.</translation>
 <translation id="7581462281756524039">Тазалау құралы</translation>
 <translation id="1233721473400465416">Тіл</translation>
 <translation id="2907619724991574506">Бастау URL сілтемелері</translation>
@@ -1874,7 +1874,7 @@
 <translation id="6664774537677393800">Профильді ашу кезінде бірдеңе дұрыс болмады. Жүйеден шығып, қайта кіріңіз.</translation>
 <translation id="1794791083288629568">Бұл мәселені шешуімізге көмектесу үшін пікір жіберіңіз.</translation>
 <translation id="8234795456569844941">Біздің инженерлерге осы мәселені шегуге көмектесіңіз. Профиль қатесі туралы хабарын алмастан бұрын не болғанын айтыңыз:</translation>
-<translation id="6500340165622970282">Профильді ашу кезінде қате кеткендіктен, Dissenter іске қосылмады. Оны қайта іске қосып көріңіз.</translation>
+<translation id="6500340165622970282">Профильді ашу кезінде қате кеткендіктен, Fulldive іске қосылмады. Оны қайта іске қосып көріңіз.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> өнімін түбірлік ретінде іске мүмкін емес.</translation>
 <translation id="2292848386125228270"><ph name="PRODUCT_NAME"/> өнімін қарапайым пайдаланушы ретінде іске қосыңыз. Дамыту үшін түбір ретінде іске қосу қажет болса, "--сынақ ортасы-жоқ" жалаушасын пайдаланыңыз.</translation>
 <translation id="7547317915858803630">Ескерту: <ph name="PRODUCT_NAME"/> параметрлері желілік дискіде сақталады. Бұл баяулауға, бұзылуға немесе деректердің жойылуына себеп болуы мүмкін.</translation>
@@ -2250,8 +2250,8 @@
 <translation id="4720113199587244118">Құрылғылар қосу</translation>
 <translation id="2776441542064982094">Желіде тіркеу үшін қол жетімді құрылғылар жоқ сияқты. Құрылғыңыз қосулы және интернетке қосылған болса, оны нұсқаулығында көрсетілген нұсқаулардың көмегімен тіркеп көріңіз.</translation>
 <translation id="1007408791287232274">Құрылғыларды жүктеу мүмкін емес.</translation>
-<translation id="3886420006370338208">Құрылғыларыңызды көру үшін Dissenter жүйесіне кіруіңіз керек</translation>
-<translation id="6711610692002680394">Жаңа құрылғыларды тіркеу үшін Dissenter жүйесіне кіру қажет</translation>
+<translation id="3886420006370338208">Құрылғыларыңызды көру үшін Fulldive жүйесіне кіруіңіз керек</translation>
+<translation id="6711610692002680394">Жаңа құрылғыларды тіркеу үшін Fulldive жүйесіне кіру қажет</translation>
 <translation id="8931394284949551895">Жаңа құрылғылар</translation>
 <translation id="3752673729237782832">Құрылғыларым</translation>
 <translation id="1721937473331968728">Компьютеріңізге қосылған классикалық принтерлерді <ph name="CLOUD_PRINT_NAME"/> қызметіне қоса аласыз.</translation>
@@ -2324,7 +2324,7 @@
 <translation id="4540437243849625078">Бұл сайт инкогнито режимінен тыс қолданбамен ақпаратты бөліскелі тұр.</translation>
 <translation id="1227836882233136433">Инкогнито режимінен шығасыз ба?</translation>
 <translation id="662080504995468778">Қалу</translation>
-<translation id="2593289874938379417">Dissenter браузері сұралған ресурсқа кіре алмайды.</translation>
+<translation id="2593289874938379417">Fulldive браузері сұралған ресурсқа кіре алмайды.</translation>
 <translation id="760197030861754408">Қосылу үшін өтіңіз: <ph name="LANDING_PAGE"/>.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> анықталды</translation>
 <translation id="5042282098504489593"><ph name="USB_DEVICE_NAME"/> құрылғысын Linux жүйесіне жалғау үшін "Параметрлер" бөлімін ашыңыз.</translation>
@@ -2378,24 +2378,24 @@
 <translation id="2859806420264540918">Бұл сайтта мазалайтын немесе жалған ақпаратты жарнамалар көрсетіледі.</translation>
 <translation id="4077917118009885966">Осы сайтта бөгелген жарнамалар</translation>
 <translation id="6456955391422100996">Жарнама өшірілді.</translation>
-<translation id="7533556202636568669">Бұл жарнама құрылғыңыздың тым көп ресурсын пайдаланады, сондықтан Dissenter оны өшірді.</translation>
+<translation id="7533556202636568669">Бұл жарнама құрылғыңыздың тым көп ресурсын пайдаланады, сондықтан Fulldive оны өшірді.</translation>
 <translation id="8497219075884839166">Windows утилиталары</translation>
 <translation id="897525204902889653">Карантин қызметі</translation>
 <translation id="7055152154916055070">Бағыттау функциясына тыйым салынды.</translation>
 <translation id="6777817260680419853">Бағыттауға тыйым салынған</translation>
 <translation id="694592694773692225">Бұл бетте бағыттауға тыйым салынған.</translation>
-<translation id="8945142681652245463">Gab AI Inc Dissenter арқылы жылдам шолу</translation>
-<translation id="2618024864038703735">Gab AI Inc Dissenter арқылы қауіпсіз күйде шолыңыз</translation>
-<translation id="8142180567942285208">Dissenter браузерімен зерделі шолу</translation>
+<translation id="8945142681652245463">Gab AI Inc Fulldive арқылы жылдам шолу</translation>
+<translation id="2618024864038703735">Gab AI Inc Fulldive арқылы қауіпсіз күйде шолыңыз</translation>
+<translation id="8142180567942285208">Fulldive браузерімен зерделі шолу</translation>
 <translation id="8862003515646449717">Жылдам браузерге ауысыңыз</translation>
 <translation id="8438328416656800239">Зерделі браузерге ауысу</translation>
 <translation id="491691592645955587">Қауіпсіз браузерге ауысыңыз</translation>
 <translation id="683373380308365518">Зерделі және қауіпсіз браузерге ауысыңыз</translation>
-<translation id="989239400026154074">Gab AI Inc қызметі Dissenter браузерін ұсынады</translation>
-<translation id="6676231621615806698">Dissenter браузерін ашу</translation>
+<translation id="989239400026154074">Gab AI Inc қызметі Fulldive браузерін ұсынады</translation>
+<translation id="6676231621615806698">Fulldive браузерін ашу</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> жергілікті мазмұнды беру үшін орналасу орны мәліметін пайдаланады. Мұны <ph name="SETTINGS_LINK"/> бөлімінде өзгерте аласыз.</translation>
 <translation id="3737536731758327622">Жүктеп алынған файлдар осы жерде шығады</translation>
-<translation id="4782664866169793230">Dissenter браузері автоматты сынақ бағдарламалық құралымен басқарылады.</translation>
+<translation id="4782664866169793230">Fulldive браузері автоматты сынақ бағдарламалық құралымен басқарылады.</translation>
 <translation id="6721678857435001674">Security Key құрылғысының маркасы мен үлгісін көру</translation>
 <translation id="1673137583248014546"><ph name="URL"/> сайты Security Key құрылғысының маркасы мен үлгісін білгісі келеді</translation>
 <translation id="6010869025736512584">Бейне кіріс қолжетімді</translation>
@@ -2528,7 +2528,7 @@
 <translation id="3984431586879874039">Бұл сайтқа қауіпсіздік кілтін көруге рұқсат етілсін бе?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> сайты қауіпсіздік кілтіңіздің маркасы мен үлгісін білгісі келеді.</translation>
 <translation id="7618452966706304788">Инкогнито режимінде <ph name="APP_NAME"/> қолданбасымен Touch ID мүмкіндігін пайдаланғыңыз келе ме?</translation>
-<translation id="3098826269712097986">Сіз инкогнито режимінен шыққаннан кейін де, есептік жазбаға кіру деректері Dissenter браузерінде сақталады. Сайтқа қайта кіргенде, Touch ID мүмкіндігін пайдалана аласыз.</translation>
+<translation id="3098826269712097986">Сіз инкогнито режимінен шыққаннан кейін де, есептік жазбаға кіру деректері Fulldive браузерінде сақталады. Сайтқа қайта кіргенде, Touch ID мүмкіндігін пайдалана аласыз.</translation>
 <translation id="2172784515318616985">Жалғастыру</translation>
 <translation id="5186185447130319458">Инкогнито</translation>
 <translation id="7643842463591647490">{0,plural, =1{# терезе ашық}other{# терезе ашық}}</translation>
@@ -2570,7 +2570,7 @@
 <translation id="2346953515226895098">SODA қызметі</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> кідіртілді</translation>
 <translation id="917350715406657904"><ph name="APP_NAME"/> үшін ата-анаңыз белгілеген уақыт шегіне жеттіңіз. Оны ертең <ph name="TIME_LIMIT"/> бойы пайдалана аласыз.</translation>
-<translation id="8891261408659902804">Ата-анаңыз <ph name="APP_NAME"/> Dissenter қолданбасы үшін белгілеген уақыт шегіне жеттіңіз. Оны ертең <ph name="TIME_LIMIT"/> бойы пайдалана аласыз.</translation>
+<translation id="8891261408659902804">Ата-анаңыз <ph name="APP_NAME"/> Fulldive қолданбасы үшін белгілеген уақыт шегіне жеттіңіз. Оны ертең <ph name="TIME_LIMIT"/> бойы пайдалана аласыз.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> бөгелді</translation>
 <translation id="4404843640767531781"><ph name="APP_NAME"/> қолданбасын ата-анаңыз бөгеді. Оны пайдалану үшін ата-анаңыздан рұқсат сұраңыз.</translation>
 <translation id="751523031290522286"><ph name="APP_NAME"/> қолданбасын әкімші бөгеген. Қолданбаны пайдалану үшін әкімшіден рұқсат сұраңыз.</translation>
@@ -2903,7 +2903,7 @@
 <translation id="672213144943476270">Қонақ ретінде шарлау үшін профиліңіздің құлпын ашыңыз.</translation>
 <translation id="8086119151297127544">Адам суретін алып тастау үшін профиліңіздің құлпын ашыңыз.</translation>
 <translation id="7805701378418968629">Адам суретін қосу үшін профиліңіздің құлпын ашыңыз.</translation>
-<translation id="8978225823042133615">Dissenter браузерін пайдалану үшін жүйеге кіріңіз</translation>
+<translation id="8978225823042133615">Fulldive браузерін пайдалану үшін жүйеге кіріңіз</translation>
 <translation id="4893336867552636863">Бұл осы құрылғыдағы шолу деректерін біржола жояды.</translation>
 <translation id="2496180316473517155">Шолу журналы</translation>
 <translation id="6865313869410766144">Нысан деректерін автотолтыру</translation>
@@ -2927,7 +2927,7 @@
 <translation id="9013707997379828817">Әкімші құрылғыны қалпына келтірді. Маңызды файлдарды сақтап, қайта қосыңыз. Құрылғыдағы барлық деректер жоғалады.</translation>
 <translation id="5877064549588274448">Арна өзгерді. Өзгерістерді қолдану үшін құрылғыңызды қайта іске қосыңыз.</translation>
 <translation id="4716483597559580346">Қосымша қауіпсіздік үшін Powerwash функциясын қолдану</translation>
-<translation id="4089922565956168950">Бұл жаңартуда Dissenterbook құрылғысы бастапқы күйіне қайтарылып, ағымдағы пайдаланушы деректері өшіріледі.</translation>
+<translation id="4089922565956168950">Бұл жаңартуда Fulldivebook құрылғысы бастапқы күйіне қайтарылып, ағымдағы пайдаланушы деректері өшіріледі.</translation>
 <translation id="3688526734140524629">Арнаны өзгерту</translation>
 <translation id="6410328738210026208">Арнаны өзгерту және Powerwash орындау</translation>
 <translation id="1979280758666859181"><ph name="PRODUCT_NAME"/> ескірек нұсқасы орнатылған арнаға ауысып жатырсыз. Арнаның нұсқасы құрылғыңызға орнатылған нұсқаға сәйкес келгенде ғана ауыса алады.</translation>
@@ -2959,7 +2959,7 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, тағы 1 есептік жазба}other{<ph name="EMAIL"/>, тағы <ph name="EXTRA_ACCOUNTS"/> есептік жазба}}</translation>
 <translation id="7434635829372401939">Параметрлерді синхрондау</translation>
 <translation id="1036348656032585052">Өшіру</translation>
-<translation id="3267705913905916810">Қолданбаларыңыз бен параметрлеріңіз Gab AI Inc есептік жазбасымен кірген барлық Dissenter OS құрылғыларында синхрондалады. Браузерді синхрондау опцияларын<ph name="LINK_BEGIN"/>Dissenter параметрлерінен<ph name="LINK_END"/> қараңыз.</translation>
+<translation id="3267705913905916810">Қолданбаларыңыз бен параметрлеріңіз Gab AI Inc есептік жазбасымен кірген барлық Fulldive OS құрылғыларында синхрондалады. Браузерді синхрондау опцияларын<ph name="LINK_BEGIN"/>Fulldive параметрлерінен<ph name="LINK_END"/> қараңыз.</translation>
 <translation id="6985607387932385770">Принтерлер</translation>
 <translation id="8418661265246754237">Gab AI Inc есептік жазбалары</translation>
 <translation id="3953834000574892725">Есептік жазбаларым</translation>
@@ -3006,7 +3006,7 @@
 <translation id="2187700606737131818">Gab AI Inc Photos</translation>
 <translation id="1827738518074806965">Өнер галереясы</translation>
 <translation id="9137157311132182254">Таңдалған іздеу жүйесі</translation>
-<translation id="7423118389528876103">Dissenter браузерінде және <ph name="DEVICE_TYPE"/> іске қосу құралында пайдаланылады.</translation>
+<translation id="7423118389528876103">Fulldive браузерінде және <ph name="DEVICE_TYPE"/> іске қосу құралында пайдаланылады.</translation>
 <translation id="2862205630718215619">Gab AI Inc Assistant</translation>
 <translation id="8959699239363253085">Қосулы</translation>
 <translation id="971479617738309149">Өшірулі</translation>
@@ -3026,15 +3026,15 @@
 <translation id="6644513150317163574">URL форматы жарамсыз. SSO аутентификациясы қолданылған кезде, сервер хост ретінде көрсетіледі.</translation>
 <translation id="6091761513005122595">Ортақ файл орнатылды.</translation>
 <translation id="5770125698810550803">Навигация түймесін көрсету</translation>
-<translation id="2972318514147518075">Планшет режимінде түймелердің көмегімен негізгі экранға, артқа өтіңіз және қолданбалар арасында ауысыңыз. Мұны, DissenterVox немесе "Автоматты түрде басу" функциясы қосулы кезде, пайдалануға болады.</translation>
+<translation id="2972318514147518075">Планшет режимінде түймелердің көмегімен негізгі экранға, артқа өтіңіз және қолданбалар арасында ауысыңыз. Мұны, FulldiveVox немесе "Автоматты түрде басу" функциясы қосулы кезде, пайдалануға болады.</translation>
 <translation id="2558896001721082624">Жүйе мәзірінде арнайы мүмкіндіктер опцияларын көрсету</translation>
 <translation id="2981113813906970160">Үлкен тінтуір курсорын көрсету</translation>
 <translation id="5072052264945641674">Курсордың өлшемін реттеу</translation>
 <translation id="4209092469652827314">Үлкен</translation>
 <translation id="499165176004408815">Жоғары контраст режимін пайдалану</translation>
 <translation id="142758023928848008">Жабысқақ пернелерді қосу (пернелер тіркесімдерін ретімен теру арқылы орындау)</translation>
-<translation id="5914872514449971753">DissenterVox құралын (дыбысты көмек) қосу</translation>
-<translation id="7099511550603534982">DissenterVox параметрлерін ашу</translation>
+<translation id="5914872514449971753">FulldiveVox құралын (дыбысты көмек) қосу</translation>
+<translation id="7099511550603534982">FulldiveVox параметрлерін ашу</translation>
 <translation id="8547013269961688403">Толық экран ұлғайтқышын қосу</translation>
 <translation id="8743390665131937741">Толық экран масштабының деңгейі:</translation>
 <translation id="7334274148831027933">Бекітілген ұлғайтқышты қосу</translation>
@@ -3126,7 +3126,7 @@
 <translation id="6902066522699286937">Дауысты алдын ала тыңдау</translation>
 <translation id="304747341537320566">Дауыстап оқу модульдері</translation>
 <translation id="2755367719610958252">Арнайы мүмкіндіктерді басқару</translation>
-<translation id="1203953622051744249">Кірген есептік жазбаларды басқарыңыз. Рұқсаттарыңызға байланысты мүмкіндігіңізді реттеу үшін веб-сайттар, қолданбалар, Dissenter және Gab AI Inc Play кеңейтімдері осы есептік жазбаларды пайдалануы мүмкін. <ph name="LINK_BEGIN"/>Толығырақ<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Кірген есептік жазбаларды басқарыңыз. Рұқсаттарыңызға байланысты мүмкіндігіңізді реттеу үшін веб-сайттар, қолданбалар, Fulldive және Gab AI Inc Play кеңейтімдері осы есептік жазбаларды пайдалануы мүмкін. <ph name="LINK_BEGIN"/>Толығырақ<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Осы жерде оқу есептік жазбасын енгізуге немесе балаңыздың есептік жазбаларын басқаруға болады. <ph name="LINK_BEGIN"/>Толығырақ<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Есептік жазбалар</translation>
 <translation id="6597148444736186483">Құрылғыдағы негізгі есептік жазбадан шығу үшін экрандағы сағатты басыңыз. Мәзірдегі "Шығу" опциясын таңдаңыз.</translation>
@@ -3198,7 +3198,7 @@
 <translation id="234889437187286781">Деректерді жүктеу кезінде қате шықты.</translation>
 <translation id="4660540330091848931">Көлемі өзгертілуде.</translation>
 <translation id="1481537595330271162">Дискінің көлемі өзгертілмеді.</translation>
-<translation id="2756917833575664962">ADB түзетуін қосу үшін осы Dissenterbook құрылғысын зауыттық күйге қайтару қажет. <ph name="BEGIN_LINK_LEARN_MORE"/>Толығырақ<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">ADB түзетуін қосу үшін осы Fulldivebook құрылғысын зауыттық күйге қайтару қажет. <ph name="BEGIN_LINK_LEARN_MORE"/>Толығырақ<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">ADB түзетуін қосу үшін осы <ph name="DEVICE_TYPE"/> құрылғысын қайта қосу қажет. Оны өшіру үшін зауыттық параметрлерді қайтару қажет болады.</translation>
 <translation id="8082390128630131497">ADB түзетуін өшірсеңіз, осы <ph name="DEVICE_TYPE"/> құрылғысы зауыттық параметрлерге қайтарылады. Барлық пайдаланушы есептік жазбалары мен жергілікті деректер өшіріледі.</translation>
 <translation id="7932969338829957666">Бөлісілген қалталарды Linux жүйесінде <ph name="BASE_DIR"/> каталогінен таба аласыз.</translation>
@@ -3326,10 +3326,10 @@
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> бұдан былай қолжетімді емес.</translation>
 <translation id="3976108569178263973">Қолжетімді принтерлер жоқ.</translation>
 <translation id="217576141146192373">Принтер енгізілмеді. Принтердің конфигурациясын тексеріп, қайталап көріңіз.</translation>
-<translation id="4052689580269971502">Принтермен байланыс орнату мүмкін емес. Принтердің қосулы әрі Wi-Fi желісі не USB арқылы Dissenterbook ноутбугіне жалғаулы тұрғанын тексеріңіз.</translation>
+<translation id="4052689580269971502">Принтермен байланыс орнату мүмкін емес. Принтердің қосулы әрі Wi-Fi желісі не USB арқылы Fulldivebook ноутбугіне жалғаулы тұрғанын тексеріңіз.</translation>
 <translation id="7099337801055912064">Үлкен PPD файлын жүктеу мүмкін емес. Көлемі 250 Кб-тан аспауы керек.</translation>
 <translation id="4310139701823742692">Файлдың форматы дұрыс емес. PPD файлын тексеріп, әрекетті қайталап көріңіз.</translation>
-<translation id="6580983683519551561">PPD файлы табылмады. Dissenterbook ноутбугінің онлайн режимінде екенін тексеріп, әрекетті қайталап көріңіз.</translation>
+<translation id="6580983683519551561">PPD файлы табылмады. Fulldivebook ноутбугінің онлайн режимінде екенін тексеріп, әрекетті қайталап көріңіз.</translation>
 <translation id="4694024090038830733">Принтер конфигурациясын әкімші реттейді.</translation>
 <translation id="5816434091619127343">Сұралған принтер өзгерістері енгізілсе, принтер жарамсыз болып қалуы мүмкін.</translation>
 <translation id="6504611359718185067">Принтерді енгізу үшін интернетке қосылыңыз</translation>
@@ -3665,18 +3665,18 @@
 <translation id="7770651108375708429">Wi-Fi желісін ажырату</translation>
 <translation id="4168015872538332605"><ph name="PRIMARY_EMAIL"/> қатысты кейбір параметрлер сізбен бөлісілуде. Бұл параметрлер бірнеше рет кіру мүмкіндігін пайдалану кезінде ғана есептік жазбаға әсер етеді.</translation>
 <translation id="1485141095922496924"><ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/> нұсқасы</translation>
-<translation id="4570609078116869893">Dissenter браузерін барлық пайдаланушылар үшін автоматты жаңарту</translation>
+<translation id="4570609078116869893">Fulldive браузерін барлық пайдаланушылар үшін автоматты жаңарту</translation>
 <translation id="7102687220333134671">Автоматты жаңарту қосулы</translation>
 <translation id="6981982820502123353">Арнайы мүмкіндіктер</translation>
-<translation id="5840822070878669614">Dissenter Web Store қызметін ашу</translation>
+<translation id="5840822070878669614">Fulldive Web Store қызметін ашу</translation>
 <translation id="6073903501322152803">Арнайы мүмкіндіктерді қосу</translation>
 <translation id="7988355189918024273">Арнайы мүмкіндіктерді қосу</translation>
-<translation id="5499063270485366718">Егер суреттің пайдалы сипаттамасы болмаса, Dissenter оны өзі ұсынып көреді. Сипаттамалар жасау үшін суреттер Gab AI Inc-ға жіберіледі.</translation>
+<translation id="5499063270485366718">Егер суреттің пайдалы сипаттамасы болмаса, Fulldive оны өзі ұсынып көреді. Сипаттамалар жасау үшін суреттер Gab AI Inc-ға жіберіледі.</translation>
 <translation id="8957762313041272117">Live Caption</translation>
-<translation id="7075426315046750605">Live Caption медиамазмұндағы сөздерді анықтап, Dissenter браузерінде ойнатылатын барлық медиамазмұнды автоматты түрде жазуға айналдырады.</translation>
+<translation id="7075426315046750605">Live Caption медиамазмұндағы сөздерді анықтап, Fulldive браузерінде ойнатылатын барлық медиамазмұнды автоматты түрде жазуға айналдырады.</translation>
 <translation id="572155275267014074">Android параметрлері</translation>
 <translation id="7201042526153088083">Gab AI Inc Play дүкеніндегі қолданбалар мен ойындарды <ph name="DEVICE_TYPE"/> құрылғысына орнатыңыз. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Толығырақ&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Gab AI Inc Play дүкенінен жүктеп алынған қолданбалар бұл Dissenterbook құрылғысынан жойылады.
+<translation id="8039595758121742506">Gab AI Inc Play дүкенінен жүктеп алынған қолданбалар бұл Fulldivebook құрылғысынан жойылады.
       <ph name="LINE_BREAKS1"/>
       Фильмдер, телешоулар, музыка, кітаптар сияқты мазмұндар не басқа да қолданба арқылы сатып алынғандар жойылуы мүмкін.
       <ph name="LINE_BREAKS2"/>
@@ -3690,7 +3690,7 @@
 <translation id="6006484371116297560">Классикалық</translation>
 <translation id="1795214765651529549">Классикалық тақырыпты пайдалану</translation>
 <translation id="2332742915001411729">Әдепкі параметрлерге қайта орнату</translation>
-<translation id="8338457030135232378">Dissenter түстері</translation>
+<translation id="8338457030135232378">Fulldive түстері</translation>
 <translation id="827097179112817503">Басты түймесін көрсету</translation>
 <translation id="383007806262310953">Бетбелгілер жолағын көрсету</translation>
 <translation id="3911824782900911339">Жаңа қойынды беті</translation>
@@ -3702,7 +3702,7 @@
 <translation id="1670399744444387456">Негізгі</translation>
 <translation id="1763808908432309942">Жаңа қойындыда ашады</translation>
 <translation id="6248988683584659830">Іздеу параметрлері</translation>
-<translation id="883304095704384301">Іздегеніңіз табылмаса, <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Dissenter анықтамасына<ph name="END_LINK_CHROMIUM"/> өтіңіз</translation>
+<translation id="883304095704384301">Іздегеніңіз табылмаса, <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive анықтамасына<ph name="END_LINK_CHROMIUM"/> өтіңіз</translation>
 <translation id="6406708970972405507">Параметрлер – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">"Қосымша бет" түймесі</translation>
 <translation id="379509625511193653">Өшірулі</translation>
@@ -3889,7 +3889,7 @@
 <translation id="5468173180030470402">Ортақ каталогтер ізделіп жатыр.</translation>
 <translation id="3336664756920573711"><ph name="DEVICE_TYPE"/> құрылғысының құлпын Android телефоны арқылы ашыңыз</translation>
 <translation id="1164674268730883318"><ph name="DEVICE_TYPE"/> құрылғысы үшін Smart Lock функциясы өшірілсін бе?</translation>
-<translation id="2739030071582769583"><ph name="DEVICE_TYPE"/> құрылғысы үшін Smart Lock функциясын өшірсеңіз, Dissenter құрылғыларының құлпын телефоныңызбен аша алмайсыз. Құпия сөзіңізді енгізу қажет болады.</translation>
+<translation id="2739030071582769583"><ph name="DEVICE_TYPE"/> құрылғысы үшін Smart Lock функциясын өшірсеңіз, Fulldive құрылғыларының құлпын телефоныңызбен аша алмайсыз. Құпия сөзіңізді енгізу қажет болады.</translation>
 <translation id="4737715515457435632">Желіге қосылыңыз</translation>
 <translation id="5425722269016440406">Smart Lock өшіру үшін желіде болуыңыз керек, себебі бұл параметр телефоныңызға және басқа құрылғыларға синхрондалған. Алдымен желіге қосылыңыз.</translation>
 <translation id="8885197664446363138">Smart Lock қолжетімсіз</translation>
@@ -4123,20 +4123,20 @@
 <translation id="3633309367764744750">Ақпаратты сіз кірген және әлі кірмеген беттерден алдын ала алады. Алынған ақпаратта cookie файлдары болады (cookie файлдарына рұқсат берілген жағдайда).</translation>
 <translation id="3201899458094819285">Safe Browsing қызметі (сізді және құрылғыңызды қауіпті сайттардан қорғайды)</translation>
 <translation id="2876369937070532032">Қауіп төніп тұрғанда, сіз кірген кейбір беттердің URL сілтемелерін Gab AI Inc-ға жібереді.</translation>
-<translation id="4991384657077828949">Dissenter қауіпсіздігін жетілдіруге көмектесу</translation>
+<translation id="4991384657077828949">Fulldive қауіпсіздігін жетілдіруге көмектесу</translation>
 <translation id="1984646864943401749">Жаңа қауіптерді анықтап, интернетте барлығын қорғауға көмектесу үшін кірген кейбір беттердің URL мекенжайларын, шектеулі жүйе ақпаратын және кейбір беттердің мазмұнын Gab AI Inc-ға жібереді.</translation>
 <translation id="1641113438599504367">Қауіпсіз шолу</translation>
 <translation id="6900532703269623216">Жақсартылған қорғау</translation>
 <translation id="7307583170263691471">Қауіпті веб-сайттардан, жүктеп алынған файлдардан және кеңейтімдерден жылдам әрі белсенді қорғау. Құпия сөздің қолды болғанын хабарлайды. Браузерді пайдалану деректерінің Gab AI Inc-ға жіберілуін талап етеді.</translation>
 <translation id="8645920082661222035">Қауіпті іс-шараларды алдын ала болжайды және олар туралы хабарлайды.</translation>
-<translation id="5265419033369521352">Есептік жазбаға кірген болсаңыз, сізді Dissenter браузерінде қорғайды және басқа Gab AI Inc қолданбаларында қауіпсіздігіңізді жақсартуға пайдаланылуы мүмкін.</translation>
+<translation id="5265419033369521352">Есептік жазбаға кірген болсаңыз, сізді Fulldive браузерінде қорғайды және басқа Gab AI Inc қолданбаларында қауіпсіздігіңізді жақсартуға пайдаланылуы мүмкін.</translation>
 <translation id="6770602306803890733">Интернет пайдаланушылары үшін қауіпсіздікті жақсартады.</translation>
 <translation id="3690369331356918524">Құпия сөздер қолды болған жағдайда, сізге бұл туралы хабарлайды.</translation>
 <translation id="4979281249641199724">Оларды тексеру үшін URL сілтемелерін "Қауіпсіз шолу" функциясына жібереді. Сонымен қатар жаңа қауіптерді анықтауға көмектесу үшін беттердің шағын үлгісін, жүктеп алынған файлдарды, кеңейтім әрекетін және жүйе туралы ақпаратты жібереді. Gab AI Inc қолданбаларында сізді қорғау үшін, есептік жазбаға кірген кезде, деректердің сілтемелерін уақытша байланыстырады.</translation>
 <translation id="1963976881984600709">Стандартты қорғау</translation>
 <translation id="6882836635272038266">Қауіпті саналатын веб-сайттардан, жүктеп алынған файлдардан және кеңейтімдерден стандартты қорғау.</translation>
 <translation id="5561162485081632007">Орын алған қауіпті іс-шараларды анықтайды және хабарлайды.</translation>
-<translation id="7810992039564280750">Dissenter браузерінде сақталған қауіпсіз емес сайттар тізімімен URL сілтемелерін салыстырып тексереді. Егер сайт құпия сөзіңізді ұрлағысы келсе немесе сіз зиянды файл жүктеп алған кезде, Dissenter браузері URL мекенжайларын, сонымен қатар бет мазмұны бөліктерін, "Қауіпсіз шолу" функциясына жіберуі мүмкін.</translation>
+<translation id="7810992039564280750">Fulldive браузерінде сақталған қауіпсіз емес сайттар тізімімен URL сілтемелерін салыстырып тексереді. Егер сайт құпия сөзіңізді ұрлағысы келсе немесе сіз зиянды файл жүктеп алған кезде, Fulldive браузері URL мекенжайларын, сонымен қатар бет мазмұны бөліктерін, "Қауіпсіз шолу" функциясына жіберуі мүмкін.</translation>
 <translation id="3847319713229060696">Интернеттің барлық пайдаланушылары үшін қауіпсіздікті жақсартуға көмектеседі.</translation>
 <translation id="1984417487208496350">Қорғау режимін өшіру (ұсынылмайды)</translation>
 <translation id="1295971429974142731">Қауіпті веб-сайттардан, жүктеп алынатын файлдардан және кеңейтімдерден қорғамайды. Gmail және Search сияқты басқа Gab AI Inc қызметтерінде "Қауіпсіз шолу" функциясы қорғайтын болады.</translation>
@@ -4192,7 +4192,7 @@
 <translation id="8632933437936028548">Параметрлерді бастапқы күйге қайтару</translation>
 <translation id="5293170712604732402">Параметрлерді бастапқы әдепкі мәндеріне қайтару</translation>
 <translation id="892706138619340876">Кейбір параметрлер бастапқы күйіне қайтарылды</translation>
-<translation id="2334029754052191847">Dissenter кейбір параметрлеріңізді басқа бағдарлама бүлдіргенін анықтап, бастапқы әдепкі параметрлеріне қайтарды.</translation>
+<translation id="2334029754052191847">Fulldive кейбір параметрлеріңізді басқа бағдарлама бүлдіргенін анықтап, бастапқы әдепкі параметрлеріне қайтарды.</translation>
 <translation id="4582563038311694664">Барлық параметрлерді қалпына келтіру</translation>
 <translation id="4146785383423576110">Бастапқы күйге қайтару және жою</translation>
 <translation id="2603115962224169880">Компьютерді тазалау</translation>
@@ -4261,7 +4261,7 @@
 <translation id="5340638867532133571">Сайттарға төлем өңдегіштерін орнатуға рұқсат ету (ұсынылады)</translation>
 <translation id="763632859238619983">Ешқандай сайтқа төлем өңдегіштерін орнатуға рұқсат бермеу</translation>
 <translation id="8270242299912238708">PDF форматындағы құжаттар</translation>
-<translation id="539658326146969381">PDF файлдарын Dissenter браузерінде автоматты ашудың орнына оларды жүктеп алыңыз</translation>
+<translation id="539658326146969381">PDF файлдарын Fulldive браузерінде автоматты ашудың орнына оларды жүктеп алыңыз</translation>
 <translation id="4434045419905280838">Қалқымалы терезе және бағыттау</translation>
 <translation id="6612358246767739896">Қорғалған мазмұн</translation>
 <translation id="4252852543720145436">Қорғалған мазмұн идентификаторлары</translation>
@@ -4322,7 +4322,7 @@
 <translation id="2913331724188855103">Сайттарға cookie деректерін сақтауға және оқуға рұқсат беру (ұсынылған)</translation>
 <translation id="5908769186679515905">Сайттарда Flash қолданбасының іске қосылуын бөгеу</translation>
 <translation id="783214144752121388">Сайттардың Flash-ті іске қосуына тыйым салу (ұсынылады)</translation>
-<translation id="6096007141921397775">Flash параметрлері Dissenter браузерінен шыққанға дейін сақталады.</translation>
+<translation id="6096007141921397775">Flash параметрлері Fulldive браузерінен шыққанға дейін сақталады.</translation>
 <translation id="8074127646604999664">Жақында жабылған сайттарға деректерді жіберу және алу операциясын аяқтауға рұқсат беру</translation>
 <translation id="7062222374113411376">Жақында жабылған сайттарға деректерді жіберуді және алуды аяқтауға рұқсат беру (ұсынылады)</translation>
 <translation id="5068918910148307423">Жақында жабылған сайттарға деректерді жіберу және алу жұмысын аяқтауға рұқсат бермеу</translation>
@@ -4402,7 +4402,7 @@
 <translation id="5566692924079383101">Инкогнито режиміндегі қазіргі сеанстан шыққаннан кейін, бұл ерекше жағдай автоматты түрде өшіріледі.</translation>
 <translation id="383891835335927981">Ешқандай сайт ұлғайтылмады не кішірейтілмеді</translation>
 <translation id="3566721612727112615">Ешқандай сайт қосылмады</translation>
-<translation id="8098574385249290065">Dissenter браузерінде сайттардың дыбысты автоматты ойнатуына тыйым салу (ұсынылады)</translation>
+<translation id="8098574385249290065">Fulldive браузерінде сайттардың дыбысты автоматты ойнатуына тыйым салу (ұсынылады)</translation>
 <translation id="4354344420232759511">Сіз пайдаланған сайттар осы жерде көрсетіледі.</translation>
 <translation id="3757733214359997190">Ешқандай сайт табылмады.</translation>
 <translation id="6545864417968258051">Bluetooth құрылғыларын іздеу</translation>
@@ -4415,7 +4415,7 @@
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Сайтты енгізу</translation>
 <translation id="5052499409147950210">Сайтты өзгерту</translation>
-<translation id="4610862967073369855">Android Messages қолданбасына хабарларды телефоннан Dissenterbook құрылғысына жіберуге мүмкіндік береді</translation>
+<translation id="4610862967073369855">Android Messages қолданбасына хабарларды телефоннан Fulldivebook құрылғысына жіберуге мүмкіндік береді</translation>
 <translation id="6742339027238151589">Сценарийге қолжетімді</translation>
 <translation id="361106536627977100">Flash деректері</translation>
 <translation id="8557930019681227453">Манифест</translation>
@@ -4492,23 +4492,23 @@
 <translation id="3817524650114746564">Компьютеріңіздің прокси параметрлерін ашу</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> кеңейтімдегі прокси параметрлерді пайдаланып жатыр.</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> әкімші ұсынған прокси параметрлерін пайдаланып жатыр.</translation>
-<translation id="6187156085111579405">Қажет болса, бұл тізімде жоқ элементтер де өшіріледі. <ph name="URL"/>Қажетсіз бағдарламалық құралдан қорғану&lt;/a&gt; туралы ақпаратты Dissenter құпиялылықты қорғау ақпараттық құжатынан таба аласыз.</translation>
+<translation id="6187156085111579405">Қажет болса, бұл тізімде жоқ элементтер де өшіріледі. <ph name="URL"/>Қажетсіз бағдарламалық құралдан қорғану&lt;/a&gt; туралы ақпаратты Fulldive құпиялылықты қорғау ақпараттық құжатынан таба аласыз.</translation>
 <translation id="5280174558369304332">Өшірілетін кеңейтімдер:</translation>
 <translation id="7712836429117959503"><ph name="EXTENSION_ID"/> идентификаторлы белгісіз кеңейтім</translation>
 <translation id="3281892622610078515">Кепілдік берілетін файлдар мен бағдарламалар:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 элемент}other{{NUM_ITEMS} элемент}}</translation>
 <translation id="7187428571767585875">Жойылатын немесе өзгертілетін тіркелу жазбалары:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{Тағы 1}other{Тағы {NUM_DOWNLOADS}}}</translation>
-<translation id="2749608811030566578">Dissenter браузері зиянды бағдарламалық жасақтаманы өшіріп жатқанда, қате шықты</translation>
-<translation id="8189483132214844139">Dissenter браузері компьютердегі зиянды бағдарламалық құралды тауып, оны өшіре алады.</translation>
+<translation id="2749608811030566578">Fulldive браузері зиянды бағдарламалық жасақтаманы өшіріп жатқанда, қате шықты</translation>
+<translation id="8189483132214844139">Fulldive браузері компьютердегі зиянды бағдарламалық құралды тауып, оны өшіре алады.</translation>
 <translation id="1426870617281699524">"Әрекетті қайталау" түймесін басып, компьютердегі сұрауларды қабылдаңыз</translation>
-<translation id="7886744396008377537">Компьютеріңізде зиянды бағдарламалық құрал бар. Dissenter браузері оны өшіріп, параметрлеріңізді қалпына келтіреді де, кеңейтімдерді ажыратады. Соның арқасында браузеріңіз қалыпты жұмысын жалғастырады.</translation>
-<translation id="1484912962860902625">Dissenter браузері зиянды бағдарламалық құралды іздеп жатқанда, қате кетті</translation>
+<translation id="7886744396008377537">Компьютеріңізде зиянды бағдарламалық құрал бар. Fulldive браузері оны өшіріп, параметрлеріңізді қалпына келтіреді де, кеңейтімдерді ажыратады. Соның арқасында браузеріңіз қалыпты жұмысын жалғастырады.</translation>
+<translation id="1484912962860902625">Fulldive браузері зиянды бағдарламалық құралды іздеп жатқанда, қате кетті</translation>
 <translation id="451407183922382411"><ph name="COMPANY_NAME"/> технологиясы</translation>
 <translation id="5254368820972107711">Өшірілетін файлдарды көрсетіңіз</translation>
 <translation id="296026337010986570">Дайын! Зиянды бағдарламалық құрал өшірілді. Кеңейтімдерді қайта қосу үшін &lt;a href="chrome://extensions"&gt;Кеңейтімдер&lt;/a&gt; бетіне кіріңіз.</translation>
 <translation id="284975061945174219">Тазаланбады</translation>
-<translation id="9014750448058570312">Жалғастыру үшін Dissenter браузеріне рұқсат қажет</translation>
+<translation id="9014750448058570312">Жалғастыру үшін Fulldive браузеріне рұқсат қажет</translation>
 <translation id="1852141627593563189">Зиянды бағдарламалық құралды табу</translation>
 <translation id="850875081535031620">Зиянды бағдарлама табылған жоқ</translation>
 <translation id="1186771945450942097">Зиян бағдарламалық құралды өшіру</translation>
@@ -4521,7 +4521,7 @@
 <translation id="6555810572223193255">Әзірге өшіру мүмкін емес</translation>
 <translation id="7117228822971127758">Әрекетті кейінірек қайталаңыз</translation>
 <translation id="443475966875174318">Үйлеспейтін қолданбаларды жаңарту немесе өшіру</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Бұл қолданба Dissenter браузерінің дұрыс жұмыс істеуіне кедергі келтіруі мүмкін.}other{Бұл қолданбалар Dissenter браузерінің дұрыс жұмыс істеуіне кедергі келтіруі мүмкін.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Бұл қолданба Fulldive браузерінің дұрыс жұмыс істеуіне кедергі келтіруі мүмкін.}other{Бұл қолданбалар Fulldive браузерінің дұрыс жұмыс істеуіне кедергі келтіруі мүмкін.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Браузерді әрі қарай пайдалана беру үшін әкімшіден осы қолданбаны өшіріп тастауын сұраңыз.}other{Браузерді пайдалана беру үшін әкімшіден осы қолданбаларды өшіріп тастауын сұраңыз.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Қолданбаларды жаңарту әдісі туралы ақпарат алу<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{Қолданба}other{Қолданбалар}}</translation>
@@ -4604,13 +4604,13 @@
 <translation id="284843628681142937">Кірген беттердің URL мекенжайларын Gab AI Inc-ға жібереді</translation>
 <translation id="7704317875155739195">Іздеулер мен URL мекенжайларын автотолтыру</translation>
 <translation id="2000419248597011803">Мекенжай жолағына және іздеу өрісіне енгізілген сұрауларды, сонымен қатар кейбір cookie файлдарын әдепкі іздеу жүйесіне жібереді</translation>
-<translation id="918192811481327695">Dissenter мүмкіндіктері мен жұмысын жақсартуға көмектесу</translation>
+<translation id="918192811481327695">Fulldive мүмкіндіктері мен жұмысын жақсартуға көмектесу</translation>
 <translation id="9063160602596686558">Қолданыс статистикасын және жаңылыс туралы есептерді Gab AI Inc жүйесіне автоматты түрде жібереді</translation>
 <translation id="6697492270171225480">Бет табылмағанда, ұқсас нұсқаларды ұсыну</translation>
 <translation id="4534361985432360439">Ашқалы жатқан беттің веб-мекенжайын Gab AI Inc компаниясына жібереді</translation>
 <translation id="3831436149286513437">Gab AI Inc Drive іздеу ұсыныстары</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/> электрондық поштасымен синхрондау</translation>
-<translation id="9125982323641182972">Dissenter-дағы Gab AI Inc ақылды функциялары</translation>
+<translation id="9125982323641182972">Fulldive-дағы Gab AI Inc ақылды функциялары</translation>
 <translation id="2537178555904266562">Құпия сөздерді синхрондау кезінде қате шықты</translation>
 <translation id="4314815835985389558">Синхрондауды басқару</translation>
 <translation id="8931475688782629595">Синхрондауға арналған деректерді басқару</translation>
@@ -4628,7 +4628,7 @@
 <translation id="1651008383952180276">Бір құпия фразаны екі рет енгізу керек</translation>
 <translation id="988978206646512040">Құпия фраза бос болмауы керек</translation>
 <translation id="2136476978468204130">Енгізілген құпия фраза дұрыс емес</translation>
-<translation id="7505421639213002314">Dissenter Sync деректері</translation>
+<translation id="7505421639213002314">Fulldive Sync деректері</translation>
 <translation id="452750746583162491">Синхрондалған деректерді қарау</translation>
 <translation id="7956662517480676674">Синхрондау және Gab AI Inc қызметтері</translation>
 <translation id="7772032839648071052">Құпия фразаны растау</translation>
@@ -4716,7 +4716,7 @@
 <translation id="7235716375204803342">Әрекеттер журналы алынуда...</translation>
 <translation id="8314381333424235892">Жеткіліксіз немесе жойылған кеңейтім</translation>
 <translation id="7647403192093989392">Соңғы әрекет жоқ</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Dissenter Web Store<ph name="END_LINK"/> дүкенінен кеңейтімдер мен тақырыптар табу</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Fulldive Web Store<ph name="END_LINK"/> дүкенінен кеңейтімдер мен тақырыптар табу</translation>
 <translation id="7272674038937250585">Сипаттама жазылмады</translation>
 <translation id="3855441664322950881">Пакет кеңейтімі</translation>
 <translation id="2958721676848865875">Пакеттік кеңейтім ескертуі</translation>
@@ -4727,7 +4727,7 @@
 <translation id="1992397118740194946">Орнатылмаған</translation>
 <translation id="6706210727756204531">Қолданыс аясы</translation>
 <translation id="5532223876348815659">Ғаламдық</translation>
-<translation id="300669147395456190">Dissenter Apps</translation>
+<translation id="300669147395456190">Fulldive Apps</translation>
 <translation id="6787839852456839824">Пернелер тіркесімі</translation>
 <translation id="6419546358665792306">Ашылмаған кеңейтімді жүктеу</translation>
 <translation id="8023801379949507775">Кеңейтімдерді қазір жаңарту</translation>
@@ -4741,13 +4741,13 @@
 <translation id="8447409163267621480">Ctrl не Alt пернесінен басталуы керек</translation>
 <translation id="3365598184818502391">Ctrl не Alt пернесі пайдаланылуы керек</translation>
 <translation id="1688935057616748272">Әріп енгізіңіз</translation>
-<translation id="1579879232130925590">Жылдам әрі қорғалған Dissenter браузері</translation>
+<translation id="1579879232130925590">Жылдам әрі қорғалған Fulldive браузері</translation>
 <translation id="964057662886721376">Кейбір кеңейтімдер, әсіресе сіздің келісіміңізсіз орнатылғандар браузердің жұмысын баяулатады.</translation>
 <translation id="1499271269825557605">Егер кеңейтімді анықтай алмасаңыз немесе браузер дұрыс жұмыс істемей тұрса, кеңейтімдерді осы жерден өшіруіңізге немесе реттеуіңізге болады.</translation>
 <translation id="2382818385048255866">Кеңейтімдерді тексеріңіз</translation>
 <translation id="3900789207771372462">Кейбір кеңейтімдер браузердегі әрекетіңізді, сонымен қатар жеке ақпаратыңызды пайдалана алады.</translation>
 <translation id="6772339735733515807">Кеңейтімдерді басқару</translation>
-<translation id="1510515462062582289">Осы бетте Dissenter браузеріне орнатылған барлық кеңейтімдерді көресіз.</translation>
+<translation id="1510515462062582289">Осы бетте Fulldive браузеріне орнатылған барлық кеңейтімдерді көресіз.</translation>
 <translation id="2810390687497823527">Егер кеңейтімді анықтай алмасаңыз немесе браузер дұрыс жұмыс істемей тұрса, кеңейтімдерді осы жерден өшіруіңізге немесе реттеуіңізге болады.</translation>
 <translation id="4479424953165245642">Киоск қолданбаларын басқару</translation>
 <translation id="6619801788773578757">Киоск қолданбасын қосу</translation>
@@ -4763,7 +4763,7 @@
 <translation id="2342740338116612727">Бетбелгілер енгізілді</translation>
 <translation id="7835178595033117206">Бетбелгі өшірілген</translation>
 <translation id="742130257665691897">Бетбелгілер өшірілді</translation>
-<translation id="5468853758063275923">Dissenter — әдепкі браузер</translation>
+<translation id="5468853758063275923">Fulldive — әдепкі браузер</translation>
 <translation id="2950533317914339731">Ұнайтын Gab AI Inc қолданбаларына бетбелгілер енгізу</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4778,13 +4778,13 @@
 <translation id="5033266061063942743">Геометриялық фигуралар</translation>
 <translation id="7789963078219276159">Бастапқы бет фоны <ph name="CATEGORY"/> санатына өзгереді.</translation>
 <translation id="8771300903067484968">Бастау бетінің фондық режимі әдепкі фонға қайтарылды.</translation>
-<translation id="239760341987199724">Dissenter браузерін әдепкі етіп орнатыңыз</translation>
+<translation id="239760341987199724">Fulldive браузерін әдепкі етіп орнатыңыз</translation>
 <translation id="96037229054033864">Браузерді пайдаланған сайын Gab AI Inc Search және Gab AI Inc Smarts қызметтерін көру</translation>
-<translation id="296137235951584143">Dissenter браузерін өз талғамыңызға сай реттеңіз</translation>
+<translation id="296137235951584143">Fulldive браузерін өз талғамыңызға сай реттеңіз</translation>
 <translation id="3982375475032951137">Браузерді бірнеше қарапайым қадаммен реттеңіз</translation>
 <translation id="6972754398087986839">Іске кірісу</translation>
-<translation id="3707821975049107110">Dissenter браузерін бұрыннан пайдаланып жүрсіз бе? Есептік жазбаға кіріңіз.</translation>
-<translation id="7113572760575285642">Dissenter-ды кез келген жерде пайдаланыңыз</translation>
+<translation id="3707821975049107110">Fulldive браузерін бұрыннан пайдаланып жүрсіз бе? Есептік жазбаға кіріңіз.</translation>
+<translation id="7113572760575285642">Fulldive-ды кез келген жерде пайдаланыңыз</translation>
 <translation id="567643736130151854">Бетбелгілерді, құпия сөздерді және құрылғыдағы басқа мәліметтерді алу үшін есептік жазбаға кіріп, синхрондауды іске қосыңыз</translation>
 <translation id="725758059478686223">Басып шығару қызметі</translation>
 <translation id="15662109988763471">Таңдалған принтер қолжетімді емес немесе дұрыс орнатылмаған. Принтеріңізді тексеріңіз немесе басқа принтерді таңдап көріңіз.</translation>
@@ -4907,7 +4907,7 @@
 <translation id="7574650250151586813">Мәтін теру үшін Daydream Keyboard қолданбасын жаңартыңыз.</translation>
 <translation id="983511809958454316">Бұл функция VR режимінде қолданылмайды</translation>
 <translation id="4008291085758151621">Сайт ақпараты VR режимінде қолжетімді емес</translation>
-<translation id="1439926347196400598">Dissenter браузеріне дыбыс жазуға рұқсат берілсін бе?</translation>
+<translation id="1439926347196400598">Fulldive браузеріне дыбыс жазуға рұқсат берілсін бе?</translation>
 <translation id="6313641880021325787">VR РЕЖИМІНЕН ШЫҒУ</translation>
 <translation id="2670429602441959756">Бұл бетте VR режимінде қолдау көрсетілмейтін мүмкіндіктер бар. Шығуда...</translation>
 <translation id="1802687198411089702">Бет жауап бермеуде. Оны күтуге не жабуға болады.</translation>
@@ -4929,7 +4929,7 @@
 <translation id="1721312023322545264">Бұл сайтқа кіру үшін <ph name="NAME"/> сізге рұқсат беруі керек</translation>
 <translation id="7543525346216957623">Ата-анаңыздан сұраңыз</translation>
 <translation id="471880041731876836">Бұл сайтқа кіруге рұқсатыңыз жоқ</translation>
-<translation id="3480834636742786788">Қолданбаны пайдаланбас бұрын Dissenter жүйесін іске қосып, оған кіріңіз.</translation>
+<translation id="3480834636742786788">Қолданбаны пайдаланбас бұрын Fulldive жүйесін іске қосып, оған кіріңіз.</translation>
 <translation id="2851634818064021665">Бұл сайтқа кіру үшін рұқсат керек</translation>
 <translation id="4933782374919065856">Егер сұрақтарыңыз болса, профиліңізді басқаратын адаммен хабарласыңыз.</translation>
 <translation id="2712173769900027643">Рұқсат сұрау</translation>
@@ -4949,7 +4949,7 @@
 <translation id="7755287808199759310">Ата-анаңыз оны сіз үшін бөгеуден шығара алады</translation>
 <translation id="5732392974455271431">Ата-анаңыз оны сіз үшін бөгеуден шығара алады</translation>
 <translation id="3556433843310711081">Менеджеріңіз оны сіз үшін бөгеуден шығара алады</translation>
-<translation id="1254756632288991504">Dissenter браузері сіздің сайтқа кіруге рұқсатыңыз барын тексере алуы үшін Dissenter жүйесін іске қосып, оған кіріңіз.</translation>
+<translation id="1254756632288991504">Fulldive браузері сіздің сайтқа кіруге рұқсатыңыз барын тексере алуы үшін Fulldive жүйесін іске қосып, оған кіріңіз.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> кідіртілді</translation>
 <translation id="8015163965024115122"><ph name="IDS_SHORT_PRODUCT_NAME"/> немесе <ph name="IDS_SHORT_PRODUCT_NAME"/> қолданбаларына ата-анаңыз орнатқан шектің уақыты өтіп кетті.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> кідіртілді</translation>

@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Sil</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> öğe seçildi</translation>
 <translation id="5582839680698949063">Ana menü</translation>
-<translation id="3700405816184340252">Dissenter geçmişi</translation>
+<translation id="3700405816184340252">Fulldive geçmişi</translation>
 <translation id="7602079150116086782">Diğer cihazlardan sekme yok</translation>
 <translation id="4619615317237390068">Diğer cihazlardan sekmeler</translation>
-<translation id="82609232232243542">Dissenter'da oturum aç</translation>
+<translation id="82609232232243542">Fulldive'da oturum aç</translation>
 <translation id="4627442949885028695">Başka bir cihazdan devam edin</translation>
-<translation id="7253276740368043692">Diğer cihazlarınızdaki sekmelerinize ulaşmak için Dissenter'de oturum açın.</translation>
+<translation id="7253276740368043692">Diğer cihazlarınızdaki sekmelerinize ulaşmak için Fulldive'de oturum açın.</translation>
 <translation id="6351063337294363751">Bu menüyü kullanarak tarama verilerinizi temizleyebilirsiniz</translation>
 <translation id="6040143037577758943">Kapat</translation>
 <translation id="6463795194797719782">&amp;Düzenle</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Tercihler...</translation>
 <translation id="5801568494490449797">Tercihler</translation>
 <translation id="3677911431265050325">Mobil site iste</translation>
-<translation id="236470849334943016">Dissenter'un Hizmet Şartları 31 Mart'ta değişiyor</translation>
+<translation id="236470849334943016">Fulldive'un Hizmet Şartları 31 Mart'ta değişiyor</translation>
 <translation id="1032605640136438169">Lütfen yeni şartları inceleyin</translation>
 <translation id="8712637175834984815">Anlaşıldı</translation>
 <translation id="5007392906805964215">İncele</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Yeniden başlat</translation>
 <translation id="3479552764303398839">Şimdi değil</translation>
 <translation id="1008557486741366299">Şimdi Değil</translation>
-<translation id="8201192017531062522">Dissenter, Dissenter Uygulamaları açık olduğu sürece çalışmaya devam edecektir.</translation>
-<translation id="7397305826909094212">Tüm Dissenter Uygulamalarından Çık</translation>
+<translation id="8201192017531062522">Fulldive, Fulldive Uygulamaları açık olduğu sürece çalışmaya devam edecektir.</translation>
+<translation id="7397305826909094212">Tüm Fulldive Uygulamalarından Çık</translation>
 <translation id="5026874946691314267">Bu mesajı tekrar gösterme</translation>
 <translation id="91568222606626347">Kısayol Oluştur...</translation>
 <translation id="2783321960289401138">Kısayol oluştur...</translation>
@@ -821,11 +821,11 @@ Hassas bilgileri vermediğinizden emin olun.</translation>
 <translation id="5799508265798272974">Linux Sanal Makinesi: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Sanal Makine Eklentisi: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP Ayrıştırıcı</translation>
-<translation id="7171242884588191792">Dissenter Dosya Yardımcı Programları</translation>
+<translation id="7171242884588191792">Fulldive Dosya Yardımcı Programları</translation>
 <translation id="3183139917765991655">Profil İçe Aktarıcısı</translation>
 <translation id="7367714965999718019">QR Kodu Oluşturucu</translation>
 <translation id="2190069059097339078">WiFi Credentials Getter</translation>
-<translation id="5920835625712313205">Dissenter OS Sistemi Görsel Yazıcı</translation>
+<translation id="5920835625712313205">Fulldive OS Sistemi Görsel Yazıcı</translation>
 <translation id="4873312501243535625">Medya Dosyası Denetleyicisi</translation>
 <translation id="5972666587303800813">İşlemsiz Hizmet</translation>
 <translation id="1545775234664667895">"<ph name="THEME_NAME"/>" teması yüklendi</translation>
@@ -852,14 +852,14 @@ Hassas bilgileri vermediğinizden emin olun.</translation>
 <translation id="3507421388498836150">"<ph name="EXTENSION_NAME"/>" için Geçerli İzinler</translation>
 <translation id="5242724311594467048">"<ph name="EXTENSION_NAME"/>" etkinleştirilsin mi?</translation>
 <translation id="4014432863917027322">"<ph name="EXTENSION_NAME"/>" onarılsın mı?</translation>
-<translation id="5173189340601754836">Bilgisayarınızdaki başka bir program, Dissenter'un çalışma şeklini değiştirebilecek bir uygulama ekledi.
+<translation id="5173189340601754836">Bilgisayarınızdaki başka bir program, Fulldive'un çalışma şeklini değiştirebilecek bir uygulama ekledi.
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Bilgisayarınızdaki başka bir program, Dissenter'un çalışma şeklini değiştirebilecek bir uzantı ekledi.
+<translation id="6654312501894761082">Bilgisayarınızdaki başka bir program, Fulldive'un çalışma şeklini değiştirebilecek bir uzantı ekledi.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Bilgisayarınızdaki başka bir program, Dissenter'un çalışma şeklini değiştirebilecek bir tema ekledi.
+<translation id="3225882094369124157">Bilgisayarınızdaki başka bir program, Fulldive'un çalışma şeklini değiştirebilecek bir tema ekledi.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Uzantıyı Etkinleştir</translation>
@@ -868,7 +868,7 @@ Hassas bilgileri vermediğinizden emin olun.</translation>
 <translation id="3908501907586732282">Uzantıyı etkinleştir</translation>
 <translation id="2327492829706409234">Uygulamayı etkinleştir</translation>
 <translation id="175772926354468439">Temayı etkinleştir</translation>
-<translation id="5267531627648004734">Dissenter'den kaldır</translation>
+<translation id="5267531627648004734">Fulldive'den kaldır</translation>
 <translation id="4998873842614926205">Değişiklikleri Onayla</translation>
 <translation id="1799071797295057738">"<ph name="EXTENSION_NAME"/>" uzantısı otomatik olarak devre dışı bırakıldı.</translation>
 <translation id="5238278114306905396">"<ph name="EXTENSION_NAME"/>" uygulaması otomatik olarak kaldırıldı.</translation>
@@ -1004,7 +1004,7 @@ Hassas bilgileri vermediğinizden emin olun.</translation>
 <translation id="1616298854599875024">Paylaşılan bir modül olmadığından "<ph name="IMPORT_NAME"/>" uzantısı içe aktarılamıyor</translation>
 <translation id="2131077480075264">"<ph name="IMPORT_NAME"/>" tarafından izin verilmediğinden "<ph name="APP_NAME"/>" yüklenemiyor</translation>
 <translation id="1875387611427697908">Bu yalnızca <ph name="CHROME_WEB_STORE"/> kullanılarak eklenebilir</translation>
-<translation id="3862788408946266506">"kiosk_only" manifest özelliğine sahip uygulamalar DissenterOS kiosk modunda yüklenmelidir</translation>
+<translation id="3862788408946266506">"kiosk_only" manifest özelliğine sahip uygulamalar FulldiveOS kiosk modunda yüklenmelidir</translation>
 <translation id="3834775135533257713">"<ph name="TO_INSTALL_APP_NAME"/>" uygulaması, zaten yüklenmiş olan "<ph name="INSTALLED_APP_NAME"/>" uygulamasıyla çakıştığından eklenemedi.</translation>
 <translation id="144518587530125858">Temaya ilişkin '<ph name="IMAGE_PATH"/>' yolu yüklenemedi.</translation>
 <translation id="3576324189521867626">Başarıyla yüklendi</translation>
@@ -1107,9 +1107,9 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="6101226222197207147">Yeni uygulama eklendi (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">Yeni tema eklendi (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">"<ph name="EXTENSION_NAME"/>" eklendi</translation>
-<translation id="6637045053447935202">Bilgisayarınızdaki başka bir program, Dissenter'un çalışma şeklini değiştirebilecek bir uygulama ekledi.</translation>
-<translation id="2015014930243978107">Bilgisayarınızdaki başka bir program, Dissenter'un çalışma şeklini değiştirebilecek bir uzantı ekledi.</translation>
-<translation id="2060128809251156338">Bilgisayarınızdaki başka bir program, Dissenter'un çalışma şeklini değiştirebilecek bir tema ekledi.</translation>
+<translation id="6637045053447935202">Bilgisayarınızdaki başka bir program, Fulldive'un çalışma şeklini değiştirebilecek bir uygulama ekledi.</translation>
+<translation id="2015014930243978107">Bilgisayarınızdaki başka bir program, Fulldive'un çalışma şeklini değiştirebilecek bir uzantı ekledi.</translation>
+<translation id="2060128809251156338">Bilgisayarınızdaki başka bir program, Fulldive'un çalışma şeklini değiştirebilecek bir tema ekledi.</translation>
 <translation id="2470702053775288986">Desteklenmeyen uzantılar devre dışı bırakıldı</translation>
 <translation id="2809586584051668049">ve diğer <ph name="NUMBER_ADDITIONAL_DISABLED"/> öğe</translation>
 <translation id="5301954838959518834">Tamam, anladım</translation>
@@ -1314,7 +1314,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="8017679124341497925">Kısayol düzenlendi</translation>
 <translation id="1174073918202301297">Kısayol eklendi</translation>
 <translation id="2926085873880284723">Varsayılan kısayolları geri yükle</translation>
-<translation id="5801450813341024983">Dissenter arka planları</translation>
+<translation id="5801450813341024983">Fulldive arka planları</translation>
 <translation id="2800760947029405028">Resim yükle</translation>
 <translation id="8342861492835240085">Koleksiyon seçin</translation>
 <translation id="3132996321662585180">Günlük olarak yenile</translation>
@@ -1401,7 +1401,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="833986336429795709">Bu bağlantıyı açmak için bir uygulama seçin</translation>
 <translation id="192494336144674234">Birlikte aç</translation>
 <translation id="9053893665344928494">Seçimimi hatırla</translation>
-<translation id="5340857474604400806">Dissenter'da Kal</translation>
+<translation id="5340857474604400806">Fulldive'da Kal</translation>
 <translation id="3043581297103810752"><ph name="ORIGIN"/> adresinden</translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Kişisel)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (Misafir)</translation>
@@ -1462,8 +1462,8 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="6686817083349815241">Şifrenizi kaydedin</translation>
 <translation id="8141725884565838206">Şifrelerinizi yönetin</translation>
 <translation id="8275038454117074363">İçe aktar</translation>
-<translation id="3191314862567596053">Şifreleri Dissenter'a Aktar</translation>
-<translation id="6368144843345980623">Şifreleri Dissenter'dan Aktar</translation>
+<translation id="3191314862567596053">Şifreleri Fulldive'a Aktar</translation>
+<translation id="6368144843345980623">Şifreleri Fulldive'dan Aktar</translation>
 <translation id="8503813439785031346">Kullanıcı adı</translation>
 <translation id="6657585470893396449">Şifre</translation>
 <translation id="5472627187093107397">Bu site için şifreleri kaydet</translation>
@@ -1494,7 +1494,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="7052237160939977163">Performans izleme verilerini gönder</translation>
 <translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth Günlükleri<ph name="END_LINK"/> ekle (Gab AI Inc dahili)</translation>
 <translation id="3047644958362961983">Bu bilgiler, Asistan'la ilgili sorununuzu daha iyi anlamamıza yardımcı olur. En fazla 90 gün boyunca saklanan bilgilere yalnızca ilgili mühendislik ve geri bildirim ekipleri erişebilir.</translation>
-<translation id="8545590844135745781">Gab AI Inc çalışanları Bluetooth sorunlarını daha iyi teşhis etmek için geri bildirim raporlarına ek Bluetooth günlükleri dahil edebilirler. Bu seçenek işaretlendiğinde, geçerli oturumunuzdan btsnoop ve HCI günlükleri raporunuza eklenecektir. Bu şekilde mümkün olan en fazla sayıda PII temizlenecektir. Bu günlüklere erişim, Listnr'da Dissenter OS ürün grubu yöneticileri ile kısıtlı olacaktır. Günlükler 90 gün sonra tamamen silinecektir.</translation>
+<translation id="8545590844135745781">Gab AI Inc çalışanları Bluetooth sorunlarını daha iyi teşhis etmek için geri bildirim raporlarına ek Bluetooth günlükleri dahil edebilirler. Bu seçenek işaretlendiğinde, geçerli oturumunuzdan btsnoop ve HCI günlükleri raporunuza eklenecektir. Bu şekilde mümkün olan en fazla sayıda PII temizlenecektir. Bu günlüklere erişim, Listnr'da Fulldive OS ürün grubu yöneticileri ile kısıtlı olacaktır. Günlükler 90 gün sonra tamamen silinecektir.</translation>
 <translation id="4206323443866416204">Geri Bildirim Raporu</translation>
 <translation id="3681311097828166361">Geri bildiriminiz için teşekkürler. Şu anda çevrimdışısınız ve raporunuz daha sonra gönderilecek.</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>Sistem bilgilerini<ph name="END_LINK1"/> gönder</translation>
@@ -1511,15 +1511,15 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="6885771755599377173">Sistem Bilgisi Önizlemesi</translation>
 <translation id="1016566241875885511">Ek bilgi (isteğe bağlı)</translation>
 <translation id="8026334261755873520">Tarama verilerini temizle</translation>
-<translation id="4718442817388594217">Seçilen veriler Dissenter'dan ve senkronize edilen cihazlardan kaldırıldı. <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> adresinde, diğer Gab AI Inc hizmetlerinden yapılan aramalar ve etkinlikler gibi Gab AI Inc Hesabınızla ilişkili başka biçimlerde tarama geçmişi bulunabilir.</translation>
-<translation id="7814200940910057384">Dissenter verileri temizlendi</translation>
+<translation id="4718442817388594217">Seçilen veriler Fulldive'dan ve senkronize edilen cihazlardan kaldırıldı. <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> adresinde, diğer Gab AI Inc hizmetlerinden yapılan aramalar ve etkinlikler gibi Gab AI Inc Hesabınızla ilişkili başka biçimlerde tarama geçmişi bulunabilir.</translation>
+<translation id="7814200940910057384">Fulldive verileri temizlendi</translation>
 <translation id="7346909386216857016">Tamam, anladım</translation>
 <translation id="8493236660459102203">Mikrofon:</translation>
 <translation id="3925573269917483990">Kamera:</translation>
 <translation id="648927581764831596">Hiçbiri mevcut değil</translation>
 <translation id="4172051516777682613">Her zaman göster</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Pop-up engellendi}other{# pop-up engellendi}}</translation>
-<translation id="4156865452842056672">(Dissenter hata sayfaları)</translation>
+<translation id="4156865452842056672">(Fulldive hata sayfaları)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> kendisini güncel tutamayabilir</translation>
 <translation id="8590375307970699841">Otomatik güncellemeleri ayarla</translation>
 <translation id="8926389886865778422">Bir daha sorma</translation>
@@ -1624,10 +1624,10 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="8658645149275195032"><ph name="APP_NAME"/>, ekranınızı ve sesinizi <ph name="TAB_NAME"/> ile paylaşıyor.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/>, bir pencereyi paylaşıyor.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/>, bir pencereyi <ph name="TAB_NAME"/> ile paylaşıyor.</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/>, bir Dissenter sekmesini paylaşıyor.</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/>, bir Dissenter sekmesini <ph name="TAB_NAME"/> ile paylaşıyor.</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/>, bir Dissenter sekmesini ve sesi paylaşıyor.</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/>, bir Dissenter sekmesini ve sesi <ph name="TAB_NAME"/> ile paylaşıyor.</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/>, bir Fulldive sekmesini paylaşıyor.</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/>, bir Fulldive sekmesini <ph name="TAB_NAME"/> ile paylaşıyor.</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/>, bir Fulldive sekmesini ve sesi paylaşıyor.</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/>, bir Fulldive sekmesini ve sesi <ph name="TAB_NAME"/> ile paylaşıyor.</translation>
 <translation id="7108338896283013870">Gizle</translation>
 <translation id="890616557918890486">Kaynağı değiştir</translation>
 <translation id="7792388396321542707">Paylaşmayı durdur</translation>
@@ -1650,7 +1650,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="4711067597921221305">Gab AI Inc'a otomatik olarak kullanım istatistikleri ve kilitlenme raporları göndererek <ph name="PRODUCT_NAME"/> ürününü iyileştirmemize yardımcı olun.</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/> uygulamasını başlat</translation>
 <translation id="4876273079589074638">Mühendislerimizin kilitlenme olayı araştırmalarına ve düzeltmelerine yardımcı olun. Yapabilirseniz adımları tam olarak listeleyin. Hiçbir ayrıntıyı atlamayın!</translation>
-<translation id="5418694430960033386">Ya Dissenter'da bellek kalmadı ya da web sayfasına ait işlem başka bir nedenden dolayı sonlandırıldı. Devam etmek için yeniden yükleyin veya başka bir sayfaya gidin.</translation>
+<translation id="5418694430960033386">Ya Fulldive'da bellek kalmadı ya da web sayfasına ait işlem başka bir nedenden dolayı sonlandırıldı. Devam etmek için yeniden yükleyin veya başka bir sayfaya gidin.</translation>
 <translation id="3065041951436100775">Sekme sonlandırıldı geri bildirimi.</translation>
 <translation id="3941565636838060942">Bu programa erişimi gizlemek için Denetim Masası'nda
   <ph name="CONTROL_PANEL_APPLET_NAME"/> aracını kullanarak programın yüklemesini kaldırmanız gerekir.
@@ -1678,10 +1678,10 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="4980805016576257426">Bu uzantı kötü amaçlı yazılım içeriyor.</translation>
 <translation id="5522156646677899028">Bu uzantı önemli bir güvenlik açığı içeriyor.</translation>
 <translation id="6945695820322143954">Bu uzantı, İnternet Mağazası politikasını ihlal ediyor.</translation>
-<translation id="177808131755847449">Dissenter tarafından devre dışı bırakıldı. Bu uzantı güvenli olmayabilir.</translation>
+<translation id="177808131755847449">Fulldive tarafından devre dışı bırakıldı. Bu uzantı güvenli olmayabilir.</translation>
 <translation id="1434696352799406980">Bu işlem, başlangıç sayfanızı, yeni sekme sayfanızı, arama motorunuzu ve sabit sekmelerinizi sıfırlar. Ayrıca, tüm uzantılar devre dışı bırakılır ve çerezler gibi geçici veriler temizlenir. Yer işaretleriniz, geçmişiniz ve kayıtlı şifreleriniz temizlenmez.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/>, ayarlarınızı sıfırlamak istiyor.</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/>, Dissenter ayarlarınızı orijinal varsayılan değerlerine geri yüklemek istiyor. Bu işlem ana sayfanızı, yeni sekme sayfanızı ve arama motorunuzu sıfırlayacak, uzantılarınızı devre dışı bırakacak ve tüm sekmelerinizin sabitlemesini kaldıracaktır. Ayrıca çerezler, içerik ve site verileri gibi geçici ve önbelleğe alınmış diğer veriler temizlenecektir.</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/>, Fulldive ayarlarınızı orijinal varsayılan değerlerine geri yüklemek istiyor. Bu işlem ana sayfanızı, yeni sekme sayfanızı ve arama motorunuzu sıfırlayacak, uzantılarınızı devre dışı bırakacak ve tüm sekmelerinizin sabitlemesini kaldıracaktır. Ayrıca çerezler, içerik ve site verileri gibi geçici ve önbelleğe alınmış diğer veriler temizlenecektir.</translation>
 <translation id="7581462281756524039">Temizleme aracı</translation>
 <translation id="1233721473400465416">Yerel ayar</translation>
 <translation id="2907619724991574506">Başlangıç URL'leri</translation>
@@ -1875,7 +1875,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="6664774537677393800">Profiliniz açılırken bir sorun oluştu. Lütfen oturumu kapatıp sonra tekrar oturum açın.</translation>
 <translation id="1794791083288629568">Bu sorunu düzeltmemize yardımcı olmak için geri bildirim gönderin.</translation>
 <translation id="8234795456569844941">Lütfen mühendislerimizin bu sorunu çözmesine yardımcı olun. Profil hata mesajını almadan hemen önce ne yaptığınızı belirtin:</translation>
-<translation id="6500340165622970282">Profiliniz açılırken bir sorun oluştuğundan Dissenter başlatılamıyor. Dissenter'u yeniden başlatmayı deneyin.</translation>
+<translation id="6500340165622970282">Profiliniz açılırken bir sorun oluştuğundan Fulldive başlatılamıyor. Fulldive'u yeniden başlatmayı deneyin.</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> kök olarak çalıştırılamaz.</translation>
 <translation id="2292848386125228270">Lütfen <ph name="PRODUCT_NAME"/> uygulamasını normal bir kullanıcı olarak başlatın. Geliştirme amacıyla uygulamayı root kullanıcı olarak çalıştırmanız gerekiyorsa korumasız alan seçeneğini işaretleyerek yeniden çalıştırın.</translation>
 <translation id="7547317915858803630">Uyarı: <ph name="PRODUCT_NAME"/> ayarlarınız bir ağ sürücüsünde depolanıyor. Bu durum yavaşlamalara, kilitlenmelere, hatta veri kaybına neden olabilir.</translation>
@@ -2251,8 +2251,8 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="4720113199587244118">Cihaz Ekle</translation>
 <translation id="2776441542064982094">Ağ üzerinde kaydedilebilecek bir cihaz algılanamadı. Cihazınız açık ve İnternet'e bağlıysa, kendi talimat kılavuzundaki talimatlara göre kaydettirmeyi deneyin.</translation>
 <translation id="1007408791287232274">Cihazlar yüklenemedi.</translation>
-<translation id="3886420006370338208">Cihazlarınızı görebilmek için Dissenter'da oturum açmanız gerekir.</translation>
-<translation id="6711610692002680394">Yeni cihazlar kaydettirebilmeniz için Dissenter'da oturum açmanız gerekir</translation>
+<translation id="3886420006370338208">Cihazlarınızı görebilmek için Fulldive'da oturum açmanız gerekir.</translation>
+<translation id="6711610692002680394">Yeni cihazlar kaydettirebilmeniz için Fulldive'da oturum açmanız gerekir</translation>
 <translation id="8931394284949551895">Yeni cihazlar</translation>
 <translation id="3752673729237782832">Cihazlarım</translation>
 <translation id="1721937473331968728">Bilgisayarınıza bağlı klasik yazıcıları <ph name="CLOUD_PRINT_NAME"/> hizmetine ekleyebilirsiniz.</translation>
@@ -2325,7 +2325,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="4540437243849625078">Bu site, bilgileri kişisel mod dışındaki bir uygulama ile paylaşmak üzere.</translation>
 <translation id="1227836882233136433">Kişisel moddan çıkılsın mı?</translation>
 <translation id="662080504995468778">Kal</translation>
-<translation id="2593289874938379417">Dissenter, istenen kaynağa erişemiyor.</translation>
+<translation id="2593289874938379417">Fulldive, istenen kaynağa erişemiyor.</translation>
 <translation id="760197030861754408">Bağlanmak için <ph name="LANDING_PAGE"/> sayfasına gidin.</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> algılandı</translation>
 <translation id="5042282098504489593"><ph name="USB_DEVICE_NAME"/> cihazını Linux'a bağlamak için Ayarlar'ı açın</translation>
@@ -2380,24 +2380,24 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="2859806420264540918">Bu site, araya giren veya yanıltıcı reklamlar gösteriyor.</translation>
 <translation id="4077917118009885966">Reklamlar bu sitede engellendi</translation>
 <translation id="6456955391422100996">Reklam kaldırıldı.</translation>
-<translation id="7533556202636568669">Bu reklam cihazınız için çok fazla kaynak kullanıyor, bu yüzden Dissenter tarafından kaldırıldı.</translation>
+<translation id="7533556202636568669">Bu reklam cihazınız için çok fazla kaynak kullanıyor, bu yüzden Fulldive tarafından kaldırıldı.</translation>
 <translation id="8497219075884839166">Windows Yardımcı Programları</translation>
 <translation id="897525204902889653">Karantina Hizmeti</translation>
 <translation id="7055152154916055070">Yönlendirme engellendi:</translation>
 <translation id="6777817260680419853">Yönlendirme engellendi</translation>
 <translation id="694592694773692225">Yönlendirme bu sayfada engellendi.</translation>
-<translation id="8945142681652245463">Gab AI Inc Dissenter ile hızlı göz atın</translation>
-<translation id="2618024864038703735">Gab AI Inc Dissenter ile güvenli bir şekilde göz atın</translation>
-<translation id="8142180567942285208">Dissenter ile akıllıca göz atın</translation>
+<translation id="8945142681652245463">Gab AI Inc Fulldive ile hızlı göz atın</translation>
+<translation id="2618024864038703735">Gab AI Inc Fulldive ile güvenli bir şekilde göz atın</translation>
+<translation id="8142180567942285208">Fulldive ile akıllıca göz atın</translation>
 <translation id="8862003515646449717">Hızlı bir tarayıcıya geç</translation>
 <translation id="8438328416656800239">Akıllı bir tarayıcıya geç</translation>
 <translation id="491691592645955587">Güvenli bir tarayıcıya geç</translation>
 <translation id="683373380308365518">Akıllı ve güvenli bir tarayıcıya geç</translation>
-<translation id="989239400026154074">Gab AI Inc, Dissenter'u önerir</translation>
-<translation id="6676231621615806698">Dissenter'u aç</translation>
+<translation id="989239400026154074">Gab AI Inc, Fulldive'u önerir</translation>
+<translation id="6676231621615806698">Fulldive'u aç</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/>, size yerel içerik sağlamak için konumunuzu kullanır. Bunu <ph name="SETTINGS_LINK"/> sayfasından değiştirebilirsiniz.</translation>
 <translation id="3737536731758327622">İndirdikleriniz burada görünür</translation>
-<translation id="4782664866169793230">Dissenter otomatik test yazılımı tarafından kontrol ediliyor.</translation>
+<translation id="4782664866169793230">Fulldive otomatik test yazılımı tarafından kontrol ediliyor.</translation>
 <translation id="6721678857435001674">Güvenlik Anahtarınızın markasını ve modelini görme</translation>
 <translation id="1673137583248014546"><ph name="URL"/>, Güvenlik Anahtarınızın markasını ve modelini görmek istiyor</translation>
 <translation id="6010869025736512584">Video girişine erişiliyor</translation>
@@ -2530,7 +2530,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="3984431586879874039">Bu sitenin güvenlik anahtarınızı görmesine izin verilsin mi?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/>, güvenlik anahtarınızın markasını ve modelini görmek istiyor</translation>
 <translation id="7618452966706304788"><ph name="APP_NAME"/> ile Kişisel modda Touch ID kullanmak istiyor musunuz?</translation>
-<translation id="3098826269712097986">Giriş verileri, siz Kişisel moddan çıktıktan sonra, Dissenter'da saklanır. Bu, bu websiteyi daha sonra Touch ID kullanmanızı sağlar.</translation>
+<translation id="3098826269712097986">Giriş verileri, siz Kişisel moddan çıktıktan sonra, Fulldive'da saklanır. Bu, bu websiteyi daha sonra Touch ID kullanmanızı sağlar.</translation>
 <translation id="2172784515318616985">Devam</translation>
 <translation id="5186185447130319458">Kişisel</translation>
 <translation id="7643842463591647490">{0,plural, =1{# açık pencere}other{# açık pencere}}</translation>
@@ -2572,7 +2572,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="2346953515226895098">SODA Hizmeti</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> duraklatıldı</translation>
 <translation id="917350715406657904">Ebeveyninizin <ph name="APP_NAME"/> için belirlediği süre sınırına ulaştınız. Bu uygulamayı yarın <ph name="TIME_LIMIT"/> kullanabilirsiniz.</translation>
-<translation id="8891261408659902804">Ebeveyninizin <ph name="APP_NAME"/> Dissenter uygulaması için belirlediği süre sınırına ulaştınız. Bu uygulamayı yarın <ph name="TIME_LIMIT"/> kullanabilirsiniz.</translation>
+<translation id="8891261408659902804">Ebeveyninizin <ph name="APP_NAME"/> Fulldive uygulaması için belirlediği süre sınırına ulaştınız. Bu uygulamayı yarın <ph name="TIME_LIMIT"/> kullanabilirsiniz.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> engellendi</translation>
 <translation id="4404843640767531781"><ph name="APP_NAME"/>, ebeveyniniz tarafından engellendi. Bu uygulamayı kullanmak için ebeveyninizden izin isteyin.</translation>
 <translation id="751523031290522286"><ph name="APP_NAME"/>, yönetici tarafından engellendi. Bu uygulamayı kullanmak için yöneticiden izin isteyin.</translation>
@@ -2917,7 +2917,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="672213144943476270">Lütfen misafir olarak göz atmadan önce profilinizin kilidini açın.</translation>
 <translation id="8086119151297127544">Profili kaldırmadan önce lütfen profilinizin kilidini açın.</translation>
 <translation id="7805701378418968629">Profil eklemeden önce lütfen profilinizin kilidini açın.</translation>
-<translation id="8978225823042133615">Dissenter'u kullanmak için lütfen oturum açın</translation>
+<translation id="8978225823042133615">Fulldive'u kullanmak için lütfen oturum açın</translation>
 <translation id="4893336867552636863">Bu işlem, tarama verilerinizi bu cihazdan kalıcı olarak silecektir.</translation>
 <translation id="2496180316473517155">Tarama geçmişi</translation>
 <translation id="6865313869410766144">Form otomatik doldurma verileri</translation>
@@ -2941,7 +2941,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="9013707997379828817">Yöneticiniz bu cihazı ilk haline döndürdü. Lütfen önemli dosyaları kaydedin ve sonra yeniden başlatın. Cihazdaki tüm veriler silinecektir.</translation>
 <translation id="5877064549588274448">Kanal değişti. Değişikliklerin uygulanması için cihazınızı yeniden başlatın.</translation>
 <translation id="4716483597559580346">Daha fazla güvenlik için Powerwash işlemini uygulayın</translation>
-<translation id="4089922565956168950">Bu sürüm güncellemesi, Dissenterbook'unuzu sıfırlar ve mevcut kullanıcı verilerini kaldırır.</translation>
+<translation id="4089922565956168950">Bu sürüm güncellemesi, Fulldivebook'unuzu sıfırlar ve mevcut kullanıcı verilerini kaldırır.</translation>
 <translation id="3688526734140524629">Kanal değiştir</translation>
 <translation id="6410328738210026208">Kanal değiştir ve Powerwash işlemini yap</translation>
 <translation id="1979280758666859181"><ph name="PRODUCT_NAME"/> ürününün eski sürümünü destekleyen bir kanala geçiyorsunuz. Kanal değişikliği, kanalın sürümü cihazınızda şu an yüklenmiş olan sürümle eşleştiğinde uygulanacak.</translation>
@@ -2973,7 +2973,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, +1 hesap daha}other{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> hesap daha}}</translation>
 <translation id="7434635829372401939">Ayarlarınızı senkronize edin</translation>
 <translation id="1036348656032585052">Kapat</translation>
-<translation id="3267705913905916810">Uygulamalarınız ve ayarlarınız, Gab AI Inc hesabınızla oturum açtığınız tüm Dissenter OS cihazlarında senkronize edilir. Tarayıcı senkronizasyon seçenekleri için <ph name="LINK_BEGIN"/>Dissenter ayarlarına<ph name="LINK_END"/> gidin.</translation>
+<translation id="3267705913905916810">Uygulamalarınız ve ayarlarınız, Gab AI Inc hesabınızla oturum açtığınız tüm Fulldive OS cihazlarında senkronize edilir. Tarayıcı senkronizasyon seçenekleri için <ph name="LINK_BEGIN"/>Fulldive ayarlarına<ph name="LINK_END"/> gidin.</translation>
 <translation id="6985607387932385770">Yazıcılar</translation>
 <translation id="8818152010000655963">Duvar kağıdı</translation>
 <translation id="8418661265246754237">Gab AI Inc Hesapları</translation>
@@ -3020,7 +3020,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="2187700606737131818">Gab AI Inc Fotoğraflar</translation>
 <translation id="1827738518074806965">Sanat galerisi</translation>
 <translation id="9137157311132182254">Tercih edilen arama motoru</translation>
-<translation id="7423118389528876103">Dissenter tarayıcı ve <ph name="DEVICE_TYPE"/> Başlatıcı tarafından kullanılıyor</translation>
+<translation id="7423118389528876103">Fulldive tarayıcı ve <ph name="DEVICE_TYPE"/> Başlatıcı tarafından kullanılıyor</translation>
 <translation id="2862205630718215619">Gab AI Inc Asistan</translation>
 <translation id="8959699239363253085">Açık</translation>
 <translation id="971479617738309149">Kapalı</translation>
@@ -3040,15 +3040,15 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="6644513150317163574">Geçersiz URL biçimi. TOA kimlik doğrulama kullanılırken ana makine adı olarak sunucu belirtilmelidir.</translation>
 <translation id="6091761513005122595">Paylaşım başarıyla eklendi.</translation>
 <translation id="5770125698810550803">Gezinme düğmelerini göster</translation>
-<translation id="2972318514147518075">Tablet modunda düğmelerle ana ekrana gidin, geri dönün ve uygulamalar arasında geçiş yapın. DissenterVox veya Otomatik tıklamalar etkinleştirildiğinde açılır.</translation>
+<translation id="2972318514147518075">Tablet modunda düğmelerle ana ekrana gidin, geri dönün ve uygulamalar arasında geçiş yapın. FulldiveVox veya Otomatik tıklamalar etkinleştirildiğinde açılır.</translation>
 <translation id="2558896001721082624">Sistem menüsünde erişilebilirlik seçeneklerini her zaman göster</translation>
 <translation id="2981113813906970160">Büyük fare imleci göster</translation>
 <translation id="5072052264945641674">İmleç boyutunu ayarla</translation>
 <translation id="4209092469652827314">Büyük</translation>
 <translation id="499165176004408815">Yüksek kontrast modunu kullan</translation>
 <translation id="142758023928848008">Yapışkan tuşları etkinleştirin (klavye kısayollarını, tuşlara sırayla basarak kullanmak için)</translation>
-<translation id="5914872514449971753">DissenterVox'u (sesli geri bildirim) etkinleştir</translation>
-<translation id="7099511550603534982">DissenterVox ayarlarını aç</translation>
+<translation id="5914872514449971753">FulldiveVox'u (sesli geri bildirim) etkinleştir</translation>
+<translation id="7099511550603534982">FulldiveVox ayarlarını aç</translation>
 <translation id="8547013269961688403">Tam ekran büyüteci etkinleştir</translation>
 <translation id="8743390665131937741">Tam ekran yakınlaştırma düzeyi:</translation>
 <translation id="7334274148831027933">Yerleştirilmiş büyüteci etkinleştir</translation>
@@ -3140,7 +3140,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="6902066522699286937">Önizlenecek ses</translation>
 <translation id="304747341537320566">Konuşma Motorları</translation>
 <translation id="2755367719610958252">Erişilebilirlik özelliklerini yönet</translation>
-<translation id="1203953622051744249">Oturum açtığınız hesaplarınızı yönetin. Dissenter ve Gab AI Inc Play'deki web siteleri, uygulamalar ve uzantılar, izinlere bağlı olarak deneyiminizi özelleştirmek için bu hesapları kullanabilirler. <ph name="LINK_BEGIN"/>Daha fazla bilgi<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Oturum açtığınız hesaplarınızı yönetin. Fulldive ve Gab AI Inc Play'deki web siteleri, uygulamalar ve uzantılar, izinlere bağlı olarak deneyiminizi özelleştirmek için bu hesapları kullanabilirler. <ph name="LINK_BEGIN"/>Daha fazla bilgi<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Burada bir okul hesabı ekleyin veya çocuk hesaplarını yönetin. <ph name="LINK_BEGIN"/>Daha fazla bilgi<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Hesaplar</translation>
 <translation id="6597148444736186483">Bu cihazda birincil hesabın oturumunu kapatmak için ekranınızdaki saati tıklayın. Görüntülenen menüde "Oturumu kapat"ı tıklayın.</translation>
@@ -3212,7 +3212,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="234889437187286781">Veri yüklenirken hata oluştu</translation>
 <translation id="4660540330091848931">Yeniden boyutlandırılıyor</translation>
 <translation id="1481537595330271162">Disk yeniden boyutlandırılırken hata oluştu</translation>
-<translation id="2756917833575664962">ADB hata ayıklama işlevinin etkinleştirilmesi için bu Dissenterbook'un fabrika ayarlarına sıfırlanması gerekir. <ph name="BEGIN_LINK_LEARN_MORE"/>Daha fazla bilgi<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">ADB hata ayıklama işlevinin etkinleştirilmesi için bu Fulldivebook'un fabrika ayarlarına sıfırlanması gerekir. <ph name="BEGIN_LINK_LEARN_MORE"/>Daha fazla bilgi<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">ADB hata ayıklama işlevini etkinleştirmek için bu <ph name="DEVICE_TYPE"/> cihazının yeniden başlatılması gerekir. Bu işlevi devre dışı bırakmak fabrika ayarlarına sıfırlama yapılmasını gerektirir.</translation>
 <translation id="8082390128630131497">ADB hata ayıklama işlevini devre dışı bırakmak bu <ph name="DEVICE_TYPE"/> cihazını fabrika ayarlarına sıfırlar. Tüm kullanıcı hesapları ve yerel veriler silinir.</translation>
 <translation id="7932969338829957666">Paylaşılan klasörleri Linux'ta <ph name="BASE_DIR"/> adresinde bulabilirsiniz.</translation>
@@ -3340,10 +3340,10 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> artık kullanılamıyor</translation>
 <translation id="3976108569178263973">Kullanılabilir yazıcı yok.</translation>
 <translation id="217576141146192373">Yazıcı eklenemiyor. Lütfen yazıcınızın yapılandırmasını kontrol edip tekrar deneyin.</translation>
-<translation id="4052689580269971502">Yazıcıya bağlanılamıyor. Yazıcının açık olduğundan ve kablosuz ağ üzerinden veya USB kablosuyla Dissenterbook'unuza bağlı olduğundan emin olun.</translation>
+<translation id="4052689580269971502">Yazıcıya bağlanılamıyor. Yazıcının açık olduğundan ve kablosuz ağ üzerinden veya USB kablosuyla Fulldivebook'unuza bağlı olduğundan emin olun.</translation>
 <translation id="7099337801055912064">Büyük PPD yüklenemiyor. Maksimum boyut 250 kB'tır.</translation>
 <translation id="4310139701823742692">Dosya yanlış biçimde. PPD dosyasını kontrol edip tekrar deneyin.</translation>
-<translation id="6580983683519551561">PPD bulunamıyor. Dissenterbook'unuzun internete bağlı olduğundan emin olun ve tekrar deneyin.</translation>
+<translation id="6580983683519551561">PPD bulunamıyor. Fulldivebook'unuzun internete bağlı olduğundan emin olun ve tekrar deneyin.</translation>
 <translation id="4694024090038830733">Yazıcı yapılandırması yönetici tarafından gerçekleştirilir.</translation>
 <translation id="5816434091619127343">Yazıcıda yapılması istenen değişiklikler yazıcıyı kullanılamaz hale getirecekti.</translation>
 <translation id="6504611359718185067">Yazıcı eklemek için İnternet'e bağlanın</translation>
@@ -3679,18 +3679,18 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="7770651108375708429">Kablosuz ağ bağlantısını kes</translation>
 <translation id="4168015872538332605"><ph name="PRIMARY_EMAIL"/> kullanıcısına ait bazı ayarlar sizinle paylaşılıyor. Bu ayarlar sadece çoklu oturum açma işlevi kullanılırken hesabınızı etkiler.</translation>
 <translation id="1485141095922496924"><ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/> Sürümü</translation>
-<translation id="4570609078116869893">Tüm kullanıcılar için Dissenter'u otomatik olarak güncelle</translation>
+<translation id="4570609078116869893">Tüm kullanıcılar için Fulldive'u otomatik olarak güncelle</translation>
 <translation id="7102687220333134671">Otomatik güncellemeler açık</translation>
 <translation id="6981982820502123353">Erişilebilirlik</translation>
 <translation id="5840822070878669614">İnternet Mağazasını Aç</translation>
 <translation id="6073903501322152803">Erişilebilirlik özellikleri ekle</translation>
 <translation id="7988355189918024273">Erişilebilirlik özelliklerini etkinleştir</translation>
-<translation id="5499063270485366718">Bir resmin işe yarar bir açıklaması yoksa, Dissenter sizin için bir açıklama sağlamaya çalışır. Açıklama oluşturmak için resimler Gab AI Inc'a gönderilir.</translation>
+<translation id="5499063270485366718">Bir resmin işe yarar bir açıklaması yoksa, Fulldive sizin için bir açıklama sağlamaya çalışır. Açıklama oluşturmak için resimler Gab AI Inc'a gönderilir.</translation>
 <translation id="8957762313041272117">Canlı altyazı</translation>
-<translation id="7075426315046750605">Canlı altyazı, medya içeriklerindeki konuşmaları algılar ve Dissenter'da oynatılan tüm medya içerikleri için otomatik olarak altyazı oluşturur.</translation>
+<translation id="7075426315046750605">Canlı altyazı, medya içeriklerindeki konuşmaları algılar ve Fulldive'da oynatılan tüm medya içerikleri için otomatik olarak altyazı oluşturur.</translation>
 <translation id="572155275267014074">Android ayarları</translation>
 <translation id="7201042526153088083"><ph name="DEVICE_TYPE"/> cihazınıza Gab AI Inc Play'den uygulama ve oyunlar yükleyin. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Daha fazla bilgi&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Gab AI Inc Play'den indirdiğiniz uygulamalar bu Dissenterbook'tan silinecek.
+<translation id="8039595758121742506">Gab AI Inc Play'den indirdiğiniz uygulamalar bu Fulldivebook'tan silinecek.
       <ph name="LINE_BREAKS1"/>
       Satın aldığınız film, TV dizisi, müzik, kitap gibi içerikler veya diğer uygulama içi satın almalar da silinebilir.
       <ph name="LINE_BREAKS2"/>
@@ -3704,7 +3704,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="6006484371116297560">Klasik</translation>
 <translation id="1795214765651529549">Klasik Temayı Kullan</translation>
 <translation id="2332742915001411729">Varsayılana sıfırla</translation>
-<translation id="8338457030135232378">Dissenter Renkleri</translation>
+<translation id="8338457030135232378">Fulldive Renkleri</translation>
 <translation id="827097179112817503">Ana Sayfa düğmesini göster</translation>
 <translation id="383007806262310953">Yer işaretleri çubuğunu göster</translation>
 <translation id="3911824782900911339">Yeni Sekme sayfası</translation>
@@ -3716,7 +3716,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="1670399744444387456">Temel</translation>
 <translation id="1763808908432309942">Yeni bir sekmede açılır</translation>
 <translation id="6248988683584659830">Arama ayarları</translation>
-<translation id="883304095704384301">Aradığınız bilgiyi bulamazsanız <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Dissenter yardımına<ph name="END_LINK_CHROMIUM"/> gidin</translation>
+<translation id="883304095704384301">Aradığınız bilgiyi bulamazsanız <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive yardımına<ph name="END_LINK_CHROMIUM"/> gidin</translation>
 <translation id="6406708970972405507">Ayarlar - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Alt sayfa düğmesi</translation>
 <translation id="379509625511193653">Kapalı</translation>
@@ -3903,7 +3903,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="5468173180030470402">Dosya paylaşımı aranıyor</translation>
 <translation id="3336664756920573711"><ph name="DEVICE_TYPE"/> cihazınızın kilidini Android telefonunuzla açın.</translation>
 <translation id="1164674268730883318"><ph name="DEVICE_TYPE"/> için Smart Lock kapatılsın mı?</translation>
-<translation id="2739030071582769583"><ph name="DEVICE_TYPE"/> için Smart Lock'u kapatırsanız, telefonunuzu kullanarak Dissenter cihazlarınızın kilidini açamazsınız. Şifrenizi yazmanız gerekecektir.</translation>
+<translation id="2739030071582769583"><ph name="DEVICE_TYPE"/> için Smart Lock'u kapatırsanız, telefonunuzu kullanarak Fulldive cihazlarınızın kilidini açamazsınız. Şifrenizi yazmanız gerekecektir.</translation>
 <translation id="4737715515457435632">Lütfen bir ağa bağlanın</translation>
 <translation id="5425722269016440406">Smart Lock, telefonunuz ve diğer cihazlarınız ile senkronize olduğundan bu ayarı kapatmak için çevrimiçi olmanız gerekir. Lütfen önce bir ağa bağlanın.</translation>
 <translation id="8885197664446363138">Smart Lock kullanılamıyor</translation>
@@ -4137,20 +4137,20 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="3633309367764744750">Daha önce ziyaret etmedikleriniz dahil olmak üzere sayfalardan bilgileri önceden getirir. Getirilen bilgiler, çerezlere izin veriyorsanız çerez de içerebilir.</translation>
 <translation id="3201899458094819285">Gizli Göz Atma (sizi ve cihazınızı tehlikelerden korur)</translation>
 <translation id="2876369937070532032">Güvenliğiniz risk altında olduğunda ziyaret ettiğiniz bazı sayfaların URL'lerini Gab AI Inc'a gönderir</translation>
-<translation id="4991384657077828949">Dissenter güvenliğini iyileştirmeye yardımcı olun</translation>
+<translation id="4991384657077828949">Fulldive güvenliğini iyileştirmeye yardımcı olun</translation>
 <translation id="1984646864943401749">Yeni tehditleri keşfetmeye ve web'deki herkesi korumaya yardımcı olmak için, ziyaret ettiğiniz bazı sayfaların URL'lerini, sınırlı sistem bilgilerini ve bazı sayfa içeriklerini Gab AI Inc'a gönderir.</translation>
 <translation id="1641113438599504367">Güvenli Tarama</translation>
 <translation id="6900532703269623216">Gelişmiş koruma</translation>
 <translation id="7307583170263691471">Tehlikeli web siteleri, indirmeler ve uzantılara karşı daha hızlı, proaktif koruma. Sizi şifre ihlalleri konusunda uyarır. Tarama verilerinin Gab AI Inc'a gönderilmesini gerektirir.</translation>
 <translation id="8645920082661222035">Tehlikeli etkinlikleri meydana gelmeden önce tahmin ederek sizi uyarır</translation>
-<translation id="5265419033369521352">Dissenter'da güvende kalmanızı sağlar ve oturum açtığınızda diğer Gab AI Inc uygulamalarındaki güvenliğinizi artırmak için kullanılabilir</translation>
+<translation id="5265419033369521352">Fulldive'da güvende kalmanızı sağlar ve oturum açtığınızda diğer Gab AI Inc uygulamalarındaki güvenliğinizi artırmak için kullanılabilir</translation>
 <translation id="6770602306803890733">Hem siz hem de web'deki herkes için güvenliği iyileştirir</translation>
 <translation id="3690369331356918524">Şifreleriniz bir veri ihlalinde ifşa olursa uyarır</translation>
 <translation id="4979281249641199724">URL'leri kontrol etmek için Güvenli Tarama'ya gönderir. Ayrıca yeni tehditlerin keşfedilmesine yardımcı olmak için sayfalar, indirmeler, uzantı etkinliği ve sistem bilgilerinden küçük bir örnek gönderir. Sizi Gab AI Inc uygulamalarında korumak için oturumunuz açıkken bu verileri geçici olarak Gab AI Inc Hesabınıza bağlar.</translation>
 <translation id="1963976881984600709">Standart koruma</translation>
 <translation id="6882836635272038266">Tehlikeli olduğu bilinen web siteleri, indirmeler ve uzantılara karşı standart koruma.</translation>
 <translation id="5561162485081632007">Tehlikeli etkinlik meydana geldiğinde tespit ederek sizi uyarır.</translation>
-<translation id="7810992039564280750">URL'leri, Dissenter'da kayıtlı güvenli olmayan siteler listesine göre kontrol eder. Dissenter, bir sitenin şifrenizi çalmaya çalışması veya zararlı bir dosya indirmeniz halinde de Güvenli Tarama'ya sayfa içeriğinden parçalarla birlikte URL'ler gönderebilir.</translation>
+<translation id="7810992039564280750">URL'leri, Fulldive'da kayıtlı güvenli olmayan siteler listesine göre kontrol eder. Fulldive, bir sitenin şifrenizi çalmaya çalışması veya zararlı bir dosya indirmeniz halinde de Güvenli Tarama'ya sayfa içeriğinden parçalarla birlikte URL'ler gönderebilir.</translation>
 <translation id="3847319713229060696">Web'de herkes için güvenliğin iyileştirilmesine yardımcı olun</translation>
 <translation id="1984417487208496350">Koruma yok (önerilmez)</translation>
 <translation id="1295971429974142731">Sizi tehlikeli web siteleri, indirmeler ve uzantılara karşı korumaz. Gmail ve Arama gibi diğer Gab AI Inc hizmetlerinde, mümkün olduğunda Güvenli Tarama korumasından yararlanmaya devam edersiniz.</translation>
@@ -4206,7 +4206,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="8632933437936028548">Ayarları sıfırla</translation>
 <translation id="5293170712604732402">Ayarları orijinal varsayılan değerlerine geri yükleyin</translation>
 <translation id="892706138619340876">Bazı ayarlar sıfırlandı</translation>
-<translation id="2334029754052191847">Dissenter, bazı ayarlarınızın başka bir program tarafından bozulduğunu algıladı ve onları orijinal varsayılan değerlerine sıfırladı.</translation>
+<translation id="2334029754052191847">Fulldive, bazı ayarlarınızın başka bir program tarafından bozulduğunu algıladı ve onları orijinal varsayılan değerlerine sıfırladı.</translation>
 <translation id="4582563038311694664">Tüm ayarları sıfırla</translation>
 <translation id="4146785383423576110">Sıfırla ve temizle</translation>
 <translation id="2603115962224169880">Bilgisayarı temizleme</translation>
@@ -4275,7 +4275,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="5340638867532133571">Sitelerin ödeme işleyici yüklemesine izin ver (önerilir)</translation>
 <translation id="763632859238619983">Hiçbir sitenin ödeme işleyici yüklemesine izin verme</translation>
 <translation id="8270242299912238708">PDF dokümanları</translation>
-<translation id="539658326146969381">PDF dosyalarını Dissenter'da otomatik olarak açmak yerine indir</translation>
+<translation id="539658326146969381">PDF dosyalarını Fulldive'da otomatik olarak açmak yerine indir</translation>
 <translation id="4434045419905280838">Pop-up'lar ve yönlendirmeler</translation>
 <translation id="6612358246767739896">Korunan içerik</translation>
 <translation id="4252852543720145436">Korumalı içerik tanımlayıcıları</translation>
@@ -4336,7 +4336,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="2913331724188855103">Sitelerin, çerez verilerini kaydetmelerine ve okumalarına izin ver (önerilir)</translation>
 <translation id="5908769186679515905">Sitelerin Flash çalıştırmasını engelle</translation>
 <translation id="783214144752121388">Sitelerin Flash çalıştırmasını engelle (önerilir)</translation>
-<translation id="6096007141921397775">Flash ayarlarınız Dissenter'dan çıkmanıza kadar tutulacak.</translation>
+<translation id="6096007141921397775">Flash ayarlarınız Fulldive'dan çıkmanıza kadar tutulacak.</translation>
 <translation id="8074127646604999664">Son kapatılan sitelerin veri gönderme ve alma işlemini bitirmesine izin ver</translation>
 <translation id="7062222374113411376">Yeni kapatılan sitelerin veri gönderme ve alma işlemini bitirmesine izin ver (önerilir)</translation>
 <translation id="5068918910148307423">Yeni kapatılan sitelerin veri gönderme ve alma işlemini bitirmesine izin verme</translation>
@@ -4416,7 +4416,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="5566692924079383101">Bu istisna, mevcut Gizli oturumdan çıktığınızda otomatik olarak kaldırılacak</translation>
 <translation id="383891835335927981">Yakınlaştırılmış veya uzaklaştırılmış herhangi bir site yok</translation>
 <translation id="3566721612727112615">Site eklenmedi</translation>
-<translation id="8098574385249290065">Sitelerin ne zaman ses çalacağını Dissenter'un seçmesine izin verin (önerilir)</translation>
+<translation id="8098574385249290065">Sitelerin ne zaman ses çalacağını Fulldive'un seçmesine izin verin (önerilir)</translation>
 <translation id="4354344420232759511">Ziyaret ettiğiniz siteler burada görünür</translation>
 <translation id="3757733214359997190">Hiç site bulunamadı</translation>
 <translation id="6545864417968258051">Bluetooth taraması</translation>
@@ -4429,7 +4429,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Site ekle</translation>
 <translation id="5052499409147950210">Siteyi düzenle</translation>
-<translation id="4610862967073369855">Android Mesajlar'ın telefonunuzdan Dissenterbook'unuza kısa mesaj aktarmasını sağlar</translation>
+<translation id="4610862967073369855">Android Mesajlar'ın telefonunuzdan Fulldivebook'unuza kısa mesaj aktarmasını sağlar</translation>
 <translation id="6742339027238151589">Komut dosyasınca erişilebilir</translation>
 <translation id="361106536627977100">Flash verileri</translation>
 <translation id="8557930019681227453">Manifest</translation>
@@ -4441,7 +4441,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="8016266267177410919">Geçici depolama</translation>
 <translation id="4175737294868205930">Kalıcı depolama</translation>
 <translation id="8397843425685839889">Siz ve Gab AI Inc</translation>
-<translation id="8907706281008466056">Dissenter Profil resmi</translation>
+<translation id="8907706281008466056">Fulldive Profil resmi</translation>
 <translation id="2023167225947895179">PIN kolayca tahmin edilebilir</translation>
 <translation id="5342091991439452114">PIN en az <ph name="MINIMUM"/> basamaklı olmalıdır</translation>
 <translation id="5252653240322147470">PIN en fazla <ph name="MAXIMUM"/> basamaklı olmalıdır</translation>
@@ -4506,23 +4506,23 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="3817524650114746564">Bilgisayarınızın proxy ayarlarını açın</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/>, bir uzantıdan gelen proxy ayarlarını kullanıyor</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/>, yöneticinizden gelen proxy ayarlarını kullanıyor</translation>
-<translation id="6187156085111579405">Gerekirse burada listelenmeyen öğeler de kaldırılabilir. &lt;a href="<ph name="URL"/>"&gt;İstenmeyen yazılım koruması&lt;/a&gt; hakkında daha fazla bilgiyi Dissenter gizliliği tanıtım yazısında bulabilirsiniz.</translation>
+<translation id="6187156085111579405">Gerekirse burada listelenmeyen öğeler de kaldırılabilir. &lt;a href="<ph name="URL"/>"&gt;İstenmeyen yazılım koruması&lt;/a&gt; hakkında daha fazla bilgiyi Fulldive gizliliği tanıtım yazısında bulabilirsiniz.</translation>
 <translation id="5280174558369304332">Kaldırılacak uzantılar:</translation>
 <translation id="7712836429117959503"><ph name="EXTENSION_ID"/> kimlikli bilinmeyen uzantı</translation>
 <translation id="3281892622610078515">Karantinaya alınacak dosyalar ve programlar:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 öğe}other{{NUM_ITEMS} öğe}}</translation>
 <translation id="7187428571767585875">Kaldırılacak veya değiştirilecek kayıt defteri girişleri:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{1 tane daha}other{{NUM_DOWNLOADS} tane daha}}</translation>
-<translation id="2749608811030566578">Dissenter zararlı yazılımları kaldırırken bir hata oluştu</translation>
-<translation id="8189483132214844139">Dissenter, bilgisayarınızdaki zararlı yazılımları bulabilir ve kaldırabilir</translation>
+<translation id="2749608811030566578">Fulldive zararlı yazılımları kaldırırken bir hata oluştu</translation>
+<translation id="8189483132214844139">Fulldive, bilgisayarınızdaki zararlı yazılımları bulabilir ve kaldırabilir</translation>
 <translation id="1426870617281699524">Yeniden Dene'yi tıklayın ve bilgisayarınızdaki istemi kabul edin</translation>
-<translation id="7886744396008377537">Bilgisayarınızda zararlı yazılım var. Dissenter bunu kaldırıyor, ayarlarınızı geri yüklüyor ve uzantılarınızı devre dışı bırakıyor. Bu işlem, tarayıcınızın tekrar normal şekilde çalışmasını sağlayacak.</translation>
-<translation id="1484912962860902625">Dissenter zararlı yazılımları ararken bir hata oluştu</translation>
+<translation id="7886744396008377537">Bilgisayarınızda zararlı yazılım var. Fulldive bunu kaldırıyor, ayarlarınızı geri yüklüyor ve uzantılarınızı devre dışı bırakıyor. Bu işlem, tarayıcınızın tekrar normal şekilde çalışmasını sağlayacak.</translation>
+<translation id="1484912962860902625">Fulldive zararlı yazılımları ararken bir hata oluştu</translation>
 <translation id="451407183922382411"><ph name="COMPANY_NAME"/> tarafından destekleniyor</translation>
 <translation id="5254368820972107711">Kaldırılacak dosyaları göster</translation>
 <translation id="296026337010986570">Bitti! Zararlı yazılım kaldırıldı. Uzantıları tekrar açmak için &lt;a href="chrome://extensions"&gt;Uzantılar&lt;/a&gt; sayfasını ziyaret edin.</translation>
 <translation id="284975061945174219">Temizleme işlemi başarısız oldu</translation>
-<translation id="9014750448058570312">Dissenter'un devam edebilmesi için izin gerekiyor</translation>
+<translation id="9014750448058570312">Fulldive'un devam edebilmesi için izin gerekiyor</translation>
 <translation id="1852141627593563189">Zararlı yazılım bulma</translation>
 <translation id="850875081535031620">Zararlı yazılım bulunmadı</translation>
 <translation id="1186771945450942097">Zararlı yazılımı kaldır</translation>
@@ -4535,7 +4535,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="6555810572223193255">Temizleme şu anda kullanılamıyor</translation>
 <translation id="7117228822971127758">Lütfen daha sonra tekrar deneyin</translation>
 <translation id="443475966875174318">Uyumsuz uygulamaları güncelleyin veya kaldırın</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Bu uygulama Dissenter'un düzgün çalışmasını engelleyebilir.}other{Bu uygulamalar Dissenter'un düzgün çalışmasını engelleyebilir.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Bu uygulama Fulldive'un düzgün çalışmasını engelleyebilir.}other{Bu uygulamalar Fulldive'un düzgün çalışmasını engelleyebilir.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Web'e göz atmaya devam edebildiğinizden emin olmak için yöneticinizden bu uygulamayı kaldırmasını isteyin.}other{Web'e göz atmaya devam edebildiğinizden emin olmak için yöneticinizden bu uygulamaları kaldırmasını isteyin.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Uygulamaların nasıl güncelleneceğini öğrenin<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{Uygulama}other{Uygulamalar}}</translation>
@@ -4618,13 +4618,13 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="284843628681142937">Ziyaret ettiğiniz sayfaların URL'lerini Gab AI Inc'a gönderir</translation>
 <translation id="7704317875155739195">Aramaları ve URL'leri otomatik tamamla</translation>
 <translation id="2000419248597011803">Adres çubuğundan ve arama kutusundan bazı çerezleri ve aramaları varsayılan arama motorunuza gönderir</translation>
-<translation id="918192811481327695">Dissenter'un özelliklerini ve performansını iyileştirmeye yardımcı olun</translation>
+<translation id="918192811481327695">Fulldive'un özelliklerini ve performansını iyileştirmeye yardımcı olun</translation>
 <translation id="9063160602596686558">Kullanım istatistiklerini ve kilitlenme raporlarını Gab AI Inc'a otomatik olarak gönderir</translation>
 <translation id="6697492270171225480">Bir sayfa bulunamadığında benzer sayfalar için önerileri göster</translation>
 <translation id="4534361985432360439">Erişmeye çalıştığınız sayfanın web adresini Gab AI Inc'a gönderir</translation>
 <translation id="3831436149286513437">Gab AI Inc Drive arama önerileri</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/> hesabıyla senkronize ediliyor</translation>
-<translation id="9125982323641182972">Gab AI Inc zekası Dissenter'da</translation>
+<translation id="9125982323641182972">Gab AI Inc zekası Fulldive'da</translation>
 <translation id="2537178555904266562">Şifreler senkronize edilirken hata oluştu</translation>
 <translation id="4314815835985389558">Senkronizasyonu yönetin</translation>
 <translation id="8931475688782629595">Senkronize ettiğiniz öğeleri yönetin</translation>
@@ -4642,7 +4642,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="1651008383952180276">Aynı parolayı iki kez girmelisiniz</translation>
 <translation id="988978206646512040">Boş parolaya izin verilmez</translation>
 <translation id="2136476978468204130">Girdiğiniz parola yanlış</translation>
-<translation id="7505421639213002314">Dissenter senkronizasyonundan veriler</translation>
+<translation id="7505421639213002314">Fulldive senkronizasyonundan veriler</translation>
 <translation id="452750746583162491">Senkronize edilmiş verilerinizi inceleyin</translation>
 <translation id="7956662517480676674">Senkronizasyon ve Gab AI Inc hizmetleri</translation>
 <translation id="7772032839648071052">Parolayı onayla</translation>
@@ -4741,7 +4741,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="1992397118740194946">Ayarlanmadı</translation>
 <translation id="6706210727756204531">Kapsam</translation>
 <translation id="5532223876348815659">Evrensel</translation>
-<translation id="300669147395456190">Dissenter Uygulamaları</translation>
+<translation id="300669147395456190">Fulldive Uygulamaları</translation>
 <translation id="6787839852456839824">Klavye kısayolları</translation>
 <translation id="6419546358665792306">Paketlenmemiş öğe yükle</translation>
 <translation id="8023801379949507775">Uzantıları şimdi güncelle</translation>
@@ -4755,13 +4755,13 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="8447409163267621480">Ctrl veya Alt tuşunu ekleyin</translation>
 <translation id="3365598184818502391">Ctrl veya Alt tuşlarından birini kullanın</translation>
 <translation id="1688935057616748272">Bir harf yazın</translation>
-<translation id="1579879232130925590">Daha sağlıklı, mutlu bir Dissenter</translation>
+<translation id="1579879232130925590">Daha sağlıklı, mutlu bir Fulldive</translation>
 <translation id="964057662886721376">Bazı uzantılar, özellikle de bilerek yüklemedikleriniz sizi yavaşlatabilir.</translation>
 <translation id="1499271269825557605">Bir uzantıyı tanımıyorsanız ya da tarayıcınız beklendiği gibi çalışmıyorsa uzantıları burada kapatabilir veya özelleştirebilirsiniz.</translation>
 <translation id="2382818385048255866">Uzantılarınızı kontrol edin</translation>
 <translation id="3900789207771372462">Bazı uzantılar, kişisel bilgiler dahil olmak üzere tarama etkinliğinizi görebilir.</translation>
 <translation id="6772339735733515807">Uzantılarınızı yönetme</translation>
-<translation id="1510515462062582289">Dissenter'da yüklü tüm uzantıları bu sayfada görebilirsiniz.</translation>
+<translation id="1510515462062582289">Fulldive'da yüklü tüm uzantıları bu sayfada görebilirsiniz.</translation>
 <translation id="2810390687497823527">Bir uzantıyı tanımıyorsanız ya da tarayıcınız beklendiği gibi çalışmıyorsa uzantıları burada kapatabilir veya özelleştirebilirsiniz.</translation>
 <translation id="4479424953165245642">Kiosk uygulamalarını yönet</translation>
 <translation id="6619801788773578757">Kiosk uygulaması ekle</translation>
@@ -4777,7 +4777,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="2342740338116612727">Yer işaretleri eklendi</translation>
 <translation id="7835178595033117206">Yer işareti kaldırıldı</translation>
 <translation id="742130257665691897">Yer işaretleri kaldırıldı</translation>
-<translation id="5468853758063275923">Dissenter varsayılan tarayıcınız</translation>
+<translation id="5468853758063275923">Fulldive varsayılan tarayıcınız</translation>
 <translation id="2950533317914339731">Favori Gab AI Inc Uygulamalarınıza yer işaretleri ekleyin</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4792,13 +4792,13 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="5033266061063942743">Geometrik şekiller</translation>
 <translation id="7789963078219276159">Başlangıç sayfası arka planı <ph name="CATEGORY"/> olarak değiştirildi.</translation>
 <translation id="8771300903067484968">Başlangıç sayfası arka planı, varsayılan arka plana sıfırlandı.</translation>
-<translation id="239760341987199724">Dissenter'u varsayılan tarayıcım olarak ayarla</translation>
+<translation id="239760341987199724">Fulldive'u varsayılan tarayıcım olarak ayarla</translation>
 <translation id="96037229054033864">Her göz attığınızda Gab AI Inc Arama ve Gab AI Inc zekasından yararlanın</translation>
-<translation id="296137235951584143">Dissenter'u kendinize uyarlayın</translation>
+<translation id="296137235951584143">Fulldive'u kendinize uyarlayın</translation>
 <translation id="3982375475032951137">Tarayıcınızı birkaç basit adımda kurun</translation>
 <translation id="6972754398087986839">Get Started</translation>
-<translation id="3707821975049107110">Zaten Dissenter kullanıcısı mısınız? Oturum açın</translation>
-<translation id="7113572760575285642">Kendi Dissenter'unuz, Her Yerde</translation>
+<translation id="3707821975049107110">Zaten Fulldive kullanıcısı mısınız? Oturum açın</translation>
+<translation id="7113572760575285642">Kendi Fulldive'unuz, Her Yerde</translation>
 <translation id="567643736130151854">Tüm cihazlarda yer işaretlerinizi, şifrelerinizi ve daha pek çok şeyi almak için oturum açın ve senkronizasyonu etkinleştirin</translation>
 <translation id="725758059478686223">Yazdırma Hizmeti</translation>
 <translation id="15662109988763471">Seçilen yazıcı kullanılamıyor veya doğru yüklenmemiş. Yazıcınızı kontrol edin veya başka yazıcı seçmeyi deneyin.</translation>
@@ -4921,7 +4921,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="7574650250151586813">Metin yazmak için Daydream Keyboard uygulamasını güncelleyin</translation>
 <translation id="983511809958454316">Bu özellik VR'da desteklenmiyor</translation>
 <translation id="4008291085758151621">Site bilgileri VR'da kullanılamıyor</translation>
-<translation id="1439926347196400598">Dissenter'un ses kaydetmesine izin verilsin mi?</translation>
+<translation id="1439926347196400598">Fulldive'un ses kaydetmesine izin verilsin mi?</translation>
 <translation id="6313641880021325787">VR'DAN ÇIK</translation>
 <translation id="2670429602441959756">Bu sayfa henüz Sanal Gerçeklik'te desteklenmeyen özellikler içeriyor. Sayfadan çıkılıyor...</translation>
 <translation id="1802687198411089702">Sayfa yanıt vermiyor. Sayfanın yanıt vermesini bekleyebilir veya sayfadan çıkabilirsiniz.</translation>
@@ -4943,7 +4943,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="1721312023322545264">Bu siteyi ziyaret etmek için <ph name="NAME"/> size izin vermelidir</translation>
 <translation id="7543525346216957623">Ebeveyninize sorun</translation>
 <translation id="471880041731876836">Bu siteyi ziyaret etmek için izniniz yok</translation>
-<translation id="3480834636742786788">Lütfen bu uygulamayı kullanmadan önce Dissenter'u başlatıp oturum açın.</translation>
+<translation id="3480834636742786788">Lütfen bu uygulamayı kullanmadan önce Fulldive'u başlatıp oturum açın.</translation>
 <translation id="2851634818064021665">Bu siteyi ziyaret etmek için izninizin olması gerekir</translation>
 <translation id="4933782374919065856">Sorularınız mı var? Profilinizi denetleyen kişiyle iletişime geçin.</translation>
 <translation id="2712173769900027643">İzin iste</translation>
@@ -4963,7 +4963,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="7755287808199759310">Ebeveyniniz engellemeyi sizin için kaldırabilir</translation>
 <translation id="5732392974455271431">Ebeveynleriniz engellemeyi kaldırabilir</translation>
 <translation id="3556433843310711081">Yöneticiniz engellemeyi kaldırabilir</translation>
-<translation id="1254756632288991504">Dissenter'un bu siteye erişmenize izin verilip verilmediğini kontrol edebilmesi için lütfen Dissenter'u başlatıp oturum açın.</translation>
+<translation id="1254756632288991504">Fulldive'un bu siteye erişmenize izin verilip verilmediğini kontrol edebilmesi için lütfen Fulldive'u başlatıp oturum açın.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> duraklatıldı</translation>
 <translation id="8015163965024115122">Ebeveyninizin <ph name="IDS_SHORT_PRODUCT_NAME"/> veya <ph name="IDS_SHORT_PRODUCT_NAME"/> adlı uygulama için belirlediği süre sınırına ulaşıldı.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> duraklatıldı</translation>

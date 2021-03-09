@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">Kustuta</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> on valitud</translation>
 <translation id="5582839680698949063">Peamenüü</translation>
-<translation id="3700405816184340252">Dissenter'i ajalugu</translation>
+<translation id="3700405816184340252">Fulldive'i ajalugu</translation>
 <translation id="7602079150116086782">Muudest seadmetest pärinevaid vahelehti ei ole</translation>
 <translation id="4619615317237390068">Muudest seadmetest pärinevad vahelehed</translation>
-<translation id="82609232232243542">Dissenter'i sisselogimine</translation>
+<translation id="82609232232243542">Fulldive'i sisselogimine</translation>
 <translation id="4627442949885028695">Jätkake sealt, kus muus seadmes pooleli jäite</translation>
-<translation id="7253276740368043692">Vahelehtede hankimiseks oma teistest seadmetest logige Dissenter'i sisse.</translation>
+<translation id="7253276740368043692">Vahelehtede hankimiseks oma teistest seadmetest logige Fulldive'i sisse.</translation>
 <translation id="6351063337294363751">Selles menüüs saate kustutada oma sirvimisandmed</translation>
 <translation id="6040143037577758943">Sule</translation>
 <translation id="6463795194797719782">&amp;Muuda</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">Eelistused...</translation>
 <translation id="5801568494490449797">Eelistused</translation>
 <translation id="3677911431265050325">Taotle mobiilisaiti</translation>
-<translation id="236470849334943016">Dissenter'i teenusetingimused muutuvad 31. märtsil</translation>
+<translation id="236470849334943016">Fulldive'i teenusetingimused muutuvad 31. märtsil</translation>
 <translation id="1032605640136438169">Vaadake uued tingimused üle</translation>
 <translation id="8712637175834984815">Selge</translation>
 <translation id="5007392906805964215">Vaata üle</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">Taaskäivitamine</translation>
 <translation id="3479552764303398839">Mitte praegu</translation>
 <translation id="1008557486741366299">Mitte praegu</translation>
-<translation id="8201192017531062522">Dissenter'i käitatakse edasi seni, kuni Dissenter'i rakendused on avatud.</translation>
-<translation id="7397305826909094212">Sule kõik Dissenter'i rakendused</translation>
+<translation id="8201192017531062522">Fulldive'i käitatakse edasi seni, kuni Fulldive'i rakendused on avatud.</translation>
+<translation id="7397305826909094212">Sule kõik Fulldive'i rakendused</translation>
 <translation id="5026874946691314267">Ära näita seda uuesti</translation>
 <translation id="91568222606626347">Otsetee loomine ...</translation>
 <translation id="2783321960289401138">Otsetee loomine ...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">Linuxi vrituaalmasin: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">Pistikprogrammi virtuaalmasin: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP-parser</translation>
-<translation id="7171242884588191792">Dissenter'i failide utiliidid</translation>
+<translation id="7171242884588191792">Fulldive'i failide utiliidid</translation>
 <translation id="3183139917765991655">Profiili importija</translation>
 <translation id="7367714965999718019">QR-koodide looja</translation>
 <translation id="2190069059097339078">WiFi mandaadi hankija</translation>
-<translation id="5920835625712313205">Dissenter OS-i süsteemi pildikirjutaja</translation>
+<translation id="5920835625712313205">Fulldive OS-i süsteemi pildikirjutaja</translation>
 <translation id="4873312501243535625">Meediafaili kontrollija</translation>
 <translation id="5972666587303800813">Toiminguta teenus</translation>
 <translation id="1545775234664667895">Teema „<ph name="THEME_NAME"/>“ installitud</translation>
@@ -851,14 +851,14 @@
 <translation id="3507421388498836150">Laiendi „<ph name="EXTENSION_NAME"/>” praegused õigused</translation>
 <translation id="5242724311594467048">Kas lubada laiendus „<ph name="EXTENSION_NAME"/>”?</translation>
 <translation id="4014432863917027322">Kas parandada laiendust <ph name="EXTENSION_NAME"/>?</translation>
-<translation id="5173189340601754836">Muu arvutis olev programm lisas rakenduse, mis võib muuta Dissenter'i tööd.
+<translation id="5173189340601754836">Muu arvutis olev programm lisas rakenduse, mis võib muuta Fulldive'i tööd.
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">Muu arvutis olev programm lisas laienduse, mis võib muuta Dissenter'i tööd.
+<translation id="6654312501894761082">Muu arvutis olev programm lisas laienduse, mis võib muuta Fulldive'i tööd.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">Muu arvutis olev programm lisas teema, mis võib muuta Dissenter'i tööd.
+<translation id="3225882094369124157">Muu arvutis olev programm lisas teema, mis võib muuta Fulldive'i tööd.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">Luba laiendus</translation>
@@ -867,7 +867,7 @@
 <translation id="3908501907586732282">Luba laiendus</translation>
 <translation id="2327492829706409234">Luba rakendus</translation>
 <translation id="175772926354468439">Luba teema</translation>
-<translation id="5267531627648004734">Eemalda Dissenter'ist</translation>
+<translation id="5267531627648004734">Eemalda Fulldive'ist</translation>
 <translation id="4998873842614926205">Muudatuste kinnitamine</translation>
 <translation id="1799071797295057738">Laiendus „<ph name="EXTENSION_NAME"/>” keelati automaatselt.</translation>
 <translation id="5238278114306905396">Rakendus „<ph name="EXTENSION_NAME"/>” eemaldati automaatselt.</translation>
@@ -1003,7 +1003,7 @@
 <translation id="1616298854599875024">Laiendust „<ph name="IMPORT_NAME"/>” ei saa importida, kuna see pole jagatud moodul</translation>
 <translation id="2131077480075264">Rakendust <ph name="APP_NAME"/> ei saa installida, sest <ph name="IMPORT_NAME"/> ei luba seda</translation>
 <translation id="1875387611427697908">Seda on võimalik lisada vaid teenusest <ph name="CHROME_WEB_STORE"/></translation>
-<translation id="3862788408946266506">Rakendus manifesti atribuudiga „kiosk_only” tuleb installida Dissenter OS-i kioskirežiimis</translation>
+<translation id="3862788408946266506">Rakendus manifesti atribuudiga „kiosk_only” tuleb installida Fulldive OS-i kioskirežiimis</translation>
 <translation id="3834775135533257713">Rakendust „<ph name="TO_INSTALL_APP_NAME"/>” ei saa lisada, kuna see on vastuolus rakendusega „<ph name="INSTALLED_APP_NAME"/>”.</translation>
 <translation id="144518587530125858">Teemale ei õnnestunud laadida üksust <ph name="IMAGE_PATH"/>.</translation>
 <translation id="3576324189521867626">Installimine õnnestus</translation>
@@ -1106,9 +1106,9 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="6101226222197207147">Lisati uus rakendus (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">Lisati uus teema (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">Lisati „<ph name="EXTENSION_NAME"/>”</translation>
-<translation id="6637045053447935202">Teine programm teie arvutis lisas rakenduse, mis võib muuta Dissenter'i toimimist.</translation>
-<translation id="2015014930243978107">Teine programm teie arvutis lisas laienduse, mis võib muuta Dissenter'i toimimist.</translation>
-<translation id="2060128809251156338">Teine programm teie arvutis lisas teema, mis võib muuta Dissenter'i toimimist.</translation>
+<translation id="6637045053447935202">Teine programm teie arvutis lisas rakenduse, mis võib muuta Fulldive'i toimimist.</translation>
+<translation id="2015014930243978107">Teine programm teie arvutis lisas laienduse, mis võib muuta Fulldive'i toimimist.</translation>
+<translation id="2060128809251156338">Teine programm teie arvutis lisas teema, mis võib muuta Fulldive'i toimimist.</translation>
 <translation id="2470702053775288986">Toetamata laiendused on keelatud</translation>
 <translation id="2809586584051668049">ja veel <ph name="NUMBER_ADDITIONAL_DISABLED"/></translation>
 <translation id="5301954838959518834">Selge, sain aru</translation>
@@ -1313,7 +1313,7 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="8017679124341497925">Otsetee on muudetud</translation>
 <translation id="1174073918202301297">Otsetee on lisatud</translation>
 <translation id="2926085873880284723">Vaikeotseteede taastamine</translation>
-<translation id="5801450813341024983">Dissenter'i taustad</translation>
+<translation id="5801450813341024983">Fulldive'i taustad</translation>
 <translation id="2800760947029405028">Laadige üles pilt</translation>
 <translation id="8342861492835240085">Kogu valimine</translation>
 <translation id="3132996321662585180">Värskendatakse iga päev</translation>
@@ -1400,7 +1400,7 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="833986336429795709">Valige lingi avamiseks rakendus</translation>
 <translation id="192494336144674234">Ava rakendusega</translation>
 <translation id="9053893665344928494">Jäta valik meelde</translation>
-<translation id="5340857474604400806">Jää Dissenter'i</translation>
+<translation id="5340857474604400806">Jää Fulldive'i</translation>
 <translation id="3043581297103810752">Saidilt <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (privaatne)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (Külaline)</translation>
@@ -1461,8 +1461,8 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="6686817083349815241">Parooli salvestamine</translation>
 <translation id="8141725884565838206">Paroolide haldamine</translation>
 <translation id="8275038454117074363">Impordi</translation>
-<translation id="3191314862567596053">Paroolide importimine Dissenter'i</translation>
-<translation id="6368144843345980623">Paroolide eksportimine Dissenter'ist</translation>
+<translation id="3191314862567596053">Paroolide importimine Fulldive'i</translation>
+<translation id="6368144843345980623">Paroolide eksportimine Fulldive'ist</translation>
 <translation id="8503813439785031346">Kasutajanimi</translation>
 <translation id="6657585470893396449">Parool</translation>
 <translation id="5472627187093107397">Salvesta selle saidi paroolid</translation>
@@ -1493,7 +1493,7 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="7052237160939977163">Saada toimivuse jälgimise andmeid</translation>
 <translation id="5526928694260255286">Manusta <ph name="BEGIN_LINK"/>Bluetoothi logid<ph name="END_LINK"/> (Gab AI Inc'ile sisemiseks kasutamiseks)</translation>
 <translation id="3047644958362961983">See teave aitab meil teie assistendiga seotud probleemi paremini mõista. See talletatakse kuni 90 päevaks ning sellele pääsevad juurde ainult asjakohased inseneri- ja tagasisidetiimid.</translation>
-<translation id="8545590844135745781">Bluetoothi probleemide paremaks diagnoosimiseks võivad Gab AI Inc'i kasutajad tagasiside aruannetesse lisada täiendavad Bluetoothi logid. Kui see valik on märgitud, hõlmab teie aruanne teie praeguse seansi btsnoopi ja HCI logisid, millest on eemaldataud võimalikult palju isikut tuvastavat teavet. Nendele logidele pääsevad juurde ainult Dissenter OS-i tootegrupi haldurid teenuses Listnr. Logid kustutatakse lõplikult 90 päeva pärast.</translation>
+<translation id="8545590844135745781">Bluetoothi probleemide paremaks diagnoosimiseks võivad Gab AI Inc'i kasutajad tagasiside aruannetesse lisada täiendavad Bluetoothi logid. Kui see valik on märgitud, hõlmab teie aruanne teie praeguse seansi btsnoopi ja HCI logisid, millest on eemaldataud võimalikult palju isikut tuvastavat teavet. Nendele logidele pääsevad juurde ainult Fulldive OS-i tootegrupi haldurid teenuses Listnr. Logid kustutatakse lõplikult 90 päeva pärast.</translation>
 <translation id="4206323443866416204">Tagasisidearuanne</translation>
 <translation id="3681311097828166361">Täname teid tagasiside eest. Te pole praegu võrguga ühendatud ja aruanne saadetakse hiljem.</translation>
 <translation id="8713570323158206935">Saada <ph name="BEGIN_LINK1"/>süsteemiteave<ph name="END_LINK1"/></translation>
@@ -1510,15 +1510,15 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="6885771755599377173">Süsteemiteabe eelvaade</translation>
 <translation id="1016566241875885511">Lisateave (valikuline)</translation>
 <translation id="8026334261755873520">Sirvimisandmete kustutamine</translation>
-<translation id="4718442817388594217">Valitud andmed eemaldati Dissenter'ist ja sünkroonitud seadmetest. Aadressil <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> võib teie Gab AI Inc'i kontol olla muus vormis sirvimisajalugu, nt otsingud ja muudes Gab AI Inc'i teenustes toimunud tegevused.</translation>
-<translation id="7814200940910057384">Dissenter'i andmed kustutati</translation>
+<translation id="4718442817388594217">Valitud andmed eemaldati Fulldive'ist ja sünkroonitud seadmetest. Aadressil <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> võib teie Gab AI Inc'i kontol olla muus vormis sirvimisajalugu, nt otsingud ja muudes Gab AI Inc'i teenustes toimunud tegevused.</translation>
+<translation id="7814200940910057384">Fulldive'i andmed kustutati</translation>
 <translation id="7346909386216857016">Selge, sain aru</translation>
 <translation id="8493236660459102203">Mikrofon:</translation>
 <translation id="3925573269917483990">Kaamera:</translation>
 <translation id="648927581764831596">Pole saadaval</translation>
 <translation id="4172051516777682613">Kuva alati</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Hüpikaken blokeeriti}other{# hüpikakent blokeeriti}}</translation>
-<translation id="4156865452842056672">(Dissenter'i vealehed)</translation>
+<translation id="4156865452842056672">(Fulldive'i vealehed)</translation>
 <translation id="1734824808160898225">Võimalik, et teenusel <ph name="PRODUCT_NAME"/> ei õnnestu ennast värskendada</translation>
 <translation id="8590375307970699841">Automaatsete värskenduste seadistamine</translation>
 <translation id="8926389886865778422">Ära enam küsi</translation>
@@ -1623,10 +1623,10 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="8658645149275195032">Rakendus <ph name="APP_NAME"/> jagab teie ekraani ja heli vahelehega <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491">Rakendus <ph name="APP_NAME"/> jagab akent.</translation>
 <translation id="8944964446326379280">Rakendus <ph name="APP_NAME"/> jagab akent vahelehega <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555">Rakendus <ph name="APP_NAME"/> jagab Dissenter'i vahelehte.</translation>
-<translation id="5727851901710884484">Rakendus <ph name="APP_NAME"/> jagab Dissenter'i vahelehte vahelehega <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338">Rakendus <ph name="APP_NAME"/> jagab Dissenter'i vahelehte ja heli.</translation>
-<translation id="859454237594354073">Rakendus <ph name="APP_NAME"/> jagab Dissenter'i vahelehte ja heli vahelehega <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555">Rakendus <ph name="APP_NAME"/> jagab Fulldive'i vahelehte.</translation>
+<translation id="5727851901710884484">Rakendus <ph name="APP_NAME"/> jagab Fulldive'i vahelehte vahelehega <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338">Rakendus <ph name="APP_NAME"/> jagab Fulldive'i vahelehte ja heli.</translation>
+<translation id="859454237594354073">Rakendus <ph name="APP_NAME"/> jagab Fulldive'i vahelehte ja heli vahelehega <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">Peida</translation>
 <translation id="890616557918890486">Vaheta allikat</translation>
 <translation id="7792388396321542707">Lõpeta jagamine</translation>
@@ -1649,7 +1649,7 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="4711067597921221305">Aidake muuta rakendus <ph name="PRODUCT_NAME"/> paremaks, saates Gab AI Inc'ile automaatselt kasutusstatistikat ja veaaruandeid</translation>
 <translation id="5972826969634861500">Käivita <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Aidake meie inseneridel seda kokkujooksmist uurida ja see parandada. Võimaluse korral loetlege täpselt tehtud toimingud. Ükski pisiasi pole liiga väike!</translation>
-<translation id="5418694430960033386">Dissenter'i mälu sai otsa või veebilehe protsess lõpetati muul põhjusel. Jätkamiseks laadige uuesti või minge muule lehele.</translation>
+<translation id="5418694430960033386">Fulldive'i mälu sai otsa või veebilehe protsess lõpetati muul põhjusel. Jätkamiseks laadige uuesti või minge muule lehele.</translation>
 <translation id="3065041951436100775">Tagasiside vahelehe sulgumise kohta.</translation>
 <translation id="3941565636838060942">Programmile juurdepääsu peitmiseks tuleb teil programm desinstallida,
 kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
@@ -1677,10 +1677,10 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="4980805016576257426">Laiendus sisaldab pahavara.</translation>
 <translation id="5522156646677899028">See laiendus sisaldab tõsist turvaauku.</translation>
 <translation id="6945695820322143954">See laiendus rikub veebipoe poliitikat.</translation>
-<translation id="177808131755847449">Dissenter on selle keelanud. See laiendus võib olla ebaturvaline.</translation>
+<translation id="177808131755847449">Fulldive on selle keelanud. See laiendus võib olla ebaturvaline.</translation>
 <translation id="1434696352799406980">See lähtestab käivitamisel avatava lehe, uue vahelehe, otsingumootori ja vähendatud vahelehed. See keelab ka kõik laiendused ja kustutab kõik ajutised andmed (nt küpsised). Teie järjehoidjaid, ajalugu ega salvestatud paroole ei kustutata.</translation>
 <translation id="1242633766021457174">Tööriist <ph name="THIRD_PARTY_TOOL_NAME"/> soovib teie seaded lähtestada.</translation>
-<translation id="8073477228424628709">Tööriist <ph name="THIRD_PARTY_TOOL_NAME"/> soovib teie Dissenter'i seaded lähtestada algsetele vaikevalikutele. See lähtestab teie avalehe, uue vahelehe ja otsingumootori, keelab laiendused ning vabastab kõik vahelehed. Peale selle kustutatakse kõik muud ajutised ja vahemällu salvestatud andmed, nagu küpsisefailid ning sisu- ja saidiandmed.</translation>
+<translation id="8073477228424628709">Tööriist <ph name="THIRD_PARTY_TOOL_NAME"/> soovib teie Fulldive'i seaded lähtestada algsetele vaikevalikutele. See lähtestab teie avalehe, uue vahelehe ja otsingumootori, keelab laiendused ning vabastab kõik vahelehed. Peale selle kustutatakse kõik muud ajutised ja vahemällu salvestatud andmed, nagu küpsisefailid ning sisu- ja saidiandmed.</translation>
 <translation id="7581462281756524039">Puhastustööriist</translation>
 <translation id="1233721473400465416">Lokaat</translation>
 <translation id="2907619724991574506">Käivitus-URL-id</translation>
@@ -1874,7 +1874,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6664774537677393800">Teie profiili avamisel läks midagi valesti. Logige välja ja seejärel uuesti sisse.</translation>
 <translation id="1794791083288629568">Saatke tagasisidet, et aidata meil see probleem lahendada.</translation>
 <translation id="8234795456569844941">Aidake meie spetsialistidel probleemi lahendada. Andke meile teada, mis toimus vahetult enne profiili veateate ilmumist.</translation>
-<translation id="6500340165622970282">Dissenter'i ei saa käivitada, kuna midagi läks teie profiili avamisel valesti. Proovige Dissenter taaskäivitada.</translation>
+<translation id="6500340165622970282">Fulldive'i ei saa käivitada, kuna midagi läks teie profiili avamisel valesti. Proovige Fulldive taaskäivitada.</translation>
 <translation id="6812349420832218321">Toodet <ph name="PRODUCT_NAME"/> ei saa juurkasutajana käitada.</translation>
 <translation id="2292848386125228270">Käivitage teenus <ph name="PRODUCT_NAME"/> tavakasutajana. Kui soovite arendamiseks käivitada juurversiooni, käivitage uuesti märgistusega --no-sandbox.</translation>
 <translation id="7547317915858803630">Hoiatus: teie rakenduse <ph name="PRODUCT_NAME"/> seaded on talletatud võrgukettal. See võib põhjustada seadme töö aeglustumist, krahhe ja isegi andmete kadumist.</translation>
@@ -2250,8 +2250,8 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="4720113199587244118">Lisa seadmed</translation>
 <translation id="2776441542064982094">Tundub, et võrgus registreerimiseks pole saadaval ühtegi seadet. Kui teie seade on sisse lülitatud ja sellel on Interneti-ühendus, proovige see registreerida seadme kasutusjuhendi juhiste järgi.</translation>
 <translation id="1007408791287232274">Seadmete laadimine ebaõnnestus.</translation>
-<translation id="3886420006370338208">Seadmete nägemiseks peate Dissenter'i sisse logima</translation>
-<translation id="6711610692002680394">Uute seadmete registreerimiseks peate Dissenter'i sisse logima</translation>
+<translation id="3886420006370338208">Seadmete nägemiseks peate Fulldive'i sisse logima</translation>
+<translation id="6711610692002680394">Uute seadmete registreerimiseks peate Fulldive'i sisse logima</translation>
 <translation id="8931394284949551895">Uued seadmed</translation>
 <translation id="3752673729237782832">Minu seadmed</translation>
 <translation id="1721937473331968728">Saate ühendada teenusega <ph name="CLOUD_PRINT_NAME"/> teie arvutiga ühendatud tavaprintereid.</translation>
@@ -2324,7 +2324,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="4540437243849625078">See veebisait hakkab jagama teavet väljaspool privaatset režiimi oleva rakendusega.</translation>
 <translation id="1227836882233136433">Kas lahkuda privaatsest režiimist?</translation>
 <translation id="662080504995468778">Jää siia</translation>
-<translation id="2593289874938379417">Dissenter'il pole soovitud allikale juurdepääsu.</translation>
+<translation id="2593289874938379417">Fulldive'il pole soovitud allikale juurdepääsu.</translation>
 <translation id="760197030861754408">Ühenduse loomiseks minge lehele <ph name="LANDING_PAGE"/>.</translation>
 <translation id="3648348069317717750">Tuvastati <ph name="USB_DEVICE_NAME"/></translation>
 <translation id="5042282098504489593">Seadme <ph name="USB_DEVICE_NAME"/> Linuxiga ühendamiseks avage menüü Seaded</translation>
@@ -2379,24 +2379,24 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="2859806420264540918">Sait kuvab sekkuvaid või eksitavaid reklaame.</translation>
 <translation id="4077917118009885966">Reklaamid on sellel saidil blokeeritud</translation>
 <translation id="6456955391422100996">Reklaam eemaldati.</translation>
-<translation id="7533556202636568669">See reklaam kasutab liiga palju teie seadme ressursse, seetõttu Dissenter eemaldas selle.</translation>
+<translation id="7533556202636568669">See reklaam kasutab liiga palju teie seadme ressursse, seetõttu Fulldive eemaldas selle.</translation>
 <translation id="8497219075884839166">Windowsi utiliidid</translation>
 <translation id="897525204902889653">Karantiini teenused</translation>
 <translation id="7055152154916055070">Ümbersuunamine blokeeriti:</translation>
 <translation id="6777817260680419853">Ümbersuunamine blokeeriti</translation>
 <translation id="694592694773692225">Ümbersuunamine on sellel lehel blokeeritud.</translation>
-<translation id="8945142681652245463">Gab AI Inc Dissenter'iga sirvite kiirelt</translation>
-<translation id="2618024864038703735">Sirvige Gab AI Inc Dissenter'iga ohutult</translation>
-<translation id="8142180567942285208">Dissenter'iga sirvite nutikalt</translation>
+<translation id="8945142681652245463">Gab AI Inc Fulldive'iga sirvite kiirelt</translation>
+<translation id="2618024864038703735">Sirvige Gab AI Inc Fulldive'iga ohutult</translation>
+<translation id="8142180567942285208">Fulldive'iga sirvite nutikalt</translation>
 <translation id="8862003515646449717">Minge üle kiirele brauserile</translation>
 <translation id="8438328416656800239">Minge üle nutikale brauserile</translation>
 <translation id="491691592645955587">Minge üle turvalisele brauserile</translation>
 <translation id="683373380308365518">Minge üle nutikale ja turvalisele brauserile</translation>
-<translation id="989239400026154074">Gab AI Inc soovitab Dissenter'i</translation>
-<translation id="6676231621615806698">Ava Dissenter</translation>
+<translation id="989239400026154074">Gab AI Inc soovitab Fulldive'i</translation>
+<translation id="6676231621615806698">Ava Fulldive</translation>
 <translation id="5250372599208556903">Otsingumootor <ph name="SEARCH_ENGINE_NAME"/> kasutab teile kohaliku sisu pakkumiseks teie asukohta. Seda saate muuta menüüs <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Teie allalaadimised kuvatakse siin</translation>
-<translation id="4782664866169793230">Dissenter'i juhib automatiseeritud testtarkvara.</translation>
+<translation id="4782664866169793230">Fulldive'i juhib automatiseeritud testtarkvara.</translation>
 <translation id="6721678857435001674">Vaadata teie turvavõtme tootjat ja mudelit</translation>
 <translation id="1673137583248014546"><ph name="URL"/> soovib näha teie turvavõtme tootjat ja mudelit</translation>
 <translation id="6010869025736512584">Juurdepääs videosisendile</translation>
@@ -2529,7 +2529,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="3984431586879874039">Kas lubada saidil teie turvavõtit näha?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> soovib näha teie turvavõtme tootjat ja mudelit</translation>
 <translation id="7618452966706304788">Kas soovite kasutada puute-ID-d rakenduses <ph name="APP_NAME"/> privaatses režiimis?</translation>
-<translation id="3098826269712097986">Kui väljute privaatsest režiimist, salvestatakse sisselogimisandmed Dissenter’i. See võimaldab teil puute-ID-d sellel veebisaidil hiljem uuesti kasutada.</translation>
+<translation id="3098826269712097986">Kui väljute privaatsest režiimist, salvestatakse sisselogimisandmed Fulldive’i. See võimaldab teil puute-ID-d sellel veebisaidil hiljem uuesti kasutada.</translation>
 <translation id="2172784515318616985">Jätka</translation>
 <translation id="5186185447130319458">Privaatne</translation>
 <translation id="7643842463591647490">{0,plural, =1{# avatud aken}other{# avatud akent}}</translation>
@@ -2571,7 +2571,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="2346953515226895098">SODA teenus</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> on peatatud</translation>
 <translation id="917350715406657904">Jõudsid piiranguni, mille sinu vanem teenuses <ph name="APP_NAME"/> määras. Saad seda homme kasutada <ph name="TIME_LIMIT"/>.</translation>
-<translation id="8891261408659902804">Jõudsid piiranguni, mille sinu vanem Dissenter'i rakenduses <ph name="APP_NAME"/> määras. Homme saad seda kasutada <ph name="TIME_LIMIT"/>.</translation>
+<translation id="8891261408659902804">Jõudsid piiranguni, mille sinu vanem Fulldive'i rakenduses <ph name="APP_NAME"/> määras. Homme saad seda kasutada <ph name="TIME_LIMIT"/>.</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> on blokeeritud</translation>
 <translation id="4404843640767531781">Rakenduse <ph name="APP_NAME"/> blokeeris sinu vanem. Küsi vanemalt luba selle rakenduse kasutamiseks.</translation>
 <translation id="751523031290522286">Rakenduse <ph name="APP_NAME"/> blokeeris administraator. Küsige administraatorilt luba rakenduse kasutamiseks.</translation>
@@ -2916,7 +2916,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="672213144943476270">Enne külalisena sirvimist avage oma profiil.</translation>
 <translation id="8086119151297127544">Enne profiili eemaldamist avage oma profiil.</translation>
 <translation id="7805701378418968629">Enne profiili lisamist avage oma profiil.</translation>
-<translation id="8978225823042133615">Dissenter'i kasutamiseks logige sisse</translation>
+<translation id="8978225823042133615">Fulldive'i kasutamiseks logige sisse</translation>
 <translation id="4893336867552636863">See kustutab teie sirvimisandmed sellest seadmest jäädavalt.</translation>
 <translation id="2496180316473517155">Sirvimise ajalugu</translation>
 <translation id="6865313869410766144">Automaattäitmise vormiandmed</translation>
@@ -2940,7 +2940,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="9013707997379828817">Administraator viis selle seadme vanemale versioonile. Salvestage olulised failid ja seejärel taaskäivitage seade. Kõik seadmes olevad andmed kustutatakse.</translation>
 <translation id="5877064549588274448">Kanal on muutunud. Muudatuste rakendamiseks taaskäivitage oma seade.</translation>
 <translation id="4716483597559580346">Powerwash suurendab turvalisust</translation>
-<translation id="4089922565956168950">See üleviimine lähtestab teie Dissenterbooki ja eemaldab praegused kasutaja andmed.</translation>
+<translation id="4089922565956168950">See üleviimine lähtestab teie Fulldivebooki ja eemaldab praegused kasutaja andmed.</translation>
 <translation id="3688526734140524629">Vaheta kanalit</translation>
 <translation id="6410328738210026208">Muuda kanalit ja Powerwashi</translation>
 <translation id="1979280758666859181">Lülitute teenuse <ph name="PRODUCT_NAME"/> vanema versiooniga kanalile. Kanalivahetus rakendub, kui kanali versioon kattub teie seadmesse parajasti installitud versiooniga.</translation>
@@ -2972,7 +2972,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, veel 1 konto}other{<ph name="EMAIL"/>, veel <ph name="EXTRA_ACCOUNTS"/> kontot}}</translation>
 <translation id="7434635829372401939">Seadete sünkroonimine</translation>
 <translation id="1036348656032585052">Lülita välja</translation>
-<translation id="3267705913905916810">Teie rakendused ja seaded sünkroonitakse kõigis Dissenter OS-i seadmetes, kuhu olete oma Gab AI Inc'i kontoga sisse logitud. Brauseri sünkroonimisvalikute nägemiseks avage <ph name="LINK_BEGIN"/>Dissenter'i seaded<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Teie rakendused ja seaded sünkroonitakse kõigis Fulldive OS-i seadmetes, kuhu olete oma Gab AI Inc'i kontoga sisse logitud. Brauseri sünkroonimisvalikute nägemiseks avage <ph name="LINK_BEGIN"/>Fulldive'i seaded<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Printerid</translation>
 <translation id="8418661265246754237">Gab AI Inc'i kontod</translation>
 <translation id="3953834000574892725">Minu kontod</translation>
@@ -3019,7 +3019,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="2187700606737131818">Gab AI Inc Photos</translation>
 <translation id="1827738518074806965">Kunstigalerii</translation>
 <translation id="9137157311132182254">Eelistatud otsingumootor</translation>
-<translation id="7423118389528876103">Seda kasutab Dissenter'i brauser ja seadme <ph name="DEVICE_TYPE"/> käivitaja</translation>
+<translation id="7423118389528876103">Seda kasutab Fulldive'i brauser ja seadme <ph name="DEVICE_TYPE"/> käivitaja</translation>
 <translation id="2862205630718215619">Gab AI Inc'i assistent</translation>
 <translation id="8959699239363253085">Sees</translation>
 <translation id="971479617738309149">Väljas</translation>
@@ -3039,15 +3039,15 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6644513150317163574">Sobimatu URL-i vorming. Kui kasutatakse SSO autentimist, tuleb server määrata hosti nimena.</translation>
 <translation id="6091761513005122595">Jagatava üksuse ühendamine õnnestus.</translation>
 <translation id="5770125698810550803">Kuva navigeerimisnupud</translation>
-<translation id="2972318514147518075">Navigeerige tahvelarvutirežiimis nuppude abil avalehele, tagasi ja vahetage rakendusi. See on sisse lülitatud, kui DissenterVox või automaatsed klikid on lubatud.</translation>
+<translation id="2972318514147518075">Navigeerige tahvelarvutirežiimis nuppude abil avalehele, tagasi ja vahetage rakendusi. See on sisse lülitatud, kui FulldiveVox või automaatsed klikid on lubatud.</translation>
 <translation id="2558896001721082624">Kuva alati juurdepääsuvalikud süsteemimenüüs</translation>
 <translation id="2981113813906970160">Kuva suur hiirekursor</translation>
 <translation id="5072052264945641674">Kursori suuruse kohandamine</translation>
 <translation id="4209092469652827314">Suur</translation>
 <translation id="499165176004408815">Kasuta kõrge kontrastiga režiimi</translation>
 <translation id="142758023928848008">Luba püsiklahvid (siis saate kasutada klaviatuuri otseteid, vajutades klahve üksteise järel)</translation>
-<translation id="5914872514449971753">Luba DissenterVox (kõnena esitatud tagasiside)</translation>
-<translation id="7099511550603534982">Ava DissenterVoxi seaded</translation>
+<translation id="5914872514449971753">Luba FulldiveVox (kõnena esitatud tagasiside)</translation>
+<translation id="7099511550603534982">Ava FulldiveVoxi seaded</translation>
 <translation id="8547013269961688403">Luba täisekraani luup</translation>
 <translation id="8743390665131937741">Täisekraani suumitase:</translation>
 <translation id="7334274148831027933">Luba dokitud luup</translation>
@@ -3139,7 +3139,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6902066522699286937">Eelvaate hääl</translation>
 <translation id="304747341537320566">Kõnesünteesimootorid</translation>
 <translation id="2755367719610958252">Juurdepääsetavuse funktsioonide haldamine</translation>
-<translation id="1203953622051744249">Hallake oma sisselogitud kontosid. Veebisaidid, rakendused ja laiendused Dissenter’is ning Gab AI Inc Plays võivad olenevalt lubadest kasutada neid kontosid teie kasutuskogemuse isikupärastamiseks. <ph name="LINK_BEGIN"/>Lisateave<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Hallake oma sisselogitud kontosid. Veebisaidid, rakendused ja laiendused Fulldive’is ning Gab AI Inc Plays võivad olenevalt lubadest kasutada neid kontosid teie kasutuskogemuse isikupärastamiseks. <ph name="LINK_BEGIN"/>Lisateave<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Lisage koolikonto või hallake lapse kontosid siin. <ph name="LINK_BEGIN"/>Lisateave<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Kontod</translation>
 <translation id="6597148444736186483">Selles seadmes peamiselt kontolt väljalogimiseks klõpsake ekraanikuval kellaajal. Klõpsake kuvatavas menüüs käsul „Logi välja”.</translation>
@@ -3211,7 +3211,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="234889437187286781">Viga andmete laadimisel</translation>
 <translation id="4660540330091848931">Suuruse muutmine</translation>
 <translation id="1481537595330271162">Viga ketta suuruse muutmisel</translation>
-<translation id="2756917833575664962">ADB silumise lubamiseks lähtestage see Dissenterbook tehaseseadetele. <ph name="BEGIN_LINK_LEARN_MORE"/>Lisateave<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">ADB silumise lubamiseks lähtestage see Fulldivebook tehaseseadetele. <ph name="BEGIN_LINK_LEARN_MORE"/>Lisateave<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">ADB silumise lubamiseks, tuleb seade <ph name="DEVICE_TYPE"/> taaskäivitada. Selle keelamiseks on seade vaja lähtestada tehaseseadetele.</translation>
 <translation id="8082390128630131497">ADB silumise keelamine lähtestab seadme <ph name="DEVICE_TYPE"/> tehaseseadetele. Kõik kasutajakontod ja kohalikud andmed tühjendatakse.</translation>
 <translation id="7932969338829957666">Linuxis on jagatud kaustad saadaval asukohas <ph name="BASE_DIR"/>.</translation>
@@ -3339,10 +3339,10 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> ei ole enam saadaval</translation>
 <translation id="3976108569178263973">Ühtegi printerit pole saadaval.</translation>
 <translation id="217576141146192373">Printerit ei saa lisada. Kontrollige oma printeri seadistust ja proovige uuesti.</translation>
-<translation id="4052689580269971502">Printeriga ei saa ühendada. Kontrollige, kas printer on sisse lülitatud ja teie Dissenterbookiga WiFi või USB kaudu ühendatud.</translation>
+<translation id="4052689580269971502">Printeriga ei saa ühendada. Kontrollige, kas printer on sisse lülitatud ja teie Fulldivebookiga WiFi või USB kaudu ühendatud.</translation>
 <translation id="7099337801055912064">Suurt PPD-d ei saa laadida. Maksimaalne suurus on 250 kB.</translation>
 <translation id="4310139701823742692">Failivorming on vale. Kontrollige PPD-faili ja proovige uuesti.</translation>
-<translation id="6580983683519551561">PPD-d ei leita. Veenduge, et teie Dissenterbook oleks võrguga ühendatud, ja proovige uuesti.</translation>
+<translation id="6580983683519551561">PPD-d ei leita. Veenduge, et teie Fulldivebook oleks võrguga ühendatud, ja proovige uuesti.</translation>
 <translation id="4694024090038830733">Printeri seadistust haldab administraator.</translation>
 <translation id="5816434091619127343">Nõutud printeri muudatuste korral ei saaks printerit kasutada.</translation>
 <translation id="6504611359718185067">Printeri lisamiseks looge ühendus Internetiga</translation>
@@ -3678,18 +3678,18 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="7770651108375708429">Katkesta ühendus WiFi-ga</translation>
 <translation id="4168015872538332605">Teiega jagatakse teatud seadeid, mille omanik on <ph name="PRIMARY_EMAIL"/>. Seaded mõjutavad teie kontot vaid juhul, kui kasutate mitmesse kontosse sisselogimist.</translation>
 <translation id="1485141095922496924">Versioon <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Värskenda Dissenter'i automaatselt kõikide kasutajate jaoks</translation>
+<translation id="4570609078116869893">Värskenda Fulldive'i automaatselt kõikide kasutajate jaoks</translation>
 <translation id="7102687220333134671">Automaatsed värskendused on sisse lülitatud</translation>
 <translation id="6981982820502123353">Juurdepääsetavus</translation>
 <translation id="5840822070878669614">Ava veebipood</translation>
 <translation id="6073903501322152803">Juurdepääsetavuse funktsioonide lisamine</translation>
 <translation id="7988355189918024273">Luba juurdepääsetavuse funktsioonid</translation>
-<translation id="5499063270485366718">Kui pildil puudub kasulik kirjeldus, üritab Dissenter selle ise luua. Kirjelduste loomiseks saadetakse pildid Gab AI Inc'ile.</translation>
+<translation id="5499063270485366718">Kui pildil puudub kasulik kirjeldus, üritab Fulldive selle ise luua. Kirjelduste loomiseks saadetakse pildid Gab AI Inc'ile.</translation>
 <translation id="8957762313041272117">Reaalajas subtiitrid</translation>
-<translation id="7075426315046750605">Funktsioon Reaalajas subtiitrid tuvastab Dissenter'is esitatavas meedias sisalduva kõne ja loob automaatselt subtiitrid.</translation>
+<translation id="7075426315046750605">Funktsioon Reaalajas subtiitrid tuvastab Fulldive'is esitatavas meedias sisalduva kõne ja loob automaatselt subtiitrid.</translation>
 <translation id="572155275267014074">Androidi seaded</translation>
 <translation id="7201042526153088083">Installige rakendused ja mängud Gab AI Inc Playst oma seadmesse <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Lisateave&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Gab AI Inc Playst alla laaditud rakendused kustutatakse sellest Dissenterbookist.
+<translation id="8039595758121742506">Gab AI Inc Playst alla laaditud rakendused kustutatakse sellest Fulldivebookist.
       <ph name="LINE_BREAKS1"/>
       Teie ostetud sisu (nt filmid, telesaated, muusika, raamatud või muud rakendusesisesed ostud) võidakse samuti kustutada.
       <ph name="LINE_BREAKS2"/>
@@ -3703,7 +3703,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6006484371116297560">Klassikaline</translation>
 <translation id="1795214765651529549">Kasuta klassikalist</translation>
 <translation id="2332742915001411729">Lähtesta vaikeseadetele</translation>
-<translation id="8338457030135232378">Dissenter'i värvid</translation>
+<translation id="8338457030135232378">Fulldive'i värvid</translation>
 <translation id="827097179112817503">Kuva nupp Avaleht</translation>
 <translation id="383007806262310953">Kuva järjehoidjariba</translation>
 <translation id="3911824782900911339">Uus vaheleht</translation>
@@ -3715,7 +3715,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1670399744444387456">Põhiseaded</translation>
 <translation id="1763808908432309942">Avaneb uuel vahekaardil</translation>
 <translation id="6248988683584659830">Otsinguseaded</translation>
-<translation id="883304095704384301">Kui te ei leia otsitavat, avage <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Dissenter'i abi<ph name="END_LINK_CHROMIUM"/></translation>
+<translation id="883304095704384301">Kui te ei leia otsitavat, avage <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive'i abi<ph name="END_LINK_CHROMIUM"/></translation>
 <translation id="6406708970972405507">Seaded – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Alamlehe nupp</translation>
 <translation id="379509625511193653">Väljas</translation>
@@ -3902,7 +3902,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5468173180030470402">Jagatud failide otsimine</translation>
 <translation id="3336664756920573711">Seadme <ph name="DEVICE_TYPE"/> avamine Android-telefoniga</translation>
 <translation id="1164674268730883318">Kas lülitada Smart Lock välja seadmes <ph name="DEVICE_TYPE"/>?</translation>
-<translation id="2739030071582769583">Kui lülitate teenuse Smart Lock seadmes <ph name="DEVICE_TYPE"/> välja, siis ei saa te Dissenter'i seadmeid telefoniga avada. Sel juhul peate sisestama parooli.</translation>
+<translation id="2739030071582769583">Kui lülitate teenuse Smart Lock seadmes <ph name="DEVICE_TYPE"/> välja, siis ei saa te Fulldive'i seadmeid telefoniga avada. Sel juhul peate sisestama parooli.</translation>
 <translation id="4737715515457435632">Looge ühendus võrguga</translation>
 <translation id="5425722269016440406">Smart Locki väljalülitamiseks peab teil olema võrguühendus, kuna see seade on sünkroonitud teie telefoni ja muude seadmetega. Looge esmalt ühendus võrguga.</translation>
 <translation id="8885197664446363138">Smart Lock pole saadaval</translation>
@@ -4136,20 +4136,20 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="3633309367764744750">Hangib lehtedelt (sh nendelt, mida te pole veel külastanud) teavet ette. Hangitud teave võib hõlmata küpsisefaile, kui olete need lubanud.</translation>
 <translation id="3201899458094819285">Ohutu sirvimine (kaitseb teid ja teie seadet ohtlike saitide eest)</translation>
 <translation id="2876369937070532032">Saadab mõnede teie külastatud lehtede URL-id Gab AI Inc'ile, kui teie turvalisus ohtu satub</translation>
-<translation id="4991384657077828949">Aidake Dissenter'i turvalisust täiustada</translation>
+<translation id="4991384657077828949">Aidake Fulldive'i turvalisust täiustada</translation>
 <translation id="1984646864943401749">Saadab mõne teie külastatud lehe URL-i, piiratud süsteemiteabe ja mõne lehe sisu Gab AI Inc'ile, et aidata avastada uusi ohte ja veebis kõiki kaitsta.</translation>
 <translation id="1641113438599504367">Ohutu sirvimine</translation>
 <translation id="6900532703269623216">Parem kaitse</translation>
 <translation id="7307583170263691471">Kiirem ennetav kaitse ohtlike veebisaitide, allalaadimiste ja laienduste vastu. Hoiatab teid parooliga seotud rikkumistest. Selleks peab sirvimisandmete Gab AI Inc'ile saatmine olema lubatud.</translation>
 <translation id="8645920082661222035">Ennustab ohtlikke sündmusi ja hoiatab teid</translation>
-<translation id="5265419033369521352">Kaitseb teid Dissenter'is ja seda võidakse kasutada teie turvalisuse suurendamiseks muudes Gab AI Inc'i rakendustes, kui olete sisse logitud</translation>
+<translation id="5265419033369521352">Kaitseb teid Fulldive'is ja seda võidakse kasutada teie turvalisuse suurendamiseks muudes Gab AI Inc'i rakendustes, kui olete sisse logitud</translation>
 <translation id="6770602306803890733">Täiendab turvalisust teie ja kõigi teiste veebikasutajate jaoks</translation>
 <translation id="3690369331356918524">Hoiatab teid, kui paroolid andmetega seotud rikkumise käigus avalikustatakse</translation>
 <translation id="4979281249641199724">Saadab URL-id kontrollimiseks teenusesse Gab AI Inc'i ohutu sirvimine. Saadab ka lehtede, allalaadimiste, laienduste tegevuse ja süsteemi teabe näidiseid, et aidata uusi ohte tuvastada. Kui olete sisse logitud, lingitakse andmed ajutiselt teie Gab AI Inc'i kontoga, et kaitsta teid kõigis Gab AI Inc'i rakendustes.</translation>
 <translation id="1963976881984600709">Standardne kaitse</translation>
 <translation id="6882836635272038266">Standardne kaitse teadaolevalt ohtlike veebisaitide, allalaadimiste ja laienduste vastu.</translation>
 <translation id="5561162485081632007">Tuvastab ohtlikke sündmusi ja hoiatab teid enne, kui need juhtuvad</translation>
-<translation id="7810992039564280750">Kontrollib URL-e Dissenter'i talletatud ohtlike saitide loendi alusel. Kui sait üritab teie parooli varastada või laadite alla kahjuliku faili, võib Dissenter saata URL-id ja lehe sisu osad teenusesse Gab AI Inc'i ohutu sirvimine.</translation>
+<translation id="7810992039564280750">Kontrollib URL-e Fulldive'i talletatud ohtlike saitide loendi alusel. Kui sait üritab teie parooli varastada või laadite alla kahjuliku faili, võib Fulldive saata URL-id ja lehe sisu osad teenusesse Gab AI Inc'i ohutu sirvimine.</translation>
 <translation id="3847319713229060696">Aidake veebi kõigi jaoks turvalisemaks muuta</translation>
 <translation id="1984417487208496350">Kaitseta (ei ole soovitatav)</translation>
 <translation id="1295971429974142731">Ei kaitse teid ohtlike veebisaitide, allalaadimiste ega laienduste eest. Gab AI Inc'i ohutu sirvimine kaitseb teid siiski muudes Gab AI Inc'i teenustes, kus see saadaval on (nt Gmail ja Otsing).</translation>
@@ -4205,7 +4205,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="8632933437936028548">Seadete lähtestamine</translation>
 <translation id="5293170712604732402">Seadete taastamine algsetele vaikevalikutele</translation>
 <translation id="892706138619340876">Mõned seaded lähtestati</translation>
-<translation id="2334029754052191847">Dissenter tuvastas, et teine programm rikkus teie seadeid, ja lähtestas need algsetele vaikevalikutele.</translation>
+<translation id="2334029754052191847">Fulldive tuvastas, et teine programm rikkus teie seadeid, ja lähtestas need algsetele vaikevalikutele.</translation>
 <translation id="4582563038311694664">Lähtesta kõik seaded</translation>
 <translation id="4146785383423576110">Lähtestamine ja puhastamine</translation>
 <translation id="2603115962224169880">Puhasta arvuti</translation>
@@ -4274,7 +4274,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5340638867532133571">Luba saitidel maksetöötlejaid installida (soovitatav)</translation>
 <translation id="763632859238619983">Ära luba ühelgi saidil maksetöötlejaid installida</translation>
 <translation id="8270242299912238708">PDF-dokumendid</translation>
-<translation id="539658326146969381">Laadige PDF-failid alla selle asemel, et need Dissenter'is automaatselt avada</translation>
+<translation id="539658326146969381">Laadige PDF-failid alla selle asemel, et need Fulldive'is automaatselt avada</translation>
 <translation id="4434045419905280838">Hüpikaknad ja ümbersuunamised</translation>
 <translation id="6612358246767739896">Kaitstud sisu</translation>
 <translation id="4252852543720145436">Kaitstud sisu identifikaatorid</translation>
@@ -4335,7 +4335,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="2913331724188855103">Lubab saitidel salvestada küpsiseid ja lugeda küpsiste andmeid (soovitatav)</translation>
 <translation id="5908769186679515905">Keela Flashi käitamine saitidel</translation>
 <translation id="783214144752121388">Blokeeri Flashi käitamine saitidel (soovitatav)</translation>
-<translation id="6096007141921397775">Teie Flashi seaded säilitatakse kuni Dissenter'ist väljumiseni.</translation>
+<translation id="6096007141921397775">Teie Flashi seaded säilitatakse kuni Fulldive'ist väljumiseni.</translation>
 <translation id="8074127646604999664">Luba hiljuti suletud saitidel lõpetada andmete saatmine ja vastuvõtmine</translation>
 <translation id="7062222374113411376">Luba hiljuti suletud saitidel lõpetada andmete saatmine ja vastuvõtmine (soovitatav)</translation>
 <translation id="5068918910148307423">Ära luba hiljuti suletud saitidel lõpetada andmete saatmist ega vastuvõtmist</translation>
@@ -4415,7 +4415,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5566692924079383101">See erand eemaldatakse automaatselt pärast praegusest inkognito seansist väljumist.</translation>
 <translation id="383891835335927981">Ühtegi saiti pole sisse ega välja suumitud</translation>
 <translation id="3566721612727112615">Ühtegi saiti ei lisatud</translation>
-<translation id="8098574385249290065">Luba Dissenter'il valida, millal saidid võivad heli esitada (soovitatav)</translation>
+<translation id="8098574385249290065">Luba Fulldive'il valida, millal saidid võivad heli esitada (soovitatav)</translation>
 <translation id="4354344420232759511">Külastatud saidid kuvatakse siin</translation>
 <translation id="3757733214359997190">Saite ei leitud</translation>
 <translation id="6545864417968258051">Bluetoothi otsimine</translation>
@@ -4428,7 +4428,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">Saidi lisamine</translation>
 <translation id="5052499409147950210">Saidi muutmine</translation>
-<translation id="4610862967073369855">Lubab rakendusel Android Messages tekstisõnumeid telefonist Dissenterbooki edastada</translation>
+<translation id="4610862967073369855">Lubab rakendusel Android Messages tekstisõnumeid telefonist Fulldivebooki edastada</translation>
 <translation id="6742339027238151589">Kättesaadav skripti jaoks</translation>
 <translation id="361106536627977100">Flashi andmed</translation>
 <translation id="8557930019681227453">Manifest</translation>
@@ -4440,7 +4440,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="8016266267177410919">Ajutine salvestusruum</translation>
 <translation id="4175737294868205930">Püsiv salvestusruum</translation>
 <translation id="8397843425685839889">Teie ja Gab AI Inc</translation>
-<translation id="8907706281008466056">Dissenter’i profiilifoto</translation>
+<translation id="8907706281008466056">Fulldive’i profiilifoto</translation>
 <translation id="2023167225947895179">PIN-koodi võib olla lihtne ära arvata</translation>
 <translation id="5342091991439452114">PIN-kood peab olema vähemalt <ph name="MINIMUM"/> numbrit</translation>
 <translation id="5252653240322147470">PIN-kood peab olema lühem kui <ph name="MAXIMUM"/> numbrit</translation>
@@ -4505,23 +4505,23 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="3817524650114746564">Avage oma arvuti puhverserveri seaded</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> kasutab laienduse puhverserveri seadeid</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> kasutab teie administraatori puhverserveri seadeid</translation>
-<translation id="6187156085111579405">Siinsest loendist puuduvad üksused võib vajaduse korral ka eemaldada. Vaadake lisateavet &lt;a href="<ph name="URL"/>"&gt;soovimatu tarkvara vastase kaitse&lt;/a&gt; kohta Dissenter'i privaatsusjuhendist.</translation>
+<translation id="6187156085111579405">Siinsest loendist puuduvad üksused võib vajaduse korral ka eemaldada. Vaadake lisateavet &lt;a href="<ph name="URL"/>"&gt;soovimatu tarkvara vastase kaitse&lt;/a&gt; kohta Fulldive'i privaatsusjuhendist.</translation>
 <translation id="5280174558369304332">Eemaldatavad laiendused:</translation>
 <translation id="7712836429117959503">Tundmatu laiend ID-ga <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">Karantiini pandavad failid ja programmid:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 üksus}other{{NUM_ITEMS} üksust}}</translation>
 <translation id="7187428571767585875">Eemaldatavad või muudetavad registrikanded:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{Veel 1}other{Veel {NUM_DOWNLOADS}}}</translation>
-<translation id="2749608811030566578">Dissenter'is ilmnes ohtliku tarkvara eemaldamisel viga</translation>
-<translation id="8189483132214844139">Dissenter võib teie arvutist otsida kahjulikku tarkvara ja selle eemaldada</translation>
+<translation id="2749608811030566578">Fulldive'is ilmnes ohtliku tarkvara eemaldamisel viga</translation>
+<translation id="8189483132214844139">Fulldive võib teie arvutist otsida kahjulikku tarkvara ja selle eemaldada</translation>
 <translation id="1426870617281699524">Klõpsake käsul Proovi uuesti ja nõustuge arvutis kuvatud viibaga</translation>
-<translation id="7886744396008377537">Teie arvutis on kahjulik tarkvara. Dissenter eemaldab selle, taastab teie seaded ja keelab laiendused. See taastab teie brauseri normaalse toimimise.</translation>
-<translation id="1484912962860902625">Dissenter'is ohtliku tarkvara otsimisel ilmnes viga</translation>
+<translation id="7886744396008377537">Teie arvutis on kahjulik tarkvara. Fulldive eemaldab selle, taastab teie seaded ja keelab laiendused. See taastab teie brauseri normaalse toimimise.</translation>
+<translation id="1484912962860902625">Fulldive'is ohtliku tarkvara otsimisel ilmnes viga</translation>
 <translation id="451407183922382411">Toetab <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">Kuva eemaldatavad failid</translation>
 <translation id="296026337010986570">Valmis! Ohtlik tarkvara eemaldati. Laienduste uuesti sisselülitamiseks avage leht &lt;a href="chrome://extensions"&gt;Laiendused&lt;/a&gt;.</translation>
 <translation id="284975061945174219">Tühjendamine ebaõnnestus</translation>
-<translation id="9014750448058570312">Dissenter vajab jätkamiseks luba</translation>
+<translation id="9014750448058570312">Fulldive vajab jätkamiseks luba</translation>
 <translation id="1852141627593563189">Otsi kahjulikku tarkvara</translation>
 <translation id="850875081535031620">Ohtlikku tarkvara ei leitud</translation>
 <translation id="1186771945450942097">Kahjuliku tarkvara eemaldamine</translation>
@@ -4534,7 +4534,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6555810572223193255">Puhastamine ei ole praegu saadaval</translation>
 <translation id="7117228822971127758">Proovige hiljem uuesti</translation>
 <translation id="443475966875174318">Ühildumatute rakenduste värskendamine või eemaldamine</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Rakendus võib takistada Dissenter'i õiget toimimist.}other{Need rakendused võivad takistada Dissenter'i õiget toimimist.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{Rakendus võib takistada Fulldive'i õiget toimimist.}other{Need rakendused võivad takistada Fulldive'i õiget toimimist.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{Kui soovite jätkuvalt veebi sirvida, paluge administraatoril see rakendus eemaldada.}other{Kui soovite jätkuvalt veebi sirvida, paluge administraatoril need rakendused eemaldada.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>Vaadake, kuidas rakendusi värskendada<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{Rakendus}other{Rakendused}}</translation>
@@ -4617,13 +4617,13 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="284843628681142937">Saadab Gab AI Inc'ile teie külastatud lehtede URL-id</translation>
 <translation id="7704317875155739195">Otsingute ja URL-ide automaatne täitmine</translation>
 <translation id="2000419248597011803">Saadab teie vaikeotsingumootorile mõned küpsisefailid ja otsingud teie aadressiribalt ning otsingukastist</translation>
-<translation id="918192811481327695">Aidake täiustada Dissenter'i funktsioone ja toimivust</translation>
+<translation id="918192811481327695">Aidake täiustada Fulldive'i funktsioone ja toimivust</translation>
 <translation id="9063160602596686558">Gab AI Inc'ile saadetakse automaatselt kasutusstatistikat ja krahhiaruandeid</translation>
 <translation id="6697492270171225480">Kui lehte ei leita, kuvatakse sarnaste lehtede soovitusi</translation>
 <translation id="4534361985432360439">Saadab Gab AI Inc'ile teie soovitud lehe veebiaadressi.</translation>
 <translation id="3831436149286513437">Gab AI Inc Drive'i otsingusoovitused</translation>
 <translation id="5244474230056479698">Sünkroonimine aadressiga <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Gab AI Inc'i nutikus Dissenter'is</translation>
+<translation id="9125982323641182972">Gab AI Inc'i nutikus Fulldive'is</translation>
 <translation id="2537178555904266562">Viga paroolide sünkroonimisel</translation>
 <translation id="4314815835985389558">Sünkroonimise haldamine</translation>
 <translation id="8931475688782629595">Hallake, mida sünkroonite</translation>
@@ -4641,7 +4641,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1651008383952180276">Peate sisestama sama parooli kaks korda</translation>
 <translation id="988978206646512040">Tühi parool ei ole lubatud</translation>
 <translation id="2136476978468204130">Sisestatud parool on vale</translation>
-<translation id="7505421639213002314">Dissenter'i sünkroonimise teave</translation>
+<translation id="7505421639213002314">Fulldive'i sünkroonimise teave</translation>
 <translation id="452750746583162491">Vaadake oma sünkroonitud andmed üle</translation>
 <translation id="7956662517480676674">Sünkroonimine ja Gab AI Inc'i teen.</translation>
 <translation id="7772032839648071052">Kinnitage parool</translation>
@@ -4740,7 +4740,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1992397118740194946">Pole määratud</translation>
 <translation id="6706210727756204531">Ulatus</translation>
 <translation id="5532223876348815659">Üldine</translation>
-<translation id="300669147395456190">Dissenter'i rakendused</translation>
+<translation id="300669147395456190">Fulldive'i rakendused</translation>
 <translation id="6787839852456839824">Klaviatuuri otseteed</translation>
 <translation id="6419546358665792306">Laadi lahti pakkimata</translation>
 <translation id="8023801379949507775">Värskenda laiendusi kohe</translation>
@@ -4754,13 +4754,13 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="8447409163267621480">Kaasake Ctrl või Alt</translation>
 <translation id="3365598184818502391">Kasutage klahvi Ctrl või Alt</translation>
 <translation id="1688935057616748272">Sisestage täht</translation>
-<translation id="1579879232130925590">Tervem ja rõõmsam Dissenter</translation>
+<translation id="1579879232130925590">Tervem ja rõõmsam Fulldive</translation>
 <translation id="964057662886721376">Mõned laiendused (eriti need, mida te ei installinud tahtlikult) võivad seadet aeglustada.</translation>
 <translation id="1499271269825557605">Kui laiendus on teile võõras või brauser ei tööta ootuspäraselt, saate siin laiendusi kohandada või need välja lülitada.</translation>
 <translation id="2382818385048255866">Laienduste kontrollimine</translation>
 <translation id="3900789207771372462">Mõni laiendus näeb teie sirvimistegevusi, sh isiklikke andmeid.</translation>
 <translation id="6772339735733515807">Laienduste haldamine</translation>
-<translation id="1510515462062582289">Sellel lehel näete kõiki Dissenter'i installitud laiendusi.</translation>
+<translation id="1510515462062582289">Sellel lehel näete kõiki Fulldive'i installitud laiendusi.</translation>
 <translation id="2810390687497823527">Kui laiendus on teile võõras või brauser ei tööta ootuspäraselt, saate siin laiendusi kohandada või need välja lülitada.</translation>
 <translation id="4479424953165245642">Halda kioski rakendusi</translation>
 <translation id="6619801788773578757">Kioskirakenduse lisamine</translation>
@@ -4776,7 +4776,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="2342740338116612727">Järjehoidjad on lisatud</translation>
 <translation id="7835178595033117206">Järjehoidja on eemaldatud</translation>
 <translation id="742130257665691897">Järjehoidjad on eemaldatud</translation>
-<translation id="5468853758063275923">Dissenter on teie vaikebrauser</translation>
+<translation id="5468853758063275923">Fulldive on teie vaikebrauser</translation>
 <translation id="2950533317914339731">Lisage oma Gab AI Inc'i lemmikrakenduste järjehoidjad</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4791,13 +4791,13 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5033266061063942743">Geomeetrilised kujundid</translation>
 <translation id="7789963078219276159">Avalehe taustaks määrati <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Avalehe taust lähtestati vaiketaustale.</translation>
-<translation id="239760341987199724">Määra Dissenter vaikebrauseriks</translation>
+<translation id="239760341987199724">Määra Fulldive vaikebrauseriks</translation>
 <translation id="96037229054033864">Gab AI Inc'i otsing ja teadmised on sirvides alati käepärast</translation>
-<translation id="296137235951584143">Isikupärastage Dissenter'i</translation>
+<translation id="296137235951584143">Isikupärastage Fulldive'i</translation>
 <translation id="3982375475032951137">Seadistage brauser vaid mõne lihtsa sammuga</translation>
 <translation id="6972754398087986839">Alustamine</translation>
-<translation id="3707821975049107110">Kas olete juba Dissenter'i kasutaja? Logige sisse</translation>
-<translation id="7113572760575285642">Teie Dissenter, kõikjal</translation>
+<translation id="3707821975049107110">Kas olete juba Fulldive'i kasutaja? Logige sisse</translation>
+<translation id="7113572760575285642">Teie Fulldive, kõikjal</translation>
 <translation id="567643736130151854">Logige sisse ning lülitage sisse sünkroonimine, et kõikides oma seadmetes kasutada järjehoidjaid, paroole ja muud</translation>
 <translation id="725758059478686223">Printimisteenus</translation>
 <translation id="15662109988763471">Valitud printer pole saadaval või pole õigesti installitud. Kontrollige printerit või valige teine printer.</translation>
@@ -4920,7 +4920,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="7574650250151586813">Teksti sisestamiseks uuendage Daydreami klaviatuuri rakendust.</translation>
 <translation id="983511809958454316">Seda funktsiooni VR-režiimis ei toetata</translation>
 <translation id="4008291085758151621">Saidi teave ei ole VR-režiimis saadaval</translation>
-<translation id="1439926347196400598">Kas lubada Dissenter'il heli salvestada?</translation>
+<translation id="1439926347196400598">Kas lubada Fulldive'il heli salvestada?</translation>
 <translation id="6313641880021325787">VÄLJU VR-REŽIIMIST</translation>
 <translation id="2670429602441959756">See leht sisaldab funktsioone, mida VR veel ei toeta. Väljumine …</translation>
 <translation id="1802687198411089702">Leht ei reageeri. Võite oodata või väljuda.</translation>
@@ -4942,7 +4942,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1721312023322545264">Vajate saidi külastamiseks halduri <ph name="NAME"/> luba</translation>
 <translation id="7543525346216957623">Küsige vanematelt abi</translation>
 <translation id="471880041731876836">Teil ei ole selle saidi külastamiseks luba</translation>
-<translation id="3480834636742786788">Enne selle rakenduse kasutamist alustage ja logige Dissenter'i sisse.</translation>
+<translation id="3480834636742786788">Enne selle rakenduse kasutamist alustage ja logige Fulldive'i sisse.</translation>
 <translation id="2851634818064021665">Vajate selle saidi külastamiseks luba</translation>
 <translation id="4933782374919065856">Kas teil on küsimusi? Võtke ühendust profiili operaatoriga.</translation>
 <translation id="2712173769900027643">Küsi luba</translation>
@@ -4962,7 +4962,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="7755287808199759310">Vanem saab blokeeringu teie eest tühistada</translation>
 <translation id="5732392974455271431">Vanemad saavad blokeeringu teie eest tühistada</translation>
 <translation id="3556433843310711081">Haldur saab blokeeringu teie eest tühistada</translation>
-<translation id="1254756632288991504">Alustage ja logige Dissenter'i sisse, et Dissenter saaks kontrollida, kas teil on luba sellele saidile juurdepääsemiseks.</translation>
+<translation id="1254756632288991504">Alustage ja logige Fulldive'i sisse, et Fulldive saaks kontrollida, kas teil on luba sellele saidile juurdepääsemiseks.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> on peatatud</translation>
 <translation id="8015163965024115122">Sinu vanema määratud teenuse <ph name="IDS_SHORT_PRODUCT_NAME"/> või <ph name="IDS_SHORT_PRODUCT_NAME"/> rakenduste limiit sai täis.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> on peatatud</translation>

@@ -22,7 +22,7 @@
 <translation id="5342314432463739672">İzin istekleri</translation>
 <translation id="3749259744154402564">Desteklenmiyor</translation>
 <translation id="629730747756840877">Hesap</translation>
-<translation id="82609232232243542">Dissenter'da oturum aç</translation>
+<translation id="82609232232243542">Fulldive'da oturum aç</translation>
 <translation id="7956662517480676674">Senkronizasyon ve Gab AI Inc hizmetleri</translation>
 <translation id="5294439808117722387">Şu anda Senkronizasyon ve Gab AI Inc hizmet ayarlarınızı özelleştiriyorsunuz. Senkronizasyonu etkinleştirme işlemini tamamlamak için ekranın altına yakın bir yerde bulunan Onayla düğmesine dokunun. Yukarı git</translation>
 <translation id="2096012225669085171">Cihazlar arasında senkronizasyon ve kişiselleştirme</translation>
@@ -34,7 +34,7 @@
 <translation id="6303969859164067831">Oturumu ve senkronizasyonu kapat</translation>
 <translation id="1125261911132334651">Gab AI Inc Hesabınızı yönetin</translation>
 <translation id="6406506848690869874">Senkronizasyon</translation>
-<translation id="714362445477979774">Dissenter verilerimi senkronize et</translation>
+<translation id="714362445477979774">Fulldive verilerimi senkronize et</translation>
 <translation id="4314815835985389558">Senkronizasyonu yönetin</translation>
 <translation id="5428209950370661546">Diğer Gab AI Inc hizmetleri</translation>
 <translation id="7704317875155739195">Aramaları ve URL'leri otomatik tamamla</translation>
@@ -46,7 +46,7 @@
 <translation id="8438566539970814960">Aramaları ve göz atmayı daha iyi yap</translation>
 <translation id="284843628681142937">Ziyaret ettiğiniz sayfaların URL'lerini Gab AI Inc'a gönderir</translation>
 <translation id="7222718784508482526">Gizlilik, güvenlik ve veri toplamayla ilgili daha fazla ayar için <ph name="BEGIN_LINK"/>Senkronizasyon ve Gab AI Inc hizmetleri<ph name="END_LINK"/> konusuna bakın</translation>
-<translation id="918192811481327695">Dissenter'un özelliklerini ve performansını iyileştirmeye yardımcı olun</translation>
+<translation id="918192811481327695">Fulldive'un özelliklerini ve performansını iyileştirmeye yardımcı olun</translation>
 <translation id="9063160602596686558">Kullanım istatistiklerini ve kilitlenme raporlarını Gab AI Inc'a otomatik olarak gönderir</translation>
 <translation id="4824958205181053313">Senkronizasyon iptal edilsin mi?</translation>
 <translation id="3058498974290601450">Senkronizasyonu istediğiniz zaman ayarlardan açabilirsiniz</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">Kart numarası</translation>
 <translation id="869891660844655955">Son kullanma tarihi</translation>
 <translation id="2286841657746966508">Fatura adresi</translation>
-<translation id="663059986967017181">Dissenter'a kopyalandı</translation>
+<translation id="663059986967017181">Fulldive'a kopyalandı</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 ve <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ödeme yöntemi daha}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 ve <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ödeme yöntemi daha}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 ve <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> adres daha}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 ve <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> adres daha}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 ve <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> seçenek daha}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 ve <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> seçenek daha}}</translation>
@@ -112,7 +112,7 @@
 <translation id="6154478581116148741">Bu cihazdaki şifrelerinizi dışarı aktarmak için Ayarlar'da ekran kilidini açın</translation>
 <translation id="4842092870884894799">Şifre oluşturma pop-up'ı gösteriliyor</translation>
 <translation id="2259659629660284697">Şifreleri dışa aktar…</translation>
-<translation id="133012818630824069">Dissenter'da depolanan şifreleri dışa aktarın</translation>
+<translation id="133012818630824069">Fulldive'da depolanan şifreleri dışa aktarın</translation>
 <translation id="6914783257214138813">Şifreleriniz, dışa aktarılan dosyayı görebilen herkes tarafından görülebilir.</translation>
 <translation id="2321086116217818302">Şifreler hazırlanıyor…</translation>
 <translation id="8445448999790540984">Şifreler dışa aktarılamıyor</translation>
@@ -123,11 +123,11 @@
 <translation id="6891726759199484455">Şifrenizi kopyalamak için kilidi açın</translation>
 <translation id="5515439363601853141">Şifrenizi görüntülemek için kilidi açın</translation>
 <translation id="6221633008163990886">Şifrelerinizi dışa aktarmak için kilit açılamadı</translation>
-<translation id="230699814587342492">Dissenter Şifreleri</translation>
+<translation id="230699814587342492">Fulldive Şifreleri</translation>
 <translation id="1925021887439448749">Özel web adresini girin</translation>
 <translation id="8127542551745560481">Ana sayfayı düzenle</translation>
 <translation id="854522910157234410">Şu sayfayı aç:</translation>
-<translation id="5063487983358782016">Dissenter’un ana sayfası</translation>
+<translation id="5063487983358782016">Fulldive’un ana sayfası</translation>
 <translation id="2482878487686419369">Bildirimler</translation>
 <translation id="6255999984061454636">İçerik önerileri</translation>
 <translation id="805047784848435650">Tarama geçmişinize dayalı</translation>
@@ -139,8 +139,8 @@
 <translation id="2760989362628427051">Cihazınızın koyu tema veya Pil Tasarrufu özelliği açık olduğunda koyu tema açılır</translation>
 <translation id="6381421346744604172">Web sitelerini karart</translation>
 <translation id="5040262127954254034">Gizlilik</translation>
-<translation id="4991384657077828949">Dissenter güvenliğini iyileştirmeye yardımcı olun</translation>
-<translation id="1943176487615318915">Dissenter, tehlikeli uygulamaları ve siteleri algılamak için Gab AI Inc'a ziyaret ettiğiniz bazı sitelerin URL'lerini, sınırlı sistem bilgisini ve bazı sayfa içeriklerini gönderir.</translation>
+<translation id="4991384657077828949">Fulldive güvenliğini iyileştirmeye yardımcı olun</translation>
+<translation id="1943176487615318915">Fulldive, tehlikeli uygulamaları ve siteleri algılamak için Gab AI Inc'a ziyaret ettiğiniz bazı sitelerin URL'lerini, sınırlı sistem bilgisini ve bazı sayfa içeriklerini gönderir.</translation>
 <translation id="3201899458094819285">Gizli Göz Atma (sizi ve cihazınızı tehlikelerden korur)</translation>
 <translation id="2876369937070532032">Güvenliğiniz risk altında olduğunda ziyaret ettiğiniz bazı sayfaların URL'lerini Gab AI Inc'a gönderir</translation>
 <translation id="3738139272394829648">Dokun ve Ara</translation>
@@ -160,8 +160,8 @@ Arama yapmak için herhangi bir kelimeye dokunup basılı tutun. Aramanızı has
 <translation id="7359002509206457351">Ödeme yöntemlerine erişim</translation>
 <translation id="8026334261755873520">Tarama verilerini temizle</translation>
 <translation id="1291207594882862231">Geçmişi, çerezleri, site verilerini, önbelleği temizleyin…</translation>
-<translation id="7814200940910057384">Dissenter verileri temizlendi</translation>
-<translation id="1664855196866195614">Seçilen veriler Dissenter'dan ve senkronize edilen cihazlarınızdan kaldırıldı.
+<translation id="7814200940910057384">Fulldive verileri temizlendi</translation>
+<translation id="1664855196866195614">Seçilen veriler Fulldive'dan ve senkronize edilen cihazlarınızdan kaldırıldı.
 
 Diğer Gab AI Inc hizmetlerinden yapılan aramalar ve etkinlikler gibi Gab AI Inc hesabınızla ilişkili başka biçimlerde tarama geçmişi <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> adresinde bulunabilir.</translation>
 <translation id="4699172675775169585">Önbelleğe alınan resimler ve dosyalar</translation>
@@ -311,12 +311,12 @@ Diğer Gab AI Inc hizmetlerinden yapılan aramalar ve etkinlikler gibi Gab AI In
 <translation id="8156139159503939589">Hangi dillerde okuyabiliyorsunuz?</translation>
 <translation id="5689516760719285838">Konum</translation>
 <translation id="2440823041667407902">Konum erişimi</translation>
-<translation id="2023546461831060654"><ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'nda Dissenter için izinleri açın.</translation>
-<translation id="6665548517310046133"><ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'nda Dissenter için izni açın.</translation>
-<translation id="2928908108430545745">Dissenter'un konumunuza erişebilmesi için <ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'nda da konumu açın.</translation>
-<translation id="1028853271388022585">Dissenter'un kameranıza erişebilmesi için <ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'ında da kamerayı açın.</translation>
-<translation id="2913721282607281710">Dissenter'un size bildirim gönderebilmesi için <ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'nda da bildirimleri açın.</translation>
-<translation id="8753483718490035722">Dissenter'un mikrofonunuza erişebilmesi için <ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'nda da mikrofonu açın.</translation>
+<translation id="2023546461831060654"><ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'nda Fulldive için izinleri açın.</translation>
+<translation id="6665548517310046133"><ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'nda Fulldive için izni açın.</translation>
+<translation id="2928908108430545745">Fulldive'un konumunuza erişebilmesi için <ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'nda da konumu açın.</translation>
+<translation id="1028853271388022585">Fulldive'un kameranıza erişebilmesi için <ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'ında da kamerayı açın.</translation>
+<translation id="2913721282607281710">Fulldive'un size bildirim gönderebilmesi için <ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'nda da bildirimleri açın.</translation>
+<translation id="8753483718490035722">Fulldive'un mikrofonunuza erişebilmesi için <ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'nda da mikrofonu açın.</translation>
 <translation id="1887786770086287077">Konum erişimi bu cihaz için kapalı. Konum erişimini <ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'ndan açın.</translation>
 <translation id="2570922361219980984">Konum erişimi bu cihaz için de kapalı. Konum erişimini <ph name="BEGIN_LINK"/>Android Ayarları<ph name="END_LINK"/>'ndan açın.</translation>
 <translation id="1620510694547887537">Kamera</translation>
@@ -334,8 +334,8 @@ Diğer Gab AI Inc hizmetlerinden yapılan aramalar ve etkinlikler gibi Gab AI In
 <translation id="7821588508402923572">Veri tasarruflarınız burada görünür</translation>
 <translation id="2131665479022868825"><ph name="DATA"/> tasarruf edildi</translation>
 <translation id="8569404424186215731"><ph name="DATE"/> tarihinden bu yana</translation>
-<translation id="3252158532344029638">Dissenter, Basit modda sayfaları daha hızlı yükler ve yüzde 60'a kadar daha az veri kullanır.</translation>
-<translation id="1438581767753657407">Lite modu açık olduğunda Dissenter, sayfaların daha hızlı yüklenmesini sağlamak için Dissenter sunucularını kullanır. Lite modu, yalnızca gerekli içeriği yüklemek için çok yavaş sayfaları yeniden yazar. Lite modu, Gizli sekmelere uygulanmaz.</translation>
+<translation id="3252158532344029638">Fulldive, Basit modda sayfaları daha hızlı yükler ve yüzde 60'a kadar daha az veri kullanır.</translation>
+<translation id="1438581767753657407">Lite modu açık olduğunda Fulldive, sayfaların daha hızlı yüklenmesini sağlamak için Fulldive sunucularını kullanır. Lite modu, yalnızca gerekli içeriği yüklemek için çok yavaş sayfaları yeniden yazar. Lite modu, Gizli sekmelere uygulanmaz.</translation>
 <translation id="6159335304067198720"><ph name="PERCENT"/> veri tasarrufu</translation>
 <translation id="7494974237137038751">tasarruf edilen veri miktarı</translation>
 <translation id="6111020039983847643">kullanılan veri miktarı</translation>
@@ -358,15 +358,15 @@ Diğer Gab AI Inc hizmetlerinden yapılan aramalar ve etkinlikler gibi Gab AI In
 <translation id="3658159451045945436">Sıfırlama işlemi, ziyaret edilen sitelerin listesi de dahil olmak üzere veri tasarrufu geçmişinizi siler.</translation>
 <translation id="5939518447894949180">Sıfırla</translation>
 <translation id="3295530008794733555">Daha hızlı tarayın. Daha az veri kullanın.</translation>
-<translation id="7340390500800578919">Dissenter, Basit modda sayfaları daha hızlı yükler ve yüzde 60'a kadar daha az veri kullanır. Dissenter, ziyaret ettiğiniz sayfaları iyileştirmek için web trafiğinizi Gab AI Inc'a gönderir. <ph name="BEGIN_LINK"/>Daha fazla bilgi<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">Fulldive, Basit modda sayfaları daha hızlı yükler ve yüzde 60'a kadar daha az veri kullanır. Fulldive, ziyaret ettiğiniz sayfaları iyileştirmek için web trafiğinizi Gab AI Inc'a gönderir. <ph name="BEGIN_LINK"/>Daha fazla bilgi<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Basit modu aç</translation>
 <translation id="4493497663118223949">Basit mod açık</translation>
 <translation id="7559975015014302720">Basit mod kapalı</translation>
 <translation id="7606077192958116810">Basit mod açık. Bunu Ayarlar'dan yönetebilirsiniz.</translation>
 <translation id="4714588616299687897">%60'a kadar veri tasarrufu sağlayın</translation>
 <translation id="1006927014032731288">Gab AI Inc sunucuları ziyaret ettiğiniz sayfaları optimize eder.</translation>
-<translation id="3257320067425202300">Dissenter <ph name="MEGABYTES"/> MB tasarruf sağladı</translation>
-<translation id="5813223329348543512">Dissenter <ph name="GIGABYTES"/> GB tasarruf sağladı</translation>
+<translation id="3257320067425202300">Fulldive <ph name="MEGABYTES"/> MB tasarruf sağladı</translation>
+<translation id="5813223329348543512">Fulldive <ph name="GIGABYTES"/> GB tasarruf sağladı</translation>
 <translation id="8266862848225348053">İndirme konumu</translation>
 <translation id="7077143737582773186">SD kart</translation>
 <translation id="7762668264895820836">SD Kart <ph name="SD_CARD_NUMBER"/></translation>
@@ -392,15 +392,15 @@ Diğer Gab AI Inc hizmetlerinden yapılan aramalar ve etkinlikler gibi Gab AI In
 <translation id="7290209999329137901">Yeniden adlandırma yapılamıyor</translation>
 <translation id="3334729583274622784">Dosya uzantısı değiştirilsin mi?</translation>
 <translation id="107147699690128016">Dosya uzantısını değiştirirseniz dosya farklı bir uygulamada açılabilir ve cihazınız için tehlikeli olabilir.</translation>
-<translation id="8541922081612557424">Dissenter hakkında</translation>
+<translation id="8541922081612557424">Fulldive hakkında</translation>
 <translation id="5311273890481188673">Telif hakkı <ph name="YEAR"/> Gab AI Inc LLC. Tüm hakları saklıdır.</translation>
 <translation id="1416550906796893042">Uygulama sürümü</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (<ph name="TIME_SINCE_UPDATE"/> güncellendi)</translation>
 <translation id="7596558890252710462">İşletim sistemi</translation>
-<translation id="3968054912784331254">Dissenter güncellemeleri Android'in bu sürümü için artık desteklenmiyor</translation>
+<translation id="3968054912784331254">Fulldive güncellemeleri Android'in bu sürümü için artık desteklenmiyor</translation>
 <translation id="7665369617277396874">Hesap ekle</translation>
 <translation id="649070405679044769">Gab AI Inc'da şu hesapla oturum açıldı:</translation>
-<translation id="6234515504547364178">Dissenter oturumunu kapatma</translation>
+<translation id="6234515504547364178">Fulldive oturumunu kapatma</translation>
 <translation id="5324858694974489420">Ebeveyn Ayarları</translation>
 <translation id="8920114477895755567">Ebeveyn ayrıntıları bekleniyor.</translation>
 <translation id="5512137114520586844">Bu hesap <ph name="PARENT_NAME"/> tarafından yönetiliyor.</translation>
@@ -409,7 +409,7 @@ Diğer Gab AI Inc hizmetlerinden yapılan aramalar ve etkinlikler gibi Gab AI In
 <translation id="5403644198645076998">Yalnızca belirli sitelere izin ver</translation>
 <translation id="8641930654639604085">Yetişkinlere yönelik siteleri engellemeyi dene</translation>
 <translation id="5639724618331995626">Tüm sitelere izin ver</translation>
-<translation id="796823723482603597">Dissenter tarafından desteklenmektedir</translation>
+<translation id="796823723482603597">Fulldive tarafından desteklenmektedir</translation>
 <translation id="6324034347079777476">Android sistem senkronizasyonu devre dışı</translation>
 <translation id="5127805178023152808">Senkronizasyon kapalı</translation>
 <translation id="7015203776128479407">İlk senkronizasyon kurulumu tamamlanmadı. Senkronizasyon kapalı.</translation>
@@ -418,26 +418,26 @@ Diğer Gab AI Inc hizmetlerinden yapılan aramalar ve etkinlikler gibi Gab AI In
 <translation id="6108923351542677676">Kurulum devam ediyor…</translation>
 <translation id="4062305924942672200">Yasal bilgiler</translation>
 <translation id="4256782883801055595">Açık kaynak lisansları</translation>
-<translation id="1138681184697033370">Dissenter Hizmet Şartları</translation>
-<translation id="2368444735104192323">Dissenter ve Dissenter OS Ek Hizmet Şartları</translation>
-<translation id="7392539049993970338">Dissenter Gizlilik Uyarısı</translation>
+<translation id="1138681184697033370">Fulldive Hizmet Şartları</translation>
+<translation id="2368444735104192323">Fulldive ve Fulldive OS Ek Hizmet Şartları</translation>
+<translation id="7392539049993970338">Fulldive Gizlilik Uyarısı</translation>
 <translation id="2968755619301702150">Sertifika görüntüleyici</translation>
 <translation id="1360432990279830238">Oturum ve senkronizasyon kapatılsın mı?</translation>
-<translation id="8581481290581777242">Dissenter verileriniz bu cihazdan temizlensin mi?</translation>
-<translation id="1318865768845061710">Yer işaretleri, geçmiş, şifreler ve diğer Dissenter verileriniz artık Gab AI Inc Hesabınız ile senkronize edilmeyecek.</translation>
-<translation id="3325020657155065477">Dissenter verilerinizi de bu cihazdan temizleyin</translation>
-<translation id="6136448902816743006"><ph name="DOMAIN_NAME"/> tarafından yönetilen bir hesabın oturumunu kapattığınız için Dissenter verileriniz bu cihazdan silinecektir. Verileriniz Gab AI Inc Hesabınızda kalacaktır.</translation>
+<translation id="8581481290581777242">Fulldive verileriniz bu cihazdan temizlensin mi?</translation>
+<translation id="1318865768845061710">Yer işaretleri, geçmiş, şifreler ve diğer Fulldive verileriniz artık Gab AI Inc Hesabınız ile senkronize edilmeyecek.</translation>
+<translation id="3325020657155065477">Fulldive verilerinizi de bu cihazdan temizleyin</translation>
+<translation id="6136448902816743006"><ph name="DOMAIN_NAME"/> tarafından yönetilen bir hesabın oturumunu kapattığınız için Fulldive verileriniz bu cihazdan silinecektir. Verileriniz Gab AI Inc Hesabınızda kalacaktır.</translation>
 <translation id="1853026300647876496">Gab AI Inc ile bağlantı kuruluyor. Bu işlem bir dakika sürebilir…</translation>
 <translation id="2328985652426384049">Oturum açılamıyor</translation>
 <translation id="7723158744459952869">Gab AI Inc çok geç yanıt verdi</translation>
 <translation id="4572422548854449519">Yönetilen hesapta oturum açın</translation>
-<translation id="2689656545739939160"><ph name="MANAGED_DOMAIN"/> tarafından yönetilen bir hesapla oturum açıyorsunuz ve yöneticiye tüm Dissenter verileriniz üzerinde denetim olanağı veriyorsunuz. Verileriniz kalıcı olarak bu hesaba bağlanacaktır. Dissenter'da oturumu kapattığınızda verileriniz bu cihazdan silinir, ancak Gab AI Inc Hesabınızda kalmaya devam eder.</translation>
+<translation id="2689656545739939160"><ph name="MANAGED_DOMAIN"/> tarafından yönetilen bir hesapla oturum açıyorsunuz ve yöneticiye tüm Fulldive verileriniz üzerinde denetim olanağı veriyorsunuz. Verileriniz kalıcı olarak bu hesaba bağlanacaktır. Fulldive'da oturumu kapattığınızda verileriniz bu cihazdan silinir, ancak Gab AI Inc Hesabınızda kalmaya devam eder.</translation>
 <translation id="1749561566933687563">Yer işaretlerinizi senkronize edin</translation>
 <translation id="4242533952199664413">Ayarları aç</translation>
 <translation id="1111673857033749125">Diğer cihazlarınızda kaydedilmiş yer işaretleri burada görünür.</translation>
 <translation id="8636825310635137004">Diğer cihazlarınızdaki sekmelerinize ulaşmak için senkronizasyonu etkinleştirin.</translation>
 <translation id="3269956123044984603">Diğer cihazlarınızdaki sekmelerinize ulaşmak için Android hesap ayarlarından "Verileri otomatik senkronize et" seçeneğini etkinleştirin.</translation>
-<translation id="5157964048453367290">Diğer cihazlarınızda Dissenter ile açtığınız sekmeler burada görünür.</translation>
+<translation id="5157964048453367290">Diğer cihazlarınızda Fulldive ile açtığınız sekmeler burada görünür.</translation>
 <translation id="5795872532621730126">Arama ve göz atma</translation>
 <translation id="9086302186042011942">Senkronize ediliyor</translation>
 <translation id="4684427112815847243">Her şeyi senkronize et</translation>
@@ -476,11 +476,11 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="7624880197989616768"><ph name="BEGIN_LINK1"/>Yardım alın<ph name="END_LINK1"/> veya <ph name="BEGIN_LINK2"/>yeniden tarayın<ph name="END_LINK2"/></translation>
 <translation id="230115972905494466">Uyumlu cihaz bulunamadı</translation>
 <translation id="3773755127849930740">Eşleşmeye izin vermek için <ph name="BEGIN_LINK"/>Bluetooth'u açın<ph name="END_LINK"/></translation>
-<translation id="998321811308652668">Dissenter, Bluetooth adaptörünü açamıyor</translation>
+<translation id="998321811308652668">Fulldive, Bluetooth adaptörünü açamıyor</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Yardım alın<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">Dissenter'un cihazları taraması için konuma erişmesi gerekiyor. <ph name="BEGIN_LINK"/>İzinleri güncelleyin<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">Dissenter'un cihazları taraması için konum bilgilerine erişmesi gerekiyor. Konum bilgilerine erişim <ph name="BEGIN_LINK"/>bu cihaz için kapalı<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">Dissenter'un cihazları taraması için konum bilgilerine erişmesi gerekiyor. <ph name="BEGIN_LINK1"/>İzinleri güncelleyin<ph name="END_LINK1"/>. Ayrıca, konum bilgilerine erişim <ph name="BEGIN_LINK2"/>bu cihaz için kapalı<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">Fulldive'un cihazları taraması için konuma erişmesi gerekiyor. <ph name="BEGIN_LINK"/>İzinleri güncelleyin<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">Fulldive'un cihazları taraması için konum bilgilerine erişmesi gerekiyor. Konum bilgilerine erişim <ph name="BEGIN_LINK"/>bu cihaz için kapalı<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">Fulldive'un cihazları taraması için konum bilgilerine erişmesi gerekiyor. <ph name="BEGIN_LINK1"/>İzinleri güncelleyin<ph name="END_LINK1"/>. Ayrıca, konum bilgilerine erişim <ph name="BEGIN_LINK2"/>bu cihaz için kapalı<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">Bağlı Cihaz</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{Sinyal Gücü Düzeyi: # çubuk}other{Sinyal Gücü Düzeyi: # çubuk}}</translation>
 <translation id="5230560987958996918"><ph name="SITE"/>, yakındaki Bluetooth cihazlar için tarama yapmak istiyor. Şu cihazlar bulundu:</translation>
@@ -488,11 +488,11 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="7605594153474022051">Senkronizasyon çalışmıyor</translation>
 <translation id="2537178555904266562">Şifreler senkronize edilirken hata oluştu</translation>
 <translation id="1810845389119482123">İlk senkronizasyon kurulumu tamamlanmadı</translation>
-<translation id="3235722914093408050">Dissenter Senkronizasyonu'nu başlatmak için Android ayarlarını açın ve Android sistem senkronizasyonunu yeniden etkinleştirin</translation>
+<translation id="3235722914093408050">Fulldive Senkronizasyonu'nu başlatmak için Android ayarlarını açın ve Android sistem senkronizasyonunu yeniden etkinleştirin</translation>
 <translation id="3367813778245106622">Senkronizasyonu başlatmak için tekrar oturum açın</translation>
 <translation id="3701167022068948696">Şimdi düzelt</translation>
 <translation id="974555521953189084">Senkronizasyonu başlatmak için parolanızı girin</translation>
-<translation id="2997266899014181325">Senkronizasyonu başlatmak için "Dissenter verilerimi senkronize et" ayarını etkinleştirin.</translation>
+<translation id="2997266899014181325">Senkronizasyonu başlatmak için "Fulldive verilerimi senkronize et" ayarını etkinleştirin.</translation>
 <translation id="8260126382462817229">Tekrar oturum açmayı deneyin</translation>
 <translation id="5919204609460789179">Senkronizasyonu başlatmak için <ph name="PRODUCT_NAME"/> adlı uygulamayı güncelleyin</translation>
 <translation id="397583555483684758">Senkronizasyonun çalışması durdu</translation>
@@ -526,14 +526,14 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037"><ph name="MESSAGE"/> <ph name="LINK_NAME"/> düğmesi</translation>
 <translation id="3205824638308738187">Çok az kaldı!</translation>
-<translation id="3960299545138990065">Dissenter'u yeniden başlatın</translation>
+<translation id="3960299545138990065">Fulldive'u yeniden başlatın</translation>
 <translation id="3771001275138982843">Güncelleme indirilemedi</translation>
-<translation id="3888648114124182147">Dissenter Güncellemesi indiriliyor…</translation>
-<translation id="1705567146636171298">Dissenter'u güncelle</translation>
-<translation id="6195417478702700398">Web'e en iyi göz atma deneyimi için Dissenter'u açıp güncelleyin</translation>
-<translation id="3512968675351418494">Web'i kendi dilinizde görmek için Dissenter'un en son sürümünü edinin</translation>
+<translation id="3888648114124182147">Fulldive Güncellemesi indiriliyor…</translation>
+<translation id="1705567146636171298">Fulldive'u güncelle</translation>
+<translation id="6195417478702700398">Web'e en iyi göz atma deneyimi için Fulldive'u açıp güncelleyin</translation>
+<translation id="3512968675351418494">Web'i kendi dilinizde görmek için Fulldive'un en son sürümünü edinin</translation>
 <translation id="6427112570124116297">Web'i çevir</translation>
-<translation id="1379423114029199501">Dissenter'un en son sürümünü kendi dilinizde kullanmak için güncelleyin</translation>
+<translation id="1379423114029199501">Fulldive'un en son sürümünü kendi dilinizde kullanmak için güncelleyin</translation>
 <translation id="5684874026226664614">Hata! Bu sayfa çevrilemedi.</translation>
 <translation id="6831043979455480757">Çevir</translation>
 <translation id="1285320974508926690">Bu siteyi hiçbir zaman çevirme</translation>
@@ -557,7 +557,7 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="2532336938189706096">Web Görüntüleme</translation>
 <translation id="6005538289190791541">Önerilen şifre</translation>
 <translation id="4634124774493850572">Şifre kullan</translation>
-<translation id="3088191967551450609">Dosya indirmek için Dissenter'un depolama alanına erişmesi gerekiyor.</translation>
+<translation id="3088191967551450609">Dosya indirmek için Fulldive'un depolama alanına erişmesi gerekiyor.</translation>
 <translation id="8942627711005830162">Yeni pencerede aç</translation>
 <translation id="4195643157523330669">Yeni sekmede aç</translation>
 <translation id="1100066534610197918">Grupta yeni sekmede aç</translation>
@@ -580,7 +580,7 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="3384347053049321195">Resmi paylaş</translation>
 <translation id="5833984609253377421">Bağlantıyı paylaş</translation>
 <translation id="6475951671322991020">Videoyu indir</translation>
-<translation id="2317945146070194624">Yeni Dissenter sekmesinde aç</translation>
+<translation id="2317945146070194624">Yeni Fulldive sekmesinde aç</translation>
 <translation id="7975379999046275268">Sayfanın önizlemesini aç <ph name="BEGIN_NEW"/>Yeni<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Hızlı site</translation>
 <translation id="6112702117600201073">Sayfa yenileniyor</translation>
@@ -710,14 +710,14 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="6820686453637990663">CVC</translation>
 <translation id="3244271242291266297">AA</translation>
 <translation id="605721222689873409">YY</translation>
-<translation id="724102042129299115">Dissenter İlk Çalıştırma Deneyimi</translation>
-<translation id="7766792282581704663">Dissenter'u kullanarak <ph name="BEGIN_LINK1"/>Gab AI Inc Hizmet Şartları<ph name="END_LINK1"/> ile <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter ve Dissenter OS Ek Hizmet Şartları<ph name="END_LINK2"/>'nı kabul etmiş olursunuz.</translation>
-<translation id="4301045550182524767">Dissenter'u kullanarak <ph name="BEGIN_LINK1"/>Gab AI Inc Hizmet Şartları<ph name="END_LINK1"/> ile <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter ve Dissenter OS Ek Hizmet Şartları<ph name="END_LINK2"/>'nı kabul etmiş olursunuz. <ph name="BEGIN_LINK3"/>Family Link ile Yönetilen Gab AI Inc Hesapları İçin Gizlilik Uyarısı<ph name="END_LINK3"/> da geçerlidir.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/>, Dissenter'da açılacak. Devam ederek <ph name="BEGIN_LINK1"/>Gab AI Inc Hizmet Şartları<ph name="END_LINK1"/> ile <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter ve Dissenter OS Ek Hizmet Şartları<ph name="END_LINK2"/>'nı kabul etmiş olursunuz.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/>, Dissenter'da açılacak. Devam ederek <ph name="BEGIN_LINK1"/>Gab AI Inc Hizmet Şartları<ph name="END_LINK1"/> ile <ph name="BEGIN_LINK2"/>Gab AI Inc Dissenter ve Dissenter OS Ek Hizmet Şartları<ph name="END_LINK2"/>'nı kabul etmiş olursunuz. <ph name="BEGIN_LINK3"/>Family Link ile Yönetilen Gab AI Inc Hesapları İçin Gizlilik Uyarısı<ph name="END_LINK3"/> da geçerlidir.</translation>
-<translation id="673197144963363525">Gab AI Inc'a kullanım istatistikleri ve kilitlenme raporları göndererek Dissenter'u iyileştirmeye yardımcı olun.</translation>
+<translation id="724102042129299115">Fulldive İlk Çalıştırma Deneyimi</translation>
+<translation id="7766792282581704663">Fulldive'u kullanarak <ph name="BEGIN_LINK1"/>Gab AI Inc Hizmet Şartları<ph name="END_LINK1"/> ile <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive ve Fulldive OS Ek Hizmet Şartları<ph name="END_LINK2"/>'nı kabul etmiş olursunuz.</translation>
+<translation id="4301045550182524767">Fulldive'u kullanarak <ph name="BEGIN_LINK1"/>Gab AI Inc Hizmet Şartları<ph name="END_LINK1"/> ile <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive ve Fulldive OS Ek Hizmet Şartları<ph name="END_LINK2"/>'nı kabul etmiş olursunuz. <ph name="BEGIN_LINK3"/>Family Link ile Yönetilen Gab AI Inc Hesapları İçin Gizlilik Uyarısı<ph name="END_LINK3"/> da geçerlidir.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/>, Fulldive'da açılacak. Devam ederek <ph name="BEGIN_LINK1"/>Gab AI Inc Hizmet Şartları<ph name="END_LINK1"/> ile <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive ve Fulldive OS Ek Hizmet Şartları<ph name="END_LINK2"/>'nı kabul etmiş olursunuz.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/>, Fulldive'da açılacak. Devam ederek <ph name="BEGIN_LINK1"/>Gab AI Inc Hizmet Şartları<ph name="END_LINK1"/> ile <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive ve Fulldive OS Ek Hizmet Şartları<ph name="END_LINK2"/>'nı kabul etmiş olursunuz. <ph name="BEGIN_LINK3"/>Family Link ile Yönetilen Gab AI Inc Hesapları İçin Gizlilik Uyarısı<ph name="END_LINK3"/> da geçerlidir.</translation>
+<translation id="673197144963363525">Gab AI Inc'a kullanım istatistikleri ve kilitlenme raporları göndererek Fulldive'u iyileştirmeye yardımcı olun.</translation>
 <translation id="3518985090088779359">Kabul et ve devam et</translation>
-<translation id="7207456302801184289">Dissenter'a Hoş Geldiniz</translation>
+<translation id="7207456302801184289">Fulldive'a Hoş Geldiniz</translation>
 <translation id="7189372733857464326">Güncellemenin tamamlanması için Gab AI Inc Play Hizmetleri bekleniyor</translation>
 <translation id="1231733316453485619">Senkronizasyon açılsın mı?</translation>
 <translation id="5132942445612118989">Tüm cihazlardaki şifreleriniz, geçmişiniz ve diğer öğelerinizi senkronize edin</translation>
@@ -780,7 +780,7 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="6336451774241870485">Yeni gizli sekme</translation>
 <translation id="4521874409998847950"><ph name="PUBLISHER_ORIGIN"/> web sitesinden - <ph name="BEGIN_DEEMPHASIZED"/>Gab AI Inc tarafından yayınlandı<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Daha yeni bir sürüm mevcut</translation>
-<translation id="4058091506841967397">Dissenter güncellenemiyor</translation>
+<translation id="4058091506841967397">Fulldive güncellenemiyor</translation>
 <translation id="6316139424528454185">Android sürümü desteklenmiyor</translation>
 <translation id="6989267951144302301">İndirilemedi</translation>
 <translation id="624789221780392884">Güncelleme hazır</translation>
@@ -830,7 +830,7 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="2536728043171574184">Bu sayfanın çevrimdışı bir kopyası görüntüleniyor</translation>
 <translation id="4698034686595694889"><ph name="APP_NAME"/> uygulamasında çevrimdışı görüntüle</translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> ve diğer siteler</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Dissenter, hazır olduğunda sayfanızı yükler}other{Dissenter, hazır olduğunda sayfalarınızı yükler}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Fulldive, hazır olduğunda sayfanızı yükler}other{Fulldive, hazır olduğunda sayfalarınızı yükler}}</translation>
 <translation id="6811034713472274749">Sayfa görüntülenmeye hazır</translation>
 <translation id="4561979708150884304">Bağlantı yok</translation>
 <translation id="8274165955039650276">İndirilenleri göster</translation>
@@ -842,14 +842,14 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="3298243779924642547">Basit</translation>
 <translation id="393697183122708255">Kullanılabilir etkin sesli arama yok</translation>
 <translation id="7191430249889272776">Sekme arka planda açıldı.</translation>
-<translation id="8445059357334030806">Dissenter'da aç</translation>
+<translation id="8445059357334030806">Fulldive'da aç</translation>
 <translation id="4720023427747327413"><ph name="PRODUCT_NAME"/> uygulamasında aç</translation>
 <translation id="7022756207310403729">Tarayıcıda aç</translation>
 <translation id="1113597929977215864">Basitleştirilmiş görünümü göster</translation>
 <translation id="1513352483775369820">Yer işaretleri ve web geçmişi</translation>
-<translation id="4939482511480190003">Dissenter'u daha iyi hale getirmeye yardımcı olun. <ph name="BEGIN_LINK"/>Ankete katıl<ph name="END_LINK"/>.</translation>
+<translation id="4939482511480190003">Fulldive'u daha iyi hale getirmeye yardımcı olun. <ph name="BEGIN_LINK"/>Ankete katıl<ph name="END_LINK"/>.</translation>
 <translation id="3522247891732774234">Güncelleme mevcut. Diğer seçenekler</translation>
-<translation id="6773423637732432200">Dissenter güncellenemiyor. Diğer seçenekler</translation>
+<translation id="6773423637732432200">Fulldive güncellenemiyor. Diğer seçenekler</translation>
 <translation id="1383876407941801731">Ara</translation>
 <translation id="3328801116991980348">Site bilgileri</translation>
 <translation id="9070377983101773829">Sesli arama başlat</translation>
@@ -901,7 +901,7 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="3211426585530211793"><ph name="ITEM_TITLE"/> silindi</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> yer işareti silindi</translation>
 <translation id="3819178904835489326">İndirilen <ph name="NUMBER_OF_DOWNLOADS"/> dosya silindi</translation>
-<translation id="1248710015876067820">Desteklenmeyen sayıda Dissenter örneği var.</translation>
+<translation id="1248710015876067820">Desteklenmeyen sayıda Fulldive örneği var.</translation>
 <translation id="4259722352634471385">Gezinme engellendi: <ph name="URL"/></translation>
 <translation id="8959122750345127698">Gezinme işlevine ulaşılamıyor: <ph name="URL"/></translation>
 <translation id="5210365745912300556">Sekmeyi kapat</translation>
@@ -916,18 +916,18 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="2942036813789421260">Önizleme sekmesi kapalı</translation>
 <translation id="6355102470683871794">Gab AI Inc <ph name="APP_NAME"/> depolama alanı</translation>
 <translation id="3822502789641063741">Site depolama silinsin mi?</translation>
-<translation id="9205995714227143200">Dissenter'un önemli olmadığını düşündüğü site depolama alanı (ör. kayıtlı ayarları bulunmayan veya sık ziyaret etmediğiniz siteler)</translation>
+<translation id="9205995714227143200">Fulldive'un önemli olmadığını düşündüğü site depolama alanı (ör. kayıtlı ayarları bulunmayan veya sık ziyaret etmediğiniz siteler)</translation>
 <translation id="3997476611815694295">Önemli olmayan depolama alanı</translation>
 <translation id="8493948351860045254">Yer aç</translation>
-<translation id="2324920234469020158">Bu işlem Dissenter'un önemli olmadığını düşündüğü çerezleri, önbelleği ve diğer site verilerini temizleyecek.</translation>
+<translation id="2324920234469020158">Bu işlem Fulldive'un önemli olmadığını düşündüğü çerezleri, önbelleği ve diğer site verilerini temizleyecek.</translation>
 <translation id="5447201525962359567">Çerezler ve yerel olarak depolanmış diğer veriler de dahil olmak üzere tüm site depolama alanı</translation>
 <translation id="1376578503827013741">Hesaplanıyor…</translation>
 <translation id="583281660410589416">Bilinmiyor</translation>
 <translation id="2323763861024343754">Site depolama alanı</translation>
-<translation id="3587672679800759167">Hesaplar, yer işaretleri ve kayıtlı ayarlar da dahil olmak üzere Dissenter tarafından kullanılan tüm veriler</translation>
+<translation id="3587672679800759167">Hesaplar, yer işaretleri ve kayıtlı ayarlar da dahil olmak üzere Fulldive tarafından kullanılan tüm veriler</translation>
 <translation id="6545017243486555795">Tüm Verileri Temizle</translation>
 <translation id="4095146165863963773">Uygulama verileri silinsin mi?</translation>
-<translation id="53119194224775367">Dissenter'un tüm uygulama verileri kalıcı olarak silinecek. Buna tüm dosyalar, ayarlar, hesaplar, veritabanları vb. dahildir.</translation>
+<translation id="53119194224775367">Fulldive'un tüm uygulama verileri kalıcı olarak silinecek. Buna tüm dosyalar, ayarlar, hesaplar, veritabanları vb. dahildir.</translation>
 <translation id="5307446750509046227">Site depolamayı temizle</translation>
 <translation id="300526633675317032">Bu işlem <ph name="SIZE_IN_KB"/> olan web sitesi depolama alanının tamamını temizleyecek.</translation>
 <translation id="8068648041423924542">Sertifika seçilemiyor.</translation>
@@ -954,15 +954,15 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="3114012059975132928">Video oynatıcı</translation>
 <translation id="5489227211564503167">Geçen süre: <ph name="ELAPSED_TIME"/>/<ph name="TOTAL_TIME"/></translation>
 <translation id="6560414384669816528">Sogou ile arama</translation>
-<translation id="5406914950576900927">Dissenter, Çin'de arama yapmak için <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/>'yu kullanabilir. Bu seçimi <ph name="BEGIN_LINK"/>Ayarlar<ph name="END_LINK"/>'da değiştirebilirsiniz.</translation>
+<translation id="5406914950576900927">Fulldive, Çin'de arama yapmak için <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/>'yu kullanabilir. Bu seçimi <ph name="BEGIN_LINK"/>Ayarlar<ph name="END_LINK"/>'da değiştirebilirsiniz.</translation>
 <translation id="6456271171669383967">Gab AI Inc kalsın</translation>
 <translation id="4384468725000734951">Arama için Sogou kullanılıyor</translation>
 <translation id="6103327872225198548">Arama için Gab AI Inc kullanılıyor</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
-<translation id="919933208285147476">Bu uygulama Dissenter'da çalışıyor</translation>
-<translation id="6143689084714664628">Dissenter'da çalıştırılıyor</translation>
-<translation id="7675869148432102528"><ph name="APP_NAME"/> uygulamasına ait veriler Dissenter'da da mevcut</translation>
-<translation id="2734140769649165081">Verileri Dissenter Ayarlarından temizleyebilirsiniz</translation>
+<translation id="919933208285147476">Bu uygulama Fulldive'da çalışıyor</translation>
+<translation id="6143689084714664628">Fulldive'da çalıştırılıyor</translation>
+<translation id="7675869148432102528"><ph name="APP_NAME"/> uygulamasına ait veriler Fulldive'da da mevcut</translation>
+<translation id="2734140769649165081">Verileri Fulldive Ayarlarından temizleyebilirsiniz</translation>
 <translation id="8232956427053453090">Verileri koru</translation>
 <translation id="4298388696830689168">Bağlantılı siteler</translation>
 <translation id="5763514718066511291">Bu uygulamanın URL'sini kopyalamak için dokunun</translation>
@@ -987,13 +987,13 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 <translation id="8015452622527143194">Sayfadaki her şeyi varsayılan boyutuna döndürür</translation>
 <translation id="3443221991560634068">Geçerli sayfayı yeniden yükler</translation>
 <translation id="123724288017357924">Önbelleğe alınmış içeriği yoksayarak geçerli sayfayı yeniden yükler</translation>
-<translation id="305870044889644984">Dissenter Yardım Merkezi'ni yeni bir sekmede açar</translation>
+<translation id="305870044889644984">Fulldive Yardım Merkezi'ni yeni bir sekmede açar</translation>
 <translation id="3166827708714933426">Sekme ve pencere kısayolları</translation>
-<translation id="3169981355900570544">Gab AI Inc Dissenter'un özellik kısayolları</translation>
+<translation id="3169981355900570544">Gab AI Inc Fulldive'un özellik kısayolları</translation>
 <translation id="4558311620361989323">Web sayfası kısayolları</translation>
-<translation id="1908301351964700579">Dissenter hâlâ VR için hazırlanıyor. Dissenter'u daha sonra yeniden başlatın.</translation>
+<translation id="1908301351964700579">Fulldive hâlâ VR için hazırlanıyor. Fulldive'u daha sonra yeniden başlatın.</translation>
 <translation id="8970887620466824814">Bir hata oluştu.</translation>
-<translation id="1875543012935658554">Dissenter'u yeniden açın.</translation>
+<translation id="1875543012935658554">Fulldive'u yeniden açın.</translation>
 <translation id="79859296434321399">Artırılmış gerçeklik içeriğini görüntülemek için ARCore'u yükleyin</translation>
 <translation id="8558485628462305855">Artırılmış gerçeklik içeriğini görüntülemek için ARCore'u güncelleyin</translation>
 <translation id="3513704683820682405">Artırılmış Gerçeklik</translation>
@@ -1005,9 +1005,9 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK"/>senkronizasyonu sıfırlay�
 Kameranızın neye baktığını yalnızca siz görebilirsiniz. Site, kameranızın çektiği resimleri göremez.</translation>
 <translation id="1188239144602654184">AR'ye gir</translation>
 <translation id="473775607612524610">Güncelle</translation>
-<translation id="3133489217401741157">Dissenter için <ph name="MODULE"/> yükleniyor…</translation>
+<translation id="3133489217401741157">Fulldive için <ph name="MODULE"/> yükleniyor…</translation>
 <translation id="1791662854739702043">Yüklendi</translation>
-<translation id="5131234170665854056">Dissenter için <ph name="MODULE"/> yüklenemiyor</translation>
+<translation id="5131234170665854056">Fulldive için <ph name="MODULE"/> yüklenemiyor</translation>
 <translation id="2567385386134582609">IMAGE</translation>
 <translation id="6395288395575013217">BAĞLANTI</translation>
 <translation id="7352939065658542140">VİDEO</translation>
@@ -1027,7 +1027,7 @@ Kameranızın neye baktığını yalnızca siz görebilirsiniz. Site, kameranız
 <translation id="1792959175193046959">Dosyaların indirileceği varsayılan konumu istediğiniz zaman değiştirebilirsiniz</translation>
 <translation id="6942665639005891494">Dosyaların indirileceği varsayılan konumu istediğiniz zaman Ayarlar menü seçeneğini kullanarak değiştirebilirsiniz</translation>
 <translation id="6850409657436465440">İndirme işleminiz hâlâ devam ediyor</translation>
-<translation id="5817715962196959877">Dissenter artık dosyaları daha hızlı indiriyor</translation>
+<translation id="5817715962196959877">Fulldive artık dosyaları daha hızlı indiriyor</translation>
 <translation id="3976396876660209797">Bu kısayolu kaldırıp yeniden oluşturun</translation>
 <translation id="6766622839693428701">Kapatmak için aşağı kaydırın.</translation>
 <translation id="1028699632127661925"><ph name="DEVICE_NAME"/> cihazına gönderiliyor...</translation>
@@ -1043,17 +1043,17 @@ Kameranızın neye baktığını yalnızca siz görebilirsiniz. Site, kameranız
 <translation id="1521774566618522728">Son etkin olduğu zaman:</translation>
 <translation id="3631987586758005671"><ph name="DEVICE_NAME"/> ile paylaşılıyor</translation>
 <translation id="9028914725102941583">Cihazlar arasında senkronizasyonu açın</translation>
-<translation id="6162454065885854378">Telefonunuzdan başka bir cihazla herhangi bir şey paylaşmak için her iki cihazdaki Dissenter ayarlarında senkronizasyonu açın</translation>
-<translation id="6084271560289605378">Dissenter ayarlarına git</translation>
-<translation id="2746024117903470217">Bu sayfayı başka bir cihazla paylaşmak için diğer cihazdaki Dissenter ayarlarında senkronizasyonu açın</translation>
-<translation id="7760665516427405230">Bu sayfayı başka bir cihazla paylaşmak için Dissenter ayarlarında senkronizasyonu açın</translation>
+<translation id="6162454065885854378">Telefonunuzdan başka bir cihazla herhangi bir şey paylaşmak için her iki cihazdaki Fulldive ayarlarında senkronizasyonu açın</translation>
+<translation id="6084271560289605378">Fulldive ayarlarına git</translation>
+<translation id="2746024117903470217">Bu sayfayı başka bir cihazla paylaşmak için diğer cihazdaki Fulldive ayarlarında senkronizasyonu açın</translation>
+<translation id="7760665516427405230">Bu sayfayı başka bir cihazla paylaşmak için Fulldive ayarlarında senkronizasyonu açın</translation>
 <translation id="2318045970523081853">Aramak için dokunun</translation>
 <translation id="9209888181064652401">Arama yapılamıyor</translation>
 <translation id="2860954141821109167">Bu cihazda bir telefon uygulamasının etkinleştirildiğinden emin olun</translation>
 <translation id="2067805253194386918">Kısa mesaj</translation>
 <translation id="1450753235335490080"><ph name="CONTENT_TYPE"/> paylaşılamıyor</translation>
 <translation id="1266864766717917324"><ph name="CONTENT_TYPE"/> paylaşılamadı</translation>
-<translation id="8287068819750208230"><ph name="TARGET_DEVICE_NAME"/> cihazının Dissenter'da senkronizasyonunun açık olduğundan emin olun</translation>
+<translation id="8287068819750208230"><ph name="TARGET_DEVICE_NAME"/> cihazının Fulldive'da senkronizasyonunun açık olduğundan emin olun</translation>
 <translation id="3016635187733453316">Bu cihazın internete bağlı olduğundan emin olun</translation>
 <translation id="8466613982764129868"><ph name="TARGET_DEVICE_NAME"/> cihazının internete bağlı olduğundan emin olun</translation>
 <translation id="6539092367496845964">Bir sorun oldu. Daha sonra tekrar deneyin.</translation>
@@ -1076,17 +1076,17 @@ Kameranızın neye baktığını yalnızca siz görebilirsiniz. Site, kameranız
 <translation id="7055152154916055070">Yönlendirme engellendi:</translation>
 <translation id="5524843473235508879">Yönlendirme engellendi.</translation>
 <translation id="6573096386450695060">Her zaman izin ver</translation>
-<translation id="5805364706385912897">Bu sayfa, bellekte çok fazla yer kapladığından Dissenter tarafından duraklatıldı.</translation>
-<translation id="5138664332909611586">Bu sayfa çok fazla bellek kullandığından Dissenter bazı içerikleri kaldırdı.</translation>
+<translation id="5805364706385912897">Bu sayfa, bellekte çok fazla yer kapladığından Fulldive tarafından duraklatıldı.</translation>
+<translation id="5138664332909611586">Bu sayfa çok fazla bellek kullandığından Fulldive bazı içerikleri kaldırdı.</translation>
 <translation id="9137013805542155359">Orijinali göster</translation>
-<translation id="6361779936989026201">Dissenter'da Gab AI Inc Asistan</translation>
+<translation id="6361779936989026201">Fulldive'da Gab AI Inc Asistan</translation>
 <translation id="7291387454912369099">Asistan'ın Başlattığı Ödeme</translation>
 <translation id="9037412730408024068">Gab AI Inc, görevleri tamamlamanıza yardımcı olmak için Asistan'ı kullandığınız sitelerin URL'lerinin ve içeriklerinin yanı sıra Asistan aracılığıyla gönderdiğiniz bilgileri alır</translation>
-<translation id="4565206163201411670">Dissenter etkinliğiniz Dijital Denge'de gösterilsin mi?</translation>
-<translation id="9055113864158719823">Dissenter'da ziyaret ettiğiniz siteleri görebilir ve bunlar için zamanlayıcı ayarlayabilirsiniz.\n\nGab AI Inc, hangi siteler için zamanlayıcı ayarladığınız ve bu siteleri ne kadar süre boyunca ziyaret ettiğiniz konusunda bilgi alır. Bu bilgi, Dijital Denge'yi daha iyi hale getirmek için kullanılır.</translation>
-<translation id="4596514158372210596">Dissenter etkinliğinizi Dijital Denge'den kaldırma</translation>
-<translation id="1174893863889683998">Dissenter etkinliğiniz Dijital Denge'den kaldırılsın mı?</translation>
-<translation id="708829030563435351">Dissenter'da ziyaret ettiğiniz siteler gösterilmez. Tüm site zamanlayıcıları silinir.</translation>
+<translation id="4565206163201411670">Fulldive etkinliğiniz Dijital Denge'de gösterilsin mi?</translation>
+<translation id="9055113864158719823">Fulldive'da ziyaret ettiğiniz siteleri görebilir ve bunlar için zamanlayıcı ayarlayabilirsiniz.\n\nGab AI Inc, hangi siteler için zamanlayıcı ayarladığınız ve bu siteleri ne kadar süre boyunca ziyaret ettiğiniz konusunda bilgi alır. Bu bilgi, Dijital Denge'yi daha iyi hale getirmek için kullanılır.</translation>
+<translation id="4596514158372210596">Fulldive etkinliğinizi Dijital Denge'den kaldırma</translation>
+<translation id="1174893863889683998">Fulldive etkinliğiniz Dijital Denge'den kaldırılsın mı?</translation>
+<translation id="708829030563435351">Fulldive'da ziyaret ettiğiniz siteler gösterilmez. Tüm site zamanlayıcıları silinir.</translation>
 <translation id="2056878612599315956">Site duraklatıldı</translation>
 <translation id="671481426037969117"><ph name="FQDN"/> zamanlayıcınızın süresi doldu. Yarın tekrar başlatılacak.</translation>
 <translation id="7479104141328977413">Sekme yönetimi</translation>
@@ -1102,7 +1102,7 @@ Kameranızın neye baktığını yalnızca siz görebilirsiniz. Site, kameranız
 <translation id="6201345951596836663">Bağlantı Kopyalandı</translation>
 <translation id="6597891566292541626">QR kodunu/barkodu bu çerçeveye yerleştirin.</translation>
 <translation id="3140134512074889489">QR kodunu taramak için lütfen kameranızı etkinleştirin</translation>
-<translation id="5149323899804758325">QR kodu taramak için ayarlarınızı Dissenter'un kameranızı kullanabileceği şekilde değiştirin</translation>
+<translation id="5149323899804758325">QR kodu taramak için ayarlarınızı Fulldive'un kameranızı kullanabileceği şekilde değiştirin</translation>
 <translation id="2359808026110333948">Devam et</translation>
 <translation id="8233540874193135768">QR kodu taramak için kamerası olan bir cihaz kullanın.</translation>
 <translation id="6297765934698848803">Cihazınızı yöneten kuruluş, kameranızı kapattı.</translation>

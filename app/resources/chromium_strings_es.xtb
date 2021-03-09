@@ -1,258 +1,258 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="es">
-<translation id="939305735877869636">Dissenter</translation>
-<translation id="2069994121511856876">Dissenter Nightly</translation>
-<translation id="4947625801334180582">Dissenter Beta</translation>
-<translation id="2566435362010629810">Dissenter Dev</translation>
-<translation id="6373767849825830651">Dissenter es un navegador web que ejecuta páginas web y aplicaciones a gran velocidad. Es rápido, estable y fácil de utilizar. Dissenter te permite navegar en la web de forma más segura, ya que incluye protección contra software malicioso y phishing.</translation>
-<translation id="4331809312908958774">Dissenter OS</translation>
-<translation id="4847979153841887006">Logotipo de Dissenter</translation>
+<translation id="939305735877869636">Fulldive</translation>
+<translation id="2069994121511856876">Fulldive Nightly</translation>
+<translation id="4947625801334180582">Fulldive Beta</translation>
+<translation id="2566435362010629810">Fulldive Dev</translation>
+<translation id="6373767849825830651">Fulldive es un navegador web que ejecuta páginas web y aplicaciones a gran velocidad. Es rápido, estable y fácil de utilizar. Fulldive te permite navegar en la web de forma más segura, ya que incluye protección contra software malicioso y phishing.</translation>
+<translation id="4331809312908958774">Fulldive OS</translation>
+<translation id="4847979153841887006">Logotipo de Fulldive</translation>
 <translation id="7339898014177206373">Nueva ventana</translation>
-<translation id="5516268345616100622">Administrador de Tareas - Dissenter</translation>
-<translation id="7918740962659365265">Ayuda a mejorar Dissenter enviando informes sobre fallos y <ph name="UMA_LINK"/> a Dissenter</translation>
-<translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Dissenter</translation>
-<translation id="7830723774663008396">Dissenter - <ph name="PAGE_TITLE"/></translation>
-<translation id="4658486203392098459"><ph name="PAGE_TITLE"/>, inicio de sesión en la red, Dissenter</translation>
-<translation id="8745514854244955877">Dissenter, inicio de sesión en la red, <ph name="PAGE_TITLE"/></translation>
+<translation id="5516268345616100622">Administrador de Tareas - Fulldive</translation>
+<translation id="7918740962659365265">Ayuda a mejorar Fulldive enviando informes sobre fallos y <ph name="UMA_LINK"/> a Fulldive</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
+<translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
+<translation id="4658486203392098459"><ph name="PAGE_TITLE"/>, inicio de sesión en la red, Fulldive</translation>
+<translation id="8745514854244955877">Fulldive, inicio de sesión en la red, <ph name="PAGE_TITLE"/></translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE"/>, inicio de sesión en la red</translation>
-<translation id="1403270718080126244"><ph name="PAGE_TITLE"/> ‑ Dissenter Beta</translation>
-<translation id="3943696263619956191"><ph name="PAGE_TITLE"/> ‑ Dissenter Dev</translation>
-<translation id="6236814935154483927"><ph name="PAGE_TITLE"/> ‑ Dissenter Canary</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE"/> ‑ Fulldive Beta</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE"/> ‑ Fulldive Dev</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE"/> ‑ Fulldive Canary</translation>
 <translation id="8992261409816268381">Gab AI Inc</translation>
-<translation id="8121009781989288430">Copyright © <ph name="YEAR">{0,date,y}</ph> The Dissenter Authors. Todos los derechos reservados.</translation>
-<translation id="6368958679917195344">Dissenter OS se ha creado gracias a <ph name="BEGIN_LINK_CROS_OSS"/>software libre<ph name="END_LINK_CROS_OSS"/> adicional.</translation>
-<translation id="1662639173275167396">Dissenter OS se ha creado gracias a <ph name="BEGIN_LINK_CROS_OSS"/>software de código abierto<ph name="END_LINK_CROS_OSS"/> adicional, como <ph name="BEGIN_LINK_LINUX_OSS"/>Linux (beta)<ph name="END_LINK_LINUX_OSS"/>.</translation>
-<translation id="6913582816347128893">Es posible que Dissenter no funcione correctamente porque ya no es compatible con Mac OS X 10.9.</translation>
-<translation id="7977787072794666032">Es posible que Dissenter no funcione correctamente porque ya no es compatible con Windows XP ni Windows Vista</translation>
-<translation id="189297655255130768">Dissenter no responde. ¿Quieres reiniciarlo ahora?</translation>
-<translation id="8703492925273919597">Cierra todas las ventanas de Dissenter e inténtalo de nuevo.</translation>
-<translation id="335632367599648646">¿Seguro que quieres desinstalar Dissenter?</translation>
-<translation id="5590013613412457132">Desinstalar Dissenter</translation>
-<translation id="5019879183386042809">Establecer Dissenter como navegador predeterminado</translation>
-<translation id="707769633889902835">Dissenter OS no puede abrir esta página.</translation>
-<translation id="4065288863231444640">Permitir que Dissenter se ejecute en segundo plano</translation>
-<translation id="6797402139308059782">Permitir que Dissenter se ejecute en segundo plano</translation>
-<translation id="2585240446624043880">Dissenter no puede leer ni escribir en el directorio de datos:
+<translation id="8121009781989288430">Copyright © <ph name="YEAR">{0,date,y}</ph> The Fulldive Authors. Todos los derechos reservados.</translation>
+<translation id="6368958679917195344">Fulldive OS se ha creado gracias a <ph name="BEGIN_LINK_CROS_OSS"/>software libre<ph name="END_LINK_CROS_OSS"/> adicional.</translation>
+<translation id="1662639173275167396">Fulldive OS se ha creado gracias a <ph name="BEGIN_LINK_CROS_OSS"/>software de código abierto<ph name="END_LINK_CROS_OSS"/> adicional, como <ph name="BEGIN_LINK_LINUX_OSS"/>Linux (beta)<ph name="END_LINK_LINUX_OSS"/>.</translation>
+<translation id="6913582816347128893">Es posible que Fulldive no funcione correctamente porque ya no es compatible con Mac OS X 10.9.</translation>
+<translation id="7977787072794666032">Es posible que Fulldive no funcione correctamente porque ya no es compatible con Windows XP ni Windows Vista</translation>
+<translation id="189297655255130768">Fulldive no responde. ¿Quieres reiniciarlo ahora?</translation>
+<translation id="8703492925273919597">Cierra todas las ventanas de Fulldive e inténtalo de nuevo.</translation>
+<translation id="335632367599648646">¿Seguro que quieres desinstalar Fulldive?</translation>
+<translation id="5590013613412457132">Desinstalar Fulldive</translation>
+<translation id="5019879183386042809">Establecer Fulldive como navegador predeterminado</translation>
+<translation id="707769633889902835">Fulldive OS no puede abrir esta página.</translation>
+<translation id="4065288863231444640">Permitir que Fulldive se ejecute en segundo plano</translation>
+<translation id="6797402139308059782">Permitir que Fulldive se ejecute en segundo plano</translation>
+<translation id="2585240446624043880">Fulldive no puede leer ni escribir en el directorio de datos:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Opcional: Ayuda a mejorar Dissenter enviando automáticamente estadísticas de uso e informes de errores a Dissenter.</translation>
-<translation id="1489465648257900784">Tu perfil no puede utilizarse porque procede de una versión de Dissenter más reciente.
+<translation id="8417700129970341035">Opcional: Ayuda a mejorar Fulldive enviando automáticamente estadísticas de uso e informes de errores a Fulldive.</translation>
+<translation id="1489465648257900784">Tu perfil no puede utilizarse porque procede de una versión de Fulldive más reciente.
 
-Es posible que algunas funciones no estén disponibles. Especifica un directorio de perfil diferente o utiliza una versión más reciente de Dissenter.</translation>
+Es posible que algunas funciones no estén disponibles. Especifica un directorio de perfil diferente o utiliza una versión más reciente de Fulldive.</translation>
 <translation id="1065672644894730302">No se pueden leer tus preferencias.
 
 Es posible que algunas funciones no estén disponibles y que no se guarden los cambios que hagas en las preferencias.</translation>
 <translation id="3403365884036456766">Tu archivo de preferencias está dañado o no es válido.
 
-Dissenter no puede recuperar tu configuración.</translation>
-<translation id="1477146545787277177">¡Vaya! Se ha producido un fallo en Dissenter. ¿Quieres reiniciar el navegador ahora?</translation>
-<translation id="5785919770853225148">Dissenter guardará esta contraseña en tu Cuenta Dissenter para que no tengas que recordarla.</translation>
-<translation id="8211837073776713955">Dissenter te avisará si tus contraseñas están en riesgo</translation>
-<translation id="113959764510199339">Dissenter está intentando mostrar contraseñas.</translation>
-<translation id="96347285368592620">Dissenter está intentando copiar contraseñas.</translation>
-<translation id="2953892977076487219">Dissenter está intentando cambiar contraseñas.</translation>
-<translation id="7503098128120083822">Dissenter quiere exportar tus contraseñas.</translation>
-<translation id="8285294305439559616">Dissenter está intentando mostrar contraseñas. Para permitirlo, escribe tu contraseña de Windows.</translation>
-<translation id="8090497651549769448">Dissenter está intentando copiar contraseñas. Para permitirlo, escribe tu contraseña de Windows.</translation>
-<translation id="3861679447659630159">Dissenter está intentando cambiar contraseñas. Para permitirlo, escribe tu contraseña de Windows.</translation>
-<translation id="5918095577778020936">Dissenter quiere exportar tus contraseñas. Escribe tu contraseña de Windows para permitirlo.</translation>
-<translation id="8320964054148936490">Este ordenador ya cuenta con una versión más reciente de Dissenter. Si el software no funciona, desinstala Dissenter y vuelve a intentarlo.</translation>
-<translation id="7691786510374174420">La instalación ha fallado debido a un error no especificado. Si Dissenter se está ejecutando, ciérralo y vuelve a intentarlo.</translation>
-<translation id="2619516027171717873">No se puede instalar la misma versión de Dissenter que se está ejecutando actualmente. Cierra Dissenter y vuelve a intentarlo.</translation>
-<translation id="6283840329609797763">La instalación ha fallado debido a un error no especificado. Vuelve a descargar Dissenter.</translation>
-<translation id="95624393026532554">Dissenter requiere Windows 7 o una versión posterior.</translation>
-<translation id="7387051847644272380">Se ha producido un error de sistema operativo durante el proceso de instalación. Vuelve a descargar Dissenter.</translation>
-<translation id="1819119299840995223">Hay otra operación en curso en Dissenter. Vuelve a intentarlo más tarde.</translation>
+Fulldive no puede recuperar tu configuración.</translation>
+<translation id="1477146545787277177">¡Vaya! Se ha producido un fallo en Fulldive. ¿Quieres reiniciar el navegador ahora?</translation>
+<translation id="5785919770853225148">Fulldive guardará esta contraseña en tu Cuenta Fulldive para que no tengas que recordarla.</translation>
+<translation id="8211837073776713955">Fulldive te avisará si tus contraseñas están en riesgo</translation>
+<translation id="113959764510199339">Fulldive está intentando mostrar contraseñas.</translation>
+<translation id="96347285368592620">Fulldive está intentando copiar contraseñas.</translation>
+<translation id="2953892977076487219">Fulldive está intentando cambiar contraseñas.</translation>
+<translation id="7503098128120083822">Fulldive quiere exportar tus contraseñas.</translation>
+<translation id="8285294305439559616">Fulldive está intentando mostrar contraseñas. Para permitirlo, escribe tu contraseña de Windows.</translation>
+<translation id="8090497651549769448">Fulldive está intentando copiar contraseñas. Para permitirlo, escribe tu contraseña de Windows.</translation>
+<translation id="3861679447659630159">Fulldive está intentando cambiar contraseñas. Para permitirlo, escribe tu contraseña de Windows.</translation>
+<translation id="5918095577778020936">Fulldive quiere exportar tus contraseñas. Escribe tu contraseña de Windows para permitirlo.</translation>
+<translation id="8320964054148936490">Este ordenador ya cuenta con una versión más reciente de Fulldive. Si el software no funciona, desinstala Fulldive y vuelve a intentarlo.</translation>
+<translation id="7691786510374174420">La instalación ha fallado debido a un error no especificado. Si Fulldive se está ejecutando, ciérralo y vuelve a intentarlo.</translation>
+<translation id="2619516027171717873">No se puede instalar la misma versión de Fulldive que se está ejecutando actualmente. Cierra Fulldive y vuelve a intentarlo.</translation>
+<translation id="6283840329609797763">La instalación ha fallado debido a un error no especificado. Vuelve a descargar Fulldive.</translation>
+<translation id="95624393026532554">Fulldive requiere Windows 7 o una versión posterior.</translation>
+<translation id="7387051847644272380">Se ha producido un error de sistema operativo durante el proceso de instalación. Vuelve a descargar Fulldive.</translation>
+<translation id="1819119299840995223">Hay otra operación en curso en Fulldive. Vuelve a intentarlo más tarde.</translation>
 <translation id="7747138024166251722">El programa de instalación no ha podido crear un directorio temporal. Comprueba si hay espacio libre en el disco y si tienes autorización para instalar el software.</translation>
-<translation id="7365690458036015383">El programa de instalación no ha podido descomprimir el archivo. Vuelve a descargar Dissenter.</translation>
-<translation id="6914496861676471566">El archivo de instalación está dañado o no es válido. Vuelve a descargar Dissenter.</translation>
+<translation id="7365690458036015383">El programa de instalación no ha podido descomprimir el archivo. Vuelve a descargar Fulldive.</translation>
+<translation id="6914496861676471566">El archivo de instalación está dañado o no es válido. Vuelve a descargar Fulldive.</translation>
 <translation id="8862326446509486874">No dispones de los derechos necesarios para la instalación en el sistema. Intenta ejecutar de nuevo el programa de instalación como administrador.</translation>
-<translation id="6666624454809779082">Dissenter ya está instalado para todos los usuarios en tu ordenador.</translation>
+<translation id="6666624454809779082">Fulldive ya está instalado para todos los usuarios en tu ordenador.</translation>
 <translation id="6676384891291319759">Accede a Internet.</translation>
 <translation id="911206726377975832">¿Quieres borrar también los datos de navegación?</translation>
 <translation id="2770231113462710648">Cambiar navegador predeterminado por:</translation>
 <translation id="2485422356828889247">Desinstalar</translation>
-<translation id="3343095737966473035">Dissenter no es tu navegador predeterminado</translation>
-<translation id="5536657158619734169">Hay una nueva versión de Dissenter disponible.</translation>
-<translation id="505042220086416644">Hay una nueva versión de Dissenter disponible que funciona a una velocidad sin precedentes.</translation>
-<translation id="5616153642055197778">Hay disponible una nueva versión más segura de Dissenter.</translation>
-<translation id="2301993384336631869">Dissenter se ha actualizado, pero llevas al menos 30 días sin utilizarlo.</translation>
-<translation id="2106568569080763501">Dissenter te permite hacer clic en un número de teléfono en la Web y llamar mediante Skype.</translation>
-<translation id="5874882355102994015">Dissenter no puede mostrar la vista previa de impresión si falta el visor de PDF integrado.</translation>
-<translation id="8880183781256147665">Añadiendo a Dissenter...</translation>
-<translation id="3561569806301739367">Es posible que <ph name="FILE_NAME"/> sea peligroso, por lo que Dissenter lo ha bloqueado.</translation>
-<translation id="9067428552314418522">Este archivo es peligroso, por lo que Dissenter lo ha bloqueado.</translation>
-<translation id="4168372721886011198"><ph name="FILE_NAME"/> es peligroso, por lo que Dissenter lo ha bloqueado.</translation>
-<translation id="89367911614620585">Es posible que este archivo sea peligroso, por lo que Dissenter lo ha bloqueado.</translation>
-<translation id="9183662282810237335">¿Quieres salir de Dissenter de todas formas?</translation>
-<translation id="3834935463915107022">¿Quieres cerrar Dissenter de todas formas?</translation>
-<translation id="8797356639448065696">Dissenter está en modo de segundo plano.</translation>
-<translation id="2339258256897053758">Faltan las claves de la API de Dissenter. Algunas funciones de Dissenter serán deshabilitadas.</translation>
-<translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> se ha añadido a Dissenter</translation>
-<translation id="8516116288943000095">Borrar también los datos de Dissenter (<ph name="URL"/>)</translation>
-<translation id="4054452651944170004">Ocultar en el menú de Dissenter</translation>
-<translation id="5660079256336839395">Ocultar en el menú de Dissenter</translation>
-<translation id="6134859571175647580">Advertencia: Dissenter no puede evitar que las extensiones registren el historial de navegación. Para inhabilitar esta extensión en Modo Privado, desactiva esta opción.</translation>
-<translation id="777113543093865885">Desinstalar de Dissenter...</translation>
-<translation id="6078442581074612226">En Dissenter</translation>
-<translation id="1448049584457347995">Para aumentar la seguridad de Dissenter, hemos inhabilitado algunas extensiones que no figuran en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y que se podrían haber añadido sin tu conocimiento.</translation>
-<translation id="8848045066928358658">Para aumentar la seguridad de Dissenter, hemos inhabilitado la siguiente extensión que no figura en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y que puede haberse añadido sin tu conocimiento.</translation>
-<translation id="8148611988012584308">Personaliza y controla Dissenter</translation>
-<translation id="5849446944780602366">Personaliza y controla Dissenter. Hay una actualización disponible.</translation>
-<translation id="6315734375101223238">Personaliza y controla Dissenter. Se requiere tu intervención. Haz clic aquí para obtener más información.</translation>
-<translation id="9071554113102421877">Abrir en Dissenter</translation>
-<translation id="2176825726964012531">Información de Dissenter</translation>
-<translation id="5450493308072741203">Actualizar Dissenter</translation>
-<translation id="61852838583753520">Actualizar &amp;Dissenter OS</translation>
-<translation id="8447483940522230788">Dissenter Helper</translation>
-<translation id="5477319665405831211">Sincroniza y personaliza Dissenter entre tus dispositivos</translation>
-<translation id="8132634101975074716">Has iniciado sesión en Dissenter</translation>
+<translation id="3343095737966473035">Fulldive no es tu navegador predeterminado</translation>
+<translation id="5536657158619734169">Hay una nueva versión de Fulldive disponible.</translation>
+<translation id="505042220086416644">Hay una nueva versión de Fulldive disponible que funciona a una velocidad sin precedentes.</translation>
+<translation id="5616153642055197778">Hay disponible una nueva versión más segura de Fulldive.</translation>
+<translation id="2301993384336631869">Fulldive se ha actualizado, pero llevas al menos 30 días sin utilizarlo.</translation>
+<translation id="2106568569080763501">Fulldive te permite hacer clic en un número de teléfono en la Web y llamar mediante Skype.</translation>
+<translation id="5874882355102994015">Fulldive no puede mostrar la vista previa de impresión si falta el visor de PDF integrado.</translation>
+<translation id="8880183781256147665">Añadiendo a Fulldive...</translation>
+<translation id="3561569806301739367">Es posible que <ph name="FILE_NAME"/> sea peligroso, por lo que Fulldive lo ha bloqueado.</translation>
+<translation id="9067428552314418522">Este archivo es peligroso, por lo que Fulldive lo ha bloqueado.</translation>
+<translation id="4168372721886011198"><ph name="FILE_NAME"/> es peligroso, por lo que Fulldive lo ha bloqueado.</translation>
+<translation id="89367911614620585">Es posible que este archivo sea peligroso, por lo que Fulldive lo ha bloqueado.</translation>
+<translation id="9183662282810237335">¿Quieres salir de Fulldive de todas formas?</translation>
+<translation id="3834935463915107022">¿Quieres cerrar Fulldive de todas formas?</translation>
+<translation id="8797356639448065696">Fulldive está en modo de segundo plano.</translation>
+<translation id="2339258256897053758">Faltan las claves de la API de Fulldive. Algunas funciones de Fulldive serán deshabilitadas.</translation>
+<translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> se ha añadido a Fulldive</translation>
+<translation id="8516116288943000095">Borrar también los datos de Fulldive (<ph name="URL"/>)</translation>
+<translation id="4054452651944170004">Ocultar en el menú de Fulldive</translation>
+<translation id="5660079256336839395">Ocultar en el menú de Fulldive</translation>
+<translation id="6134859571175647580">Advertencia: Fulldive no puede evitar que las extensiones registren el historial de navegación. Para inhabilitar esta extensión en Modo Privado, desactiva esta opción.</translation>
+<translation id="777113543093865885">Desinstalar de Fulldive...</translation>
+<translation id="6078442581074612226">En Fulldive</translation>
+<translation id="1448049584457347995">Para aumentar la seguridad de Fulldive, hemos inhabilitado algunas extensiones que no figuran en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y que se podrían haber añadido sin tu conocimiento.</translation>
+<translation id="8848045066928358658">Para aumentar la seguridad de Fulldive, hemos inhabilitado la siguiente extensión que no figura en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y que puede haberse añadido sin tu conocimiento.</translation>
+<translation id="8148611988012584308">Personaliza y controla Fulldive</translation>
+<translation id="5849446944780602366">Personaliza y controla Fulldive. Hay una actualización disponible.</translation>
+<translation id="6315734375101223238">Personaliza y controla Fulldive. Se requiere tu intervención. Haz clic aquí para obtener más información.</translation>
+<translation id="9071554113102421877">Abrir en Fulldive</translation>
+<translation id="2176825726964012531">Información de Fulldive</translation>
+<translation id="5450493308072741203">Actualizar Fulldive</translation>
+<translation id="61852838583753520">Actualizar &amp;Fulldive OS</translation>
+<translation id="8447483940522230788">Fulldive Helper</translation>
+<translation id="5477319665405831211">Sincroniza y personaliza Fulldive entre tus dispositivos</translation>
+<translation id="8132634101975074716">Has iniciado sesión en Fulldive</translation>
 <translation id="4567424176335768812">Has iniciado sesión como <ph name="USER_EMAIL_ADDRESS"/>. Ahora puedes acceder a tus marcadores, a tu historial y a otras opciones en todos los dispositivos en los que hayas iniciado sesión.</translation>
-<translation id="2925193881330501265">Habías iniciado sesión en Dissenter como <ph name="USER_EMAIL_ADDRESS"/>. Utiliza la misma cuenta para volver a iniciar sesión.</translation>
-<translation id="847561904663814268">Otro usuario ha iniciado sesión anteriormente en Dissenter con la cuenta <ph name="ACCOUNT_EMAIL_LAST"/> a través de este ordenador. Debes crear un usuario de Dissenter para proteger tu información.</translation>
-<translation id="1853997773668795891">¿Quieres vincular tus datos de Dissenter a esta cuenta?</translation>
-<translation id="1326766910007115955">Vas a iniciar sesión con una cuenta gestionada, lo que significa que proporcionarás a su administrador control sobre tu perfil de Dissenter. Tus datos de Dissenter como, por ejemplo, tus aplicaciones, tus marcadores, tu historial, tus contraseñas y otras opciones se vincularán de forma permanente a la cuenta <ph name="USER_NAME"/>. Podrás eliminar estos datos a través del Panel de control de cuentas de Gab AI Inc, pero no podrás asociarlos a otra cuenta. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Vas a iniciar sesión con una cuenta gestionada, lo que significa que proporcionarás a su administrador control sobre tu perfil de Dissenter. Tus datos de Dissenter como, por ejemplo, tus aplicaciones, tus marcadores, tu historial, tus contraseñas y otras opciones se vincularán de forma permanente a la cuenta <ph name="USER_NAME"/>.  Podrás eliminar estos datos a través del Panel de Control de cuentas de Dissenter, pero no podrás asociarlos a otra cuenta. De forma opcional, puedes crear un nuevo perfil para mantener separados tus datos de Dissenter. <ph name="LEARN_MORE"/></translation>
-<translation id="2444257125841652328">El administrador del sistema ha configurado Dissenter para abrir un navegador alternativo al acceder a <ph name="TARGET_URL_HOSTNAME"/>.</translation>
-<translation id="5380963249588143069">El administrador del sistema ha configurado Dissenter para que abra <ph name="ALTERNATIVE_BROWSER_NAME"/> al acceder a <ph name="TARGET_URL_HOSTNAME"/>.</translation>
-<translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> usaba Dissenter anteriormente</translation>
-<translation id="1384923383737428730">Se ha detectado software dañino en tu ordenador. Dissenter puede eliminarlo, restaurar tu configuración y desactivar las extensiones para que el navegador vuelva a funcionar con normalidad.</translation>
-<translation id="2262856633481902138">Dissenter no ha podido sincronizar los datos porque tu información de inicio de sesión está obsoleta.</translation>
-<translation id="5419189641394808652">Dissenter no ha podido sincronizar los datos porque la función de sincronización no está disponible para tu dominio.</translation>
-<translation id="2577755334620061182">Dissenter no ha podido sincronizar los datos debido a un error de inicio de sesión.</translation>
-<translation id="2644798301485385923">Sistema Dissenter OS</translation>
-<translation id="7916016681687251387">Dissenter OS no ha podido sincronizar los datos. Soluciónalo ahora.</translation>
-<translation id="2341767445688917208">Dissenter OS no ha podido sincronizar las contraseñas. Soluciónalo ahora.</translation>
-<translation id="123620459398936149">Dissenter OS no ha podido sincronizar tus datos. Actualiza tu frase de contraseña de sincronización.</translation>
-<translation id="9026991721384951619">Dissenter OS no ha podido sincronizar los datos porque la información de inicio de sesión de tu cuenta está obsoleta.</translation>
-<translation id="7419046106786626209">Dissenter OS no ha podido sincronizar los datos porque la función de sincronización no está disponible para tu dominio.</translation>
-<translation id="4480040274068703980">Dissenter OS no ha podido sincronizar los datos debido a un error de inicio de sesión.</translation>
-<translation id="300669147395456190">Aplicaciones de Dissenter</translation>
-<translation id="2398566204186296120"><ph name="DOMAIN"/> requiere que leas y aceptes las siguientes Condiciones de Servicio para poder utilizar este dispositivo. Estas condiciones no amplían, modifican ni limitan los términos de Dissenter OS.</translation>
-<translation id="3293668930608086049">Dissenter está utilizando tu cámara y el micrófono.</translation>
-<translation id="8919461291440820124">Dissenter está utilizando tu micrófono.</translation>
-<translation id="3205074487970075628">Dissenter está utilizando tu cámara.</translation>
-<translation id="8142245354207161805">Parece que otro proceso de Dissenter (<ph name="PROCESS_ID"/>) está utilizando el perfil en otro ordenador (<ph name="HOST_NAME"/>). Dissenter ha bloqueado el perfil para que no se dañe. Si estás seguro de que ningún otro proceso está utilizando este perfil, puedes desbloquearlo y volver a iniciar Dissenter.</translation>
-<translation id="239760341987199724">Establecer Dissenter como navegador predeterminado</translation>
-<translation id="669092380621816981">Los datos de navegación de este usuario se eliminarán del dispositivo. Para recuperar tus datos, inicia sesión en Dissenter como <ph name="USER_EMAIL"/>.</translation>
-<translation id="2827121003398607864">Dissenter mejor que nunca</translation>
-<translation id="7192666605334070839">Ahora es más fácil utilizar Dissenter con tu Cuenta Dissenter  en ordenadores compartidos.</translation>
-<translation id="4100716194836114130">Este es tu Dissenter</translation>
-<translation id="3511996232906761537">Aquí puedes encontrar tus páginas web, marcadores y otros contenidos de Dissenter.</translation>
-<translation id="7406627712452599344">Los invitados pueden utilizar Dissenter sin dejar nada atrás.</translation>
-<translation id="5659384504794665581">Si compartes un ordenador, tus amigos y familiares pueden navegar de forma independiente y configurar Dissenter a su gusto.</translation>
-<translation id="7130675370997202556">Haz clic en tu nombre para abrir Dissenter y empezar a navegar.</translation>
-<translation id="5952898964075639679">Añadirte a Dissenter</translation>
-<translation id="3813272600615358652">Esta extensión ha cambiado la página que se muestra al iniciar Dissenter.</translation>
-<translation id="2576129394594491151">La extensión <ph name="EXTENSION_NAME"/> ha cambiado la página que se muestra al iniciar Dissenter.</translation>
-<translation id="2675662665675552980">También controla qué página se muestra al iniciar Dissenter.</translation>
-<translation id="3215652305414474626">También controla qué página se muestra al iniciar Dissenter o hacer clic en el botón Página de Inicio.</translation>
-<translation id="2433912322225810055">También controla que página se muestra al iniciar Dissenter o al hacer búsquedas desde Omnibox.</translation>
-<translation id="2871190378186459992">Descubre aplicaciones, juegos, extensiones y temas para Dissenter.</translation>
-<translation id="3350544518197210895">Dissenter (tráfico mDNS entrante)</translation>
-<translation id="5846303060623790781">Dissenter Beta (tráfico mDNS entrante)</translation>
-<translation id="3599046180970731601">Dissenter Nightly (tráfico mDNS entrante)</translation>
-<translation id="7881806463410697784">Dissenter Dev (tráfico mDNS entrante)</translation>
-<translation id="1912973375560256099">Regla entrante para que Dissenter permita tráfico mDNS.</translation>
-<translation id="7272074097076644710">Regla de entrada para que Dissenter Beta permita el tráfico mDNS.</translation>
-<translation id="4991512282053949769">Regla de entrada para que Dissenter Nightly permita el tráfico mDNS.</translation>
-<translation id="3856641371299712128">Regla de entrada para que Dissenter Dev permita el tráfico mDNS.</translation>
-<translation id="8207657266087451193">Si una imagen no tiene ninguna descripción útil, Dissenter intentará proporcionártela. Para crear las descripciones, las imágenes se envían a Dissenter. Puedes desactivar esta opción cuando quieras desde la configuración.</translation>
-<translation id="5499063270485366718">Si una imagen no tiene ninguna descripción útil, Dissenter intentará proporcionártela. Para crear las descripciones, las imágenes se envían a Dissenter.</translation>
-<translation id="215320507915280336">Utiliza el mismo corrector ortográfico que se usa en la Búsqueda de Dissenter. El texto que escribas en el navegador se enviará a Dissenter. Puedes cambiar este comportamiento en cualquier momento desde los ajustes.</translation>
-<translation id="1807774211756215222">Abrir enlace en una pestaña nueva de Dissenter</translation>
-<translation id="4624945300945265642">Abrir enlace en una ventana privada de Dissenter</translation>
-<translation id="7863882214613921971">Abrir enlace en una pestaña nueva de Dissenter</translation>
-<translation id="6554952862405000915">Abrir Enlace en una Ventana privada de Dissenter</translation>
-<translation id="4805806622840861220">Reiniciar Dissenter</translation>
+<translation id="2925193881330501265">Habías iniciado sesión en Fulldive como <ph name="USER_EMAIL_ADDRESS"/>. Utiliza la misma cuenta para volver a iniciar sesión.</translation>
+<translation id="847561904663814268">Otro usuario ha iniciado sesión anteriormente en Fulldive con la cuenta <ph name="ACCOUNT_EMAIL_LAST"/> a través de este ordenador. Debes crear un usuario de Fulldive para proteger tu información.</translation>
+<translation id="1853997773668795891">¿Quieres vincular tus datos de Fulldive a esta cuenta?</translation>
+<translation id="1326766910007115955">Vas a iniciar sesión con una cuenta gestionada, lo que significa que proporcionarás a su administrador control sobre tu perfil de Fulldive. Tus datos de Fulldive como, por ejemplo, tus aplicaciones, tus marcadores, tu historial, tus contraseñas y otras opciones se vincularán de forma permanente a la cuenta <ph name="USER_NAME"/>. Podrás eliminar estos datos a través del Panel de control de cuentas de Gab AI Inc, pero no podrás asociarlos a otra cuenta. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Vas a iniciar sesión con una cuenta gestionada, lo que significa que proporcionarás a su administrador control sobre tu perfil de Fulldive. Tus datos de Fulldive como, por ejemplo, tus aplicaciones, tus marcadores, tu historial, tus contraseñas y otras opciones se vincularán de forma permanente a la cuenta <ph name="USER_NAME"/>.  Podrás eliminar estos datos a través del Panel de Control de cuentas de Fulldive, pero no podrás asociarlos a otra cuenta. De forma opcional, puedes crear un nuevo perfil para mantener separados tus datos de Fulldive. <ph name="LEARN_MORE"/></translation>
+<translation id="2444257125841652328">El administrador del sistema ha configurado Fulldive para abrir un navegador alternativo al acceder a <ph name="TARGET_URL_HOSTNAME"/>.</translation>
+<translation id="5380963249588143069">El administrador del sistema ha configurado Fulldive para que abra <ph name="ALTERNATIVE_BROWSER_NAME"/> al acceder a <ph name="TARGET_URL_HOSTNAME"/>.</translation>
+<translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> usaba Fulldive anteriormente</translation>
+<translation id="1384923383737428730">Se ha detectado software dañino en tu ordenador. Fulldive puede eliminarlo, restaurar tu configuración y desactivar las extensiones para que el navegador vuelva a funcionar con normalidad.</translation>
+<translation id="2262856633481902138">Fulldive no ha podido sincronizar los datos porque tu información de inicio de sesión está obsoleta.</translation>
+<translation id="5419189641394808652">Fulldive no ha podido sincronizar los datos porque la función de sincronización no está disponible para tu dominio.</translation>
+<translation id="2577755334620061182">Fulldive no ha podido sincronizar los datos debido a un error de inicio de sesión.</translation>
+<translation id="2644798301485385923">Sistema Fulldive OS</translation>
+<translation id="7916016681687251387">Fulldive OS no ha podido sincronizar los datos. Soluciónalo ahora.</translation>
+<translation id="2341767445688917208">Fulldive OS no ha podido sincronizar las contraseñas. Soluciónalo ahora.</translation>
+<translation id="123620459398936149">Fulldive OS no ha podido sincronizar tus datos. Actualiza tu frase de contraseña de sincronización.</translation>
+<translation id="9026991721384951619">Fulldive OS no ha podido sincronizar los datos porque la información de inicio de sesión de tu cuenta está obsoleta.</translation>
+<translation id="7419046106786626209">Fulldive OS no ha podido sincronizar los datos porque la función de sincronización no está disponible para tu dominio.</translation>
+<translation id="4480040274068703980">Fulldive OS no ha podido sincronizar los datos debido a un error de inicio de sesión.</translation>
+<translation id="300669147395456190">Aplicaciones de Fulldive</translation>
+<translation id="2398566204186296120"><ph name="DOMAIN"/> requiere que leas y aceptes las siguientes Condiciones de Servicio para poder utilizar este dispositivo. Estas condiciones no amplían, modifican ni limitan los términos de Fulldive OS.</translation>
+<translation id="3293668930608086049">Fulldive está utilizando tu cámara y el micrófono.</translation>
+<translation id="8919461291440820124">Fulldive está utilizando tu micrófono.</translation>
+<translation id="3205074487970075628">Fulldive está utilizando tu cámara.</translation>
+<translation id="8142245354207161805">Parece que otro proceso de Fulldive (<ph name="PROCESS_ID"/>) está utilizando el perfil en otro ordenador (<ph name="HOST_NAME"/>). Fulldive ha bloqueado el perfil para que no se dañe. Si estás seguro de que ningún otro proceso está utilizando este perfil, puedes desbloquearlo y volver a iniciar Fulldive.</translation>
+<translation id="239760341987199724">Establecer Fulldive como navegador predeterminado</translation>
+<translation id="669092380621816981">Los datos de navegación de este usuario se eliminarán del dispositivo. Para recuperar tus datos, inicia sesión en Fulldive como <ph name="USER_EMAIL"/>.</translation>
+<translation id="2827121003398607864">Fulldive mejor que nunca</translation>
+<translation id="7192666605334070839">Ahora es más fácil utilizar Fulldive con tu Cuenta Fulldive  en ordenadores compartidos.</translation>
+<translation id="4100716194836114130">Este es tu Fulldive</translation>
+<translation id="3511996232906761537">Aquí puedes encontrar tus páginas web, marcadores y otros contenidos de Fulldive.</translation>
+<translation id="7406627712452599344">Los invitados pueden utilizar Fulldive sin dejar nada atrás.</translation>
+<translation id="5659384504794665581">Si compartes un ordenador, tus amigos y familiares pueden navegar de forma independiente y configurar Fulldive a su gusto.</translation>
+<translation id="7130675370997202556">Haz clic en tu nombre para abrir Fulldive y empezar a navegar.</translation>
+<translation id="5952898964075639679">Añadirte a Fulldive</translation>
+<translation id="3813272600615358652">Esta extensión ha cambiado la página que se muestra al iniciar Fulldive.</translation>
+<translation id="2576129394594491151">La extensión <ph name="EXTENSION_NAME"/> ha cambiado la página que se muestra al iniciar Fulldive.</translation>
+<translation id="2675662665675552980">También controla qué página se muestra al iniciar Fulldive.</translation>
+<translation id="3215652305414474626">También controla qué página se muestra al iniciar Fulldive o hacer clic en el botón Página de Inicio.</translation>
+<translation id="2433912322225810055">También controla que página se muestra al iniciar Fulldive o al hacer búsquedas desde Omnibox.</translation>
+<translation id="2871190378186459992">Descubre aplicaciones, juegos, extensiones y temas para Fulldive.</translation>
+<translation id="3350544518197210895">Fulldive (tráfico mDNS entrante)</translation>
+<translation id="5846303060623790781">Fulldive Beta (tráfico mDNS entrante)</translation>
+<translation id="3599046180970731601">Fulldive Nightly (tráfico mDNS entrante)</translation>
+<translation id="7881806463410697784">Fulldive Dev (tráfico mDNS entrante)</translation>
+<translation id="1912973375560256099">Regla entrante para que Fulldive permita tráfico mDNS.</translation>
+<translation id="7272074097076644710">Regla de entrada para que Fulldive Beta permita el tráfico mDNS.</translation>
+<translation id="4991512282053949769">Regla de entrada para que Fulldive Nightly permita el tráfico mDNS.</translation>
+<translation id="3856641371299712128">Regla de entrada para que Fulldive Dev permita el tráfico mDNS.</translation>
+<translation id="8207657266087451193">Si una imagen no tiene ninguna descripción útil, Fulldive intentará proporcionártela. Para crear las descripciones, las imágenes se envían a Fulldive. Puedes desactivar esta opción cuando quieras desde la configuración.</translation>
+<translation id="5499063270485366718">Si una imagen no tiene ninguna descripción útil, Fulldive intentará proporcionártela. Para crear las descripciones, las imágenes se envían a Fulldive.</translation>
+<translation id="215320507915280336">Utiliza el mismo corrector ortográfico que se usa en la Búsqueda de Fulldive. El texto que escribas en el navegador se enviará a Fulldive. Puedes cambiar este comportamiento en cualquier momento desde los ajustes.</translation>
+<translation id="1807774211756215222">Abrir enlace en una pestaña nueva de Fulldive</translation>
+<translation id="4624945300945265642">Abrir enlace en una ventana privada de Fulldive</translation>
+<translation id="7863882214613921971">Abrir enlace en una pestaña nueva de Fulldive</translation>
+<translation id="6554952862405000915">Abrir Enlace en una Ventana privada de Fulldive</translation>
+<translation id="4805806622840861220">Reiniciar Fulldive</translation>
 <translation id="8274659559228306809">{COUNT, plural,
-          =0 {Hay una nueva actualización disponible para Dissenter y será aplicada cuando reinicies el dispositivo.}
-          =1 {Hay una nueva actualización disponible para Dissenter y será aplicada cuando reinicies el dispositivo. Tu ventana privada no volverá a abrirse.}
-          other {Hay una nueva actualización disponible para Dissenter y será aplicada cuando reinicies el dispositivo. Tus # ventanas privadas no volverán a abrirsen.}}</translation>
+          =0 {Hay una nueva actualización disponible para Fulldive y será aplicada cuando reinicies el dispositivo.}
+          =1 {Hay una nueva actualización disponible para Fulldive y será aplicada cuando reinicies el dispositivo. Tu ventana privada no volverá a abrirse.}
+          other {Hay una nueva actualización disponible para Fulldive y será aplicada cuando reinicies el dispositivo. Tus # ventanas privadas no volverán a abrirsen.}}</translation>
 <translation id="2799223571221894425">Reiniciar</translation>
-<translation id="5062123544085870375">Reiniciar Dissenter OS</translation>
-<translation id="2063848847527508675">Dissenter OS se debe reiniciar para que se aplique la actualización.</translation>
+<translation id="5062123544085870375">Reiniciar Fulldive OS</translation>
+<translation id="2063848847527508675">Fulldive OS se debe reiniciar para que se aplique la actualización.</translation>
 <translation id="5895138241574237353">Reiniciar</translation>
-<translation id="5875673934455379806">Reinstalar Dissenter</translation>
-<translation id="2097604701283463988">Dissenter está desactualizado</translation>
-<translation id="5173820533850252773">Dissenter está desactualizado</translation>
-<translation id="6389268239133412586">No se puede actualizar Dissenter</translation>
-<translation id="7963515534397191222">No se ha podido actualizar Dissenter a la versión más reciente, por lo que no disfrutas de las últimas funciones y correcciones de seguridad.</translation>
-<translation id="1705567146636171298">Actualizar Dissenter</translation>
-<translation id="3598551856834560515">Actualiza Dissenter para iniciar la sincronización</translation>
+<translation id="5875673934455379806">Reinstalar Fulldive</translation>
+<translation id="2097604701283463988">Fulldive está desactualizado</translation>
+<translation id="5173820533850252773">Fulldive está desactualizado</translation>
+<translation id="6389268239133412586">No se puede actualizar Fulldive</translation>
+<translation id="7963515534397191222">No se ha podido actualizar Fulldive a la versión más reciente, por lo que no disfrutas de las últimas funciones y correcciones de seguridad.</translation>
+<translation id="1705567146636171298">Actualizar Fulldive</translation>
+<translation id="3598551856834560515">Actualiza Fulldive para iniciar la sincronización</translation>
 <translation id="4050175100176540509">En la última versión puedes encontrar mejoras de seguridad importantes y nuevas funciones.</translation>
 <translation id="2513524988380267210">{SECONDS,plural,
- =1 {Dissenter se reiniciará en 1 segundo}
-other {Dissenter se reiniciará en # segundos}}</translation>
-<translation id="5646769069113654257">Reinicia Dissenter ahora</translation>
-<translation id="8668413672647811944">Se acaba de instalar una actualización de seguridad especial para Dissenter. Reinicia ahora y restauraremos las pestañas.</translation>
-<translation id="6791166902140255175">Pestaña de Dissenter</translation>
-<translation id="2555639463117073782">Reiniciar Dissenter para habilitar <ph name="PLUGIN_NAME"/></translation>
-<translation id="2034072705932785495">Dissenter necesita permiso para acceder a la cámara en este sitio web</translation>
-<translation id="3335606533094650083">Dissenter necesita permiso para acceder al micrófono en este sitio web</translation>
-<translation id="4831743161813926460">Dissenter necesita permiso para acceder a la cámara y al micrófono en este sitio web</translation>
-<translation id="696826782632239602">Dissenter necesita acceder a tu ubicación para compartirla con este sitio web</translation>
-<translation id="7798069806040634998">Dissenter necesita acceso de almacenamiento para descargar archivos</translation>
-<translation id="7685904775439037072">Una vez que Dissenter tenga acceso, los sitios web podrán solicitarlo también.</translation>
-<translation id="1744365871163268756">Espera mientras Dissenter instala las últimas actualizaciones del sistema.</translation>
-<translation id="7408085963519505752">Condiciones de Dissenter OS</translation>
-<translation id="7207456302801184289">Te damos la bienvenida a Dissenter</translation>
-<translation id="3507835409099344374">Ir a los ajustes de notificaciones de Dissenter</translation>
-<translation id="1026406809507858026">{0,plural, =0{Hay una actualización de Dissenter disponible}=1{Hay una actualización de Dissenter disponible}other{Hay una actualización de Dissenter disponible desde hace # días}}</translation>
+ =1 {Fulldive se reiniciará en 1 segundo}
+other {Fulldive se reiniciará en # segundos}}</translation>
+<translation id="5646769069113654257">Reinicia Fulldive ahora</translation>
+<translation id="8668413672647811944">Se acaba de instalar una actualización de seguridad especial para Fulldive. Reinicia ahora y restauraremos las pestañas.</translation>
+<translation id="6791166902140255175">Pestaña de Fulldive</translation>
+<translation id="2555639463117073782">Reiniciar Fulldive para habilitar <ph name="PLUGIN_NAME"/></translation>
+<translation id="2034072705932785495">Fulldive necesita permiso para acceder a la cámara en este sitio web</translation>
+<translation id="3335606533094650083">Fulldive necesita permiso para acceder al micrófono en este sitio web</translation>
+<translation id="4831743161813926460">Fulldive necesita permiso para acceder a la cámara y al micrófono en este sitio web</translation>
+<translation id="696826782632239602">Fulldive necesita acceder a tu ubicación para compartirla con este sitio web</translation>
+<translation id="7798069806040634998">Fulldive necesita acceso de almacenamiento para descargar archivos</translation>
+<translation id="7685904775439037072">Una vez que Fulldive tenga acceso, los sitios web podrán solicitarlo también.</translation>
+<translation id="1744365871163268756">Espera mientras Fulldive instala las últimas actualizaciones del sistema.</translation>
+<translation id="7408085963519505752">Condiciones de Fulldive OS</translation>
+<translation id="7207456302801184289">Te damos la bienvenida a Fulldive</translation>
+<translation id="3507835409099344374">Ir a los ajustes de notificaciones de Fulldive</translation>
+<translation id="1026406809507858026">{0,plural, =0{Hay una actualización de Fulldive disponible}=1{Hay una actualización de Fulldive disponible}other{Hay una actualización de Fulldive disponible desde hace # días}}</translation>
 <translation id="3829358914761176693">{COUNT, plural,
-              =0 {Tu administrador pide que reinicies Dissenter para aplicar esta actualización}
-              =1 {Tu administrador pide que reinicies Dissenter para aplicar esta actualización. Tu ventana privada no volverá a abrirse.}
-              other {Tu administrador pide que reinicies Dissenter para aplicar esta actualización. Tus # ventanas privadas no volverán a abrirse.}}</translation>
-<translation id="5337999052834672687">{0,plural, =1{Reiniciar Dissenter en el transcurso de 1 día}other{Reiniciar Dissenter en el transcurso de # días}}</translation>
-<translation id="310518206836658214">{0,plural, =1{Dissenter se reiniciará dentro de 1 hora}other{Dissenter se reiniciará dentro de # horas}}</translation>
-<translation id="3186363903915641692">{0,plural, =1{Dissenter se reiniciará dentro de 1 minuto}other{Dissenter se reiniciará dentro de # minutos}}</translation>
-<translation id="3574823187131579180">{0,plural, =0{Dissenter se reiniciará ahora}=1{Dissenter se reiniciará dentro de 1 segundo}other{Dissenter se reiniciará dentro de # segundos}}</translation>
+              =0 {Tu administrador pide que reinicies Fulldive para aplicar esta actualización}
+              =1 {Tu administrador pide que reinicies Fulldive para aplicar esta actualización. Tu ventana privada no volverá a abrirse.}
+              other {Tu administrador pide que reinicies Fulldive para aplicar esta actualización. Tus # ventanas privadas no volverán a abrirse.}}</translation>
+<translation id="5337999052834672687">{0,plural, =1{Reiniciar Fulldive en el transcurso de 1 día}other{Reiniciar Fulldive en el transcurso de # días}}</translation>
+<translation id="310518206836658214">{0,plural, =1{Fulldive se reiniciará dentro de 1 hora}other{Fulldive se reiniciará dentro de # horas}}</translation>
+<translation id="3186363903915641692">{0,plural, =1{Fulldive se reiniciará dentro de 1 minuto}other{Fulldive se reiniciará dentro de # minutos}}</translation>
+<translation id="3574823187131579180">{0,plural, =0{Fulldive se reiniciará ahora}=1{Fulldive se reiniciará dentro de 1 segundo}other{Fulldive se reiniciará dentro de # segundos}}</translation>
 <translation id="552349673358711446">{COUNT, plural,
-              =0 {Tu administrador requiere que reinicies Dissenter para aplicar una actualización}
-              =1 {Tu administrador requiere que reinicies Dissenter para aplicar una actualización. Tu ventana privada no volverá a abrirse.}
-              other {Tu administrador requiere que reinicies Dissenter para aplicar una actualización. Tus # ventanas privadas no volverán a abrirse.}}</translation>
-<translation id="3052349005266761501">Iniciando Dissenter...</translation>
-<translation id="1197672524850678392">No se ha podido iniciar Dissenter. Inténtalo de nuevo.</translation>
-<translation id="5147525139567260139">Compartir una pestaña de Dissenter</translation>
-<translation id="8541922081612557424">Información de Dissenter</translation>
-<translation id="3262506503470845422">Obtener ayuda de Dissenter</translation>
-<translation id="1864557848095568223">Actualizando Dissenter</translation>
-<translation id="1786715389543715322">Actualizando Dissenter (<ph name="PROGRESS_PERCENT"/>)</translation>
-<translation id="7914115000169617076">La actualización ya casi ha terminado. Reinicia Dissenter para completar la actualización. Las ventanas de incógnito no se volverán a abrir.</translation>
-<translation id="8208853227947884571">Dissenter está actualizado</translation>
-<translation id="573759479754913123">Información de Dissenter OS</translation>
-<translation id="7573289029918943991">Para comprobar si tu dispositivo está actualizado, ve a la <ph name="LINK_BEGIN"/>configuración de Dissenter OS<ph name="LINK_END"/></translation>
-<translation id="3395323229510056640">Obtener ayuda de Dissenter OS</translation>
-<translation id="38898988211673781">Borrar las cookies y los datos de sitios web al salir de Dissenter</translation>
-<translation id="5253815230176279256">Dissenter Pay (copiado en Dissenter)</translation>
-<translation id="5468853758063275923">Dissenter es tu navegador predeterminado</translation>
-<translation id="1775322105159056176">Dissenter no puede determinar ni establecer el navegador predeterminado</translation>
-<translation id="6915252145142862992">Esta instalación de Dissenter es secundaria, por lo que no se puede establecer como navegador predeterminado.</translation>
+              =0 {Tu administrador requiere que reinicies Fulldive para aplicar una actualización}
+              =1 {Tu administrador requiere que reinicies Fulldive para aplicar una actualización. Tu ventana privada no volverá a abrirse.}
+              other {Tu administrador requiere que reinicies Fulldive para aplicar una actualización. Tus # ventanas privadas no volverán a abrirse.}}</translation>
+<translation id="3052349005266761501">Iniciando Fulldive...</translation>
+<translation id="1197672524850678392">No se ha podido iniciar Fulldive. Inténtalo de nuevo.</translation>
+<translation id="5147525139567260139">Compartir una pestaña de Fulldive</translation>
+<translation id="8541922081612557424">Información de Fulldive</translation>
+<translation id="3262506503470845422">Obtener ayuda de Fulldive</translation>
+<translation id="1864557848095568223">Actualizando Fulldive</translation>
+<translation id="1786715389543715322">Actualizando Fulldive (<ph name="PROGRESS_PERCENT"/>)</translation>
+<translation id="7914115000169617076">La actualización ya casi ha terminado. Reinicia Fulldive para completar la actualización. Las ventanas de incógnito no se volverán a abrir.</translation>
+<translation id="8208853227947884571">Fulldive está actualizado</translation>
+<translation id="573759479754913123">Información de Fulldive OS</translation>
+<translation id="7573289029918943991">Para comprobar si tu dispositivo está actualizado, ve a la <ph name="LINK_BEGIN"/>configuración de Fulldive OS<ph name="LINK_END"/></translation>
+<translation id="3395323229510056640">Obtener ayuda de Fulldive OS</translation>
+<translation id="38898988211673781">Borrar las cookies y los datos de sitios web al salir de Fulldive</translation>
+<translation id="5253815230176279256">Fulldive Pay (copiado en Fulldive)</translation>
+<translation id="5468853758063275923">Fulldive es tu navegador predeterminado</translation>
+<translation id="1775322105159056176">Fulldive no puede determinar ni establecer el navegador predeterminado</translation>
+<translation id="6915252145142862992">Esta instalación de Fulldive es secundaria, por lo que no se puede establecer como navegador predeterminado.</translation>
 <translation id="6235873178214143377">Si no se muestra algún ajuste en esta página, consulta la <ph name="LINK_BEGIN"/>
-      configuración del navegador Dissenter<ph name="LINK_END"/></translation>
+      configuración del navegador Fulldive<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Si no se muestra algún ajuste en esta página, consulta la <ph name="LINK_BEGIN"/>
-      configuración de Dissenter OS<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Para corregir errores ortográficos, se enviará a Dissenter el texto que escribes en los campos de texto.</translation>
-<translation id="8586264863973514035">Para aplicar los cambios, reinicia Dissenter</translation>
-<translation id="7021823858304886493">Permitir el inicio de sesión en Dissenter</translation>
-<translation id="1649714546770135458">Si está opción está desactivada, puedes iniciar sesión en sitios de Dissenter, como Gmail, sin hacerlo en Dissenter</translation>
-<translation id="2796517443093885402">Dissenter puede protegerte frente a quiebras de seguridad de datos, extensiones dañinas y mucho más</translation>
-<translation id="428541510811554120">Dissenter no puede comprobar si hay actualizaciones. Revisa tu conexión a Internet.</translation>
-<translation id="2633397153656205379">Dissenter no se ha actualizado, algo no va bien. <ph name="BEGIN_LINK"/>Soluciona los problemas y errores de actualización de Dissenter<ph name="END_LINK"/>.</translation>
-<translation id="8622246347342688645">Dissenter no puede comprobar tus contraseñas porque no has iniciado sesión</translation>
-<translation id="7006260220514217183">La función Navegación Segura está desactivada. Dissenter recomienda activarla.</translation>
-<translation id="1785833016412082453">Dissenter no puede comprobar tus extensiones. Vuelve a intentarlo más tarde.</translation>
-<translation id="9220324636239049437">Esto eliminará un elemento de este dispositivo. Para recuperar tus datos en otro momento, inicia sesión en Dissenter como <ph name="USER_EMAIL"/>.</translation>
-<translation id="5853262807109651878">Se eliminarán <ph name="ITEMS_COUNT"/> elementos de este dispositivo. Para recuperar tus datos en otro momento, inicia sesión en Dissenter como <ph name="USER_EMAIL"/>.</translation>
-<translation id="4784414698887946907">Se eliminarán tus datos de navegación de este dispositivo. Para recuperar tus datos en otro momento, inicia sesión en Dissenter como <ph name="USER_EMAIL"/>.</translation>
-<translation id="4518479204315969707">Nombre y foto de Dissenter</translation>
-<translation id="8372880274820509128">Para mayor seguridad, Dissenter encriptará tus datos.</translation>
-<translation id="7445061995866044926">¿Cerrar sesión en Dissenter?</translation>
-<translation id="7453070689008684791">Dissenter accederá a tu Drive para mostrarte sugerencias en la barra de direcciones</translation>
-<translation id="3360368475735266712">Inicia sesión para sincronizar y personalizar Dissenter entre tus dispositivos</translation>
-<translation id="5757460455745382269">La UI de Dissenter se muestra en este idioma</translation>
-<translation id="2335583906071111058">Mostrar Dissenter en este idioma</translation>
-<translation id="8926637909431618259">Seguir ejecutando aplicaciones en segundo plano al cerrar Dissenter</translation>
-<translation id="6056473803837713617">Genera un informe de la <ph name="BEGIN_LINK"/>configuración actual<ph name="END_LINK"/> para ayudar a mejorar Dissenter</translation>
+      configuración de Fulldive OS<ph name="LINK_END"/></translation>
+<translation id="2312399718665761438">Para corregir errores ortográficos, se enviará a Fulldive el texto que escribes en los campos de texto.</translation>
+<translation id="8586264863973514035">Para aplicar los cambios, reinicia Fulldive</translation>
+<translation id="7021823858304886493">Permitir el inicio de sesión en Fulldive</translation>
+<translation id="1649714546770135458">Si está opción está desactivada, puedes iniciar sesión en sitios de Fulldive, como Gmail, sin hacerlo en Fulldive</translation>
+<translation id="2796517443093885402">Fulldive puede protegerte frente a quiebras de seguridad de datos, extensiones dañinas y mucho más</translation>
+<translation id="428541510811554120">Fulldive no puede comprobar si hay actualizaciones. Revisa tu conexión a Internet.</translation>
+<translation id="2633397153656205379">Fulldive no se ha actualizado, algo no va bien. <ph name="BEGIN_LINK"/>Soluciona los problemas y errores de actualización de Fulldive<ph name="END_LINK"/>.</translation>
+<translation id="8622246347342688645">Fulldive no puede comprobar tus contraseñas porque no has iniciado sesión</translation>
+<translation id="7006260220514217183">La función Navegación Segura está desactivada. Fulldive recomienda activarla.</translation>
+<translation id="1785833016412082453">Fulldive no puede comprobar tus extensiones. Vuelve a intentarlo más tarde.</translation>
+<translation id="9220324636239049437">Esto eliminará un elemento de este dispositivo. Para recuperar tus datos en otro momento, inicia sesión en Fulldive como <ph name="USER_EMAIL"/>.</translation>
+<translation id="5853262807109651878">Se eliminarán <ph name="ITEMS_COUNT"/> elementos de este dispositivo. Para recuperar tus datos en otro momento, inicia sesión en Fulldive como <ph name="USER_EMAIL"/>.</translation>
+<translation id="4784414698887946907">Se eliminarán tus datos de navegación de este dispositivo. Para recuperar tus datos en otro momento, inicia sesión en Fulldive como <ph name="USER_EMAIL"/>.</translation>
+<translation id="4518479204315969707">Nombre y foto de Fulldive</translation>
+<translation id="8372880274820509128">Para mayor seguridad, Fulldive encriptará tus datos.</translation>
+<translation id="7445061995866044926">¿Cerrar sesión en Fulldive?</translation>
+<translation id="7453070689008684791">Fulldive accederá a tu Drive para mostrarte sugerencias en la barra de direcciones</translation>
+<translation id="3360368475735266712">Inicia sesión para sincronizar y personalizar Fulldive entre tus dispositivos</translation>
+<translation id="5757460455745382269">La UI de Fulldive se muestra en este idioma</translation>
+<translation id="2335583906071111058">Mostrar Fulldive en este idioma</translation>
+<translation id="8926637909431618259">Seguir ejecutando aplicaciones en segundo plano al cerrar Fulldive</translation>
+<translation id="6056473803837713617">Genera un informe de la <ph name="BEGIN_LINK"/>configuración actual<ph name="END_LINK"/> para ayudar a mejorar Fulldive</translation>
 </translationbundle>

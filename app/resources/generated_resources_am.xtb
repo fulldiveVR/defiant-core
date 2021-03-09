@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">ሰርዝ</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> ተመርጠዋል</translation>
 <translation id="5582839680698949063">ዋና ምናሌ</translation>
-<translation id="3700405816184340252">የDissenter ታሪክ</translation>
+<translation id="3700405816184340252">የFulldive ታሪክ</translation>
 <translation id="7602079150116086782">ከሌሎች መሣሪያዎች ምንም ትሮች የሉም</translation>
 <translation id="4619615317237390068">ከሌሎች መሣሪያዎች የመጡ ትሮች</translation>
-<translation id="82609232232243542">Dissenter ውስጥ ይግቡ</translation>
+<translation id="82609232232243542">Fulldive ውስጥ ይግቡ</translation>
 <translation id="4627442949885028695">ከሌላ መሣሪያ ላይ ቀጥል</translation>
-<translation id="7253276740368043692">ትሮችዎን ከሌሎች መሣሪያዎችዎ ለማግኘት ወደ Dissenter ይግቡ።</translation>
+<translation id="7253276740368043692">ትሮችዎን ከሌሎች መሣሪያዎችዎ ለማግኘት ወደ Fulldive ይግቡ።</translation>
 <translation id="6351063337294363751">የእርስዎን የአሰሳ አደራረግ ውሂብ ከዚህ ምናሌ ላይ ማጽዳት ይችላሉ</translation>
 <translation id="6040143037577758943">ዝጋ</translation>
 <translation id="6463795194797719782">&amp;አርትዕ</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">ምርጫዎች…</translation>
 <translation id="5801568494490449797">አማራጮች</translation>
 <translation id="3677911431265050325">የሞባይል ጣቢያ ጠይቅ</translation>
-<translation id="236470849334943016">የDissenter አገልግሎት ውል ማርች 31 ላይ ይቀየራል</translation>
+<translation id="236470849334943016">የFulldive አገልግሎት ውል ማርች 31 ላይ ይቀየራል</translation>
 <translation id="1032605640136438169">እባክዎ አዲሶቹን ደንቦች ይገምግሙ</translation>
 <translation id="8712637175834984815">ገባኝ</translation>
 <translation id="5007392906805964215">ገምግም</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">እንደገና ጀምር</translation>
 <translation id="3479552764303398839">አሁን አይደለም</translation>
 <translation id="1008557486741366299">አሁን አይደለም</translation>
-<translation id="8201192017531062522">Dissenter መተግበሪያዎች ክፍት ሲሆኑ Dissenter መስራቱን ይቀጥላል።</translation>
-<translation id="7397305826909094212">ከሁሉም የDissenter መተግበሪያዎች ውጣ</translation>
+<translation id="8201192017531062522">Fulldive መተግበሪያዎች ክፍት ሲሆኑ Fulldive መስራቱን ይቀጥላል።</translation>
+<translation id="7397305826909094212">ከሁሉም የFulldive መተግበሪያዎች ውጣ</translation>
 <translation id="5026874946691314267">ይህን ዳግም አታሳይ</translation>
 <translation id="91568222606626347">አቋራጭ ፍጠር...</translation>
 <translation id="2783321960289401138">አቋራጭ ፍጠር...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">የLinux ምናባዊ ማሽን፦ <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">የተሰኪ ምናባዊ ማሽን፦ <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">IPP ተንታኝ</translation>
-<translation id="7171242884588191792">የDissenter ፋይል መገልገያዎች</translation>
+<translation id="7171242884588191792">የFulldive ፋይል መገልገያዎች</translation>
 <translation id="3183139917765991655">የመገለጫ አስመጪ</translation>
 <translation id="7367714965999718019">QR ኮድ ማመንጫ</translation>
 <translation id="2190069059097339078">WiFi አሳማኝ ምስክርነቶችን አግኝ</translation>
-<translation id="5920835625712313205">የDissenter OS ስርዓት ምስል ጸሐፊ</translation>
+<translation id="5920835625712313205">የFulldive OS ስርዓት ምስል ጸሐፊ</translation>
 <translation id="4873312501243535625">የሚዲያ ፋይል ፈታሽ</translation>
 <translation id="5972666587303800813">ክወና-አልባ አገልግሎት</translation>
 <translation id="1545775234664667895">የተጫነ ገጽታ '<ph name="THEME_NAME"/>'</translation>
@@ -851,14 +851,14 @@
 <translation id="3507421388498836150">ለ«<ph name="EXTENSION_NAME"/>» አሁን ያሉት ፈቃዶች</translation>
 <translation id="5242724311594467048">«<ph name="EXTENSION_NAME"/>» ይንቃ?</translation>
 <translation id="4014432863917027322">«<ph name="EXTENSION_NAME"/>» ይጠገን?</translation>
-<translation id="5173189340601754836">ሌላ ፕሮግራም Dissenter የሚሰራበትን መንገድ የሚለውጥ መተግበሪያ በኮምፒውተርዎ ታክሏል።
+<translation id="5173189340601754836">ሌላ ፕሮግራም Fulldive የሚሰራበትን መንገድ የሚለውጥ መተግበሪያ በኮምፒውተርዎ ታክሏል።
 
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Dissenter የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ቅጥያ አክሏል።
+<translation id="6654312501894761082">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Fulldive የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ቅጥያ አክሏል።
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Dissenter የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ገጽታ አክሏል።
+<translation id="3225882094369124157">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Fulldive የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ገጽታ አክሏል።
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">ቅጥያውን አንቃ</translation>
@@ -867,7 +867,7 @@
 <translation id="3908501907586732282">ቅጥያውን አንቃ</translation>
 <translation id="2327492829706409234">መተግበሪያን አንቃ</translation>
 <translation id="175772926354468439">ገጽታን አንቃ</translation>
-<translation id="5267531627648004734">ከDissenter አስወግድ</translation>
+<translation id="5267531627648004734">ከFulldive አስወግድ</translation>
 <translation id="4998873842614926205">ለውጦችን ያረጋግጡ</translation>
 <translation id="1799071797295057738">የ«<ph name="EXTENSION_NAME"/>» ቅጥያ በራስ-ሰር ተሰናክሏል።</translation>
 <translation id="5238278114306905396">መተግበሪያ «<ph name="EXTENSION_NAME"/>» በራስ-ሰር ተወግዷል።</translation>
@@ -1003,7 +1003,7 @@
 <translation id="1616298854599875024">የ«<ph name="IMPORT_NAME"/>» ቅጥያ የተጋራ ሞዱል ስላልሆነ እሱን ማስመጣት አልተቻለም</translation>
 <translation id="2131077480075264">በ«<ph name="IMPORT_NAME"/>» ስላልተፈቀደ «<ph name="APP_NAME"/>»ን መጫን አልተቻለም</translation>
 <translation id="1875387611427697908">ይሄ ከ<ph name="CHROME_WEB_STORE"/> ብቻ ነው ሊታከል የሚችለው</translation>
-<translation id="3862788408946266506">የ«kiosk_only» ዝርዝር ሰነድ አይነታ ያለው መተግበሪያ በDissenter OS ኪዮስክ ሁኔታ ላይ መጫን አለበት።</translation>
+<translation id="3862788408946266506">የ«kiosk_only» ዝርዝር ሰነድ አይነታ ያለው መተግበሪያ በFulldive OS ኪዮስክ ሁኔታ ላይ መጫን አለበት።</translation>
 <translation id="3834775135533257713">ከ«<ph name="TO_INSTALL_APP_NAME"/>» ጋር ስለሚጋጭ የ<ph name="INSTALLED_APP_NAME"/> መተግበሪያውን ማከል አልተቻለም።</translation>
 <translation id="144518587530125858">«<ph name="IMAGE_PATH"/>»ን ለገጽታ መጫን አልተቻለም።</translation>
 <translation id="3576324189521867626">በተሳካ ሁኔታ ተጭኗል</translation>
@@ -1109,9 +1109,9 @@ nil</translation>
 <translation id="6101226222197207147">አዲስ መተግበሪያ ታክሏል (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">አዲስ ገጽታ ታክሏል (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">«<ph name="EXTENSION_NAME"/>» ታክሏል</translation>
-<translation id="6637045053447935202">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Dissenter የሚሰራበት መንገድ ሊቀይር የሚችል አንድ መተግበሪያ አክሏል።</translation>
-<translation id="2015014930243978107">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Dissenter የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ቅጥያ አክሏል።</translation>
-<translation id="2060128809251156338">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Dissenter የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ገጽታ አክሏል።</translation>
+<translation id="6637045053447935202">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Fulldive የሚሰራበት መንገድ ሊቀይር የሚችል አንድ መተግበሪያ አክሏል።</translation>
+<translation id="2015014930243978107">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Fulldive የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ቅጥያ አክሏል።</translation>
+<translation id="2060128809251156338">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Fulldive የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ገጽታ አክሏል።</translation>
 <translation id="2470702053775288986">የማይደገፉ ቅጥያዎች ተሰናክለዋል</translation>
 <translation id="2809586584051668049">እና <ph name="NUMBER_ADDITIONAL_DISABLED"/> ተጨማሪ</translation>
 <translation id="5301954838959518834">እሺ፣ ገባኝ</translation>
@@ -1316,7 +1316,7 @@ nil</translation>
 <translation id="8017679124341497925">አቋራጭ አርትዖት ተደርጎበታል</translation>
 <translation id="1174073918202301297">አቋራጭ ታክሏል</translation>
 <translation id="2926085873880284723">ነባሪ አቋራጮችን ወደነበሩበት መልስ</translation>
-<translation id="5801450813341024983">Dissenter በስተጀርባዎች</translation>
+<translation id="5801450813341024983">Fulldive በስተጀርባዎች</translation>
 <translation id="2800760947029405028">ምስል ስቀል</translation>
 <translation id="8342861492835240085">አንድ ስብስብ ይምረጡ</translation>
 <translation id="3132996321662585180">በየቀኑ ዳግም አድስ</translation>
@@ -1403,7 +1403,7 @@ nil</translation>
 <translation id="833986336429795709">ይህን አገናኝ ለመክፈት አንድ መተግበሪያ ይምረጡ</translation>
 <translation id="192494336144674234">ይክፈቱ በ</translation>
 <translation id="9053893665344928494">ምርጫዬን አስታውስ</translation>
-<translation id="5340857474604400806">በDissenter ውስጥ ይቆዩ</translation>
+<translation id="5340857474604400806">በFulldive ውስጥ ይቆዩ</translation>
 <translation id="3043581297103810752">ከ <ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ማንነትን የማያሳውቅ)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (እንግዳ)</translation>
@@ -1464,8 +1464,8 @@ nil</translation>
 <translation id="6686817083349815241">የይለፍ ቃልዎን ያስቀምጡ</translation>
 <translation id="8141725884565838206">የይለፍ ቃልዎችዎን ያስተዳድሩ</translation>
 <translation id="8275038454117074363">ከውጭ አስመጣ</translation>
-<translation id="3191314862567596053">የይለፍ ቃላትን ወደ Dissenter ያስመጡ</translation>
-<translation id="6368144843345980623">የይለፍ ቃላትን ከDissenter ወደ ውጭ ይላኩ</translation>
+<translation id="3191314862567596053">የይለፍ ቃላትን ወደ Fulldive ያስመጡ</translation>
+<translation id="6368144843345980623">የይለፍ ቃላትን ከFulldive ወደ ውጭ ይላኩ</translation>
 <translation id="8503813439785031346">የተጣቃሚ ስም</translation>
 <translation id="6657585470893396449">የይለፍ ቃል፦</translation>
 <translation id="5472627187093107397">ለዚህ ጣቢያ የይለፍ ቃላትን ያስቀምጡ</translation>
@@ -1496,7 +1496,7 @@ nil</translation>
 <translation id="7052237160939977163">አፈጻጸም መከታተያ ውሂብ ይላኩ</translation>
 <translation id="5526928694260255286"><ph name="BEGIN_LINK"/>የብሉቱዝ ምዝግብ ማስታወሻ<ph name="END_LINK"/>ን ያያይዙ (Gab AI Inc ውስጣዊ)</translation>
 <translation id="3047644958362961983">ይህ መረጃ የረዳትዎ ችግር በተሻለ ሁኔታ እንድንረዳ ያግዘናል። እስከ 90 ቀኖች ድረስ የሚከማች ሲሆን መዳረሻ አግባብ ለሆኑ የምሕንድስና እና የግብረመልስ ቡድኖች የተገደበ ነው።</translation>
-<translation id="8545590844135745781">የብሉቱዝ ችግሮችን በተሻለ ሁኔታ ለመመርመር የGab AI Inc ሰራተኛዎች ተጨማሪ የብሉቱዝ ምዝግብ ማስታወሻን ከግብረመልስ ሪፖርቶቻቸው ጋር ማካተት ይችላሉ። ይህ አማራጭ ምልክት ሲደረግበት ሪፖርትዎ ከአሁኑ ክፍለ-ጊዜዎ የbtsnoop እና HCI ምዝግብ ማስታወሻዎችን ያካትታል፣ የተቻለውን ያህል PII ተወግዶ። የእነዚህ ምዝግብ ማስታወሻዎች መዳረሻ በListnr ቡድን ውስጥ ላሉ የDissenter OS ምርት አቀናባሪዎች የተገደበ ነው። የምዝግብ ማስታወሻዎች ከ90 ቀኖች በኋላ ሙሉ ለሙሉ ይወገዳሉ።</translation>
+<translation id="8545590844135745781">የብሉቱዝ ችግሮችን በተሻለ ሁኔታ ለመመርመር የGab AI Inc ሰራተኛዎች ተጨማሪ የብሉቱዝ ምዝግብ ማስታወሻን ከግብረመልስ ሪፖርቶቻቸው ጋር ማካተት ይችላሉ። ይህ አማራጭ ምልክት ሲደረግበት ሪፖርትዎ ከአሁኑ ክፍለ-ጊዜዎ የbtsnoop እና HCI ምዝግብ ማስታወሻዎችን ያካትታል፣ የተቻለውን ያህል PII ተወግዶ። የእነዚህ ምዝግብ ማስታወሻዎች መዳረሻ በListnr ቡድን ውስጥ ላሉ የFulldive OS ምርት አቀናባሪዎች የተገደበ ነው። የምዝግብ ማስታወሻዎች ከ90 ቀኖች በኋላ ሙሉ ለሙሉ ይወገዳሉ።</translation>
 <translation id="4206323443866416204">የግብረመልስ ሪፖርት</translation>
 <translation id="3681311097828166361">ለሰጡን ግብረመልስ እናመሰግናለን። አሁን ከመስመር ውጭ ነዎት፣ እና የእርስዎ ሪፖርት በኋላ ላይ ይላካል።</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>የስርዓት መረጃ<ph name="END_LINK1"/> ላክ</translation>
@@ -1513,15 +1513,15 @@ nil</translation>
 <translation id="6885771755599377173">የሥርዓት መረጃ ቅድመ-ዕይታ</translation>
 <translation id="1016566241875885511">ተጨማሪ መረጃ (ከተፈለገ)</translation>
 <translation id="8026334261755873520">የአሰሳ ውሂብ አጽዳ</translation>
-<translation id="4718442817388594217">የተመረጠው ውሂብ ከDissenter እና የሰመሩ መሣሪያዎች ተወግዷል። የGab AI Inc መለያዎ <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> ላይ እንደ የሌሎች Gab AI Inc አገልግሎቶች ፍለጋዎች እና እንቅስቃሴ ያለ ሌሎች የአሰሳ ታሪክ ዓይነት ሊኖረው ይችላል።</translation>
-<translation id="7814200940910057384">የDissenter ውሂብ ጸድቷል</translation>
+<translation id="4718442817388594217">የተመረጠው ውሂብ ከFulldive እና የሰመሩ መሣሪያዎች ተወግዷል። የGab AI Inc መለያዎ <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> ላይ እንደ የሌሎች Gab AI Inc አገልግሎቶች ፍለጋዎች እና እንቅስቃሴ ያለ ሌሎች የአሰሳ ታሪክ ዓይነት ሊኖረው ይችላል።</translation>
+<translation id="7814200940910057384">የFulldive ውሂብ ጸድቷል</translation>
 <translation id="7346909386216857016">እሺ፣ ገባኝ</translation>
 <translation id="8493236660459102203">ማይክሮፎን፦</translation>
 <translation id="3925573269917483990">ካሜራ፦</translation>
 <translation id="648927581764831596">ምንም አይገኝም</translation>
 <translation id="4172051516777682613">ሁልጊዜ አሳይ</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{ብቅ-ባይ ታግዷል}one{# ብቅ-ባዮች ታግዷል}other{# ብቅ-ባዮች ታግዷል}}</translation>
-<translation id="4156865452842056672">(Dissenter ስህተት ገጾች)</translation>
+<translation id="4156865452842056672">(Fulldive ስህተት ገጾች)</translation>
 <translation id="1734824808160898225"><ph name="PRODUCT_NAME"/> ራሱን እያዘመነ ላይቀጥል ይችላል</translation>
 <translation id="8590375307970699841">አውቶማቲክ ዝምኖችን አዋቅር</translation>
 <translation id="8926389886865778422">ደግመው አይጠይቁ</translation>
@@ -1626,10 +1626,10 @@ nil</translation>
 <translation id="8658645149275195032"><ph name="APP_NAME"/> የእርስዎን ማያ ገጽ እና ኦዲዮ ለ<ph name="TAB_NAME"/> እያጋራ ነው።</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> አንድ መስኮት እያጋራ ነው።</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> አንድ መስኮት ለ<ph name="TAB_NAME"/> እያጋራ ነው።</translation>
-<translation id="351520635355732555"><ph name="APP_NAME"/> የDissenter ትር እያጋራ ነው።</translation>
-<translation id="5727851901710884484"><ph name="APP_NAME"/> አንድ የDissenter ትር ለ<ph name="TAB_NAME"/> እያጋራ ነው።</translation>
-<translation id="5770515304879261338"><ph name="APP_NAME"/> የDissenter ትር እና ኦዲዮ እያጋራ ነው።</translation>
-<translation id="859454237594354073"><ph name="APP_NAME"/> አንድ የDissenter ትር እና ኦዲዮ ለ<ph name="TAB_NAME"/> እያጋራ ነው።</translation>
+<translation id="351520635355732555"><ph name="APP_NAME"/> የFulldive ትር እያጋራ ነው።</translation>
+<translation id="5727851901710884484"><ph name="APP_NAME"/> አንድ የFulldive ትር ለ<ph name="TAB_NAME"/> እያጋራ ነው።</translation>
+<translation id="5770515304879261338"><ph name="APP_NAME"/> የFulldive ትር እና ኦዲዮ እያጋራ ነው።</translation>
+<translation id="859454237594354073"><ph name="APP_NAME"/> አንድ የFulldive ትር እና ኦዲዮ ለ<ph name="TAB_NAME"/> እያጋራ ነው።</translation>
 <translation id="7108338896283013870">ደብቅ</translation>
 <translation id="890616557918890486">ምንጭ ይለውጡ</translation>
 <translation id="7792388396321542707">ማጋራት አቁም</translation>
@@ -1652,7 +1652,7 @@ nil</translation>
 <translation id="4711067597921221305">የአጠቃቀም ስታቲክሶችን እና የስንኩል ሪፖርቶችን ወደ Gab AI Inc በቀጥታ በመላክ <ph name="PRODUCT_NAME"/>ን የተሻለ ለማድረግ እገዛ ያድርጉ።</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/>ን ጀምር</translation>
 <translation id="4876273079589074638">መሐንዲሶቻችን ይህን ስንክል እንዲመረምሩና እንዲጠግኑት ያግዟቸው። ከቻሉ የተከተሏቸውን ደረጃዎች በሙሉ በትክክል ይግለጹ። ምንም አይረባም የሚባል ዝርዝር የለም!</translation>
-<translation id="5418694430960033386">ወይም Dissenter ማህደረ ትውስታ አልቆበታል ወይም የድረ-ገጹ ሂደት በሌላ ምክንያት ተቋርጧል። ለመቀጠል ዳግም ይጫኑ ወይም ወደ ሌላ ገጽ ይሂዱ።</translation>
+<translation id="5418694430960033386">ወይም Fulldive ማህደረ ትውስታ አልቆበታል ወይም የድረ-ገጹ ሂደት በሌላ ምክንያት ተቋርጧል። ለመቀጠል ዳግም ይጫኑ ወይም ወደ ሌላ ገጽ ይሂዱ።</translation>
 <translation id="3065041951436100775">የትር ተገድሏል ግብረመልስ።</translation>
 <translation id="3941565636838060942">የዚህ ፕሮግራም መዳረሻን ለመደበቅ በመቆጣጠሪያ ፓነል ውስጥ ያለውን
   <ph name="CONTROL_PANEL_APPLET_NAME"/> መጠቀም ማራገፍ አለብዎት።
@@ -1680,10 +1680,10 @@ nil</translation>
 <translation id="4980805016576257426">ይህ ቅጥያ ተንኮል-አዘል ዌር ይዟል።</translation>
 <translation id="5522156646677899028">ይህ ቅጥያ ከባድ የደህንነት ተጋላጭነት ያካትታል።</translation>
 <translation id="6945695820322143954">ይህ ቅጥያ የድር መደብር ፖሊሲን ይጥሳል።</translation>
-<translation id="177808131755847449">በDissenter ተሰናክሏል። ይህ ቅጥያ ደህንነቱ ያልተጠበቀ ሊሆን ይችላል።</translation>
+<translation id="177808131755847449">በFulldive ተሰናክሏል። ይህ ቅጥያ ደህንነቱ ያልተጠበቀ ሊሆን ይችላል።</translation>
 <translation id="1434696352799406980">ይህ የእርስዎን የመነሻ ገጽ፣ አዲስ የትር ገጽ፣ የፍለጋ ፕሮግራምን እና የተሰኩ ትሮችን ዳግም ያቀናብራቸዋል። እንዲሁም ሁሉንም ቅጥያዎች ያሰናክላል እና እንደ ኩኪዎች ያለ ጊዜያዊ ውሂብን ያጸዳል። የእርስዎ ዕልባቶች፣ ታሪክ እና የተቀመጡ የይለፍ ቃላት አይጸዱም።</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> ቅንብሮችዎን ዳግም ማስጀመር ይፈልጋሉ።</translation>
-<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/>የእርስዎ Dissenter ቅንብሮች ወደ የመጀመሪያቸው ነባሪዎች መመለስ ፈልጓል። ይሄ የእርስዎን መነሻ ገጽ፣ አዲስ የትር ገጽ እና የፍለጋ ፕሮግራም ዳግም ያስጀምራቸዋል፣ ቅጥያዎችዎን ያሰናክላቸዋል፣ እና ሁሉንም ትሮች ይነቅላቸዋል። እንዲሁም ሌሎች እንደ ኩኪዎች፣ ይዘት እና የጣቢያ ውሂብ ያለ ጊዜያዊ እና የተሸጎጠ ውሂብንም ያጸዳል።</translation>
+<translation id="8073477228424628709"><ph name="THIRD_PARTY_TOOL_NAME"/>የእርስዎ Fulldive ቅንብሮች ወደ የመጀመሪያቸው ነባሪዎች መመለስ ፈልጓል። ይሄ የእርስዎን መነሻ ገጽ፣ አዲስ የትር ገጽ እና የፍለጋ ፕሮግራም ዳግም ያስጀምራቸዋል፣ ቅጥያዎችዎን ያሰናክላቸዋል፣ እና ሁሉንም ትሮች ይነቅላቸዋል። እንዲሁም ሌሎች እንደ ኩኪዎች፣ ይዘት እና የጣቢያ ውሂብ ያለ ጊዜያዊ እና የተሸጎጠ ውሂብንም ያጸዳል።</translation>
 <translation id="7581462281756524039">የማጽጃ መሣሪያ</translation>
 <translation id="1233721473400465416">አካባቢ</translation>
 <translation id="2907619724991574506">ጀማሪ ዩ አር ኤሎች</translation>
@@ -1877,7 +1877,7 @@ nil</translation>
 <translation id="6664774537677393800">የእርስዎን መገለጫ በመክፈት ላይ የሆነ ችግር ተፈጥሯል። እባክዎ ዘግተው ይውጡና እንደገና ተመልሰው ይግቡ።</translation>
 <translation id="1794791083288629568">እኛ ይህን ችግር እንድንፈታው ለማገዝ ግብረመልስ ይላኩ።</translation>
 <translation id="8234795456569844941">እባክዎ መሐንዲሶቻችን ይህን ችግር እንዲፈቱት ያግዟቸው። ልክ የመገለጫ ስህተት መልዕክቱን ከማግኘትዎ በፊት ምን እንደተከሰተ ይንገሩን፦</translation>
-<translation id="6500340165622970282">የእርስዎን መገለጫ በመክፈት ላይ ሳለ የሆነ ችግር ስለተፈጠረ Dissenterን ማስጀምር አይቻልም። Dissenterን ዳግም ለማስጀመር ይሞክሩ።</translation>
+<translation id="6500340165622970282">የእርስዎን መገለጫ በመክፈት ላይ ሳለ የሆነ ችግር ስለተፈጠረ Fulldiveን ማስጀምር አይቻልም። Fulldiveን ዳግም ለማስጀመር ይሞክሩ።</translation>
 <translation id="6812349420832218321"><ph name="PRODUCT_NAME"/> እንደ ስር ሊሄድ አይችልም።</translation>
 <translation id="2292848386125228270"><ph name="PRODUCT_NAME"/> እባክዎ እንደ መደበኛ ተጠቃሚ ያስጀምሩት። እንደ ለግንባታ ስርወ ሆኖ ማሄድ ካስፈለግዎት፣ ከ--no-sandbox ጠቁም ጋር እንደገና ያሂዱት።</translation>
 <translation id="7547317915858803630">ማስጠንቀቂያ፦ የ<ph name="PRODUCT_NAME"/> ቅንብሮችዎ በአውታረ መረብ አንጻፊ ላይ ነው የተከማቹት። ይሄ ማንቀራፈፍ፣ ብልሽቶች እና እንዲያውም የውሂብ መጥፋት ሊያስከትል ይችላል።</translation>
@@ -2251,8 +2251,8 @@ nil</translation>
 <translation id="4720113199587244118">መሣሪያዎችን አክል</translation>
 <translation id="2776441542064982094">በአውታረ መረቡ ላይ ሊመዘገቡ የሚችሉ ምንም መሣሪያዎች የሌሉ ይመስላል። የእርስዎ መሣሪያ ከበራ እና ከበይነመረቡ ጋር የተገናኘ ከሆነ በመመሪያው ላይ ያሉ ትዕዛዞችን በመከተል እሱን ለማስመዝገብ ይሞክሩ።</translation>
 <translation id="1007408791287232274">መሣሪያዎችን መጫን አልተቻለም።</translation>
-<translation id="3886420006370338208">የእርስዎን መሣሪያዎች ለማየት በመለያ ወደ የእርስዎ Dissenter መግባት አለብዎት</translation>
-<translation id="6711610692002680394">አዲስ መሣሪያዎችን ለማስመዝገብ በመለያ ወደ Dissenter መግባት አለብዎት</translation>
+<translation id="3886420006370338208">የእርስዎን መሣሪያዎች ለማየት በመለያ ወደ የእርስዎ Fulldive መግባት አለብዎት</translation>
+<translation id="6711610692002680394">አዲስ መሣሪያዎችን ለማስመዝገብ በመለያ ወደ Fulldive መግባት አለብዎት</translation>
 <translation id="8931394284949551895">አዲስ መሣሪያዎች</translation>
 <translation id="3752673729237782832">የእኔ መሣሪያዎች</translation>
 <translation id="1721937473331968728">ከእርስዎ ኮምፒውተር ጋር የተገናኙ የሚታወቁ አይነት አታሚዎችን ወደ <ph name="CLOUD_PRINT_NAME"/> ማከል ይችላሉ።</translation>
@@ -2325,7 +2325,7 @@ nil</translation>
 <translation id="4540437243849625078">ይህ ጣቢያ ማንነት ከማያሳውቅ ሁነታ ውጭ ላለ መተግበሪያ መረጃ ሊያጋራ ነው።</translation>
 <translation id="1227836882233136433">ማንነት ከማያሳውቅ ሁነታ ይውጣ?</translation>
 <translation id="662080504995468778">ቆይ</translation>
-<translation id="2593289874938379417">Dissenter የተጠየቀው ግብዓት መዳረሻ የለውም።</translation>
+<translation id="2593289874938379417">Fulldive የተጠየቀው ግብዓት መዳረሻ የለውም።</translation>
 <translation id="760197030861754408">ለመገናኘት ወደ <ph name="LANDING_PAGE"/> ይሂዱ።</translation>
 <translation id="3648348069317717750"><ph name="USB_DEVICE_NAME"/> ተገኝቷል</translation>
 <translation id="5042282098504489593"><ph name="USB_DEVICE_NAME"/>ን ከLinux ጋር ለማገናኘት ቅንብሮችን ይክፈቱ</translation>
@@ -2380,24 +2380,24 @@ nil</translation>
 <translation id="2859806420264540918">ይህ ጣቢያ ረባሽ ወይም አሳሳች ማስታወቂያዎችን ያሳያል።</translation>
 <translation id="4077917118009885966">በዚህ ጣቢያ ላይ ማስታወቂያዎች ታግደዋል</translation>
 <translation id="6456955391422100996">ማስታወቂያ ተወግዷል።</translation>
-<translation id="7533556202636568669">ይህ ማስታወቂያ ከልክ በላይ ብዙ ግብዓቶች ለእርስዎ መሣሪያ አሉት ስለሆነም Dissenter አስወግዶታል።</translation>
+<translation id="7533556202636568669">ይህ ማስታወቂያ ከልክ በላይ ብዙ ግብዓቶች ለእርስዎ መሣሪያ አሉት ስለሆነም Fulldive አስወግዶታል።</translation>
 <translation id="8497219075884839166">የWindows መገልገያዎች</translation>
 <translation id="897525204902889653">የማግለያ አገልግሎት</translation>
 <translation id="7055152154916055070">አቅጣጫ ማዞር ታግዷል፦</translation>
 <translation id="6777817260680419853">አቅጣጫ ማዞር ታግዷል</translation>
 <translation id="694592694773692225">በዚህ ገጽ ላይ አቅጣጫ ማዞር ታግዷል።</translation>
-<translation id="8945142681652245463">ከGab AI Inc Dissenter ጋር በፍጥነት ያስሱ</translation>
-<translation id="2618024864038703735">ከGab AI Inc Dissenter ጋር ደህንነቱ በተጠበቀ ሁኔታ ያስሱ</translation>
-<translation id="8142180567942285208">ከDissenter ጋር በዘመናዊ መንገድ ያስሱ</translation>
+<translation id="8945142681652245463">ከGab AI Inc Fulldive ጋር በፍጥነት ያስሱ</translation>
+<translation id="2618024864038703735">ከGab AI Inc Fulldive ጋር ደህንነቱ በተጠበቀ ሁኔታ ያስሱ</translation>
+<translation id="8142180567942285208">ከFulldive ጋር በዘመናዊ መንገድ ያስሱ</translation>
 <translation id="8862003515646449717">ወደ ፈጣን አሳሽ ቀይር</translation>
 <translation id="8438328416656800239">ወደ ዘመናዊ አሳሽ ቀይር</translation>
 <translation id="491691592645955587">ደህንነቱ ወደተጠበቀ አሳሽ ቀይር</translation>
 <translation id="683373380308365518">ወደ ዘመናዊ እና ደህንነቱ የተጠበቀ አሳሽ ይቀይሩ</translation>
-<translation id="989239400026154074">Gab AI Inc Dissenterን ይመክራል</translation>
-<translation id="6676231621615806698">Dissenterን ክፈት</translation>
+<translation id="989239400026154074">Gab AI Inc Fulldiveን ይመክራል</translation>
+<translation id="6676231621615806698">Fulldiveን ክፈት</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> አካባቢያዊ ይዘትን ለእርስዎ ለመስጠት አካባቢዎን ይጠቀማል። ይህን በ<ph name="SETTINGS_LINK"/> ውስጥ መቀየር ይችላሉ።</translation>
 <translation id="3737536731758327622">የእርስዎ ውርዶች እዚህ ይታያሉ</translation>
-<translation id="4782664866169793230">Dissenter በራስ-ሰር የሙከራ ሶፍትዌር ቁጥጥር ሥር ነው።</translation>
+<translation id="4782664866169793230">Fulldive በራስ-ሰር የሙከራ ሶፍትዌር ቁጥጥር ሥር ነው።</translation>
 <translation id="6721678857435001674">የደህንነት ቁልፍዎን ስሪት እና ሞዴል ይመልከቱ</translation>
 <translation id="1673137583248014546"><ph name="URL"/> የደህንነት ቁልፍዎን ስሪት እና ሞዴል ማየት ይፈልጋል</translation>
 <translation id="6010869025736512584">የቪዲዮ ግብዓትን በመድረስ ላይ</translation>
@@ -2530,7 +2530,7 @@ nil</translation>
 <translation id="3984431586879874039">ይህ ጣቢያ የደህንነት ቁልፍዎ እንዲመለከት ይፈቀድለት?</translation>
 <translation id="8948939328578167195"><ph name="WEBSITE"/> የደህንነት ቁልፍዎን ስሪት እና ሞዴል ማየት ይፈልጋል</translation>
 <translation id="7618452966706304788">ከ <ph name="APP_NAME"/> ጋር ማንነትን በማያሳውቅ ሁነታ የንኪ መታወቂያን ለመጠቀም ይፈልጋሉ?</translation>
-<translation id="3098826269712097986">ማንነትን ከማያሳውቅ ሁነታ ከወጡ በኋላ፣ በ Dissenter ውስጥ በመለያ መግቢያ ውሂብ ይከማቻል። በኋላ ላይ እንደገና ከዚህ የድር ጣቢያ ጋር የንኪ መታወቂያን እንዲጠቀሙ ይህ ያስችልዎታል።</translation>
+<translation id="3098826269712097986">ማንነትን ከማያሳውቅ ሁነታ ከወጡ በኋላ፣ በ Fulldive ውስጥ በመለያ መግቢያ ውሂብ ይከማቻል። በኋላ ላይ እንደገና ከዚህ የድር ጣቢያ ጋር የንኪ መታወቂያን እንዲጠቀሙ ይህ ያስችልዎታል።</translation>
 <translation id="2172784515318616985">ቀጥል</translation>
 <translation id="5186185447130319458">ማንነት የማያሳውቅ</translation>
 <translation id="7643842463591647490">{0,plural, =1{# ክፍት መስኮት}one{# ክፍት መስኮቶች}other{# ክፍት መስኮቶች}}</translation>
@@ -2572,7 +2572,7 @@ nil</translation>
 <translation id="2346953515226895098">የSODA አገልግሎት</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> ባለበት ቆሟል</translation>
 <translation id="917350715406657904">የእርስዎ ወላጅ ለ<ph name="APP_NAME"/> ያቀናበሩት የጊዜ ገደብ ላይ ደርሰዋል። ነገ ለ<ph name="TIME_LIMIT"/> ሊጠቀሙበት ይችላሉ።</translation>
-<translation id="8891261408659902804">የእርስዎ ወላጅ ለ<ph name="APP_NAME"/> Dissenter መተግበሪያ ያቀናበሩት የጊዜ ገደብ ላይ ደርሰዋል። ነገ ለ<ph name="TIME_LIMIT"/> ሊጠቀሙበት ይችላሉ።</translation>
+<translation id="8891261408659902804">የእርስዎ ወላጅ ለ<ph name="APP_NAME"/> Fulldive መተግበሪያ ያቀናበሩት የጊዜ ገደብ ላይ ደርሰዋል። ነገ ለ<ph name="TIME_LIMIT"/> ሊጠቀሙበት ይችላሉ።</translation>
 <translation id="142655739075382478"><ph name="APP_NAME"/> ታግዷል</translation>
 <translation id="4404843640767531781"><ph name="APP_NAME"/> በእርስዎ ወላጅ ታግዷል። ወላጅዎ ይህን መተግበሪያ እንዲጠቀሙ ፈቃድ ይጠይቋቸው።</translation>
 <translation id="751523031290522286"><ph name="APP_NAME"/> በአስተዳዳሪ ታግዷል። ይህን መተግበሪያ ለመጠቀም ከአስተዳዳሪ ፈቃድ ይጠይቁ።</translation>
@@ -2917,7 +2917,7 @@ nil</translation>
 <translation id="672213144943476270">እንደ እንግዳ ከማሰስዎ በፊት የእርስዎን መገለጫ እባክዎ ይክፈቱ።</translation>
 <translation id="8086119151297127544">እንደ እንግዳ ከማሰስዎ በፊት እባክዎ የእርስዎን መገለጫ ይክፈቱ።</translation>
 <translation id="7805701378418968629">እባክዎ መገለጫ ከማከልዎ በፊት መገለጫዎን ይክፈቱ።</translation>
-<translation id="8978225823042133615">Dissenterን ለመጠቀም እባክዎ በመለያ ያግቡ</translation>
+<translation id="8978225823042133615">Fulldiveን ለመጠቀም እባክዎ በመለያ ያግቡ</translation>
 <translation id="4893336867552636863">ይሄ የአሰሳ ውሂብዎን ለዘለዓለም ከዚህ መሣሪያ ይሰርዘዋል።</translation>
 <translation id="2496180316473517155">ታሪክ አሰሳ</translation>
 <translation id="6865313869410766144">የራስ-ሙላ ቅጽ ውሂብ</translation>
@@ -2941,7 +2941,7 @@ nil</translation>
 <translation id="9013707997379828817">የእርስዎ አስተዳዳሪ ይህን መሣሪያ ቀንሶታል። እባክዎ አስፈላጊ ፋይሎችን ያስቀምጡ እና በመቀጠል ዳግም ይስጀምሩ። ሁሉም በመሣሪያው ላይ ያለ ውሂብ ይሰረዛል።</translation>
 <translation id="5877064549588274448">ሰርጥ ተለውጧል። ለውጦችን ለመተግበር መሳሪያዎን ዳግም ያስጀምሩ።</translation>
 <translation id="4716483597559580346">Powerwash ለደህንነት ታክሏል</translation>
-<translation id="4089922565956168950">ይህ ማላቅ የእርስዎን Dissenterbook ዳግም ያስጀምረውና የአሁኑን ተጠቃሚ ውሂብ ያስወግዳል።</translation>
+<translation id="4089922565956168950">ይህ ማላቅ የእርስዎን Fulldivebook ዳግም ያስጀምረውና የአሁኑን ተጠቃሚ ውሂብ ያስወግዳል።</translation>
 <translation id="3688526734140524629">ሰርጥ ቀይር</translation>
 <translation id="6410328738210026208">ሰርጥ ቀይር እና Powerwash</translation>
 <translation id="1979280758666859181">የቆየ የ<ph name="PRODUCT_NAME"/> ስሪት ወዳለው ሰርጥ እየቀየሩ ነው። የስርጡ ስሪት አሁን በመሣሪያዎ ላይ ከተጫነው ስሪት ጋር ሲዛመድ ነው የሰርጡ ለውጥ የሚተገበረው።</translation>
@@ -2973,7 +2973,7 @@ nil</translation>
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>፣ +1 ተጨማሪ መለያ}one{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> ተጨማሪ መለያዎች}other{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> ተጨማሪ መለያዎች}}</translation>
 <translation id="7434635829372401939">የእርስዎ ቅንብሮችን አስምር</translation>
 <translation id="1036348656032585052">አጥፋ</translation>
-<translation id="3267705913905916810">የእርስዎ መተግበሪያዎች እና ቅንብሮች በGab AI Inc መለያዎ በገቡባቸው ሁሉም የDissenter OS መሣሪያዎች ላይ ይሰምራሉ። ለአሳሽ ስምረት አማራጮች ወደ <ph name="LINK_BEGIN"/>የDissenter ቅንብሮች<ph name="LINK_END"/> ይሂዱ።</translation>
+<translation id="3267705913905916810">የእርስዎ መተግበሪያዎች እና ቅንብሮች በGab AI Inc መለያዎ በገቡባቸው ሁሉም የFulldive OS መሣሪያዎች ላይ ይሰምራሉ። ለአሳሽ ስምረት አማራጮች ወደ <ph name="LINK_BEGIN"/>የFulldive ቅንብሮች<ph name="LINK_END"/> ይሂዱ።</translation>
 <translation id="6985607387932385770">አታሚዎች</translation>
 <translation id="8418661265246754237">የGab AI Inc መለያዎች</translation>
 <translation id="3953834000574892725">የእኔ መለያዎች</translation>
@@ -3020,7 +3020,7 @@ nil</translation>
 <translation id="2187700606737131818">Gab AI Inc ፎቶዎች</translation>
 <translation id="1827738518074806965">የሥነ ጥበብ ማዕከል</translation>
 <translation id="9137157311132182254">የተመረጠው የፍለጋ ፕሮግራም</translation>
-<translation id="7423118389528876103">በ Dissenter አሳሽ እና የ<ph name="DEVICE_TYPE"/> አስጀማሪ ሥራ ላይ የሚውል</translation>
+<translation id="7423118389528876103">በ Fulldive አሳሽ እና የ<ph name="DEVICE_TYPE"/> አስጀማሪ ሥራ ላይ የሚውል</translation>
 <translation id="2862205630718215619">Gab AI Inc ረዳት</translation>
 <translation id="8959699239363253085">አብራ</translation>
 <translation id="971479617738309149">ጠፍቷል</translation>
@@ -3040,15 +3040,15 @@ nil</translation>
 <translation id="6644513150317163574">ልክ ያልሆነ የዩአርኤል ቅርጸት። SSO ማረጋገጫ ጥቅም ላይ በሚውልበት ጊዜ የአስተናጋጅ ስምን አገልጋዩ መጥቀስ ይኖርበታል።</translation>
 <translation id="6091761513005122595">አጋራ በተሳካ ሁኔታ ተፈናጥጧል።</translation>
 <translation id="5770125698810550803">የዳሰሳ አዝራሮችን አሳይ</translation>
-<translation id="2972318514147518075">በጡባዊ ሁነታ ላይ ወደ ቤት ይዳስሱ፣ ይመለሱ እና መተግበሪያዎችን ይቀይሩ። DissenterVox ወይም ራስ-ሰር ጠቅታዎች ሲነቃ የሚበራል።</translation>
+<translation id="2972318514147518075">በጡባዊ ሁነታ ላይ ወደ ቤት ይዳስሱ፣ ይመለሱ እና መተግበሪያዎችን ይቀይሩ። FulldiveVox ወይም ራስ-ሰር ጠቅታዎች ሲነቃ የሚበራል።</translation>
 <translation id="2558896001721082624">በሥርዓት ምናሌ ውስጥ የተደራሽነት አማራጮችን ሁልጊዜ አሳይ</translation>
 <translation id="2981113813906970160">ትልቅ የመዳፊት ጠቋሚ አሳይ</translation>
 <translation id="5072052264945641674">የጠቋሚ መጠንን አስተካክል</translation>
 <translation id="4209092469652827314">ትልቅ</translation>
 <translation id="499165176004408815">ባለከፍተኛ ንፅፅር ሁነታ ተጠቀም</translation>
 <translation id="142758023928848008">ተጣባቂ ቁልፎችን ያንቁ (የቁልፍ ሰሌዳ አቋራጮችን በቅደም ተከተል በመተየብ ለማከናወን)</translation>
-<translation id="5914872514449971753">DissenterVoxን (የሚነገር ግብረመልስ) አንቃ</translation>
-<translation id="7099511550603534982">የDissenterVox ቅንብሮችን ክፈት</translation>
+<translation id="5914872514449971753">FulldiveVoxን (የሚነገር ግብረመልስ) አንቃ</translation>
+<translation id="7099511550603534982">የFulldiveVox ቅንብሮችን ክፈት</translation>
 <translation id="8547013269961688403">የሙሉ ገጽ እይታ ማጉያን ያንቁ</translation>
 <translation id="8743390665131937741">የሙሉ ገጽ እይታ ማጉያ ደረጃ፦</translation>
 <translation id="7334274148831027933">የተተከለ ማጉያን ያንቁ</translation>
@@ -3140,7 +3140,7 @@ nil</translation>
 <translation id="6902066522699286937">ቅድሚያ የሚታይ ድምጽ</translation>
 <translation id="304747341537320566">የንግግር ፕሮግራሞች</translation>
 <translation id="2755367719610958252">የተደራሽነት ባህሪያትን ያቀናብሩ</translation>
-<translation id="1203953622051744249">የተገባባቸው መለያዎችዎን ያቀናብሩ በDissenter እና በGab AI Inc Play ውስጥ ያሉ ድር ጣቢያዎች፣ መተግበሪያዎች እና ቅጥያዎች በፈቃዶች ላይ የሚወሰን ሆኖ የእርስዎን ተሞክሮ ለማበጀት እነዚህን መለያዎች ሊጠቀሙባቸው ይችላሉ። <ph name="LINK_BEGIN"/>የበለጠ ለመረዳት<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">የተገባባቸው መለያዎችዎን ያቀናብሩ በFulldive እና በGab AI Inc Play ውስጥ ያሉ ድር ጣቢያዎች፣ መተግበሪያዎች እና ቅጥያዎች በፈቃዶች ላይ የሚወሰን ሆኖ የእርስዎን ተሞክሮ ለማበጀት እነዚህን መለያዎች ሊጠቀሙባቸው ይችላሉ። <ph name="LINK_BEGIN"/>የበለጠ ለመረዳት<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">የትምህርት ቤት መለያ ያክሉ ወይም የልጆች መለያዎችን እዚህ ያቀናብሩ። <ph name="LINK_BEGIN"/>የበለጠ ለመረዳት<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">መለያዎች</translation>
 <translation id="6597148444736186483">በዚህ መሣሪያ ላይ ከዋናው መለያ ዘግተው ለመውጣት በማያ ገጽዎ ላይ ጊዜውን ጠቅ ያድርጉ። በሚመጣው ምናሌ ላይ «ዘግተህ ውጣ»ን ጠቅ ያድርጉ።</translation>
@@ -3212,7 +3212,7 @@ nil</translation>
 <translation id="234889437187286781">ውሂብ በመስቀል ላይ ስህተት አለ</translation>
 <translation id="4660540330091848931">መጠንን በመቀየር ላይ</translation>
 <translation id="1481537595330271162">የዲስክ መጠንን መቀየር ላይ ስሕተት</translation>
-<translation id="2756917833575664962">የADB ስሕተት ማረሚያን ለማንቃት በዚህ Dissenterbook ላይ የፋብሪካ ዳግም ቅንብር ያስፈልጋል። <ph name="BEGIN_LINK_LEARN_MORE"/>የበለጠ ለመረዳት<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">የADB ስሕተት ማረሚያን ለማንቃት በዚህ Fulldivebook ላይ የፋብሪካ ዳግም ቅንብር ያስፈልጋል። <ph name="BEGIN_LINK_LEARN_MORE"/>የበለጠ ለመረዳት<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">የADB ስሕተት ማረሚያን ለማንቃት፣ የዚህ <ph name="DEVICE_TYPE"/> ዳግም ማስጀመር ያስፈልጋል። ማሰናከል ወደ የፋብሪካ ቅንብሮች ዳምግ ማስጀመር ያስፈልገዋል።</translation>
 <translation id="8082390128630131497">የADB ስሕተት ማረሚያን ማሰናከል ይህን <ph name="DEVICE_TYPE"/> ወደ ፋብሪካ ቅንብሮች ዳግም ያቀናብራል። ሁሉም የተጠቃሚ መለያዎች እና አካባቢያዊ ውሂብ ይደመሰሳሉ።</translation>
 <translation id="7932969338829957666">የተጋሩ አቃፊዎች <ph name="BASE_DIR"/> ላይ በLinux ላይ ይይገኛሉ።</translation>
@@ -3340,10 +3340,10 @@ nil</translation>
 <translation id="8002670234429879764"><ph name="PRINTER_NAME"/> ከእንግዲህ አይገኝም</translation>
 <translation id="3976108569178263973">ምንም የሚገኙ አታሚዎች የሉም።</translation>
 <translation id="217576141146192373">አታሚን ማከል አልተቻለም። የእርስዎን አታሚ ውቅረት እባክዎ ይፈትሹ እና እንደገና ይሞክሩ።</translation>
-<translation id="4052689580269971502">ከአታሚ ጋር መገናኘት አልተቻለም። አታሚው መብራቱንና በWi-Fi ወይም በዩኤስቢ ከእርስዎ Dissenterbook ጋር መገናኘቱን ያረጋግጡ።</translation>
+<translation id="4052689580269971502">ከአታሚ ጋር መገናኘት አልተቻለም። አታሚው መብራቱንና በWi-Fi ወይም በዩኤስቢ ከእርስዎ Fulldivebook ጋር መገናኘቱን ያረጋግጡ።</translation>
 <translation id="7099337801055912064">ትልቅ PPDን መጫን አልተቻለም። ከፍተኛው መጠን 250 ኪባ ነው።</translation>
 <translation id="4310139701823742692">ፋይሉ በተሳሳተ ቅርጸት ነው ያለው። የPPD ፋይሉን ይመልከቱና እንደገና ይሞክሩ።</translation>
-<translation id="6580983683519551561">PPDን ማግኘት አልተቻለም። የእርስዎ Dissenterbook መስመር ላይ መሆኑን ያረጋግጡና እንደገና ይሞክሩ።</translation>
+<translation id="6580983683519551561">PPDን ማግኘት አልተቻለም። የእርስዎ Fulldivebook መስመር ላይ መሆኑን ያረጋግጡና እንደገና ይሞክሩ።</translation>
 <translation id="4694024090038830733">የአታሚ ውቅረት በአስተዳዳሪው ነው የሚሰራው።</translation>
 <translation id="5816434091619127343">የተጠየቁት የአታሚ ለውጦች አታሚው ጥቅም እንዳይሰጥ ያደርጉታል።</translation>
 <translation id="6504611359718185067">አታሚን ለማከል ከበይነመረብ ጋር ያገናኙ</translation>
@@ -3679,18 +3679,18 @@ nil</translation>
 <translation id="7770651108375708429">የWi-Fi ግንኙነት አቋርጥ</translation>
 <translation id="4168015872538332605">አንዳንድ የ<ph name="PRIMARY_EMAIL"/> ቅንብሮች ለእርስዎ እየተጋሩ ነው። እነዚህ ቅንብሮች መለያዎ ላይ ተጽዕኖ የሚኖራቸው ባለብዙ መለያ መግቢያን ሲጠቀሙ ብቻ ነው።</translation>
 <translation id="1485141095922496924">ስሪት <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">Dissenterን ለሁሉም ተጠቃሚዎች በራስ-ሰር አዘምን</translation>
+<translation id="4570609078116869893">Fulldiveን ለሁሉም ተጠቃሚዎች በራስ-ሰር አዘምን</translation>
 <translation id="7102687220333134671">ራስ-ሰር ዝማኔዎች በርተዋል</translation>
 <translation id="6981982820502123353">ተደራሽነት</translation>
 <translation id="5840822070878669614">የድር መደብር ክፈት</translation>
 <translation id="6073903501322152803">የተደራሽነት ባህሪያትን ያክሉ</translation>
 <translation id="7988355189918024273">የተደራሽነት ቅንብሮች ያንቁ</translation>
-<translation id="5499063270485366718">አንድ ምስል ጠቃሚ መግለጫ ከሌለው Dissenter ለእርስዎ አንድ ለማቅረብ ይሞክራል። ዝርዝር መግለጫዎችን ለመፍጠር፣ ምስሎች ወደ Gab AI Inc ይላካሉ።</translation>
+<translation id="5499063270485366718">አንድ ምስል ጠቃሚ መግለጫ ከሌለው Fulldive ለእርስዎ አንድ ለማቅረብ ይሞክራል። ዝርዝር መግለጫዎችን ለመፍጠር፣ ምስሎች ወደ Gab AI Inc ይላካሉ።</translation>
 <translation id="8957762313041272117">የቀጥታ ስርጭት መግለጫ ጽሑፍ</translation>
-<translation id="7075426315046750605">ቀጥታ መግለጫ ጽሑፍ በሚዲያ ውስጥ ንግግርን ፈልጎ ያገኝ ኣና በራስ-ሰር በDissenter ውስጥ በመጫወት ላይ ላሉ ሁሉም ሚዲያ መግለጫ ጽሑፎችን ያመነጫል።</translation>
+<translation id="7075426315046750605">ቀጥታ መግለጫ ጽሑፍ በሚዲያ ውስጥ ንግግርን ፈልጎ ያገኝ ኣና በራስ-ሰር በFulldive ውስጥ በመጫወት ላይ ላሉ ሁሉም ሚዲያ መግለጫ ጽሑፎችን ያመነጫል።</translation>
 <translation id="572155275267014074">የAndroid ቅንብሮች</translation>
 <translation id="7201042526153088083">በእርስዎ <ph name="DEVICE_TYPE"/> ላይ መተግበሪያዎችን እና ጨዋታዎችን ከGab AI Inc Play ይጫኑ። &lt;a target="_blank" href="<ph name="URL"/>"&gt;የበለጠ ለመረዳት&lt;/a&gt;</translation>
-<translation id="8039595758121742506">እርስዎ ከGab AI Inc Play ያወረዷቸው መተግበሪያዎች ከዚህ Dissenterbook ይሰረዛሉ።
+<translation id="8039595758121742506">እርስዎ ከGab AI Inc Play ያወረዷቸው መተግበሪያዎች ከዚህ Fulldivebook ይሰረዛሉ።
       <ph name="LINE_BREAKS1"/>
       እንዲሁም እንደ ፊልሞች፣ የቴሌቪዥን ትርኢቶች፣ ሙዚቃ፣ መጽሐፍት ወይም ሌሎች የውስጠ-መተግበሪያ ግዢዎች ያሉ እርስዎ የገዟቸው ይዘቶች ሊሰረዙ ይችላሉ።
       <ph name="LINE_BREAKS2"/>
@@ -3704,7 +3704,7 @@ nil</translation>
 <translation id="6006484371116297560">የታወቀ ገጽታ</translation>
 <translation id="1795214765651529549">የታወቀ ገጽታን ተጠቀም</translation>
 <translation id="2332742915001411729">ወደ ነባሪ ዳግም አስጀምር</translation>
-<translation id="8338457030135232378">Dissenter ቀለማት</translation>
+<translation id="8338457030135232378">Fulldive ቀለማት</translation>
 <translation id="827097179112817503">መነሻ አዝራር አሳይ</translation>
 <translation id="383007806262310953">የዕልባቶች አሞሌን አሳይ</translation>
 <translation id="3911824782900911339">የአዲስ ትር ገጽ</translation>
@@ -3716,7 +3716,7 @@ nil</translation>
 <translation id="1670399744444387456">መሠረታዊ</translation>
 <translation id="1763808908432309942">በአዲስ ትር ውስጥ ይከፍታል</translation>
 <translation id="6248988683584659830">ቅንብሩን ይፈልጉ</translation>
-<translation id="883304095704384301">የሚፈልጉትን ነገር ማግኘት ካልቻሉ ወደ <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Dissenter እገዛ<ph name="END_LINK_CHROMIUM"/> ይሂዱ</translation>
+<translation id="883304095704384301">የሚፈልጉትን ነገር ማግኘት ካልቻሉ ወደ <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive እገዛ<ph name="END_LINK_CHROMIUM"/> ይሂዱ</translation>
 <translation id="6406708970972405507">ቅንብሮች - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">የንዑስ ገጽ አዝራር</translation>
 <translation id="379509625511193653">ጠፍቷል</translation>
@@ -3903,7 +3903,7 @@ nil</translation>
 <translation id="5468173180030470402">የፋይል ማጋራቶችን በመፈለግ ላይ</translation>
 <translation id="3336664756920573711">የእርስዎን <ph name="DEVICE_TYPE"/> በAndroid ስልክዎ ይክፈቱት</translation>
 <translation id="1164674268730883318">Smart Lock ለ<ph name="DEVICE_TYPE"/> ያጥፉ?</translation>
-<translation id="2739030071582769583">ዘመናዊ ቁልፍን ለ<ph name="DEVICE_TYPE"/> ካጠፉ ስልክዎን ተጠቅመው የDissenter መሣሪያዎችዎን ማስከፈት አይችሉም። የይለፍ ቃልዎን መተየብ ይኖርብዎታል።</translation>
+<translation id="2739030071582769583">ዘመናዊ ቁልፍን ለ<ph name="DEVICE_TYPE"/> ካጠፉ ስልክዎን ተጠቅመው የFulldive መሣሪያዎችዎን ማስከፈት አይችሉም። የይለፍ ቃልዎን መተየብ ይኖርብዎታል።</translation>
 <translation id="4737715515457435632">እባክዎ ከአንድ አውታረ መረብ ጋር ይገናኙ</translation>
 <translation id="5425722269016440406">ይህ ቅንብር በስልኩ ላይ እና በሌሎች መሣሪያዎች ላይ እንዲመሳሰል ስለተደረገ Smart Lockን ለማጥፋት መስመር ላይ መሆን አለብዎት። በመጀመሪያ እባክዎ ወደ አውታረ መረብ ያገናኙ።</translation>
 <translation id="8885197664446363138">Smart Lock ሊገኝ አይችልም</translation>
@@ -4137,20 +4137,20 @@ nil</translation>
 <translation id="3633309367764744750">እስካሁን ያልጎበኗቸውን ገጾች ጨምሮ ከገጾች መረጃን አስቀድሞ ያወጣል። ኩኪዎችን እርስዎ ከፈቀዱ፣ የሚገኘው መረጃ ኩኪዎችን ሊያካትት ይችላል።</translation>
 <translation id="3201899458094819285">ደኅንነቱ የተጠበቀ አሰሳ (እርስዎን እና የእርስዎን መሣሪያ ከአደገኛ ጣቢያዎች ጥበቃ ያደርግላችኋል)</translation>
 <translation id="2876369937070532032">የእርስዎ ደኅንነት አደጋ ላይ ሲወድቅ እርስዎ የሚጎበኙዋቸውን አንዳንድ ገጾች ዩአርኤሎች ወደ Gab AI Inc ይልካል።</translation>
-<translation id="4991384657077828949">የDissenter ደህንነት እንዲሻሻል ያግዙ</translation>
+<translation id="4991384657077828949">የFulldive ደህንነት እንዲሻሻል ያግዙ</translation>
 <translation id="1984646864943401749">አዲስ ስጋቶችን ለማግኘት እንዲያግዝ እና በድር ላይ ያለ ሁሉንም ሰው ለመጠበቅ የጎበኟቸው የአንዳንድ ገጾች ዩአርኤሎችን፣ የተወሰነ የስርዓት መረጃን እና አንዳንድ የገጽ ይዘትን ወደ Gab AI Inc ይልካል።</translation>
 <translation id="1641113438599504367">የጥንቃቄ አሰሳ</translation>
 <translation id="6900532703269623216">የላቀ ጥበቃ</translation>
 <translation id="7307583170263691471">ይበልጥ ፈጣን፣ ከአደገኛ ድር ጣቢያዎች፣ ማውረዶች እና ቅጥያዎች አስቀድሞ የሚደረግ ጥበቃ። ስለይለፍ ቃል ጥሰቶች ያስጠነቅቅዎታል። ወደ Gab AI Inc የአሰሳ ውሂብን መላክ ያስፈልጋል።</translation>
 <translation id="8645920082661222035">አደገኛ ክስተቶች ከመፈጠራቸው በፊት ይገምት እና እርስዎን ያስጠነቅቀዎታል</translation>
-<translation id="5265419033369521352">በDissenter ላይ ደህንነትዎን ይጠብቃል፣ እና በመለያ በገቡባቸው ሌሎች የGab AI Inc መተግበሪያዎች ላይ ደህንነትዎን ለማሻሻል ስራ ላይ ሊውል ይችላል።</translation>
+<translation id="5265419033369521352">በFulldive ላይ ደህንነትዎን ይጠብቃል፣ እና በመለያ በገቡባቸው ሌሎች የGab AI Inc መተግበሪያዎች ላይ ደህንነትዎን ለማሻሻል ስራ ላይ ሊውል ይችላል።</translation>
 <translation id="6770602306803890733">ለእርስዎ እና ለማናቸውም በድር ላይ ያለ ሁሉም ሰው ደህንነትን ያሻሽላል</translation>
 <translation id="3690369331356918524">የይለፍ ቃላት በውሂብ ደንብ ጥሰት ተጋላጭ ከሆኑ ያስጠነቅቀዎታል</translation>
 <translation id="4979281249641199724">ዩአርኤሎችን ለመፈተሽ ወደ ደህንነቱ የተጠበቀ አሰሳ ይልካቸዋል። አዲስ ስጋቶችን ፈልጎ ለማግኘት እንዲያግዝ በተጨማሪም የገጾች፣ የማውረዶች፣ የቅጥያ እንቅስቃሴ እና የሥርዓት መረጃ ትንሽ ናሙና ይልካል። እርስዎን በመላው የGab AI Inc መተግበሪያዎች ላይ ለመጠበቅ ይህን ውሂብ ለጊዜው ከGab AI Inc መለያዎ ጋር ያገናኘዋል።</translation>
 <translation id="1963976881984600709">መደበኛ ጥበቃ</translation>
 <translation id="6882836635272038266">አደገኛ መሆናቸው ከታወቁ የድር ጣቢያዎች፣ ማውረዶች እና ቅጥያዎች መደበኛ ጥበቃ።</translation>
 <translation id="5561162485081632007">አደገኛ ክስተቶች ልክ ሲያጋጥሙ ፈልጎ ያገኛቸውና ስለእነሱ ያስጠነቅቅዎታል</translation>
-<translation id="7810992039564280750">በDissenter ላይ የተከማቹ ድህንነታቸው ያልተጠበቁ ጣቢያዎች ዝርዝር ጋር ዩአርኤሎችን ይፈትሻል። አንድ ጣቢያ የእርስዎን የይለፍ ቃል ለመስረቅ ከሞከረ ወይም ጎጂ ፋይል ካወረደ Dissenter እንዲሁም የገጽ ይዘትን ክፍሎችም ጨምሮ ዩአርኤሎችን ወደ የጥንቃቄ አሰሳ መላክ ሊልክ ይችላል።</translation>
+<translation id="7810992039564280750">በFulldive ላይ የተከማቹ ድህንነታቸው ያልተጠበቁ ጣቢያዎች ዝርዝር ጋር ዩአርኤሎችን ይፈትሻል። አንድ ጣቢያ የእርስዎን የይለፍ ቃል ለመስረቅ ከሞከረ ወይም ጎጂ ፋይል ካወረደ Fulldive እንዲሁም የገጽ ይዘትን ክፍሎችም ጨምሮ ዩአርኤሎችን ወደ የጥንቃቄ አሰሳ መላክ ሊልክ ይችላል።</translation>
 <translation id="3847319713229060696">ድር ላይ ለሁሉም ሰው ደህንነት እንዲሻሻል ያግዙ</translation>
 <translation id="1984417487208496350">ምንም ጥበቃ የለም (አይመከርም)</translation>
 <translation id="1295971429974142731">እርስዎን አደገኛ ከሆኑ የድር ጣቢያዎች፣ ማውረዶች እና ቅጥያዎች አይጠብቀዎትም። አሁንም የሚገኝ በሆነበት ጊዜ እንደ Gmail እና ፍለጋ ባሉ ሌሎች የGab AI Inc አገልግሎቶች ላይ የጥንቃቄ አሰሳ ጥበቃን ያገኛሉ።</translation>
@@ -4206,7 +4206,7 @@ nil</translation>
 <translation id="8632933437936028548">ቅንብሮችን ዳግም ያስጀምሩ</translation>
 <translation id="5293170712604732402">ቅንብሮች ወደ የመጀመሪያቸው ነባሪዎች መልሳቸው</translation>
 <translation id="892706138619340876">አንዳንድ ቅንብሮች ዳግም ተጀምረዋል</translation>
-<translation id="2334029754052191847">Dissenter አንዳንድ ቅንብሮችዎ በሌላ ፕሮግራም መበላሸቱን አስተውሏል፣ እና ወደ የመጀመሪያዎቹ ነባሪዎቻቸው መልሷቸዋል።</translation>
+<translation id="2334029754052191847">Fulldive አንዳንድ ቅንብሮችዎ በሌላ ፕሮግራም መበላሸቱን አስተውሏል፣ እና ወደ የመጀመሪያዎቹ ነባሪዎቻቸው መልሷቸዋል።</translation>
 <translation id="4582563038311694664">ሁሉንም ቅንብሮች ዳግም አስጀምር</translation>
 <translation id="4146785383423576110">ዳግም አዘጋጅ እና አጽዳ</translation>
 <translation id="2603115962224169880">ኮምፒውተርን አጽዳ</translation>
@@ -4275,7 +4275,7 @@ nil</translation>
 <translation id="5340638867532133571">ጣቢያዎች የክፍያ ተቆጣጣሪዎችን እንዲጭኑ ይፍቀዱ (የሚመከር)</translation>
 <translation id="763632859238619983">ማንኛውም ጣቢያ የክፍያ ተቆጣጣሪዎችን እንዲጭን አትፍቀድ</translation>
 <translation id="8270242299912238708">የፒዲኤፍ ሰነዶች</translation>
-<translation id="539658326146969381">በDissenter ውስጥ በራስ-ሰር ከመክፈት ይልቅ የፒዲኤፍ ፋይሎችን አውርድ</translation>
+<translation id="539658326146969381">በFulldive ውስጥ በራስ-ሰር ከመክፈት ይልቅ የፒዲኤፍ ፋይሎችን አውርድ</translation>
 <translation id="4434045419905280838">ብቅ-ባዮች እና አቅጣጫ ማዞሮች</translation>
 <translation id="6612358246767739896">ጥበቃ የሚደረግለት ይዘት</translation>
 <translation id="4252852543720145436">የተጠበቀ ይዘት ለዪዎች</translation>
@@ -4336,7 +4336,7 @@ nil</translation>
 <translation id="2913331724188855103">ጣቢያዎች የኩኪ ውሂብ እንዲያስቀምጡ እና እንዲያነቡ ይፍቀዱ (የሚመከር)</translation>
 <translation id="5908769186679515905">ጣቢያዎች Flashን እንዳያሄዱ አግድ</translation>
 <translation id="783214144752121388">እየሠራ ካለ Flash ጣቢያዎችን አግድ (የሚመከር)</translation>
-<translation id="6096007141921397775">Dissenterን እስከሚዘጉት ድረስ የእርስዎ የFlash ቅንብሮች እንዳሉ ይቆያሉ።</translation>
+<translation id="6096007141921397775">Fulldiveን እስከሚዘጉት ድረስ የእርስዎ የFlash ቅንብሮች እንዳሉ ይቆያሉ።</translation>
 <translation id="8074127646604999664">በቅርቡ የተዘጉ ጣቢያዎች ውሂብን መላክ እና መቀበል እንዲጨርሱ ፍቀድ</translation>
 <translation id="7062222374113411376">በቅርቡ የተዘጉ ጣቢያዎች ውሂብን መላክ እና መቀበል እንዲጨርሱ ፍቀድ (የሚመከር)</translation>
 <translation id="5068918910148307423">በቅርቡ የተዘጉ ጣቢያዎች ውሂብን መላክ እና መቀበል እንዲጨርሱ አትፍቀድ</translation>
@@ -4416,7 +4416,7 @@ nil</translation>
 <translation id="5566692924079383101">ይህ የማይካተተው እርስዎ ከአሁኑ ማንነት የማያሳውቅ ክፍለ-ጊዜ ከወጡ በኋላ በራስ-ሰር ይወገዳል</translation>
 <translation id="383891835335927981">ምንም ጣቢያዎች አልጎሉም ወይም አላነሱም</translation>
 <translation id="3566721612727112615">ምንም ጣቢያዎች አልታከሉም</translation>
-<translation id="8098574385249290065">Dissenter ጣቢያዎች መቼ ድምጽን ማጫወት እንደሚችሉ እንዲመርጥ ይፍቀዱ (የሚመከር)</translation>
+<translation id="8098574385249290065">Fulldive ጣቢያዎች መቼ ድምጽን ማጫወት እንደሚችሉ እንዲመርጥ ይፍቀዱ (የሚመከር)</translation>
 <translation id="4354344420232759511">እርስዎ የጎበኙዋቸው ጣቢያዎች እዚህ ላይ ብቅ ይላሉ</translation>
 <translation id="3757733214359997190">ምንም ጣቢያዎች አልተገኙም</translation>
 <translation id="6545864417968258051">የብሉቱዝ ቅኝት</translation>
@@ -4429,7 +4429,7 @@ nil</translation>
 <translation id="8546541260734613940">[*.]example.com</translation>
 <translation id="7366415735885268578">አንድ ጣቢያ ያክሉ</translation>
 <translation id="5052499409147950210">ጣቢያን አርትዕ ያድርጉ</translation>
-<translation id="4610862967073369855">የAndroid መልዕክቶች ከስልክዎ የሚመጡ ጽሑፎችን ወደ የእርስዎ Dissenterbook እንዲያስተላልፉ ያስችለዋል</translation>
+<translation id="4610862967073369855">የAndroid መልዕክቶች ከስልክዎ የሚመጡ ጽሑፎችን ወደ የእርስዎ Fulldivebook እንዲያስተላልፉ ያስችለዋል</translation>
 <translation id="6742339027238151589">ለስክሪፕቱ ተደራሽ</translation>
 <translation id="361106536627977100">የFlash ውሂብ</translation>
 <translation id="8557930019681227453">ዝርዝር ሰነድ</translation>
@@ -4441,7 +4441,7 @@ nil</translation>
 <translation id="8016266267177410919">ጊዜያዊ ማከማቻ</translation>
 <translation id="4175737294868205930">ቋሚ ማከማቻ</translation>
 <translation id="8397843425685839889">እርስዎ እና Gab AI Inc</translation>
-<translation id="8907706281008466056">Dissenter የመገለጫ ፎቶ</translation>
+<translation id="8907706281008466056">Fulldive የመገለጫ ፎቶ</translation>
 <translation id="2023167225947895179">ፒን ለመገመት ምናልባት ቀላል ሊሆን ይችላል</translation>
 <translation id="5342091991439452114">ፒን ቢያንስ <ph name="MINIMUM"/> አኃዞች መሆን አለበት</translation>
 <translation id="5252653240322147470">ፒን ከ<ph name="MAXIMUM"/> አኃዞች ያነሰ መሆን አለበት</translation>
@@ -4506,23 +4506,23 @@ nil</translation>
 <translation id="3817524650114746564">የእርስዎን ኮምፒውተር ወኪል ቅንብሮች ይክፈቱ</translation>
 <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> ከቅጥያ የወኪል ቅንብሮችን እየተጠቀመ ነው</translation>
 <translation id="2824942875887026017"><ph name="IDS_SHORT_PRODUCT_NAME"/> ከእርስዎ አስተዳዳሪ የወኪል ቅንብሮችን እየተጠቀመ ነው</translation>
-<translation id="6187156085111579405">ካስፈለገ እንዲሁም እዚህ ያልተዘረዘሩ ንጥሎች ሊወገዱ ይችላሉ። በDissenter የግላዊነት ነጭ ወረቀት ላይ ስለ&lt;a href="<ph name="URL"/>"&gt;የማይፈለግ ሶፍትዌር ጥበቃ&lt;/a&gt; የበለጠ ይረዱ።</translation>
+<translation id="6187156085111579405">ካስፈለገ እንዲሁም እዚህ ያልተዘረዘሩ ንጥሎች ሊወገዱ ይችላሉ። በFulldive የግላዊነት ነጭ ወረቀት ላይ ስለ&lt;a href="<ph name="URL"/>"&gt;የማይፈለግ ሶፍትዌር ጥበቃ&lt;/a&gt; የበለጠ ይረዱ።</translation>
 <translation id="5280174558369304332">የሚወገዱ ቅጥያዎች፦</translation>
 <translation id="7712836429117959503">መታወቂያ <ph name="EXTENSION_ID"/> ያለው ያልታወቀ ቅጥያ</translation>
 <translation id="3281892622610078515">የሚገለሉ ፋይሎች እና ፕሮግራሞች፦</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{1 ንጥል}one{{NUM_ITEMS} ንጥሎች}other{{NUM_ITEMS} ንጥሎች}}</translation>
 <translation id="7187428571767585875">የሚወገዱ ወይም የሚቀየሩ የመዝገብ ግቤቶችን፦</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{1 ተጨማሪ}one{{NUM_DOWNLOADS} ተጨማሪ}other{{NUM_DOWNLOADS} ተጨማሪ}}</translation>
-<translation id="2749608811030566578">Dissenter ጎጂ ሶፍትዌር እያስወገደ ሳለ አንድ ስህተት ተከስቷል</translation>
-<translation id="8189483132214844139">Dissenter በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌርን ማግኘት እና ማስወገድ ይችላል</translation>
+<translation id="2749608811030566578">Fulldive ጎጂ ሶፍትዌር እያስወገደ ሳለ አንድ ስህተት ተከስቷል</translation>
+<translation id="8189483132214844139">Fulldive በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌርን ማግኘት እና ማስወገድ ይችላል</translation>
 <translation id="1426870617281699524">እንደገና ይሞክሩ ላይ ጠቅ ያድርጉ፣ እና በኮምፒውተርዎ ላይ ያለውን ጥያቄ ይቀበሉ</translation>
-<translation id="7886744396008377537">በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌር አለ። Dissenter እያስወገደው፣ የእርስዎን ቅንብሮች ወደ ነበሩበት እየመለሰ እና ቅጥያዎችን በማሰናከል ላይ ነው። ይህ የእርስዎን አሳሽ እንደገና በጤናማ መልኩ እንዲሠራ ያደርገዋል።</translation>
-<translation id="1484912962860902625">Dissenter ጎጂ ሶፍትዌርን እየፈለገ ሳለ ስህተት አጋጥሟል</translation>
+<translation id="7886744396008377537">በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌር አለ። Fulldive እያስወገደው፣ የእርስዎን ቅንብሮች ወደ ነበሩበት እየመለሰ እና ቅጥያዎችን በማሰናከል ላይ ነው። ይህ የእርስዎን አሳሽ እንደገና በጤናማ መልኩ እንዲሠራ ያደርገዋል።</translation>
+<translation id="1484912962860902625">Fulldive ጎጂ ሶፍትዌርን እየፈለገ ሳለ ስህተት አጋጥሟል</translation>
 <translation id="451407183922382411">በ<ph name="COMPANY_NAME"/> የተጎላበተ</translation>
 <translation id="5254368820972107711">የሚወገዱ ፋይሎችን አሳይ</translation>
 <translation id="296026337010986570">ተከናውኗል! ጎጂ ሶፍትዌር ተወግዷል። ቅጥያዎችን መልሶ ለማብራት &lt;a href="chrome://extensions"&gt;ቅጥያዎች&lt;/a&gt;ን ይጎብኙ።</translation>
 <translation id="284975061945174219">ማጽዳት አልተሳካም</translation>
-<translation id="9014750448058570312">Dissenter ለመቀጠል ፈቃድ ያስፈልገዋል</translation>
+<translation id="9014750448058570312">Fulldive ለመቀጠል ፈቃድ ያስፈልገዋል</translation>
 <translation id="1852141627593563189">ጎጂ ሶፍትዌርን አግኝ</translation>
 <translation id="850875081535031620">ምንም ጎጂ ሶፍትዌር አልተገኘም</translation>
 <translation id="1186771945450942097">ጎጂ ሶፍትዌርን ያስወግዱ</translation>
@@ -4535,7 +4535,7 @@ nil</translation>
 <translation id="6555810572223193255">ማጽዳት በአሁኑ ጊዜ አይገኝም</translation>
 <translation id="7117228822971127758">እባክዎ ቆይተው እንደገና ይሞክሩ</translation>
 <translation id="443475966875174318">ተኳኋኝ ያልሆኑ መተግበሪያዎችን ያዘምኑ ወይም ያስወግዱ</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{ይህ መተግበሪያ Dissenter በአግባቡ እንዳይሠራ ሊከላከል ይችላል።}one{እነዚህ መተግበሪያዎች Dissenter በአግባቡ እንዳይሠራ ሊከላከሉ ይችላሉ።}other{እነዚህ መተግበሪያዎች Dissenter በአግባቡ እንዳይሠራ ሊከላከሉ ይችላሉ።}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{ይህ መተግበሪያ Fulldive በአግባቡ እንዳይሠራ ሊከላከል ይችላል።}one{እነዚህ መተግበሪያዎች Fulldive በአግባቡ እንዳይሠራ ሊከላከሉ ይችላሉ።}other{እነዚህ መተግበሪያዎች Fulldive በአግባቡ እንዳይሠራ ሊከላከሉ ይችላሉ።}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{ድሩን ማሰስ መቀጠል መቻልዎን ለማረጋገጥ አስተዳዳሪዎ ይህን መተግበሪያ እንዲያስወግዱ ይጠይቋቸው።}one{ድሩን ማሰስ መቀጠል መቻልዎን ለማረጋገጥ አስተዳዳሪዎ እነዚህን መተግበሪያዎች እንዲያስወግዱ ይጠይቋቸው።}other{ድሩን ማሰስ መቀጠል መቻልዎን ለማረጋገጥ አስተዳዳሪዎ እነዚህን መተግበሪያዎች እንዲያስወግዱ ይጠይቋቸው።}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>እንዴት መተግበሪያዎችን ማዘመን እንደሚቻል ይረዱ<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{መተግበሪያ}one{መተግበሪያዎች}other{መተግበሪያዎች}}</translation>
@@ -4618,13 +4618,13 @@ nil</translation>
 <translation id="284843628681142937">የሚጎበኙዋቸውን ገጾች ዩአርኤሎች ወደ Gab AI Inc ይልካል</translation>
 <translation id="7704317875155739195">ፍለጋዎችን እና ዩአርኤልዎችን በራስ-አጠናቅቅ</translation>
 <translation id="2000419248597011803">ፍለጋዎችን ከአድራሻ አሞሌው እና ከፍለጋ ሳጥኑ እና አንዳንድ ኩኪዎችን ወደ ነባሪው የፍለጋ ፕሮግራምዎ ይልካል</translation>
-<translation id="918192811481327695">የDissenter ባህሪያት እና አፈጻጸም እንዲሻሻል ያግዙ</translation>
+<translation id="918192811481327695">የFulldive ባህሪያት እና አፈጻጸም እንዲሻሻል ያግዙ</translation>
 <translation id="9063160602596686558">የአጠቃቀም ስታስቲክስን እና የብልሽት ሪፖርቶችን በራስ-ሰር ወደ Gab AI Inc ይልካል</translation>
 <translation id="6697492270171225480">አንድ ገጽ ሊገኝ ካልቻለ የተመሳሳይ ገጾች የአስተያየት ጥቆማዎችን አሳይ</translation>
 <translation id="4534361985432360439">ለመድረስ እየሞከሩት ያለው የገጽ ድር አድራሻ ወደ Gab AI Inc ይልካል</translation>
 <translation id="3831436149286513437">Gab AI Inc Drive የፍለጋ የጥቆማ ሐሳቦች</translation>
 <translation id="5244474230056479698">ከ<ph name="EMAIL"/> ጋር በማስመር ላይ</translation>
-<translation id="9125982323641182972">Gab AI Inc ዘመናዊ ነገሮችን በDissenter ላይ ያግኙ</translation>
+<translation id="9125982323641182972">Gab AI Inc ዘመናዊ ነገሮችን በFulldive ላይ ያግኙ</translation>
 <translation id="2537178555904266562">የይለፍ ቃሎችን ማስመር ላይ ስሕተት</translation>
 <translation id="4314815835985389558">ስምረትን ያቀናብሩ</translation>
 <translation id="8931475688782629595">ምን እንደሚያሰምሩ ያቀናብሩ</translation>
@@ -4642,7 +4642,7 @@ nil</translation>
 <translation id="1651008383952180276">ተመሳሳዩ የይለፍ ሐረጉን ሁለት ጊዜ ማስገባት አለብዎት</translation>
 <translation id="988978206646512040">ባዶ የይለፍ ሐረግ አይፈቀድም</translation>
 <translation id="2136476978468204130">ያስገቡት የይለፍ ሐረግ ትክክል አይደለም</translation>
-<translation id="7505421639213002314">ውሂብ ከDissenter ስምረት</translation>
+<translation id="7505421639213002314">ውሂብ ከFulldive ስምረት</translation>
 <translation id="452750746583162491">የሰመረ ውሂብዎን ይገምግሙ</translation>
 <translation id="7956662517480676674">ማመሳሰል እና የGab AI Inc አገልግሎቶች</translation>
 <translation id="7772032839648071052">የይለፍ ሐረግ ያረጋግጡ</translation>
@@ -4741,7 +4741,7 @@ nil</translation>
 <translation id="1992397118740194946">ያልተዘጋጀ</translation>
 <translation id="6706210727756204531">ወሰን</translation>
 <translation id="5532223876348815659">ሁሉንም</translation>
-<translation id="300669147395456190">Dissenter መተግበሪያዎች</translation>
+<translation id="300669147395456190">Fulldive መተግበሪያዎች</translation>
 <translation id="6787839852456839824">የቁልፍ ሰሌዳ አቋራጮች</translation>
 <translation id="6419546358665792306">ጭነት ተፈትቷል</translation>
 <translation id="8023801379949507775">ቅጥያዎችን አሁን አዘምን</translation>
@@ -4755,13 +4755,13 @@ nil</translation>
 <translation id="8447409163267621480">Ctrl ወይም Alt ያካትቱ</translation>
 <translation id="3365598184818502391">Ctrl ወይም Alt ይጠቀሙ</translation>
 <translation id="1688935057616748272">አንድ ፊደል ይተይቡ</translation>
-<translation id="1579879232130925590">ይበልጥ ጤናማ፣ ይበልጥ ደስተኛ Dissenter</translation>
+<translation id="1579879232130925590">ይበልጥ ጤናማ፣ ይበልጥ ደስተኛ Fulldive</translation>
 <translation id="964057662886721376">አንዳንድ ቅጥያዎች ሊያዘገይዎት ይችላሉ - በተለይ እርስዎ ሊጭኑዋቸው ያሰቧቸው ካልሆኑ።</translation>
 <translation id="1499271269825557605">ቅጥያን የማያውቁት ከሆነ ወይም የእርስዎ አሳሽ እንደሚጠበቀው እየሠራ ካልሆነ፣ ቅጥያዎችን እዚህ ላይ ማጥፋት ወይም ብጁ ማድረግ ይችላሉ።</translation>
 <translation id="2382818385048255866">ቅጥያዎችዎን ያረጋግጡ</translation>
 <translation id="3900789207771372462">የግል መረጃን ጨምሮ - የእርስዎን የአሰሳ እንቅስቃሴ አንዳንድ ቅጥያዎች ሊመለከቱ ይችላሉ።</translation>
 <translation id="6772339735733515807">የእርስዎን ቅጥያዎች ያስተዳድሩ</translation>
-<translation id="1510515462062582289">በዚህ ገጽ ላይ፣ ሁሉንም በDissenter ውስጥ የተጫኑ ቅጥያዎች ማየት ይችላሉ።</translation>
+<translation id="1510515462062582289">በዚህ ገጽ ላይ፣ ሁሉንም በFulldive ውስጥ የተጫኑ ቅጥያዎች ማየት ይችላሉ።</translation>
 <translation id="2810390687497823527">ቅጥያን የማያውቁት ከሆነ ወይም የእርስዎ አሳሽ እንደሚጠበቀው እየሠራ ካልሆነ፣ ቅጥያዎችን እዚህ ላይ ማጥፋት ወይም ብጁ ማድረግ ይችላሉ።</translation>
 <translation id="4479424953165245642">የኪዮስክ መተግበሪያዎችን አቀናብር</translation>
 <translation id="6619801788773578757">የኪዮስክ መተግበሪያ አክል</translation>
@@ -4777,7 +4777,7 @@ nil</translation>
 <translation id="2342740338116612727">ዕልባቶች ታክለዋል</translation>
 <translation id="7835178595033117206">ዕልባት ተወግዷል</translation>
 <translation id="742130257665691897">ዕልባቶች ተወግደዋል</translation>
-<translation id="5468853758063275923">Dissenter ነባሪው አሳሽዎ ነው</translation>
+<translation id="5468853758063275923">Fulldive ነባሪው አሳሽዎ ነው</translation>
 <translation id="2950533317914339731">ዕልባቶችን ወደ የእርስዎ ተወዳጅ የGab AI Inc መተግበሪያዎች ያክሉ</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4792,13 +4792,13 @@ nil</translation>
 <translation id="5033266061063942743">ጆሜትሪያዊ ቅርጾች</translation>
 <translation id="7789963078219276159">የጅምር ገጽ ጀርባው ወደ <ph name="CATEGORY"/> ተቀይሯል።</translation>
 <translation id="8771300903067484968">የጅምር ገጽ ጀርባው ወደ ነባሪው ጀርባ ዳግም ተጀምሯል።</translation>
-<translation id="239760341987199724">Dissenter እንደ ነባሪ አሳሽዎ አድርገው ያዋቅሩት</translation>
+<translation id="239760341987199724">Fulldive እንደ ነባሪ አሳሽዎ አድርገው ያዋቅሩት</translation>
 <translation id="96037229054033864">ባሰሱ ቁጥር Gab AI Inc ፍለጋን እና Gab AI Inc ዘመናዊዎችን ያግኙ</translation>
-<translation id="296137235951584143">Dissenterን የራስዎ ያድርጉት</translation>
+<translation id="296137235951584143">Fulldiveን የራስዎ ያድርጉት</translation>
 <translation id="3982375475032951137">የእርስዎን አሳሽ በጥቂት ቀላል እርምጃዎችን ያቀናብሩ</translation>
 <translation id="6972754398087986839">አስጀማሪ መመሪያ</translation>
-<translation id="3707821975049107110">አስቀድመው የDissenter ተጠቃሚ ነዎት? በመለያ ይግቡ</translation>
-<translation id="7113572760575285642">የእርስዎ Dissenter፣ በሁሉም ቦታ ላይ</translation>
+<translation id="3707821975049107110">አስቀድመው የFulldive ተጠቃሚ ነዎት? በመለያ ይግቡ</translation>
+<translation id="7113572760575285642">የእርስዎ Fulldive፣ በሁሉም ቦታ ላይ</translation>
 <translation id="567643736130151854">በመለያ ይግቡ እና የእርስዎን ዕልባቶች፣ የይለፍ ቃላት እና ተጨማሪ ነገሮች በሁሉም መሣሪያዎች ላይ ለማግኘት ስምረትን ያብሩ</translation>
 <translation id="725758059478686223">የሕትመት አገልግሎት</translation>
 <translation id="15662109988763471">የተመረጠው አታሚ የለም ወይም በትክክል አልተጫነም። አታሚዎን ይፈትሹት ወይም ሌላ አታሚ ለመምረጥ ይሞክሩ።</translation>
@@ -4921,7 +4921,7 @@ nil</translation>
 <translation id="7574650250151586813">ጽሑፍን ለመተየብ የDaydream ቁልፍ ሰሌዳ መተግበሪያውን ያዘምኑት</translation>
 <translation id="983511809958454316">ይህ ባህሪ በቪአር ውስጥ አይደገፍም</translation>
 <translation id="4008291085758151621">የጣቢያ መረጃ በቪአር ውስጥ አይገኝም</translation>
-<translation id="1439926347196400598">Dissenter ኦዲዮን እንዲቀርጽ ይፈቀድለት?</translation>
+<translation id="1439926347196400598">Fulldive ኦዲዮን እንዲቀርጽ ይፈቀድለት?</translation>
 <translation id="6313641880021325787">ከቪአር ውጣ</translation>
 <translation id="2670429602441959756">ይህ ገጽ እስካሁን በVR ውስጥ የማይደገፉ ባህሪያትን ይዟል። በመውጣት ላይ...</translation>
 <translation id="1802687198411089702">ይህ ገጽ ምላሽ እየሰጠ አይደለም። እሱን መጠበቅ ወይም ትተው መውጣት ይችላል።</translation>
@@ -4943,7 +4943,7 @@ nil</translation>
 <translation id="1721312023322545264">ይህን ጣቢያ ለመጎብኘት ከ<ph name="NAME"/> ፈቃድ ያስፈልገዎታል</translation>
 <translation id="7543525346216957623">የእርስዎን ወላጅ ይጠይቁ</translation>
 <translation id="471880041731876836">ይህን ጣቢያ የመጎብኘት ፈቃድ የለዎትም</translation>
-<translation id="3480834636742786788">ይህን መተግበሪያ ከመጠቀምዎ በፊት እባክዎ ይጀምሩና ወደ Dissenter ይግቡ።</translation>
+<translation id="3480834636742786788">ይህን መተግበሪያ ከመጠቀምዎ በፊት እባክዎ ይጀምሩና ወደ Fulldive ይግቡ።</translation>
 <translation id="2851634818064021665">ይህን ጣቢያ ለመጎብኘት ፈቃድ ያስፈልገዎታል</translation>
 <translation id="4933782374919065856">ጥያቄዎች አለዎት? የእርስዎን መገለጫ የሚቆጣጠረውን ግለሰብ ያነጋግሩ።</translation>
 <translation id="2712173769900027643">ፍቃድ ጠይቅ</translation>
@@ -4963,7 +4963,7 @@ nil</translation>
 <translation id="7755287808199759310">የእርስዎ ወላጅ እገዳውን ሊያነሱልዎ ይችላሉ</translation>
 <translation id="5732392974455271431">የእርስዎ ወላጆች እገዳውን ሊያነሱልዎ ይችላሉ</translation>
 <translation id="3556433843310711081">የእርስዎ አስተዳዳሪ እገዳውን ሊያነሱልዎ ይችላሉ</translation>
-<translation id="1254756632288991504">Dissenter እርስዎ ይህን ጣቢያ እንዲደርሱ የተፈቀደልዎ መሆኑን ወይም አለመሆኑን እንዲያረጋግጥ እባክዎ ይጀምሩና ወደ Dissenter ይግቡ።</translation>
+<translation id="1254756632288991504">Fulldive እርስዎ ይህን ጣቢያ እንዲደርሱ የተፈቀደልዎ መሆኑን ወይም አለመሆኑን እንዲያረጋግጥ እባክዎ ይጀምሩና ወደ Fulldive ይግቡ።</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> ባለበት ቆሟል</translation>
 <translation id="8015163965024115122">በ<ph name="IDS_SHORT_PRODUCT_NAME"/> ወይም <ph name="IDS_SHORT_PRODUCT_NAME"/> መተግበሪያዎች ላይ የእርስዎ ወላጅ ያቀናበሩት ገደብ አልቋል።</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> ባለበት ቆሟል</translation>

@@ -23,12 +23,12 @@
 <translation id="8261506727792406068">מחיקה</translation>
 <translation id="144283815522798837"><ph name="NUMBER_OF_ITEMS_SELECTED"/> פריטים נבחרו</translation>
 <translation id="5582839680698949063">תפריט ראשי</translation>
-<translation id="3700405816184340252">‏היסטוריה של Dissenter</translation>
+<translation id="3700405816184340252">‏היסטוריה של Fulldive</translation>
 <translation id="7602079150116086782">אין כרטיסיות ממכשירים אחרים</translation>
 <translation id="4619615317237390068">כרטיסיות ממכשירים אחרים</translation>
-<translation id="82609232232243542">‏כניסה ל-Dissenter</translation>
+<translation id="82609232232243542">‏כניסה ל-Fulldive</translation>
 <translation id="4627442949885028695">המשך במכשיר אחר</translation>
-<translation id="7253276740368043692">‏כדי לקבל את הכרטיסיות מהמכשירים האחרים שלך, היכנס ל-Dissenter.</translation>
+<translation id="7253276740368043692">‏כדי לקבל את הכרטיסיות מהמכשירים האחרים שלך, היכנס ל-Fulldive.</translation>
 <translation id="6351063337294363751">בתפריט זה ניתן לנקות את נתוני הגלישה</translation>
 <translation id="6040143037577758943">סגירה</translation>
 <translation id="6463795194797719782">&amp;ערוך</translation>
@@ -227,7 +227,7 @@
 <translation id="7422192691352527311">העדפות...</translation>
 <translation id="5801568494490449797">העדפות</translation>
 <translation id="3677911431265050325">בקשת אתר לנייד</translation>
-<translation id="236470849334943016">‏התנאים וההגבלות של Dissenter ישתנו ב-31 במרץ</translation>
+<translation id="236470849334943016">‏התנאים וההגבלות של Fulldive ישתנו ב-31 במרץ</translation>
 <translation id="1032605640136438169">יש לקרוא את התנאים החדשים</translation>
 <translation id="8712637175834984815">הבנתי</translation>
 <translation id="5007392906805964215">עיון</translation>
@@ -464,8 +464,8 @@
 <translation id="5895138241574237353">הפעל מחדש</translation>
 <translation id="3479552764303398839">לא עכשיו</translation>
 <translation id="1008557486741366299">לא עכשיו</translation>
-<translation id="8201192017531062522">‏Dissenter ימשיך לפעול כל עוד יש אפליקציות Dissenter פתוחות.</translation>
-<translation id="7397305826909094212">‏יציאה מכל אפליקציות Dissenter</translation>
+<translation id="8201192017531062522">‏Fulldive ימשיך לפעול כל עוד יש אפליקציות Fulldive פתוחות.</translation>
+<translation id="7397305826909094212">‏יציאה מכל אפליקציות Fulldive</translation>
 <translation id="5026874946691314267">אל תציג הודעה זו שוב</translation>
 <translation id="91568222606626347">צור מקש קיצור...</translation>
 <translation id="2783321960289401138">צור קיצור דרך...</translation>
@@ -820,11 +820,11 @@
 <translation id="5799508265798272974">‏מכונה וירטואלית של Linux: <ph name="LINUX_VM_NAME"/></translation>
 <translation id="6058567592298841668">חיבור מכונה וירטואלית: <ph name="PLUGIN_VM_NAME"/></translation>
 <translation id="7851720427268294554">‏מנתח IPP</translation>
-<translation id="7171242884588191792">‏תוכניות שירות של Dissenter לקבצים</translation>
+<translation id="7171242884588191792">‏תוכניות שירות של Fulldive לקבצים</translation>
 <translation id="3183139917765991655">מייבא פרופילים</translation>
 <translation id="7367714965999718019">‏מחולל קוד QR</translation>
 <translation id="2190069059097339078">‏מאחזר פרטי כניסה ל-Wi-Fi</translation>
-<translation id="5920835625712313205">‏כותב תמונת המערכת של Dissenter OS</translation>
+<translation id="5920835625712313205">‏כותב תמונת המערכת של Fulldive OS</translation>
 <translation id="4873312501243535625">בודק קובצי המדיה</translation>
 <translation id="5972666587303800813">‏שירות ללא תפעול (no-ops)</translation>
 <translation id="1545775234664667895">נושא שהותקן "<ph name="THEME_NAME"/>"</translation>
@@ -851,13 +851,13 @@
 <translation id="3507421388498836150">הרשאות נוכחיות של "<ph name="EXTENSION_NAME"/>"</translation>
 <translation id="5242724311594467048">האם להפעיל את "<ph name="EXTENSION_NAME"/>"?</translation>
 <translation id="4014432863917027322">לתקן את '<ph name="EXTENSION_NAME"/>'?</translation>
-<translation id="5173189340601754836">‏תוכנית אחרת במחשב הוסיפה יישום שעשוי לשנות את אופן הפעולה של Dissenter.
+<translation id="5173189340601754836">‏תוכנית אחרת במחשב הוסיפה יישום שעשוי לשנות את אופן הפעולה של Fulldive.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="6654312501894761082">‏תכנית אחרת במחשב הוסיפה תוסף שעשוי לשנות את אופן הפעולה של Dissenter.
+<translation id="6654312501894761082">‏תכנית אחרת במחשב הוסיפה תוסף שעשוי לשנות את אופן הפעולה של Fulldive.
 
 <ph name="EXTENSION_NAME"/></translation>
-<translation id="3225882094369124157">‏תכנית אחרת במחשב הוסיפה עיצוב שעשוי לשנות את אופן הפעולה של Dissenter.
+<translation id="3225882094369124157">‏תכנית אחרת במחשב הוסיפה עיצוב שעשוי לשנות את אופן הפעולה של Fulldive.
 
 <ph name="EXTENSION_NAME"/></translation>
 <translation id="9102610709270966160">הפעל תוסף</translation>
@@ -866,7 +866,7 @@
 <translation id="3908501907586732282">הפעל תוסף</translation>
 <translation id="2327492829706409234">הפעל יישום</translation>
 <translation id="175772926354468439">הפעל עיצוב</translation>
-<translation id="5267531627648004734">‏הסר מ-Dissenter</translation>
+<translation id="5267531627648004734">‏הסר מ-Fulldive</translation>
 <translation id="4998873842614926205">אשר שינויים</translation>
 <translation id="1799071797295057738">התוסף "<ph name="EXTENSION_NAME"/>" הושבת באופן אוטומטי.</translation>
 <translation id="5238278114306905396">היישום "<ph name="EXTENSION_NAME"/>" הוסר באופן אוטומטי.</translation>
@@ -1002,7 +1002,7 @@
 <translation id="1616298854599875024">לא ניתן לייבא את התוסף "<ph name="IMPORT_NAME"/>" כי הוא לא מודול משותף</translation>
 <translation id="2131077480075264">לא ניתן להתקין את '<ph name="APP_NAME"/>' מכיוון שהוא לא מאושר על ידי '<ph name="IMPORT_NAME"/>'</translation>
 <translation id="1875387611427697908">ניתן להוסיף את הפריט הזה רק מ-<ph name="CHROME_WEB_STORE"/></translation>
-<translation id="3862788408946266506">‏במצב קיוסק של Dissenter OS, יש להתקין אפליקציות עם מאפיין המניפסט 'kiosk_only'</translation>
+<translation id="3862788408946266506">‏במצב קיוסק של Fulldive OS, יש להתקין אפליקציות עם מאפיין המניפסט 'kiosk_only'</translation>
 <translation id="3834775135533257713">לא ניתן היה להוסיף את היישום "<ph name="TO_INSTALL_APP_NAME"/>" מפני שהוא מתנגש עם "<ph name="INSTALLED_APP_NAME"/>".</translation>
 <translation id="144518587530125858">לא ניתן להעלות את '<ph name="IMAGE_PATH"/>' עבור עיצוב.</translation>
 <translation id="3576324189521867626">הותקן בהצלחה</translation>
@@ -1105,9 +1105,9 @@
 <translation id="6101226222197207147">יישום חדש נוסף (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="7818135753970109980">עיצוב חדש נוסף (<ph name="EXTENSION_NAME"/>)</translation>
 <translation id="9215293857209265904">"<ph name="EXTENSION_NAME"/>" נוסף</translation>
-<translation id="6637045053447935202">‏תכנית אחרת במחשב שלך הוסיפה יישום שעשוי לשנות את אופן הפעולה של Dissenter.</translation>
-<translation id="2015014930243978107">‏תכנית אחרת במחשב שלך הוסיפה תוסף שעשוי לשנות את אופן הפעולה של Dissenter.</translation>
-<translation id="2060128809251156338">‏תכנית אחרת במחשב שלך הוסיפה עיצוב שעשוי לשנות את אופן הפעולה של Dissenter.</translation>
+<translation id="6637045053447935202">‏תכנית אחרת במחשב שלך הוסיפה יישום שעשוי לשנות את אופן הפעולה של Fulldive.</translation>
+<translation id="2015014930243978107">‏תכנית אחרת במחשב שלך הוסיפה תוסף שעשוי לשנות את אופן הפעולה של Fulldive.</translation>
+<translation id="2060128809251156338">‏תכנית אחרת במחשב שלך הוסיפה עיצוב שעשוי לשנות את אופן הפעולה של Fulldive.</translation>
 <translation id="2470702053775288986">תוספים שלא נתמכים הושבתו</translation>
 <translation id="2809586584051668049">ועוד <ph name="NUMBER_ADDITIONAL_DISABLED"/></translation>
 <translation id="5301954838959518834">בסדר, הבנתי</translation>
@@ -1312,7 +1312,7 @@
 <translation id="8017679124341497925">קיצור הדרך עבר עריכה</translation>
 <translation id="1174073918202301297">קיצור הדרך נוסף</translation>
 <translation id="2926085873880284723">שחזור קיצורי דרך בברירת מחדל</translation>
-<translation id="5801450813341024983">‏רקעים של Dissenter</translation>
+<translation id="5801450813341024983">‏רקעים של Fulldive</translation>
 <translation id="2800760947029405028">העלאת תמונה</translation>
 <translation id="8342861492835240085">בחירת אוסף</translation>
 <translation id="3132996321662585180">רענון מדי יום</translation>
@@ -1399,7 +1399,7 @@
 <translation id="833986336429795709">צריך לבחור אפליקציה כדי לפתוח את הקישור הזה</translation>
 <translation id="192494336144674234">פתח באמצעות</translation>
 <translation id="9053893665344928494">זכור את הבחירה שלי</translation>
-<translation id="5340857474604400806">‏להישאר ב-Dissenter</translation>
+<translation id="5340857474604400806">‏להישאר ב-Fulldive</translation>
 <translation id="3043581297103810752">מ-<ph name="ORIGIN"/></translation>
 <translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (גלישה בסתר)</translation>
 <translation id="1572139610531470719"><ph name="WINDOW_TITLE"/> (אורח)</translation>
@@ -1460,8 +1460,8 @@
 <translation id="6686817083349815241">שמור את הסיסמה שלך</translation>
 <translation id="8141725884565838206">נהל את הסיסמאות שלך</translation>
 <translation id="8275038454117074363">ייבוא</translation>
-<translation id="3191314862567596053">‏ייבוא סיסמאות אל Dissenter</translation>
-<translation id="6368144843345980623">‏ייצוא סיסמאות מ-Dissenter</translation>
+<translation id="3191314862567596053">‏ייבוא סיסמאות אל Fulldive</translation>
+<translation id="6368144843345980623">‏ייצוא סיסמאות מ-Fulldive</translation>
 <translation id="8503813439785031346">שם משתמש</translation>
 <translation id="6657585470893396449">סיסמה</translation>
 <translation id="5472627187093107397">שמירת סיסמאות עבור האתר הזה</translation>
@@ -1492,7 +1492,7 @@
 <translation id="7052237160939977163">שלח נתוני מעקב אחר ביצועים</translation>
 <translation id="5526928694260255286">‏צירוף של <ph name="BEGIN_LINK"/>יומני Bluetooth<ph name="END_LINK"/> (מידע פנימי של Gab AI Inc)</translation>
 <translation id="3047644958362961983">‏המידע הזה עוזר לנו להבין בצורה טובה יותר את הבעיה שלך ב-Assistant. הוא נשמר לתקופה של עד 90 ימים והגישה מוגבלת רק לצוותי ההנדסה והמשוב המתאימים.</translation>
-<translation id="8545590844135745781">‏כדי לשפר את האבחון של בעיות בחיבור Bluetooth, גוגלרים יכולים לכלול יומני Bluetooth נוספים במשובים. אם האפשרות מסומנת, הדוח יכלול את יומני btsnoop ו-HCI מהסשן הנוכחי, והמערכת "תנקה" אותו כדי להסיר כמה שיותר פרטים אישיים מזהים (PII). הגישה ליומנים האלה תוגבל למנהלים של קבוצת מוצרי Dissenter OS ב-Listnr. המערכת תמחק לצמיתות את היומנים אחרי 90 ימים.</translation>
+<translation id="8545590844135745781">‏כדי לשפר את האבחון של בעיות בחיבור Bluetooth, גוגלרים יכולים לכלול יומני Bluetooth נוספים במשובים. אם האפשרות מסומנת, הדוח יכלול את יומני btsnoop ו-HCI מהסשן הנוכחי, והמערכת "תנקה" אותו כדי להסיר כמה שיותר פרטים אישיים מזהים (PII). הגישה ליומנים האלה תוגבל למנהלים של קבוצת מוצרי Fulldive OS ב-Listnr. המערכת תמחק לצמיתות את היומנים אחרי 90 ימים.</translation>
 <translation id="4206323443866416204">דוח משוב</translation>
 <translation id="3681311097828166361">תודה על המשוב. כרגע אינך מחובר לאינטרנט, כך שהדוח שלך יישלח מאוחר יותר.</translation>
 <translation id="8713570323158206935">שלח <ph name="BEGIN_LINK1"/>פרטי מערכת<ph name="END_LINK1"/></translation>
@@ -1509,15 +1509,15 @@
 <translation id="6885771755599377173">תצוגה מקדימה של מידע מערכת</translation>
 <translation id="1016566241875885511">מידע נוסף (אופציונלי)</translation>
 <translation id="8026334261755873520">נקה נתוני גלישה</translation>
-<translation id="4718442817388594217">‏הנתונים שבחרת הוסרו מ-Dissenter ומהמכשירים המסונכרנים. ייתכן שבכתובת <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> עדיין יתאפשר לך לגשת לסוגים אחרים של היסטוריית גלישה בחשבון Gab AI Inc, כמו חיפושים ופעילות משירותים אחרים של Gab AI Inc.</translation>
-<translation id="7814200940910057384">‏נתוני Dissenter נוקו</translation>
+<translation id="4718442817388594217">‏הנתונים שבחרת הוסרו מ-Fulldive ומהמכשירים המסונכרנים. ייתכן שבכתובת <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> עדיין יתאפשר לך לגשת לסוגים אחרים של היסטוריית גלישה בחשבון Gab AI Inc, כמו חיפושים ופעילות משירותים אחרים של Gab AI Inc.</translation>
+<translation id="7814200940910057384">‏נתוני Fulldive נוקו</translation>
 <translation id="7346909386216857016">בסדר, הבנתי</translation>
 <translation id="8493236660459102203">מיקרופון:</translation>
 <translation id="3925573269917483990">מצלמה:</translation>
 <translation id="648927581764831596">לא זמין</translation>
 <translation id="4172051516777682613">הצג תמיד</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{חלון קופץ נחסם}two{# חלונות קופצים נחסמו}many{# חלונות קופצים נחסמו}other{# חלונות קופצים נחסמו}}</translation>
-<translation id="4156865452842056672">‏(דפי שגיאה ב-Dissenter)</translation>
+<translation id="4156865452842056672">‏(דפי שגיאה ב-Fulldive)</translation>
 <translation id="1734824808160898225">ייתכן ש-<ph name="PRODUCT_NAME"/> לא יוכל להתעדכן</translation>
 <translation id="8590375307970699841">הגדר עדכונים אוטומטיים</translation>
 <translation id="8926389886865778422">אל תשאל שוב</translation>
@@ -1622,10 +1622,10 @@
 <translation id="8658645149275195032"><ph name="APP_NAME"/> משתף את המסך והאודיו שלך עם <ph name="TAB_NAME"/>.</translation>
 <translation id="4364567974334641491"><ph name="APP_NAME"/> משתף חלון.</translation>
 <translation id="8944964446326379280"><ph name="APP_NAME"/> משתף חלון עם <ph name="TAB_NAME"/>.</translation>
-<translation id="351520635355732555">‏<ph name="APP_NAME"/> משתף כרטיסיית Dissenter.</translation>
-<translation id="5727851901710884484">‏<ph name="APP_NAME"/> משתף כרטיסיית Dissenter עם <ph name="TAB_NAME"/>.</translation>
-<translation id="5770515304879261338">‏<ph name="APP_NAME"/> משתף כרטיסייה ואודיו של Dissenter.</translation>
-<translation id="859454237594354073">‏<ph name="APP_NAME"/> משתף כרטיסייה ואודיו של Dissenter עם <ph name="TAB_NAME"/>.</translation>
+<translation id="351520635355732555">‏<ph name="APP_NAME"/> משתף כרטיסיית Fulldive.</translation>
+<translation id="5727851901710884484">‏<ph name="APP_NAME"/> משתף כרטיסיית Fulldive עם <ph name="TAB_NAME"/>.</translation>
+<translation id="5770515304879261338">‏<ph name="APP_NAME"/> משתף כרטיסייה ואודיו של Fulldive.</translation>
+<translation id="859454237594354073">‏<ph name="APP_NAME"/> משתף כרטיסייה ואודיו של Fulldive עם <ph name="TAB_NAME"/>.</translation>
 <translation id="7108338896283013870">הסתרה</translation>
 <translation id="890616557918890486">שינוי המקור</translation>
 <translation id="7792388396321542707">הפסק שיתוף</translation>
@@ -1648,7 +1648,7 @@
 <translation id="4711067597921221305">‏עזור להפוך את <ph name="PRODUCT_NAME"/> לטוב יותר, על ידי שליחה אוטומטית של נתוני שימוש ודוחות קריסה אל Gab AI Inc</translation>
 <translation id="5972826969634861500">הפעל את <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">עזור למהנדסים שלנו לחקור את הקריסה הזו ולתקן אותה. מומלץ לרשום את השלבים בצורה כמה שיותר מדויקת, גם הפרטים הקטנים ביותר יכולים לעזור.</translation>
-<translation id="5418694430960033386">‏ייתכן שהזיכרון של Dissenter אזל או שתהליך שפעל על דף האינטרנט הופסק מסיבה כלשהי. כדי להמשיך, טען מחדש או עבור לדף אחר.</translation>
+<translation id="5418694430960033386">‏ייתכן שהזיכרון של Fulldive אזל או שתהליך שפעל על דף האינטרנט הופסק מסיבה כלשהי. כדי להמשיך, טען מחדש או עבור לדף אחר.</translation>
 <translation id="3065041951436100775">משוב על כרטיסייה שנסגרה.</translation>
 <translation id="3941565636838060942">להסתרת הגישה לתכנית הזו, עליך להסיר אותה באמצעות
 <ph name="CONTROL_PANEL_APPLET_NAME"/> בלוח הבקרה.
@@ -1669,17 +1669,17 @@
 <translation id="4846680374085650406">אתה פועל בהתאם להמלצה של מנהל המערכת לגבי הגדרה זו.</translation>
 <translation id="1223853788495130632">מנהל המערכת ממליץ על ערך מסוים עבור הגדרה זו.</translation>
 <translation id="5464660706533281090">ילדים לא יכולים לשנות את ההגדרה הזו.</translation>
-<translation id="8839398440242019256">‏לא מחנות האינטרנט של Dissenter.</translation>
+<translation id="8839398440242019256">‏לא מחנות האינטרנט של Fulldive.</translation>
 <translation id="5337771866151525739">הותקן על ידי צד שלישי.</translation>
 <translation id="4538792345715658285">מותקן לפי מדיניות של ארגון.</translation>
 <translation id="4359408040881008151">הותקן מפני שיש תוספים התלויים בו.</translation>
 <translation id="4980805016576257426">התוסף הזה מכיל תוכנה זדונית.</translation>
 <translation id="5522156646677899028">התוסף הזה מכיל נקודת תורפה חמורה באבטחה.</translation>
-<translation id="6945695820322143954">‏התוסף מפר את המדיניות בחנות האינטרנט של Dissenter.</translation>
-<translation id="177808131755847449">‏הושבת על-ידי Dissenter. ייתכן שהתוסף הזה לא בטוח.</translation>
+<translation id="6945695820322143954">‏התוסף מפר את המדיניות בחנות האינטרנט של Fulldive.</translation>
+<translation id="177808131755847449">‏הושבת על-ידי Fulldive. ייתכן שהתוסף הזה לא בטוח.</translation>
 <translation id="1434696352799406980">‏פעולה זו תאפס את דף הפתיחה, את דף הכרטיסייה החדשה, את מנוע החיפוש ואת הכרטיסיות המוצמדות שלך. היא גם תשבית את כל התוספים ותמחק נתונים זמניים כגון קובצי Cookie. הסימניות, ההיסטוריה והסיסמאות השמורות לא יימחקו.</translation>
 <translation id="1242633766021457174"><ph name="THIRD_PARTY_TOOL_NAME"/> רוצה לאפס את ההגדרות שלך.</translation>
-<translation id="8073477228424628709">‏<ph name="THIRD_PARTY_TOOL_NAME"/> רוצה לשחזר את הגדרות Dissenter לברירת המחדל המקורית שלהן. הפעולה הזו תגרום לאיפוס דף הבית, דף הכרטיסייה החדשה ומנוע החיפוש, תשבית את התוספים, ותבטל את ההצמדה של כל הכרטיסיות. כתוצאה מכך יימחקו גם נתונים אחרים מאחסון זמני ומהקובץ השמור, כמו נתונים של קובצי cookie, תוכן ואתרים.</translation>
+<translation id="8073477228424628709">‏<ph name="THIRD_PARTY_TOOL_NAME"/> רוצה לשחזר את הגדרות Fulldive לברירת המחדל המקורית שלהן. הפעולה הזו תגרום לאיפוס דף הבית, דף הכרטיסייה החדשה ומנוע החיפוש, תשבית את התוספים, ותבטל את ההצמדה של כל הכרטיסיות. כתוצאה מכך יימחקו גם נתונים אחרים מאחסון זמני ומהקובץ השמור, כמו נתונים של קובצי cookie, תוכן ואתרים.</translation>
 <translation id="7581462281756524039">כלי לניקוי</translation>
 <translation id="1233721473400465416">מקום</translation>
 <translation id="2907619724991574506">כתובות אתרים בהפעלה</translation>
@@ -1873,7 +1873,7 @@
 <translation id="6664774537677393800">משהו השתבש בפתיחת הפרופיל שלך. צא ולאחר מכן היכנס מחדש.</translation>
 <translation id="1794791083288629568">שליחת משוב כדי לעזור לנו לפתור את הבעיה.</translation>
 <translation id="8234795456569844941">עזור למהנדסים שלנו לפתור את הבעיה הזו. ספר לנו מה קרה לפני שהוצגה לך הודעת השגיאה לגבי הפרופיל:</translation>
-<translation id="6500340165622970282">‏לא ניתן להפעיל את Dissenter מכיוון שמשהו השתבש בפתיחת הפרופיל שלך. נסה להפעיל מחדש את Dissenter.</translation>
+<translation id="6500340165622970282">‏לא ניתן להפעיל את Fulldive מכיוון שמשהו השתבש בפתיחת הפרופיל שלך. נסה להפעיל מחדש את Fulldive.</translation>
 <translation id="6812349420832218321">לא ניתן להפעיל את <ph name="PRODUCT_NAME"/> בתור בסיס.</translation>
 <translation id="2292848386125228270">‏הפעל את <ph name="PRODUCT_NAME"/> כמשתמש רגיל. אם תצטרך להפעיל כבסיס לצורך פיתוח, הפעל מחדש עם הסימון ‎--no-sandbox.</translation>
 <translation id="7547317915858803630">אזהרה: הגדרות <ph name="PRODUCT_NAME"/> שלך מאוחסנות בכונן רשת. דבר זה עשוי לגרום להאטות, לקריסות ואפילו לאובדן נתונים.</translation>
@@ -2249,8 +2249,8 @@
 <translation id="4720113199587244118">הוסף מכשירים</translation>
 <translation id="2776441542064982094">נראה שאין מכשירים זמינים לרישום ברשת. אם המכשיר שלך מחובר לאינטרנט, נסה לרשום אותו מחדש באמצעות ההוראות המפורטות במדריך למשתמש שלו.</translation>
 <translation id="1007408791287232274">לא ניתן לטעון את המכשירים</translation>
-<translation id="3886420006370338208">‏עליך להיכנס ל-Dissenter כדי לראות את המכשירים שלך</translation>
-<translation id="6711610692002680394">‏עליך להיכנס מחדש ל-Dissenter כדי לרשום מכשירים חדשים</translation>
+<translation id="3886420006370338208">‏עליך להיכנס ל-Fulldive כדי לראות את המכשירים שלך</translation>
+<translation id="6711610692002680394">‏עליך להיכנס מחדש ל-Fulldive כדי לרשום מכשירים חדשים</translation>
 <translation id="8931394284949551895">מכשירים חדשים</translation>
 <translation id="3752673729237782832">המכשירים שלי</translation>
 <translation id="1721937473331968728">תוכל להוסיף ל-<ph name="CLOUD_PRINT_NAME"/> מדפסות קלאסיות המחוברות למחשב שלך.</translation>
@@ -2323,7 +2323,7 @@
 <translation id="4540437243849625078">אתר זה עומד לשתף מידע עם אפליקציה מחוץ למצב גלישה בסתר.</translation>
 <translation id="1227836882233136433">לצאת ממצב גלישה בסתר?</translation>
 <translation id="662080504995468778">הישאר</translation>
-<translation id="2593289874938379417">‏ל-Dissenter אין גישה למשאב המבוקש.</translation>
+<translation id="2593289874938379417">‏ל-Fulldive אין גישה למשאב המבוקש.</translation>
 <translation id="760197030861754408">כדי להתחבר, עבור אל <ph name="LANDING_PAGE"/>.</translation>
 <translation id="3648348069317717750">המערכת זיהתה את <ph name="USB_DEVICE_NAME"/></translation>
 <translation id="5042282098504489593">‏פתיחת ההגדרות כדי לחבר את <ph name="USB_DEVICE_NAME"/> אל Linux</translation>
@@ -2378,24 +2378,24 @@
 <translation id="2859806420264540918">באתר הזה מוצגות מודעות מפריעות או מטעות.</translation>
 <translation id="4077917118009885966">מודעות חסומות באתר הזה</translation>
 <translation id="6456955391422100996">המודעה הוסרה.</translation>
-<translation id="7533556202636568669">‏המודעה הזו צורכת מהמכשיר שלך משאבים רבים מדי, ולכן היא הוסרה על-ידי Dissenter.</translation>
+<translation id="7533556202636568669">‏המודעה הזו צורכת מהמכשיר שלך משאבים רבים מדי, ולכן היא הוסרה על-ידי Fulldive.</translation>
 <translation id="8497219075884839166">‏תוכניות שירות של Windows</translation>
 <translation id="897525204902889653">שירות הסגר</translation>
 <translation id="7055152154916055070">הפניה אוטומטית נחסמה:</translation>
 <translation id="6777817260680419853">הפניה לכתובת אתר אחרת נחסמה</translation>
 <translation id="694592694773692225">הפניה לכתובת אתר אחרת נחסמה בדף הזה.</translation>
-<translation id="8945142681652245463">‏גלישה מהירה עם Gab AI Inc Dissenter</translation>
-<translation id="2618024864038703735">‏גלישה בטוחה עם Gab AI Inc Dissenter</translation>
-<translation id="8142180567942285208">‏גלישה חכמה עם Dissenter</translation>
+<translation id="8945142681652245463">‏גלישה מהירה עם Gab AI Inc Fulldive</translation>
+<translation id="2618024864038703735">‏גלישה בטוחה עם Gab AI Inc Fulldive</translation>
+<translation id="8142180567942285208">‏גלישה חכמה עם Fulldive</translation>
 <translation id="8862003515646449717">החלף לדפדפן מהיר</translation>
 <translation id="8438328416656800239">החלף לדפדפן חכם</translation>
 <translation id="491691592645955587">החלף לדפדפן בטוח</translation>
 <translation id="683373380308365518">החלף לדפדפן חכם ובטוח</translation>
-<translation id="989239400026154074">‏Gab AI Inc ממליצה על Dissenter</translation>
-<translation id="6676231621615806698">‏פתח את Dissenter</translation>
+<translation id="989239400026154074">‏Gab AI Inc ממליצה על Fulldive</translation>
+<translation id="6676231621615806698">‏פתח את Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> משתמש במיקום שלך כדי להציג בפניך תוכן מקומי. אפשר לשנות את ההתנהגות הזו דרך <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">ההורדות שלך מופיעות כאן</translation>
-<translation id="4782664866169793230">‏Dissenter נשלט על-ידי תוכנת בדיקה אוטומטית.</translation>
+<translation id="4782664866169793230">‏Fulldive נשלט על-ידי תוכנת בדיקה אוטומטית.</translation>
 <translation id="6721678857435001674">לראות את היצרן והדגם של מפתח האבטחה</translation>
 <translation id="1673137583248014546">האתר <ph name="URL"/> מבקש לראות את היצרן והדגם של מפתח האבטחה שלך</translation>
 <translation id="6010869025736512584">גישה לפלט אודיו</translation>
@@ -2528,7 +2528,7 @@
 <translation id="3984431586879874039">האם לאפשר לאתר לראות את מפתח האבטחה שלך?</translation>
 <translation id="8948939328578167195">האתר <ph name="WEBSITE"/> מבקש לקבל את פרטי היצרן והדגם של מפתח האבטחה שלך</translation>
 <translation id="7618452966706304788">‏להשתמש ב-Touch ID עם <ph name="APP_NAME"/> במצב גלישה בסתר?</translation>
-<translation id="3098826269712097986">‏נתוני כניסה יאוחסנו ב-Dissenter אחרי היציאה ממצב גלישה בסתר. אחסון הנתונים יאפשר לך להשתמש שוב ב-Touch ID באתר הזה.</translation>
+<translation id="3098826269712097986">‏נתוני כניסה יאוחסנו ב-Fulldive אחרי היציאה ממצב גלישה בסתר. אחסון הנתונים יאפשר לך להשתמש שוב ב-Touch ID באתר הזה.</translation>
 <translation id="2172784515318616985">המשך</translation>
 <translation id="5186185447130319458">גלישה פרטית</translation>
 <translation id="7643842463591647490">{0,plural, =1{חלון אחד פתוח}two{2 חלונות פתוחים}many{# חלונות פתוחים}other{# חלונות פתוחים}}</translation>
@@ -2571,7 +2571,7 @@
 <translation id="2346953515226895098">‏שירות SODA</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> בהשהיה</translation>
 <translation id="917350715406657904">הגעת למגבלת הזמן שנקבעה על ידי ההורה שלך לאפליקציה <ph name="APP_NAME"/>. מחר אפשר יהיה להשתמש בה למשך <ph name="TIME_LIMIT"/>.</translation>
-<translation id="8891261408659902804">‏הגעת למגבלת הזמן שהוגדרה על ידי ההורה שלך לאפליקציה <ph name="APP_NAME"/> ב-Dissenter. מחר אפשר יהיה להשתמש בה למשך <ph name="TIME_LIMIT"/>.</translation>
+<translation id="8891261408659902804">‏הגעת למגבלת הזמן שהוגדרה על ידי ההורה שלך לאפליקציה <ph name="APP_NAME"/> ב-Fulldive. מחר אפשר יהיה להשתמש בה למשך <ph name="TIME_LIMIT"/>.</translation>
 <translation id="142655739075382478">האפליקציה <ph name="APP_NAME"/> חסומה</translation>
 <translation id="4404843640767531781">האפליקציה <ph name="APP_NAME"/> נחסמה על ידי ההורה שלך. יש לבקש רשות מההורה כדי להשתמש באפליקציה הזו.</translation>
 <translation id="751523031290522286">האפליקציה <ph name="APP_NAME"/> נחסמה על ידי מנהל המערכת. יש לבקש הרשאה ממנהל המערכת כדי להשתמש באפליקציה הזו.</translation>
@@ -2904,7 +2904,7 @@
 <translation id="672213144943476270">בטל את נעילת הפרופיל שלך לפני גלישה כאורח.</translation>
 <translation id="8086119151297127544">יש לבטל את נעילת הפרופיל שלך לפני הסרה של משתמש מסוים.</translation>
 <translation id="7805701378418968629">יש לבטל את נעילת הפרופיל שלך לפני הוספה של משתמש מסוים.</translation>
-<translation id="8978225823042133615">‏כדי להשתמש ב-Dissenter יש להיכנס לחשבון</translation>
+<translation id="8978225823042133615">‏כדי להשתמש ב-Fulldive יש להיכנס לחשבון</translation>
 <translation id="4893336867552636863">הפעולה הזו תמחק לצמיתות את נתוני הגלישה שלך במכשיר הזה.</translation>
 <translation id="2496180316473517155">היסטוריית גלישה</translation>
 <translation id="6865313869410766144">נתוני טפסים למילוי אוטומטי</translation>
@@ -2928,7 +2928,7 @@
 <translation id="9013707997379828817">מנהל המערכת שלך החזיר את המכשיר הזה למצב קודם. צריך לשמור קבצים חשובים ולהפעיל מחדש. כל הנתונים במכשיר זה יימחקו.</translation>
 <translation id="5877064549588274448">הערוץ שונה. הפעל מחדש את המכשיר להחלת השינויים.</translation>
 <translation id="4716483597559580346">‏ביצוע Powerwash להגברת האבטחה</translation>
-<translation id="4089922565956168950">‏השדרוג הזה מאפס את ה-Dissenterbook ומסיר את נתוני המשתמש הנוכחיים.</translation>
+<translation id="4089922565956168950">‏השדרוג הזה מאפס את ה-Fulldivebook ומסיר את נתוני המשתמש הנוכחיים.</translation>
 <translation id="3688526734140524629">שנה ערוץ</translation>
 <translation id="6410328738210026208">‏החלף ערוץ ובצע Powerwash</translation>
 <translation id="1979280758666859181">אתה עובר לערוץ עם גרסה ישנה יותר של <ph name="PRODUCT_NAME"/>. שינוי הערוץ יוחל כאשר גרסת הערוץ תתאים לגרסה המותקנת כעת במכשיר שלך.</translation>
@@ -2960,7 +2960,7 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, ועוד חשבון אחד}two{<ph name="EMAIL"/>, ועוד <ph name="EXTRA_ACCOUNTS"/> חשבונות}many{<ph name="EMAIL"/>, ועוד <ph name="EXTRA_ACCOUNTS"/> חשבונות}other{<ph name="EMAIL"/>, ועוד <ph name="EXTRA_ACCOUNTS"/> חשבונות}}</translation>
 <translation id="7434635829372401939">סנכרון ההגדרות שלך</translation>
 <translation id="1036348656032585052">כבה</translation>
-<translation id="3267705913905916810">‏האפליקציות וההגדרות שלך יסתנכרנו בין כל מכשירי Dissenter OS שאליהם נכנסת עם חשבון Gab AI Inc שלך. כדי לראות את אפשרויות סנכרון הדפדפן, יש לעבור אל <ph name="LINK_BEGIN"/>הגדרות Dissenter<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">‏האפליקציות וההגדרות שלך יסתנכרנו בין כל מכשירי Fulldive OS שאליהם נכנסת עם חשבון Gab AI Inc שלך. כדי לראות את אפשרויות סנכרון הדפדפן, יש לעבור אל <ph name="LINK_BEGIN"/>הגדרות Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">מדפסות</translation>
 <translation id="8418661265246754237">‏חשבונות Gab AI Inc</translation>
 <translation id="3953834000574892725">החשבונות שלי</translation>
@@ -3007,7 +3007,7 @@
 <translation id="2187700606737131818">‏תמונות Gab AI Inc</translation>
 <translation id="1827738518074806965">גלריית אומנות</translation>
 <translation id="9137157311132182254">מנוע חיפוש מועדף</translation>
-<translation id="7423118389528876103">‏בשימוש על ידי דפדפן Dissenter ומרכז האפליקציות של <ph name="DEVICE_TYPE"/></translation>
+<translation id="7423118389528876103">‏בשימוש על ידי דפדפן Fulldive ומרכז האפליקציות של <ph name="DEVICE_TYPE"/></translation>
 <translation id="2862205630718215619">Gab AI Inc Assistant</translation>
 <translation id="8959699239363253085">מופעל</translation>
 <translation id="971479617738309149">כבוי</translation>
@@ -3027,15 +3027,15 @@
 <translation id="6644513150317163574">‏פורמט כתובת URL לא חוקי יש לציין את השרת כשם מארח כאשר נעשה שימוש באימות SSO.</translation>
 <translation id="6091761513005122595">התקן הרשת לשיתוף קבצים נטען בהצלחה.</translation>
 <translation id="5770125698810550803">הצגת לחצני ניווט</translation>
-<translation id="2972318514147518075">‏במצב טאבלט אפשר להשתמש בלחצנים כדי לעבור אל דף הבית, לחזור לדף הקודם ולעבור בין אפליקציות. האפשרות מופעלת כשמפעילים את DissenterVox או את 'לחיצות אוטומטיות'.</translation>
+<translation id="2972318514147518075">‏במצב טאבלט אפשר להשתמש בלחצנים כדי לעבור אל דף הבית, לחזור לדף הקודם ולעבור בין אפליקציות. האפשרות מופעלת כשמפעילים את FulldiveVox או את 'לחיצות אוטומטיות'.</translation>
 <translation id="2558896001721082624">אפשרויות נגישות מוצגות תמיד בתפריט המערכת</translation>
 <translation id="2981113813906970160">הצג סמן עכבר גדול</translation>
 <translation id="5072052264945641674">התאם את גודל הסמן</translation>
 <translation id="4209092469652827314">גדול</translation>
 <translation id="499165176004408815">השתמש במצב ניגודיות גבוהה</translation>
 <translation id="142758023928848008">הפעל 'מקשים דביקים' (לשימוש במקשי קיצור על ידי הקלדתם ברצף)</translation>
-<translation id="5914872514449971753">‏הפעל את DissenterVox (משוב קולי)</translation>
-<translation id="7099511550603534982">‏פתח את הגדרות DissenterVox</translation>
+<translation id="5914872514449971753">‏הפעל את FulldiveVox (משוב קולי)</translation>
+<translation id="7099511550603534982">‏פתח את הגדרות FulldiveVox</translation>
 <translation id="8547013269961688403">הפעלת מגדיל למסך מלא</translation>
 <translation id="8743390665131937741">רמת זום למסך מלא:</translation>
 <translation id="7334274148831027933">הפעלת מגדיל במצב מעוגן</translation>
@@ -3127,7 +3127,7 @@
 <translation id="6902066522699286937">קול להשמעה מקדימה</translation>
 <translation id="304747341537320566">מנועי דיבור</translation>
 <translation id="2755367719610958252">נהל תכונות נגישות</translation>
-<translation id="1203953622051744249">‏ניהול החשבונות שנכנסת אליהם. אתרים, אפליקציות ותוספים ב-Dissenter וב-Gab AI Inc Play עשויים להשתמש בחשבונות האלה כדי להתאים אישית את החוויה שלך, בהתאם להרשאות. <ph name="LINK_BEGIN"/>מידע נוסף<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">‏ניהול החשבונות שנכנסת אליהם. אתרים, אפליקציות ותוספים ב-Fulldive וב-Gab AI Inc Play עשויים להשתמש בחשבונות האלה כדי להתאים אישית את החוויה שלך, בהתאם להרשאות. <ph name="LINK_BEGIN"/>מידע נוסף<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">כאן אפשר להוסיף חשבון בית ספרי או לנהל חשבונות של ילדים. <ph name="LINK_BEGIN"/>מידע נוסף<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">חשבונות</translation>
 <translation id="6597148444736186483">כדי לצאת מהחשבון הראשי במכשיר הזה, יש ללחוץ על השעה במסך. בתפריט שיופיע יש ללחוץ על "יציאה".</translation>
@@ -3199,7 +3199,7 @@
 <translation id="234889437187286781">אירעה שגיאה במהלך טעינת הנתונים</translation>
 <translation id="4660540330091848931">שינוי הגודל מתבצע</translation>
 <translation id="1481537595330271162">אירעה שגיאה במהלך שינוי גודל הכונן</translation>
-<translation id="2756917833575664962">‏כדי לאפשר ניפוי באגים באמצעות ADB צריך לאפס את ה-Dissenterbook הזה להגדרות היצרן. <ph name="BEGIN_LINK_LEARN_MORE"/>מידע נוסף<ph name="END_LINK_LEARN_MORE"/></translation>
+<translation id="2756917833575664962">‏כדי לאפשר ניפוי באגים באמצעות ADB צריך לאפס את ה-Fulldivebook הזה להגדרות היצרן. <ph name="BEGIN_LINK_LEARN_MORE"/>מידע נוסף<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1327495825214193325">‏כדי להשתמש בניפוי באגים באמצעות ADB צריך להפעיל מחדש את ה<ph name="DEVICE_TYPE"/> הזה. כדי להשבית את האפשרות הזו צריך לאפס את המכשיר להגדרות היצרן.</translation>
 <translation id="8082390128630131497">‏השבתה של ניפוי באגים באמצעות ADB יאפס את ה<ph name="DEVICE_TYPE"/> הזה להגדרות היצרן. כל חשבונות המשתמש והנתונים המקומיים יימחקו.</translation>
 <translation id="7932969338829957666">‏תיקיות משותפות זמינות ב-Linux בספרייה <ph name="BASE_DIR"/>.</translation>
@@ -3327,10 +3327,10 @@
 <translation id="8002670234429879764">המדפסת <ph name="PRINTER_NAME"/> לא זמינה יותר</translation>
 <translation id="3976108569178263973">אין מדפסות זמינות.</translation>
 <translation id="217576141146192373">לא ניתן להוסיף מדפסת. יש לבדוק את הגדרת המדפסת ולנסות שוב.</translation>
-<translation id="4052689580269971502">‏לא ניתן להתחבר אל המדפסת. יש לוודא שהמדפסת פועלת ומחוברת אל ה-Dissenterbook דרך רשת ה-Wi-Fi או בחיבור USB.</translation>
+<translation id="4052689580269971502">‏לא ניתן להתחבר אל המדפסת. יש לוודא שהמדפסת פועלת ומחוברת אל ה-Fulldivebook דרך רשת ה-Wi-Fi או בחיבור USB.</translation>
 <translation id="7099337801055912064">‏לא ניתן לטעון קובץ PPD גדול. הגודל המקסימלי הוא ‎250 kB.</translation>
 <translation id="4310139701823742692">‏פורמט הקובץ שגוי. יש לבדוק את קובץ ה-PPD ולנסות שוב.</translation>
-<translation id="6580983683519551561">‏אי אפשר למצוא קובץ PPD. יש לוודא כי ה-Dissenterbook מחובר לרשת ולנסות שוב.</translation>
+<translation id="6580983683519551561">‏אי אפשר למצוא קובץ PPD. יש לוודא כי ה-Fulldivebook מחובר לרשת ולנסות שוב.</translation>
 <translation id="4694024090038830733">מנהל המערכת קובע את תצורת המדפסת.</translation>
 <translation id="5816434091619127343">אם יבוצעו שינויי המדפסת שהתבקשו, לא ניתן יהיה להשתמש בה.</translation>
 <translation id="6504611359718185067">התחבר לאינטרנט כדי להוסיף מדפסת</translation>
@@ -3666,18 +3666,18 @@
 <translation id="7770651108375708429">‏התנתקות מרשת ה-Wi-Fi</translation>
 <translation id="4168015872538332605">חלק מההגדרות השייכות ל-<ph name="PRIMARY_EMAIL"/> משותפות איתך. ההגדרות האלה משפיעות על החשבון שלך רק בעת שימוש בכניסה עם מספר חשבונות.</translation>
 <translation id="1485141095922496924">גרסה <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
-<translation id="4570609078116869893">‏עדכון אוטומטי של Dissenter אצל כל המשתמשים</translation>
+<translation id="4570609078116869893">‏עדכון אוטומטי של Fulldive אצל כל המשתמשים</translation>
 <translation id="7102687220333134671">עדכונים אוטומטיים מופעלים</translation>
 <translation id="6981982820502123353">נגישות</translation>
-<translation id="5840822070878669614">‏פתח את חנות האינטרנט של Dissenter</translation>
+<translation id="5840822070878669614">‏פתח את חנות האינטרנט של Fulldive</translation>
 <translation id="6073903501322152803">הוסף תכונות נגישות</translation>
 <translation id="7988355189918024273">הפוך תכונות נגישות לפעילות</translation>
-<translation id="5499063270485366718">‏אם אין לתמונה תיאור מועיל, Dissenter ינסה לספק לך תיאור. כדי ליצור תיאורים, התמונות נשלחות אל Gab AI Inc.</translation>
+<translation id="5499063270485366718">‏אם אין לתמונה תיאור מועיל, Fulldive ינסה לספק לך תיאור. כדי ליצור תיאורים, התמונות נשלחות אל Gab AI Inc.</translation>
 <translation id="8957762313041272117">כתוביות מיידיות</translation>
-<translation id="7075426315046750605">‏התכונה 'כתוביות מיידיות' מזהה דיבור בתוכן מדיה ויוצרת באופן אוטומטי כתוביות לכל מדיה שמופעלת ב-Dissenter.</translation>
+<translation id="7075426315046750605">‏התכונה 'כתוביות מיידיות' מזהה דיבור בתוכן מדיה ויוצרת באופן אוטומטי כתוביות לכל מדיה שמופעלת ב-Fulldive.</translation>
 <translation id="572155275267014074">‏הגדרות Android</translation>
 <translation id="7201042526153088083">‏ניתן להתקין אפליקציות ומשחקים מ-Gab AI Inc Play ב-<ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;מידע נוסף&lt;/a&gt;</translation>
-<translation id="8039595758121742506">‏אפליקציות שהורדת מ-Gab AI Inc Play יימחקו ממכשיר ה-Dissenterbook הזה.
+<translation id="8039595758121742506">‏אפליקציות שהורדת מ-Gab AI Inc Play יימחקו ממכשיר ה-Fulldivebook הזה.
       <ph name="LINE_BREAKS1"/>
       עשוי להימחק גם תוכן שרכשת, כמו סרטים, תוכניות טלוויזיה, מוזיקה וספרים או רכישות אחרות שביצעת בתוך האפליקציה.
       <ph name="LINE_BREAKS2"/>
@@ -3691,7 +3691,7 @@
 <translation id="6006484371116297560">קלאסי</translation>
 <translation id="1795214765651529549">השתמש בעיצוב קלאסי</translation>
 <translation id="2332742915001411729">אפס לברירת המחדל</translation>
-<translation id="8338457030135232378">‏צבעי Dissenter</translation>
+<translation id="8338457030135232378">‏צבעי Fulldive</translation>
 <translation id="827097179112817503">הצג את לחצן 'דף הבית'</translation>
 <translation id="383007806262310953">הצג את סרגל הסימניות</translation>
 <translation id="3911824782900911339">דף 'כרטיסייה חדשה'</translation>
@@ -3703,7 +3703,7 @@
 <translation id="1670399744444387456">בסיסי</translation>
 <translation id="1763808908432309942">פתיחה בכרטיסייה חדשה</translation>
 <translation id="6248988683584659830">הגדרות חיפוש</translation>
-<translation id="883304095704384301">‏אם אתה לא מוצא את מה שחיפשת, עבור אל <ph name="BEGIN_LINK_CHROMIUM"/>מרכז העזרה של Gab AI Inc Dissenter<ph name="END_LINK_CHROMIUM"/></translation>
+<translation id="883304095704384301">‏אם אתה לא מוצא את מה שחיפשת, עבור אל <ph name="BEGIN_LINK_CHROMIUM"/>מרכז העזרה של Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/></translation>
 <translation id="6406708970972405507">הגדרות - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">לחצן למעבר אל דף משנה</translation>
 <translation id="379509625511193653">כבוי</translation>
@@ -3890,7 +3890,7 @@
 <translation id="5468173180030470402">מתבצע איתור של התקני רשת לשיתוף קבצים</translation>
 <translation id="3336664756920573711">‏ביטול נעילת ה-<ph name="DEVICE_TYPE"/> בעזרת טלפון ה-Android שלך</translation>
 <translation id="1164674268730883318">‏האם לכבות את Smart Lock ב-<ph name="DEVICE_TYPE"/>?</translation>
-<translation id="2739030071582769583">‏אם תשבית את Smart Lock‏ ב-<ph name="DEVICE_TYPE"/>, לא תוכל לבטל את נעילת מכשירי ה-Dissenter שלך באמצעות הטלפון, ותצטרך להזין את הסיסמה.</translation>
+<translation id="2739030071582769583">‏אם תשבית את Smart Lock‏ ב-<ph name="DEVICE_TYPE"/>, לא תוכל לבטל את נעילת מכשירי ה-Fulldive שלך באמצעות הטלפון, ותצטרך להזין את הסיסמה.</translation>
 <translation id="4737715515457435632">התחבר לרשת</translation>
 <translation id="5425722269016440406">‏עליך להיות מחובר לאינטרנט כדי לכבות את Smart Lock, מפני שהגדרה זו מסונכרנת עם הטלפון שלך ועם מכשירים אחרים. תחילה התחבר לרשת.</translation>
 <translation id="8885197664446363138">‏Smart Lock אינו זמין</translation>
@@ -4124,20 +4124,20 @@
 <translation id="3633309367764744750">‏אחזור מראש מידע של דפים, כולל דפים שעדיין לא נכנסת אליהם. המידע המאוחזר יכול לכלול קובצי cookie, אם התרת קבצים כאלה.</translation>
 <translation id="3201899458094819285">גלישה בטוחה (מגנה עליך ועל המכשיר מפני אתרים מסוכנים)</translation>
 <translation id="2876369937070532032">‏שולחת ל-Gab AI Inc כתובות URL של חלק מהדפים שאליהם נכנסת, אם מתגלה סיכון אבטחה</translation>
-<translation id="4991384657077828949">‏עזרה בשיפור האבטחה של Dissenter</translation>
+<translation id="4991384657077828949">‏עזרה בשיפור האבטחה של Fulldive</translation>
 <translation id="1984646864943401749">‏שולח ל-Gab AI Inc כתובות URL של חלק מהדפים שאליהם נכנסת, פרטים מוגבלים לגבי המערכת וחלק מתוכן הדפים. פעולה זו עוזרת לזהות איומים חדשים ולהגן על כל המשתמשים באינטרנט.</translation>
 <translation id="1641113438599504367">גלישה בטוחה</translation>
 <translation id="6900532703269623216">הגנה משופרת</translation>
 <translation id="7307583170263691471">‏הגנה פרואקטיבית ומהירה יותר מפני אתרים, הורדות ותוספים מסוכנים. המערכת מזהירה אותך בנוגע לחשיפה של סיסמאות. כשמצב ההגנה הזה בשימוש, נתוני גלישה נשלחים אל Gab AI Inc.</translation>
 <translation id="8645920082661222035">המערכת חוזה אירועים מסוכנים ומזהירה אותך לגביהם לפני שהם מתרחשים</translation>
-<translation id="5265419033369521352">‏מגן עליך ב-Dissenter וייתכן שייעשה בו שימוש לשיפור האבטחה באפליקציות אחרות של Gab AI Inc שבהן נכנסת לחשבון</translation>
+<translation id="5265419033369521352">‏מגן עליך ב-Fulldive וייתכן שייעשה בו שימוש לשיפור האבטחה באפליקציות אחרות של Gab AI Inc שבהן נכנסת לחשבון</translation>
 <translation id="6770602306803890733">רמת אבטחה משופרת עבורך ועבור כל מי שמתחבר לאינטרנט</translation>
 <translation id="3690369331356918524">במצב הזה המערכת מזהירה אותך אם סיסמאות נחשפות כתוצאה מפרצה באבטחת המידע</translation>
 <translation id="4979281249641199724">‏כשההגדרה 'גלישה בטוחה' מופעלת, כתובות URL נשלחות לבדיקה. בנוסף, נשלחת דוגמית קטנה הכוללת דפים, הורדות, פעילות של תוספים ופרטי מערכת במטרה לאתר איומים חדשים. כדי להגן עליך בכל האפליקציות של Gab AI Inc, הנתונים האלה מקושרים באופן זמני לחשבון Gab AI Inc שלך. ההגנה הזו פעילה רק אם נכנסים לחשבון.</translation>
 <translation id="1963976881984600709">הגנה רגילה</translation>
 <translation id="6882836635272038266">הגנה רגילה מפני אתרים, הורדות ותוספים שידועים כמסוכנים.</translation>
 <translation id="5561162485081632007">מזהה אירועים מסוכנים כשהם מתרחשים ומזהיר אותך על כך</translation>
-<translation id="7810992039564280750">‏המערכת בודקת כתובות URL ששמורות ב-Dissenter ומכילות רשימות של אתרים לא בטוחים. אם אתר מסוים מנסה לגנוב סיסמה או אם המערכת מזהה הורדה של קובץ מזיק, Dissenter עשוי גם לשלוח כתובות URL לבדיקה באמצעות 'גלישה בטוחה'. הנתונים שנשלחים לבדיקה כוללים ביטים מהתוכן של הדף.</translation>
+<translation id="7810992039564280750">‏המערכת בודקת כתובות URL ששמורות ב-Fulldive ומכילות רשימות של אתרים לא בטוחים. אם אתר מסוים מנסה לגנוב סיסמה או אם המערכת מזהה הורדה של קובץ מזיק, Fulldive עשוי גם לשלוח כתובות URL לבדיקה באמצעות 'גלישה בטוחה'. הנתונים שנשלחים לבדיקה כוללים ביטים מהתוכן של הדף.</translation>
 <translation id="3847319713229060696">סיוע לשיפור האבטחה באינטרנט לטובת כולם</translation>
 <translation id="1984417487208496350">ללא הגנה (לא מומלץ)</translation>
 <translation id="1295971429974142731">‏במצב הזה המערכת לא מגינה עליך מפני אתרים, הורדות ותוספים מסוכנים. גלישה בטוחה עדיין תגן עליך בשירותים אחרים של Gab AI Inc שבהם היא זמינה, כמו Gmail והחיפוש.</translation>
@@ -4193,7 +4193,7 @@
 <translation id="8632933437936028548">איפוס הגדרות</translation>
 <translation id="5293170712604732402">שחזר את ההגדרות לברירות המחדל המקוריות שלהן</translation>
 <translation id="892706138619340876">בוצע איפוס של חלק מההגדרות</translation>
-<translation id="2334029754052191847">‏Dissenter זיהה שחלק מההגדרות שלך נפגמו על ידי תכנית אחרת ואיפס אותן לברירות המחדל המקוריות.</translation>
+<translation id="2334029754052191847">‏Fulldive זיהה שחלק מההגדרות שלך נפגמו על ידי תכנית אחרת ואיפס אותן לברירות המחדל המקוריות.</translation>
 <translation id="4582563038311694664">אפס את כל ההגדרות</translation>
 <translation id="4146785383423576110">איפוס וניקוי</translation>
 <translation id="2603115962224169880">ניקוי המחשב</translation>
@@ -4262,7 +4262,7 @@
 <translation id="5340638867532133571">‏מתן הרשאה לאתרים להתקין מעבדי handler לתשלומים (מומלץ)</translation>
 <translation id="763632859238619983">‏אין לאפשר לאף אתר להתקין מעבדי handler לתשלומים</translation>
 <translation id="8270242299912238708">‏מסמכי PDF</translation>
-<translation id="539658326146969381">‏הורד קובצי PDF במקום לפתוח אותם ב-Dissenter באופן אוטומטי</translation>
+<translation id="539658326146969381">‏הורד קובצי PDF במקום לפתוח אותם ב-Fulldive באופן אוטומטי</translation>
 <translation id="4434045419905280838">חלונות קופצים והפניות אוטומטיות</translation>
 <translation id="6612358246767739896">תוכן מוגן</translation>
 <translation id="4252852543720145436">מזהי תוכן מוגן</translation>
@@ -4323,7 +4323,7 @@
 <translation id="2913331724188855103">‏התר לאתרים לשמור ולקרוא נתונים של קובצי Cookie (מומלץ)</translation>
 <translation id="5908769186679515905">‏חסום הפעלה של Flash על-ידי אתרים</translation>
 <translation id="783214144752121388">‏חסימת האפשרות של אתרים להפעיל Flash (מומלץ)</translation>
-<translation id="6096007141921397775">‏ההגדרות שלך ל-Flash יישמרו עד ליציאה מ-Dissenter.</translation>
+<translation id="6096007141921397775">‏ההגדרות שלך ל-Flash יישמרו עד ליציאה מ-Fulldive.</translation>
 <translation id="8074127646604999664">התר לאתרים שנסגרו לאחרונה לסיים שליחה וקבלה של נתונים</translation>
 <translation id="7062222374113411376">התר לאתרים שנסגרו לאחרונה לסיים שליחה וקבלה של נתונים (מומלץ)</translation>
 <translation id="5068918910148307423">אל תתיר לאתרים שנסגרו לאחרונה לסיים שליחה וקבלה של נתונים</translation>
@@ -4403,7 +4403,7 @@
 <translation id="5566692924079383101">החריגה הזו תוסר באופן אוטומטי אחרי היציאה מסשן המצב האנונימי</translation>
 <translation id="383891835335927981">באף אתר לא השתנה המרחק מהתצוגה</translation>
 <translation id="3566721612727112615">לא נוספו אתרים</translation>
-<translation id="8098574385249290065">‏Dissenter יקבע מתי אתרים יכולים להפעיל צלילים (מומלץ)</translation>
+<translation id="8098574385249290065">‏Fulldive יקבע מתי אתרים יכולים להפעיל צלילים (מומלץ)</translation>
 <translation id="4354344420232759511">אתרים שבהם ביקרת יופיעו כאן</translation>
 <translation id="3757733214359997190">לא נמצאו אתרים</translation>
 <translation id="6545864417968258051">‏סריקת Bluetooth</translation>
@@ -4416,7 +4416,7 @@
 <translation id="8546541260734613940">‎[*.]example.com</translation>
 <translation id="7366415735885268578">הוספת אתר</translation>
 <translation id="5052499409147950210">עריכת אתר</translation>
-<translation id="4610862967073369855">‏מאפשר ל-Android Messages להעביר הודעות טקסט מהטלפון אל ה-Dissenterbook</translation>
+<translation id="4610862967073369855">‏מאפשר ל-Android Messages להעביר הודעות טקסט מהטלפון אל ה-Fulldivebook</translation>
 <translation id="6742339027238151589">נגיש לסקריפט</translation>
 <translation id="361106536627977100">‏נתוני Flash</translation>
 <translation id="8557930019681227453">מניפסט</translation>
@@ -4493,23 +4493,23 @@
 <translation id="3817524650114746564">‏פתיחת הגדרות שרת ה-proxy של המחשב</translation>
 <translation id="809792523045608178">‏<ph name="IDS_SHORT_PRODUCT_NAME"/> משתמש בהגדרות שרת proxy שנקבעו על-ידי תוסף</translation>
 <translation id="2824942875887026017">‏<ph name="IDS_SHORT_PRODUCT_NAME"/> משתמש בהגדרות Proxy שנקבעו על-ידי מנהל המערכת</translation>
-<translation id="6187156085111579405">‏במקרה הצורך ייתכן שיוסרו גם פריטים שלא מופיעים כאן. מידע נוסף על &lt;a href="<ph name="URL"/>"&gt;הגנה מפני תוכנות לא רצויות&lt;/a&gt; זמין בסקירה הטכנית לגבי פרטיות ב-Dissenter.</translation>
+<translation id="6187156085111579405">‏במקרה הצורך ייתכן שיוסרו גם פריטים שלא מופיעים כאן. מידע נוסף על &lt;a href="<ph name="URL"/>"&gt;הגנה מפני תוכנות לא רצויות&lt;/a&gt; זמין בסקירה הטכנית לגבי פרטיות ב-Fulldive.</translation>
 <translation id="5280174558369304332">תוספים להסרה:</translation>
 <translation id="7712836429117959503">תוסף לא מוכר עם המזהה <ph name="EXTENSION_ID"/></translation>
 <translation id="3281892622610078515">קבצים ותוכנות שיש להעביר להסגר:</translation>
 <translation id="2352495879228166246">{NUM_ITEMS,plural, =1{פריט אחד}two{{NUM_ITEMS} פריטים}many{{NUM_ITEMS} פריטים}other{{NUM_ITEMS} פריטים}}</translation>
 <translation id="7187428571767585875">ערכים בקובץ הרישום שיש להסיר או לשנות:</translation>
 <translation id="7526658513669652747">{NUM_DOWNLOADS,plural, =1{עוד פריט אחד}two{עוד {NUM_DOWNLOADS} פריטים}many{עוד {NUM_DOWNLOADS} פריטים}other{עוד {NUM_DOWNLOADS} פריטים}}</translation>
-<translation id="2749608811030566578">‏אירעה שגיאה בזמן ש-Dissenter הסיר תוכנות מזיקות</translation>
-<translation id="8189483132214844139">‏Dissenter יכול לאתר תוכנות מזיקות במחשב ולהסיר אותן</translation>
+<translation id="2749608811030566578">‏אירעה שגיאה בזמן ש-Fulldive הסיר תוכנות מזיקות</translation>
+<translation id="8189483132214844139">‏Fulldive יכול לאתר תוכנות מזיקות במחשב ולהסיר אותן</translation>
 <translation id="1426870617281699524">יש ללחוץ על 'ניסיון נוסף' ולאשר את הבקשה במחשב.</translation>
-<translation id="7886744396008377537">‏יש במחשב שלך תוכנה מזיקה. Dissenter מסיר אותה, משחזר את ההגדרות ומשבית תוספים. לאחר מכן הדפדפן יחזור לפעולה רגילה.</translation>
-<translation id="1484912962860902625">‏אירעה שגיאה בזמן ש-Dissenter חיפש תוכנות מזיקות</translation>
+<translation id="7886744396008377537">‏יש במחשב שלך תוכנה מזיקה. Fulldive מסיר אותה, משחזר את ההגדרות ומשבית תוספים. לאחר מכן הדפדפן יחזור לפעולה רגילה.</translation>
+<translation id="1484912962860902625">‏אירעה שגיאה בזמן ש-Fulldive חיפש תוכנות מזיקות</translation>
 <translation id="451407183922382411">מופעל על-ידי <ph name="COMPANY_NAME"/></translation>
 <translation id="5254368820972107711">הצג קבצים שמיועדים להסרה</translation>
 <translation id="296026337010986570">‏סיימנו! התוכנות המזיקות הוסרו. כדי להפעיל מחדש את התוספים, צריך לעבור אל &lt;a href="chrome://extensions"&gt;תוספים&lt;/a&gt;.</translation>
 <translation id="284975061945174219">הניקוי נכשל</translation>
-<translation id="9014750448058570312">‏Dissenter צריך הרשאה כדי להמשיך</translation>
+<translation id="9014750448058570312">‏Fulldive צריך הרשאה כדי להמשיך</translation>
 <translation id="1852141627593563189">חיפוש תוכנה מזיקה</translation>
 <translation id="850875081535031620">לא נמצאו תוכנות מזיקות</translation>
 <translation id="1186771945450942097">הסרת תוכנה מזיקה</translation>
@@ -4522,7 +4522,7 @@
 <translation id="6555810572223193255">הניקוי לא זמין עכשיו</translation>
 <translation id="7117228822971127758">אפשר לנסות שוב מאוחר יותר</translation>
 <translation id="443475966875174318">עדכון או הסרה של אפליקציות לא תואמות</translation>
-<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{‏האפליקציה הזו עלולה למנוע מ-Dissenter לפעול כמו שצריך.}two{‏האפליקציות האלה עלולות למנוע מ-Dissenter לפעול כמו שצריך.}many{‏האפליקציות האלה עלולות למנוע מ-Dissenter לפעול כמו שצריך.}other{‏האפליקציות האלה עלולות למנוע מ-Dissenter לפעול כמו שצריך.}}</translation>
+<translation id="952641158891221405">{NUM_APPLICATIONS,plural, =1{‏האפליקציה הזו עלולה למנוע מ-Fulldive לפעול כמו שצריך.}two{‏האפליקציות האלה עלולות למנוע מ-Fulldive לפעול כמו שצריך.}many{‏האפליקציות האלה עלולות למנוע מ-Fulldive לפעול כמו שצריך.}other{‏האפליקציות האלה עלולות למנוע מ-Fulldive לפעול כמו שצריך.}}</translation>
 <translation id="599131315899248751">{NUM_APPLICATIONS,plural, =1{כדי שאפשר יהיה להמשיך לגלוש באינטרנט, צריך לבקש ממנהל המערכת להסיר את האפליקציה הזו.}two{כדי שאפשר יהיה להמשיך לגלוש באינטרנט, צריך לבקש ממנהל המערכת להסיר את האפליקציות האלה.}many{כדי שאפשר יהיה להמשיך לגלוש באינטרנט, צריך לבקש ממנהל המערכת להסיר את האפליקציות האלה.}other{כדי שאפשר יהיה להמשיך לגלוש באינטרנט, צריך לבקש ממנהל המערכת להסיר את האפליקציות האלה.}}</translation>
 <translation id="4743260470722568160"><ph name="BEGIN_LINK"/>איך לעדכן אפליקציות<ph name="END_LINK"/></translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{אפליקציה}two{אפליקציות}many{אפליקציות}other{אפליקציות}}</translation>
@@ -4605,7 +4605,7 @@
 <translation id="284843628681142937">‏שליחת כתובות אתרים של דפים שבהם ביקרת ל-Gab AI Inc</translation>
 <translation id="7704317875155739195">השלמה אוטומטית של חיפושים וכתובות אתרים</translation>
 <translation id="2000419248597011803">‏שליחה של חלק מקובצי ה-Cookie והחיפושים משורת כתובת האתר ומתיבת החיפוש אל מנוע החיפוש שהוגדר כברירת מחדל</translation>
-<translation id="918192811481327695">‏עזרה בשיפור התכונות והביצועים של Dissenter</translation>
+<translation id="918192811481327695">‏עזרה בשיפור התכונות והביצועים של Fulldive</translation>
 <translation id="9063160602596686558">‏שליחת דוחות קריסה וסטטיסטיקת שימוש אל Gab AI Inc באופן אוטומטי</translation>
 <translation id="6697492270171225480">הצגת הצעות לדפים דומים אם דף מסוים לא נמצא</translation>
 <translation id="4534361985432360439">‏שליחת כתובת האינטרנט של הדף שאליו ניסית להגיע אל Gab AI Inc</translation>
@@ -4629,7 +4629,7 @@
 <translation id="1651008383952180276">עליך להזין אותו ביטוי סיסמה פעמיים</translation>
 <translation id="988978206646512040">השדה של ביטוי הסיסמה לא יכול להישאר ריק</translation>
 <translation id="2136476978468204130">הזנת ביטוי סיסמה שגוי</translation>
-<translation id="7505421639213002314">‏נתונים מסנכרון Dissenter</translation>
+<translation id="7505421639213002314">‏נתונים מסנכרון Fulldive</translation>
 <translation id="452750746583162491">סקירת הנתונים המסונכרנים</translation>
 <translation id="7956662517480676674">‏סנכרון ושירותי Gab AI Inc</translation>
 <translation id="7772032839648071052">אשר משפט-סיסמה</translation>
@@ -4717,7 +4717,7 @@
 <translation id="7235716375204803342">מתבצע אחזור פעילויות...</translation>
 <translation id="8314381333424235892">התוסף חסר או לא מותקן</translation>
 <translation id="7647403192093989392">אין פעילויות אחרונות</translation>
-<translation id="38046578254905003">‏תוספים ועיצובים זמינים ב<ph name="BEGIN_LINK"/>חנות האינטרנט של Dissenter<ph name="END_LINK"/></translation>
+<translation id="38046578254905003">‏תוספים ועיצובים זמינים ב<ph name="BEGIN_LINK"/>חנות האינטרנט של Fulldive<ph name="END_LINK"/></translation>
 <translation id="7272674038937250585">לא סופק תיאור</translation>
 <translation id="3855441664322950881">ארוז תוסף</translation>
 <translation id="2958721676848865875">אזהרת 'ארוז תוסף'</translation>
@@ -4728,7 +4728,7 @@
 <translation id="1992397118740194946">לא מוגדר</translation>
 <translation id="6706210727756204531">היקף</translation>
 <translation id="5532223876348815659">גלובלי</translation>
-<translation id="300669147395456190">‏יישומי Dissenter</translation>
+<translation id="300669147395456190">‏יישומי Fulldive</translation>
 <translation id="6787839852456839824">מקשי קיצור</translation>
 <translation id="6419546358665792306">טען פריט לא ארוז</translation>
 <translation id="8023801379949507775">עדכן תוספים כעת</translation>
@@ -4742,13 +4742,13 @@
 <translation id="8447409163267621480">‏יש לכלול את Ctrl או Alt</translation>
 <translation id="3365598184818502391">‏צריך להשתמש ב-Ctrl או ב-Alt</translation>
 <translation id="1688935057616748272">צריך להזין אות</translation>
-<translation id="1579879232130925590">‏Dissenter בריא ושמח יותר</translation>
+<translation id="1579879232130925590">‏Fulldive בריא ושמח יותר</translation>
 <translation id="964057662886721376">חלק מהתוספים מאיטים אותך – במיוחד תוספים שלא רצית להתקין.</translation>
 <translation id="1499271269825557605">אם לא מזהים תוסף כלשהו או אם הדפדפן לא פועל בצורה תקינה, אפשר להשבית את התוספים או להתאים אותם אישית מכאן.</translation>
 <translation id="2382818385048255866">בדיקת התוספים</translation>
 <translation id="3900789207771372462">לחלק מהתוספים יש גישה לפעילות הגלישה שלך, כולל מידע אישי.</translation>
 <translation id="6772339735733515807">ניהול התוספים שלך</translation>
-<translation id="1510515462062582289">‏בדף הזה מוצגים כל התוספים שהותקנו ב-Dissenter.</translation>
+<translation id="1510515462062582289">‏בדף הזה מוצגים כל התוספים שהותקנו ב-Fulldive.</translation>
 <translation id="2810390687497823527">אם לא מזהים תוסף כלשהו או אם הדפדפן לא פועל בצורה תקינה, אפשר להשבית את התוספים או להתאים אותם אישית מכאן.</translation>
 <translation id="4479424953165245642">נהל יישומי קיוסק</translation>
 <translation id="6619801788773578757">הוספת יישום קיוסק</translation>
@@ -4764,7 +4764,7 @@
 <translation id="2342740338116612727">סימניות נוספו</translation>
 <translation id="7835178595033117206">הסימניה הוסרה</translation>
 <translation id="742130257665691897">סימניות הוסרו</translation>
-<translation id="5468853758063275923">‏Dissenter הוא דפדפן ברירת המחדל</translation>
+<translation id="5468853758063275923">‏Fulldive הוא דפדפן ברירת המחדל</translation>
 <translation id="2950533317914339731">‏הוספת סימניות לאפליקציות המועדפות שלך ב-Gab AI Inc Apps</translation>
 <translation id="939305735877869636">Gab AI Inc</translation>
 <translation id="9030785788945687215">Gmail</translation>
@@ -4779,13 +4779,13 @@
 <translation id="5033266061063942743">צורות גיאומטריות</translation>
 <translation id="7789963078219276159">הרקע של דף הפתיחה הוחלף, ועכשיו מופיעה בו התמונה<ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">רקע דף הפתיחה עבר איפוס לרקע ברירת המחדל.</translation>
-<translation id="239760341987199724">‏הגדר את Dissenter כדפדפן ברירת המחדל שלך</translation>
+<translation id="239760341987199724">‏הגדר את Fulldive כדפדפן ברירת המחדל שלך</translation>
 <translation id="96037229054033864">‏חיפוש Gab AI Inc וכל היכולות של Gab AI Inc עומדים לרשותך בכל גלישה</translation>
-<translation id="296137235951584143">‏אפשר להתאים אישית את Dissenter בדרך שנוחה לך</translation>
+<translation id="296137235951584143">‏אפשר להתאים אישית את Fulldive בדרך שנוחה לך</translation>
 <translation id="3982375475032951137">אפשר להגדיר את הדפדפן בכמה שלבים פשוטים</translation>
 <translation id="6972754398087986839">תחילת העבודה</translation>
-<translation id="3707821975049107110">‏כבר הצטרפת כמשתמש Dissenter? אפשר להיכנס לחשבון</translation>
-<translation id="7113572760575285642">‏ה-Dissenter שלך, בכל מקום</translation>
+<translation id="3707821975049107110">‏כבר הצטרפת כמשתמש Fulldive? אפשר להיכנס לחשבון</translation>
+<translation id="7113572760575285642">‏ה-Fulldive שלך, בכל מקום</translation>
 <translation id="567643736130151854">כדי לקבל גישה לסימניות, לסיסמאות ולנתונים נוספים שלך בכל המכשירים, אפשר להיכנס לחשבון ולהפעיל את הסנכרון</translation>
 <translation id="725758059478686223">שירות הדפסה</translation>
 <translation id="15662109988763471">המדפסת שנבחרה אינה זמינה או שאינה מותקנת כראוי. יש לבדוק את המדפסת או לנסות לבחור מדפסת אחרת.</translation>
@@ -4908,7 +4908,7 @@
 <translation id="7574650250151586813">‏כדי להקליד טקסט צריך לעדכן את האפליקציה 'מקלדת Daydream'</translation>
 <translation id="983511809958454316">‏התכונה לא נתמכת ב-VR</translation>
 <translation id="4008291085758151621">‏פרטי האתר אינם זמינים ב-VR</translation>
-<translation id="1439926347196400598">‏האם להתיר ל-Dissenter להקליט אודיו?</translation>
+<translation id="1439926347196400598">‏האם להתיר ל-Fulldive להקליט אודיו?</translation>
 <translation id="6313641880021325787">‏יציאה מ-VR</translation>
 <translation id="2670429602441959756">‏הדף הזה מכיל תכונות שעדיין אינן נתמכות ב-VR. אי אפשר להישאר כאן...</translation>
 <translation id="1802687198411089702">הדף לא מגיב. באפשרות לחכות או לצאת.</translation>
@@ -4930,7 +4930,7 @@
 <translation id="1721312023322545264">עליך לפנות אל <ph name="NAME"/> לקבלת הרשאה לביקור באתר הזה</translation>
 <translation id="7543525346216957623">יש לבקש רשות מההורים</translation>
 <translation id="471880041731876836">אין לך הרשאה להיכנס אל האתר הזה</translation>
-<translation id="3480834636742786788">‏היכנס לחשבונך ב-Dissenter לפני שתשתמש באפליקציה הזו.</translation>
+<translation id="3480834636742786788">‏היכנס לחשבונך ב-Fulldive לפני שתשתמש באפליקציה הזו.</translation>
 <translation id="2851634818064021665">יש צורך בהרשאה כדי להיכנס אל האתר הזה</translation>
 <translation id="4933782374919065856">יש לך שאלות? עליך לפנות לאיש הקשר שמפקח על הפרופיל שלך.</translation>
 <translation id="2712173769900027643">בקש רשות</translation>
@@ -4950,7 +4950,7 @@
 <translation id="7755287808199759310">אחד מההורים שלך יכול לבטל בשבילך את החסימה</translation>
 <translation id="5732392974455271431">ההורים שלך יכולים לבטל בשבילך את החסימה</translation>
 <translation id="3556433843310711081">המנהל שלך יכול לבטל בשבילך את החסימה</translation>
-<translation id="1254756632288991504">‏תחילה היכנס לחשבונך ב-Dissenter כדי לאפשר ל-Dissenter לבדוק אם יש לך הרשאה לגשת לאתר הזה.</translation>
+<translation id="1254756632288991504">‏תחילה היכנס לחשבונך ב-Fulldive כדי לאפשר ל-Fulldive לבדוק אם יש לך הרשאה לגשת לאתר הזה.</translation>
 <translation id="2507397597949272797"><ph name="NAME"/> הושהה</translation>
 <translation id="8015163965024115122">נגמר הזמן שהוגדר על-ידי ההורים שלך באפליקציות <ph name="IDS_SHORT_PRODUCT_NAME"/> או <ph name="IDS_SHORT_PRODUCT_NAME"/>.</translation>
 <translation id="2748061034695037846"><ph name="DOMAIN"/> בהשהיה</translation>

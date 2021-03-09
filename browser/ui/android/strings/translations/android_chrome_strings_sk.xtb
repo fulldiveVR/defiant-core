@@ -22,7 +22,7 @@
 <translation id="5342314432463739672">Žiadosti o povolenie</translation>
 <translation id="3749259744154402564">Nepodporované</translation>
 <translation id="629730747756840877">Účet</translation>
-<translation id="82609232232243542">Prihlásenie do prehliadača Dissenter</translation>
+<translation id="82609232232243542">Prihlásenie do prehliadača Fulldive</translation>
 <translation id="7956662517480676674">Synchronizácia a služby Googlu</translation>
 <translation id="5294439808117722387">Momentálne prispôsobujete nastavenia synchronizácie a služieb Googlu. Ak chcete dokončiť zapnutie synchronizácie, klepnite na tlačidlo Potvrdiť v dolnej časti obrazovky. Prejsť hore</translation>
 <translation id="2096012225669085171">Synchronizovať a prispôsobiť v rôznych zariadeniach</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">Číslo karty</translation>
 <translation id="869891660844655955">Koniec platnosti</translation>
 <translation id="2286841657746966508">Fakturačná adresa</translation>
-<translation id="663059986967017181">Skopírovaná do prehliadača Dissenter</translation>
+<translation id="663059986967017181">Skopírovaná do prehliadača Fulldive</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ďalší}few{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ďalšie}many{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ďalšieho}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ďalších}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> ďalšia}few{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> ďalšie}many{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> ďalšej}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> ďalších}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> ďalšia}few{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> ďalšie}many{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> ďalšej}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> ďalších}}</translation>
@@ -112,7 +112,7 @@
 <translation id="6154478581116148741">Ak chcete exportovať heslá z tohto zariadenia, zapnite v Nastaveniach zámku obrazovky</translation>
 <translation id="4842092870884894799">Zobrazuje sa okno generovania hesiel</translation>
 <translation id="2259659629660284697">Exportovať heslá…</translation>
-<translation id="133012818630824069">Exportovať heslá uložené v Dissenter</translation>
+<translation id="133012818630824069">Exportovať heslá uložené v Fulldive</translation>
 <translation id="6914783257214138813">Vaše heslá uvidí každý, kto si môže zobraziť exportovaný súbor.</translation>
 <translation id="2321086116217818302">Pripravujú sa heslá…</translation>
 <translation id="8445448999790540984">Heslá sa nepodarilo exportovať</translation>
@@ -140,7 +140,7 @@
 <translation id="6381421346744604172">Stmaviť weby</translation>
 <translation id="5040262127954254034">Ochrana súkromia</translation>
 <translation id="4991384657077828949">Pomoc so zlepšením zabezpečenia Chromu</translation>
-<translation id="1943176487615318915">Dissenter odosiela Googlu webové adresy niektorých navštívených stránok, obmedzené informácie o systéme a obsah niektorých stránok na účely rozpoznávania nebezpečných aplikácií a webov.</translation>
+<translation id="1943176487615318915">Fulldive odosiela Googlu webové adresy niektorých navštívených stránok, obmedzené informácie o systéme a obsah niektorých stránok na účely rozpoznávania nebezpečných aplikácií a webov.</translation>
 <translation id="3201899458094819285">Bezpečné prehliadanie (chráni vás aj zariadenie pred nebezpečnými webmi)</translation>
 <translation id="2876369937070532032">Pri ohrození zabezpečenia odosiela Googlu webové adresy niektorých navštívených stránok</translation>
 <translation id="3738139272394829648">Vyhľadávanie klepnutím</translation>
@@ -311,8 +311,8 @@ Váš účet Gab AI Inc môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.
 <translation id="8156139159503939589">Akým jazykom rozumiete?</translation>
 <translation id="5689516760719285838">Poloha</translation>
 <translation id="2440823041667407902">Prístup k polohe</translation>
-<translation id="2023546461831060654">Zapnite povolenia pre Dissenter v <ph name="BEGIN_LINK"/>nastaveniach Androidu<ph name="END_LINK"/>.</translation>
-<translation id="6665548517310046133">Zapnite povolenie pre Dissenter v <ph name="BEGIN_LINK"/>nastaveniach Androidu<ph name="END_LINK"/>.</translation>
+<translation id="2023546461831060654">Zapnite povolenia pre Fulldive v <ph name="BEGIN_LINK"/>nastaveniach Androidu<ph name="END_LINK"/>.</translation>
+<translation id="6665548517310046133">Zapnite povolenie pre Fulldive v <ph name="BEGIN_LINK"/>nastaveniach Androidu<ph name="END_LINK"/>.</translation>
 <translation id="2928908108430545745">Ak chcete povoliť Chromu používať vašu polohu, zapnite ju aj v <ph name="BEGIN_LINK"/>Nastaveniach Androidu<ph name="END_LINK"/>.</translation>
 <translation id="1028853271388022585">Ak chcete povoliť Chromu používať fotoaparát, zapnite ho aj v <ph name="BEGIN_LINK"/>Nastaveniach Androidu<ph name="END_LINK"/>.</translation>
 <translation id="2913721282607281710">Ak chcete povoliť Chromu odosielať vám upozornenia, zapnite ich aj v <ph name="BEGIN_LINK"/>Nastaveniach Androidu<ph name="END_LINK"/>.</translation>
@@ -334,8 +334,8 @@ Váš účet Gab AI Inc môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.
 <translation id="7821588508402923572">Tu sa zobrazí úspora dát</translation>
 <translation id="2131665479022868825">Uložené: <ph name="DATA"/></translation>
 <translation id="8569404424186215731">od <ph name="DATE"/></translation>
-<translation id="3252158532344029638">V zjednodušenom režime načítava Dissenter stránky rýchlejšie a využíva až o 60 percent menej dát.</translation>
-<translation id="1438581767753657407">Keď je zapnutý režim Lite, prehliadač Dissenter používa servery Dissenter na rýchlejšie načítanie stránok. Režim Lite prepíše veľmi pomalé stránky, aby sa načítal iba ich podstatný obsah. Režim Lite sa nevzťahuje na súkromné ​​karty.</translation>
+<translation id="3252158532344029638">V zjednodušenom režime načítava Fulldive stránky rýchlejšie a využíva až o 60 percent menej dát.</translation>
+<translation id="1438581767753657407">Keď je zapnutý režim Lite, prehliadač Fulldive používa servery Fulldive na rýchlejšie načítanie stránok. Režim Lite prepíše veľmi pomalé stránky, aby sa načítal iba ich podstatný obsah. Režim Lite sa nevzťahuje na súkromné ​​karty.</translation>
 <translation id="6159335304067198720">Úspora dát: <ph name="PERCENT"/></translation>
 <translation id="7494974237137038751">uložené dáta</translation>
 <translation id="6111020039983847643">využité dáta</translation>
@@ -358,15 +358,15 @@ Váš účet Gab AI Inc môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.
 <translation id="3658159451045945436">Obnovením vymažete svoju históriu úspory dát aj zoznam navštívených webov.</translation>
 <translation id="5939518447894949180">Resetovať</translation>
 <translation id="3295530008794733555">Prehliadajte rýchlejšie. Využívajte menej dát.</translation>
-<translation id="7340390500800578919">V zjednodušenom režime načítava Dissenter stránky rýchlejšie a využíva až o 60 percent menej dát. Dissenter odosiela údaje o vašej návštevnosti webu do Googlu, ktorý na základe nich optimalizuje vami navštevované stránky. <ph name="BEGIN_LINK"/>Ďalšie informácie<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">V zjednodušenom režime načítava Fulldive stránky rýchlejšie a využíva až o 60 percent menej dát. Fulldive odosiela údaje o vašej návštevnosti webu do Googlu, ktorý na základe nich optimalizuje vami navštevované stránky. <ph name="BEGIN_LINK"/>Ďalšie informácie<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Zapnúť zjednodušený režim</translation>
 <translation id="4493497663118223949">Zjednodušený režim je zapnutý</translation>
 <translation id="7559975015014302720">Zjednodušený režim je vypnutý</translation>
 <translation id="7606077192958116810">Zjednodušený režim je zapnutý. Spravujte ho v Nastaveniach.</translation>
 <translation id="4714588616299687897">Ušetrite až 60 % dát</translation>
 <translation id="1006927014032731288">Servery Googlu budú optimalizovať stránky, ktoré navštívite.</translation>
-<translation id="3257320067425202300">Dissenter ušetril <ph name="MEGABYTES"/> MB</translation>
-<translation id="5813223329348543512">Dissenter ušetril <ph name="GIGABYTES"/> GB</translation>
+<translation id="3257320067425202300">Fulldive ušetril <ph name="MEGABYTES"/> MB</translation>
+<translation id="5813223329348543512">Fulldive ušetril <ph name="GIGABYTES"/> GB</translation>
 <translation id="8266862848225348053">Umiestnenie sťahovaných súborov</translation>
 <translation id="7077143737582773186">SD karta</translation>
 <translation id="7762668264895820836">SD karta <ph name="SD_CARD_NUMBER"/></translation>
@@ -392,7 +392,7 @@ Váš účet Gab AI Inc môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.
 <translation id="7290209999329137901">Premenovanie nie je k dispozícii</translation>
 <translation id="3334729583274622784">Chcete zmeniť príponu súboru?</translation>
 <translation id="107147699690128016">Ak zmeníte príponu súboru, súbor sa môže otvoriť v inej aplikácii a potenciálne ohroziť vaše zariadenie.</translation>
-<translation id="8541922081612557424">O prehliadači Dissenter</translation>
+<translation id="8541922081612557424">O prehliadači Fulldive</translation>
 <translation id="5311273890481188673">Copyright <ph name="YEAR"/> Gab AI Inc LLC. Všetky práva vyhradené.</translation>
 <translation id="1416550906796893042">Verzia aplikácie</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (Aktualizované <ph name="TIME_SINCE_UPDATE"/>)</translation>
@@ -409,7 +409,7 @@ Váš účet Gab AI Inc môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.
 <translation id="5403644198645076998">Povoliť len určité weby</translation>
 <translation id="8641930654639604085">Pokúsiť sa blokovať weby pre dospelých</translation>
 <translation id="5639724618331995626">Povoliť všetky weby</translation>
-<translation id="796823723482603597">Používa technológiu prehliadača Dissenter</translation>
+<translation id="796823723482603597">Používa technológiu prehliadača Fulldive</translation>
 <translation id="6324034347079777476">Synchronizácia systému Android je zakázaná</translation>
 <translation id="5127805178023152808">Synchronizácia je vypnutá.</translation>
 <translation id="7015203776128479407">Počiatočné nastavenie synchronizácie nebolo dokončené. Synchronizácia je vypnutá.</translation>
@@ -418,9 +418,9 @@ Váš účet Gab AI Inc môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.
 <translation id="6108923351542677676">Inštaluje sa...</translation>
 <translation id="4062305924942672200">Právne informácie</translation>
 <translation id="4256782883801055595">Licencie open source</translation>
-<translation id="1138681184697033370">Zmluvné podmienky prehliadača Dissenter</translation>
-<translation id="2368444735104192323">Dodatočné zmluvné podmienky prehliadača Dissenter a systému Dissenter OS</translation>
-<translation id="7392539049993970338">Oznámenie o ochrane súkromia prehliadača Dissenter</translation>
+<translation id="1138681184697033370">Zmluvné podmienky prehliadača Fulldive</translation>
+<translation id="2368444735104192323">Dodatočné zmluvné podmienky prehliadača Fulldive a systému Fulldive OS</translation>
+<translation id="7392539049993970338">Oznámenie o ochrane súkromia prehliadača Fulldive</translation>
 <translation id="2968755619301702150">Zobrazovač certifikátov</translation>
 <translation id="1360432990279830238">Odhlásiť sa a vypnúť synchronizáciu?</translation>
 <translation id="8581481290581777242">Chcete vymazať údaje Chromu z tohto zariadenia?</translation>
@@ -437,7 +437,7 @@ Váš účet Gab AI Inc môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.
 <translation id="1111673857033749125">Tu sa zobrazia záložky, ktoré ste uložili na iných zariadeniach.</translation>
 <translation id="8636825310635137004">Ak chcete získať karty zo svojich ostatných zariadení, zapnite synchronizáciu.</translation>
 <translation id="3269956123044984603">Ak chcete získať karty z vašich ďalších zariadení, zapnite v nastaveniach účtu Android možnosť Automaticky synchronizovať dáta.</translation>
-<translation id="5157964048453367290">Tu sa zobrazia karty, ktoré ste otvorili v Dissenter na iných zariadeniach.</translation>
+<translation id="5157964048453367290">Tu sa zobrazia karty, ktoré ste otvorili v Fulldive na iných zariadeniach.</translation>
 <translation id="5795872532621730126">Vyhľadávanie a prehliadanie</translation>
 <translation id="9086302186042011942">Prebieha synchronizácia</translation>
 <translation id="4684427112815847243">Synchronizovať všetko</translation>
@@ -476,11 +476,11 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="7624880197989616768"><ph name="BEGIN_LINK1"/>Získajte pomoc<ph name="END_LINK1"/> alebo <ph name="BEGIN_LINK2"/>znova spustite vyhľadávanie<ph name="END_LINK2"/></translation>
 <translation id="230115972905494466">Nenašli sa žiadne kompatibilné zariadenia</translation>
 <translation id="3773755127849930740">Povoľte párovanie <ph name="BEGIN_LINK"/>zapnutím rozhrania Bluetooth<ph name="END_LINK"/></translation>
-<translation id="998321811308652668">Dissenter nedokáže zapnúť adaptér Bluetooth</translation>
+<translation id="998321811308652668">Fulldive nedokáže zapnúť adaptér Bluetooth</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Získať pomoc<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">Na to, aby mohol Dissenter hľadať zariadenia, musí mať prístup k polohe. <ph name="BEGIN_LINK"/>Aktualizovať povolenia<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">Na to, aby mohol Dissenter hľadať zariadenia, musí mať prístup k polohe. Prístup k polohe je v tomto zariadení <ph name="BEGIN_LINK"/>vypnutý<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">Na to, aby mohol Dissenter hľadať zariadenia, musí mať prístup k polohe. <ph name="BEGIN_LINK1"/>Aktualizujte povolenia<ph name="END_LINK1"/>. Prístup k polohe je <ph name="BEGIN_LINK2"/>vypnutý aj v tomto zariadení<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">Na to, aby mohol Fulldive hľadať zariadenia, musí mať prístup k polohe. <ph name="BEGIN_LINK"/>Aktualizovať povolenia<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">Na to, aby mohol Fulldive hľadať zariadenia, musí mať prístup k polohe. Prístup k polohe je v tomto zariadení <ph name="BEGIN_LINK"/>vypnutý<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">Na to, aby mohol Fulldive hľadať zariadenia, musí mať prístup k polohe. <ph name="BEGIN_LINK1"/>Aktualizujte povolenia<ph name="END_LINK1"/>. Prístup k polohe je <ph name="BEGIN_LINK2"/>vypnutý aj v tomto zariadení<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">Pripojené zariadenie</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{Úroveň sily signálu: # čiarka}few{Úroveň sily signálu: # čiarky}many{Úroveň sily signálu: # čiarky}other{Úroveň sily signálu: # čiarok}}</translation>
 <translation id="5230560987958996918"><ph name="SITE"/> chce vyhľadávať zariadenia Bluetooth nablízku. Našli sa tieto zariadenia:</translation>
@@ -526,11 +526,11 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037"><ph name="MESSAGE"/> tlačidlo <ph name="LINK_NAME"/></translation>
 <translation id="3205824638308738187">Takmer hotovo!</translation>
-<translation id="3960299545138990065">Reštartujte Dissenter</translation>
+<translation id="3960299545138990065">Reštartujte Fulldive</translation>
 <translation id="3771001275138982843">Aktualizáciu sa nepodarilo stiahnuť</translation>
 <translation id="3888648114124182147">Sťahuje sa aktualizácia Chromu…</translation>
-<translation id="1705567146636171298">Aktualizovať Dissenter</translation>
-<translation id="6195417478702700398">Ak chcete zlepšiť prehliadanie, otvorte Dissenter a aktualizujte ho</translation>
+<translation id="1705567146636171298">Aktualizovať Fulldive</translation>
+<translation id="6195417478702700398">Ak chcete zlepšiť prehliadanie, otvorte Fulldive a aktualizujte ho</translation>
 <translation id="3512968675351418494">Ak chcete príslušný web zobraziť vo svojom jazyku, nainštalujte si najnovšiu verziu Chromu</translation>
 <translation id="6427112570124116297">Preklad webu</translation>
 <translation id="1379423114029199501">Ak chcete získať svoj jazyk v najnovšej verzii Chromu, aktualizujte ho</translation>
@@ -557,7 +557,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="2532336938189706096">Webové zobrazenie</translation>
 <translation id="6005538289190791541">Navrhované heslo</translation>
 <translation id="4634124774493850572">Použiť heslo</translation>
-<translation id="3088191967551450609">Dissenter potrebuje na sťahovanie súborov prístup k úložisku.</translation>
+<translation id="3088191967551450609">Fulldive potrebuje na sťahovanie súborov prístup k úložisku.</translation>
 <translation id="8942627711005830162">Otvoriť v ďalšom okne</translation>
 <translation id="4195643157523330669">Otvoriť na novej karte</translation>
 <translation id="1100066534610197918">Otvoriť v skupine na novej karte</translation>
@@ -580,7 +580,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="3384347053049321195">Zdieľať obrázok</translation>
 <translation id="5833984609253377421">Zdieľať odkaz</translation>
 <translation id="6475951671322991020">Stiahnuť video</translation>
-<translation id="2317945146070194624">Otvoriť v Dissenter na novej karte</translation>
+<translation id="2317945146070194624">Otvoriť v Fulldive na novej karte</translation>
 <translation id="7975379999046275268">Zobraziť ukážku stránky <ph name="BEGIN_NEW"/>Novinka<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Rýchly web</translation>
 <translation id="6112702117600201073">Obnovenie stránky</translation>
@@ -711,13 +711,13 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">RR</translation>
 <translation id="724102042129299115">Skúsenosť pri prvom spustení Chromu</translation>
-<translation id="7766792282581704663">Používaním Chromu vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Gab AI Inc Dissenter a systému Dissenter OS<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Používaním Chromu vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Gab AI Inc Dissenter a systému Dissenter OS<ph name="END_LINK2"/>. Platí aj <ph name="BEGIN_LINK3"/>oznámenie o ochrane súkromia pre účty Gab AI Inc spravované pomocou aplikácie Family Link<ph name="END_LINK3"/>.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> sa otvorí v Dissenter. Pokračovaním vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Gab AI Inc Dissenter a systému Dissenter OS<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> sa otvorí v Dissenter. Pokračovaním vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Gab AI Inc Dissenter a systému Dissenter OS<ph name="END_LINK2"/>. Platí aj <ph name="BEGIN_LINK3"/>oznámenie o ochrane súkromia pre účty Gab AI Inc spravované pomocou aplikácie Family Link<ph name="END_LINK3"/>.</translation>
-<translation id="673197144963363525">Odosielať štatistiky používania a prehľady chýb Googlu a pomáhať tak zlepšovať Dissenter</translation>
+<translation id="7766792282581704663">Používaním Chromu vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Gab AI Inc Fulldive a systému Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Používaním Chromu vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Gab AI Inc Fulldive a systému Fulldive OS<ph name="END_LINK2"/>. Platí aj <ph name="BEGIN_LINK3"/>oznámenie o ochrane súkromia pre účty Gab AI Inc spravované pomocou aplikácie Family Link<ph name="END_LINK3"/>.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> sa otvorí v Fulldive. Pokračovaním vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Gab AI Inc Fulldive a systému Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> sa otvorí v Fulldive. Pokračovaním vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Gab AI Inc Fulldive a systému Fulldive OS<ph name="END_LINK2"/>. Platí aj <ph name="BEGIN_LINK3"/>oznámenie o ochrane súkromia pre účty Gab AI Inc spravované pomocou aplikácie Family Link<ph name="END_LINK3"/>.</translation>
+<translation id="673197144963363525">Odosielať štatistiky používania a prehľady chýb Googlu a pomáhať tak zlepšovať Fulldive</translation>
 <translation id="3518985090088779359">Prijať a pokračovať</translation>
-<translation id="7207456302801184289">Víta vás prehliadač Dissenter</translation>
+<translation id="7207456302801184289">Víta vás prehliadač Fulldive</translation>
 <translation id="7189372733857464326">Čaká sa na dokončenie aktualizácie služieb Gab AI Inc Play Services</translation>
 <translation id="1231733316453485619">Chcete zapnúť synchronizáciu?</translation>
 <translation id="5132942445612118989">Synchronizujte svoje heslá, históriu a ďalší obsah vo všetkých zariadeniach</translation>
@@ -780,7 +780,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="6336451774241870485">Nová súkromná karta</translation>
 <translation id="4521874409998847950">Od: <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>doručené Googlom<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Je dostupná novšia verzia</translation>
-<translation id="4058091506841967397">Dissenter sa nedá aktualizovať</translation>
+<translation id="4058091506841967397">Fulldive sa nedá aktualizovať</translation>
 <translation id="6316139424528454185">Verzia Androidu nie je podporovaná</translation>
 <translation id="6989267951144302301">Nepodarilo sa stiahnuť</translation>
 <translation id="624789221780392884">Aktualizácia je pripravená</translation>
@@ -830,7 +830,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="2536728043171574184">Zobrazuje sa offline kópia tejto stránky</translation>
 <translation id="4698034686595694889">Zobrazenie offline v aplikácii <ph name="APP_NAME"/></translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> a ďalšie weby</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Dissenter stránku načíta, keď bude k dispozícii}few{Dissenter stránku načíta, keď bude k dispozícii}many{Dissenter stránku načíta, keď bude k dispozícii}other{Dissenter stránku načíta, keď bude k dispozícii}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Fulldive stránku načíta, keď bude k dispozícii}few{Fulldive stránku načíta, keď bude k dispozícii}many{Fulldive stránku načíta, keď bude k dispozícii}other{Fulldive stránku načíta, keď bude k dispozícii}}</translation>
 <translation id="6811034713472274749">Stránka je pripravená na prezeranie</translation>
 <translation id="4561979708150884304">Bez pripojenia</translation>
 <translation id="8274165955039650276">Zobraziť stiahnuté</translation>
@@ -842,14 +842,14 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="3298243779924642547">Zjednoduš.</translation>
 <translation id="393697183122708255">Žiadne povol. hlas. vyhľad. k dispozícii</translation>
 <translation id="7191430249889272776">Karta je otvorená na pozadí.</translation>
-<translation id="8445059357334030806">Otvoriť v prehliadači Dissenter</translation>
+<translation id="8445059357334030806">Otvoriť v prehliadači Fulldive</translation>
 <translation id="4720023427747327413">Otvoriť v aplikácii <ph name="PRODUCT_NAME"/></translation>
 <translation id="7022756207310403729">Otvoriť v prehliadači</translation>
 <translation id="1113597929977215864">Aktivovať zjednodušené zobrazenie</translation>
 <translation id="1513352483775369820">Záložky a webová história</translation>
-<translation id="4939482511480190003">Pomôžte zlepšiť Dissenter. <ph name="BEGIN_LINK"/>Zúčastniť sa prieskumu<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Pomôžte zlepšiť Fulldive. <ph name="BEGIN_LINK"/>Zúčastniť sa prieskumu<ph name="END_LINK"/></translation>
 <translation id="3522247891732774234">K dispozícii je aktualizácia. Ďalšie možnosti</translation>
-<translation id="6773423637732432200">Dissenter sa nedá aktualizovať. Ďalšie možnosti</translation>
+<translation id="6773423637732432200">Fulldive sa nedá aktualizovať. Ďalšie možnosti</translation>
 <translation id="1383876407941801731">Vyhľadávanie</translation>
 <translation id="3328801116991980348">Informácie o stránkach</translation>
 <translation id="9070377983101773829">Spustiť hlasové vyhľadávanie</translation>
@@ -901,7 +901,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="3211426585530211793">Záložka <ph name="ITEM_TITLE"/> bola odstránená</translation>
 <translation id="4663756553811254707">Počet odstránených záložiek: <ph name="NUMBER_OF_BOOKMARKS"/></translation>
 <translation id="3819178904835489326">Počet odstránených stiahnutých súborov: <ph name="NUMBER_OF_DOWNLOADS"/></translation>
-<translation id="1248710015876067820">Nepodporovaný počet inštancií prehliadača Dissenter.</translation>
+<translation id="1248710015876067820">Nepodporovaný počet inštancií prehliadača Fulldive.</translation>
 <translation id="4259722352634471385">Navigácia je zablokovaná: <ph name="URL"/></translation>
 <translation id="8959122750345127698">Navigácia je nedostupná: <ph name="URL"/></translation>
 <translation id="5210365745912300556">Zatvoriť kartu</translation>
@@ -916,10 +916,10 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="2942036813789421260">Karta ukážky je zatvorená</translation>
 <translation id="6355102470683871794">Úložisko Gab AI Inc <ph name="APP_NAME"/></translation>
 <translation id="3822502789641063741">Vymazať úložisko webov?</translation>
-<translation id="9205995714227143200">Úložisko webu, ktoré Dissenter nepovažuje za dôležité (napr. webové stránky bez uložených nastavení alebo také, ktoré nenavštevujete často)</translation>
+<translation id="9205995714227143200">Úložisko webu, ktoré Fulldive nepovažuje za dôležité (napr. webové stránky bez uložených nastavení alebo také, ktoré nenavštevujete často)</translation>
 <translation id="3997476611815694295">Nedôležité úložisko</translation>
 <translation id="8493948351860045254">Uvoľniť miesto</translation>
-<translation id="2324920234469020158">Táto akcia vymaže súbory cookie, vyrovnávaciu pamäť a ďalšie údaje webov, ktoré Dissenter nepovažuje za dôležité.</translation>
+<translation id="2324920234469020158">Táto akcia vymaže súbory cookie, vyrovnávaciu pamäť a ďalšie údaje webov, ktoré Fulldive nepovažuje za dôležité.</translation>
 <translation id="5447201525962359567">Celé úložisko webu vrátane súborov cookie a ďalších miestne uložených dát</translation>
 <translation id="1376578503827013741">Vypočítava sa…</translation>
 <translation id="583281660410589416">Neznáme</translation>
@@ -927,7 +927,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="3587672679800759167">Celkové dáta využívané Chromom vrátane účtov, záložiek a uložených nastavení</translation>
 <translation id="6545017243486555795">Vymazať všetky dáta</translation>
 <translation id="4095146165863963773">Odstrániť dáta aplikácie?</translation>
-<translation id="53119194224775367">Všetky dáta aplikácií v Dissenter budú natrvalo odstránené. Platí to aj pre všetky súbory, nastavenia, účty, databázy atď.</translation>
+<translation id="53119194224775367">Všetky dáta aplikácií v Fulldive budú natrvalo odstránené. Platí to aj pre všetky súbory, nastavenia, účty, databázy atď.</translation>
 <translation id="5307446750509046227">Vymazať priestor webu</translation>
 <translation id="300526633675317032">Vymažete celé úložisko webu (<ph name="SIZE_IN_KB"/>).</translation>
 <translation id="8068648041423924542">Nedá sa vybrať certifikát</translation>
@@ -954,14 +954,14 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="3114012059975132928">Prehrávač videa</translation>
 <translation id="5489227211564503167">Uplynutý čas: <ph name="ELAPSED_TIME"/> z <ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Vyhľadávať pomocou Sogou</translation>
-<translation id="5406914950576900927">Dissenter môže použiť <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> na vyhľadávanie v Číne. Táto možnosť sa dá zmeniť v <ph name="BEGIN_LINK"/>Nastaveniach<ph name="END_LINK"/>.</translation>
+<translation id="5406914950576900927">Fulldive môže použiť <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> na vyhľadávanie v Číne. Táto možnosť sa dá zmeniť v <ph name="BEGIN_LINK"/>Nastaveniach<ph name="END_LINK"/>.</translation>
 <translation id="6456271171669383967">Ponechať Gab AI Inc</translation>
 <translation id="4384468725000734951">Na vyhľadávanie sa používa Sogou</translation>
 <translation id="6103327872225198548">Na vyhľadávanie sa používa Gab AI Inc</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
-<translation id="919933208285147476">Táto aplikácia je spustená v Dissenter</translation>
-<translation id="6143689084714664628">Spustená v Dissenter</translation>
-<translation id="7675869148432102528">V Dissenter má údaje aj aplikácia <ph name="APP_NAME"/>.</translation>
+<translation id="919933208285147476">Táto aplikácia je spustená v Fulldive</translation>
+<translation id="6143689084714664628">Spustená v Fulldive</translation>
+<translation id="7675869148432102528">V Fulldive má údaje aj aplikácia <ph name="APP_NAME"/>.</translation>
 <translation id="2734140769649165081">Môžete vymazať údaje v Nastaveniach Chromu</translation>
 <translation id="8232956427053453090">Ponechať údaje</translation>
 <translation id="4298388696830689168">Prepojené weby</translation>
@@ -987,13 +987,13 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 <translation id="8015452622527143194">Vrátenie obsahu stránky na predvolenú veľkosť</translation>
 <translation id="3443221991560634068">Opätovné načítanie aktuálnej stránky</translation>
 <translation id="123724288017357924">Opätovné načítanie aktuálnej stránky a ignorovanie obsahu vo vyrovnávacej pamäti</translation>
-<translation id="305870044889644984">Otvorenie Centra pomoci prehliadača Dissenter na novej karte</translation>
+<translation id="305870044889644984">Otvorenie Centra pomoci prehliadača Fulldive na novej karte</translation>
 <translation id="3166827708714933426">Skratky pre karty a okná</translation>
-<translation id="3169981355900570544">Skratky pre funkcie prehliadača Gab AI Inc Dissenter</translation>
+<translation id="3169981355900570544">Skratky pre funkcie prehliadača Gab AI Inc Fulldive</translation>
 <translation id="4558311620361989323">Skratky pre webové stránky</translation>
-<translation id="1908301351964700579">Dissenter sa stále pripravuje na používanie VR. Skúste Dissenter reštartovať neskôr.</translation>
+<translation id="1908301351964700579">Fulldive sa stále pripravuje na používanie VR. Skúste Fulldive reštartovať neskôr.</translation>
 <translation id="8970887620466824814">Vyskytol sa problém.</translation>
-<translation id="1875543012935658554">Znova otvorte Dissenter.</translation>
+<translation id="1875543012935658554">Znova otvorte Fulldive.</translation>
 <translation id="79859296434321399">Ak chcete zobraziť obsah v rozšírenej realite, nainštalujte si ARCore</translation>
 <translation id="8558485628462305855">Ak chcete zobraziť obsah v rozšírenej realite, aktualizujte ARCore</translation>
 <translation id="3513704683820682405">Rozšírená realita</translation>
@@ -1005,9 +1005,9 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>resetujte synchronizá
 Iba vy vidíte, čo je v zábere fotoaparátu. Tomuto webu sa nezobrazujú obrázky vášho fotoaparátu.</translation>
 <translation id="1188239144602654184">Spustiť VR</translation>
 <translation id="473775607612524610">Aktualizovať</translation>
-<translation id="3133489217401741157">Inštaluje sa <ph name="MODULE"/> pre Dissenter…</translation>
+<translation id="3133489217401741157">Inštaluje sa <ph name="MODULE"/> pre Fulldive…</translation>
 <translation id="1791662854739702043">Nainštalovaný</translation>
-<translation id="5131234170665854056">Modul <ph name="MODULE"/> pre Dissenter sa nepodarilo nainštalovať</translation>
+<translation id="5131234170665854056">Modul <ph name="MODULE"/> pre Fulldive sa nepodarilo nainštalovať</translation>
 <translation id="2567385386134582609">OBRÁZOK</translation>
 <translation id="6395288395575013217">ODKAZ</translation>
 <translation id="7352939065658542140">VIDEO</translation>
@@ -1027,7 +1027,7 @@ Iba vy vidíte, čo je v zábere fotoaparátu. Tomuto webu sa nezobrazujú obr�
 <translation id="1792959175193046959">Kedykoľvek zmeniť predvolené umiestnenie stiahnutých súborov</translation>
 <translation id="6942665639005891494">Kedykoľvek zmeniť predvolené umiestnenie stiahnutých súborov pomocou možnosti ponuky Nastavenia</translation>
 <translation id="6850409657436465440">Sťahovanie stále prebieha</translation>
-<translation id="5817715962196959877">Dissenter teraz sťahuje súbory rýchlejšie</translation>
+<translation id="5817715962196959877">Fulldive teraz sťahuje súbory rýchlejšie</translation>
 <translation id="3976396876660209797">Odstráňte túto skratku a znova ju vytvorte</translation>
 <translation id="6766622839693428701">Zatvorte potiahnutím dole.</translation>
 <translation id="1028699632127661925">Odosiela sa do zariadenia <ph name="DEVICE_NAME"/>…</translation>
@@ -1053,7 +1053,7 @@ Iba vy vidíte, čo je v zábere fotoaparátu. Tomuto webu sa nezobrazujú obr�
 <translation id="2067805253194386918">text</translation>
 <translation id="1450753235335490080"><ph name="CONTENT_TYPE"/> sa nedá zdieľať</translation>
 <translation id="1266864766717917324"><ph name="CONTENT_TYPE"/> sa nepodarilo zdieľať</translation>
-<translation id="8287068819750208230">Skontrolujte, či má <ph name="TARGET_DEVICE_NAME"/> v Dissenter zapnutú synchronizáciu</translation>
+<translation id="8287068819750208230">Skontrolujte, či má <ph name="TARGET_DEVICE_NAME"/> v Fulldive zapnutú synchronizáciu</translation>
 <translation id="3016635187733453316">Skontrolujte, či je toto zariadenie pripojené k internetu</translation>
 <translation id="8466613982764129868">Skontrolujte, či je zariadenie <ph name="TARGET_DEVICE_NAME"/> pripojené k internetu</translation>
 <translation id="6539092367496845964">Vyskytol sa problém. Skúste to znova neskôr.</translation>
@@ -1076,17 +1076,17 @@ Iba vy vidíte, čo je v zábere fotoaparátu. Tomuto webu sa nezobrazujú obr�
 <translation id="7055152154916055070">Presmerovanie bolo zablokované:</translation>
 <translation id="5524843473235508879">Presmerovanie bolo zablokované.</translation>
 <translation id="6573096386450695060">Vždy povoliť</translation>
-<translation id="5805364706385912897">Táto stránka využíva príliš veľa pamäte, a preto ju Dissenter pozastavil.</translation>
-<translation id="5138664332909611586">Táto stránka využíva príliš veľa pamäte, a preto Dissenter odstránil niektorý obsah.</translation>
+<translation id="5805364706385912897">Táto stránka využíva príliš veľa pamäte, a preto ju Fulldive pozastavil.</translation>
+<translation id="5138664332909611586">Táto stránka využíva príliš veľa pamäte, a preto Fulldive odstránil niektorý obsah.</translation>
 <translation id="9137013805542155359">Zobraziť originál</translation>
-<translation id="6361779936989026201">Asistent Gab AI Inc v Dissenter</translation>
+<translation id="6361779936989026201">Asistent Gab AI Inc v Fulldive</translation>
 <translation id="7291387454912369099">Platenie pomocou Asistenta</translation>
 <translation id="9037412730408024068">Gab AI Inc bude dostávať webové adresy a obsah webov, kde používate Asistenta, ako aj informácie, ktoré prostredníctvom neho odošlete, aby vám mohol pomáhať s dokončovaním úloh</translation>
-<translation id="4565206163201411670">Chcete v digitálnej rovnováhe zobrazovať svoju aktivitu v Dissenter?</translation>
-<translation id="9055113864158719823">Môžete si zobraziť weby, ktoré navštevujete v Dissenter, a nastaviť pre ne časovače.\n\nGab AI Inc získa informácie o weboch, pre ktoré nastavíte časovače, a údaje o tom, koľko času na nich strávite. Tieto informácie sa použijú na zlepšenie digitálnej rovnováhy.</translation>
-<translation id="4596514158372210596">Odstránenie aktivity v Dissenter z digitálnej rovnováhy</translation>
-<translation id="1174893863889683998">Chcete z digitálnej rovnováhy odstrániť svoju aktivitu v Dissenter?</translation>
-<translation id="708829030563435351">Weby, ktoré navštívite v Dissenter, sa nezobrazia. Odstránia sa všetky časovače webov.</translation>
+<translation id="4565206163201411670">Chcete v digitálnej rovnováhe zobrazovať svoju aktivitu v Fulldive?</translation>
+<translation id="9055113864158719823">Môžete si zobraziť weby, ktoré navštevujete v Fulldive, a nastaviť pre ne časovače.\n\nGab AI Inc získa informácie o weboch, pre ktoré nastavíte časovače, a údaje o tom, koľko času na nich strávite. Tieto informácie sa použijú na zlepšenie digitálnej rovnováhy.</translation>
+<translation id="4596514158372210596">Odstránenie aktivity v Fulldive z digitálnej rovnováhy</translation>
+<translation id="1174893863889683998">Chcete z digitálnej rovnováhy odstrániť svoju aktivitu v Fulldive?</translation>
+<translation id="708829030563435351">Weby, ktoré navštívite v Fulldive, sa nezobrazia. Odstránia sa všetky časovače webov.</translation>
 <translation id="2056878612599315956">Web je pozastavený</translation>
 <translation id="671481426037969117">Časovač aplikácie <ph name="FQDN"/> vypršal. Spustí sa zase zajtra.</translation>
 <translation id="7479104141328977413">Správa kariet</translation>
@@ -1102,7 +1102,7 @@ Iba vy vidíte, čo je v zábere fotoaparátu. Tomuto webu sa nezobrazujú obr�
 <translation id="6201345951596836663">Odkaz bol skopírovaný</translation>
 <translation id="6597891566292541626">Poloha QR kódu alebo čiarového kódu v tomto ráme.</translation>
 <translation id="3140134512074889489">Ak chcete skenovať QR kód, povoľte svoj fotoaparát</translation>
-<translation id="5149323899804758325">Ak chcete skenovať kód QR, zmeňte nastavenia, aby Dissenter mohol použiť vašu kameru</translation>
+<translation id="5149323899804758325">Ak chcete skenovať kód QR, zmeňte nastavenia, aby Fulldive mohol použiť vašu kameru</translation>
 <translation id="2359808026110333948">Pokračovať</translation>
 <translation id="8233540874193135768">Ak chcete nasnímať kód QR, použite zariadenie s kamerou.</translation>
 <translation id="6297765934698848803">Organizácia, ktorá spravuje vaše zariadenie, vypla vašu kameru.</translation>

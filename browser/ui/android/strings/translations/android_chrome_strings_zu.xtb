@@ -22,7 +22,7 @@
 <translation id="5342314432463739672">Izicelo zemvume</translation>
 <translation id="3749259744154402564">Akusekelwe</translation>
 <translation id="629730747756840877">I-akhawunti</translation>
-<translation id="82609232232243542">Ngena ngemvume ku-Dissenter</translation>
+<translation id="82609232232243542">Ngena ngemvume ku-Fulldive</translation>
 <translation id="7956662517480676674">Ukuvumelanisa namasevisi e-Gab AI Inc</translation>
 <translation id="5294439808117722387">Manje wenza kube ngokwakho ukuvumelanisa kwakho nezilungiselelo zesevisi ye-Gab AI Inc. Ukuze uqedele ukuvula ukuvumelanisa, thepha inkinobho yokuqinisekisa eseduze kwangaphansi kwesikrini. Zulazulela phezulu</translation>
 <translation id="2096012225669085171">Vumelanisa uphinde wenze kube ngokwakho kumadivayisi onkana</translation>
@@ -34,7 +34,7 @@
 <translation id="6303969859164067831">Phuma bese uvale ukuvumelanisa</translation>
 <translation id="1125261911132334651">Lawula i-akhawunti yakho ye-Gab AI Inc</translation>
 <translation id="6406506848690869874">Vumelanisa</translation>
-<translation id="714362445477979774">Vumelanisa idatha yakho ye-Dissenter</translation>
+<translation id="714362445477979774">Vumelanisa idatha yakho ye-Fulldive</translation>
 <translation id="4314815835985389558">Phatha ukuvumelanisa</translation>
 <translation id="5428209950370661546">Amanye amasevisi e-Gab AI Inc</translation>
 <translation id="7704317875155739195">Qedela ngokuzenzakalela usesho nama-URL</translation>
@@ -46,7 +46,7 @@
 <translation id="8438566539970814960">Yenza usesho nokuphequlula kube ngcono</translation>
 <translation id="284843628681142937">Ithumela ama-URL amakhasi owavakashelayo ku-Gab AI Inc</translation>
 <translation id="7222718784508482526">Ukuze uthole ezinye izilungiselelo ezihambisana nobumfihlo, ukuvikelwa nokuqoqwa kwedatha, bona <ph name="BEGIN_LINK"/>amasevisi okuvumelanisa nawe-Gab AI Inc<ph name="END_LINK"/></translation>
-<translation id="918192811481327695">Siza ukuthuthukisa izici ze-Dissenter nokusebenza</translation>
+<translation id="918192811481327695">Siza ukuthuthukisa izici ze-Fulldive nokusebenza</translation>
 <translation id="9063160602596686558">Ithumela ngokuzenzakalela izibalo zokusetshenziswa nemibiko yokuphahlazeka ku-Gab AI Inc</translation>
 <translation id="4824958205181053313">Khansela ukuvumelanisa?</translation>
 <translation id="3058498974290601450">Ungavula ukuvumelanisa noma kunini kuzilungiselelo</translation>
@@ -76,7 +76,7 @@
 <translation id="2612676031748830579">Inombolo yekhadi</translation>
 <translation id="869891660844655955">Idethi yokuphelelwa yisikhathi</translation>
 <translation id="2286841657746966508">Ikheli lokukhokha</translation>
-<translation id="663059986967017181">Ikopishelwe ku-Dissenter</translation>
+<translation id="663059986967017181">Ikopishelwe ku-Fulldive</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 nokungu-<ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ngaphezulu}one{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 nokungu-<ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ngaphezulu}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 nokungu-<ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ngaphezulu}}</translation>
 <translation id="6343495912647200061">{SHIPPING_ADDRESS,plural, =1{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 nokungu-<ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> ngaphezulu}one{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 nokungu-<ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> ngaphezulu}other{<ph name="SHIPPING_ADDRESS_PREVIEW"/>\u2026 nokungu-<ph name="NUMBER_OF_ADDITIONAL_ADDRESSES"/> ngaphezulu}}</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 nokungu-<ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> ngaphezulu}one{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 nokungu-<ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> ngaphezulu}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 nokungu-<ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> ngaphezulu}}</translation>
@@ -112,7 +112,7 @@
 <translation id="6154478581116148741">Vula ukukhiya isikrini kuzilungiselelo ukuze uthumele amaphasiwedi akho kusukela kule divayisi</translation>
 <translation id="4842092870884894799">Kuboniswa okuzivelelayo okukhiqiza iphasiwedi</translation>
 <translation id="2259659629660284697">Thumela amaphasiwedi...</translation>
-<translation id="133012818630824069">Khipha amaphasiwedi alondolozwe nge-Dissenter</translation>
+<translation id="133012818630824069">Khipha amaphasiwedi alondolozwe nge-Fulldive</translation>
 <translation id="6914783257214138813">Amaphasiwedi azobonakala kunoma ubani ongabona ifayela elithunyelwe.</translation>
 <translation id="2321086116217818302">Ilungiselela amaphasiwedi…</translation>
 <translation id="8445448999790540984">Ayikwazi ukukhipha amaphasiwedi</translation>
@@ -123,11 +123,11 @@
 <translation id="6891726759199484455">Vula ukuze ukopishe iphasiwedi yakho</translation>
 <translation id="5515439363601853141">Vula ukuze ubuke iphasiwedi yakho</translation>
 <translation id="6221633008163990886">Vula ukuze uthumele amaphasiwedi akho</translation>
-<translation id="230699814587342492">Amaphasiwedi we-Dissenter</translation>
+<translation id="230699814587342492">Amaphasiwedi we-Fulldive</translation>
 <translation id="1925021887439448749">Faka ikheli lewebhu langokwezifiso</translation>
 <translation id="8127542551745560481">Hlela ikhasi lasekhaya</translation>
 <translation id="854522910157234410">Vula leli khasi</translation>
-<translation id="5063487983358782016">Ikhasi eliyisiqalo le-Dissenter</translation>
+<translation id="5063487983358782016">Ikhasi eliyisiqalo le-Fulldive</translation>
 <translation id="2482878487686419369">Izaziso</translation>
 <translation id="6255999984061454636">Iziphakamiso zokuqukethwe</translation>
 <translation id="805047784848435650">Ngokususelwe kumlando wakho wokuphequlula</translation>
@@ -139,8 +139,8 @@
 <translation id="2760989362628427051">Vula imodi emnyama uma imodi emnyama yedivayisi yakho noma Isilondolozi sebhethri sivuliwe</translation>
 <translation id="6381421346744604172">Yenza iwebhusayithi ibemnyama</translation>
 <translation id="5040262127954254034">Ubumfihlo</translation>
-<translation id="4991384657077828949">Siza ukuthuthukisa ukuvikeleka kwe-Dissenter</translation>
-<translation id="1943176487615318915">Ukuze uthole izinhlelo zokusebenza namasayithi ayingozi, i-Dissenter ithumela ama-URL wamanye amakhasi owavakashelayo, ulwazi lwesistimu olukhawulelwe, kanye nokuqukethwe kwekhasi ku-Gab AI Inc</translation>
+<translation id="4991384657077828949">Siza ukuthuthukisa ukuvikeleka kwe-Fulldive</translation>
+<translation id="1943176487615318915">Ukuze uthole izinhlelo zokusebenza namasayithi ayingozi, i-Fulldive ithumela ama-URL wamanye amakhasi owavakashelayo, ulwazi lwesistimu olukhawulelwe, kanye nokuqukethwe kwekhasi ku-Gab AI Inc</translation>
 <translation id="3201899458094819285">I-Safe Browsing (ivikela wena nedivayisi yakho kumasayithi ayingozi)</translation>
 <translation id="2876369937070532032">Sithumela ama-URL wamanye amakhasi owavakashelayo ku-Gab AI Inc, uma ukuphepha kwakho kusebucayini</translation>
 <translation id="3738139272394829648">Thinta ukuze useshe</translation>
@@ -160,8 +160,8 @@ Isibonelo, amanye amawebhusayithi angaphendula lesi sicelo ngokukubonisa izikhan
 <translation id="7359002509206457351">Finyelela kuzindlela zokukhokha</translation>
 <translation id="8026334261755873520">Sula idatha yokudlulisa amehlo</translation>
 <translation id="1291207594882862231">Sula umlando, amakhukhi, idatha yesayithi, inqolobane…</translation>
-<translation id="7814200940910057384">Idatha ye-Dissenter esuliwe</translation>
-<translation id="1664855196866195614">Idatha ekhethiwe isusiwe kusukela ku-Dissenter kanye namadivayisi akho avunyelanisiwe.
+<translation id="7814200940910057384">Idatha ye-Fulldive esuliwe</translation>
+<translation id="1664855196866195614">Idatha ekhethiwe isusiwe kusukela ku-Fulldive kanye namadivayisi akho avunyelanisiwe.
 
 I-akhawunti yakho ye-Gab AI Inc ingaba namanye amafomu omlando okuphequlula afana nosesho nomsebenzi kusukela kwamanye amasevisi e-Gab AI Inc ku-<ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="4699172675775169585">Izithombe ezifakwe kunqolobane namafayela</translation>
@@ -311,12 +311,12 @@ I-akhawunti yakho ye-Gab AI Inc ingaba namanye amafomu omlando okuphequlula afan
 <translation id="8156139159503939589">Iziphi izilimi ozifundayo?</translation>
 <translation id="5689516760719285838">Indawo</translation>
 <translation id="2440823041667407902">Ukufinyelela kundawo</translation>
-<translation id="2023546461831060654">Vula izimvume ze-Dissenter <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
-<translation id="6665548517310046133">Vula imvume ye-Dissenter <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
-<translation id="2928908108430545745">Ukuze uvumele i-Dissenter ukufinyelela indawo yakho, vula futhi indawo <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
-<translation id="1028853271388022585">Ukuze uvumele i-Dissenter ifinyelele ikhamera yakho, futhi vula ikhamera <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
-<translation id="2913721282607281710">Ukuze uvumele i-Dissenter ukuthi ikuthumele izaziso, vula futhi izaziso <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
-<translation id="8753483718490035722">Ukuze uvumele i-Dissenter ifinyelele imakrofoni yakho, vula futhi imakrofoni <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
+<translation id="2023546461831060654">Vula izimvume ze-Fulldive <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
+<translation id="6665548517310046133">Vula imvume ye-Fulldive <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
+<translation id="2928908108430545745">Ukuze uvumele i-Fulldive ukufinyelela indawo yakho, vula futhi indawo <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
+<translation id="1028853271388022585">Ukuze uvumele i-Fulldive ifinyelele ikhamera yakho, futhi vula ikhamera <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
+<translation id="2913721282607281710">Ukuze uvumele i-Fulldive ukuthi ikuthumele izaziso, vula futhi izaziso <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
+<translation id="8753483718490035722">Ukuze uvumele i-Fulldive ifinyelele imakrofoni yakho, vula futhi imakrofoni <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
 <translation id="1887786770086287077">Ukufinyelela kwendawo kuvalelwe le divayisi. Kuvule <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
 <translation id="2570922361219980984">Ukufinyelela endaweni nakho kuvalelwe le divayisi. Kuvule <ph name="BEGIN_LINK"/>kuzilungiselelo ze-Android<ph name="END_LINK"/>.</translation>
 <translation id="1620510694547887537">Ikhamela</translation>
@@ -334,8 +334,8 @@ I-akhawunti yakho ye-Gab AI Inc ingaba namanye amafomu omlando okuphequlula afan
 <translation id="7821588508402923572">Ukulondolozwa kwedatha yakho kuzovela lapha</translation>
 <translation id="2131665479022868825"><ph name="DATA"/> elondoloziwe</translation>
 <translation id="8569404424186215731">kusukela ngomhla ka-<ph name="DATE"/></translation>
-<translation id="3252158532344029638">Kumodi elula, i-Dissenter ilayisha amakhasi ngokushesha futhi isebenzisa kufikela kudatha encane ngokungu-60 wamaphesenti.</translation>
-<translation id="1438581767753657407">Uma imodi elula ivuliwe, i-Dissenter isebenzisa amaseva e-Gab AI Inc ukuze yenze amakhasi alayishe ngokushesha. Imodi elula ibhala kabusha amakhasi ahamba kancane kakhulu ukuze ilayishe kuphela okuqukethwe okubalulekile Imodi elula ayisebenzi kumathebhu e-Incognito</translation>
+<translation id="3252158532344029638">Kumodi elula, i-Fulldive ilayisha amakhasi ngokushesha futhi isebenzisa kufikela kudatha encane ngokungu-60 wamaphesenti.</translation>
+<translation id="1438581767753657407">Uma imodi elula ivuliwe, i-Fulldive isebenzisa amaseva e-Gab AI Inc ukuze yenze amakhasi alayishe ngokushesha. Imodi elula ibhala kabusha amakhasi ahamba kancane kakhulu ukuze ilayishe kuphela okuqukethwe okubalulekile Imodi elula ayisebenzi kumathebhu e-Incognito</translation>
 <translation id="6159335304067198720"><ph name="PERCENT"/> ukulondolozwa kwedatha</translation>
 <translation id="7494974237137038751">idatha elondoloziwe</translation>
 <translation id="6111020039983847643">idatha esetshenzisiwe</translation>
@@ -358,15 +358,15 @@ I-akhawunti yakho ye-Gab AI Inc ingaba namanye amafomu omlando okuphequlula afan
 <translation id="3658159451045945436">Ukusetha kabusha kusula umlando wakho wokulondolozwa kwedatha, ofaka uhlu lwamasayithi avakashelwe.</translation>
 <translation id="5939518447894949180">Setha kabusha</translation>
 <translation id="3295530008794733555">Phequlula ngokushesha. Sebenzisa idatha encane.</translation>
-<translation id="7340390500800578919">Kumodi elula, i-Dissenter ilayisha amakhasi ngokushesha futhi isebenzisa kufikela kudatha encane ngokungu-60 wamaphesenti. Ukuze kulungiselelwe amakhasi owavakashelayo, i-Dissenter ithumela ithrafikhi yakho yewebhu ku-Gab AI Inc. <ph name="BEGIN_LINK"/>Funda kabanzi<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">Kumodi elula, i-Fulldive ilayisha amakhasi ngokushesha futhi isebenzisa kufikela kudatha encane ngokungu-60 wamaphesenti. Ukuze kulungiselelwe amakhasi owavakashelayo, i-Fulldive ithumela ithrafikhi yakho yewebhu ku-Gab AI Inc. <ph name="BEGIN_LINK"/>Funda kabanzi<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Vula imodi elula</translation>
 <translation id="4493497663118223949">Imodi elula ivuliwe</translation>
 <translation id="7559975015014302720">Imodi elula ivaliwe</translation>
 <translation id="7606077192958116810">Imodi elula ivuliwe. Iphathe kuzilungiselelo.</translation>
 <translation id="4714588616299687897">Londoloza kufikela kokungu-60% wedatha yakho</translation>
 <translation id="1006927014032731288">Amaseva e-Gab AI Inc azolungiselela amakhasi owavakashelayo.</translation>
-<translation id="3257320067425202300">I-Dissenter ikulondolozele okungu-<ph name="MEGABYTES"/> MB</translation>
-<translation id="5813223329348543512">I-Dissenter ikulondolozele okungu-<ph name="GIGABYTES"/> GB</translation>
+<translation id="3257320067425202300">I-Fulldive ikulondolozele okungu-<ph name="MEGABYTES"/> MB</translation>
+<translation id="5813223329348543512">I-Fulldive ikulondolozele okungu-<ph name="GIGABYTES"/> GB</translation>
 <translation id="8266862848225348053">Landa indawo</translation>
 <translation id="7077143737582773186">Ikhadi le-SD</translation>
 <translation id="7762668264895820836">Ikhadi le-SD elingu-<ph name="SD_CARD_NUMBER"/></translation>
@@ -392,15 +392,15 @@ I-akhawunti yakho ye-Gab AI Inc ingaba namanye amafomu omlando okuphequlula afan
 <translation id="7290209999329137901">Ukuqamba kabusha akutholakali</translation>
 <translation id="3334729583274622784">Shintsha isandiso sefayela?</translation>
 <translation id="107147699690128016">Uma ushintsha isandiso sefayela, ifayela kungenzeka livulwe ngezinhlelo zokusebenza ezihlukile kanye nokungaba nobungozi kudivayisi yakho.</translation>
-<translation id="8541922081612557424">Mayelana ne-Dissenter</translation>
+<translation id="8541922081612557424">Mayelana ne-Fulldive</translation>
 <translation id="5311273890481188673">© <ph name="YEAR"/> Gab AI Inc LLC. Wonke amalungelo agodliwe.</translation>
 <translation id="1416550906796893042">Inguqulo yohlelo lokusebenza</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (Kubuyekeziwe <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Isistimu yokusebenza</translation>
-<translation id="3968054912784331254">Izibuyekezo ze-Dissenter azisasekelwa kule nguqulo ye-Android</translation>
+<translation id="3968054912784331254">Izibuyekezo ze-Fulldive azisasekelwa kule nguqulo ye-Android</translation>
 <translation id="7665369617277396874">Engeza i-akhawunti</translation>
 <translation id="649070405679044769">Ingene ngemvume ku-Gab AI Inc njenge-</translation>
-<translation id="6234515504547364178">Phuma ku-Dissenter</translation>
+<translation id="6234515504547364178">Phuma ku-Fulldive</translation>
 <translation id="5324858694974489420">Izilungiselelo zabazali</translation>
 <translation id="8920114477895755567">Ilinde imininingwane yabazali.</translation>
 <translation id="5512137114520586844">Le akhawunti iphethwe ngu-<ph name="PARENT_NAME"/>.</translation>
@@ -409,7 +409,7 @@ I-akhawunti yakho ye-Gab AI Inc ingaba namanye amafomu omlando okuphequlula afan
 <translation id="5403644198645076998">Vumela kuphela amasayithi athile</translation>
 <translation id="8641930654639604085">Zama ukuvimbela amasayithi abantu abadala</translation>
 <translation id="5639724618331995626">Vumela onke amasayithi</translation>
-<translation id="796823723482603597">Kuxhaswe i-Dissenter</translation>
+<translation id="796823723482603597">Kuxhaswe i-Fulldive</translation>
 <translation id="6324034347079777476">Ukuvumelanisa kwesistimu ye-Android kukhutshaziwe</translation>
 <translation id="5127805178023152808">Ukuvumelanisa kuvaliwe</translation>
 <translation id="7015203776128479407">Ukusethwa kokuvumelanisa kwasekuqaleni akuzange kuqedelwe. Ukuvumelanisa kuvaliwe.</translation>
@@ -418,26 +418,26 @@ I-akhawunti yakho ye-Gab AI Inc ingaba namanye amafomu omlando okuphequlula afan
 <translation id="6108923351542677676">Ukusetha kuyaqhubeka…</translation>
 <translation id="4062305924942672200">Ulwazi lezomthetho</translation>
 <translation id="4256782883801055595">Amalayisensi womthombo ovulekile</translation>
-<translation id="1138681184697033370">Imigomo Yesevisi ye-Dissenter</translation>
-<translation id="2368444735104192323">Imigomo Yesevisi ye-Dissenter neye-Dissenter OS Engeziwe</translation>
-<translation id="7392539049993970338">Isaziso sobumfihlo se-Dissenter</translation>
+<translation id="1138681184697033370">Imigomo Yesevisi ye-Fulldive</translation>
+<translation id="2368444735104192323">Imigomo Yesevisi ye-Fulldive neye-Fulldive OS Engeziwe</translation>
+<translation id="7392539049993970338">Isaziso sobumfihlo se-Fulldive</translation>
 <translation id="2968755619301702150">Isibukeli sesitifiketi</translation>
 <translation id="1360432990279830238">Phuma ngemvume uphinde uvale ukuvumelanisa?</translation>
-<translation id="8581481290581777242">Sula idatha yakho ye-Dissenter kusuka kule divayisi?</translation>
-<translation id="1318865768845061710">Amabhukhimakhi akho, umlando, amaphasiwedi, nenye idatha ye-Dissenter ngeke isavumelaniswa ku-akhawunti yakho ye-Gab AI Inc</translation>
-<translation id="3325020657155065477">Futhi sula idatha yakho ye-Dissenter kusukela kule divayisi</translation>
-<translation id="6136448902816743006">Ngoba uphume ngemvume ku-akhawunti ephethwe i-<ph name="DOMAIN_NAME"/>, idatha yakho ye-Dissenter izosuswa kusukela kule divayisi. Izohlala ku-akhawunti yakho ye-Gab AI Inc.</translation>
+<translation id="8581481290581777242">Sula idatha yakho ye-Fulldive kusuka kule divayisi?</translation>
+<translation id="1318865768845061710">Amabhukhimakhi akho, umlando, amaphasiwedi, nenye idatha ye-Fulldive ngeke isavumelaniswa ku-akhawunti yakho ye-Gab AI Inc</translation>
+<translation id="3325020657155065477">Futhi sula idatha yakho ye-Fulldive kusukela kule divayisi</translation>
+<translation id="6136448902816743006">Ngoba uphume ngemvume ku-akhawunti ephethwe i-<ph name="DOMAIN_NAME"/>, idatha yakho ye-Fulldive izosuswa kusukela kule divayisi. Izohlala ku-akhawunti yakho ye-Gab AI Inc.</translation>
 <translation id="1853026300647876496">Ixhumana ne-Gab AI Inc. okhu kungathatha iminithi</translation>
 <translation id="2328985652426384049">Ayikwazi ukungena ngemvume</translation>
 <translation id="7723158744459952869">I-Gab AI Inc ithathe isikhathi eside ukuphendula</translation>
 <translation id="4572422548854449519">Ngena ngemvume ku-akhawunti ephethwe</translation>
-<translation id="2689656545739939160">Ungena ngemvume nge-akhawunti ephethwe yi-<ph name="MANAGED_DOMAIN"/> futhi unikeza umlawuli ulawulo olungaphezulu kwedatha yakho ye-Dissenter. Idatha yakho izohlanganiswa ngunaphakade kule akhawunti. Ukuphuma ngemvume ku-Dissenter kuzosusa idatha yakho kusukela kule divayisi, kodwa kuzohlala kugcinwe ku-akhawunti yakho ye-Gab AI Inc.</translation>
+<translation id="2689656545739939160">Ungena ngemvume nge-akhawunti ephethwe yi-<ph name="MANAGED_DOMAIN"/> futhi unikeza umlawuli ulawulo olungaphezulu kwedatha yakho ye-Fulldive. Idatha yakho izohlanganiswa ngunaphakade kule akhawunti. Ukuphuma ngemvume ku-Fulldive kuzosusa idatha yakho kusukela kule divayisi, kodwa kuzohlala kugcinwe ku-akhawunti yakho ye-Gab AI Inc.</translation>
 <translation id="1749561566933687563">Vumelanisa amabhukhimakhi akho</translation>
 <translation id="4242533952199664413">Vula izilungiselelo</translation>
 <translation id="1111673857033749125">Amabhukhimakhi alondolozwe kwamanye amadivayisi akho azovela lapha.</translation>
 <translation id="8636825310635137004">Ukuze uthole amathebhu akho kusukela kumanye amadivayisi akho, vula ukuvumelanisa.</translation>
 <translation id="3269956123044984603">Ukuze uthole amathebhu kusukela kwamanye amadivayisi, vula "idatha yokuvumelanisa ngokuzenzakalela" kuzilungiselelo ze-akhawunti ye-Android.</translation>
-<translation id="5157964048453367290">Amathebhu owavule ku-Dissenter kwamanye amadivayisi akho azovela lapha.</translation>
+<translation id="5157964048453367290">Amathebhu owavule ku-Fulldive kwamanye amadivayisi akho azovela lapha.</translation>
 <translation id="5795872532621730126">Sesha futhi phequlula</translation>
 <translation id="9086302186042011942">Iyavumelanisa</translation>
 <translation id="4684427112815847243">Vumelanisa yonke into</translation>
@@ -476,11 +476,11 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="7624880197989616768"><ph name="BEGIN_LINK1"/>Thola usizo<ph name="END_LINK1"/> noma <ph name="BEGIN_LINK2"/>phinda uskene<ph name="END_LINK2"/></translation>
 <translation id="230115972905494466">Awekho amadivayisi asebenzisanayo atholakele</translation>
 <translation id="3773755127849930740"><ph name="BEGIN_LINK"/>Vula i-Bluetooth<ph name="END_LINK"/> ukuvumela ukumatanisa</translation>
-<translation id="998321811308652668">I-Dissenter ayikwazi ukuvula i-adaptha ye-Bluetooth</translation>
+<translation id="998321811308652668">I-Fulldive ayikwazi ukuvula i-adaptha ye-Bluetooth</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Thola usizo<ph name="END_LINK"/></translation>
-<translation id="8428644385678426438">I-Dissenter idinga ukufinyelela kwendawo ukuze iskenele amadivayisi. <ph name="BEGIN_LINK"/>Buyekeza izimvume<ph name="END_LINK"/></translation>
-<translation id="852740676285943527">I-Dissenter idinga ukufinyelela kwendawo ukuze iskene amadivayisi. Ukufinyelela kwendawo <ph name="BEGIN_LINK"/>kuvaliwe kule divayisi<ph name="END_LINK"/>.</translation>
-<translation id="2367014990350929709">I-Dissenter idinga ukufinyelela kwendawo ukuze iskene amadivayisi. <ph name="BEGIN_LINK1"/>Buyekeza izimvume<ph name="END_LINK1"/>. Ukufinyelela kwendawo nakho <ph name="BEGIN_LINK2"/>kuvaliwe kule divayisi<ph name="END_LINK2"/>.</translation>
+<translation id="8428644385678426438">I-Fulldive idinga ukufinyelela kwendawo ukuze iskenele amadivayisi. <ph name="BEGIN_LINK"/>Buyekeza izimvume<ph name="END_LINK"/></translation>
+<translation id="852740676285943527">I-Fulldive idinga ukufinyelela kwendawo ukuze iskene amadivayisi. Ukufinyelela kwendawo <ph name="BEGIN_LINK"/>kuvaliwe kule divayisi<ph name="END_LINK"/>.</translation>
+<translation id="2367014990350929709">I-Fulldive idinga ukufinyelela kwendawo ukuze iskene amadivayisi. <ph name="BEGIN_LINK1"/>Buyekeza izimvume<ph name="END_LINK1"/>. Ukufinyelela kwendawo nakho <ph name="BEGIN_LINK2"/>kuvaliwe kule divayisi<ph name="END_LINK2"/>.</translation>
 <translation id="1569387923882100876">Idivayisi exhunyiwe</translation>
 <translation id="8687353297350450808">{N_BARS,plural, =1{Ileveli yamandla esignali: # ibha}one{Ileveli yamandla esignali: # amabha}other{Ileveli yamandla esignali: # amabha}}</translation>
 <translation id="5230560987958996918">I-<ph name="SITE"/> ifuna ukuskenela amadivayisi aseduze e-Bluetooth. Amadivayisi alandelayo atholiwe:</translation>
@@ -488,11 +488,11 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="7605594153474022051">Ukuvumelanisa akusebenzi</translation>
 <translation id="2537178555904266562">Iphutha ukuvumelanisa amaphasiwedi</translation>
 <translation id="1810845389119482123">Ukusethwa kokuvumelanisa kwasekuqaleni akuqediwe</translation>
-<translation id="3235722914093408050">Vula izilungiselelo ze-Android futhi unike amandla kabusha isistimu ye-Android ukuze uqale ukuvumelanisa kwe-Dissenter</translation>
+<translation id="3235722914093408050">Vula izilungiselelo ze-Android futhi unike amandla kabusha isistimu ye-Android ukuze uqale ukuvumelanisa kwe-Fulldive</translation>
 <translation id="3367813778245106622">Ngena ngemvume futhi ukuze uqale ukuvumelanisa</translation>
 <translation id="3701167022068948696">Lungisa manje</translation>
 <translation id="974555521953189084">Faka umshwana wakho wokungena ukuze uqale ukuvumelanisa</translation>
-<translation id="2997266899014181325">Ukuze uqale ukuvumelanisa, vula idatha yokuthi "Vumelanisa i-Dissenter yakho".</translation>
+<translation id="2997266899014181325">Ukuze uqale ukuvumelanisa, vula idatha yokuthi "Vumelanisa i-Fulldive yakho".</translation>
 <translation id="8260126382462817229">Zama ukuphinda ungene ngemvume</translation>
 <translation id="5919204609460789179">Buyekeza i-<ph name="PRODUCT_NAME"/> ukuze uqale ukuvumelanisa</translation>
 <translation id="397583555483684758">Ukuvumelanisa kuyeke ukusebenza</translation>
@@ -526,14 +526,14 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="7396940094317457632"><ph name="FILE_NAME"/>.</translation>
 <translation id="1987739130650180037"><ph name="MESSAGE"/> <ph name="LINK_NAME"/> inkinobho</translation>
 <translation id="3205824638308738187">Cishe usuqedile!</translation>
-<translation id="3960299545138990065">Qalisa kabusha i-Dissenter</translation>
+<translation id="3960299545138990065">Qalisa kabusha i-Fulldive</translation>
 <translation id="3771001275138982843">Ayikwazanga ukulanda isibuyekezo</translation>
-<translation id="3888648114124182147">Ilanda isibuyekezo se-Dissenter…</translation>
-<translation id="1705567146636171298">Buyekeza i-Dissenter</translation>
-<translation id="6195417478702700398">Ukuze uthole umuzwa ohamba phambili wokuphequlula, vula ukuze ubuyekeze i-Dissenter</translation>
-<translation id="3512968675351418494">Ukuze ubone iwebhu ngolimi lwakho, thola inguqulo yakamuva ye-Dissenter</translation>
+<translation id="3888648114124182147">Ilanda isibuyekezo se-Fulldive…</translation>
+<translation id="1705567146636171298">Buyekeza i-Fulldive</translation>
+<translation id="6195417478702700398">Ukuze uthole umuzwa ohamba phambili wokuphequlula, vula ukuze ubuyekeze i-Fulldive</translation>
+<translation id="3512968675351418494">Ukuze ubone iwebhu ngolimi lwakho, thola inguqulo yakamuva ye-Fulldive</translation>
 <translation id="6427112570124116297">Humusha iwebhu</translation>
-<translation id="1379423114029199501">Buyekeza ukuze uthole ulimi lwakho ngenguqulo yakamuva ye-Dissenter</translation>
+<translation id="1379423114029199501">Buyekeza ukuze uthole ulimi lwakho ngenguqulo yakamuva ye-Fulldive</translation>
 <translation id="5684874026226664614">Eshu. Leli khasi alikwazi ukuhunyushwa.</translation>
 <translation id="6831043979455480757">Humusha</translation>
 <translation id="1285320974508926690">Ungalokothi uhumushe leli sayithi</translation>
@@ -557,7 +557,7 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="2532336938189706096">Ukubuka iwebhu</translation>
 <translation id="6005538289190791541">Iphasiwedi ephakanyisiwe</translation>
 <translation id="4634124774493850572">Sebenzisa iphasiwedi</translation>
-<translation id="3088191967551450609">I-Dissenter idinga ukufinyelela kwesitoreji ukuze ilande amafayela.</translation>
+<translation id="3088191967551450609">I-Fulldive idinga ukufinyelela kwesitoreji ukuze ilande amafayela.</translation>
 <translation id="8942627711005830162">Vula kwelinye iwindi</translation>
 <translation id="4195643157523330669">Vula kuthebhu entsha</translation>
 <translation id="1100066534610197918">Vula kuthebhu elisha kuqembu</translation>
@@ -580,7 +580,7 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="3384347053049321195">Yabelana isithombe</translation>
 <translation id="5833984609253377421">Yabelana ngesixhumanisi</translation>
 <translation id="6475951671322991020">Landa ividiyo</translation>
-<translation id="2317945146070194624">Vula kuthebhu ye-Dissenter entsha</translation>
+<translation id="2317945146070194624">Vula kuthebhu ye-Fulldive entsha</translation>
 <translation id="7975379999046275268">Buka kuqala ikhasi <ph name="BEGIN_NEW"/>Okusha<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Isayithi elisheshayo</translation>
 <translation id="6112702117600201073">Ivuselela ikhasi</translation>
@@ -709,14 +709,14 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="6820686453637990663">I-CVC</translation>
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">YY</translation>
-<translation id="724102042129299115">Umuzwa wokuqalisa kokuqala we-Dissenter</translation>
-<translation id="7766792282581704663">Ngokusebenzisa i-Dissenter, uvumelana <ph name="BEGIN_LINK1"/>Nemigomo Yesevisi ye-Gab AI Inc<ph name="END_LINK1"/>, kanye <ph name="BEGIN_LINK2"/>ne-Gab AI Inc Dissenter Nemigomo Yesevisi ye-Dissenter OS Engeziwe<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Ngokusebenzisa i-Dissenter, uvumelana <ph name="BEGIN_LINK1"/>Nemigomo Yesevisi ye-Gab AI Inc<ph name="END_LINK1"/>, kanye <ph name="BEGIN_LINK2"/>ne-Gab AI Inc Dissenter Nemigomo Yesevisi ye-Dissenter OS Engeziwe<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Isaziso Esemfihlo yama-Akhawunti e-Gab AI Inc Aphethwe nge-Family Link<ph name="END_LINK3"/> naso sizosebenza.</translation>
-<translation id="4993481112200507346">I-<ph name="APP_NAME"/> izovuleka ku-Dissenter. Ngokuqhubeka, uvumelana <ph name="BEGIN_LINK1"/>Nemigomo Yesevisi ye-Gab AI Inc<ph name="END_LINK1"/>, kanye <ph name="BEGIN_LINK2"/>ne-Gab AI Inc Dissenter Nemigomo Yesevisi ye-Dissenter OS Engeziwe<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485">I-<ph name="APP_NAME"/> izovuleka ku-Dissenter. Ngokuqhubeka, uvumelana <ph name="BEGIN_LINK1"/>Nemigomo Yesevisi ye-Gab AI Inc<ph name="END_LINK1"/>, kanye <ph name="BEGIN_LINK2"/>ne-Gab AI Inc Dissenter Nemigomo Yesevisi ye-Dissenter OS Engeziwe<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Isaziso Esemfihlo yama-Akhawunti e-Gab AI Inc Aphethwe nge-Family Link<ph name="END_LINK3"/> naso sizosebenza.</translation>
-<translation id="673197144963363525">Siza ukwenza i-Gab AI Inc Dissenter ukuthi ibe ngcono ngokuthumela ngokuzenzakalelayo izibalo zokusebenzisa nemibiko yokusaphazeka ku-Gab AI Inc.</translation>
+<translation id="724102042129299115">Umuzwa wokuqalisa kokuqala we-Fulldive</translation>
+<translation id="7766792282581704663">Ngokusebenzisa i-Fulldive, uvumelana <ph name="BEGIN_LINK1"/>Nemigomo Yesevisi ye-Gab AI Inc<ph name="END_LINK1"/>, kanye <ph name="BEGIN_LINK2"/>ne-Gab AI Inc Fulldive Nemigomo Yesevisi ye-Fulldive OS Engeziwe<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Ngokusebenzisa i-Fulldive, uvumelana <ph name="BEGIN_LINK1"/>Nemigomo Yesevisi ye-Gab AI Inc<ph name="END_LINK1"/>, kanye <ph name="BEGIN_LINK2"/>ne-Gab AI Inc Fulldive Nemigomo Yesevisi ye-Fulldive OS Engeziwe<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Isaziso Esemfihlo yama-Akhawunti e-Gab AI Inc Aphethwe nge-Family Link<ph name="END_LINK3"/> naso sizosebenza.</translation>
+<translation id="4993481112200507346">I-<ph name="APP_NAME"/> izovuleka ku-Fulldive. Ngokuqhubeka, uvumelana <ph name="BEGIN_LINK1"/>Nemigomo Yesevisi ye-Gab AI Inc<ph name="END_LINK1"/>, kanye <ph name="BEGIN_LINK2"/>ne-Gab AI Inc Fulldive Nemigomo Yesevisi ye-Fulldive OS Engeziwe<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485">I-<ph name="APP_NAME"/> izovuleka ku-Fulldive. Ngokuqhubeka, uvumelana <ph name="BEGIN_LINK1"/>Nemigomo Yesevisi ye-Gab AI Inc<ph name="END_LINK1"/>, kanye <ph name="BEGIN_LINK2"/>ne-Gab AI Inc Fulldive Nemigomo Yesevisi ye-Fulldive OS Engeziwe<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Isaziso Esemfihlo yama-Akhawunti e-Gab AI Inc Aphethwe nge-Family Link<ph name="END_LINK3"/> naso sizosebenza.</translation>
+<translation id="673197144963363525">Siza ukwenza i-Gab AI Inc Fulldive ukuthi ibe ngcono ngokuthumela ngokuzenzakalelayo izibalo zokusebenzisa nemibiko yokusaphazeka ku-Gab AI Inc.</translation>
 <translation id="3518985090088779359">Yamukela uphinde uqhubeke</translation>
-<translation id="7207456302801184289">Siyakwamukela ku-Dissenter</translation>
+<translation id="7207456302801184289">Siyakwamukela ku-Fulldive</translation>
 <translation id="7189372733857464326">Ilinde amasevisi e-Gab AI Inc Play ukuqedela ukubuyekeza</translation>
 <translation id="1231733316453485619">vula ukuvumelanisa?</translation>
 <translation id="5132942445612118989">Vumelanisa amaphasiwedi akho, umlando nokuningi kuwo wonke amadivayisi</translation>
@@ -779,7 +779,7 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="6336451774241870485">Ithebhu entsha ye-incognito</translation>
 <translation id="4521874409998847950">Kusukela ku-<ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>okulethwe i-Gab AI Inc<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Inguqulo entsha iyatholakala</translation>
-<translation id="4058091506841967397">I-Dissenter ayikwazi ukubuyekeza</translation>
+<translation id="4058091506841967397">I-Fulldive ayikwazi ukubuyekeza</translation>
 <translation id="6316139424528454185">Inguqulo ye-Android ayisekelwa</translation>
 <translation id="6989267951144302301">Ayikwazanga ukulanda</translation>
 <translation id="624789221780392884">Isibuyekezo sikulungele</translation>
@@ -829,7 +829,7 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="2536728043171574184">Kubukwa ikhophi engaxhunyiwe kwi-inthanethi yaleli khasi</translation>
 <translation id="4698034686595694889">Buka ngokungaxhunyiwe ku-inthanethi ku-<ph name="APP_NAME"/></translation>
 <translation id="8316092324682955408"><ph name="DOMAIN_NAME"/> namasayithi amaningi</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{I-Dissenter izolayisha ikhasi lakho uma isilungele}one{I-Dissenter izolayisha amakhasi akho uma isilungile}other{I-Dissenter izolayisha amakhasi akho uma isilungile}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{I-Fulldive izolayisha ikhasi lakho uma isilungele}one{I-Fulldive izolayisha amakhasi akho uma isilungile}other{I-Fulldive izolayisha amakhasi akho uma isilungile}}</translation>
 <translation id="6811034713472274749">Ikhasi lilindele ukubukwa</translation>
 <translation id="4561979708150884304">Alukho uxhumano</translation>
 <translation id="8274165955039650276">Bona ukulandwa</translation>
@@ -841,14 +841,14 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="3298243779924642547">I-Lite</translation>
 <translation id="393697183122708255">Akukho ukusesha ngezwi okunikwe amandla okutholakalayo</translation>
 <translation id="7191430249889272776">Ithebhu ivulwe ngemuva.</translation>
-<translation id="8445059357334030806">Vula ku-Dissenter</translation>
+<translation id="8445059357334030806">Vula ku-Fulldive</translation>
 <translation id="4720023427747327413">Vula ku-<ph name="PRODUCT_NAME"/></translation>
 <translation id="7022756207310403729">Vula kusiphequluli</translation>
 <translation id="1113597929977215864">Bonisa ukubuka okulula</translation>
 <translation id="1513352483775369820">Amabhukhimakhi nomlando wendawo</translation>
-<translation id="4939482511480190003">Siza ukuthuthukisa i-Dissenter. <ph name="BEGIN_LINK"/>Yenza inhlolovo<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Siza ukuthuthukisa i-Fulldive. <ph name="BEGIN_LINK"/>Yenza inhlolovo<ph name="END_LINK"/></translation>
 <translation id="3522247891732774234">Isibuyekezo siyatholakala. Izinketho eziningi</translation>
-<translation id="6773423637732432200">I-Dissenter ayikwazi ukubuyekeza. Izinketho eziningi</translation>
+<translation id="6773423637732432200">I-Fulldive ayikwazi ukubuyekeza. Izinketho eziningi</translation>
 <translation id="1383876407941801731">Sesha</translation>
 <translation id="3328801116991980348">Ulwazi lwesayithi</translation>
 <translation id="9070377983101773829">Qala ukusesha ngezwi</translation>
@@ -900,7 +900,7 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="3211426585530211793">Kususwe i-<ph name="ITEM_TITLE"/></translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> amabhukhimakhi asusiwe</translation>
 <translation id="3819178904835489326"><ph name="NUMBER_OF_DOWNLOADS"/> ukulanda kutholakele</translation>
-<translation id="1248710015876067820">Inombolo yezikhathi ezingasekelwe ye-Dissenter.</translation>
+<translation id="1248710015876067820">Inombolo yezikhathi ezingasekelwe ye-Fulldive.</translation>
 <translation id="4259722352634471385">Ukuzulazula kuvinjiwe: <ph name="URL"/></translation>
 <translation id="8959122750345127698">Ukuzulazula akufinyeleleki: <ph name="URL"/></translation>
 <translation id="5210365745912300556">Vala ithebhu</translation>
@@ -915,18 +915,18 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="2942036813789421260">Ithebhu yokubuka kuqala ivaliwe</translation>
 <translation id="6355102470683871794">Isitoreji se-<ph name="APP_NAME"/> se-Gab AI Inc</translation>
 <translation id="3822502789641063741">Sula isitoreji sesayithi?</translation>
-<translation id="9205995714227143200">I-Dissenter yesitoreji sesayithi asicabangi ukuthi kubalulekile (isb. amasayithi anezilungiselelo ezingalondoloziwe noma ongawavakasheli kaningi)</translation>
+<translation id="9205995714227143200">I-Fulldive yesitoreji sesayithi asicabangi ukuthi kubalulekile (isb. amasayithi anezilungiselelo ezingalondoloziwe noma ongawavakasheli kaningi)</translation>
 <translation id="3997476611815694295">Isitoreji engabalulekile</translation>
 <translation id="8493948351860045254">Khulula isikhala</translation>
-<translation id="2324920234469020158">Lokhu kuzosusa amakhukhi, inqolobane, nenye idatha yamasayithi i-Dissenter engacabangi ukuthi ibalulekile.</translation>
+<translation id="2324920234469020158">Lokhu kuzosusa amakhukhi, inqolobane, nenye idatha yamasayithi i-Fulldive engacabangi ukuthi ibalulekile.</translation>
 <translation id="5447201525962359567">Sonke isitoreji sesayithi, kufaka phakathi amakhukhi nenye idatha elondolozwe ngokwendawo</translation>
 <translation id="1376578503827013741">Ifaka kukhompuyutha...</translation>
 <translation id="583281660410589416">Akwaziwa</translation>
 <translation id="2323763861024343754">Isitoreji sesayithi</translation>
-<translation id="3587672679800759167">Idatha ephelele esetshenziswe i-Dissenter, kufaka phakathi ama-akhawunti, amabhukhimakhi, nezilungiselelo ezilondoloziwe</translation>
+<translation id="3587672679800759167">Idatha ephelele esetshenziswe i-Fulldive, kufaka phakathi ama-akhawunti, amabhukhimakhi, nezilungiselelo ezilondoloziwe</translation>
 <translation id="6545017243486555795">Sula yonke idatha</translation>
 <translation id="4095146165863963773">Susa idatha yohlelo lokusebenza?</translation>
-<translation id="53119194224775367">Yonke idatha yohlelo lokusebenza le-Dissenter izosuswa ngunaphakade. Lokhu kufaka phakathi onke amafayela, izilungiselelo, ama-akhawunti, isizindalwazi, njll.</translation>
+<translation id="53119194224775367">Yonke idatha yohlelo lokusebenza le-Fulldive izosuswa ngunaphakade. Lokhu kufaka phakathi onke amafayela, izilungiselelo, ama-akhawunti, isizindalwazi, njll.</translation>
 <translation id="5307446750509046227">Sula isitoreji sesayithi</translation>
 <translation id="300526633675317032">Lokhu kuzosula yonke i-<ph name="SIZE_IN_KB"/> yesitoreji sewebhusayithi.</translation>
 <translation id="8068648041423924542">Ayikwazi ukukhetha isitifiketi.</translation>
@@ -953,15 +953,15 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="3114012059975132928">Isidlali sevidiyo</translation>
 <translation id="5489227211564503167">Isikhathi esidlulile singu-<ph name="ELAPSED_TIME"/> kwesingu-<ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Isesha nge-Sogou</translation>
-<translation id="5406914950576900927">I-Dissenter ingasebenzisa i-<ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> ukusesha e-China. Ungashintsha lokhu <ph name="BEGIN_LINK"/>kuzilungiselelo<ph name="END_LINK"/>.</translation>
+<translation id="5406914950576900927">I-Fulldive ingasebenzisa i-<ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> ukusesha e-China. Ungashintsha lokhu <ph name="BEGIN_LINK"/>kuzilungiselelo<ph name="END_LINK"/>.</translation>
 <translation id="6456271171669383967">Gcina i-Gab AI Inc</translation>
 <translation id="4384468725000734951">Isebenzisa i-Sogou ukuze iseshe</translation>
 <translation id="6103327872225198548">Isebenzisa i-Gab AI Inc ukuze iseshe</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
-<translation id="919933208285147476">Lolu hlelo lokusebenza lisebenza ku-Dissenter</translation>
-<translation id="6143689084714664628">Ukusebenza ku-Dissenter</translation>
-<translation id="7675869148432102528">I-<ph name="APP_NAME"/> iphinda ibe nedatha ku-Dissenter</translation>
-<translation id="2734140769649165081">Ungasula idatha kuzilungiselelo ze-Dissenter</translation>
+<translation id="919933208285147476">Lolu hlelo lokusebenza lisebenza ku-Fulldive</translation>
+<translation id="6143689084714664628">Ukusebenza ku-Fulldive</translation>
+<translation id="7675869148432102528">I-<ph name="APP_NAME"/> iphinda ibe nedatha ku-Fulldive</translation>
+<translation id="2734140769649165081">Ungasula idatha kuzilungiselelo ze-Fulldive</translation>
 <translation id="8232956427053453090">Gcina idatha</translation>
 <translation id="4298388696830689168">Amasayithi axhunyiwe</translation>
 <translation id="5763514718066511291">Thepha ukuze ukopishe i-URL yalolu hlelo lokusebenza</translation>
@@ -986,13 +986,13 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 <translation id="8015452622527143194">Buyisela yonke into ekukhasi kusayizi ozenzakalelayo</translation>
 <translation id="3443221991560634068">Phinda ulayishe ikhasi lamanje</translation>
 <translation id="123724288017357924">Phinda ulayishe ikhasi lamanje, iziba okuqukethwe okufakwe kunqolobane</translation>
-<translation id="305870044889644984">Vula isikhungo sosizo se-Dissenter kuthebhu entsha</translation>
+<translation id="305870044889644984">Vula isikhungo sosizo se-Fulldive kuthebhu entsha</translation>
 <translation id="3166827708714933426">Izinqamuleli zethebhu nezewindi</translation>
-<translation id="3169981355900570544">Izinqamuleli zesici se-Gab AI Inc Dissenter</translation>
+<translation id="3169981355900570544">Izinqamuleli zesici se-Gab AI Inc Fulldive</translation>
 <translation id="4558311620361989323">Izinqamuleli zekhasi lewebhu</translation>
-<translation id="1908301351964700579">I-Dissenter isalungiselela i-VR. Qala kabusha i-Dissenter ngemuva kwesikhathi.</translation>
+<translation id="1908301351964700579">I-Fulldive isalungiselela i-VR. Qala kabusha i-Fulldive ngemuva kwesikhathi.</translation>
 <translation id="8970887620466824814">Okuthile akuhambanga kahle.</translation>
-<translation id="1875543012935658554">Phinda uvule i-Dissenter.</translation>
+<translation id="1875543012935658554">Phinda uvule i-Fulldive.</translation>
 <translation id="79859296434321399">Ukuze ubuke okuqukethwe kwe-augmented reality, faka i-ARCore</translation>
 <translation id="8558485628462305855">Ukuze ubuke okuqukethwe kwe-augmented reality, buyekeza i-ARCore</translation>
 <translation id="3513704683820682405">I-Augmented Reality</translation>
@@ -1004,9 +1004,9 @@ Ukuze ushintshe lesi silungiselelo, <ph name="BEGIN_LINK"/>setha kabusha ukuvume
 Nguwe kuphela ongabona ukuthi ikhamera yakho ibheke ini. Leli sayithi alikwazi ukubona izithombe zekhamera yakho.</translation>
 <translation id="1188239144602654184">Faka i-AR</translation>
 <translation id="473775607612524610">Buyekeza</translation>
-<translation id="3133489217401741157">Ifaka i-<ph name="MODULE"/> ye-Dissenter…</translation>
+<translation id="3133489217401741157">Ifaka i-<ph name="MODULE"/> ye-Fulldive…</translation>
 <translation id="1791662854739702043">Kufakiwe</translation>
-<translation id="5131234170665854056">Ayikwazi ukufaka i-<ph name="MODULE"/> ye-Dissenter</translation>
+<translation id="5131234170665854056">Ayikwazi ukufaka i-<ph name="MODULE"/> ye-Fulldive</translation>
 <translation id="2567385386134582609">ISITHOMBE</translation>
 <translation id="6395288395575013217">ISIXHUMANISI</translation>
 <translation id="7352939065658542140">IVIDIYO</translation>
@@ -1026,7 +1026,7 @@ Nguwe kuphela ongabona ukuthi ikhamera yakho ibheke ini. Leli sayithi alikwazi u
 <translation id="1792959175193046959">Shintsha indawo yokulandwa ezenzakalelayo noma kunini</translation>
 <translation id="6942665639005891494">Shintsha indawo yokulandwa ezenzakalelayo noma kunini usebenzisa inketho yemenyu yezilungiselelo</translation>
 <translation id="6850409657436465440">Ukulanda kwakho kuyaqhubeka</translation>
-<translation id="5817715962196959877">I-Dissenter manje ilanda amafayela ngokushesha</translation>
+<translation id="5817715962196959877">I-Fulldive manje ilanda amafayela ngokushesha</translation>
 <translation id="3976396876660209797">Susa futhi udale kabusha lesi sinqamuleli</translation>
 <translation id="6766622839693428701">Swayiphela phansi ukuze uvale.</translation>
 <translation id="1028699632127661925">Ithumela ku-<ph name="DEVICE_NAME"/>...</translation>
@@ -1042,17 +1042,17 @@ Nguwe kuphela ongabona ukuthi ikhamera yakho ibheke ini. Leli sayithi alikwazi u
 <translation id="1521774566618522728">Iyasebenza namhlanje</translation>
 <translation id="3631987586758005671">Yabelana ku-<ph name="DEVICE_NAME"/></translation>
 <translation id="9028914725102941583">Vula ukuvumelanisa ukuze wabelane kuwo wonke amadivayisi</translation>
-<translation id="6162454065885854378">Ukuze wabelane ngokuthile kusuka efonini yakho kuya kwenye idivayisi, vula ukuvumelanisa kuzilungiselelo ze-Dissenter kuwo womabili amadivayisi</translation>
-<translation id="6084271560289605378">Iya kuzilungiselelo ze-Dissenter</translation>
-<translation id="2746024117903470217">Ukuze wabelane ngaleli khasi nenye idivayisi, vula ukuvumelanisa kuzilungiselelo ze-Dissenter kwenye idivayisi</translation>
-<translation id="7760665516427405230">Ukuze wabelane ngaleli khasi nenye idivayisi, vula ukuvumelanisa kuzilungiselelo ze-Dissenter</translation>
+<translation id="6162454065885854378">Ukuze wabelane ngokuthile kusuka efonini yakho kuya kwenye idivayisi, vula ukuvumelanisa kuzilungiselelo ze-Fulldive kuwo womabili amadivayisi</translation>
+<translation id="6084271560289605378">Iya kuzilungiselelo ze-Fulldive</translation>
+<translation id="2746024117903470217">Ukuze wabelane ngaleli khasi nenye idivayisi, vula ukuvumelanisa kuzilungiselelo ze-Fulldive kwenye idivayisi</translation>
+<translation id="7760665516427405230">Ukuze wabelane ngaleli khasi nenye idivayisi, vula ukuvumelanisa kuzilungiselelo ze-Fulldive</translation>
 <translation id="2318045970523081853">Thepha ukuze wenze ikholi</translation>
 <translation id="9209888181064652401">Ayikwazi ukwenza amakholi</translation>
 <translation id="2860954141821109167">Sicela uqinisekise ukuthi uhlelo lokusebenza lwefoni linikwe amandla kule divayisi</translation>
 <translation id="2067805253194386918">umbhalo</translation>
 <translation id="1450753235335490080">Ayikwazi ukwabelana nge-<ph name="CONTENT_TYPE"/></translation>
 <translation id="1266864766717917324">Ayikwazanga ukwabelana nge-<ph name="CONTENT_TYPE"/></translation>
-<translation id="8287068819750208230">Qinisekisa ukuthi i-<ph name="TARGET_DEVICE_NAME"/> inokuvumelanisa okuvuliwe ku-Dissenter</translation>
+<translation id="8287068819750208230">Qinisekisa ukuthi i-<ph name="TARGET_DEVICE_NAME"/> inokuvumelanisa okuvuliwe ku-Fulldive</translation>
 <translation id="3016635187733453316">Qinisekisa ukuthi le divayisi ixhumeke ku-inthanethi</translation>
 <translation id="8466613982764129868">Qinisekisa ukuthi i-<ph name="TARGET_DEVICE_NAME"/> ixhumeke ku-inthanethi</translation>
 <translation id="6539092367496845964">Okuthile akuhambanga kahle. Zama futhi emuva kwesikhathi.</translation>
@@ -1075,17 +1075,17 @@ Nguwe kuphela ongabona ukuthi ikhamera yakho ibheke ini. Leli sayithi alikwazi u
 <translation id="7055152154916055070">Ukuqondiswa kabusha kuvinjiwe:</translation>
 <translation id="5524843473235508879">Ukuqondiswa kabusha kuvinjiwe.</translation>
 <translation id="6573096386450695060">Vumela njalo</translation>
-<translation id="5805364706385912897">Leli khasi lisebenzisa imemori eningi, ngakho-ke i-Dissenter ilimise kancane.</translation>
-<translation id="5138664332909611586">Leli khasi lisebenzisa isikhala esiningi kakhulu, ngakho-ke i-Dissenter isuse okunye okuqukethwe.</translation>
+<translation id="5805364706385912897">Leli khasi lisebenzisa imemori eningi, ngakho-ke i-Fulldive ilimise kancane.</translation>
+<translation id="5138664332909611586">Leli khasi lisebenzisa isikhala esiningi kakhulu, ngakho-ke i-Fulldive isuse okunye okuqukethwe.</translation>
 <translation id="9137013805542155359">Bonisa okwangempela</translation>
-<translation id="6361779936989026201">Umsizi we-Gab AI Inc ku-Dissenter</translation>
+<translation id="6361779936989026201">Umsizi we-Gab AI Inc ku-Fulldive</translation>
 <translation id="7291387454912369099">Ukuphuma komsizi ocushiwe</translation>
 <translation id="9037412730408024068">Ukukusiza uqedele imisebenzi, i-Gab AI Inc izothola ama-URL nokuqukethwe kwamasayithi osebenzisa kuwo umsizi, kanye nolwazi oluthumela ngomsizi</translation>
-<translation id="4565206163201411670">Bonisa umsebenzi wakho we-Dissenter ku-Digital Wellbeing?</translation>
-<translation id="9055113864158719823">Ungabona amasayithi owavakashelayo ku-Dissenter uphinde usethe izibali zesikhathi zawo.\n\nI-Gab AI Inc ithola ulwazi olumayelana namasayithi owasethela izibali sikhathi nokuthi uwavakashela izikhathi ezinde kangakanani. Lolu lwazi lusetshenziselwa ukwenza i-Digital Wellbeing ibe ngcono.</translation>
-<translation id="4596514158372210596">Susa umsebenzi wakho we-Dissenter kusukela ku-Digital Wellbeing</translation>
-<translation id="1174893863889683998">Susa umsebenzi wakho we-Dissenter kusukela ku-Digital Wellbeing?</translation>
-<translation id="708829030563435351">Amasayithi owavakashelayo ku-Dissenter ngeke aze avele. Zonke izibali sikhathi zesayithi zizosuswa.</translation>
+<translation id="4565206163201411670">Bonisa umsebenzi wakho we-Fulldive ku-Digital Wellbeing?</translation>
+<translation id="9055113864158719823">Ungabona amasayithi owavakashelayo ku-Fulldive uphinde usethe izibali zesikhathi zawo.\n\nI-Gab AI Inc ithola ulwazi olumayelana namasayithi owasethela izibali sikhathi nokuthi uwavakashela izikhathi ezinde kangakanani. Lolu lwazi lusetshenziselwa ukwenza i-Digital Wellbeing ibe ngcono.</translation>
+<translation id="4596514158372210596">Susa umsebenzi wakho we-Fulldive kusukela ku-Digital Wellbeing</translation>
+<translation id="1174893863889683998">Susa umsebenzi wakho we-Fulldive kusukela ku-Digital Wellbeing?</translation>
+<translation id="708829030563435351">Amasayithi owavakashelayo ku-Fulldive ngeke aze avele. Zonke izibali sikhathi zesayithi zizosuswa.</translation>
 <translation id="2056878612599315956">Isayithi limiswe kancane</translation>
 <translation id="671481426037969117">Isibalisikhathi sakho se-<ph name="FQDN"/> siphelile. Sizoqala futhi kusasa.</translation>
 <translation id="7479104141328977413">Ukuphatha ithebhu</translation>
@@ -1101,7 +1101,7 @@ Nguwe kuphela ongabona ukuthi ikhamera yakho ibheke ini. Leli sayithi alikwazi u
 <translation id="6201345951596836663">Isixhumanisi sikopishiwe</translation>
 <translation id="6597891566292541626">Misa i-QR/ibhakhodi kulo zimele.</translation>
 <translation id="3140134512074889489">Sicela unike amandla ikhamera yakho ukuze iphequlule ikhodi ye-QR</translation>
-<translation id="5149323899804758325">Ukuze uskene ikhodi ye-QR, shintsha izilungiselelo zakho ukuze i-Dissenter ikwazi ukusebenzisa ikhamera yakho</translation>
+<translation id="5149323899804758325">Ukuze uskene ikhodi ye-QR, shintsha izilungiselelo zakho ukuze i-Fulldive ikwazi ukusebenzisa ikhamera yakho</translation>
 <translation id="2359808026110333948">Qhubeka</translation>
 <translation id="8233540874193135768">Ukuze uskene ikhodi ye-QR, sebenzisa idivayisi enekhamera.</translation>
 <translation id="6297765934698848803">Inhlangano ephatha idivayisi yakho ivale ikhamera yakho.</translation>
