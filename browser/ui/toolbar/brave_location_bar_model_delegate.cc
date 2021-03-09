@@ -29,7 +29,7 @@ void BraveLocationBarModelDelegate::FormattedStringFromURL(const GURL& url,
         new_formatted_url,
         0,
         base::UTF8ToUTF16("chrome://"),
-        base::UTF8ToUTF16("dissenter://"));
+        base::UTF8ToUTF16("fulldive://"));
   }
 
 #if BUILDFLAG(BRAVE_WALLET_ENABLED)
@@ -39,17 +39,17 @@ void BraveLocationBarModelDelegate::FormattedStringFromURL(const GURL& url,
         new_formatted_url,
         0,
         base::UTF8ToUTF16(ethereum_remote_client_base_url),
-        base::UTF8ToUTF16("dissenter://wallet"));
+        base::UTF8ToUTF16("fulldive://wallet"));
     base::ReplaceFirstSubstringAfterOffset(
         new_formatted_url,
         0,
         base::UTF8ToUTF16(ethereum_remote_client_phishing_url),
-        base::UTF8ToUTF16("dissenter://wallet"));
+        base::UTF8ToUTF16("fulldive://wallet"));
     base::ReplaceFirstSubstringAfterOffset(
         new_formatted_url,
         0,
         base::UTF8ToUTF16(ethereum_remote_client_ens_redirect_url),
-        base::UTF8ToUTF16("dissenter://wallet"));
+        base::UTF8ToUTF16("fulldive://wallet"));
   }
 #endif
 }
