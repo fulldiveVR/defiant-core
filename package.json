@@ -295,7 +295,7 @@
     "@types/storybook__react": "^4.0.2",
     "acorn": "^7.1.1",
     "babel-loader": "^8.1.0",
-    "brave-ui": "github:brave/brave-ui#303a9d6424950a31836902f9bf2c03a0c174efda",
+    "brave-ui": "github:fulldiveVR/defiant-ui#53efa1620ad520faa1522a4fde3361745d7f7b2f",
     "css-loader": "^2.1.1",
     "csstype": "^2.5.5",
     "deep-freeze-node": "^1.1.3",
