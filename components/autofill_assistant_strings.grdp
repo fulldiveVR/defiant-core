@@ -24,7 +24,7 @@
       Continue
     </message>
     <message name="IDS_AUTOFILL_ASSISTANT_STOPPED" desc="Text label that is shown when stopping the Autofill Assistant.">
-      Dissenter Assistant in Dissenter stopping
+      Fulldive Assistant in Fulldive stopping
     </message>
   </if>
 </grit-part>
