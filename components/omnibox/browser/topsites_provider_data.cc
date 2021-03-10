@@ -61,7 +61,7 @@ std::vector<std::string> TopSitesProvider::top_sites_ = {
   "xinhuanet.com",
   "amazon.co.jp",
   "craigslist.org",
-  "dissenter.com",
+  "fulldive.com",
   "imgur.com",
   "stackoverflow.com",
   "ifeng.com",

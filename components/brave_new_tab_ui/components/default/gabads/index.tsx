@@ -18,9 +18,9 @@ class GabAds extends React.PureComponent<{}> {
           Gab's free speech software is user supported, you can help by&nbsp;
           <StyledGabAdsLink href={'https://pro.gab.com'}>upgrading to Pro</StyledGabAdsLink>
           , purchasing&nbsp;
-          <StyledGabAdsLink href={'https://shop.dissenter.com'}>Dissenter merch</StyledGabAdsLink>
+          <StyledGabAdsLink href={'https://shop.fulldive.com'}>Fulldive merch</StyledGabAdsLink>
           , or by&nbsp;
-          <StyledGabAdsLink href={'https://shop.dissenter.com/category/donations'}>donating</StyledGabAdsLink>
+          <StyledGabAdsLink href={'https://shop.fulldive.com/category/donations'}>donating</StyledGabAdsLink>
           .
         </StyledGabAdsSpan>
       </StyledGabAdsBox>
