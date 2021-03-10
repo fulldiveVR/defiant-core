@@ -35,7 +35,7 @@ declare_args() {
 }
 
 if (base_sparkle_update_url == "") {
-  base_sparkle_update_url = "https://updates.bravesoftware.com/sparkle/Dissenter-Browser"
+  base_sparkle_update_url = "https://updates.bravesoftware.com/sparkle/Fulldive-Browser"
 }
 _update_channel = brave_channel
 if (_update_channel == "") {
@@ -46,7 +46,7 @@ brave_feed_url = "$base_sparkle_update_url/$_update_channel/appcast.xml"
 brave_version = "$brave_version_major.$brave_version_minor.$brave_version_build"
 
 if (brave_exe == "") {
-  brave_exe = "dissenter"
+  brave_exe = "fulldive"
 }
 
 brave_dist_dir = "$root_out_dir/dist"
@@ -75,13 +75,13 @@ if (is_win) {
   if (target_cpu == "x86") {
     _arch = "32"
   }
-  dissenter_installer_exe = "dissenter_installer$brave_underline_full_version.exe"
-  brave_stub_installer_exe = "DissenterBrowser$_channel" + "Setup$_arch$brave_underline_full_version.exe"
-  brave_silent_stub_installer_exe = "DissenterBrowserSilent$_channel" + "Setup$_arch$brave_underline_full_version.exe"
-  brave_untagged_stub_installer_exe = "DissenterBrowserUntagged$_channel" + "Setup$_arch$brave_underline_full_version.exe"
-  brave_standalone_installer_exe = "DissenterBrowserStandalone$_channel" + "Setup$_arch$brave_underline_full_version.exe"
-  brave_silent_installer_exe = "DissenterBrowserStandaloneSilent$_channel" + "Setup$_arch$brave_underline_full_version.exe"
-  brave_untagged_installer_exe = "DissenterBrowserStandaloneUntagged$_channel" + "Setup$_arch$brave_underline_full_version.exe"
+  fulldive_installer_exe = "fulldive_installer$brave_underline_full_version.exe"
+  brave_stub_installer_exe = "FulldiveBrowser$_channel" + "Setup$_arch$brave_underline_full_version.exe"
+  brave_silent_stub_installer_exe = "FulldiveBrowserSilent$_channel" + "Setup$_arch$brave_underline_full_version.exe"
+  brave_untagged_stub_installer_exe = "FulldiveBrowserUntagged$_channel" + "Setup$_arch$brave_underline_full_version.exe"
+  brave_standalone_installer_exe = "FulldiveBrowserStandalone$_channel" + "Setup$_arch$brave_underline_full_version.exe"
+  brave_silent_installer_exe = "FulldiveBrowserStandaloneSilent$_channel" + "Setup$_arch$brave_underline_full_version.exe"
+  brave_untagged_installer_exe = "FulldiveBrowserStandaloneUntagged$_channel" + "Setup$_arch$brave_underline_full_version.exe"
 } else if (is_mac) {
   brave_exe = "$chrome_product_full_name.app"
   brave_dmg = "$chrome_product_full_name.dmg"
@@ -101,7 +101,7 @@ if (is_win) {
   } else {
     brave_product_dir_name_suffix = "-Development"
   }
-  brave_product_dir_name = "DissenterSoftware/Dissenter-Browser$brave_product_dir_name_suffix"
+  brave_product_dir_name = "FulldiveSoftware/Fulldive-Browser$brave_product_dir_name_suffix"
 }
 
 brave_platform = "darwin"
@@ -115,7 +115,7 @@ is_release_channel = brave_channel == ""
 
 brave_apk_output = ""
 if (is_android) {
-  brave_apk_output += "$root_out_dir/apks/Dissenter"
+  brave_apk_output += "$root_out_dir/apks/Fulldive"
   if (target_apk_base == "modern") {
     assert(target_cpu != "arm64" && target_cpu != "x64")
     brave_apk_output += "Modern"

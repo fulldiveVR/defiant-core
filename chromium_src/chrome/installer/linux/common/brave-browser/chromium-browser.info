@@ -6,26 +6,26 @@
 # chromium-browser packages for various platforms.
 
 # Base name of the package.
-PACKAGE="dissenter-browser"
+PACKAGE="fulldive-browser"
 
 # Filename of the main executable (for generating launcher scripts, etc.)
-PROGNAME=dissenter
+PROGNAME=fulldive
 
 # Base directory for package installation.
-INSTALLDIR=/opt/dissenter.com/dissenter
+INSTALLDIR=/opt/fulldive.com/fulldive
 
 # Display string for desktop menu/icon.
-MENUNAME="Dissenter Web Browser"
+MENUNAME="Fulldive Web Browser"
 
 # Brief package description.
-SHORTDESC="The web browser from Dissenter"
+SHORTDESC="The web browser from Fulldive"
 
 # Detailed package description.
 FULLDESC="Browse faster by blocking ads and trackers that violate your privacy and cost you time and money."
 
 # Package maintainer information.
 MAINTNAME="Gab AI Inc"
-MAINTMAIL="support@dissenter.com"
-PRODUCTURL="https://dissenter.com/"
+MAINTMAIL="support@fulldive.com"
+PRODUCTURL="https://fulldive.com/"
 VERSION=$(cat $OUTPUTDIR/version | tr -d 'v,')
 VERSIONFULL=$VERSION
