@@ -4,8 +4,8 @@
 // you can obtain one at http://mozilla.org/MPL/2.0/.
 
 import * as React from 'react'
-import GabSites from '../../components/default/gabsites'
-import GabAds from '../../components/default/gabads'
+//import GabSites from '../../components/default/gabsites'
+//import GabAds from '../../components/default/gabads'
 
 // Components
 import Stats from './stats'
@@ -601,7 +601,6 @@ class NewTabPage extends React.Component<Props, State> {
             showTopSites={showTopSites}
             showBrandedWallpaper={false}
         >
-          <GabSites/>
           {newTabData.showStats &&
           <Page.GridItemStats>
             <Stats
@@ -638,7 +637,6 @@ class NewTabPage extends React.Component<Props, State> {
               </Page.GridItemTopSites>
               ) : null
           }
-          <GabAds/>
           {
             gridSitesData.shouldShowSiteRemovedNotification
             ? (
