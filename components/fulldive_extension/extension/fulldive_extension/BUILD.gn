@@ -6,10 +6,8 @@ transpile_web_ui("fulldive_extension") {
   # what is the output bundle called and what is the entry point file
 
   entry_points = [
-    ["fulldive_extension", rebase_path("app.js")],
-    ["fullduve_extension_background", rebase_path("bg/bundle.js")],
+    ["background", rebase_path("bg/bundle.js")],
     ["content", rebase_path("content/bundle.js")],
-    ["vendor", rebase_path("vendor.js")],
     ["vendors", rebase_path("vendors/bundle.js")],
   ]
 
