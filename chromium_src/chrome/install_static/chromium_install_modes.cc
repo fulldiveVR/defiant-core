@@ -13,12 +13,12 @@
 
 namespace install_static {
 
-const wchar_t kCompanyPathName[] = L"GabAI";
+const wchar_t kCompanyPathName[] = L"Fulldive";
 
 #if defined(OFFICIAL_BUILD)
-const wchar_t kProductPathName[] = L"Fulldive";
+const wchar_t kProductPathName[] = L"Fulldive-Browser";
 #else
-const wchar_t kProductPathName[] = L"Fulldive-Development";
+const wchar_t kProductPathName[] = L"Fulldive-Browser-Development";
 #endif
 
 const size_t kProductPathNameLength = _countof(kProductPathName) - 1;
@@ -52,7 +52,7 @@ const InstallConstants kInstallModes[] = {
         L"{0C12B489-0B55-4F8B-8EB7-640256ADBE54}",
         L"Fulldive",                           // A distinct base_app_name.
         L"Fulldive",                           // A distinct base_app_id.
-        L"GabHTML",                              // ProgID prefix.
+        L"FulldiveHTML",                              // ProgID prefix.
         L"Fulldive HTML Document",                    // ProgID description.
         L"{0C12B489-0B55-4F8B-8EB7-640256ADBE54}",  // Active Setup GUID.
         L"{C92FB778-A27E-4FD7-947F-21DA23323F88}",  // CommandExecuteImpl CLSID.
@@ -89,7 +89,7 @@ const InstallConstants kInstallModes[] = {
         L"{911586F3-317E-4498-868B-26BFCBD4F5FB}",  // A distinct app GUID.
         L"Fulldive Beta",                      // A distinct base_app_name.
         L"FulldiveBeta",                              // A distinct base_app_id.
-        L"GabBHTML",                             // ProgID prefix.
+        L"FulldiveBHTML",                             // ProgID prefix.
         L"Fulldive Beta HTML Document",               // ProgID description.
         L"{911586F3-317E-4498-868B-26BFCBD4F5FB}",  // Active Setup GUID.
         L"",                                        // CommandExecuteImpl CLSID.
@@ -127,7 +127,7 @@ const InstallConstants kInstallModes[] = {
         L"{2F0CC5B2-B924-40EA-A441-175E25CD51AA}",  // A distinct app GUID.
         L"Fulldive Dev",                       // A distinct base_app_name.
         L"FulldiveDev",                               // A distinct base_app_id.
-        L"GabDHTML",                             // ProgID prefix.
+        L"FulldiveDHTML",                             // ProgID prefix.
         L"Fulldive Dev HTML Document",                // ProgID description.
         L"{2F0CC5B2-B924-40EA-A441-175E25CD51AA}",  // Active Setup GUID.
         L"",                                        // CommandExecuteImpl CLSID.
@@ -165,7 +165,7 @@ const InstallConstants kInstallModes[] = {
         L"{7D06B97B-CBC7-49E6-8440-4A6750F016A6}",  // A distinct app GUID.
         L"Fulldive Nightly",                    // A distinct base_app_name.
         L"FulldiveNightly",                            // A distinct base_app_id.
-        L"GabSSHTM",                             // ProgID prefix.
+        L"FulldiveSSHTM",                             // ProgID prefix.
         L"Fulldive Nightly HTML Document",             // ProgID description.
         L"{7D06B97B-CBC7-49E6-8440-4A6750F016A6}",  // Active Setup GUID.
         L"{312ABB99-A176-4939-A39F-E8D34EA4D393}",  // CommandExecuteImpl CLSID.
@@ -206,7 +206,7 @@ const InstallConstants kInstallModes[] = {
         L"",            // Empty app_guid since no integraion with Fulldive Update.
         L"Fulldive Development",  // A distinct base_app_name.
         L"FulldiveDevelopment",   // A distinct base_app_id.
-        L"GabDevHTM",                             // ProgID prefix.
+        L"FulldiveDevHTM",                             // ProgID prefix.
         L"Fulldive Development HTML Document",           // ProgID description.
         L"{D6527C63-5CDD-4EF3-9299-1504E17CBD18}",  // Active Setup GUID.
         L"{B2863926-AF5D-43A2-99CC-29EC43790C89}",  // CommandExecuteImpl CLSID.

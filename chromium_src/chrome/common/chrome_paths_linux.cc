@@ -23,7 +23,7 @@ bool GetDefaultUserDataDirectory(base::FilePath* result) {
   std::string data_dir_suffix;
   brave::GetChannelImpl(nullptr, &data_dir_suffix);
 
-  *result = config_dir.Append("GabAI/Fulldive-Browser" + data_dir_suffix);
+  *result = config_dir.Append("Fulldive/Fulldive-Browser" + data_dir_suffix);
   return true;
 }
 

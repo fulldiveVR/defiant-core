@@ -1,10 +1,10 @@
-COMPANY_FULLNAME=Gab AI Inc
-COMPANY_SHORTNAME=Gab AI Inc
+COMPANY_FULLNAME=Fulldive
+COMPANY_SHORTNAME=Fulldive
 PRODUCT_FULLNAME=Fulldive Browser Development
 PRODUCT_SHORTNAME=Fulldive
 PRODUCT_INSTALLER_FULLNAME=Fulldive Installer
 PRODUCT_INSTALLER_SHORTNAME=Fulldive Installer
 COPYRIGHT=Copyright 2016 The Fulldive Authors. All rights reserved.
-MAC_BUNDLE_ID=com.gab.Fulldive.development
+MAC_BUNDLE_ID=com.Fulldive.development
 MAC_CREATOR_CODE=Cr24
 MAC_TEAM_ID=KL8N8XSYF4
