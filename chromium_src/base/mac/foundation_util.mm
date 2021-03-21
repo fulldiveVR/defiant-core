@@ -37,19 +37,19 @@ const char* BaseBundleID() {
   }
 
 #if !defined(OFFICIAL_BUILD)
-  return "com.brave.Browser.development";
+  return "com.fulldive.Browser.development";
 #else
   switch (chrome::GetChannel()) {
     case version_info::Channel::CANARY:
-      return "com.brave.Browser.nightly";
+      return "com.fulldive.Browser.nightly";
     case version_info::Channel::DEV:
-      return "com.brave.Browser.dev";
+      return "com.fulldive.Browser.dev";
     case version_info::Channel::BETA:
-      return "com.brave.Browser.beta";
+      return "com.fulldive.Browser.beta";
     case version_info::Channel::STABLE:
     case version_info::Channel::UNKNOWN:
     default:
-      return "com.brave.Browser";
+      return "com.fulldive.Browser";
   }
 #endif
 }

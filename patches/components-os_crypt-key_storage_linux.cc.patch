@@ -8,8 +8,8 @@ index 7232e69fc46a55ab58886f90d5068478e0097a35..aa9169d6bc80911693b7f669e7c05d59
  #else
 -const char KeyStorageLinux::kFolderName[] = "Chromium Keys";
 -const char KeyStorageLinux::kKey[] = "Chromium Safe Storage";
-+const char KeyStorageLinux::kFolderName[] = "Brave Keys";
-+const char KeyStorageLinux::kKey[] = "Brave Safe Storage";
++const char KeyStorageLinux::kFolderName[] = "Fulldive Keys";
++const char KeyStorageLinux::kKey[] = "Fulldive Safe Storage";
  #endif
  
  namespace {
