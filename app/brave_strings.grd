@@ -265,7 +265,7 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
         <ph name="PAGE_TITLE">$1<ex>Fulldive</ex></ph> - Fulldive Canary
       </message>
       <message name="IDS_ABOUT_VERSION_COMPANY_NAME" desc="Company name on the about pages">
-        Gab AI Inc
+        Fulldive
       </message>
       <message name="IDS_ABOUT_VERSION_COPYRIGHT" desc="Copyright information on the about pages">
         Copyright © <ph name="YEAR">{0,date,y}<ex>2016</ex></ph> The Fulldive Authors. All rights reserved.

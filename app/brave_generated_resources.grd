@@ -201,7 +201,7 @@
         </message>
       </if>
       <message name="IDS_WIDEVINE_INSTALL_MESSAGE" desc="Bubble info text when Widevine is not installed. 'Widevine' is the name of a plugin and should not be translated.">
-        Google Widevine is a piece of Digital Rights Management (DRM) code that we at Gab AI Inc do not own and cannot inspect. The Google Widevine code is loaded from Google servers, not from our servers. It is loaded only when you enable this option. We discourage the use of DRM, but we respect user choice and acknowledge that some Fulldive users would like to use services that require it.
+        Google Widevine is a piece of Digital Rights Management (DRM) code that we at Fulldive do not own and cannot inspect. The Google Widevine code is loaded from Google servers, not from our servers. It is loaded only when you enable this option. We discourage the use of DRM, but we respect user choice and acknowledge that some Fulldive users would like to use services that require it.
 
 By installing this extension, you are agreeing to the Google Widevine Terms of Use. You agree that Fulldive is not responsible for any damages or losses in connection with your use of Google Widevine.
       </message>
