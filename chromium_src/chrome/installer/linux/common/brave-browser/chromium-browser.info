@@ -24,7 +24,7 @@ SHORTDESC="The web browser from Fulldive"
 FULLDESC="Browse faster by blocking ads and trackers that violate your privacy and cost you time and money."
 
 # Package maintainer information.
-MAINTNAME="Gab AI Inc"
+MAINTNAME="Fulldive"
 MAINTMAIL="support@fulldive.com"
 PRODUCTURL="https://fulldive.com/"
 VERSION=$(cat $OUTPUTDIR/version | tr -d 'v,')
