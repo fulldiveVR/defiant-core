@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">‏نشان‌واره Fulldive</translation>
 <translation id="7339898014177206373">پنجرهٔ جدید</translation>
 <translation id="5516268345616100622">‏مدیر فعالیت‌ها - Fulldive</translation>
-<translation id="7918740962659365265">‏با ارسال گزارش‌های خرابی و <ph name="UMA_LINK"/> به Gab AI Inc، به بهبود Gab AI Inc کمک کنید</translation>
+<translation id="7918740962659365265">‏با ارسال گزارش‌های خرابی و <ph name="UMA_LINK"/> به Fulldive، به بهبود Fulldive کمک کنید</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459">‏<ph name="PAGE_TITLE"/> - ورود به سیستم شبکه - Fulldive</translation>
@@ -40,7 +40,7 @@
 <translation id="3403365884036456766">‏فایل تنظیمات برگزیده شما خراب یا نامعتبر است. 
 Fulldive قادر به بازیابی تنظیمات شما نیست.</translation>
 <translation id="1477146545787277177">‏اوه! Fulldive خراب شده است. دوباره راه‌اندازی شود؟</translation>
-<translation id="5785919770853225148">‏Fulldive این گذرواژه را در حساب Gab AI Inc شما ذخیره می‌کند. لازم نیست آن را به خاطر بسپارید.</translation>
+<translation id="5785919770853225148">‏Fulldive این گذرواژه را در حساب Fulldive شما ذخیره می‌کند. لازم نیست آن را به خاطر بسپارید.</translation>
 <translation id="8211837073776713955">‏Fulldive می‌تواند، اگر گذرواژه‌هایتان در معرض خطر باشد، مطلعتان کند</translation>
 <translation id="113959764510199339">‏Fulldive می‌خواهد گذرواژه‌ها را نشان دهد.</translation>
 <translation id="96347285368592620">‏Fulldive می‌خواهد گذرواژه‌ها را کپی کند.</translation>
@@ -81,7 +81,7 @@ Fulldive قادر به بازیابی تنظیمات شما نیست.</translati
 <translation id="9183662282810237335">‏درهرصورت از Fulldive خارج می‌شوید؟</translation>
 <translation id="3834935463915107022">‏درهرصورت از Fulldive خارج می‌شوید؟</translation>
 <translation id="8797356639448065696">‏Fulldive در حالت پس‌زمینه است.</translation>
-<translation id="2339258256897053758">‏کلیدهای Gab AI Inc API وجود ندارند. برخی از عملکردهای Fulldive از کار خواهند افتاد.</translation>
+<translation id="2339258256897053758">‏کلیدهای Fulldive API وجود ندارند. برخی از عملکردهای Fulldive از کار خواهند افتاد.</translation>
 <translation id="7861579472672677409">‏<ph name="EXTENSION_NAME"/> به Fulldive اضافه شد</translation>
 <translation id="8516116288943000095">‏همچنین داده‌ها از Fulldive پاک شود (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">‏پنهان در منوی Fulldive</translation>
@@ -105,8 +105,8 @@ Fulldive قادر به بازیابی تنظیمات شما نیست.</translati
 <translation id="2925193881330501265">‏شما بعنوان <ph name="USER_EMAIL_ADDRESS"/> وارد سیستم Fulldive شده‌اید. لطفاً برای ورود به سیستم مجدد از همان حساب استفاده کنید.</translation>
 <translation id="847561904663814268">‏شخصی قبلاً به‌عنوان <ph name="ACCOUNT_EMAIL_LAST"/> به سیستم Fulldive در این رایانه وارد شده است. برای اینکه اطلاعاتتان جدا حفظ شود، لطفاً کاربر Fulldive جدیدی ایجاد کنید.</translation>
 <translation id="1853997773668795891">‏داده‌های Fulldive به این حساب مرتبط شود؟</translation>
-<translation id="1326766910007115955">‏شما با حساب مدیریت‌شده وارد سیستم می‌شوید و به سرپرست آن اجازه کنترل بر نمایه Fulldive خود را می‌دهید. داده‌های Fulldive شما شامل برنامه‌ها، نشانک‌ها، سابقه، گذرواژه‌ها و سایر تنظیمات برای همیشه به <ph name="USER_NAME"/> مرتبط خواهد شد. می‌توانید این داده‌ها را از طریق داشبورد حساب‌های Gab AI Inc حذف کنید اما نمی‌توانید این داده‌ها را به حساب دیگری مرتبط سازید. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">‏شما با حساب مدیریت‌شده وارد سیستم می‌شوید و به سرپرست آن اجازه کنترل بر نمایه Fulldive خود را می‌دهید. داده‌های Fulldive شما شامل برنامه‌ها، نشانک‌ها، سابقه، گذرواژه‌ها و سایر تنظیمات برای همیشه به <ph name="USER_NAME"/> مرتبط خواهد شد. می‌توانید این داده‌ها را از طریق داشبورد حساب‌های Gab AI Inc حذف کنید اما نمی‌توانید این داده‌ها را به حساب دیگری مرتبط سازید. در صورت تمایل برای ذخیره داده‌های Fulldive موجود به صورت جداگانه می‌توانید نمایه جدیدی ایجاد کنید. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">‏شما با حساب مدیریت‌شده وارد سیستم می‌شوید و به سرپرست آن اجازه کنترل بر نمایه Fulldive خود را می‌دهید. داده‌های Fulldive شما شامل برنامه‌ها، نشانک‌ها، سابقه، گذرواژه‌ها و سایر تنظیمات برای همیشه به <ph name="USER_NAME"/> مرتبط خواهد شد. می‌توانید این داده‌ها را از طریق داشبورد حساب‌های Fulldive حذف کنید اما نمی‌توانید این داده‌ها را به حساب دیگری مرتبط سازید. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">‏شما با حساب مدیریت‌شده وارد سیستم می‌شوید و به سرپرست آن اجازه کنترل بر نمایه Fulldive خود را می‌دهید. داده‌های Fulldive شما شامل برنامه‌ها، نشانک‌ها، سابقه، گذرواژه‌ها و سایر تنظیمات برای همیشه به <ph name="USER_NAME"/> مرتبط خواهد شد. می‌توانید این داده‌ها را از طریق داشبورد حساب‌های Fulldive حذف کنید اما نمی‌توانید این داده‌ها را به حساب دیگری مرتبط سازید. در صورت تمایل برای ذخیره داده‌های Fulldive موجود به صورت جداگانه می‌توانید نمایه جدیدی ایجاد کنید. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">‏سرپرست سیستم شما برای باز شدن مرورگر جایگزین برای دسترسی به <ph name="TARGET_URL_HOSTNAME"/>، Fulldive را پیکربندی کرده است.</translation>
 <translation id="5380963249588143069">‏سرپرست سیستم برای باز شدن <ph name="ALTERNATIVE_BROWSER_NAME"/> جهت دسترسی به <ph name="TARGET_URL_HOSTNAME"/>، Fulldive را پیکربندی کرده است.</translation>
 <translation id="2591326305549412656">‏<ph name="USER_EMAIL_ADDRESS"/> قبلاً از Fulldive استفاده می‌کرد</translation>
@@ -130,7 +130,7 @@ Fulldive قادر به بازیابی تنظیمات شما نیست.</translati
 <translation id="239760341987199724">‏تنظیم Fulldive به عنوان مرورگر پیش‌فرضتان</translation>
 <translation id="669092380621816981">‏داده‌های محصول مرور این کاربر از این دستگاه حذف می‌شود. برای بازیابی داده‌ها، با نام <ph name="USER_EMAIL"/> به سیستم Fulldive وارد شوید.</translation>
 <translation id="2827121003398607864">‏Fulldive اکنون بهتر شده است</translation>
-<translation id="7192666605334070839">‏اکنون استفاده از Fulldive با حساب Gab AI Inc شما و در رایانه‌های مشترک آسان‌تر شده است.</translation>
+<translation id="7192666605334070839">‏اکنون استفاده از Fulldive با حساب Fulldive شما و در رایانه‌های مشترک آسان‌تر شده است.</translation>
 <translation id="4100716194836114130">‏این Fulldive شماست</translation>
 <translation id="3511996232906761537">‏وب، نشانک‌ها و موارد دیگر Fulldive شما در اینجا هستند.</translation>
 <translation id="7406627712452599344">‏مهمان‌ها می توانند از Fulldive استفاده کنند بدون این‌که اثری از خود به جا بگذارند.</translation>
@@ -145,9 +145,9 @@ Fulldive قادر به بازیابی تنظیمات شما نیست.</translati
 <translation id="2871190378186459992">‏برنامه‌ها، بازی‌ها، افزونه‌ها و طرح‌های زمینه Fulldive را کشف کنید.</translation>
 <translation id="3350544518197210895">‏Fulldive‏ (mDNS ورودی)</translation>
 <translation id="1912973375560256099">‏قانون ترافیک ورودی برای Fulldive جهت اجازه به ترافیک mDNS.</translation>
-<translation id="8207657266087451193">‏اگر تصویری توضیح مفیدی نداشته باشد، Fulldive توضیحی برای شما ارائه خواهد کرد. برای ایجاد توضیحات، تصاویر به Gab AI Inc ارسال می‌شود. هروقت خواستید می‌توانید این گزینه را در تنظیمات خاموش کنید.</translation>
-<translation id="5499063270485366718">‏اگر تصویری توضیح مفیدی نداشته باشد، Fulldive توضیحی برای شما ارائه خواهد کرد. برای ایجاد توضیحات، تصاویر به Gab AI Inc ارسال می‌شود.</translation>
-<translation id="215320507915280336">‏از همان غلط‌گیر املایی استفاده می‌کند که در جستجوی Gab AI Inc استفاده می‌شود. نوشتاری که در مرورگر تایپ کرده‌اید برای Gab AI Inc ارسال می‌شود. هروقت بخواهید می‌توانید این رفتار را در تنظیمات تغییر دهید.</translation>
+<translation id="8207657266087451193">‏اگر تصویری توضیح مفیدی نداشته باشد، Fulldive توضیحی برای شما ارائه خواهد کرد. برای ایجاد توضیحات، تصاویر به Fulldive ارسال می‌شود. هروقت خواستید می‌توانید این گزینه را در تنظیمات خاموش کنید.</translation>
+<translation id="5499063270485366718">‏اگر تصویری توضیح مفیدی نداشته باشد، Fulldive توضیحی برای شما ارائه خواهد کرد. برای ایجاد توضیحات، تصاویر به Fulldive ارسال می‌شود.</translation>
+<translation id="215320507915280336">‏از همان غلط‌گیر املایی استفاده می‌کند که در جستجوی Fulldive استفاده می‌شود. نوشتاری که در مرورگر تایپ کرده‌اید برای Fulldive ارسال می‌شود. هروقت بخواهید می‌توانید این رفتار را در تنظیمات تغییر دهید.</translation>
 <translation id="1807774211756215222">‏باز کردن پیوند در &amp;برگه جدید Fulldive</translation>
 <translation id="4624945300945265642">‏باز کردن پیوند در پنجره &amp;ناشناس Fulldive</translation>
 <translation id="7863882214613921971">‏باز کردن پیوند در &amp;برگه جدید Fulldive</translation>
@@ -201,7 +201,7 @@ Fulldive قادر به بازیابی تنظیمات شما نیست.</translati
 <translation id="7573289029918943991">‏برای اینکه ببینید دستگاهتان به‌روز است یا نه، به <ph name="LINK_BEGIN"/>تنظیمات سیستم عامل Fulldive<ph name="LINK_END"/> بروید</translation>
 <translation id="3395323229510056640">‏دریافت کمک برای سیستم عامل Fulldive</translation>
 <translation id="38898988211673781">‏هنگام خروج از Fulldive، کوکی‌ها و داده‌های سایت را پاک کنید</translation>
-<translation id="5253815230176279256">‏Gab AI Inc Pay (در Fulldive کپی شد)</translation>
+<translation id="5253815230176279256">‏Fulldive Pay (در Fulldive کپی شد)</translation>
 <translation id="5468853758063275923">‏Fulldive مرورگر پیش‌فرضتان است</translation>
 <translation id="1775322105159056176">‏Fulldive نمی‌تواند مرورگر پیش‌فرض را تعیین یا تنظیم کند</translation>
 <translation id="6915252145142862992">‏این نصب ثانویه Fulldive است و نمی‌تواند مرورگر پیش‌فرضتان شود.</translation>
@@ -209,10 +209,10 @@ Fulldive قادر به بازیابی تنظیمات شما نیست.</translati
       تنظیمات مرورگر Fulldive<ph name="LINK_END"/> آن را پیدا کنید</translation>
 <translation id="5657226924540934362">‏اگر تنظیمی در این صفحه نشان داده نمی‌شود، در <ph name="LINK_BEGIN"/>
       تنظیمات مرورگر Fulldive<ph name="LINK_END"/> آن را کنید</translation>
-<translation id="2312399718665761438">‏برای رفع خطاهای املائی، Fulldive نوشتاری را که در فیلد نوشتار تایپ می‌کنید، برای Gab AI Inc ارسال می‌کند</translation>
+<translation id="2312399718665761438">‏برای رفع خطاهای املائی، Fulldive نوشتاری را که در فیلد نوشتار تایپ می‌کنید، برای Fulldive ارسال می‌کند</translation>
 <translation id="8586264863973514035">‏برای اعمال تغییراتتان، Fulldive را راه‌اندازی مجدد کنید</translation>
 <translation id="7021823858304886493">‏مجاز کردن ورود به سیستم Fulldive</translation>
-<translation id="1649714546770135458">‏با خاموش کردن این گزینه، می‌توانید بدون ورود به سیستم Fulldive به سیستم سایت‌های Gab AI Inc مانند Gmail وارد شوید</translation>
+<translation id="1649714546770135458">‏با خاموش کردن این گزینه، می‌توانید بدون ورود به سیستم Fulldive به سیستم سایت‌های Fulldive مانند Gmail وارد شوید</translation>
 <translation id="2796517443093885402">‏Fulldive می‌تواند به ایمن ماندن شما در برابر نقض داده، افزونه‌های مخرب، و خطرهای دیگر کمک کند</translation>
 <translation id="428541510811554120">‏Fulldive نمی‌تواند به‌روزرسانی‌ها را بررسی کند. اتصال اینترنت را بررسی کنید.</translation>
 <translation id="2633397153656205379">‏Fulldive به‌روزرسانی نشد؛ مشکلی پیش آمد. <ph name="BEGIN_LINK"/>مشکلات به‌روزرسانی Fulldive و به‌روزرسانی‌های ناموفق را برطرف کنید.<ph name="END_LINK"/></translation>

@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Merki Fulldive</translation>
 <translation id="7339898014177206373">Nýr gluggi</translation>
 <translation id="5516268345616100622">Verkstjórn – Fulldive</translation>
-<translation id="7918740962659365265">Hjálpaðu til við að bæta Fulldive með því að senda tilkynningar um hrun og <ph name="UMA_LINK"/> til Gab AI Inc</translation>
+<translation id="7918740962659365265">Hjálpaðu til við að bæta Fulldive með því að senda tilkynningar um hrun og <ph name="UMA_LINK"/> til Fulldive</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> – Fulldive</translation>
 <translation id="7830723774663008396">Fulldive – <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – innskráning á net – Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldive getur ekki lesið og skrifað í gagnamöppuna sína:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Valfrjálst: Hjálpaðu til við að bæta Fulldive með því að senda sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Gab AI Inc.</translation>
+<translation id="8417700129970341035">Valfrjálst: Hjálpaðu til við að bæta Fulldive með því að senda sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Fulldive.</translation>
 <translation id="1489465648257900784">Ekki er hægt að nota prófílinn þinn því hann er úr nýrri útgáfu af Fulldive.
 
 Sumir eiginleikar kunna að verða óaðgengilegir. Tilgreindu aðra prófílamöppu eða notaðu nýrri útgáfu af Fulldive.</translation>
@@ -44,7 +44,7 @@ Sumir eiginleikar kunna að vera óaðgengilegir og breytingar á kjörstillingu
 
 Fulldive getur ekki endurheimt stillingarnar þínar.</translation>
 <translation id="1477146545787277177">Vóts! Fulldive hrundi. Endurræsa núna?</translation>
-<translation id="5785919770853225148">Fulldive mun vista þetta aðgangsorð á Gab AI Inc reikningnum þínum. Þú þarft ekki að muna það.</translation>
+<translation id="5785919770853225148">Fulldive mun vista þetta aðgangsorð á Fulldive reikningnum þínum. Þú þarft ekki að muna það.</translation>
 <translation id="8211837073776713955">Fulldive lætur þig vita ef aðgangsorðin þín eru einhvern tímann í hættu</translation>
 <translation id="113959764510199339">Fulldive er að reyna að birta aðgangsorð.</translation>
 <translation id="96347285368592620">Fulldive er að reyna að afrita aðgangsorð.</translation>
@@ -85,7 +85,7 @@ Fulldive getur ekki endurheimt stillingarnar þínar.</translation>
 <translation id="9183662282810237335">Viltu samt loka Fulldive?</translation>
 <translation id="3834935463915107022">Viltu samt loka Fulldive?</translation>
 <translation id="8797356639448065696">Fulldive er í bakgrunnsstillingu.</translation>
-<translation id="2339258256897053758">Lykla vantar fyrir forritaskil Gab AI Inc. Sumir eiginleikar Fulldive verða óvirkir.</translation>
+<translation id="2339258256897053758">Lykla vantar fyrir forritaskil Fulldive. Sumir eiginleikar Fulldive verða óvirkir.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> hefur verið bætt við Fulldive</translation>
 <translation id="8516116288943000095">Hreinsa líka gögn úr Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Fela í valmynd Fulldive</translation>
@@ -109,10 +109,10 @@ Fulldive getur ekki endurheimt stillingarnar þínar.</translation>
 <translation id="2925193881330501265">Þú varst skráð(ur) inn í Fulldive sem <ph name="USER_EMAIL_ADDRESS"/>. Notaðu sama reikning til að skrá þig inn aftur.</translation>
 <translation id="847561904663814268">Einhver skráði sig inn á Fulldive úr þessari tölvu sem <ph name="ACCOUNT_EMAIL_LAST"/>. Stofnaðu nýjan notanda í Fulldive til að halda þínum upplýsingum aðskildum frá hinum notandanum.</translation>
 <translation id="1853997773668795891">Tengja Fulldive gögnin þín við þennan reikning?</translation>
-<translation id="1326766910007115955">Þú ert að skrá þig inn með stýrðum reikningi og veitir stjórnanda hans vald yfir Fulldive prófílnum þínum. Fulldive gögnin þín, s.s. forrit, bókamerki, ferill, aðgangsorð og aðrar stillingar, verða tengd varanlega við <ph name="USER_NAME"/>. Þú getur eytt þessum gögnum á stjórnborði Gab AI Inc reikninga en getur ekki tengt þau öðrum reikningi. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Þú ert að skrá þig inn með stýrðum reikningi og veitir stjórnanda hans vald yfir Fulldive prófílnum þínum. Fulldive gögnin þín, s.s. forrit, bókamerki, ferill, aðgangsorð og aðrar stillingar, verða tengd varanlega við <ph name="USER_NAME"/>. Þú getur eytt þessum gögnum á stjórnborði Gab AI Inc reikninga en getur ekki tengt þau öðrum reikningi. Þér er frjálst að búa til nýjan prófíl til að halda fyrirliggjandi Fulldive gögnum aðskildum. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Þú ert að skrá þig inn með stýrðum reikningi og veitir stjórnanda hans vald yfir Fulldive prófílnum þínum. Fulldive gögnin þín, s.s. forrit, bókamerki, ferill, aðgangsorð og aðrar stillingar, verða tengd varanlega við <ph name="USER_NAME"/>. Þú getur eytt þessum gögnum á stjórnborði Fulldive reikninga en getur ekki tengt þau öðrum reikningi. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Þú ert að skrá þig inn með stýrðum reikningi og veitir stjórnanda hans vald yfir Fulldive prófílnum þínum. Fulldive gögnin þín, s.s. forrit, bókamerki, ferill, aðgangsorð og aðrar stillingar, verða tengd varanlega við <ph name="USER_NAME"/>. Þú getur eytt þessum gögnum á stjórnborði Fulldive reikninga en getur ekki tengt þau öðrum reikningi. Þér er frjálst að búa til nýjan prófíl til að halda fyrirliggjandi Fulldive gögnum aðskildum. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Kerfisstjórinn þinn hefur stillt Fulldive á að opna annan vafra fyrir <ph name="TARGET_URL_HOSTNAME"/>.</translation>
-<translation id="5380963249588143069">Kerfisstjórinn hefur stillt Gab AI Inc Fulldive á að opna <ph name="ALTERNATIVE_BROWSER_NAME"/> til að fá aðgang að <ph name="TARGET_URL_HOSTNAME"/>.</translation>
+<translation id="5380963249588143069">Kerfisstjórinn hefur stillt Fulldive Fulldive á að opna <ph name="ALTERNATIVE_BROWSER_NAME"/> til að fá aðgang að <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> var áður að nota Fulldive</translation>
 <translation id="1384923383737428730">Skaðlegur hugbúnaður er á tölvunni þinni. Fulldive getur fjarlægt hann, endurheimt stillingar þínar og gert viðbætur óvirkar svo vafrinn þinn virki aftur eins og ætla skyldi.</translation>
 <translation id="2262856633481902138">Fulldive gat ekki samstillt gögnin þín vegna þess að innskráningarupplýsingar reikningsins þíns eru úreltar.</translation>
@@ -134,7 +134,7 @@ Fulldive getur ekki endurheimt stillingarnar þínar.</translation>
 <translation id="239760341987199724">Stilla Fulldive sem sjálfgefinn vafra</translation>
 <translation id="669092380621816981">Vefskoðunargögnum þessa aðila verður eytt úr þessu tæki. Skráðu þig inn í Fulldive sem <ph name="USER_EMAIL"/> til að endurheimta gögn.</translation>
 <translation id="2827121003398607864">Fulldive er nú enn betra</translation>
-<translation id="7192666605334070839">Nú er auðveldara að nota Fulldive með Gab AI Inc reikningnum þínum og í samnýttum tölvum.</translation>
+<translation id="7192666605334070839">Nú er auðveldara að nota Fulldive með Fulldive reikningnum þínum og í samnýttum tölvum.</translation>
 <translation id="4100716194836114130">Fulldive er þitt</translation>
 <translation id="3511996232906761537">Hér er vefefnið þitt, bókamerkin og annað dót úr Fulldive.</translation>
 <translation id="7406627712452599344">Gestir geta notað Fulldive án þess að skilja eftir sig nokkur spor.</translation>
@@ -149,9 +149,9 @@ Fulldive getur ekki endurheimt stillingarnar þínar.</translation>
 <translation id="2871190378186459992">Uppgötvaðu frábær forrit, leiki, viðbætur og þemu fyrir Fulldive.</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-inn)</translation>
 <translation id="1912973375560256099">Regla á innleið til að láta Fulldive leyfa mDNS-umferð.</translation>
-<translation id="8207657266087451193">Ef gagnlega lýsingu vantar við mynd reynir Fulldive að útvega þér lýsingu. Til að búa til lýsingar eru myndir sendar til Gab AI Inc. Þú getur slökkt á þessu hvenær sem er í stillingunum.</translation>
-<translation id="5499063270485366718">Ef gagnlega lýsingu vantar við mynd reynir Fulldive að útvega þér lýsingu. Til að búa til lýsingar eru myndir sendar til Gab AI Inc.</translation>
-<translation id="215320507915280336">Þetta notar sömu ritvilluleit og er notuð í Gab AI Inc leit. Textinn sem þú skrifar í vafranum er sendur til Gab AI Inc. Þú getur alltaf breytt þessu í stillingunum.</translation>
+<translation id="8207657266087451193">Ef gagnlega lýsingu vantar við mynd reynir Fulldive að útvega þér lýsingu. Til að búa til lýsingar eru myndir sendar til Fulldive. Þú getur slökkt á þessu hvenær sem er í stillingunum.</translation>
+<translation id="5499063270485366718">Ef gagnlega lýsingu vantar við mynd reynir Fulldive að útvega þér lýsingu. Til að búa til lýsingar eru myndir sendar til Fulldive.</translation>
+<translation id="215320507915280336">Þetta notar sömu ritvilluleit og er notuð í Fulldive leit. Textinn sem þú skrifar í vafranum er sendur til Fulldive. Þú getur alltaf breytt þessu í stillingunum.</translation>
 <translation id="1807774211756215222">Opna &amp;tengil í nýjum Fulldive flipa</translation>
 <translation id="4624945300945265642">Opna tengil í &amp;huliðsglugga í Fulldive</translation>
 <translation id="7863882214613921971">Opna tengil í nýjum Fulldive &amp;flipa</translation>
@@ -205,7 +205,7 @@ Fulldive getur ekki endurheimt stillingarnar þínar.</translation>
 <translation id="7573289029918943991">Opnaðu <ph name="LINK_BEGIN"/>stillingar Fulldive OS<ph name="LINK_END"/> til að athuga hvort tækið sé uppfært</translation>
 <translation id="3395323229510056640">Fá hjálp með Fulldive OS</translation>
 <translation id="38898988211673781">Hreinsa fótspor og vefsvæðisgögn þegar Fulldive er lokað</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (afritað í Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (afritað í Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive er sjálfgefni vafrinn þinn</translation>
 <translation id="1775322105159056176">Fulldive getur ekki ákvarðað eða stillt sjálfgefinn vafra</translation>
 <translation id="6915252145142862992">Þetta er aukaleg uppsetning á Fulldive sem ekki er hægt að gera að sjálfgefnum vafra.</translation>
@@ -213,10 +213,10 @@ Fulldive getur ekki endurheimt stillingarnar þínar.</translation>
       stillingar Fulldive vafrans<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Ef stilling sést ekki á þessari síðu skaltu athuga <ph name="LINK_BEGIN"/>
       stillingar Fulldive OS<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Til að lagfæra stafsetningarvillur sendir Fulldive textann sem þú skrifar í textareiti til Gab AI Inc</translation>
+<translation id="2312399718665761438">Til að lagfæra stafsetningarvillur sendir Fulldive textann sem þú skrifar í textareiti til Fulldive</translation>
 <translation id="8586264863973514035">Endurræstu Fulldive til að breytingarnar taki gildi</translation>
 <translation id="7021823858304886493">Leyfa innskráningu í Fulldive</translation>
-<translation id="1649714546770135458">Með því að slökkva á þessu geturðu skráð þig inn á Gab AI Inc vefsvæði eins og Gmail án þess að skrá þig inn í Fulldive</translation>
+<translation id="1649714546770135458">Með því að slökkva á þessu geturðu skráð þig inn á Fulldive vefsvæði eins og Gmail án þess að skrá þig inn í Fulldive</translation>
 <translation id="2796517443093885402">Fulldive getur veitt þér vernd gegn öryggisbrotum, hættulegum viðbótum og fleira</translation>
 <translation id="428541510811554120">Fulldive getur ekki athugað með uppfærslur. Athugaðu nettenginguna þína.</translation>
 <translation id="2633397153656205379">Fulldive uppfærðist ekki þar sem eitthvað fór úrskeiðis. <ph name="BEGIN_LINK"/>Lagaðu uppfærsluvandamál Fulldive og uppfærslur sem mistókust.<ph name="END_LINK"/></translation>

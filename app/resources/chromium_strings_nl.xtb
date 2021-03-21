@@ -10,7 +10,7 @@
 <translation id="4847979153841887006">Fulldive-logo</translation>
 <translation id="7339898014177206373">Nieuw venster</translation>
 <translation id="5516268345616100622">Taakbeheer - Fulldive</translation>
-<translation id="7918740962659365265">Help ons Fulldive te verbeteren door crashrapporten en <ph name="UMA_LINK"/> naar Gab AI Inc te verzenden</translation>
+<translation id="7918740962659365265">Help ons Fulldive te verbeteren door crashrapporten en <ph name="UMA_LINK"/> naar Fulldive te verzenden</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - Inloggen bij netwerk - Fulldive</translation>
@@ -36,7 +36,7 @@
 <translation id="2585240446624043880">Fulldive kan niet lezen van en schrijven naar de eigen gegevensdirectory :
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Optioneel: help Fulldive beter te maken door automatisch gebruiksstatistieken en crashmeldingen naar Gab AI Inc te verzenden.</translation>
+<translation id="8417700129970341035">Optioneel: help Fulldive beter te maken door automatisch gebruiksstatistieken en crashmeldingen naar Fulldive te verzenden.</translation>
 <translation id="1489465648257900784">Je profiel kan niet worden gebruikt, omdat dit is gemaakt in een recentere versie van Fulldive.
 
 Sommige functies zijn mogelijk niet beschikbaar. Geef een andere profieldirectory op of gebruik een recentere versie van Fulldive.</translation>
@@ -47,7 +47,7 @@ Sommige functies zijn wellicht niet beschikbaar en wijzigingen in voorkeuren wor
 
 Fulldive kan je instellingen niet herstellen.</translation>
 <translation id="1477146545787277177">Fulldive is gecrasht. Nu opnieuw starten?</translation>
-<translation id="5785919770853225148">Fulldive slaat dit wachtwoord op in je Gab AI Inc-account. Je hoeft het niet te onthouden.</translation>
+<translation id="5785919770853225148">Fulldive slaat dit wachtwoord op in je Fulldive-account. Je hoeft het niet te onthouden.</translation>
 <translation id="8211837073776713955">Fulldive laat het je weten als je wachtwoorden mogelijk niet veilig meer zijn</translation>
 <translation id="113959764510199339">Fulldive probeert wachtwoorden weer te geven.</translation>
 <translation id="96347285368592620">Fulldive probeert wachtwoorden te kopiëren.</translation>
@@ -88,7 +88,7 @@ Fulldive kan je instellingen niet herstellen.</translation>
 <translation id="9183662282810237335">Fulldive toch sluiten?</translation>
 <translation id="3834935463915107022">Fulldive toch sluiten?</translation>
 <translation id="8797356639448065696">Fulldive bevindt zich in de achtergrondmodus.</translation>
-<translation id="2339258256897053758">Gab AI Inc API-sleutels ontbreken. Sommige functies van Fulldive worden uitgeschakeld.</translation>
+<translation id="2339258256897053758">Fulldive API-sleutels ontbreken. Sommige functies van Fulldive worden uitgeschakeld.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> is toegevoegd aan Fulldive</translation>
 <translation id="8516116288943000095">Ook gegevens van Fulldive wissen (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Verbergen in Fulldive-menu</translation>
@@ -112,8 +112,8 @@ Fulldive kan je instellingen niet herstellen.</translation>
 <translation id="2925193881330501265">Je bent ingelogd bij Fulldive als <ph name="USER_EMAIL_ADDRESS"/>. Gebruik hetzelfde account om opnieuw in te loggen.</translation>
 <translation id="847561904663814268">Iemand heeft eerder bij Fulldive op deze computer ingelogd als <ph name="ACCOUNT_EMAIL_LAST"/>. Maak een nieuwe Fulldive-gebruiker om je informatie gescheiden te houden.</translation>
 <translation id="1853997773668795891">Wil je je Fulldive-gegevens aan dit account koppelen?</translation>
-<translation id="1326766910007115955">Je logt in op een beheerd account waarmee de eigenaar van dat account beheer krijgt over je Fulldive-profiel. Je Fulldive-gegevens zoals je apps, bladwijzers, geschiedenis, wachtwoorden en andere instellingen worden permanent gekoppeld aan <ph name="USER_NAME"/>. Je kunt deze gegevens verwijderen via het Gab AI Inc Accounts Dashboard, maar je kunt deze gegevens niet koppelen aan een ander account.<ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Je logt in op een beheerd account waarmee de eigenaar van dat account beheer krijgt over je Fulldive-profiel. Je Fulldive-gegevens zoals je apps, bladwijzers, geschiedenis, wachtwoorden en andere instellingen worden permanent gekoppeld aan <ph name="USER_NAME"/>. Je kunt deze gegevens verwijderen via het Gab AI Inc Accounts Dashboard, maar je kunt deze gegevens niet koppelen aan een ander account. Je kunt een nieuw profiel maken om je bestaande Fulldive-gegevens apart te houden. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Je logt in op een beheerd account waarmee de eigenaar van dat account beheer krijgt over je Fulldive-profiel. Je Fulldive-gegevens zoals je apps, bladwijzers, geschiedenis, wachtwoorden en andere instellingen worden permanent gekoppeld aan <ph name="USER_NAME"/>. Je kunt deze gegevens verwijderen via het Fulldive Accounts Dashboard, maar je kunt deze gegevens niet koppelen aan een ander account.<ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Je logt in op een beheerd account waarmee de eigenaar van dat account beheer krijgt over je Fulldive-profiel. Je Fulldive-gegevens zoals je apps, bladwijzers, geschiedenis, wachtwoorden en andere instellingen worden permanent gekoppeld aan <ph name="USER_NAME"/>. Je kunt deze gegevens verwijderen via het Fulldive Accounts Dashboard, maar je kunt deze gegevens niet koppelen aan een ander account. Je kunt een nieuw profiel maken om je bestaande Fulldive-gegevens apart te houden. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Je systeembeheerder heeft geconfigureerd dat Fulldive een alternatieve browser opent voor toegang tot <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">Je systeembeheerder heeft Fulldive geconfigureerd om <ph name="ALTERNATIVE_BROWSER_NAME"/> te openen voor toegang tot <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> maakte eerder gebruik van Fulldive</translation>
@@ -137,7 +137,7 @@ Fulldive kan je instellingen niet herstellen.</translation>
 <translation id="239760341987199724">Fulldive instellen als je standaardbrowser</translation>
 <translation id="669092380621816981">De browsergegevens van deze persoon worden verwijderd van dit apparaat. Als je de gegevens wilt herstellen, log je in bij Fulldive als <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Fulldive is nu nog beter</translation>
-<translation id="7192666605334070839">Het is nu gemakkelijker om Fulldive met je Gab AI Inc-account en op gedeelde computers te gebruiken.</translation>
+<translation id="7192666605334070839">Het is nu gemakkelijker om Fulldive met je Fulldive-account en op gedeelde computers te gebruiken.</translation>
 <translation id="4100716194836114130">Personaliseer jouw Fulldive</translation>
 <translation id="3511996232906761537">Hier vind je internet, bladwijzers en andere Fulldive-instellingen.</translation>
 <translation id="7406627712452599344">Gasten kunnen Fulldive gebruiken zonder iets achter te laten.</translation>
@@ -158,9 +158,9 @@ Fulldive kan je instellingen niet herstellen.</translation>
 <translation id="7272074097076644710">Inkomende regel zodat Fulldive mDNS-verkeer toestaat.</translation>
 <translation id="4991512282053949769">Inkomende regel zodat Fulldive Nightly mDNS-verkeer toestaat.</translation>
 <translation id="3856641371299712128">Inkomende regel zodat Fulldive Dev mDNS-verkeer toestaat.</translation>
-<translation id="8207657266087451193">Als een afbeelding geen nuttige beschrijving bevat, probeert Fulldive je er een te geven. Afbeeldingen worden naar Gab AI Inc verzonden om beschrijvingen te maken. Je kunt dit op elk gewenst moment uitschakelen in Instellingen.</translation>
-<translation id="5499063270485366718">Als een afbeelding geen nuttige beschrijving bevat, probeert Fulldive je er een te geven. Afbeeldingen worden naar Gab AI Inc verzonden om beschrijvingen te maken.</translation>
-<translation id="215320507915280336">Hiervoor wordt dezelfde spellingcontrole gebruikt als voor Gab AI Inc Zoeken. Tekst die je in de browser typt, wordt naar Gab AI Inc gestuurd. Je kunt dit altijd wijzigen in de instellingen.</translation>
+<translation id="8207657266087451193">Als een afbeelding geen nuttige beschrijving bevat, probeert Fulldive je er een te geven. Afbeeldingen worden naar Fulldive verzonden om beschrijvingen te maken. Je kunt dit op elk gewenst moment uitschakelen in Instellingen.</translation>
+<translation id="5499063270485366718">Als een afbeelding geen nuttige beschrijving bevat, probeert Fulldive je er een te geven. Afbeeldingen worden naar Fulldive verzonden om beschrijvingen te maken.</translation>
+<translation id="215320507915280336">Hiervoor wordt dezelfde spellingcontrole gebruikt als voor Fulldive Zoeken. Tekst die je in de browser typt, wordt naar Fulldive gestuurd. Je kunt dit altijd wijzigen in de instellingen.</translation>
 <translation id="1807774211756215222">Link openen op een nieuw Fulldive-&amp;tabblad</translation>
 <translation id="4624945300945265642">Link openen in een Fulldive-inco&amp;gnitovenster</translation>
 <translation id="7863882214613921971">Link openen op een nieuw Fulldive-&amp;tabblad</translation>
@@ -214,16 +214,16 @@ Fulldive kan je instellingen niet herstellen.</translation>
 <translation id="7573289029918943991">Ga naar de <ph name="LINK_BEGIN"/>instellingen van Fulldive OS<ph name="LINK_END"/> om te kijken of je apparaat up-to-date is</translation>
 <translation id="3395323229510056640">Hulp bij Fulldive OS</translation>
 <translation id="38898988211673781">Cookies en sitegegevens wissen wanneer je Fulldive sluit</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (gekopieerd naar Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (gekopieerd naar Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive is je standaardbrowser</translation>
 <translation id="1775322105159056176">Fulldive kan de standaardbrowser niet bepalen of instellen</translation>
 <translation id="6915252145142862992">Dit is een tweede installatie van Fulldive en kan niet als standaardbrowser worden ingesteld.</translation>
 <translation id="6235873178214143377">Kijk in de <ph name="LINK_BEGIN"/>instellingen van je Fulldive-browser<ph name="LINK_END"/> als je een instelling niet ziet op deze pagina</translation>
 <translation id="5657226924540934362">Kijk je in de <ph name="LINK_BEGIN"/>Fulldive OS-instellingen<ph name="LINK_END"/>als je een instelling niet ziet op deze pagina.</translation>
-<translation id="2312399718665761438">Fulldive verzendt de tekst die je in tekstvelden typt naar Gab AI Inc om spelfouten te corrigeren</translation>
+<translation id="2312399718665761438">Fulldive verzendt de tekst die je in tekstvelden typt naar Fulldive om spelfouten te corrigeren</translation>
 <translation id="8586264863973514035">Als je de wijzigingen wilt toepassen, start je Fulldive opnieuw</translation>
 <translation id="7021823858304886493">Inloggen bij Fulldive toestaan</translation>
-<translation id="1649714546770135458">Als je dit uitschakelt, kun je inloggen bij Gab AI Inc-sites zoals Gmail zonder in te loggen bij Fulldive</translation>
+<translation id="1649714546770135458">Als je dit uitschakelt, kun je inloggen bij Fulldive-sites zoals Gmail zonder in te loggen bij Fulldive</translation>
 <translation id="2796517443093885402">Fulldive kan je beschermen tegen gegevenslekken, schadelijke extensies en meer</translation>
 <translation id="428541510811554120">Fulldive kan niet checken op updates. Check de internetverbinding.</translation>
 <translation id="2633397153656205379">Fulldive is niet geüpdatet. Er is een fout opgetreden. <ph name="BEGIN_LINK"/>Updateproblemen en mislukte updates voor Fulldive verhelpen<ph name="END_LINK"/></translation>

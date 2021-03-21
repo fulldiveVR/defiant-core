@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Fulldive logo</translation>
 <translation id="7339898014177206373">New window</translation>
 <translation id="5516268345616100622">Task Manager - Fulldive</translation>
-<translation id="7918740962659365265">Help make Fulldive better by sending crash reports and <ph name="UMA_LINK"/> to Gab AI Inc</translation>
+<translation id="7918740962659365265">Help make Fulldive better by sending crash reports and <ph name="UMA_LINK"/> to Fulldive</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – Network sign-in – Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldive cannot read and write to its data directory:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Optional: Help make Fulldive better by automatically sending usage statistics and crash reports to Gab AI Inc.</translation>
+<translation id="8417700129970341035">Optional: Help make Fulldive better by automatically sending usage statistics and crash reports to Fulldive.</translation>
 <translation id="1489465648257900784">Your profile can not be used because it is from a newer version of Fulldive.
 
 Some features may be unavailable. Please specify a different profile directory or use a newer version of Fulldive.</translation>
@@ -42,9 +42,9 @@ Some features may be unavailable. Please specify a different profile directory o
 Some features may be unavailable and changes to preferences won't be saved.</translation>
 <translation id="3403365884036456766">Your preferences file is corrupt or invalid.
 
-Gab AI Inc Fulldive is unable to recover your settings.</translation>
+Fulldive Fulldive is unable to recover your settings.</translation>
 <translation id="1477146545787277177">Whoa! Fulldive has crashed. Relaunch now?</translation>
-<translation id="5785919770853225148">Fulldive will save this password in your Gab AI Inc account. You won’t have to remember it.</translation>
+<translation id="5785919770853225148">Fulldive will save this password in your Fulldive account. You won’t have to remember it.</translation>
 <translation id="8211837073776713955">Fulldive lets you know if your passwords are ever compromised</translation>
 <translation id="113959764510199339">Fulldive is trying to show passwords.</translation>
 <translation id="96347285368592620">Fulldive is trying to copy passwords.</translation>
@@ -55,7 +55,7 @@ Gab AI Inc Fulldive is unable to recover your settings.</translation>
 <translation id="3861679447659630159">Fulldive is trying to edit passwords. Type your Windows password to allow this.</translation>
 <translation id="5918095577778020936">Fulldive wants to export your passwords. Type your Windows password to allow this.</translation>
 <translation id="8320964054148936490">This computer already has a more recent version of Fulldive. If the software is not working, please uninstall Fulldive and try again.</translation>
-<translation id="7691786510374174420">Installation failed due to unspecified error. If Gab AI Inc Fulldive is currently running, please close it and try again.</translation>
+<translation id="7691786510374174420">Installation failed due to unspecified error. If Fulldive Fulldive is currently running, please close it and try again.</translation>
 <translation id="2619516027171717873">Can not install the same Fulldive version that is currently running. Please close Fulldive and try again.</translation>
 <translation id="6283840329609797763">Installation failed due to unspecified error. Please download Fulldive again.</translation>
 <translation id="95624393026532554">Fulldive requires Windows 7 or higher.</translation>
@@ -72,7 +72,7 @@ Gab AI Inc Fulldive is unable to recover your settings.</translation>
 <translation id="2485422356828889247">Uninstall</translation>
 <translation id="3343095737966473035">Fulldive isn't your default browser</translation>
 <translation id="5536657158619734169">There is a new version of Fulldive available.</translation>
-<translation id="505042220086416644">There's a new version of Gab AI Inc Fulldive available and it's faster than ever.</translation>
+<translation id="505042220086416644">There's a new version of Fulldive Fulldive available and it's faster than ever.</translation>
 <translation id="5616153642055197778">There's a new, safer version of Fulldive available.</translation>
 <translation id="2301993384336631869">Fulldive has been updated, but you haven't used it for 30 days or more.</translation>
 <translation id="2106568569080763501">Fulldive lets you click a phone number on the web and call it with Skype!</translation>
@@ -85,7 +85,7 @@ Gab AI Inc Fulldive is unable to recover your settings.</translation>
 <translation id="9183662282810237335">Exit Fulldive anyway?</translation>
 <translation id="3834935463915107022">Quit Fulldive anyway?</translation>
 <translation id="8797356639448065696">Fulldive is in background mode.</translation>
-<translation id="2339258256897053758">Gab AI Inc API keys are missing. Some functionality of Fulldive will be disabled.</translation>
+<translation id="2339258256897053758">Fulldive API keys are missing. Some functionality of Fulldive will be disabled.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> has been added to Fulldive</translation>
 <translation id="8516116288943000095">Also clear data from Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Hide in Fulldive menu</translation>
@@ -109,8 +109,8 @@ Gab AI Inc Fulldive is unable to recover your settings.</translation>
 <translation id="2925193881330501265">You were signed in to Fulldive as <ph name="USER_EMAIL_ADDRESS"/>. Please use the same account to sign in again.</translation>
 <translation id="847561904663814268">Someone previously signed in to Fulldive on this computer as <ph name="ACCOUNT_EMAIL_LAST"/>. Please create a new Fulldive user to keep your information separate.</translation>
 <translation id="1853997773668795891">Link my Fulldive data to this account</translation>
-<translation id="1326766910007115955">You are signing in with a managed account and giving its administrator control over your Fulldive profile. Your Fulldive data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME"/>. You will be able to delete this data via the Gab AI Inc Accounts Dashboard, but you will not be able to associate this data with another account. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">You are signing in with a managed account and giving its administrator control over your Fulldive profile. Your Fulldive data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME"/>. You will be able to delete this data via the Gab AI Inc Accounts Dashboard, but you will not be able to associate this data with another account. You can optionally create a new profile to keep your existing Fulldive data separate. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">You are signing in with a managed account and giving its administrator control over your Fulldive profile. Your Fulldive data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME"/>. You will be able to delete this data via the Fulldive Accounts Dashboard, but you will not be able to associate this data with another account. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">You are signing in with a managed account and giving its administrator control over your Fulldive profile. Your Fulldive data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME"/>. You will be able to delete this data via the Fulldive Accounts Dashboard, but you will not be able to associate this data with another account. You can optionally create a new profile to keep your existing Fulldive data separate. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Your system administrator has configured Fulldive to open an alternative browser to access <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">Your system administrator has configured Fulldive to open <ph name="ALTERNATIVE_BROWSER_NAME"/> to access <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> was previously using Fulldive</translation>
@@ -134,7 +134,7 @@ Gab AI Inc Fulldive is unable to recover your settings.</translation>
 <translation id="239760341987199724">Set Fulldive as your default browser</translation>
 <translation id="669092380621816981">This person's browsing data will be deleted from this device. To recover the data, sign in to Fulldive as <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Fulldive just got better</translation>
-<translation id="7192666605334070839">Now it's easier to use Fulldive with your Gab AI Inc Account and on shared computers.</translation>
+<translation id="7192666605334070839">Now it's easier to use Fulldive with your Fulldive Account and on shared computers.</translation>
 <translation id="4100716194836114130">This is your Fulldive</translation>
 <translation id="3511996232906761537">Your web, bookmarks and other Fulldive stuff live here.</translation>
 <translation id="7406627712452599344">Guests can use Fulldive without leaving anything behind.</translation>
@@ -149,9 +149,9 @@ Gab AI Inc Fulldive is unable to recover your settings.</translation>
 <translation id="2871190378186459992">Discover great apps, games, extensions and themes for Fulldive.</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">Inbound rule for Fulldive to allow mDNS traffic.</translation>
-<translation id="8207657266087451193">If an image doesn’t have a useful description, Fulldive will try to provide one for you. To create descriptions, images are sent to Gab AI Inc. You can turn this off in settings at any time.</translation>
-<translation id="5499063270485366718">If an image doesn’t have a useful description, Fulldive will try to provide one for you. To create descriptions, images are sent to Gab AI Inc.</translation>
-<translation id="215320507915280336">This uses the same spell checker that's used in Gab AI Inc search. Text that you type in the browser is sent to Gab AI Inc. You can always change this behaviour in settings.</translation>
+<translation id="8207657266087451193">If an image doesn’t have a useful description, Fulldive will try to provide one for you. To create descriptions, images are sent to Fulldive. You can turn this off in settings at any time.</translation>
+<translation id="5499063270485366718">If an image doesn’t have a useful description, Fulldive will try to provide one for you. To create descriptions, images are sent to Fulldive.</translation>
+<translation id="215320507915280336">This uses the same spell checker that's used in Fulldive search. Text that you type in the browser is sent to Fulldive. You can always change this behaviour in settings.</translation>
 <translation id="1807774211756215222">Open link in new Fulldive &amp;tab</translation>
 <translation id="4624945300945265642">Open link in Fulldive inco&amp;gnito window</translation>
 <translation id="7863882214613921971">Open Link in New Fulldive &amp;tab</translation>
@@ -205,7 +205,7 @@ Gab AI Inc Fulldive is unable to recover your settings.</translation>
 <translation id="7573289029918943991">To see if your device is up to date, go to <ph name="LINK_BEGIN"/>Fulldive OS Settings<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Get help with Fulldive OS</translation>
 <translation id="38898988211673781">Clear cookies and site data when you quit Fulldive</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (copied to Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (copied to Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive is your default browser</translation>
 <translation id="1775322105159056176">Fulldive cannot determine or set the default browser</translation>
 <translation id="6915252145142862992">This is a secondary installation of Fulldive, and cannot be made your default browser.</translation>
@@ -213,10 +213,10 @@ Gab AI Inc Fulldive is unable to recover your settings.</translation>
       Fulldive browser settings<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">If a setting doesn't show on this page, look in your <ph name="LINK_BEGIN"/>
       Fulldive OS settings<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">To fix spelling errors, Fulldive sends the text that you type in text fields to Gab AI Inc</translation>
+<translation id="2312399718665761438">To fix spelling errors, Fulldive sends the text that you type in text fields to Fulldive</translation>
 <translation id="8586264863973514035">To apply your changes, relaunch Fulldive</translation>
 <translation id="7021823858304886493">Allow Fulldive sign-in</translation>
-<translation id="1649714546770135458">By turning this off, you can sign in to Gab AI Inc sites such as Gmail, without signing in to Fulldive</translation>
+<translation id="1649714546770135458">By turning this off, you can sign in to Fulldive sites such as Gmail, without signing in to Fulldive</translation>
 <translation id="2796517443093885402">Fulldive can help keep you safe from data breaches, bad extensions and more</translation>
 <translation id="428541510811554120">Fulldive can't check for updates. Try checking your Internet connection.</translation>
 <translation id="2633397153656205379">Fulldive didn't update. Something went wrong. <ph name="BEGIN_LINK"/>Fix Fulldive update problems and failed updates.<ph name="END_LINK"/></translation>

@@ -10,7 +10,7 @@
 <translation id="4847979153841887006">Fulldive logosu</translation>
 <translation id="7339898014177206373">Yeni pencere</translation>
 <translation id="5516268345616100622">Görev Yöneticisi - Fulldive</translation>
-<translation id="7918740962659365265">Kilitlenme raporlarını ve <ph name="UMA_LINK"/> bilgilerini Gab AI Inc'a göndererek, Fulldive'u daha iyi hale getirmeye yardımcı olun</translation>
+<translation id="7918740962659365265">Kilitlenme raporlarını ve <ph name="UMA_LINK"/> bilgilerini Fulldive'a göndererek, Fulldive'u daha iyi hale getirmeye yardımcı olun</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - Ağda Oturum Açın - Fulldive</translation>
@@ -34,7 +34,7 @@
 <translation id="4065288863231444640">Fulldive'un Arka Planda Çalışmasına İzin Ver</translation>
 <translation id="6797402139308059782">Fulldive'un arka planda çalışmasına izin ver</translation>
 <translation id="2585240446624043880">Fulldive veri dizini üzerinde okuma ve yazma işlemi yapamıyor: <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">İsteğe Bağlı: Kullanıcı istatistiklerini ve kilitlenme raporlarını Gab AI Inc'a otomatik olarak göndererek Fulldive'u iyileştirmemize yardımcı olun.</translation>
+<translation id="8417700129970341035">İsteğe Bağlı: Kullanıcı istatistiklerini ve kilitlenme raporlarını Fulldive'a otomatik olarak göndererek Fulldive'u iyileştirmemize yardımcı olun.</translation>
 <translation id="1489465648257900784">Profiliniz daha yeni bir Fulldive sürümünden olduğundan kullanılamıyor.
 
 Bazı özellikler kullanılamayabilir. Lütfen farklı bir profil dizini belirtin veya daha yeni bir Fulldive sürümünü kullanın.</translation>
@@ -43,7 +43,7 @@ Bazı özellikler kullanılamayabilir. Lütfen farklı bir profil dizini belirti
 
 Fulldive ayarlarınızı kurtaramıyor.</translation>
 <translation id="1477146545787277177">Hata! Fulldive kilitlendi. Yeniden başlatılsın mı?</translation>
-<translation id="5785919770853225148">Fulldive, şifrenizi Gab AI Inc Hesabınızda kaydedecek. Bu şekilde şifreyi hatırlamanız gerekmez.</translation>
+<translation id="5785919770853225148">Fulldive, şifrenizi Fulldive Hesabınızda kaydedecek. Bu şekilde şifreyi hatırlamanız gerekmez.</translation>
 <translation id="8211837073776713955">Fulldive, şifrelerinizin güvenliğinin ihlal edilip edilmediğini size bildirir</translation>
 <translation id="113959764510199339">Fulldive, şifreleri göstermeye çalışıyor.</translation>
 <translation id="96347285368592620">Fulldive şifreleri kopyalamaya çalışıyor.</translation>
@@ -84,7 +84,7 @@ Fulldive ayarlarınızı kurtaramıyor.</translation>
 <translation id="9183662282810237335">Yine de Fulldive'dan çıkılsın mı?</translation>
 <translation id="3834935463915107022">Yine de Fulldive'dan çıkılsın mı?</translation>
 <translation id="8797356639448065696">Fulldive arka plan modunda.</translation>
-<translation id="2339258256897053758">Gab AI Inc API anahtarları eksik. Fulldive'un bazı işlevleri devre dışı bırakılacak.</translation>
+<translation id="2339258256897053758">Fulldive API anahtarları eksik. Fulldive'un bazı işlevleri devre dışı bırakılacak.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> Fulldive'a eklendi</translation>
 <translation id="8516116288943000095">Fulldive'daki verileri de temizle (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Fulldive menüsünde gizle</translation>
@@ -108,8 +108,8 @@ Fulldive ayarlarınızı kurtaramıyor.</translation>
 <translation id="2925193881330501265">Fulldive'da <ph name="USER_EMAIL_ADDRESS"/> olarak oturum açtınız. Tekrar oturum açmak için lütfen aynı hesabı kullanın.</translation>
 <translation id="847561904663814268">Birisi daha önce bu bilgisayarda <ph name="ACCOUNT_EMAIL_LAST"/> olarak Fulldive oturumu açmış. Bilgilerinizi ayrı tutmak için yeni bir Fulldive kullanıcısı oluşturun.</translation>
 <translation id="1853997773668795891">Fulldive verileriniz bu hesaba bağlansın mı?</translation>
-<translation id="1326766910007115955">Yönetilen bir hesapla oturum açıyor ve hesabın yöneticisine Fulldive profilinizi denetleme izni veriyorsunuz. Uygulamalarınız, yer işaretleriniz, geçmişiniz, şifreleriniz ve diğer ayarlarınız gibi Fulldive verileriniz kalıcı olarak <ph name="USER_NAME"/> ile bağlantılandırılacaktır. Gab AI Inc Hesapları Hesap Özeti'ni kullanarak bu verileri silebilecek, ancak bu verileri başka bir hesapla ilişkilendiremeyeceksiniz. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Yönetilen bir hesapla oturum açıyor ve hesabın yöneticisine Fulldive profilinizi denetleme izni veriyorsunuz. Uygulamalarınız, yer işaretleriniz, geçmişiniz, şifreleriniz ve diğer ayarlarınız gibi Fulldive verileriniz kalıcı olarak <ph name="USER_NAME"/> ile bağlantılandırılacaktır. Gab AI Inc Hesapları Hesap Özeti'ni kullanarak bu verileri silebilecek, ancak bu verileri başka bir hesapla ilişkilendiremeyeceksiniz. İsterseniz mevcut Fulldive verilerinizi ayrı tutmak için yeni bir profil oluşturabilirsiniz. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Yönetilen bir hesapla oturum açıyor ve hesabın yöneticisine Fulldive profilinizi denetleme izni veriyorsunuz. Uygulamalarınız, yer işaretleriniz, geçmişiniz, şifreleriniz ve diğer ayarlarınız gibi Fulldive verileriniz kalıcı olarak <ph name="USER_NAME"/> ile bağlantılandırılacaktır. Fulldive Hesapları Hesap Özeti'ni kullanarak bu verileri silebilecek, ancak bu verileri başka bir hesapla ilişkilendiremeyeceksiniz. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Yönetilen bir hesapla oturum açıyor ve hesabın yöneticisine Fulldive profilinizi denetleme izni veriyorsunuz. Uygulamalarınız, yer işaretleriniz, geçmişiniz, şifreleriniz ve diğer ayarlarınız gibi Fulldive verileriniz kalıcı olarak <ph name="USER_NAME"/> ile bağlantılandırılacaktır. Fulldive Hesapları Hesap Özeti'ni kullanarak bu verileri silebilecek, ancak bu verileri başka bir hesapla ilişkilendiremeyeceksiniz. İsterseniz mevcut Fulldive verilerinizi ayrı tutmak için yeni bir profil oluşturabilirsiniz. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Sistem yöneticiniz, Fulldive'u, <ph name="TARGET_URL_HOSTNAME"/> sitesini alternatif bir tarayıcıda açacak şekilde yapılandırmış.</translation>
 <translation id="5380963249588143069">Sistem yöneticiniz Fulldive'u <ph name="TARGET_URL_HOSTNAME"/> adresine erişmek için <ph name="ALTERNATIVE_BROWSER_NAME"/> tarayıcısını açacak şekilde yapılandırmış.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> önceden Fulldive kullanıyordu</translation>
@@ -133,7 +133,7 @@ Fulldive ayarlarınızı kurtaramıyor.</translation>
 <translation id="239760341987199724">Fulldive'u varsayılan tarayıcım olarak ayarla</translation>
 <translation id="669092380621816981">Bu kullanıcının tarama verileri bu cihazdan silinecektir. Verileri kurtarmak için Fulldive'da <ph name="USER_EMAIL"/> olarak oturum açın.</translation>
 <translation id="2827121003398607864">Fulldive daha da iyi bir hale geldi</translation>
-<translation id="7192666605334070839">Fulldive'u Gab AI Inc Hesabınızla ve paylaşılan bilgisayarlarda kullanmak artık daha kolay.</translation>
+<translation id="7192666605334070839">Fulldive'u Fulldive Hesabınızla ve paylaşılan bilgisayarlarda kullanmak artık daha kolay.</translation>
 <translation id="4100716194836114130">Bu sizin Fulldive'unuz</translation>
 <translation id="3511996232906761537">Web, yer işaretleri ve diğer Fulldive bilgileriniz burada bulunur.</translation>
 <translation id="7406627712452599344">Misafirler Fulldive'u geride hiçbir şey bırakmadan kullanabilir.</translation>
@@ -154,9 +154,9 @@ Fulldive ayarlarınızı kurtaramıyor.</translation>
 <translation id="7272074097076644710">Fulldive Beta için mDNS trafiğine izin vermek için gelen kural.</translation>
 <translation id="4991512282053949769">Fulldive Gecelik için mDNS trafiğine izin vermek için gelen kural.</translation>
 <translation id="3856641371299712128">Fulldive Geliştirici için mDNS trafiğine izin vermek için gelen kural.</translation>
-<translation id="8207657266087451193">Bir resmin işe yarar bir açıklaması yoksa, Fulldive sizin için bir açıklama sağlamaya çalışır. Açıklama oluşturmak için resimler Gab AI Inc'a gönderilir. Bu özelliği istediğiniz zaman ayarlardan kapatabilirsiniz.</translation>
-<translation id="5499063270485366718">Bir resmin işe yarar bir açıklaması yoksa, Fulldive sizin için bir açıklama sağlamaya çalışır. Açıklama oluşturmak için resimler Gab AI Inc'a gönderilir.</translation>
-<translation id="215320507915280336">Bu işlev, Gab AI Inc Arama'da kullanılan yazım denetiminin aynısını kullanır. Tarayıcıda yazdığınız metin Gab AI Inc'a gönderilir. Bu davranışı istediğiniz zaman ayarlardan değiştirebilirsiniz.</translation>
+<translation id="8207657266087451193">Bir resmin işe yarar bir açıklaması yoksa, Fulldive sizin için bir açıklama sağlamaya çalışır. Açıklama oluşturmak için resimler Fulldive'a gönderilir. Bu özelliği istediğiniz zaman ayarlardan kapatabilirsiniz.</translation>
+<translation id="5499063270485366718">Bir resmin işe yarar bir açıklaması yoksa, Fulldive sizin için bir açıklama sağlamaya çalışır. Açıklama oluşturmak için resimler Fulldive'a gönderilir.</translation>
+<translation id="215320507915280336">Bu işlev, Fulldive Arama'da kullanılan yazım denetiminin aynısını kullanır. Tarayıcıda yazdığınız metin Fulldive'a gönderilir. Bu davranışı istediğiniz zaman ayarlardan değiştirebilirsiniz.</translation>
 <translation id="1807774211756215222">Bağlantıyı yeni Fulldive &amp;sekmesinde aç</translation>
 <translation id="4624945300945265642">Bağlantıyı Fulldive &amp;gizli penceresinde aç</translation>
 <translation id="7863882214613921971">Bağlantıyı Yeni Fulldive &amp;sekmesinde aç</translation>
@@ -210,7 +210,7 @@ Fulldive ayarlarınızı kurtaramıyor.</translation>
 <translation id="7573289029918943991">Cihazınızın güncel olup olmadığını görmek için <ph name="LINK_BEGIN"/>Fulldive OS Ayarları<ph name="LINK_END"/>'na gidin</translation>
 <translation id="3395323229510056640">Fulldive OS ile ilgili yardım alın</translation>
 <translation id="38898988211673781">Fulldive'dan çıktığımda çerezleri ve site verilerini temizle</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (Fulldive'a kopyalandı)</translation>
+<translation id="5253815230176279256">Fulldive Pay (Fulldive'a kopyalandı)</translation>
 <translation id="5468853758063275923">Fulldive varsayılan tarayıcınız</translation>
 <translation id="1775322105159056176">Fulldive, varsayılan tarayıcıyı tespit edemiyor veya ayarlayamıyor</translation>
 <translation id="6915252145142862992">Bu, Fulldive'un ikincil bir yüklemesidir ve varsayılan tarayıcınız yapılamaz.</translation>
@@ -218,10 +218,10 @@ Fulldive ayarlarınızı kurtaramıyor.</translation>
       Fulldive tarayıcı ayarlarınıza<ph name="LINK_END"/> bakın</translation>
 <translation id="5657226924540934362">Bir ayar bu sayfada görünmüyorsa <ph name="LINK_BEGIN"/>
       Fulldive OS ayarlarınıza<ph name="LINK_END"/> bakın</translation>
-<translation id="2312399718665761438">Yazım hatalarını düzeltmek için Fulldive, metin alanlarına yazdığınız metinleri Gab AI Inc'a gönderir</translation>
+<translation id="2312399718665761438">Yazım hatalarını düzeltmek için Fulldive, metin alanlarına yazdığınız metinleri Fulldive'a gönderir</translation>
 <translation id="8586264863973514035">Yaptığınız değişiklikleri uygulamak için Fulldive'u yeniden başlatın</translation>
 <translation id="7021823858304886493">Fulldive'da oturum açmaya izin verin</translation>
-<translation id="1649714546770135458">Bu özelliği kapatarak Fulldive'da oturum açmadan Gmail gibi Gab AI Inc sitelerinde oturum açabilirsiniz</translation>
+<translation id="1649714546770135458">Bu özelliği kapatarak Fulldive'da oturum açmadan Gmail gibi Fulldive sitelerinde oturum açabilirsiniz</translation>
 <translation id="2796517443093885402">Fulldive veri ihlallerine, kötü uzantılara ve diğer tehditlere karşı güvende kalmanıza yardımcı olabilir</translation>
 <translation id="428541510811554120">Fulldive güncellemeleri denetleyemiyor. İnternet bağlantınızı kontrol etmeyi deneyin.</translation>
 <translation id="2633397153656205379">Fulldive güncellenmedi. Bir sorun oluştu. <ph name="BEGIN_LINK"/>Fulldive güncelleme sorunlarını ve başarısız güncellemeleri düzeltin.<ph name="END_LINK"/></translation>

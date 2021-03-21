@@ -10,7 +10,7 @@
 <translation id="4847979153841887006">Fulldive ロゴ</translation>
 <translation id="7339898014177206373">新しいウィンドウ</translation>
 <translation id="5516268345616100622">タスク マネージャ - Fulldive</translation>
-<translation id="7918740962659365265">障害レポートと<ph name="UMA_LINK"/>を Gab AI Inc に自動送信して Fulldive の機能向上に役立てる</translation>
+<translation id="7918740962659365265">障害レポートと<ph name="UMA_LINK"/>を Fulldive に自動送信して Fulldive の機能向上に役立てる</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - ネットワークにログイン - Fulldive</translation>
@@ -36,7 +36,7 @@
 <translation id="2585240446624043880">Fulldive はこのデータ ディレクトリへの読み書きを実行できません:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">オプション: 使用状況データと障害レポートを Gab AI Inc に自動送信して Fulldive の機能向上に役立てる。</translation>
+<translation id="8417700129970341035">オプション: 使用状況データと障害レポートを Fulldive に自動送信して Fulldive の機能向上に役立てる。</translation>
 <translation id="1489465648257900784">バージョンが新しい Fulldive のプロフィールは使用できません。
 
 一部の機能が利用できない可能性があります。別の場所のプロフィールを指定するか、新しいバージョンの Fulldive をご使用ください。</translation>
@@ -45,7 +45,7 @@
 
 設定を復元できません。</translation>
 <translation id="1477146545787277177">エラー: Fulldive で問題が発生しました。今すぐ再起動しますか？</translation>
-<translation id="5785919770853225148">このパスワードは Gab AI Inc アカウントに保存されるため、覚えておく必要はありません。</translation>
+<translation id="5785919770853225148">このパスワードは Fulldive アカウントに保存されるため、覚えておく必要はありません。</translation>
 <translation id="8211837073776713955">Fulldive では、特定のパスワードが侵害された事実の有無がわかります</translation>
 <translation id="113959764510199339">Fulldive はパスワードを表示しようとしています。</translation>
 <translation id="96347285368592620">Fulldive がパスワードをコピーしようとしています。</translation>
@@ -86,7 +86,7 @@
 <translation id="9183662282810237335">今すぐ Fulldive を終了しますか？</translation>
 <translation id="3834935463915107022">今すぐ Fulldive を終了しますか？</translation>
 <translation id="8797356639448065696">Fulldive はバックグラウンド モードです。</translation>
-<translation id="2339258256897053758">Gab AI Inc API キーが欠落しています。Fulldive の一部の機能は無効になります。</translation>
+<translation id="2339258256897053758">Fulldive API キーが欠落しています。Fulldive の一部の機能は無効になります。</translation>
 <translation id="7861579472672677409">「<ph name="EXTENSION_NAME"/>」が Fulldive に追加されました</translation>
 <translation id="8516116288943000095">Fulldive のデータ（<ph name="URL"/>）も消去する</translation>
 <translation id="4054452651944170004">Fulldive メニューで非表示</translation>
@@ -110,8 +110,8 @@
 <translation id="2925193881330501265">Fulldive に <ph name="USER_EMAIL_ADDRESS"/> としてログインしていました。再度ログインするには同じアカウントを使用してください。</translation>
 <translation id="847561904663814268">前回このパソコンで別のユーザー（<ph name="ACCOUNT_EMAIL_LAST"/>）が Fulldive にログインしました。情報を個別に保持するには、新しい Fulldive ユーザーを作成してください。</translation>
 <translation id="1853997773668795891">Fulldive データをこのアカウントにリンクしますか？</translation>
-<translation id="1326766910007115955">現在、管理対象アカウントでログインしており、あなたの Fulldive プロフィールを管理者が制御できる状態になっています。あなたの Fulldive データ（アプリ、ブックマーク、履歴、パスワードなどの設定）は永続的に <ph name="USER_NAME"/> に関連付けられます。このデータは Gab AI Inc アカウントのダッシュボードを介して削除できますが、このデータを別のアカウントに関連付けることはできなくなります。<ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">現在、管理対象アカウントでログインしており、あなたの Fulldive プロフィールを管理者が制御できる状態になっています。あなたの Fulldive データ（アプリ、ブックマーク、履歴、パスワードなどの設定）は永続的に <ph name="USER_NAME"/> に関連付けられます。このデータは Gab AI Inc アカウントのダッシュボードを介して削除できますが、このデータを別のアカウントに関連付けることはできなくなります。新しいプロフィールを作成して、既存の Fulldive データを別に保管することができます。<ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">現在、管理対象アカウントでログインしており、あなたの Fulldive プロフィールを管理者が制御できる状態になっています。あなたの Fulldive データ（アプリ、ブックマーク、履歴、パスワードなどの設定）は永続的に <ph name="USER_NAME"/> に関連付けられます。このデータは Fulldive アカウントのダッシュボードを介して削除できますが、このデータを別のアカウントに関連付けることはできなくなります。<ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">現在、管理対象アカウントでログインしており、あなたの Fulldive プロフィールを管理者が制御できる状態になっています。あなたの Fulldive データ（アプリ、ブックマーク、履歴、パスワードなどの設定）は永続的に <ph name="USER_NAME"/> に関連付けられます。このデータは Fulldive アカウントのダッシュボードを介して削除できますが、このデータを別のアカウントに関連付けることはできなくなります。新しいプロフィールを作成して、既存の Fulldive データを別に保管することができます。<ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">システム管理者が、<ph name="TARGET_URL_HOSTNAME"/> へのアクセスに代替ブラウザを開くよう Fulldive を設定しています。</translation>
 <translation id="5380963249588143069">システム管理者が、<ph name="TARGET_URL_HOSTNAME"/> へのアクセスに <ph name="ALTERNATIVE_BROWSER_NAME"/> を開くよう Fulldive を設定しています。</translation>
 <translation id="2591326305549412656">Fulldive の前回の使用者は <ph name="USER_EMAIL_ADDRESS"/> です</translation>
@@ -135,7 +135,7 @@
 <translation id="239760341987199724">Fulldive をデフォルト ブラウザに設定する</translation>
 <translation id="669092380621816981">この操作を行うと、このユーザーの閲覧データがこのデバイスから削除されます。データを復元するには、<ph name="USER_EMAIL"/> として Fulldive にログインしてください。</translation>
 <translation id="2827121003398607864">進化する Fulldive</translation>
-<translation id="7192666605334070839">共有パソコンの Fulldive で Gab AI Inc アカウントが簡単に使用できるようになりました。</translation>
+<translation id="7192666605334070839">共有パソコンの Fulldive で Fulldive アカウントが簡単に使用できるようになりました。</translation>
 <translation id="4100716194836114130">自分好みに設定</translation>
 <translation id="3511996232906761537">ウェブ、ブックマーク、その他の Fulldive データを好みに設定できます。</translation>
 <translation id="7406627712452599344">ゲスト ユーザーは、記録を残さずに Fulldive を使用できます。</translation>
@@ -156,9 +156,9 @@
 <translation id="7272074097076644710">Fulldive BetaでインバウンドのmDNSトラフィックを許可するルール。</translation>
 <translation id="4991512282053949769">Fulldive NightlyでインバウンドのmDNSトラフィックを許可するルール。</translation>
 <translation id="3856641371299712128">Fulldive DevでインバウンドのmDNSトラフィックを許可するルール。</translation>
-<translation id="8207657266087451193">画像に有効な説明が設定されていない場合に、Fulldive で説明を自動的に生成できるよう Gab AI Inc に画像が送信されます。この機能は設定でいつでも無効にできます。</translation>
-<translation id="5499063270485366718">画像に有効な説明が設定されていない場合に、Fulldive で説明を自動的に生成できるよう Gab AI Inc に画像が送信されます。</translation>
-<translation id="215320507915280336">Gab AI Inc 検索と同じスペルチェックが使用されます。ブラウザに入力したテキストは Gab AI Inc に送信されます。この動作はいつでも設定で変更できます。</translation>
+<translation id="8207657266087451193">画像に有効な説明が設定されていない場合に、Fulldive で説明を自動的に生成できるよう Fulldive に画像が送信されます。この機能は設定でいつでも無効にできます。</translation>
+<translation id="5499063270485366718">画像に有効な説明が設定されていない場合に、Fulldive で説明を自動的に生成できるよう Fulldive に画像が送信されます。</translation>
+<translation id="215320507915280336">Fulldive 検索と同じスペルチェックが使用されます。ブラウザに入力したテキストは Fulldive に送信されます。この動作はいつでも設定で変更できます。</translation>
 <translation id="1807774211756215222">新しい Fulldive タブでリンクを開く(&amp;T)</translation>
 <translation id="4624945300945265642">Fulldive のシークレット ウインドウでリンクを開く(&amp;G)</translation>
 <translation id="7863882214613921971">新しい Fulldive タブでリンクを開く(&amp;T)</translation>
@@ -212,7 +212,7 @@
 <translation id="7573289029918943991">デバイスが最新の状態かどうか確認するには、<ph name="LINK_BEGIN"/>Fulldive OS の設定<ph name="LINK_END"/>をご覧ください</translation>
 <translation id="3395323229510056640">Fulldive OS のヘルプを見る</translation>
 <translation id="38898988211673781">Fulldive の終了時に Cookie とサイトデータを削除する</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay（Fulldive にコピー）</translation>
+<translation id="5253815230176279256">Fulldive Pay（Fulldive にコピー）</translation>
 <translation id="5468853758063275923">既定のブラウザは Fulldive です</translation>
 <translation id="1775322105159056176">Fulldive では既定のブラウザを判定または設定できません</translation>
 <translation id="6915252145142862992">この Fulldive はセカンダリ インストールのため、既定のブラウザには設定できません。</translation>
@@ -220,10 +220,10 @@
       Fulldive ブラウザの設定<ph name="LINK_END"/>を確認してください</translation>
 <translation id="5657226924540934362">このページに設定が表示されない場合は、<ph name="LINK_BEGIN"/>
       Fulldive OS の設定<ph name="LINK_END"/>を確認してください</translation>
-<translation id="2312399718665761438">スペルミスを修正するために、テキスト欄に入力したテキストが Fulldive から Gab AI Inc に送信されます</translation>
+<translation id="2312399718665761438">スペルミスを修正するために、テキスト欄に入力したテキストが Fulldive から Fulldive に送信されます</translation>
 <translation id="8586264863973514035">変更を適用するには Fulldive を再起動してください</translation>
 <translation id="7021823858304886493">Fulldive へのログインを許可する</translation>
-<translation id="1649714546770135458">この設定を無効にすると、Fulldive にログインすることなく Gmail などの Gab AI Inc サイトにログインできます</translation>
+<translation id="1649714546770135458">この設定を無効にすると、Fulldive にログインすることなく Gmail などの Fulldive サイトにログインできます</translation>
 <translation id="2796517443093885402">Fulldive でデータ侵害や不正な拡張機能などの脅威から保護できているか確認します</translation>
 <translation id="428541510811554120">Fulldive がアップデートを確認できません。インターネット接続を確認してみてください。</translation>
 <translation id="2633397153656205379">エラーが発生したため、Fulldive が更新されませんでした。<ph name="BEGIN_LINK"/>Fulldive の更新に関する問題を解決してください。<ph name="END_LINK"/></translation>

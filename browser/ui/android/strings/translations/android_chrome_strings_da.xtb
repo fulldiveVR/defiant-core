@@ -23,31 +23,31 @@
 <translation id="3749259744154402564">Understøttes ikke</translation>
 <translation id="629730747756840877">Konto</translation>
 <translation id="82609232232243542">Log ind i Fulldive</translation>
-<translation id="7956662517480676674">Synkronisering og Gab AI Inc-tjenester</translation>
-<translation id="5294439808117722387">Du tilpasser i øjeblikket dine indstillinger for Synkronisering og Gab AI Inc-tjenester. Afslut aktiveringen af synkronisering ved at trykke på knappen Bekræft nederst på skærmen. Gå op</translation>
+<translation id="7956662517480676674">Synkronisering og Fulldive-tjenester</translation>
+<translation id="5294439808117722387">Du tilpasser i øjeblikket dine indstillinger for Synkronisering og Fulldive-tjenester. Afslut aktiveringen af synkronisering ved at trykke på knappen Bekræft nederst på skærmen. Gå op</translation>
 <translation id="2096012225669085171">Synkroniser og tilpas på flere enheder</translation>
 <translation id="1692118695553449118">Synkronisering er slået til</translation>
 <translation id="5514904542973294328">Deaktiveret af administratoren af denne enhed</translation>
-<translation id="6447211988989208781">Aktivitetsadministration på Gab AI Inc</translation>
+<translation id="6447211988989208781">Aktivitetsadministration på Fulldive</translation>
 <translation id="4882831918239250449">Styr, hvordan din browserhistorik anvendes til at tilpasse søgeresultater, annoncer og meget mere</translation>
 <translation id="7431991332293347422">Bestem selv, hvordan din browserhistorik skal bruges til at tilpasse søgeresultater m.m.</translation>
 <translation id="6303969859164067831">Log ud, og deaktiver synkronisering</translation>
-<translation id="1125261911132334651">Administrer din Gab AI Inc-konto</translation>
+<translation id="1125261911132334651">Administrer din Fulldive-konto</translation>
 <translation id="6406506848690869874">Synkronisering</translation>
 <translation id="714362445477979774">Synkroniser dine Fulldive-data</translation>
 <translation id="4314815835985389558">Administrer synkronisering</translation>
-<translation id="5428209950370661546">Andre Gab AI Inc-tjenester</translation>
+<translation id="5428209950370661546">Andre Fulldive-tjenester</translation>
 <translation id="7704317875155739195">Autofuldfør søgninger og webadresser</translation>
 <translation id="2000419248597011803">Sender visse cookies og søgninger fra adresselinjen og søgefeltet til din standardsøgemaskine</translation>
 <translation id="7981313251711023384">Forudindlæs sider, så du kan browse og søge hurtigere</translation>
 <translation id="1821253160463689938">Anvender cookies til at huske dine præferencer, også selvom du ikke besøger siderne</translation>
 <translation id="6697492270171225480">Se forslag til lignende sider, når en side ikke kan findes</translation>
-<translation id="8109318360573330108">Sender webadressen på en side, du forsøger at åbne, til Gab AI Inc</translation>
+<translation id="8109318360573330108">Sender webadressen på en side, du forsøger at åbne, til Fulldive</translation>
 <translation id="8438566539970814960">Gør søgninger og browsing endnu bedre</translation>
-<translation id="284843628681142937">Sender webadresser på de sider, du besøger, til Gab AI Inc</translation>
-<translation id="7222718784508482526">Du kan finde flere indstillinger vedrørende privatliv, sikkerhed og dataindsamling ved at gå til <ph name="BEGIN_LINK"/>Synkronisering og Gab AI Inc-tjenester<ph name="END_LINK"/></translation>
+<translation id="284843628681142937">Sender webadresser på de sider, du besøger, til Fulldive</translation>
+<translation id="7222718784508482526">Du kan finde flere indstillinger vedrørende privatliv, sikkerhed og dataindsamling ved at gå til <ph name="BEGIN_LINK"/>Synkronisering og Fulldive-tjenester<ph name="END_LINK"/></translation>
 <translation id="918192811481327695">Vær med til at forbedre Fulldives funktioner og ydeevne</translation>
-<translation id="9063160602596686558">Sender automatisk brugsstatistikker og nedbrudsrapporter til Gab AI Inc</translation>
+<translation id="9063160602596686558">Sender automatisk brugsstatistikker og nedbrudsrapporter til Fulldive</translation>
 <translation id="4824958205181053313">Vil du annullere synkroniseringen?</translation>
 <translation id="3058498974290601450">Du kan til enhver tid aktivere synkronisering i indstillingerne</translation>
 <translation id="3143515551205905069">Annuller synkronisering</translation>
@@ -86,9 +86,9 @@
 <translation id="2100273922101894616">Automatisk login</translation>
 <translation id="363596933471559332">Log automatisk ind på websites med gemte loginoplysninger. Når funktionen er slået fra, bliver du bedt om at bekræfte, hver gang du vil logge ind på et website.</translation>
 <translation id="6995899638241819463">Få en underretning, hvis adgangskoder afsløres i forbindelse med et brud på datasikkerheden</translation>
-<translation id="1534287762301776620">Når du logger ind på din Gab AI Inc-konto, er denne funktion aktiveret</translation>
+<translation id="1534287762301776620">Når du logger ind på din Fulldive-konto, er denne funktion aktiveret</translation>
 <translation id="10614374240317010">Gemmes aldrig</translation>
-<translation id="3098842761938485917">Se og administrer gemte adgangskoder på din <ph name="BEGIN_LINK"/>Gab AI Inc-konto<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Se og administrer gemte adgangskoder på din <ph name="BEGIN_LINK"/>Fulldive-konto<ph name="END_LINK"/></translation>
 <translation id="8988028529677883095">Brug telefonen som en sikkerhedsnøgle</translation>
 <translation id="8562452229998620586">Dine gemte adgangskoder vises her.</translation>
 <translation id="1303339473099049190">Adgangskoden blev ikke fundet. Tjek stavningen, og prøv igen.</translation>
@@ -116,7 +116,7 @@
 <translation id="6914783257214138813">Dine adgangskoder vil være synlige for alle, der kan se den eksporterede fil.</translation>
 <translation id="2321086116217818302">Forbereder adgangskoder…</translation>
 <translation id="8445448999790540984">Der kan ikke eksporteres adgangskoder</translation>
-<translation id="5139940364318403933">Få oplysninger om, hvordan du bruger Gab AI Inc Drev</translation>
+<translation id="5139940364318403933">Få oplysninger om, hvordan du bruger Fulldive Drev</translation>
 <translation id="729975465115245577">Der er ikke nogen app på din enhed, hvor filen med adgangskoder kan gemmes.</translation>
 <translation id="7682724950699840886">Prøv følgende tips: Sørg for, at der er nok ledig plads på din enhed, og prøv at eksportere igen.</translation>
 <translation id="1129510026454351943">Info: <ph name="ERROR_DESCRIPTION"/></translation>
@@ -140,17 +140,17 @@
 <translation id="6381421346744604172">Gør websites mørkere</translation>
 <translation id="5040262127954254034">Privatliv</translation>
 <translation id="4991384657077828949">Hjælp med at forbedre sikkerheden i Fulldive</translation>
-<translation id="1943176487615318915">Fulldive sender webadresser på nogle sider, du besøger, begrænsede systemoplysninger og noget sideindhold til Gab AI Inc med henblik på at registrere farlige apps og websites.</translation>
+<translation id="1943176487615318915">Fulldive sender webadresser på nogle sider, du besøger, begrænsede systemoplysninger og noget sideindhold til Fulldive med henblik på at registrere farlige apps og websites.</translation>
 <translation id="3201899458094819285">Beskyttet browsing (beskytter dig og din enhed mod farlige websites)</translation>
-<translation id="2876369937070532032">Sender webadresser på nogle sider, som du besøger, til Gab AI Inc, når din sikkerhed er truet</translation>
+<translation id="2876369937070532032">Sender webadresser på nogle sider, som du besøger, til Fulldive, når din sikkerhed er truet</translation>
 <translation id="3738139272394829648">Tryk for at søge</translation>
-<translation id="4749189475009528195">Læs om emner på websites uden at forlade siden. Funktionen Tryk for at søge sender et ord og ordets kontekst til Gab AI Inc Søgning og giver dig definitioner, billeder, søgeresultater og andre oplysninger.
+<translation id="4749189475009528195">Læs om emner på websites uden at forlade siden. Funktionen Tryk for at søge sender et ord og ordets kontekst til Fulldive Søgning og giver dig definitioner, billeder, søgeresultater og andre oplysninger.
 
 Tryk på et ord for at søge. Du kan tilpasse søgningen ved at holde fingeren nede og markere flere eller færre ord. Hvis du vil redigere din søgning, skal du åbne panelet, trykke på ikonet Ny fane og så foretage dine ændringer i søgefeltet.</translation>
-<translation id="934250516944040460">Læs om emner på websites uden at forlade siden. Funktionen Tryk for at søge sender et ord og ordets kontekst til Gab AI Inc Søgning og giver dig definitioner, billeder, søgeresultater og andre oplysninger.
+<translation id="934250516944040460">Læs om emner på websites uden at forlade siden. Funktionen Tryk for at søge sender et ord og ordets kontekst til Fulldive Søgning og giver dig definitioner, billeder, søgeresultater og andre oplysninger.
 
 Tryk og hold på et ord for at søge. Du kan tilpasse din søgning ved at vælge flere eller færre ord. Hvis du vil redigere din søgning, skal du åbne panelet, trykke på ikonet Ny fane og så foretage dine ændringer i søgefeltet.</translation>
-<translation id="6209156474097347789">Funktionen "Tryk for at søge" sender det markerede ord og den aktuelle side som kontekst til Gab AI Inc Søgning. Du kan slå den fra under <ph name="BEGIN_LINK"/>Indstillinger<ph name="END_LINK"/>.</translation>
+<translation id="6209156474097347789">Funktionen "Tryk for at søge" sender det markerede ord og den aktuelle side som kontekst til Fulldive Søgning. Du kan slå den fra under <ph name="BEGIN_LINK"/>Indstillinger<ph name="END_LINK"/>.</translation>
 <translation id="5039804452771397117">Tillad</translation>
 <translation id="780301667611848630">Nej tak</translation>
 <translation id="1406000523432664303">"Do Not Track"</translation>
@@ -163,15 +163,15 @@ Nogle websites kan f.eks. reagere på denne anmodning ved at vise dig annoncer, 
 <translation id="7814200940910057384">Fulldive-dataene blev ryddet</translation>
 <translation id="1664855196866195614">De valgte data er fjernet fra Fulldive og synkroniserede enheder.
 
-Din Gab AI Inc-konto kan have andre former for browserhistorik, f.eks. søgninger og aktivitet fra andre Gab AI Inc-tjenester, på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+Din Fulldive-konto kan have andre former for browserhistorik, f.eks. søgninger og aktivitet fra andre Fulldive-tjenester, på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="4699172675775169585">Billeder og filer, der er gemt i cache</translation>
 <translation id="2496180316473517155">Browserhistorik</translation>
 <translation id="2546283357679194313">Cookies og websitedata</translation>
 <translation id="8662811608048051533">Logger dig ud af de fleste websites.</translation>
-<translation id="8218628800671693884">Logger dig ud af de fleste websites. Du bliver ikke logget ud af din Gab AI Inc-konto.</translation>
+<translation id="8218628800671693884">Logger dig ud af de fleste websites. Du bliver ikke logget ud af din Fulldive-konto.</translation>
 <translation id="2017836877785168846">Nulstiller historikken og autofuldførelser i adresselinjen.</translation>
-<translation id="8096327394278038498">Rydder historikken og autofuldførelser i adresselinjen. Din Gab AI Inc-konto kan have andre former for browserhistorik på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Rydder historikken på alle enheder, hvor du er logget ind. Din Gab AI Inc-konto kan have andre former for browserhistorik på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Rydder historikken og autofuldførelser i adresselinjen. Din Fulldive-konto kan have andre former for browserhistorik på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Rydder historikken på alle enheder, hvor du er logget ind. Din Fulldive-konto kan have andre former for browserhistorik på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="5869522115854928033">Gemte adgangskoder</translation>
 <translation id="6865313869410766144">Formulardata for AutoFyld</translation>
 <translation id="7562080006725997899">Browserdata ryddes</translation>
@@ -188,7 +188,7 @@ Din Gab AI Inc-konto kan have andre former for browserhistorik, f.eks. søgninge
 <translation id="6643016212128521049">Ryd</translation>
 <translation id="7641339528570811325">Ryd browserdata…</translation>
 <translation id="1670399744444387456">Grundlæggende</translation>
-<translation id="3245261285041759672">Din Gab AI Inc-konto kan have andre former for browserhistorik på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="3245261285041759672">Din Fulldive-konto kan have andre former for browserhistorik på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7274013316676448362">Blokeret website</translation>
 <translation id="2534155362429831547"><ph name="NUMBER_OF_ITEMS"/> elementer blev slettet</translation>
 <translation id="6981982820502123353">Hjælpefunktioner</translation>
@@ -358,13 +358,13 @@ Din Gab AI Inc-konto kan have andre former for browserhistorik, f.eks. søgninge
 <translation id="3658159451045945436">En nulstilling sletter din historik for databesparelser, herunder listen over de websites, du har besøgt.</translation>
 <translation id="5939518447894949180">Nulstil</translation>
 <translation id="3295530008794733555">Få hurtigere browsing. Brug mindre data.</translation>
-<translation id="7340390500800578919">Fulldive indlæser sider hurtigere og bruger op til 60 procent mindre data i Lite-tilstand. Fulldive sender din webtrafik til Gab AI Inc for at optimere de sider, du besøger. <ph name="BEGIN_LINK"/>Få flere oplysninger<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">Fulldive indlæser sider hurtigere og bruger op til 60 procent mindre data i Lite-tilstand. Fulldive sender din webtrafik til Fulldive for at optimere de sider, du besøger. <ph name="BEGIN_LINK"/>Få flere oplysninger<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Aktivér Lite-tilstand</translation>
 <translation id="4493497663118223949">Lite-tilstand er aktiveret</translation>
 <translation id="7559975015014302720">Lite-tilstand er deaktiveret</translation>
 <translation id="7606077192958116810">Lite-tilstand er aktiveret. Administrer tilstanden i Indstillinger.</translation>
 <translation id="4714588616299687897">Spar op til 60 % af dine data</translation>
-<translation id="1006927014032731288">Gab AI Inc-serverne optimerer de sider, du besøger.</translation>
+<translation id="1006927014032731288">Fulldive-serverne optimerer de sider, du besøger.</translation>
 <translation id="3257320067425202300">Fulldive har sparet dig <ph name="MEGABYTES"/> MB</translation>
 <translation id="5813223329348543512">Fulldive har sparet dig <ph name="GIGABYTES"/> GB</translation>
 <translation id="8266862848225348053">Downloadplacering</translation>
@@ -393,13 +393,13 @@ Din Gab AI Inc-konto kan have andre former for browserhistorik, f.eks. søgninge
 <translation id="3334729583274622784">Vil du ændre filtypen?</translation>
 <translation id="107147699690128016">Hvis du ændrer filtypen, åbnes filen muligvis i en anden app og kan være skadelig for din enhed.</translation>
 <translation id="8541922081612557424">Om Fulldive</translation>
-<translation id="5311273890481188673">Copyright <ph name="YEAR"/> Gab AI Inc LLC. Alle rettigheder forbeholdes.</translation>
+<translation id="5311273890481188673">Copyright <ph name="YEAR"/> Fulldive LLC. Alle rettigheder forbeholdes.</translation>
 <translation id="1416550906796893042">Appversion</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (Opdateret <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Operativsystem</translation>
 <translation id="3968054912784331254">Fulldive understøtter ikke længere denne version af Android</translation>
 <translation id="7665369617277396874">Tilføj konto</translation>
-<translation id="649070405679044769">Du er logget ind på Gab AI Inc som</translation>
+<translation id="649070405679044769">Du er logget ind på Fulldive som</translation>
 <translation id="6234515504547364178">Log ud af Fulldive</translation>
 <translation id="5324858694974489420">Indstillinger for børnesikring</translation>
 <translation id="8920114477895755567">Venter på oplysninger om forældre.</translation>
@@ -419,19 +419,19 @@ Din Gab AI Inc-konto kan have andre former for browserhistorik, f.eks. søgninge
 <translation id="4062305924942672200">Juridiske oplysninger</translation>
 <translation id="4256782883801055595">Open source-licenser</translation>
 <translation id="1138681184697033370">Fulldives servicevilkår</translation>
-<translation id="2368444735104192323">Yderligere servicevilkår for Gab AI Inc Fulldive og Fulldive OS</translation>
-<translation id="7392539049993970338">Erklæring om privatliv for Gab AI Inc Fulldive</translation>
+<translation id="2368444735104192323">Yderligere servicevilkår for Fulldive Fulldive og Fulldive OS</translation>
+<translation id="7392539049993970338">Erklæring om privatliv for Fulldive Fulldive</translation>
 <translation id="2968755619301702150">Certifikatfremviser</translation>
 <translation id="1360432990279830238">Log ud, og deaktiver synkronisering?</translation>
 <translation id="8581481290581777242">Vil du rydde dine Fulldive-data på denne enhed?</translation>
-<translation id="1318865768845061710">Din historik samt dine bogmærker, adgangskoder og andre Fulldive-data synkroniseres ikke længere med din Gab AI Inc-konto</translation>
+<translation id="1318865768845061710">Din historik samt dine bogmærker, adgangskoder og andre Fulldive-data synkroniseres ikke længere med din Fulldive-konto</translation>
 <translation id="3325020657155065477">Ryd også dine Fulldive-data fra enheden</translation>
-<translation id="6136448902816743006">Da du er ved at logge ud af en konto, der administreres af <ph name="DOMAIN_NAME"/>, slettes dine Fulldive-data fra denne enhed. Dataene vil stadig være at finde på din Gab AI Inc-konto.</translation>
-<translation id="1853026300647876496">Kontakter Gab AI Inc. Dette kan tage et øjeblik…</translation>
+<translation id="6136448902816743006">Da du er ved at logge ud af en konto, der administreres af <ph name="DOMAIN_NAME"/>, slettes dine Fulldive-data fra denne enhed. Dataene vil stadig være at finde på din Fulldive-konto.</translation>
+<translation id="1853026300647876496">Kontakter Fulldive. Dette kan tage et øjeblik…</translation>
 <translation id="2328985652426384049">Det er ikke muligt at logge ind</translation>
-<translation id="7723158744459952869">Gab AI Inc var for lang tid om at svare</translation>
+<translation id="7723158744459952869">Fulldive var for lang tid om at svare</translation>
 <translation id="4572422548854449519">Log ind på mangerstyret konto</translation>
-<translation id="2689656545739939160">Du er ved at logge ind med en konto, der administreres af <ph name="MANAGED_DOMAIN"/>, hvilket giver administratoren kontrol over dine Fulldive-data. Dine data tilknyttes denne konto permanent. Hvis du logger ud af Fulldive, slettes dine data fra denne enhed, men de forbliver gemt på din Gab AI Inc-konto.</translation>
+<translation id="2689656545739939160">Du er ved at logge ind med en konto, der administreres af <ph name="MANAGED_DOMAIN"/>, hvilket giver administratoren kontrol over dine Fulldive-data. Dine data tilknyttes denne konto permanent. Hvis du logger ud af Fulldive, slettes dine data fra denne enhed, men de forbliver gemt på din Fulldive-konto.</translation>
 <translation id="1749561566933687563">Synkroniser dine bogmærker</translation>
 <translation id="4242533952199664413">Åbn Indstillinger</translation>
 <translation id="1111673857033749125">Bogmærker, der er gemt på dine andre enheder, vises her.</translation>
@@ -445,21 +445,21 @@ Din Gab AI Inc-konto kan have andre former for browserhistorik, f.eks. søgninge
 <translation id="8820817407110198400">Bogmærker</translation>
 <translation id="1644574205037202324">Historik</translation>
 <translation id="17513872634828108">Åbne faner</translation>
-<translation id="1320169905922104972">Kreditkort og adresser fra Gab AI Inc Pay</translation>
+<translation id="1320169905922104972">Kreditkort og adresser fra Fulldive Pay</translation>
 <translation id="6337234675334993532">Kryptering</translation>
 <translation id="6698801883190606802">Administrer synkroniserede data</translation>
-<translation id="3598578758776312506">Kryptér adgangskoder med Gab AI Inc-loginoplysninger</translation>
-<translation id="7810580217418711046">Kryptér synkroniserede data med Gab AI Inc-adgangskoden fra <ph name="TIME"/></translation>
+<translation id="3598578758776312506">Kryptér adgangskoder med Fulldive-loginoplysninger</translation>
+<translation id="7810580217418711046">Kryptér synkroniserede data med Fulldive-adgangskoden fra <ph name="TIME"/></translation>
 <translation id="8461694314515752532">Kryptér synkroniserede data med din egen adgangssætning til synkronisering</translation>
 <translation id="2996291259634659425">Opret adgangssætning</translation>
-<translation id="5713644099811900409">Gab AI Inc-konto</translation>
-<translation id="8997474919031554666">Kryptering med adgangssætning omfatter ikke betalingsmetoder og adresser fra Gab AI Inc Pay. Det er kun personer med din adgangssætning, der kan læse dine krypterede data. Adgangssætningen sendes ikke til eller gemmes af Gab AI Inc. Hvis du glemmer din adgangssætning eller vil ændre denne indstilling, skal du nulstille synkronisering. <ph name="BEGIN_LINK"/>Få flere oplysninger<ph name="END_LINK"/></translation>
+<translation id="5713644099811900409">Fulldive-konto</translation>
+<translation id="8997474919031554666">Kryptering med adgangssætning omfatter ikke betalingsmetoder og adresser fra Fulldive Pay. Det er kun personer med din adgangssætning, der kan læse dine krypterede data. Adgangssætningen sendes ikke til eller gemmes af Fulldive. Hvis du glemmer din adgangssætning eller vil ændre denne indstilling, skal du nulstille synkronisering. <ph name="BEGIN_LINK"/>Få flere oplysninger<ph name="END_LINK"/></translation>
 <translation id="9050666287014529139">Adgangssætning</translation>
 <translation id="7772032839648071052">Bekræft adgangssætning</translation>
 <translation id="5304593522240415983">Dette felt må ikke være tomt</translation>
 <translation id="321773570071367578">Hvis du har glemt din adgangssætning eller vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille synkroniseringen<ph name="END_LINK"/></translation>
 <translation id="3029704984691124060">Adgangssætningerne stemmer ikke overens</translation>
-<translation id="5149495116300586333">Kryptering med adgangssætning omfatter ikke betalingsmetoder og adresser fra Gab AI Inc Pay.
+<translation id="5149495116300586333">Kryptering med adgangssætning omfatter ikke betalingsmetoder og adresser fra Fulldive Pay.
 
 Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille synkronisering<ph name="END_LINK"/></translation>
 <translation id="7638584964844754484">Forkert adgangssætning</translation>
@@ -575,7 +575,7 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille s
 <translation id="6649642165559792194">Se forhåndsvisning af <ph name="BEGIN_NEW"/>Ny<ph name="END_NEW"/></translation>
 <translation id="3269093882174072735">Indlæs billede</translation>
 <translation id="6671495933530132209">Kopiér billede</translation>
-<translation id="3845332215609790146">Søg med Gab AI Inc Lens <ph name="BEGIN_NEW"/>Nyhed<ph name="END_NEW"/></translation>
+<translation id="3845332215609790146">Søg med Fulldive Lens <ph name="BEGIN_NEW"/>Nyhed<ph name="END_NEW"/></translation>
 <translation id="5578795271662203820">Søg efter billedet på <ph name="SEARCH_ENGINE"/></translation>
 <translation id="3384347053049321195">Del billede</translation>
 <translation id="5833984609253377421">Del link</translation>
@@ -584,7 +584,7 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille s
 <translation id="7975379999046275268">Se forhåndsvisning af siden <ph name="BEGIN_NEW"/>Ny<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Hurtigt website</translation>
 <translation id="6112702117600201073">Opdaterer siden</translation>
-<translation id="6990079615885386641">Hent appen i Gab AI Inc Play Butik: <ph name="APP_ACTION"/></translation>
+<translation id="6990079615885386641">Hent appen i Fulldive Play Butik: <ph name="APP_ACTION"/></translation>
 <translation id="2414886740292270097">Mørk</translation>
 <translation id="1807246157184219062">Lys</translation>
 <translation id="4056223980640387499">Sepia</translation>
@@ -610,9 +610,9 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille s
 <translation id="164269334534774161">Du ser en offlinekopi af denne side fra <ph name="CREATION_TIME"/></translation>
 <translation id="4594952190837476234">Denne offlineside er fra <ph name="CREATION_TIME"/> og kan afvige fra onlineversionen.</translation>
 <translation id="8840953339110955557">Denne side kan afvige fra onlineversionen.</translation>
-<translation id="6405300764336705484">Dette indhold er fra <ph name="DOMAIN_NAME"/>, som leveres af Gab AI Inc.</translation>
+<translation id="6405300764336705484">Dette indhold er fra <ph name="DOMAIN_NAME"/>, som leveres af Fulldive.</translation>
 <translation id="1006017844123154345">Åbn på nettet</translation>
-<translation id="3326636747541519688">Lite-side leveret af Gab AI Inc</translation>
+<translation id="3326636747541519688">Lite-side leveret af Fulldive</translation>
 <translation id="7149158118503947153"><ph name="BEGIN_LINK"/>Indlæs den oprindelige side<ph name="END_LINK"/> fra <ph name="DOMAIN_NAME"/></translation>
 <translation id="7475192538862203634">Hvis du ser dette jævnligt, kan du prøve disse <ph name="BEGIN_LINK"/>forslag<ph name="END_LINK"/>.</translation>
 <translation id="8748850008226585750">Indholdet er skjult</translation>
@@ -711,18 +711,18 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille s
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">ÅÅ</translation>
 <translation id="724102042129299115">Førstegangsoplevelse af Fulldive</translation>
-<translation id="7766792282581704663">Når du bruger Fulldive, accepterer du <ph name="BEGIN_LINK1"/>Gab AI Incs servicevilkår<ph name="END_LINK1"/> og de <ph name="BEGIN_LINK2"/>yderligere servicevilkår for Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Når du bruger Fulldive, accepterer du <ph name="BEGIN_LINK1"/>Gab AI Incs servicevilkår<ph name="END_LINK1"/> og de <ph name="BEGIN_LINK2"/>yderligere servicevilkår for Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Erklæringen om privatliv for Gab AI Inc-konti, der administreres med Family Link<ph name="END_LINK3"/>, gælder også.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> åbnes i Fulldive. Når du fortsætter, accepterer du <ph name="BEGIN_LINK1"/>Gab AI Incs servicevilkår<ph name="END_LINK1"/> og de <ph name="BEGIN_LINK2"/>yderligere servicevilkår for Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> åbnes i Fulldive. Når du fortsætter, accepterer du <ph name="BEGIN_LINK1"/>Gab AI Incs servicevilkår<ph name="END_LINK1"/> og de <ph name="BEGIN_LINK2"/>yderligere servicevilkår for Gab AI Inc Fulldive og Fulldive OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Erklæringen om privatliv for Gab AI Inc-konti, der administreres med Family Link<ph name="END_LINK3"/>, gælder også.</translation>
-<translation id="673197144963363525">Vær med til at gøre Fulldive bedre ved at sende brugsstatistik og nedbrudsrapporter til Gab AI Inc.</translation>
+<translation id="7766792282581704663">Når du bruger Fulldive, accepterer du <ph name="BEGIN_LINK1"/>Fulldives servicevilkår<ph name="END_LINK1"/> og de <ph name="BEGIN_LINK2"/>yderligere servicevilkår for Fulldive Fulldive og Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Når du bruger Fulldive, accepterer du <ph name="BEGIN_LINK1"/>Fulldives servicevilkår<ph name="END_LINK1"/> og de <ph name="BEGIN_LINK2"/>yderligere servicevilkår for Fulldive Fulldive og Fulldive OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Erklæringen om privatliv for Fulldive-konti, der administreres med Family Link<ph name="END_LINK3"/>, gælder også.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> åbnes i Fulldive. Når du fortsætter, accepterer du <ph name="BEGIN_LINK1"/>Fulldives servicevilkår<ph name="END_LINK1"/> og de <ph name="BEGIN_LINK2"/>yderligere servicevilkår for Fulldive Fulldive og Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> åbnes i Fulldive. Når du fortsætter, accepterer du <ph name="BEGIN_LINK1"/>Fulldives servicevilkår<ph name="END_LINK1"/> og de <ph name="BEGIN_LINK2"/>yderligere servicevilkår for Fulldive Fulldive og Fulldive OS<ph name="END_LINK2"/>. <ph name="BEGIN_LINK3"/>Erklæringen om privatliv for Fulldive-konti, der administreres med Family Link<ph name="END_LINK3"/>, gælder også.</translation>
+<translation id="673197144963363525">Vær med til at gøre Fulldive bedre ved at sende brugsstatistik og nedbrudsrapporter til Fulldive.</translation>
 <translation id="3518985090088779359">Acceptér og fortsæt</translation>
 <translation id="7207456302801184289">Velkommen til Fulldive</translation>
-<translation id="7189372733857464326">Venter på, at Gab AI Inc Play-tjenester er opdateret</translation>
+<translation id="7189372733857464326">Venter på, at Fulldive Play-tjenester er opdateret</translation>
 <translation id="1231733316453485619">Vil du aktivere synkronisering?</translation>
 <translation id="5132942445612118989">Synkroniser dine adgangskoder, din historik og meget mere på alle enheder</translation>
-<translation id="5736731321935944068">Gab AI Inc kan bruge din historik til at tilpasse Søgning, annoncer og andre Gab AI Inc-tjenester</translation>
-<translation id="4013614219085422040">Gab AI Inc kan bruge din historik til at tilpasse Søgning og andre Gab AI Inc-tjenester</translation>
+<translation id="5736731321935944068">Fulldive kan bruge din historik til at tilpasse Søgning, annoncer og andre Fulldive-tjenester</translation>
+<translation id="4013614219085422040">Fulldive kan bruge din historik til at tilpasse Søgning og andre Fulldive-tjenester</translation>
 <translation id="5581519193887989363">Du kan altid vælge, hvad der skal synkroniseres, i <ph name="BEGIN_LINK1"/>indstillingerne<ph name="END_LINK1"/>.</translation>
 <translation id="741204030948306876">Ja tak</translation>
 <translation id="2410754283952462441">Vælg en konto</translation>
@@ -730,8 +730,8 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille s
 <translation id="6210748933810148297">Ikke <ph name="EMAIL"/>?</translation>
 <translation id="8109613176066109935">Aktivér synkronisering for at få vist dine bogmærker på alle dine enheder</translation>
 <translation id="2818669890320396765">Log ind, og aktivér synkronisering for at få vist dine bogmærker på alle dine enheder</translation>
-<translation id="6003646045106347985">Aktivér synkronisering for at hente brugertilpasset indhold, som er foreslået af Gab AI Inc</translation>
-<translation id="8494430740943879273">Log ind, og aktivér synkronisering for at hente brugertilpasset indhold, som er foreslået af Gab AI Inc</translation>
+<translation id="6003646045106347985">Aktivér synkronisering for at hente brugertilpasset indhold, som er foreslået af Fulldive</translation>
+<translation id="8494430740943879273">Log ind, og aktivér synkronisering for at hente brugertilpasset indhold, som er foreslået af Fulldive</translation>
 <translation id="5862731021271217234">Aktivér synkronisering for at få adgang til dine faner på dine andre enheder</translation>
 <translation id="3568688522516854065">Log ind, og aktivér synkronisering for at få adgang til dine faner på dine andre enheder</translation>
 <translation id="1208340532756947324">Aktivér synkronisering for at synkronisere og tilpasse på alle dine enheder</translation>
@@ -751,7 +751,7 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille s
 <translation id="5423934151118863508">Dine mest besøgte sider vises her</translation>
 <translation id="6127379762771434464">Elementet blev fjernet</translation>
 <translation id="4605958867780575332">Element fjernet: <ph name="ITEM_TITLE"/></translation>
-<translation id="1996480094660735607">Gab AI Inc-doodle: <ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">Fulldive-doodle: <ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="7851858861565204677">Andre enheder</translation>
 <translation id="4738836084190194332">Seneste synkronisering: <ph name="WHEN"/></translation>
 <translation id="4583164079174244168">{MINUTES,plural, =1{For # minut siden}one{For # minut siden}other{For # minutter siden}}</translation>
@@ -778,7 +778,7 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille s
 <translation id="1171770572613082465">Se populære websites ved at trykke på knappen "Topwebsites"</translation>
 <translation id="5233638681132016545">Ny fane</translation>
 <translation id="6336451774241870485">Ny privat fane</translation>
-<translation id="4521874409998847950">Fra <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>leveret af Gab AI Inc<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950">Fra <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>leveret af Fulldive<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Der findes en nyere version</translation>
 <translation id="4058091506841967397">Fulldive kan ikke opdateres</translation>
 <translation id="6316139424528454185">Android-versionen understøttes ikke</translation>
@@ -914,7 +914,7 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille s
 <translation id="8427875596167638501">Fanen forhåndsvisning er åbnet halvt</translation>
 <translation id="9102803872260866941">Fanen forhåndsvisning er åben</translation>
 <translation id="2942036813789421260">Fanen forhåndsvisning er lukket</translation>
-<translation id="6355102470683871794">Gab AI Inc <ph name="APP_NAME"/>-lagerplads</translation>
+<translation id="6355102470683871794">Fulldive <ph name="APP_NAME"/>-lagerplads</translation>
 <translation id="3822502789641063741">Vil du rydde websitelagerpladsen?</translation>
 <translation id="9205995714227143200">Websitelagerplads, som ikke er vigtig ifølge Fulldive (f.eks. websites uden gemte indstillinger eller websites, du ikke besøger så ofte)</translation>
 <translation id="3997476611815694295">Lagerplads, der ikke er vigtig</translation>
@@ -955,9 +955,9 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille s
 <translation id="5489227211564503167">Forløbet tid: <ph name="ELAPSED_TIME"/> af <ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Søg via Sogou</translation>
 <translation id="5406914950576900927">Fulldive kan bruge <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> til søgninger i Kina. Du kan ændre dette i <ph name="BEGIN_LINK"/>Indstillinger<ph name="END_LINK"/>.</translation>
-<translation id="6456271171669383967">Behold Gab AI Inc</translation>
+<translation id="6456271171669383967">Behold Fulldive</translation>
 <translation id="4384468725000734951">Søgning via Sogou</translation>
-<translation id="6103327872225198548">Søgning via Gab AI Inc</translation>
+<translation id="6103327872225198548">Søgning via Fulldive</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
 <translation id="919933208285147476">Denne app kører i Fulldive</translation>
 <translation id="6143689084714664628">Kører i Fulldive</translation>
@@ -989,7 +989,7 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK"/>nulstille s
 <translation id="123724288017357924">Genindlæs aktuel side, og ignorer indhold gemt i cache</translation>
 <translation id="305870044889644984">Åbn Hjælp til Fulldive i en ny fane</translation>
 <translation id="3166827708714933426">Genveje på faner og i vinduer</translation>
-<translation id="3169981355900570544">Funktionsgenveje i Gab AI Inc Fulldive</translation>
+<translation id="3169981355900570544">Funktionsgenveje i Fulldive Fulldive</translation>
 <translation id="4558311620361989323">Genveje på websider</translation>
 <translation id="1908301351964700579">Fulldive er stadig i gang med at forberede VR. Genstart Fulldive senere.</translation>
 <translation id="8970887620466824814">Der opstod en fejl.</translation>
@@ -1018,9 +1018,9 @@ Det er kun dig, der kan se, hvad kameraet ser. Websitet kan ikke se kameraets bi
 <translation id="3341058695485821946">Se, hvor meget data du har sparet</translation>
 <translation id="3157842584138209013">Se, hvor meget data du har sparet via knappen Flere valgmuligheder</translation>
 <translation id="8218622182176210845">Administrer din konto</translation>
-<translation id="8090895580117672212">Tryk på knappen "Administrer konto" for at administrere din Gab AI Inc-konto</translation>
-<translation id="8856898588039823173">Lite-side leveret af Gab AI Inc. Tryk for at indlæse originalen.</translation>
-<translation id="8134317863207426198">Lite-side leveret af Gab AI Inc. Tryk på knappen Indlæs original for at indlæse den originale side.</translation>
+<translation id="8090895580117672212">Tryk på knappen "Administrer konto" for at administrere din Fulldive-konto</translation>
+<translation id="8856898588039823173">Lite-side leveret af Fulldive. Tryk for at indlæse originalen.</translation>
+<translation id="8134317863207426198">Lite-side leveret af Fulldive. Tryk på knappen Indlæs original for at indlæse den originale side.</translation>
 <translation id="4961107849584082341">Oversæt denne side til et hvilket som helst sprog</translation>
 <translation id="569536719314091526">Oversæt denne side til et hvilket som helst sprog via knappen Flere valgmuligheder</translation>
 <translation id="1397811292916898096">Søg med <ph name="PRODUCT_NAME"/></translation>
@@ -1079,11 +1079,11 @@ Det er kun dig, der kan se, hvad kameraet ser. Websitet kan ikke se kameraets bi
 <translation id="5805364706385912897">Denne side anvender for meget hukommelse, så Fulldive har sat den på pause.</translation>
 <translation id="5138664332909611586">Denne side anvender for meget hukommelse, så Fulldive har fjernet noget indhold.</translation>
 <translation id="9137013805542155359">Vis oprindelig</translation>
-<translation id="6361779936989026201">Gab AI Inc Assistent i Fulldive</translation>
+<translation id="6361779936989026201">Fulldive Assistent i Fulldive</translation>
 <translation id="7291387454912369099">Betaling udløst af Assistent</translation>
-<translation id="9037412730408024068">For at hjælpe dig med at udføre opgaver modtager Gab AI Inc webadresser for og indhold på websites, hvor du bruger Assistent, samt oplysninger du indsender via Assistent</translation>
+<translation id="9037412730408024068">For at hjælpe dig med at udføre opgaver modtager Fulldive webadresser for og indhold på websites, hvor du bruger Assistent, samt oplysninger du indsender via Assistent</translation>
 <translation id="4565206163201411670">Vil du se din Fulldive-aktivitet i Digital balance?</translation>
-<translation id="9055113864158719823">Du kan se websites, du har besøgt i Fulldive, og indstille timere for dem.\n\nGab AI Inc får oplysninger om de websites, du indstiller timere for, og hvor længe du er på dem. Disse oplysninger bruges til at forbedre Digital balance.</translation>
+<translation id="9055113864158719823">Du kan se websites, du har besøgt i Fulldive, og indstille timere for dem.\n\nFulldive får oplysninger om de websites, du indstiller timere for, og hvor længe du er på dem. Disse oplysninger bruges til at forbedre Digital balance.</translation>
 <translation id="4596514158372210596">Fjern din Fulldive-aktivitet fra Digital balance</translation>
 <translation id="1174893863889683998">Vil du fjerne din Fulldive-aktivitet fra Digital balance?</translation>
 <translation id="708829030563435351">Websites, du besøger i Fulldive, vises ikke. Alle timere for websites slettes.</translation>
@@ -1111,7 +1111,7 @@ Det er kun dig, der kan se, hvad kameraet ser. Websitet kan ikke se kameraets bi
 <translation id="7173114856073700355">Åbn Indstillinger</translation>
 <translation id="1311657260431405215">Denne QR-kode er ikke en webadresse: <ph name="QRCODEVALUE"/></translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
-<translation id="7339921667754113786">Gab AI Inc Notifications Platform</translation>
+<translation id="7339921667754113786">Fulldive Notifications Platform</translation>
 <translation id="8516012719330875537">Billedredigering</translation>
 <translation id="8926666909099850184">NFC er deaktiveret for denne enhed. Aktivér funktionen i <ph name="BEGIN_LINK"/>Android-indstillingerne<ph name="END_LINK"/>.</translation>
 <translation id="4808319664292298116">Vil du starte VR fra <ph name="DOMAIN"/>?</translation>

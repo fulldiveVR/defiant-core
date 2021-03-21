@@ -31,7 +31,7 @@
 <translation id="6710213216561001401">Önceki</translation>
 <translation id="1201402288615127009">Sonraki</translation>
 <translation id="2824775600643448204">Adres ve arama çubuğu</translation>
-<translation id="5713644099811900409">Gab AI Inc Hesabı</translation>
+<translation id="5713644099811900409">Fulldive Hesabı</translation>
 <translation id="5851548754964597211">Sekme listesi</translation>
 <translation id="2495083838625180221">JSON Ayrıştırıcı</translation>
 <translation id="3157931365184549694">Geri yükle</translation>
@@ -150,7 +150,7 @@ other {Bu kartlar şu anda kaydedilemiyor}}</translation>
 <translation id="6386821459680628976">Kredi kartı Fulldive'den kaldırılsın mı?</translation>
 <translation id="8385639954311581596">Adres Fulldive'den kaldırılsın mı?</translation>
 <translation id="4148925816941278100">American Express</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="6241121617266208201">Önerileri gizle</translation>
 <translation id="3655851112780233803">Yönet...</translation>
 <translation id="2709516037105925701">Otomatik doldurma</translation>
@@ -343,8 +343,8 @@ other {Bu kartlar şu anda kaydedilemiyor}}</translation>
 <translation id="6910240653697687763"><ph name="URL"/>, MIDI cihazlarınız üzerinde tam denetim istiyor</translation>
 <translation id="503498442187459473"><ph name="HOST"/> kameranızı ve mikrofonunuzu kullanmak istiyor</translation>
 <translation id="8282947398454257691">Benzersiz cihaz tanımlayıcınızı bilme</translation>
-<translation id="8329449853370113380"><ph name="URL"/>, korumalı içeriği oynatmak istiyor. Cihazınızın kimliği Gab AI Inc tarafından doğrulanacak.</translation>
-<translation id="2650609753175229582"><ph name="URL"/>, korunan içeriği oynatmak istiyor. Cihazınızın kimliği Gab AI Inc tarafından doğrulanır ve bu site tarafından erişilebilir.</translation>
+<translation id="8329449853370113380"><ph name="URL"/>, korumalı içeriği oynatmak istiyor. Cihazınızın kimliği Fulldive tarafından doğrulanacak.</translation>
+<translation id="2650609753175229582"><ph name="URL"/>, korunan içeriği oynatmak istiyor. Cihazınızın kimliği Fulldive tarafından doğrulanır ve bu site tarafından erişilebilir.</translation>
 <translation id="3016780570757425217">Konumunuzu bilme</translation>
 <translation id="7221855153210829124">Bildirimleri gösterme</translation>
 <translation id="8606726445206553943">MIDI cihazlarınızı kullanma</translation>

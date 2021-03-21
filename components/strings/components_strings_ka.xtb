@@ -25,7 +25,7 @@
 <translation id="4881695831933465202">გახსნა</translation>
 <translation id="6710213216561001401">წინა</translation>
 <translation id="1201402288615127009">შემდეგი</translation>
-<translation id="5713644099811900409">Gab AI Inc ანგარიში</translation>
+<translation id="5713644099811900409">Fulldive ანგარიში</translation>
 <translation id="3157931365184549694">აღდგენა</translation>
 <translation id="5040262127954254034">კონფიდენციალურობა</translation>
 <translation id="2359808026110333948">გაგრძელება</translation>
@@ -40,7 +40,7 @@
 <translation id="1581080074034554886">CVC</translation>
 <translation id="9065203028668620118">რედაქტირება</translation>
 <translation id="5029568752722684782">ასლის გასუფთავება</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="2709516037105925701">ავტომატური შევსება</translation>
 <translation id="370665806235115550">იტვირთება…</translation>
 <translation id="6945221475159498467">არჩევა</translation>
@@ -199,8 +199,8 @@
 <translation id="6910240653697687763"><ph name="URL"/> ითხოვს თქვენი MIDI მოწყობილობების სრულად გაკონტროლების ნებართვას</translation>
 <translation id="503498442187459473"><ph name="HOST"/> ითხოვს თქვენი კამერისა და მიკროფონის გამოყენების ნებართვას</translation>
 <translation id="8282947398454257691">თქვენი მოწყობილობის უნიკალური იდენტიფიკატორის ცოდნა</translation>
-<translation id="8329449853370113380"><ph name="URL"/> ითხოვს დაცული კონტენტის დაკვრას. თქვენი მოწყობილობის იდენტობა შემოწმდება Gab AI Inc-ის მიერ.</translation>
-<translation id="2650609753175229582"><ph name="URL"/> ითხოვს დაცული კონტენტის დაკვრას. Gab AI Inc განახორციელებს თქვენი მოწყობილობის იდენტიფიკაციას, ხოლო ამ ინფორმაციაზე წვდომა შეიძლება ჰქონდეს ამ საიტსაც.</translation>
+<translation id="8329449853370113380"><ph name="URL"/> ითხოვს დაცული კონტენტის დაკვრას. თქვენი მოწყობილობის იდენტობა შემოწმდება Fulldive-ის მიერ.</translation>
+<translation id="2650609753175229582"><ph name="URL"/> ითხოვს დაცული კონტენტის დაკვრას. Fulldive განახორციელებს თქვენი მოწყობილობის იდენტიფიკაციას, ხოლო ამ ინფორმაციაზე წვდომა შეიძლება ჰქონდეს ამ საიტსაც.</translation>
 <translation id="3016780570757425217">თქვენი მდებარეობის ცოდნა</translation>
 <translation id="7221855153210829124">შეტყობინებების ჩვენება</translation>
 <translation id="8606726445206553943">თქვენი MIDI მოწყობილობების გამოყენება</translation>

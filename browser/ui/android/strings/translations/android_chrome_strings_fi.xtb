@@ -23,31 +23,31 @@
 <translation id="3749259744154402564">Ei tuettu</translation>
 <translation id="629730747756840877">Tili</translation>
 <translation id="82609232232243542">Kirjaudu Fulldiveen</translation>
-<translation id="7956662517480676674">Synkronointi ja Gab AI Inc-palvelut</translation>
-<translation id="5294439808117722387">Yksilöit parhaillaan synkronoinnin ja Gab AI Inc-palvelujen asetuksia. Viimeistele synkronoinnin käyttöönotto napauttamalla näytön alaosasta Vahvista-painiketta. Siirry ylös</translation>
+<translation id="7956662517480676674">Synkronointi ja Fulldive-palvelut</translation>
+<translation id="5294439808117722387">Yksilöit parhaillaan synkronoinnin ja Fulldive-palvelujen asetuksia. Viimeistele synkronoinnin käyttöönotto napauttamalla näytön alaosasta Vahvista-painiketta. Siirry ylös</translation>
 <translation id="2096012225669085171">Synkronoi ja yksilöi kaikilla laitteilla</translation>
 <translation id="1692118695553449118">Synkronointi on käytössä.</translation>
 <translation id="5514904542973294328">Laitteen järjestelmänvalvojan estämä</translation>
-<translation id="6447211988989208781">Gab AI Inc-toimintojen hallinta</translation>
+<translation id="6447211988989208781">Fulldive-toimintojen hallinta</translation>
 <translation id="4882831918239250449">Määritä, miten selaushistoria personoi hakua, mainoksia ja muita</translation>
 <translation id="7431991332293347422">Määritä, miten selaushistoria personoi Hakua ja muita</translation>
 <translation id="6303969859164067831">Kirjaudu ulos ja poista synkronointi käytöstä</translation>
-<translation id="1125261911132334651">Ylläpidä Gab AI Inc-tiliäsi</translation>
+<translation id="1125261911132334651">Ylläpidä Fulldive-tiliäsi</translation>
 <translation id="6406506848690869874">Synkronointi</translation>
 <translation id="714362445477979774">Fulldive-datan synkronointi</translation>
 <translation id="4314815835985389558">Synkronointiasetusten muokkaus</translation>
-<translation id="5428209950370661546">Muut Gab AI Inc-palvelut</translation>
+<translation id="5428209950370661546">Muut Fulldive-palvelut</translation>
 <translation id="7704317875155739195">Täydennä automaattisesti hakuja ja URL-osoitteita</translation>
 <translation id="2000419248597011803">Lähettää joitakin osoitekentän ja hakukentän kautta tehtyjä hakuja sekä joitakin evästeitä oletushakukoneellesi</translation>
 <translation id="7981313251711023384">Esilataa sivuja nopeuttaaksesi lataamista ja hakemista</translation>
 <translation id="1821253160463689938">Käyttää evästeitä asetustesi muistamiseen, vaikka et kävisi kyseisillä sivuilla</translation>
 <translation id="6697492270171225480">Näytä ehdotuksia samankaltaisista sivuista, kun sivua ei löydy</translation>
-<translation id="8109318360573330108">Lähettää Gab AI Inclle etsimäsi sivun URL-osoitteen</translation>
+<translation id="8109318360573330108">Lähettää Fulldivelle etsimäsi sivun URL-osoitteen</translation>
 <translation id="8438566539970814960">Paranna hakuja ja selausta</translation>
-<translation id="284843628681142937">Lähettää avaamiesi sivujen URL-osoitteet Gab AI Inclle</translation>
-<translation id="7222718784508482526">Näet lisää yksityisyyteen, tietoturvaan ja datankeruuseen liittyviä asetuksia <ph name="BEGIN_LINK"/>Synkronointi ja Gab AI Inc-palvelut<ph name="END_LINK"/> ‑kohdassa.</translation>
+<translation id="284843628681142937">Lähettää avaamiesi sivujen URL-osoitteet Fulldivelle</translation>
+<translation id="7222718784508482526">Näet lisää yksityisyyteen, tietoturvaan ja datankeruuseen liittyviä asetuksia <ph name="BEGIN_LINK"/>Synkronointi ja Fulldive-palvelut<ph name="END_LINK"/> ‑kohdassa.</translation>
 <translation id="918192811481327695">Auta parantamaan Fulldiven ominaisuuksia ja suorituskykyä</translation>
-<translation id="9063160602596686558">Lähettää automaattisesti käyttötilastoja ja virheraportteja Gab AI Inclle</translation>
+<translation id="9063160602596686558">Lähettää automaattisesti käyttötilastoja ja virheraportteja Fulldivelle</translation>
 <translation id="4824958205181053313">Peruutetaanko synkronointi?</translation>
 <translation id="3058498974290601450">Voit ottaa synkronoinnin käyttöön milloin tahansa asetuksista.</translation>
 <translation id="3143515551205905069">Peruuta synkronointi</translation>
@@ -86,9 +86,9 @@
 <translation id="2100273922101894616">Automaattinen kirjautuminen</translation>
 <translation id="363596933471559332">Kirjaudu automaattisesti verkkosivustoille käyttämällä tallennettuja kirjautumistietoja. Jos tämä toiminto ei ole käytössä, sinua pyydetään vahvistamaan kirjautuminen aina, kun kirjaudut sivustolle.</translation>
 <translation id="6995899638241819463">Varoita, jos salasanoja vaarantuu tietosuojaloukkauksessa</translation>
-<translation id="1534287762301776620">Tämä ominaisuus otetaan käyttöön, kun kirjaudut Gab AI Inc-tilillesi</translation>
+<translation id="1534287762301776620">Tämä ominaisuus otetaan käyttöön, kun kirjaudut Fulldive-tilillesi</translation>
 <translation id="10614374240317010">Ei tallenneta</translation>
-<translation id="3098842761938485917">Katso ja ylläpidä <ph name="BEGIN_LINK"/>Gab AI Inc-tilille<ph name="END_LINK"/> tallennettuja salasanoja</translation>
+<translation id="3098842761938485917">Katso ja ylläpidä <ph name="BEGIN_LINK"/>Fulldive-tilille<ph name="END_LINK"/> tallennettuja salasanoja</translation>
 <translation id="8988028529677883095">Käytä puhelinta suojausavaimena</translation>
 <translation id="8562452229998620586">Tässä näytetään tallennetut salasanasi.</translation>
 <translation id="1303339473099049190">Tätä salasanaa ei löydy. Tarkista oikeinkirjoitus ja yritä uudelleen.</translation>
@@ -116,7 +116,7 @@
 <translation id="6914783257214138813">Salasanasi näkyvät kaikille, jotka näkevät viedyn tiedoston.</translation>
 <translation id="2321086116217818302">Valmistellaan salasanoja…</translation>
 <translation id="8445448999790540984">Salasanojen vienti epäonnistui</translation>
-<translation id="5139940364318403933">Ohjeet Gab AI Inc Driven käyttöön</translation>
+<translation id="5139940364318403933">Ohjeet Fulldive Driven käyttöön</translation>
 <translation id="729975465115245577">Laitteella ei ole sovellusta, johon salasanatiedoston voisi tallentaa.</translation>
 <translation id="7682724950699840886">Kokeile seuraavia keinoja: varmista, että laitteellasi on tarpeeksi tilaa, yritä viedä uudelleen.</translation>
 <translation id="1129510026454351943">Tiedot: <ph name="ERROR_DESCRIPTION"/></translation>
@@ -140,17 +140,17 @@
 <translation id="6381421346744604172">Tummenna sivustot</translation>
 <translation id="5040262127954254034">Tietosuoja</translation>
 <translation id="4991384657077828949">Auta parantamaan Fulldiven suojausta</translation>
-<translation id="1943176487615318915">Vaarallisia sovelluksia ja sivustoja löytääkseen Fulldive lähettää joidenkin avattujen sivujen URL-osoitteita, rajallisia järjestelmätietoja ja osia sivujen sisällöstä Gab AI Inclle</translation>
+<translation id="1943176487615318915">Vaarallisia sovelluksia ja sivustoja löytääkseen Fulldive lähettää joidenkin avattujen sivujen URL-osoitteita, rajallisia järjestelmätietoja ja osia sivujen sisällöstä Fulldivelle</translation>
 <translation id="3201899458094819285">Selaussuoja (suojaa sinua ja laitettasi vaarallisilta sivustoilta)</translation>
-<translation id="2876369937070532032">Lähettää joidenkin avattujen sivujen URL-osoitteet Gab AI Inclle, kun turvallisuutesi on vaarassa</translation>
+<translation id="2876369937070532032">Lähettää joidenkin avattujen sivujen URL-osoitteet Fulldivelle, kun turvallisuutesi on vaarassa</translation>
 <translation id="3738139272394829648">Koskettamalla hakeminen</translation>
-<translation id="4749189475009528195">Tutustu verkkosivuston aiheisiin poistumatta sivulta. Koskettamalla hakeminen lähettää sanan ja sen asiayhteyden Gab AI Inc Hakuun ja palauttaa määritelmiä, kuvia, hakutuloksia ja muita tietoja.
+<translation id="4749189475009528195">Tutustu verkkosivuston aiheisiin poistumatta sivulta. Koskettamalla hakeminen lähettää sanan ja sen asiayhteyden Fulldive Hakuun ja palauttaa määritelmiä, kuvia, hakutuloksia ja muita tietoja.
 
 Hae napauttamalla sanaa. Jos haluat tarkentaa hakuasi, valitse enemmän tai vähemmän sanoja koskettamalla pitkään. Jos haluat muokata hakua, avaa paneeli, avaa uusi välilehti koskettamalla kuvaketta ja tee muutokset hakukentässä.</translation>
-<translation id="934250516944040460">Tutustu verkkosivuston aiheisiin poistumatta sivulta. Koskettamalla hakeminen lähettää sanan ja sen asiayhteyden Gab AI Inc Hakuun ja palauttaa määritelmiä, kuvia, hakutuloksia ja muita tietoja.
+<translation id="934250516944040460">Tutustu verkkosivuston aiheisiin poistumatta sivulta. Koskettamalla hakeminen lähettää sanan ja sen asiayhteyden Fulldive Hakuun ja palauttaa määritelmiä, kuvia, hakutuloksia ja muita tietoja.
 
 Hae sanaa koskettamalla sitä pitkään. Jos haluat tarkentaa hakuasi, valitse enemmän tai vähemmän sanoja. Jos haluat muokata hakua, avaa paneeli, avaa uusi välilehti koskettamalla kuvaketta ja tee muutokset hakukentässä.</translation>
-<translation id="6209156474097347789">Koskettamalla hakeminen lähettää valitun sanan ja nykyisen sivun Gab AI Inc-haulle haun kontekstina. Voit poistaa ominaisuuden käytöstä <ph name="BEGIN_LINK"/>asetuksissa<ph name="END_LINK"/>.</translation>
+<translation id="6209156474097347789">Koskettamalla hakeminen lähettää valitun sanan ja nykyisen sivun Fulldive-haulle haun kontekstina. Voit poistaa ominaisuuden käytöstä <ph name="BEGIN_LINK"/>asetuksissa<ph name="END_LINK"/>.</translation>
 <translation id="5039804452771397117">Salli</translation>
 <translation id="780301667611848630">Ei kiitos</translation>
 <translation id="1406000523432664303">Do Not Track</translation>
@@ -163,15 +163,15 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="7814200940910057384">Fulldive-tiedot tyhjennetty</translation>
 <translation id="1664855196866195614">Valitut tiedot on poistettu Fulldivesta ja synkronoiduilta laitteilta.
 
-Gab AI Inc-tililläsi voi olla muita selaushistoriatietoja, kuten hakuja ja toimintaa muista Gab AI Inc-palveluista. Voit katsella tietoja osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+Fulldive-tililläsi voi olla muita selaushistoriatietoja, kuten hakuja ja toimintaa muista Fulldive-palveluista. Voit katsella tietoja osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="4699172675775169585">Välimuistissa olevat kuvat ja tiedostot</translation>
 <translation id="2496180316473517155">Selaushistoria</translation>
 <translation id="2546283357679194313">Evästeet ja sivustotiedot</translation>
 <translation id="8662811608048051533">Kirjaa sinut ulos useimmilta sivustoilta.</translation>
-<translation id="8218628800671693884">Tämä kirjaa sinut ulos useimmilta sivustoilta. Sinua ei kirjata ulos Gab AI Inc-tililtäsi.</translation>
+<translation id="8218628800671693884">Tämä kirjaa sinut ulos useimmilta sivustoilta. Sinua ei kirjata ulos Fulldive-tililtäsi.</translation>
 <translation id="2017836877785168846">Tyhjentää historian ja osoitepalkin automaattiset täydennykset.</translation>
-<translation id="8096327394278038498">Tyhjentää historian ja osoitekentän automaattiset täydennykset. Gab AI Inc-tililläsi voi olla muita selaushistoriatietoja osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Tyhjentää kaikkien sisäänkirjautuneiden laitteiden historian. Gab AI Inc-tililläsi voi olla muuta toimintaa osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Tyhjentää historian ja osoitekentän automaattiset täydennykset. Fulldive-tililläsi voi olla muita selaushistoriatietoja osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Tyhjentää kaikkien sisäänkirjautuneiden laitteiden historian. Fulldive-tililläsi voi olla muuta toimintaa osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="5869522115854928033">Tallennetut salasanat</translation>
 <translation id="6865313869410766144">Automaattisesti täydennetyt lomaketiedot</translation>
 <translation id="7562080006725997899">Selaustietoja poistetaan</translation>
@@ -188,7 +188,7 @@ Gab AI Inc-tililläsi voi olla muita selaushistoriatietoja, kuten hakuja ja toim
 <translation id="6643016212128521049">Tyhjennä</translation>
 <translation id="7641339528570811325">Poista selaustiedot…</translation>
 <translation id="1670399744444387456">Perusvaihtoehdot</translation>
-<translation id="3245261285041759672">Gab AI Inc-tililläsi voi olla muita selaushistoriatietoja osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="3245261285041759672">Fulldive-tililläsi voi olla muita selaushistoriatietoja osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7274013316676448362">Estetty sivusto</translation>
 <translation id="2534155362429831547"><ph name="NUMBER_OF_ITEMS"/> kohdetta poistettu</translation>
 <translation id="6981982820502123353">Esteettömyys</translation>
@@ -358,13 +358,13 @@ Gab AI Inc-tililläsi voi olla muita selaushistoriatietoja, kuten hakuja ja toim
 <translation id="3658159451045945436">Nollaaminen tyhjentää datansäästöhistoriasi, mukaan lukien luettelon paikoista, joissa olet käynyt.</translation>
 <translation id="5939518447894949180">Tyhjennä</translation>
 <translation id="3295530008794733555">Selaa nettiä nopeammin. Käytä vähemmän dataa.</translation>
-<translation id="7340390500800578919">Yksinkertaistetussa tilassa Fulldive lataa sivuja nopeammin ja käyttää jopa 60 % vähemmän dataa. Fulldive lähettää verkkoliikenteesi tietoja Gab AI Inclle avaamiesi sivujen optimoimiseksi. <ph name="BEGIN_LINK"/>Lue lisää<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">Yksinkertaistetussa tilassa Fulldive lataa sivuja nopeammin ja käyttää jopa 60 % vähemmän dataa. Fulldive lähettää verkkoliikenteesi tietoja Fulldivelle avaamiesi sivujen optimoimiseksi. <ph name="BEGIN_LINK"/>Lue lisää<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Ota yksinkertaistettu tila käyttöön</translation>
 <translation id="4493497663118223949">Yksinkertaistettu tila on käytössä</translation>
 <translation id="7559975015014302720">Yksinkertaistettu tila on poissa käytöstä</translation>
 <translation id="7606077192958116810">Yksinkertaistettu tila on käytössä. Ylläpidä sitä asetuksissa.</translation>
 <translation id="4714588616299687897">Käytä jopa 60 % vähemmän dataa</translation>
-<translation id="1006927014032731288">Gab AI Incn palvelimet optimoivat sivut, joilla käyt.</translation>
+<translation id="1006927014032731288">Fulldiven palvelimet optimoivat sivut, joilla käyt.</translation>
 <translation id="3257320067425202300">Fulldive on säästänyt <ph name="MEGABYTES"/> Mt tilaa</translation>
 <translation id="5813223329348543512">Fulldive on säästänyt <ph name="GIGABYTES"/> Gt tilaa</translation>
 <translation id="8266862848225348053">Lataussijainti</translation>
@@ -393,13 +393,13 @@ Gab AI Inc-tililläsi voi olla muita selaushistoriatietoja, kuten hakuja ja toim
 <translation id="3334729583274622784">Vaihdetaanko tiedostotunniste?</translation>
 <translation id="107147699690128016">Jos vaihdat tiedostotunnisteen, tiedosto voi avautua eri sovelluksessa ja mahdollisesti vahingoittaa laitetta.</translation>
 <translation id="8541922081612557424">Tietoja Fulldivesta</translation>
-<translation id="5311273890481188673">Copyright <ph name="YEAR"/> Gab AI Inc LLC. Kaikki oikeudet pidätetään.</translation>
+<translation id="5311273890481188673">Copyright <ph name="YEAR"/> Fulldive LLC. Kaikki oikeudet pidätetään.</translation>
 <translation id="1416550906796893042">Sovellusversio</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (päivitettiin <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Käyttöjärjestelmä</translation>
 <translation id="3968054912784331254">Fulldive-päivityksiä ei enää tueta tässä Android-versiossa.</translation>
 <translation id="7665369617277396874">Lisää tili</translation>
-<translation id="649070405679044769">Olet kirjautunut Gab AI Incen käyttäjänä</translation>
+<translation id="649070405679044769">Olet kirjautunut Fulldiveen käyttäjänä</translation>
 <translation id="6234515504547364178">Uloskirjautuminen Fulldivesta</translation>
 <translation id="5324858694974489420">Vanhempien asetukset</translation>
 <translation id="8920114477895755567">Odotetaan vanhempien tietoja.</translation>
@@ -419,19 +419,19 @@ Gab AI Inc-tililläsi voi olla muita selaushistoriatietoja, kuten hakuja ja toim
 <translation id="4062305924942672200">Oikeudelliset tiedot</translation>
 <translation id="4256782883801055595">Avoimen lähdekoodin käyttöluvat</translation>
 <translation id="1138681184697033370">Fulldiven käyttöehdot</translation>
-<translation id="2368444735104192323">Gab AI Inc Fulldiven ja Fulldive-käyttöjärjestelmän lisäkäyttöehdot</translation>
+<translation id="2368444735104192323">Fulldive Fulldiven ja Fulldive-käyttöjärjestelmän lisäkäyttöehdot</translation>
 <translation id="7392539049993970338">Fulldiven tietosuojailmoitus</translation>
 <translation id="2968755619301702150">Varmennetiedot</translation>
 <translation id="1360432990279830238">Kirjaudu ulos ja lopeta synkronointi?</translation>
 <translation id="8581481290581777242">Poistetaanko Fulldive-data tältä laitteelta?</translation>
-<translation id="1318865768845061710">Kirjanmerkkejä, historiaa, salasanoja tai muuta Fulldive-dataa ei enää synkronoida Gab AI Inc-tilille.</translation>
+<translation id="1318865768845061710">Kirjanmerkkejä, historiaa, salasanoja tai muuta Fulldive-dataa ei enää synkronoida Fulldive-tilille.</translation>
 <translation id="3325020657155065477">Poistetaanko Fulldive-data tältä laitteelta?</translation>
-<translation id="6136448902816743006">Koska olet kirjautumassa ulos tililtä, jota <ph name="DOMAIN_NAME"/> ylläpitää, Fulldive-datasi poistetaan tältä laitteelta. Se pysyy Gab AI Inc-tililläsi.</translation>
-<translation id="1853026300647876496">Otetaan yhteyttä Gab AI Incen. Tämä voi kestää hetken…</translation>
+<translation id="6136448902816743006">Koska olet kirjautumassa ulos tililtä, jota <ph name="DOMAIN_NAME"/> ylläpitää, Fulldive-datasi poistetaan tältä laitteelta. Se pysyy Fulldive-tililläsi.</translation>
+<translation id="1853026300647876496">Otetaan yhteyttä Fulldiveen. Tämä voi kestää hetken…</translation>
 <translation id="2328985652426384049">Kirjautuminen epäonnistui</translation>
-<translation id="7723158744459952869">Gab AI Inc ei vastannut riittävän nopeasti.</translation>
+<translation id="7723158744459952869">Fulldive ei vastannut riittävän nopeasti.</translation>
 <translation id="4572422548854449519">Kirjaudu hallinnoidulle tilille</translation>
-<translation id="2689656545739939160">Olet kirjautumassa sisään verkkotunnuksen <ph name="MANAGED_DOMAIN"/> hallinnoimalla tilillä ja antamassa sen järjestelmänvalvojalle oikeuden hallita Fulldive-tietojasi. Tietosi liitetään pysyvästi tähän tiliin. Fulldivesta uloskirjautuminen poistaa tietosi tältä laitteelta, mutta ne säilyvät Gab AI Inc-tililläsi.</translation>
+<translation id="2689656545739939160">Olet kirjautumassa sisään verkkotunnuksen <ph name="MANAGED_DOMAIN"/> hallinnoimalla tilillä ja antamassa sen järjestelmänvalvojalle oikeuden hallita Fulldive-tietojasi. Tietosi liitetään pysyvästi tähän tiliin. Fulldivesta uloskirjautuminen poistaa tietosi tältä laitteelta, mutta ne säilyvät Fulldive-tililläsi.</translation>
 <translation id="1749561566933687563">Synkronoi kirjanmerkit</translation>
 <translation id="4242533952199664413">Avaa asetukset</translation>
 <translation id="1111673857033749125">Muilla laitteilla tallentamasi kirjanmerkit näytetään täällä.</translation>
@@ -445,21 +445,21 @@ Gab AI Inc-tililläsi voi olla muita selaushistoriatietoja, kuten hakuja ja toim
 <translation id="8820817407110198400">Kirjanmerkit</translation>
 <translation id="1644574205037202324">Historia</translation>
 <translation id="17513872634828108">Avoimet välilehdet</translation>
-<translation id="1320169905922104972">Luottokortit ja osoitteet Gab AI Inc Paysta</translation>
+<translation id="1320169905922104972">Luottokortit ja osoitteet Fulldive Paysta</translation>
 <translation id="6337234675334993532">Salaus</translation>
 <translation id="6698801883190606802">Hallinnoi synkronoituja tietoja</translation>
-<translation id="3598578758776312506">Salaa salasanat Gab AI Inc-kirjautumistiedoilla</translation>
-<translation id="7810580217418711046">Salaa synkronoitu data Gab AI Inc-salasanalla (<ph name="TIME"/>)</translation>
+<translation id="3598578758776312506">Salaa salasanat Fulldive-kirjautumistiedoilla</translation>
+<translation id="7810580217418711046">Salaa synkronoitu data Fulldive-salasanalla (<ph name="TIME"/>)</translation>
 <translation id="8461694314515752532">Salaa synkronoidut tiedot oman synkronoinnin tunnuslauseesi avulla</translation>
 <translation id="2996291259634659425">Luo tunnuslause</translation>
-<translation id="5713644099811900409">Gab AI Inc-tilisi avulla</translation>
-<translation id="8997474919031554666">Gab AI Inc Payn maksutapoja tai osoitteita ei salata tunnuslauseella. Salattua dataa voidaan lukea vain tunnuslauseesi avulla. Tunnuslausetta ei lähetetä Gab AI Inclle eikä Gab AI Inc tallenna sitä. Jos unohdat tunnuslauseesi tai haluat muokata tätä asetusta, synkronointi täytyy nollata. <ph name="BEGIN_LINK"/>Lisätietoja<ph name="END_LINK"/></translation>
+<translation id="5713644099811900409">Fulldive-tilisi avulla</translation>
+<translation id="8997474919031554666">Fulldive Payn maksutapoja tai osoitteita ei salata tunnuslauseella. Salattua dataa voidaan lukea vain tunnuslauseesi avulla. Tunnuslausetta ei lähetetä Fulldivelle eikä Fulldive tallenna sitä. Jos unohdat tunnuslauseesi tai haluat muokata tätä asetusta, synkronointi täytyy nollata. <ph name="BEGIN_LINK"/>Lisätietoja<ph name="END_LINK"/></translation>
 <translation id="9050666287014529139">Tunnuslause</translation>
 <translation id="7772032839648071052">Vahvista tunnuslause</translation>
 <translation id="5304593522240415983">Kenttä ei voi olla tyhjä.</translation>
 <translation id="321773570071367578">Jos unohdat tunnuslauseesi tai haluat muokata tätä asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name="END_LINK"/>.</translation>
 <translation id="3029704984691124060">Tunnuslauseet eivät vastaa toisiaan.</translation>
-<translation id="5149495116300586333">Gab AI Inc Payn maksutapoja tai osoitteita ei salata tunnuslauseella.
+<translation id="5149495116300586333">Fulldive Payn maksutapoja tai osoitteita ei salata tunnuslauseella.
 
 Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name="END_LINK"/>.</translation>
 <translation id="7638584964844754484">Väärä tunnuslause.</translation>
@@ -575,7 +575,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="6649642165559792194">Esikatsele kuva <ph name="BEGIN_NEW"/>Uusi<ph name="END_NEW"/></translation>
 <translation id="3269093882174072735">Lataa kuva</translation>
 <translation id="6671495933530132209">Kopioi kuva</translation>
-<translation id="3845332215609790146">Hae Gab AI Inc Lensillä <ph name="BEGIN_NEW"/>Uusi<ph name="END_NEW"/></translation>
+<translation id="3845332215609790146">Hae Fulldive Lensillä <ph name="BEGIN_NEW"/>Uusi<ph name="END_NEW"/></translation>
 <translation id="5578795271662203820">Etsi tätä kuvaa palvelusta <ph name="SEARCH_ENGINE"/></translation>
 <translation id="3384347053049321195">Jaa kuva</translation>
 <translation id="5833984609253377421">Jaa linkki</translation>
@@ -584,7 +584,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="7975379999046275268">Esikatsele sivu <ph name="BEGIN_NEW"/>Uusi<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Nopea sivusto</translation>
 <translation id="6112702117600201073">Sivun päivittäminen</translation>
-<translation id="6990079615885386641">Hanki sovellus Gab AI Inc Play Kaupasta: <ph name="APP_ACTION"/></translation>
+<translation id="6990079615885386641">Hanki sovellus Fulldive Play Kaupasta: <ph name="APP_ACTION"/></translation>
 <translation id="2414886740292270097">Tumma</translation>
 <translation id="1807246157184219062">Vaalea</translation>
 <translation id="4056223980640387499">Seepia</translation>
@@ -610,9 +610,9 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="164269334534774161">Katselet sivun offline-kopiota, joka luotiin <ph name="CREATION_TIME"/>.</translation>
 <translation id="4594952190837476234">Offline-sivu vastaa tilannetta <ph name="CREATION_TIME"/> ja saattaa poiketa nykyisestä verkkoversiosta.</translation>
 <translation id="8840953339110955557">Tämä sivu saattaa poiketa verkossa olevasta versiosta.</translation>
-<translation id="6405300764336705484">Gab AI Inc on toimittanut tämän sisällön osoitteesta <ph name="DOMAIN_NAME"/>.</translation>
+<translation id="6405300764336705484">Fulldive on toimittanut tämän sisällön osoitteesta <ph name="DOMAIN_NAME"/>.</translation>
 <translation id="1006017844123154345">Avaa verkkoversio</translation>
-<translation id="3326636747541519688">Gab AI Incn tarjoama yksinkertaistettu sivu</translation>
+<translation id="3326636747541519688">Fulldiven tarjoama yksinkertaistettu sivu</translation>
 <translation id="7149158118503947153"><ph name="BEGIN_LINK"/>Lataa alkuperäinen sivu<ph name="END_LINK"/> osoitteesta <ph name="DOMAIN_NAME"/></translation>
 <translation id="7475192538862203634">Jos näet tämän ilmoituksen usein, kokeile näitä <ph name="BEGIN_LINK"/>ehdotuksia<ph name="END_LINK"/>.</translation>
 <translation id="8748850008226585750">Sisältö piilotettu</translation>
@@ -711,18 +711,18 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="3244271242291266297">KK</translation>
 <translation id="605721222689873409">VV</translation>
 <translation id="724102042129299115">Fulldiven ensimmäinen käyttökerta</translation>
-<translation id="7766792282581704663">Käyttämällä Fulldivea hyväksyt <ph name="BEGIN_LINK1"/>Gab AI Incn käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Fulldiven ja Fulldive-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Käyttämällä Fulldivea hyväksyt <ph name="BEGIN_LINK1"/>Gab AI Incn käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Fulldiven ja Fulldive-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>. Myös <ph name="BEGIN_LINK3"/>Family Linkillä ylläpidettyjen Gab AI Inc-tilien tietosuojailmoitusta<ph name="END_LINK3"/> sovelletaan.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> avautuu Fulldivessa. Jatkamalla hyväksyt <ph name="BEGIN_LINK1"/>Gab AI Incn käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Fulldiven ja Fulldive-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> avautuu Fulldivessa. Jatkamalla hyväksyt <ph name="BEGIN_LINK1"/>Gab AI Incn käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Fulldiven ja Fulldive-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>. Myös <ph name="BEGIN_LINK3"/>Family Linkillä ylläpidettyjen Gab AI Inc-tilien tietosuojailmoitusta<ph name="END_LINK3"/> sovelletaan.</translation>
-<translation id="673197144963363525">Auta parantamaan Fulldivea lähettämällä käyttötilastoja ja virheraportteja Gab AI Inclle.</translation>
+<translation id="7766792282581704663">Käyttämällä Fulldivea hyväksyt <ph name="BEGIN_LINK1"/>Fulldiven käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Fulldiven ja Fulldive-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Käyttämällä Fulldivea hyväksyt <ph name="BEGIN_LINK1"/>Fulldiven käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Fulldiven ja Fulldive-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>. Myös <ph name="BEGIN_LINK3"/>Family Linkillä ylläpidettyjen Fulldive-tilien tietosuojailmoitusta<ph name="END_LINK3"/> sovelletaan.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> avautuu Fulldivessa. Jatkamalla hyväksyt <ph name="BEGIN_LINK1"/>Fulldiven käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Fulldiven ja Fulldive-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> avautuu Fulldivessa. Jatkamalla hyväksyt <ph name="BEGIN_LINK1"/>Fulldiven käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Fulldiven ja Fulldive-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>. Myös <ph name="BEGIN_LINK3"/>Family Linkillä ylläpidettyjen Fulldive-tilien tietosuojailmoitusta<ph name="END_LINK3"/> sovelletaan.</translation>
+<translation id="673197144963363525">Auta parantamaan Fulldivea lähettämällä käyttötilastoja ja virheraportteja Fulldivelle.</translation>
 <translation id="3518985090088779359">Hyväksy ja jatka</translation>
 <translation id="7207456302801184289">Tervetuloa Fulldiveen</translation>
-<translation id="7189372733857464326">Odotetaan Gab AI Inc Play Palveluiden päivittymistä</translation>
+<translation id="7189372733857464326">Odotetaan Fulldive Play Palveluiden päivittymistä</translation>
 <translation id="1231733316453485619">Otetaanko synkronointi käyttöön?</translation>
 <translation id="5132942445612118989">Synkronoi salasanasi, historiasi ja paljon muuta kaikilla laitteilla</translation>
-<translation id="5736731321935944068">Gab AI Inc voi muokata Hakua, mainoksia ja muita Gab AI Incn palveluita historiasi perusteella</translation>
-<translation id="4013614219085422040">Gab AI Inc voi muokata Hakua ja muita Gab AI Incn palveluita historiasi perusteella</translation>
+<translation id="5736731321935944068">Fulldive voi muokata Hakua, mainoksia ja muita Fulldiven palveluita historiasi perusteella</translation>
+<translation id="4013614219085422040">Fulldive voi muokata Hakua ja muita Fulldiven palveluita historiasi perusteella</translation>
 <translation id="5581519193887989363">Voit valita synkronoitavan sisällön <ph name="BEGIN_LINK1"/>asetuksissa<ph name="END_LINK1"/>.</translation>
 <translation id="741204030948306876">Kyllä</translation>
 <translation id="2410754283952462441">Valitse tili</translation>
@@ -730,8 +730,8 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="6210748933810148297">Etkö ole <ph name="EMAIL"/>?</translation>
 <translation id="8109613176066109935">Ota synkronointi käyttöön, niin voit käyttää kirjanmerkkejä kaikilla laitteillasi</translation>
 <translation id="2818669890320396765">Kirjaudu sisään ja ota synkronointi käyttöön, niin voit käyttää kirjanmerkkejäsi kaikilla laitteilla</translation>
-<translation id="6003646045106347985">Ota synkronointi käyttöön, niin näet Gab AI Incn suosittelemaa yksilöllistä sisältöä</translation>
-<translation id="8494430740943879273">Kirjaudu sisään ja ota synkronointi käyttöön, niin näet Gab AI Incn suosittelemaa yksilöllistä sisältöä</translation>
+<translation id="6003646045106347985">Ota synkronointi käyttöön, niin näet Fulldiven suosittelemaa yksilöllistä sisältöä</translation>
+<translation id="8494430740943879273">Kirjaudu sisään ja ota synkronointi käyttöön, niin näet Fulldiven suosittelemaa yksilöllistä sisältöä</translation>
 <translation id="5862731021271217234">Ota synkronointi käyttöön, niin voit käyttää välilehtiä muilta laitteiltasi</translation>
 <translation id="3568688522516854065">Kirjaudu sisään ja ota synkronointi käyttöön, niin voit käyttää välilehtiä muilta laitteiltasi</translation>
 <translation id="1208340532756947324">Ota synkronointi käyttöön, niin sisältö synkronoidaan ja yksilöidään eri laitteilla</translation>
@@ -751,7 +751,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="5423934151118863508">Käydyimmät sivusi näkyvät täällä</translation>
 <translation id="6127379762771434464">Kohde poistettu</translation>
 <translation id="4605958867780575332">Kohde poistettiin: <ph name="ITEM_TITLE"/></translation>
-<translation id="1996480094660735607">Gab AI Inc-piirros: <ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">Fulldive-piirros: <ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="7851858861565204677">Muut laitteet</translation>
 <translation id="4738836084190194332">Viimeisin synkronointi: <ph name="WHEN"/></translation>
 <translation id="4583164079174244168">{MINUTES,plural, =1{# minuutti sitten}other{# minuuttia sitten}}</translation>
@@ -778,7 +778,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="1171770572613082465">Katso suositut sivustot napauttamalla Suosituimmat sivustot ‑painiketta</translation>
 <translation id="5233638681132016545">Uusi välilehti</translation>
 <translation id="6336451774241870485">Uusi yksityinen välilehti</translation>
-<translation id="4521874409998847950">Lähde: <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>Gab AI Incn toimittama<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950">Lähde: <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>Fulldiven toimittama<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Uudempi versio on saatavilla.</translation>
 <translation id="4058091506841967397">Fulldivea ei voi päivittää</translation>
 <translation id="6316139424528454185">Android-versiota ei tueta</translation>
@@ -914,7 +914,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="8427875596167638501">Esikatseluvälilehti on puoliksi auki</translation>
 <translation id="9102803872260866941">Esikatseluvälilehti on avattu</translation>
 <translation id="2942036813789421260">Esikatseluvälilehti on suljettu</translation>
-<translation id="6355102470683871794">Tallennustila: Gab AI Inc <ph name="APP_NAME"/></translation>
+<translation id="6355102470683871794">Tallennustila: Fulldive <ph name="APP_NAME"/></translation>
 <translation id="3822502789641063741">Poistetaanko tiedot?</translation>
 <translation id="9205995714227143200">Tallennetut sivustotiedot, joita Fulldive ei pidä tärkeinä (esim. sivustot, joilla ei ole tallennettuja asetuksia tai joilla et käy usein).</translation>
 <translation id="3997476611815694295">Vähemmän tärkeät tiedot</translation>
@@ -955,9 +955,9 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="5489227211564503167">Kulunut aika: <ph name="ELAPSED_TIME"/>/<ph name="TOTAL_TIME"/></translation>
 <translation id="6560414384669816528">Käytä Sogouta</translation>
 <translation id="5406914950576900927">Fulldive voi käyttää <ph name="BEGIN_BOLD"/>Sogouta<ph name="END_BOLD"/> hakujen tekemiseen Kiinassa. Voit muokata tätä <ph name="BEGIN_LINK"/>Asetuksissa<ph name="END_LINK"/>.</translation>
-<translation id="6456271171669383967">Käytä Gab AI Inca</translation>
+<translation id="6456271171669383967">Käytä Fulldivea</translation>
 <translation id="4384468725000734951">Hakukoneena käytetään Sogouta.</translation>
-<translation id="6103327872225198548">Hakukoneena käytetään Gab AI Inca.</translation>
+<translation id="6103327872225198548">Hakukoneena käytetään Fulldivea.</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
 <translation id="919933208285147476">Tämä sovellus on käynnissä Fulldivessa</translation>
 <translation id="6143689084714664628">Käynnissä Fulldivessa</translation>
@@ -989,7 +989,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="123724288017357924">Päivitä nykyinen sivu, ohita välimuistin sisältö</translation>
 <translation id="305870044889644984">Avaa Fulldiven ohjekeskus uudella välilehdellä</translation>
 <translation id="3166827708714933426">Välilehti- ja ikkunapikanäppäimet</translation>
-<translation id="3169981355900570544">Gab AI Inc Fulldiven ominaisuuksien pikanäppäimet</translation>
+<translation id="3169981355900570544">Fulldive Fulldiven ominaisuuksien pikanäppäimet</translation>
 <translation id="4558311620361989323">Verkkosivun pikanäppäimet</translation>
 <translation id="1908301351964700579">Fulldive valmistelee edelleen VR-selainta. Käynnistä Fulldive myöhemmin uudelleen.</translation>
 <translation id="8970887620466824814">Tapahtui virhe.</translation>
@@ -1018,9 +1018,9 @@ Vain sinä voit nähdä, mitä kamera kuvaa. Sivusto ei voi nähdä kamerasi kuv
 <translation id="3341058695485821946">Katso paljonko dataa olet säästänyt</translation>
 <translation id="3157842584138209013">Lisäasetukset-painiketta klikkaamalla voit katsoa, kuinka paljon dataa olet säästänyt.</translation>
 <translation id="8218622182176210845">Ylläpidä tiliäsi</translation>
-<translation id="8090895580117672212">Voit ylläpitää Gab AI Inc-tiliäsi napauttamalla Ylläpidä tiliä ‑painiketta</translation>
-<translation id="8856898588039823173">Gab AI Incn tarjoama yksinkertaistettu sivu. Lataa alkuperäinen napauttamalla.</translation>
-<translation id="8134317863207426198">Gab AI Incn tarjoama yksinkertaistettu sivu. Valitse Lataa alkuperäinen, jos haluat ladata alkuperäisen sivun.</translation>
+<translation id="8090895580117672212">Voit ylläpitää Fulldive-tiliäsi napauttamalla Ylläpidä tiliä ‑painiketta</translation>
+<translation id="8856898588039823173">Fulldiven tarjoama yksinkertaistettu sivu. Lataa alkuperäinen napauttamalla.</translation>
+<translation id="8134317863207426198">Fulldiven tarjoama yksinkertaistettu sivu. Valitse Lataa alkuperäinen, jos haluat ladata alkuperäisen sivun.</translation>
 <translation id="4961107849584082341">Käännä sivu mille tahansa kielelle</translation>
 <translation id="569536719314091526">Käännä sivu mille tahansa kielelle Lisävalinnat-painikkeella</translation>
 <translation id="1397811292916898096">Hae nimellä <ph name="PRODUCT_NAME"/></translation>
@@ -1079,11 +1079,11 @@ Vain sinä voit nähdä, mitä kamera kuvaa. Sivusto ei voi nähdä kamerasi kuv
 <translation id="5805364706385912897">Tämä sivu käyttää liikaa muistia, joten Fulldive keskeytti sen.</translation>
 <translation id="5138664332909611586">Tämä sivu käyttää liikaa muistia, joten Fulldive poisti osan sisällöstä.</translation>
 <translation id="9137013805542155359">Näytä alkuperäinen</translation>
-<translation id="6361779936989026201">Fulldiven Gab AI Inc Assistant</translation>
+<translation id="6361779936989026201">Fulldiven Fulldive Assistant</translation>
 <translation id="7291387454912369099">Assistantin käynnistämä maksaminen</translation>
-<translation id="9037412730408024068">Jotta tehtävien hoitaminen sujuisi helpommin, Gab AI Inc saa tiedot niiden sivustojen URL-osoitteista ja sisällöstä, joilla käytät Assistantia, sekä Assistantin kautta lähettämäsi tiedot</translation>
+<translation id="9037412730408024068">Jotta tehtävien hoitaminen sujuisi helpommin, Fulldive saa tiedot niiden sivustojen URL-osoitteista ja sisällöstä, joilla käytät Assistantia, sekä Assistantin kautta lähettämäsi tiedot</translation>
 <translation id="4565206163201411670">Näytetäänkö Fulldive-toimintasi Digitaalisessa hyvinvoinnissa?</translation>
-<translation id="9055113864158719823">Voit nähdä Fulldivessa käyttämäsi sivustot ja asettaa niille ajastimia.\n\nGab AI Inc saa tietoa sivustoista, joille asetat ajastimia, ja sivustojen käytön kestosta. Tietoja käytetään Digitaalisen hyvinvoinnin parantamiseen.</translation>
+<translation id="9055113864158719823">Voit nähdä Fulldivessa käyttämäsi sivustot ja asettaa niille ajastimia.\n\nFulldive saa tietoa sivustoista, joille asetat ajastimia, ja sivustojen käytön kestosta. Tietoja käytetään Digitaalisen hyvinvoinnin parantamiseen.</translation>
 <translation id="4596514158372210596">Poista Fulldive-toimintasi Digitaalisesta hyvinvoinnista</translation>
 <translation id="1174893863889683998">Poistetaanko Fulldive-toimintasi Digitaalisesta hyvinvoinnista?</translation>
 <translation id="708829030563435351">Fulldivessa käyttämäsi sivustot eivät näy. Kaikki sivuston ajastimet poistetaan.</translation>
@@ -1111,7 +1111,7 @@ Vain sinä voit nähdä, mitä kamera kuvaa. Sivusto ei voi nähdä kamerasi kuv
 <translation id="7173114856073700355">Avaa asetukset</translation>
 <translation id="1311657260431405215">Tämä QR-koodi ei ole URL-osoite: <ph name="QRCODEVALUE"/></translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
-<translation id="7339921667754113786">Gab AI Incn ilmoitusalusta</translation>
+<translation id="7339921667754113786">Fulldiven ilmoitusalusta</translation>
 <translation id="8516012719330875537">Kuvanmuokkausohjelma</translation>
 <translation id="8926666909099850184">NFC on pois päältä tällä laitteella. Voit laittaa sen päälle <ph name="BEGIN_LINK"/>Androidin asetuksista<ph name="END_LINK"/>.</translation>
 <translation id="4808319664292298116">Siirrytäänkö VR-tilaan (<ph name="DOMAIN"/>)?</translation>

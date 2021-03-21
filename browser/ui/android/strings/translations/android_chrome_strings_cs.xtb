@@ -23,20 +23,20 @@
 <translation id="3749259744154402564">Nepodporováno</translation>
 <translation id="629730747756840877">Účet</translation>
 <translation id="82609232232243542">Přihlásit se do Chromu</translation>
-<translation id="7956662517480676674">Synchronizace a služby Gab AI Inc</translation>
-<translation id="5294439808117722387">Aktuálně upravujete své nastavení synchronizace a služeb Gab AI Inc. Zapnutí synchronizace dokončíte klepnutím na tlačítko Potvrdit, které se nachází u dolního okraje obrazovky. Přejít nahoru</translation>
+<translation id="7956662517480676674">Synchronizace a služby Fulldive</translation>
+<translation id="5294439808117722387">Aktuálně upravujete své nastavení synchronizace a služeb Fulldive. Zapnutí synchronizace dokončíte klepnutím na tlačítko Potvrdit, které se nachází u dolního okraje obrazovky. Přejít nahoru</translation>
 <translation id="2096012225669085171">Synchronizovat a přizpůsobit na různých zařízeních</translation>
 <translation id="1692118695553449118">Synchronizace je zapnuta</translation>
 <translation id="5514904542973294328">Zakázáno administrátorem tohoto zařízení</translation>
-<translation id="6447211988989208781">Ovládací prvky aktivity Gab AI Inc</translation>
+<translation id="6447211988989208781">Ovládací prvky aktivity Fulldive</translation>
 <translation id="4882831918239250449">Nastavte, jak se má vaše historie procházení používat k personalizaci Vyhledávání, reklam a dalších služeb</translation>
 <translation id="7431991332293347422">Nastavte, jak se má vaše historie prohlížení používat k personalizaci Vyhledávání a dalších služeb</translation>
 <translation id="6303969859164067831">Odhlásit a vypnout synchronizaci</translation>
-<translation id="1125261911132334651">Spravovat váš účet Gab AI Inc</translation>
+<translation id="1125261911132334651">Spravovat váš účet Fulldive</translation>
 <translation id="6406506848690869874">Synchronizace</translation>
 <translation id="714362445477979774">Synchronizovat data prohlížeče Fulldive</translation>
 <translation id="4314815835985389558">Správa synchronizace</translation>
-<translation id="5428209950370661546">Další služby Gab AI Inc</translation>
+<translation id="5428209950370661546">Další služby Fulldive</translation>
 <translation id="7704317875155739195">Automaticky doplňovat vyhledávací dotazy a adresy URL</translation>
 <translation id="2000419248597011803">Odesílá soubory cookie a vyhledávací dotazy z adresního řádku a vyhledávacího pole a několik souborů cookie vašemu výchozímu vyhledávači</translation>
 <translation id="7981313251711023384">Předběžně načítat stránky pro rychlejší procházení a vyhledávání</translation>
@@ -45,7 +45,7 @@
 <translation id="8109318360573330108">Odesílá do Googlu adresu URL stránky, na kterou se pokoušíte přejít</translation>
 <translation id="8438566539970814960">Vylepšit vyhledávání a procházení</translation>
 <translation id="284843628681142937">Odesílá do Googlu adresy URL stránek, které navštěvujete</translation>
-<translation id="7222718784508482526">Další nastavení související s ochranou soukromí, zabezpečením a shromažďováním dat naleznete v části <ph name="BEGIN_LINK"/>Synchronizace a služby Gab AI Inc<ph name="END_LINK"/></translation>
+<translation id="7222718784508482526">Další nastavení související s ochranou soukromí, zabezpečením a shromažďováním dat naleznete v části <ph name="BEGIN_LINK"/>Synchronizace a služby Fulldive<ph name="END_LINK"/></translation>
 <translation id="918192811481327695">Pomoci s vylepšováním funkcí a výkonu prohlížeče Fulldive</translation>
 <translation id="9063160602596686558">Automaticky odesílá statistiky o využívání a zprávy o selhání do Googlu</translation>
 <translation id="4824958205181053313">Zrušit synchronizaci?</translation>
@@ -86,9 +86,9 @@
 <translation id="2100273922101894616">Přihlásit se automaticky</translation>
 <translation id="363596933471559332">Přihlašovat se na weby automaticky pomocí uložených identifikačních údajů. Když je tato funkce vypnutá, budete před každým přihlášením na web požádáni o ověření.</translation>
 <translation id="6995899638241819463">Upozorňovat v případě vyzrazení hesel při porušení zabezpečení</translation>
-<translation id="1534287762301776620">Když se přihlásíte k účtu Gab AI Inc, je tato funkce zapnutá</translation>
+<translation id="1534287762301776620">Když se přihlásíte k účtu Fulldive, je tato funkce zapnutá</translation>
 <translation id="10614374240317010">Nikdy se neukládají</translation>
-<translation id="3098842761938485917">Zobrazit a spravovat uložená hesla v <ph name="BEGIN_LINK"/>účtu Gab AI Inc<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Zobrazit a spravovat uložená hesla v <ph name="BEGIN_LINK"/>účtu Fulldive<ph name="END_LINK"/></translation>
 <translation id="8988028529677883095">Používat telefon jako bezpečnostní klíč</translation>
 <translation id="8562452229998620586">Zde se zobrazí uložená hesla.</translation>
 <translation id="1303339473099049190">Dané heslo nebylo nalezeno. Zkontrolujte ho a zkuste to znovu.</translation>
@@ -116,7 +116,7 @@
 <translation id="6914783257214138813">Vaše hesla uvidí každý, kdo může zobrazit exportovaný soubor.</translation>
 <translation id="2321086116217818302">Příprava hesel…</translation>
 <translation id="8445448999790540984">Hesla se nepodařilo exportovat</translation>
-<translation id="5139940364318403933">Naučte se používat Disk Gab AI Inc</translation>
+<translation id="5139940364318403933">Naučte se používat Disk Fulldive</translation>
 <translation id="729975465115245577">V zařízení není žádná aplikace, pomocí které by soubor s hesly bylo možné uložit.</translation>
 <translation id="7682724950699840886">Vyzkoušejte tyto tipy: Zajistěte, aby v zařízení byl dostatek místa a zkuste export zopakovat.</translation>
 <translation id="1129510026454351943">Podrobnosti: <ph name="ERROR_DESCRIPTION"/></translation>
@@ -144,13 +144,13 @@
 <translation id="3201899458094819285">Bezpečné prohlížení (chrání vás a vaše zařízení před nebezpečnými weby)</translation>
 <translation id="2876369937070532032">Když je ohrožena vaše bezpečnost, odesílá adresy URL některých navštívených stránek do Googlu</translation>
 <translation id="3738139272394829648">Vyhledání klepnutím</translation>
-<translation id="4749189475009528195">Vyhledávejte informace o tématech zmíněných na stránce, aniž byste stránku museli opustit. Klepnutím na Vyhledat odešlete slovo a okolní kontext do Vyhledávání Gab AI Inc, které vrátí definice, obrázky, výsledky vyhledávání a další podrobnosti.
+<translation id="4749189475009528195">Vyhledávejte informace o tématech zmíněných na stránce, aniž byste stránku museli opustit. Klepnutím na Vyhledat odešlete slovo a okolní kontext do Vyhledávání Fulldive, které vrátí definice, obrázky, výsledky vyhledávání a další podrobnosti.
 
 Vyhledávání spustíte klepnutím na libovolné slovo. Chcete-li vyhledávání upřesnit, přidržením vyberte více či méně slov. Chcete-li vyhledávání upravit, otevřete panel, otevřete novou kartu klepnutím na ikonu a ve vyhledávacím poli proveďte změny.</translation>
-<translation id="934250516944040460">Vyhledávejte informace o tématech zmíněných na stránce, aniž byste stránku museli opustit. Klepnutím na Vyhledat odešlete slovo a okolní kontext do Vyhledávání Gab AI Inc, které vrátí definice, obrázky, výsledky vyhledávání a další podrobnosti.
+<translation id="934250516944040460">Vyhledávejte informace o tématech zmíněných na stránce, aniž byste stránku museli opustit. Klepnutím na Vyhledat odešlete slovo a okolní kontext do Vyhledávání Fulldive, které vrátí definice, obrázky, výsledky vyhledávání a další podrobnosti.
 
 Vyhledávání spustíte podržením libovolného slova. Vyhledávání můžete zpřesnit tím, že vyberete více či méně slov. Chcete-li vyhledávání upravit, otevřete panel, otevřete novou kartu klepnutím na ikonu a ve vyhledávacím poli proveďte změny.</translation>
-<translation id="6209156474097347789">Vyhledání klepnutím odešle vybrané slovo a aktuální stránku jako kontext do Vyhledávání Gab AI Inc. Tuto funkci můžete vypnout v <ph name="BEGIN_LINK"/>Nastavení<ph name="END_LINK"/>.</translation>
+<translation id="6209156474097347789">Vyhledání klepnutím odešle vybrané slovo a aktuální stránku jako kontext do Vyhledávání Fulldive. Tuto funkci můžete vypnout v <ph name="BEGIN_LINK"/>Nastavení<ph name="END_LINK"/>.</translation>
 <translation id="5039804452771397117">Povolit</translation>
 <translation id="780301667611848630">Ne, děkuji</translation>
 <translation id="1406000523432664303">Do Not Track (Nesledovat)</translation>
@@ -163,15 +163,15 @@ Některé weby mohou například na tento požadavek reagovat tak, že vám zobr
 <translation id="7814200940910057384">Vymazání údajů Chromu</translation>
 <translation id="1664855196866195614">Vybraná data byla z Chromu a synchronizovaných zařízení odstraněna.
 
-Na stránce <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> mohou být k dispozici další druhy historie prohlížení zaznamenané ve vašem účtu Gab AI Inc, například vyhledávací dotazy a aktivita z ostatních služeb Gab AI Inc.</translation>
+Na stránce <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> mohou být k dispozici další druhy historie prohlížení zaznamenané ve vašem účtu Fulldive, například vyhledávací dotazy a aktivita z ostatních služeb Fulldive.</translation>
 <translation id="4699172675775169585">Obrázky a soubory v mezipaměti</translation>
 <translation id="2496180316473517155">Historie procházení</translation>
 <translation id="2546283357679194313">Soubory cookie a data webových stránek</translation>
 <translation id="8662811608048051533">Odhlásí vás z většiny webů.</translation>
-<translation id="8218628800671693884">Odhlásí vás z většiny webů. Z účtu Gab AI Inc odhlášeni nebudete.</translation>
+<translation id="8218628800671693884">Odhlásí vás z většiny webů. Z účtu Fulldive odhlášeni nebudete.</translation>
 <translation id="2017836877785168846">Vymaže historii a automatická dokončení v adresním řádku.</translation>
-<translation id="8096327394278038498">Vymaže historii a automatická dokončení v adresním řádku. Na stránce <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> mohou být k dispozici další druhy historie prohlížení zaznamenané ve vašem účtu Gab AI Inc.</translation>
-<translation id="8122693181154564064">Vymaže historii ze všech zařízení, na kterých jste přihlášeni. Na stránce <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> mohou být k dispozici další druhy historie prohlížení zaznamenané ve vašem účtu Gab AI Inc.</translation>
+<translation id="8096327394278038498">Vymaže historii a automatická dokončení v adresním řádku. Na stránce <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> mohou být k dispozici další druhy historie prohlížení zaznamenané ve vašem účtu Fulldive.</translation>
+<translation id="8122693181154564064">Vymaže historii ze všech zařízení, na kterých jste přihlášeni. Na stránce <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> mohou být k dispozici další druhy historie prohlížení zaznamenané ve vašem účtu Fulldive.</translation>
 <translation id="5869522115854928033">Uložená hesla</translation>
 <translation id="6865313869410766144">Automatické vyplňování formulářů</translation>
 <translation id="7562080006725997899">Mazání údajů o prohlížení</translation>
@@ -188,7 +188,7 @@ Na stránce <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> mohou
 <translation id="6643016212128521049">Vymazat</translation>
 <translation id="7641339528570811325">Vymazat údaje o prohlížení…</translation>
 <translation id="1670399744444387456">Základní</translation>
-<translation id="3245261285041759672">Na stránce <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> mohou být k dispozici další druhy historie prohlížení zaznamenané ve vašem účtu Gab AI Inc.</translation>
+<translation id="3245261285041759672">Na stránce <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> mohou být k dispozici další druhy historie prohlížení zaznamenané ve vašem účtu Fulldive.</translation>
 <translation id="7274013316676448362">Blokovaný web</translation>
 <translation id="2534155362429831547">Byly smazány položky (celkem <ph name="NUMBER_OF_ITEMS"/>)</translation>
 <translation id="6981982820502123353">Usnadnění</translation>
@@ -358,13 +358,13 @@ Na stránce <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> mohou
 <translation id="3658159451045945436">Resetováním vymažete historii úspory dat, včetně seznamu navštívených webů.</translation>
 <translation id="5939518447894949180">Resetovat</translation>
 <translation id="3295530008794733555">Prohlížejte si internet rychleji. Využívejte méně dat.</translation>
-<translation id="7340390500800578919">Ve zjednodušeném režimu načítá Fulldive stránky rychleji a používá až o 60 procent méně dat. Kvůli optimalizaci navštěvovaných stránek přijímá Fulldive váš webový provoz přes Gab AI Inc. <ph name="BEGIN_LINK"/>Další informace<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">Ve zjednodušeném režimu načítá Fulldive stránky rychleji a používá až o 60 procent méně dat. Kvůli optimalizaci navštěvovaných stránek přijímá Fulldive váš webový provoz přes Fulldive. <ph name="BEGIN_LINK"/>Další informace<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Zapnout zjednodušený režim</translation>
 <translation id="4493497663118223949">Zjednodušený režim je zapnutý</translation>
 <translation id="7559975015014302720">Zjednodušený režim je vypnutý</translation>
 <translation id="7606077192958116810">Zjednodušený režim je zapnutý. Spravovat ho můžete v Nastavení.</translation>
 <translation id="4714588616299687897">Uspořte až 60 % svých dat</translation>
-<translation id="1006927014032731288">Servery Gab AI Inc budou navštěvované stránky optimalizovat.</translation>
+<translation id="1006927014032731288">Servery Fulldive budou navštěvované stránky optimalizovat.</translation>
 <translation id="3257320067425202300">Fulldive vám ušetřil <ph name="MEGABYTES"/> MB</translation>
 <translation id="5813223329348543512">Fulldive vám ušetřil <ph name="GIGABYTES"/> GB</translation>
 <translation id="8266862848225348053">Umístění stažených souborů</translation>
@@ -393,7 +393,7 @@ Na stránce <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> mohou
 <translation id="3334729583274622784">Změnit příponu souboru?</translation>
 <translation id="107147699690128016">Pokud změníte příponu souboru, může se soubor otevřít v jiné aplikaci a potenciálně může být rizikem pro vaše zařízení.</translation>
 <translation id="8541922081612557424">O aplikaci Fulldive</translation>
-<translation id="5311273890481188673">Copyright <ph name="YEAR"/> Gab AI Inc LLC. Všechna práva vyhrazena.</translation>
+<translation id="5311273890481188673">Copyright <ph name="YEAR"/> Fulldive LLC. Všechna práva vyhrazena.</translation>
 <translation id="1416550906796893042">Verze aplikace</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (aktualizováno <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Operační systém</translation>
@@ -419,19 +419,19 @@ Na stránce <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> mohou
 <translation id="4062305924942672200">Právní informace</translation>
 <translation id="4256782883801055595">Licence open source</translation>
 <translation id="1138681184697033370">Smluvní podmínky Fulldive</translation>
-<translation id="2368444735104192323">Dodatečné smluvní podmínky prohlížeče Gab AI Inc Fulldive a systému Fulldive OS</translation>
+<translation id="2368444735104192323">Dodatečné smluvní podmínky prohlížeče Fulldive Fulldive a systému Fulldive OS</translation>
 <translation id="7392539049993970338">Ochrana soukromí v Chromu</translation>
 <translation id="2968755619301702150">Prohlížeč certifikátů</translation>
 <translation id="1360432990279830238">Odhlásit se a vypnout synchronizaci?</translation>
 <translation id="8581481290581777242">Vymazat z tohoto zařízení data prohlížeče Fulldive?</translation>
-<translation id="1318865768845061710">Vaše záložky, historie, hesla a další data v Chromu se již nebudou synchronizovat do vašeho účtu Gab AI Inc</translation>
+<translation id="1318865768845061710">Vaše záložky, historie, hesla a další data v Chromu se již nebudou synchronizovat do vašeho účtu Fulldive</translation>
 <translation id="3325020657155065477">Vymazat data prohlížeče Fulldive také z tohoto zařízení</translation>
-<translation id="6136448902816743006">Protože se odhlašujete z účtu spravovaného doménou <ph name="DOMAIN_NAME"/>, vaše data prohlížeče Fulldive z tohoto zařízení budou smazána. Ve vašem účtu Gab AI Inc zůstanou.</translation>
+<translation id="6136448902816743006">Protože se odhlašujete z účtu spravovaného doménou <ph name="DOMAIN_NAME"/>, vaše data prohlížeče Fulldive z tohoto zařízení budou smazána. Ve vašem účtu Fulldive zůstanou.</translation>
 <translation id="1853026300647876496">Kontaktování Googlu. Může to chvíli trvat…</translation>
 <translation id="2328985652426384049">Přihlášení se nezdařilo</translation>
 <translation id="7723158744459952869">Odpověď Googlu trvala příliš dlouho</translation>
 <translation id="4572422548854449519">Přihlaste se ke spravovanému účtu</translation>
-<translation id="2689656545739939160">Přihlašujete se pomocí účtu spravovaného doménou <ph name="MANAGED_DOMAIN"/> a poskytujete jeho správci kontrolu nad svými daty prohlížeče Fulldive. Vaše data budou trvale přidružena k tomuto účtu. Odhlášením z Chromu svá data smažete z tohoto zařízení, ve vašem účtu Gab AI Inc však uložena zůstanou.</translation>
+<translation id="2689656545739939160">Přihlašujete se pomocí účtu spravovaného doménou <ph name="MANAGED_DOMAIN"/> a poskytujete jeho správci kontrolu nad svými daty prohlížeče Fulldive. Vaše data budou trvale přidružena k tomuto účtu. Odhlášením z Chromu svá data smažete z tohoto zařízení, ve vašem účtu Fulldive však uložena zůstanou.</translation>
 <translation id="1749561566933687563">Synchronizace záložek</translation>
 <translation id="4242533952199664413">Otevřít Nastavení</translation>
 <translation id="1111673857033749125">Zde se objeví záložky, které jste si uložili v ostatních zařízeních.</translation>
@@ -445,21 +445,21 @@ Na stránce <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> mohou
 <translation id="8820817407110198400">Záložky</translation>
 <translation id="1644574205037202324">Historie</translation>
 <translation id="17513872634828108">Otevřené karty</translation>
-<translation id="1320169905922104972">Platební karty a adresy pomocí služby Gab AI Inc Pay</translation>
+<translation id="1320169905922104972">Platební karty a adresy pomocí služby Fulldive Pay</translation>
 <translation id="6337234675334993532">Šifrování</translation>
 <translation id="6698801883190606802">Správa synchronizovaných dat</translation>
-<translation id="3598578758776312506">Šifrovat hesla pomocí identifikačních údajů Gab AI Inc</translation>
-<translation id="7810580217418711046">Zašifrovat synchronizovaná data pomocí hesla Gab AI Inc z <ph name="TIME"/></translation>
+<translation id="3598578758776312506">Šifrovat hesla pomocí identifikačních údajů Fulldive</translation>
+<translation id="7810580217418711046">Zašifrovat synchronizovaná data pomocí hesla Fulldive z <ph name="TIME"/></translation>
 <translation id="8461694314515752532">Šifrovat synchronizovaná data pomocí vlastní heslové fráze pro synchronizaci</translation>
 <translation id="2996291259634659425">Vytvoření heslové fráze</translation>
-<translation id="5713644099811900409">Účet Gab AI Inc</translation>
-<translation id="8997474919031554666">Šifrování pomocí heslové fráze se nevztahuje na platební metody a adresy ze služby Gab AI Inc Pay. Vaše šifrovaná data mohou číst pouze uživatelé, kteří mají vaši heslovou frázi. Heslová fráze se neodesílá do Googlu a není na Googlu uložena. Pokud ji zapomenete nebo toto nastavení budete chtít změnit, bude nutné synchronizaci resetovat. <ph name="BEGIN_LINK"/>Další informace<ph name="END_LINK"/></translation>
+<translation id="5713644099811900409">Účet Fulldive</translation>
+<translation id="8997474919031554666">Šifrování pomocí heslové fráze se nevztahuje na platební metody a adresy ze služby Fulldive Pay. Vaše šifrovaná data mohou číst pouze uživatelé, kteří mají vaši heslovou frázi. Heslová fráze se neodesílá do Googlu a není na Googlu uložena. Pokud ji zapomenete nebo toto nastavení budete chtít změnit, bude nutné synchronizaci resetovat. <ph name="BEGIN_LINK"/>Další informace<ph name="END_LINK"/></translation>
 <translation id="9050666287014529139">Heslová fráze</translation>
 <translation id="7772032839648071052">Potvrďte heslovou frázi</translation>
 <translation id="5304593522240415983">Toto pole nesmí být prázdné</translation>
 <translation id="321773570071367578">Pokud jste heslovou frázi zapomněli nebo toto nastavení chcete změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<ph name="END_LINK"/>.</translation>
 <translation id="3029704984691124060">Heslové fráze se neshodují</translation>
-<translation id="5149495116300586333">Šifrování pomocí heslové fráze se nevztahuje na platební metody a adresy ze služby Gab AI Inc Pay.
+<translation id="5149495116300586333">Šifrování pomocí heslové fráze se nevztahuje na platební metody a adresy ze služby Fulldive Pay.
 
 Chcete-toto nastavení změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<ph name="END_LINK"/>.</translation>
 <translation id="7638584964844754484">Nesprávná heslová fráze</translation>
@@ -575,7 +575,7 @@ Chcete-toto nastavení změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<p
 <translation id="6649642165559792194">Zobrazit náhled obrázku <ph name="BEGIN_NEW"/>Nové<ph name="END_NEW"/></translation>
 <translation id="3269093882174072735">Načíst obrázek</translation>
 <translation id="6671495933530132209">Zkopírovat obrázek</translation>
-<translation id="3845332215609790146">Hledat pomocí Gab AI Inc Lens <ph name="BEGIN_NEW"/>Nové<ph name="END_NEW"/></translation>
+<translation id="3845332215609790146">Hledat pomocí Fulldive Lens <ph name="BEGIN_NEW"/>Nové<ph name="END_NEW"/></translation>
 <translation id="5578795271662203820">Hledat obrázek pomocí <ph name="SEARCH_ENGINE"/></translation>
 <translation id="3384347053049321195">Sdílet obrázek</translation>
 <translation id="5833984609253377421">Sdílet odkaz</translation>
@@ -584,7 +584,7 @@ Chcete-toto nastavení změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<p
 <translation id="7975379999046275268">Zobrazit náhled stránky <ph name="BEGIN_NEW"/>Nové<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Rychlý web</translation>
 <translation id="6112702117600201073">Obnovování stránky</translation>
-<translation id="6990079615885386641">Získat aplikaci z Obchodu Gab AI Inc Play: <ph name="APP_ACTION"/></translation>
+<translation id="6990079615885386641">Získat aplikaci z Obchodu Fulldive Play: <ph name="APP_ACTION"/></translation>
 <translation id="2414886740292270097">Tmavé</translation>
 <translation id="1807246157184219062">Světlé</translation>
 <translation id="4056223980640387499">Sépie</translation>
@@ -610,9 +610,9 @@ Chcete-toto nastavení změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<p
 <translation id="164269334534774161">Prohlížíte si offline kopii této stránky z <ph name="CREATION_TIME"/></translation>
 <translation id="4594952190837476234">Tato offline stránka je z <ph name="CREATION_TIME"/> a může se od online verze lišit.</translation>
 <translation id="8840953339110955557">Tato stránka se může od online verze lišit.</translation>
-<translation id="6405300764336705484">Tento obsah pochází z domény <ph name="DOMAIN_NAME"/>. Poskytováno společností Gab AI Inc.</translation>
+<translation id="6405300764336705484">Tento obsah pochází z domény <ph name="DOMAIN_NAME"/>. Poskytováno společností Fulldive.</translation>
 <translation id="1006017844123154345">Otevřít online</translation>
-<translation id="3326636747541519688">Zjednodušenou stránku poskytuje Gab AI Inc</translation>
+<translation id="3326636747541519688">Zjednodušenou stránku poskytuje Fulldive</translation>
 <translation id="7149158118503947153"><ph name="BEGIN_LINK"/>Načíst původní stránku<ph name="END_LINK"/> z domény <ph name="DOMAIN_NAME"/></translation>
 <translation id="7475192538862203634">Pokud se vám tato stránka zobrazuje často, vyzkoušejte tyto <ph name="BEGIN_LINK"/>návrhy<ph name="END_LINK"/>.</translation>
 <translation id="8748850008226585750">Skrytý obsah</translation>
@@ -711,18 +711,18 @@ Chcete-toto nastavení změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<p
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">RR</translation>
 <translation id="724102042129299115">První spuštění Chromu</translation>
-<translation id="7766792282581704663">Používáním Chromu vyjadřujete souhlas se <ph name="BEGIN_LINK1"/>smluvními podmínkami společnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatečnými smluvními podmínkami prohlížeče Fulldive a systému Fulldive OS<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Používáním Chromu vyjadřujete souhlas se <ph name="BEGIN_LINK1"/>smluvními podmínkami společnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatečnými smluvními podmínkami prohlížeče Fulldive a systému Fulldive OS<ph name="END_LINK2"/>. Platí také <ph name="BEGIN_LINK3"/>upozornění ve věci ochrany soukromí pro účty Gab AI Inc spravované prostřednictvím služby Family<ph name="END_LINK3"/>.</translation>
-<translation id="4993481112200507346">Aplikace <ph name="APP_NAME"/> se otevře v Chromu. Pokračováním vyjadřujete souhlas se <ph name="BEGIN_LINK1"/>smluvními podmínkami společnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatečnými smluvními podmínkami prohlížeče Fulldive a systému Fulldive OS<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485">Aplikace <ph name="APP_NAME"/> se otevře v Chromu. Pokračováním vyjadřujete souhlas se <ph name="BEGIN_LINK1"/>smluvními podmínkami společnosti Gab AI Inc<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatečnými smluvními podmínkami prohlížeče Fulldive a systému Fulldive OS<ph name="END_LINK2"/>. Platí také <ph name="BEGIN_LINK3"/>upozornění ve věci ochrany soukromí pro účty Gab AI Inc spravované prostřednictvím služby Family<ph name="END_LINK3"/>.</translation>
+<translation id="7766792282581704663">Používáním Chromu vyjadřujete souhlas se <ph name="BEGIN_LINK1"/>smluvními podmínkami společnosti Fulldive<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatečnými smluvními podmínkami prohlížeče Fulldive a systému Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Používáním Chromu vyjadřujete souhlas se <ph name="BEGIN_LINK1"/>smluvními podmínkami společnosti Fulldive<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatečnými smluvními podmínkami prohlížeče Fulldive a systému Fulldive OS<ph name="END_LINK2"/>. Platí také <ph name="BEGIN_LINK3"/>upozornění ve věci ochrany soukromí pro účty Fulldive spravované prostřednictvím služby Family<ph name="END_LINK3"/>.</translation>
+<translation id="4993481112200507346">Aplikace <ph name="APP_NAME"/> se otevře v Chromu. Pokračováním vyjadřujete souhlas se <ph name="BEGIN_LINK1"/>smluvními podmínkami společnosti Fulldive<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatečnými smluvními podmínkami prohlížeče Fulldive a systému Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485">Aplikace <ph name="APP_NAME"/> se otevře v Chromu. Pokračováním vyjadřujete souhlas se <ph name="BEGIN_LINK1"/>smluvními podmínkami společnosti Fulldive<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatečnými smluvními podmínkami prohlížeče Fulldive a systému Fulldive OS<ph name="END_LINK2"/>. Platí také <ph name="BEGIN_LINK3"/>upozornění ve věci ochrany soukromí pro účty Fulldive spravované prostřednictvím služby Family<ph name="END_LINK3"/>.</translation>
 <translation id="673197144963363525">Pomozte Fulldive zlepšovat – posílejte Googlu statistiky o využívání a zprávy o selhání.</translation>
 <translation id="3518985090088779359">PŘIJMOUT A POKRAČOVAT</translation>
 <translation id="7207456302801184289">Vítá vás Fulldive</translation>
-<translation id="7189372733857464326">Počkejte prosím, než služby Gab AI Inc Play dokončí aktualizaci</translation>
+<translation id="7189372733857464326">Počkejte prosím, než služby Fulldive Play dokončí aktualizaci</translation>
 <translation id="1231733316453485619">Zapnout synchronizaci?</translation>
 <translation id="5132942445612118989">Vaše hesla, historie a další údaje na všech zařízeních</translation>
-<translation id="5736731321935944068">Gab AI Inc vaši historii může používat k personalizaci Vyhledávání, reklam a dalších služeb Gab AI Inc</translation>
-<translation id="4013614219085422040">Gab AI Inc vaši historii může používat k personalizaci Vyhledávání a dalších služeb Gab AI Inc</translation>
+<translation id="5736731321935944068">Fulldive vaši historii může používat k personalizaci Vyhledávání, reklam a dalších služeb Fulldive</translation>
+<translation id="4013614219085422040">Fulldive vaši historii může používat k personalizaci Vyhledávání a dalších služeb Fulldive</translation>
 <translation id="5581519193887989363">Synchronizované položky můžete kdykoliv vybrat v <ph name="BEGIN_LINK1"/>nastavení<ph name="END_LINK1"/>.</translation>
 <translation id="741204030948306876">Ano</translation>
 <translation id="2410754283952462441">Vyberte účet</translation>
@@ -751,7 +751,7 @@ Chcete-toto nastavení změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<p
 <translation id="5423934151118863508">Zde se zobrazí vaše nejnavštěvovanější stránky.</translation>
 <translation id="6127379762771434464">Položka byla odstraněna</translation>
 <translation id="4605958867780575332">Tato položka byla odstraněna: <ph name="ITEM_TITLE"/></translation>
-<translation id="1996480094660735607">Sváteční logo Gab AI Inc: <ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">Sváteční logo Fulldive: <ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="7851858861565204677">Jiná zařízení</translation>
 <translation id="4738836084190194332">Poslední synchronizace: <ph name="WHEN"/></translation>
 <translation id="4583164079174244168">{MINUTES,plural, =1{před # minutou}few{před # minutami}many{před # minuty}other{před # minutami}}</translation>
@@ -778,7 +778,7 @@ Chcete-toto nastavení změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<p
 <translation id="1171770572613082465">Populární weby zobrazíte klepnutím na tlačítko Top weby</translation>
 <translation id="5233638681132016545">Nová karta</translation>
 <translation id="6336451774241870485">Nová soukromá karta</translation>
-<translation id="4521874409998847950">Zdroj: <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>poskytováno společností Gab AI Inc<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950">Zdroj: <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>poskytováno společností Fulldive<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Je dostupná novější verze</translation>
 <translation id="4058091506841967397">Fulldive nelze aktualizovat</translation>
 <translation id="6316139424528454185">Nepodporovaná verze Androidu</translation>
@@ -914,7 +914,7 @@ Chcete-toto nastavení změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<p
 <translation id="8427875596167638501">Karta náhledu je otevřená na půlce</translation>
 <translation id="9102803872260866941">Je otevřená karta náhledu</translation>
 <translation id="2942036813789421260">Karta náhledu byla zavřena</translation>
-<translation id="6355102470683871794">Úložiště aplikace Gab AI Inc <ph name="APP_NAME"/></translation>
+<translation id="6355102470683871794">Úložiště aplikace Fulldive <ph name="APP_NAME"/></translation>
 <translation id="3822502789641063741">Vymazat úložiště webů?</translation>
 <translation id="9205995714227143200">Úložiště webů, které Fulldive považuje za nedůležité (např. weby bez uložených nastavení nebo weby, které nenavštěvujete často)</translation>
 <translation id="3997476611815694295">Nedůležité úložiště</translation>
@@ -955,9 +955,9 @@ Chcete-toto nastavení změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<p
 <translation id="5489227211564503167">Uplynulá doba: <ph name="ELAPSED_TIME"/> z <ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Vyhledávat pomocí Sogou</translation>
 <translation id="5406914950576900927">Fulldive může v Číně k vyhledávání používat službu <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/>. Tuto volbu můžete změnit v <ph name="BEGIN_LINK"/>Nastavení<ph name="END_LINK"/>.</translation>
-<translation id="6456271171669383967">Ponechat Gab AI Inc</translation>
+<translation id="6456271171669383967">Ponechat Fulldive</translation>
 <translation id="4384468725000734951">K vyhledávání se používá služba Sogou</translation>
-<translation id="6103327872225198548">K vyhledávání se používá Gab AI Inc</translation>
+<translation id="6103327872225198548">K vyhledávání se používá Fulldive</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
 <translation id="919933208285147476">Tato aplikace je spuštěna v Chromu</translation>
 <translation id="6143689084714664628">Spuštěno v Chromu</translation>
@@ -989,7 +989,7 @@ Chcete-toto nastavení změnit, <ph name="BEGIN_LINK"/>resetujte synchronizaci<p
 <translation id="123724288017357924">Obnovit stránku a ignorovat obsah v mezipaměti</translation>
 <translation id="305870044889644984">Otevřít centrum nápovědy Fulldive na nové kartě</translation>
 <translation id="3166827708714933426">Zkratky pro okna a karty</translation>
-<translation id="3169981355900570544">Zkratky funkcí prohlížeče Gab AI Inc Fulldive</translation>
+<translation id="3169981355900570544">Zkratky funkcí prohlížeče Fulldive Fulldive</translation>
 <translation id="4558311620361989323">Zkratky webových stránek</translation>
 <translation id="1908301351964700579">Fulldive se na virtuální realitu stále připravuje. Restartujte Fulldive později.</translation>
 <translation id="8970887620466824814">Došlo k chybě.</translation>
@@ -1018,9 +1018,9 @@ Pouze vy uvidíte, na co se kamera zaměřuje. Web snímky z kamery neuvidí.</
 <translation id="3341058695485821946">Podívejte se, kolik dat jste ušetřili</translation>
 <translation id="3157842584138209013">Informace o množství uspořených dat zobrazíte pomocí tlačítka Další možnosti</translation>
 <translation id="8218622182176210845">Správa účtu</translation>
-<translation id="8090895580117672212">Chcete-li spravovat svůj účet Gab AI Inc, klepněte na tlačítko Spravovat účet</translation>
-<translation id="8856898588039823173">Zjednodušenou stránku poskytuje Gab AI Inc. Klepnutím načtete originál.</translation>
-<translation id="8134317863207426198">Zjednodušenou stránku poskytuje Gab AI Inc. Klepnutím na tlačítko k načtení originálu zobrazíte původní verzi.</translation>
+<translation id="8090895580117672212">Chcete-li spravovat svůj účet Fulldive, klepněte na tlačítko Spravovat účet</translation>
+<translation id="8856898588039823173">Zjednodušenou stránku poskytuje Fulldive. Klepnutím načtete originál.</translation>
+<translation id="8134317863207426198">Zjednodušenou stránku poskytuje Fulldive. Klepnutím na tlačítko k načtení originálu zobrazíte původní verzi.</translation>
 <translation id="4961107849584082341">Nechte si tuto stránku přeložit do libovolného jazyka</translation>
 <translation id="569536719314091526">Pomocí tlačítka Další možnosti můžete tuto stránku přeložit do libovolného jazyka.</translation>
 <translation id="1397811292916898096">Hledat pomocí vyhledávače <ph name="PRODUCT_NAME"/></translation>
@@ -1079,11 +1079,11 @@ Pouze vy uvidíte, na co se kamera zaměřuje. Web snímky z kamery neuvidí.</
 <translation id="5805364706385912897">Tato stránka využívá příliš mnoho paměti, proto ji Fulldive pozastavil.</translation>
 <translation id="5138664332909611586">Tato stránka využívá příliš mnoho paměti, Fulldive proto odstranil část obsahu.</translation>
 <translation id="9137013805542155359">Zobrazit originál</translation>
-<translation id="6361779936989026201">Asistent Gab AI Inc v Chromu</translation>
+<translation id="6361779936989026201">Asistent Fulldive v Chromu</translation>
 <translation id="7291387454912369099">Platba aktivovaná Asistentem</translation>
-<translation id="9037412730408024068">Abyste mohli provádět akce, Gab AI Inc bude dostávat adresy URL a obsah webů, ve kterých používáte Asistenta, a informace, které prostřednictvím Asistenta odesíláte</translation>
+<translation id="9037412730408024068">Abyste mohli provádět akce, Fulldive bude dostávat adresy URL a obsah webů, ve kterých používáte Asistenta, a informace, které prostřednictvím Asistenta odesíláte</translation>
 <translation id="4565206163201411670">Zobrazovat vaši aktivitu v Chromu v digitální rovnováze?</translation>
-<translation id="9055113864158719823">Můžete se podívat, které stránky v Chromu navštěvujete, a nastavit pro ně časovače.\n\nGab AI Inc obdrží informace o webech, pro které nastavíte časovače, a o tom, jak dlouho jste na nich byli. Tyto informace slouží ke zlepšování digitální rovnováhy.</translation>
+<translation id="9055113864158719823">Můžete se podívat, které stránky v Chromu navštěvujete, a nastavit pro ně časovače.\n\nFulldive obdrží informace o webech, pro které nastavíte časovače, a o tom, jak dlouho jste na nich byli. Tyto informace slouží ke zlepšování digitální rovnováhy.</translation>
 <translation id="4596514158372210596">Odstranit vaši aktivitu v Chromu z digitální rovnováhy</translation>
 <translation id="1174893863889683998">Odstranit vaši aktivitu v Chromu z digitální rovnováhy?</translation>
 <translation id="708829030563435351">Weby navštívené v Chromu se nebudou zobrazovat. Všechny časovače webů budou smazány.</translation>
@@ -1111,7 +1111,7 @@ Pouze vy uvidíte, na co se kamera zaměřuje. Web snímky z kamery neuvidí.</
 <translation id="7173114856073700355">Otevřít nastavení</translation>
 <translation id="1311657260431405215">Tento QR kód není adresa URL: <ph name="QRCODEVALUE"/></translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
-<translation id="7339921667754113786">Gab AI Inc Notifications Platform</translation>
+<translation id="7339921667754113786">Fulldive Notifications Platform</translation>
 <translation id="8516012719330875537">Editor obrázků</translation>
 <translation id="8926666909099850184">Funkce NFC je v tomto zařízení vypnutá. Zapnete ji v <ph name="BEGIN_LINK"/>Nastavení Android<ph name="END_LINK"/>.</translation>
 <translation id="4808319664292298116">Spustit virtuální realitu z webu <ph name="DOMAIN"/>?</translation>

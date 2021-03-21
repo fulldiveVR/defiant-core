@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Logo Fulldive</translation>
 <translation id="7339898014177206373">Tetingkap baharu</translation>
 <translation id="5516268345616100622">Pengurus Tugas - Fulldive</translation>
-<translation id="7918740962659365265">Bantu jadikan Fulldive lebih baik dengan menghantar laporan ranap dan <ph name="UMA_LINK"/> kepada Gab AI Inc.</translation>
+<translation id="7918740962659365265">Bantu jadikan Fulldive lebih baik dengan menghantar laporan ranap dan <ph name="UMA_LINK"/> kepada Fulldive.</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - Log Masuk Rangkaian - Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldive tidak dapat membaca atau menulis pada direktori datanya:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Pilihan: Bantu jadikan Fulldive lebih baik dengan menghantar statistik penggunaan dan laporan ranap kepada Gab AI Inc secara automatik.</translation>
+<translation id="8417700129970341035">Pilihan: Bantu jadikan Fulldive lebih baik dengan menghantar statistik penggunaan dan laporan ranap kepada Fulldive secara automatik.</translation>
 <translation id="1489465648257900784">Profil anda tidak boleh digunakan kerana profil anda dihasilkan dari versi Fulldive yang lebih baharu.
 
 Beberapa ciri mungkin tidak tersedia. Sila nyatakan direktori profil yang berbeza atau gunakan versi Fulldive yang lebih baharu.</translation>
@@ -42,7 +42,7 @@ Beberapa ciri mungkin tidak tersedia. Sila nyatakan direktori profil yang berbez
 
 Fulldive tidak dapat mengembalikan tetapan anda.</translation>
 <translation id="1477146545787277177">Alamak! Fulldive mengalami ranap sistem. Lancarkan semula sekarang?</translation>
-<translation id="5785919770853225148">Fulldive akan menyimpan kata laluan ini dalam Akaun Gab AI Inc anda. Anda tidak perlu mengingati kata laluan tersebut.</translation>
+<translation id="5785919770853225148">Fulldive akan menyimpan kata laluan ini dalam Akaun Fulldive anda. Anda tidak perlu mengingati kata laluan tersebut.</translation>
 <translation id="8211837073776713955">Fulldive akan memberitahu anda sekiranya kata laluan anda terjejas</translation>
 <translation id="113959764510199339">Fulldive sedang cuba memaparkan kata laluan.</translation>
 <translation id="96347285368592620">Fulldive cuba menyalin kata laluan.</translation>
@@ -83,7 +83,7 @@ Fulldive tidak dapat mengembalikan tetapan anda.</translation>
 <translation id="9183662282810237335">Keluar daripada Fulldive juga?</translation>
 <translation id="3834935463915107022">Keluar daripada Fulldive juga?</translation>
 <translation id="8797356639448065696">Fulldive dalam mod latar belakang.</translation>
-<translation id="2339258256897053758">Kunci API Gab AI Inc tiada. Sesetengah fungsi Fulldive akan dilumpuhkan.</translation>
+<translation id="2339258256897053758">Kunci API Fulldive tiada. Sesetengah fungsi Fulldive akan dilumpuhkan.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> telah ditambahkan pada Fulldive</translation>
 <translation id="8516116288943000095">Kosongkan data daripada Fulldive (<ph name="URL"/>) juga</translation>
 <translation id="4054452651944170004">Sembunyikan dalam menu Fulldive</translation>
@@ -107,8 +107,8 @@ Fulldive tidak dapat mengembalikan tetapan anda.</translation>
 <translation id="2925193881330501265">Anda telah log masuk ke Fulldive sebagai <ph name="USER_EMAIL_ADDRESS"/>. Sila gunakan akaun yang sama untuk log masuk lagi.</translation>
 <translation id="847561904663814268">Sebelum ini, seseorang telah log masuk ke Fulldive pada komputer ini sebagai <ph name="ACCOUNT_EMAIL_LAST"/>. Sila buat pengguna Fulldive baharu untuk mengasingkan maklumat anda.</translation>
 <translation id="1853997773668795891">Paut data Fulldive anda ke akaun ini?</translation>
-<translation id="1326766910007115955">Anda log masuk menggunakan akaun yang terurus dan memberikan pentadbirnya kawalan ke atas profil Fulldive anda. Data Fulldive anda, seperti apl, penanda halaman, sejarah, kata laluan dan tetapan anda yang lain akan terikat kepada <ph name="USER_NAME"/> secara kekal. Anda akan dapat memadamkan data ini melalui Papan Pemuka Akaun Gab AI Inc, tetapi anda tidak akan dapat mengaitkan data ini dengan akaun lain. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Anda log masuk menggunakan akaun yang terurus dan memberikan pentadbirnya kawalan ke atas profil Fulldive anda. Data Fulldive anda, seperti apl, penanda halaman, sejarah, kata laluan dan tetapan anda yang lain akan terikat kepada <ph name="USER_NAME"/> secara kekal. Anda akan dapat memadamkan data ini melalui Papan Pemuka Akaun Gab AI Inc, tetapi anda tidak akan dapat mengaitkan data ini dengan akaun lain. Anda boleh memilih untuk membuat profil baharu untuk mengasingkan data Fulldive anda yang sedia ada. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Anda log masuk menggunakan akaun yang terurus dan memberikan pentadbirnya kawalan ke atas profil Fulldive anda. Data Fulldive anda, seperti apl, penanda halaman, sejarah, kata laluan dan tetapan anda yang lain akan terikat kepada <ph name="USER_NAME"/> secara kekal. Anda akan dapat memadamkan data ini melalui Papan Pemuka Akaun Fulldive, tetapi anda tidak akan dapat mengaitkan data ini dengan akaun lain. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Anda log masuk menggunakan akaun yang terurus dan memberikan pentadbirnya kawalan ke atas profil Fulldive anda. Data Fulldive anda, seperti apl, penanda halaman, sejarah, kata laluan dan tetapan anda yang lain akan terikat kepada <ph name="USER_NAME"/> secara kekal. Anda akan dapat memadamkan data ini melalui Papan Pemuka Akaun Fulldive, tetapi anda tidak akan dapat mengaitkan data ini dengan akaun lain. Anda boleh memilih untuk membuat profil baharu untuk mengasingkan data Fulldive anda yang sedia ada. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Pentadbir sistem anda telah mengkonfigurasikan Fulldive agar membuka penyemak imbas alternatif untuk mengakses <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">Pentadbir sistem anda telah mengkonfigurasikan Fulldive agar membuka <ph name="ALTERNATIVE_BROWSER_NAME"/> untuk mengakses <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> menggunakan Fulldive sebelum ini</translation>
@@ -132,7 +132,7 @@ Fulldive tidak dapat mengembalikan tetapan anda.</translation>
 <translation id="239760341987199724">Tetapkan Fulldive sebagai penyemak imbas lalai anda</translation>
 <translation id="669092380621816981">Data semakan imbas orang ini akan dipadamkan daripada peranti ini. Untuk memulihkan data itu, log masuk ke Fulldive sebagai <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Fulldive kini lebih baik</translation>
-<translation id="7192666605334070839">Kini lebih mudah menggunakan Fulldive dengan Akaun Gab AI Inc anda dan pada komputer yang dikongsi.</translation>
+<translation id="7192666605334070839">Kini lebih mudah menggunakan Fulldive dengan Akaun Fulldive anda dan pada komputer yang dikongsi.</translation>
 <translation id="4100716194836114130">Ini Fulldive anda</translation>
 <translation id="3511996232906761537">Web, penanda halaman dan barangan Fulldive anda yang lain tinggal di sini.</translation>
 <translation id="7406627712452599344">Tetamu boleh menggunakan Fulldive tanpa meninggalkan apa-apa.</translation>
@@ -147,9 +147,9 @@ Fulldive tidak dapat mengembalikan tetapan anda.</translation>
 <translation id="2871190378186459992">Temui apl, permainan, sambungan dan tema yang hebat untuk Fulldive.</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">Peraturan masuk bagi Fulldive untuk membolehkan trafik mDNS.</translation>
-<translation id="8207657266087451193">Jika imej tiada perihalan yang berguna, Fulldive akan cuba memberikan perihalan untuk anda. Untuk membuat perihalan, imej dihantar kepada Gab AI Inc. Anda boleh mematikan pilihan ini dalam tetapan pada bila-bila masa.</translation>
-<translation id="5499063270485366718">Jika imej tiada perihalan yang berguna, Fulldive akan cuba memberikan perihalan untuk anda. Untuk membuat perihalan, imej dihantar kepada Gab AI Inc.</translation>
-<translation id="215320507915280336">Ini menggunakan penyemak ejaan yang sama seperti yang digunakan dalam carian Gab AI Inc. Teks yang anda taip dalam penyemak imbas akan dihantar kepada Gab AI Inc. Anda boleh menukar gelagat ini dalam tetapan pada bila-bila masa.</translation>
+<translation id="8207657266087451193">Jika imej tiada perihalan yang berguna, Fulldive akan cuba memberikan perihalan untuk anda. Untuk membuat perihalan, imej dihantar kepada Fulldive. Anda boleh mematikan pilihan ini dalam tetapan pada bila-bila masa.</translation>
+<translation id="5499063270485366718">Jika imej tiada perihalan yang berguna, Fulldive akan cuba memberikan perihalan untuk anda. Untuk membuat perihalan, imej dihantar kepada Fulldive.</translation>
+<translation id="215320507915280336">Ini menggunakan penyemak ejaan yang sama seperti yang digunakan dalam carian Fulldive. Teks yang anda taip dalam penyemak imbas akan dihantar kepada Fulldive. Anda boleh menukar gelagat ini dalam tetapan pada bila-bila masa.</translation>
 <translation id="1807774211756215222">Buka pautan dalam &amp;tab Fulldive baharu</translation>
 <translation id="4624945300945265642">Buka pautan dalam tetingkap inko&amp;gnito Fulldive</translation>
 <translation id="7863882214613921971">Buka Pautan dalam &amp;tab Fulldive Baharu</translation>
@@ -203,7 +203,7 @@ Fulldive tidak dapat mengembalikan tetapan anda.</translation>
 <translation id="7573289029918943991">Untuk melihat sama ada peranti anda telah dikemas kini, pergi ke <ph name="LINK_BEGIN"/>Tetapan OS Fulldive<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Dapatkan bantuan berkenaan Fulldive OS</translation>
 <translation id="38898988211673781">Kosongkan kuki dan data tapak apabila anda keluar daripada Fulldive</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (disalin ke Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (disalin ke Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive ialah penyemak imbas lalai anda</translation>
 <translation id="1775322105159056176">Fulldive tidak dapat menentukan atau menetapkan penyemak imbas lalai</translation>
 <translation id="6915252145142862992">Ini adalah pemasangan kedua Fulldive dan tidak boleh dijadikan penyemak imbas lalai anda.</translation>
@@ -211,10 +211,10 @@ Fulldive tidak dapat mengembalikan tetapan anda.</translation>
       tetapan penyemak imbas Fulldive anda<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Jika tetapan tidak ditunjukkan pada halaman ini, lihat dalam <ph name="LINK_BEGIN"/>
       tetapan OS Fulldive anda<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Untuk membetulkan kesilapan ejaan, Fulldive menghantar teks yang anda taip dalam medan teks kepada Gab AI Inc</translation>
+<translation id="2312399718665761438">Untuk membetulkan kesilapan ejaan, Fulldive menghantar teks yang anda taip dalam medan teks kepada Fulldive</translation>
 <translation id="8586264863973514035">Untuk menggunakan perubahan anda, mulakan semula Fulldive</translation>
 <translation id="7021823858304886493">Benarkan log masuk Fulldive</translation>
-<translation id="1649714546770135458">Dengan mematikan pilihan ini, anda boleh mengelog masuk ke tapak Gab AI Inc seperti Gmail tanpa perlu mengelog masuk ke Fulldive</translation>
+<translation id="1649714546770135458">Dengan mematikan pilihan ini, anda boleh mengelog masuk ke tapak Fulldive seperti Gmail tanpa perlu mengelog masuk ke Fulldive</translation>
 <translation id="2796517443093885402">Fulldive dapat membantu untuk memastikan anda selamat daripada pelanggaran data, sambungan tidak elok dan pelbagai lagi</translation>
 <translation id="428541510811554120">Fulldive tidak dapat menyemak kemas kini. Cuba periksa sambungan Internet anda.</translation>
 <translation id="2633397153656205379">Fulldive tidak dikemas kini, kesilapan telah berlaku. <ph name="BEGIN_LINK"/>Selesaikan masalah kemas kini dan kegagalan kemas kini Fulldive.<ph name="END_LINK"/></translation>

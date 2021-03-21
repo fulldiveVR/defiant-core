@@ -17,7 +17,7 @@
 <translation id="8762452230727230396">Tor oculta tu dirección IP a los sitios que visitas.</translation>
 <translation id="8053096063396012732">Instalar Widevine</translation>
 <translation id="4840334696217618631">Reinicia el navegador para habilitar Widevine</translation>
-<translation id="8410111618231938546">Google Widevine es una pieza de código de Administración de Derechos Digitales (DRM)  que no es propiedad de Gab AI Inc y por tanto no podemos inspeccionar. El código de Google Widevine se carga desde los servidores de Google, no desde nuestros servidores. Se carga solo cuando habilitas esta opción. Desaconsejamos el uso de DRM, pero respetamos la elección del usuario y entendemos que a algunos usuarios de Fulldive les gustaría usar algunos servicios que lo requieran.
+<translation id="8410111618231938546">Google Widevine es una pieza de código de Administración de Derechos Digitales (DRM)  que no es propiedad de Fulldive y por tanto no podemos inspeccionar. El código de Google Widevine se carga desde los servidores de Google, no desde nuestros servidores. Se carga solo cuando habilitas esta opción. Desaconsejamos el uso de DRM, pero respetamos la elección del usuario y entendemos que a algunos usuarios de Fulldive les gustaría usar algunos servicios que lo requieran.
 
 Al instalar esta extensión, aceptas los Términos de uso de Google Widevine. Aceptas que Fulldive no es responsable por daños o pérdidas en relación con tu uso de Google Widevine.</translation>
 <translation id="410351446219883937">Reproducción automática</translation>

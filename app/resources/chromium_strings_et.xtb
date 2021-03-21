@@ -19,7 +19,7 @@
 <translation id="1403270718080126244"><ph name="PAGE_TITLE"/> - Fulldive Beeta</translation>
 <translation id="3943696263619956191"><ph name="PAGE_TITLE"/> – Fulldive Dev</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – Fulldive Canary</translation>
-<translation id="8992261409816268381">Gab AI Inc</translation>
+<translation id="8992261409816268381">Fulldive</translation>
 <translation id="8121009781989288430">Autoriõigus <ph name="YEAR"/> The Fulldive Authors. Kõik õigused on kaitstud.</translation>
 <translation id="6368958679917195344">Fulldive OS-i aluseks on täiendav <ph name="BEGIN_LINK_CROS_OSS"/>avatud lähtekoodiga tarkvara<ph name="END_LINK_CROS_OSS"/>.</translation>
 <translation id="1662639173275167396">Fulldive OS töötab täiendava <ph name="BEGIN_LINK_CROS_OSS"/>avatud lähtekoodiga tarkvara<ph name="END_LINK_CROS_OSS"/> toel, nagu ka näiteks <ph name="BEGIN_LINK_LINUX_OSS"/>Linux (beetaversioon)<ph name="END_LINK_LINUX_OSS"/>.</translation>
@@ -45,7 +45,7 @@ On võimalik, et mõni funktsioon ei ole saadaval. Määrake muu profiilikataloo
 
 Fulldive ei saa teie seadeid taastada.</translation>
 <translation id="1477146545787277177">Fulldive jooksis kokku. Kas soovite kohe taaskäivitada?</translation>
-<translation id="5785919770853225148">Fulldive salvestab selle parooli teie Gab AI Inc'i kontole. Te ei pea seda meeles pidama.</translation>
+<translation id="5785919770853225148">Fulldive salvestab selle parooli teie Fulldive'i kontole. Te ei pea seda meeles pidama.</translation>
 <translation id="8211837073776713955">Fulldive annab teile teada, kui teie paroolid ohtu satuvad</translation>
 <translation id="113959764510199339">Fulldive püüab paroole kuvada.</translation>
 <translation id="96347285368592620">Fulldive üritab kopeerida paroole.</translation>
@@ -110,8 +110,8 @@ Fulldive ei saa teie seadeid taastada.</translation>
 <translation id="2925193881330501265">Olite Fulldiveisse sisse logitud kasutajana <ph name="USER_EMAIL_ADDRESS"/>. Kasutage uuesti sisselogimiseks sama kontot.</translation>
 <translation id="847561904663814268">Keegi on varem selles arvutis Fulldivei sisse loginud kasutajana <ph name="ACCOUNT_EMAIL_LAST"/>. Looge uus Fulldivei kasutaja, et oma teave eraldi hoida.</translation>
 <translation id="1853997773668795891">Kas soovite linkida Fulldivei andmed selle kontoga?</translation>
-<translation id="1326766910007115955">Logite sisse hallatud kontoga ja annate selle administraatorile üle Fulldivei profiili juhtimise. Teie Fulldivei andmed, näiteks rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME"/>. Saate need andmed kustutada Gab AI Inc'i kontode juhtpaneeli kaudu, kuid te ei saa neid seostada teise kontoga. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Logite sisse hallatud kontoga ja annate selle administraatorile üle Fulldivei profiili juhtimise. Teie Fulldivei andmed, näiteks rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME"/>. Saate need andmed kustutada Gab AI Inc'i kontode juhtpaneeli kaudu, kuid te ei saa neid seostada teise kontoga. Võite olemasolevate Fulldive'i andmete eraldi hoidmiseks luua aga uue profiili. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Logite sisse hallatud kontoga ja annate selle administraatorile üle Fulldivei profiili juhtimise. Teie Fulldivei andmed, näiteks rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME"/>. Saate need andmed kustutada Fulldive'i kontode juhtpaneeli kaudu, kuid te ei saa neid seostada teise kontoga. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Logite sisse hallatud kontoga ja annate selle administraatorile üle Fulldivei profiili juhtimise. Teie Fulldivei andmed, näiteks rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME"/>. Saate need andmed kustutada Fulldive'i kontode juhtpaneeli kaudu, kuid te ei saa neid seostada teise kontoga. Võite olemasolevate Fulldive'i andmete eraldi hoidmiseks luua aga uue profiili. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Teie süsteemiadministraator on konfigureerinud Fulldivei avama alternatiivset brauserit, et saada juurdepääs lehele <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">Teie süsteemiadministraator on seadistanud Fulldivei avama brauseri <ph name="ALTERNATIVE_BROWSER_NAME"/>, et lehele <ph name="TARGET_URL_HOSTNAME"/> juurde pääseda.</translation>
 <translation id="2591326305549412656">Kasutaja <ph name="USER_EMAIL_ADDRESS"/> kasutas varem Fulldivei</translation>
@@ -135,7 +135,7 @@ Fulldive ei saa teie seadeid taastada.</translation>
 <translation id="239760341987199724">Määra Fulldive vaikebrauseriks</translation>
 <translation id="669092380621816981">Selle isiku sirvimisandmed kustutatakse seadmest. Andmete taastamiseks logige Fulldivei sisse kasutajana <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Fulldive muutus just paremaks</translation>
-<translation id="7192666605334070839">Nüüd on Fulldivei lihtsam kasutada Gab AI Inc'i kontoga ja jagatud arvutistes.</translation>
+<translation id="7192666605334070839">Nüüd on Fulldivei lihtsam kasutada Fulldive'i kontoga ja jagatud arvutistes.</translation>
 <translation id="4100716194836114130">See on teie Fulldive</translation>
 <translation id="3511996232906761537">Siin asuvad teie veeb, järjehoidjad ja ülejäänud Fulldivei kraam.</translation>
 <translation id="7406627712452599344">Külastajad saavad kasutada Fulldivei jälgi jätmata.</translation>
@@ -156,9 +156,9 @@ Fulldive ei saa teie seadeid taastada.</translation>
 <translation id="7272074097076644710">Sissetuleku reegel Fulldive Beetas mDNS-liikluse lubamiseks.</translation>
 <translation id="4991512282053949769">Sissetuleku reegel Fulldive Nightly's mDNS-liikluse lubamiseks.</translation>
 <translation id="3856641371299712128">Sissetuleku reegel Fulldive Dev'is mDNS-liikluse lubamiseks.</translation>
-<translation id="8207657266087451193">Kui pildil puudub kasulik kirjeldus, üritab Fulldive selle ise luua. Kirjelduste loomiseks saadetakse pildid Gab AI Inc'ile. Võite selle seadetes igal ajal välja lülitada.</translation>
-<translation id="5499063270485366718">Kui pildil puudub kasulik kirjeldus, üritab Fulldive selle ise luua. Kirjelduste loomiseks saadetakse pildid Gab AI Inc'ile.</translation>
-<translation id="215320507915280336">See kasutab sama õigekirjakontrolli, mida kasutatakse Gab AI Inc'i otsingus. Brauseris sisestatav tekst saadetakse Gab AI Inc'ile. Seda käitumist saab seadetes alati muuta.</translation>
+<translation id="8207657266087451193">Kui pildil puudub kasulik kirjeldus, üritab Fulldive selle ise luua. Kirjelduste loomiseks saadetakse pildid Fulldive'ile. Võite selle seadetes igal ajal välja lülitada.</translation>
+<translation id="5499063270485366718">Kui pildil puudub kasulik kirjeldus, üritab Fulldive selle ise luua. Kirjelduste loomiseks saadetakse pildid Fulldive'ile.</translation>
+<translation id="215320507915280336">See kasutab sama õigekirjakontrolli, mida kasutatakse Fulldive'i otsingus. Brauseris sisestatav tekst saadetakse Fulldive'ile. Seda käitumist saab seadetes alati muuta.</translation>
 <translation id="1807774211756215222">Ava link Fulldivei uuel &amp;vahekaardil</translation>
 <translation id="4624945300945265642">Ava link Fulldivei inko&amp;gnito aknas</translation>
 <translation id="7863882214613921971">Ava link Fulldivei uuel &amp;vahekaardil</translation>
@@ -220,15 +220,15 @@ Fulldive ei saa teie seadeid taastada.</translation>
       Fulldivei brauseri seadeid<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Kui seadet sellel lehel ei kuvata, vaadake oma <ph name="LINK_BEGIN"/>
       Fulldive OS-i seadeid<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Õigekirjavigade parandamiseks saadab Fulldive teie tekstiväljadel sisestatud teksti Gab AI Inc'ile</translation>
+<translation id="2312399718665761438">Õigekirjavigade parandamiseks saadab Fulldive teie tekstiväljadel sisestatud teksti Fulldive'ile</translation>
 <translation id="8586264863973514035">Muudatuste rakendamiseks käivitage Fulldive uuesti</translation>
 <translation id="7021823858304886493">Luba Fulldive'i sisselogimine</translation>
-<translation id="1649714546770135458">Kui selle välja lülitate, saate Gab AI Inc'i saitidele (nt Gmaili) sisse logida ilma Fulldiveisse sisse logimata</translation>
+<translation id="1649714546770135458">Kui selle välja lülitate, saate Fulldive'i saitidele (nt Gmaili) sisse logida ilma Fulldiveisse sisse logimata</translation>
 <translation id="2796517443093885402">Fulldive aitab teid kaitsta andmetega seotud rikkumiste, ohtlike laienduste ja muu eest</translation>
 <translation id="428541510811554120">Fulldive ei saa värskendusi otsida. Kontrollige internetiühendust.</translation>
 <translation id="2633397153656205379">Fulldiveit ei värskendatud, midagi läks valesti. <ph name="BEGIN_LINK"/>Lahendage Fulldivei värskendamisprobleemid ja parandage ebaõnnestunud värskendused.<ph name="END_LINK"/></translation>
 <translation id="8622246347342688645">Fulldive ei saa teie paroole kontrollida, kuna te pole sisse logitud</translation>
-<translation id="7006260220514217183">Gab AI Inc'i ohutu sirvimine on välja lülitatud. Fulldive soovitab selle sisse lülitada.</translation>
+<translation id="7006260220514217183">Fulldive'i ohutu sirvimine on välja lülitatud. Fulldive soovitab selle sisse lülitada.</translation>
 <translation id="1785833016412082453">Fulldive ei saa teie laiendusi kontrollida. Proovige hiljem uuesti.</translation>
 <translation id="9220324636239049437">See kustutab seadmest ühe üksuse. Hiljem oma andmete toomiseks logige Fulldive'i sisse kasutajana <ph name="USER_EMAIL"/>.</translation>
 <translation id="5853262807109651878">See kustutab seadmest <ph name="ITEMS_COUNT"/> üksust. Hiljem oma andmete toomiseks logige Fulldive'i sisse kasutajana <ph name="USER_EMAIL"/>.</translation>

@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Biểu trưng Fulldive</translation>
 <translation id="7339898014177206373">Cửa sổ mới</translation>
 <translation id="5516268345616100622">Trình quản lý tác vụ - Fulldive</translation>
-<translation id="7918740962659365265">Giúp cải thiện Fulldive bằng cách gửi báo cáo sự cố và <ph name="UMA_LINK"/> tới Gab AI Inc</translation>
+<translation id="7918740962659365265">Giúp cải thiện Fulldive bằng cách gửi báo cáo sự cố và <ph name="UMA_LINK"/> tới Fulldive</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – Đăng nhập vào mạng – Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldive không thể đọc và ghi vào thư mục dữ liệu:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Tùy chọn: giúp cải thiện Fulldive bằng cách tự động gửi thống kê sử dụng và báo cáo sự cố cho Gab AI Inc.</translation>
+<translation id="8417700129970341035">Tùy chọn: giúp cải thiện Fulldive bằng cách tự động gửi thống kê sử dụng và báo cáo sự cố cho Fulldive.</translation>
 <translation id="1489465648257900784">Không thể sử dụng cấu hình của bạn do cấu hình này đến từ một phiên bản Fulldive mới hơn.
 
 Một số tính năng có thể không khả dụng. Hãy chỉ định thư mục cấu hình khác hoặc sử dụng phiên bản Fulldive mới hơn.</translation>
@@ -42,7 +42,7 @@ Một số tính năng có thể không khả dụng. Hãy chỉ định thư m�
 
 Fulldive không thể khôi phục cài đặt của bạn.</translation>
 <translation id="1477146545787277177">Rất tiếc! Fulldive đã gặp sự cố. Chạy lại ngay bây giờ?</translation>
-<translation id="5785919770853225148">Fulldive sẽ lưu mật khẩu này trong Tài khoản Gab AI Inc của bạn. Bạn sẽ không phải nhớ mật khẩu này.</translation>
+<translation id="5785919770853225148">Fulldive sẽ lưu mật khẩu này trong Tài khoản Fulldive của bạn. Bạn sẽ không phải nhớ mật khẩu này.</translation>
 <translation id="8211837073776713955">Fulldive cho bạn biết mật khẩu của bạn có bị đánh cắp hay không</translation>
 <translation id="113959764510199339">Fulldive đang cố gắng hiển thị mật khẩu.</translation>
 <translation id="96347285368592620">Fulldive đang cố gắng sao chép mật khẩu.</translation>
@@ -83,7 +83,7 @@ Fulldive không thể khôi phục cài đặt của bạn.</translation>
 <translation id="9183662282810237335">Bạn vẫn muốn thoát khỏi Fulldive?</translation>
 <translation id="3834935463915107022">Bạn vẫn muốn thoát khỏi Fulldive?</translation>
 <translation id="8797356639448065696">Fulldive đang chạy trong nền.</translation>
-<translation id="2339258256897053758">Khóa API của Gab AI Inc bị thiếu. Một số chức năng của Fulldive sẽ bị tắt.</translation>
+<translation id="2339258256897053758">Khóa API của Fulldive bị thiếu. Một số chức năng của Fulldive sẽ bị tắt.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> đã được thêm vào Fulldive</translation>
 <translation id="8516116288943000095">Đồng thời xóa dữ liệu khỏi Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Ẩn trong menu Fulldive</translation>
@@ -107,8 +107,8 @@ Fulldive không thể khôi phục cài đặt của bạn.</translation>
 <translation id="2925193881330501265">Bạn đã đăng nhập vào Fulldive là <ph name="USER_EMAIL_ADDRESS"/>. Vui lòng sử dụng cùng tài khoản để đăng nhập lại.</translation>
 <translation id="847561904663814268">Ai đó trước đây đã đăng nhập vào Fulldive trên máy tính này bằng <ph name="ACCOUNT_EMAIL_LAST"/>. Vui lòng tạo người dùng Fulldive mới để giữ riêng biệt thông tin của bạn.</translation>
 <translation id="1853997773668795891">Bạn muốn liên kết dữ liệu Fulldive của bạn với tài khoản này?</translation>
-<translation id="1326766910007115955">Bạn đang đăng nhập bằng tài khoản được quản lý và cấp cho quản trị viên của tài khoản quyền kiểm soát cấu hình Fulldive của bạn. Dữ liệu Fulldive của bạn, chẳng hạn như ứng dụng, dấu trang, lịch sử, mật khẩu và các cài đặt khác sẽ vĩnh viễn được liên kết với <ph name="USER_NAME"/>. Bạn có thể xóa dữ liệu này thông qua Trang tổng quan của tài khoản Gab AI Inc nhưng không thể liên kết dữ liệu này với tài khoản khác. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Bạn đang đăng nhập bằng tài khoản được quản lý và cấp cho quản trị viên của tài khoản quyền kiểm soát cấu hình Fulldive của bạn. Dữ liệu Fulldive của bạn, chẳng hạn như ứng dụng, dấu trang, lịch sử, mật khẩu và các cài đặt khác sẽ vĩnh viễn được liên kết với <ph name="USER_NAME"/>. Bạn có thể xóa dữ liệu này thông qua Trang tổng quan của tài khoản Gab AI Inc nhưng không thể liên kết dữ liệu này với tài khoản khác. Bạn có thể tùy chọn tạo cấu hình mới để giữ cho dữ liệu Fulldive hiện có của bạn riêng biệt. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Bạn đang đăng nhập bằng tài khoản được quản lý và cấp cho quản trị viên của tài khoản quyền kiểm soát cấu hình Fulldive của bạn. Dữ liệu Fulldive của bạn, chẳng hạn như ứng dụng, dấu trang, lịch sử, mật khẩu và các cài đặt khác sẽ vĩnh viễn được liên kết với <ph name="USER_NAME"/>. Bạn có thể xóa dữ liệu này thông qua Trang tổng quan của tài khoản Fulldive nhưng không thể liên kết dữ liệu này với tài khoản khác. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Bạn đang đăng nhập bằng tài khoản được quản lý và cấp cho quản trị viên của tài khoản quyền kiểm soát cấu hình Fulldive của bạn. Dữ liệu Fulldive của bạn, chẳng hạn như ứng dụng, dấu trang, lịch sử, mật khẩu và các cài đặt khác sẽ vĩnh viễn được liên kết với <ph name="USER_NAME"/>. Bạn có thể xóa dữ liệu này thông qua Trang tổng quan của tài khoản Fulldive nhưng không thể liên kết dữ liệu này với tài khoản khác. Bạn có thể tùy chọn tạo cấu hình mới để giữ cho dữ liệu Fulldive hiện có của bạn riêng biệt. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Quản trị viên hệ thống của bạn đã định cấu hình Fulldive để mở một trình duyệt thay thế khi truy cập vào <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">Quản trị viên hệ thống đã định cấu hình Fulldive để mở <ph name="ALTERNATIVE_BROWSER_NAME"/> khi truy cập vào <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> trước đó đã sử dụng Fulldive</translation>
@@ -132,7 +132,7 @@ Fulldive không thể khôi phục cài đặt của bạn.</translation>
 <translation id="239760341987199724">Đặt Fulldive là trình duyệt mặc định của bạn</translation>
 <translation id="669092380621816981">Dữ liệu duyệt web của người này sẽ bị xóa khỏi thiết bị này. Để khôi phục dữ liệu, hãy đăng nhập vào Fulldive bằng <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Fulldive được cải tiến hơn</translation>
-<translation id="7192666605334070839">Giờ đây, việc sử dụng Fulldive bằng tài khoản Gab AI Inc của bạn và trên máy tính dùng chung trở nên dễ dàng hơn.</translation>
+<translation id="7192666605334070839">Giờ đây, việc sử dụng Fulldive bằng tài khoản Fulldive của bạn và trên máy tính dùng chung trở nên dễ dàng hơn.</translation>
 <translation id="4100716194836114130">Đây là Fulldive của bạn</translation>
 <translation id="3511996232906761537">Web, dấu trang và các nội dung khác của bạn trên Fulldive đều có ở đây.</translation>
 <translation id="7406627712452599344">Khách có thể sử dụng Fulldive mà không phải thoát khỏi bất cứ nội dung nào.</translation>
@@ -147,9 +147,9 @@ Fulldive không thể khôi phục cài đặt của bạn.</translation>
 <translation id="2871190378186459992">Khám phá các ứng dụng, trò chơi, tiện ích và chủ đề tuyệt vời cho Fulldive.</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">Quy tắc kết nối để Fulldive cho phép lưu lượng truy cập mDNS.</translation>
-<translation id="8207657266087451193">Fulldive sẽ cố gắng mô tả cho bạn những hình ảnh không có nội dung mô tả hữu ích. Để tạo nội dung mô tả, các hình ảnh sẽ được gửi cho Gab AI Inc. Bạn có thể tắt dịch vụ này trong phần cài đặt bất kỳ lúc nào.</translation>
-<translation id="5499063270485366718">Fulldive sẽ cố gắng mô tả cho bạn những hình ảnh không có nội dung mô tả hữu ích. Để tạo nội dung mô tả, các hình ảnh sẽ được gửi cho Gab AI Inc.</translation>
-<translation id="215320507915280336">Dịch vụ này sử dụng cùng một trình kiểm tra chính tả dùng trong Gab AI Inc Tìm kiếm. Thông tin bạn nhập vào trình duyệt sẽ được gửi tới Gab AI Inc. Bạn luôn có thể thay đổi hành động này trong phần cài đặt.</translation>
+<translation id="8207657266087451193">Fulldive sẽ cố gắng mô tả cho bạn những hình ảnh không có nội dung mô tả hữu ích. Để tạo nội dung mô tả, các hình ảnh sẽ được gửi cho Fulldive. Bạn có thể tắt dịch vụ này trong phần cài đặt bất kỳ lúc nào.</translation>
+<translation id="5499063270485366718">Fulldive sẽ cố gắng mô tả cho bạn những hình ảnh không có nội dung mô tả hữu ích. Để tạo nội dung mô tả, các hình ảnh sẽ được gửi cho Fulldive.</translation>
+<translation id="215320507915280336">Dịch vụ này sử dụng cùng một trình kiểm tra chính tả dùng trong Fulldive Tìm kiếm. Thông tin bạn nhập vào trình duyệt sẽ được gửi tới Fulldive. Bạn luôn có thể thay đổi hành động này trong phần cài đặt.</translation>
 <translation id="1807774211756215222">Mở liên kết trong tab mới của Fulldive</translation>
 <translation id="4624945300945265642">Mở liên kết trong cửa sổ ẩn danh của Fulldive</translation>
 <translation id="7863882214613921971">Mở liên kết trong tab mới của Fulldive</translation>
@@ -203,7 +203,7 @@ Fulldive không thể khôi phục cài đặt của bạn.</translation>
 <translation id="7573289029918943991">Để kiểm tra xem thiết bị của bạn đã cập nhật hay chưa, hãy chuyển đến phần <ph name="LINK_BEGIN"/>Cài đặt Fulldive OS<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Nhận trợ giúp về Fulldive OS</translation>
 <translation id="38898988211673781">Xóa cookie và dữ liệu trang web khi bạn thoát khỏi Fulldive</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (đã sao chép vào Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (đã sao chép vào Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive là trình duyệt mặc định của bạn</translation>
 <translation id="1775322105159056176">Fulldive không thể xác định hoặc đặt trình duyệt mặc định</translation>
 <translation id="6915252145142862992">Đây là cài đặt thứ cấp của Fulldive và không thể trở thành trình duyệt mặc định của bạn.</translation>
@@ -211,10 +211,10 @@ Fulldive không thể khôi phục cài đặt của bạn.</translation>
       cài đặt trên trình duyệt Fulldive<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Nếu một tùy chọn cài đặt không hiển thị trên trang này, hãy tìm trong mục <ph name="LINK_BEGIN"/>
       cài đặt của Fulldive OS<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Để sửa lỗi chính tả, Fulldive sẽ gửi cho Gab AI Inc nội dung bạn nhập vào các trường văn bản</translation>
+<translation id="2312399718665761438">Để sửa lỗi chính tả, Fulldive sẽ gửi cho Fulldive nội dung bạn nhập vào các trường văn bản</translation>
 <translation id="8586264863973514035">Để áp dụng các mục thay đổi của bạn, hãy chạy lại Fulldive</translation>
 <translation id="7021823858304886493">Cho phép đăng nhập vào Fulldive</translation>
-<translation id="1649714546770135458">Bằng việc tắt tính năng này, bạn có thể đăng nhập vào các trang web của Gab AI Inc, chẳng hạn như Gmail mà không cần đăng nhập vào Fulldive</translation>
+<translation id="1649714546770135458">Bằng việc tắt tính năng này, bạn có thể đăng nhập vào các trang web của Fulldive, chẳng hạn như Gmail mà không cần đăng nhập vào Fulldive</translation>
 <translation id="2796517443093885402">Fulldive có thể giúp bảo vệ bạn trước các sự cố rò rỉ dữ liệu, tiện ích độc hại và những vấn đề khác</translation>
 <translation id="428541510811554120">Fulldive không thể kiểm tra các bản cập nhật. Hãy thử kiểm tra kết nối Internet.</translation>
 <translation id="2633397153656205379">Đã xảy ra lỗi nên Fulldive chưa cập nhật được. <ph name="BEGIN_LINK"/>Hãy khắc phục các vấn đề cập nhật và các bản cập nhật không thành công của Fulldive.<ph name="END_LINK"/></translation>

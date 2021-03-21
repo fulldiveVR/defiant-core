@@ -10,7 +10,7 @@
 <translation id="4847979153841887006">Fulldive logotips</translation>
 <translation id="7339898014177206373">Jauns logs</translation>
 <translation id="5516268345616100622">Uzdevumu pārvaldnieks — Fulldive</translation>
-<translation id="7918740962659365265">Palīdzēt uzlabot Fulldive, nosūtot Gab AI Inc serveriem avāriju pārskatus un <ph name="UMA_LINK"/></translation>
+<translation id="7918740962659365265">Palīdzēt uzlabot Fulldive, nosūtot Fulldive serveriem avāriju pārskatus un <ph name="UMA_LINK"/></translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> — Fulldive</translation>
 <translation id="7830723774663008396">Fulldive — <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> — pierakstīšanās tīklā — Fulldive</translation>
@@ -36,14 +36,14 @@
 <translation id="2585240446624043880">Fulldive nevar nolasīt savu datu direktoriju un ierakstīt tajā:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Izvēles: palīdziet uzlabot Fulldive, automātiski nosūtot lietojuma statistiku un avārijas pārskatus uzņēmumam Gab AI Inc.</translation>
+<translation id="8417700129970341035">Izvēles: palīdziet uzlabot Fulldive, automātiski nosūtot lietojuma statistiku un avārijas pārskatus uzņēmumam Fulldive.</translation>
 <translation id="1489465648257900784">Jūsu profilu nevar izmantot, jo tas ir no jaunākas Fulldive versijas.
 
 Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai izmantojiet jaunāku Fulldive versiju.</translation>
 <translation id="1065672644894730302">Jūsu preferences nevar nolasīt. Dažas funkcijas var nebūt pieejamas, un preferenču izmaiņas netiks saglabātas</translation>
 <translation id="3403365884036456766">Jūsu preferenču fails ir bojāts vai nederīgs. Fulldive nespēj atkopt jūsu iestatījumus.</translation>
 <translation id="1477146545787277177">Eh! Fulldive ir avarējis. Vai restartēt to tūlīt?</translation>
-<translation id="5785919770853225148">Pārlūks Fulldive saglabās šo paroli jūsu Gab AI Inc kontā. To nav nepieciešams iegaumēt.</translation>
+<translation id="5785919770853225148">Pārlūks Fulldive saglabās šo paroli jūsu Fulldive kontā. To nav nepieciešams iegaumēt.</translation>
 <translation id="8211837073776713955">Ja jūsu paroles kādreiz tiks apdraudētas, pārlūkā Fulldive saņemsiet paziņojumu</translation>
 <translation id="113959764510199339">Fulldive mēģina rādīt paroles.</translation>
 <translation id="96347285368592620">Fulldive mēģina nokopēt paroles.</translation>
@@ -84,7 +84,7 @@ Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai iz
 <translation id="9183662282810237335">Vai tik un tā aizvērt pārlūku Fulldive?</translation>
 <translation id="3834935463915107022">Vai tik un tā aizvērt pārlūku Fulldive?</translation>
 <translation id="8797356639448065696">Fulldive darbojas fona režīmā.</translation>
-<translation id="2339258256897053758">Trūkst Gab AI Inc API atslēgu. Tiks atspējotas dažas Fulldive funkcijas.</translation>
+<translation id="2339258256897053758">Trūkst Fulldive API atslēgu. Tiks atspējotas dažas Fulldive funkcijas.</translation>
 <translation id="7861579472672677409">Paplašinājums <ph name="EXTENSION_NAME"/> ir pievienots pārlūkam Fulldive</translation>
 <translation id="8516116288943000095">Notīrīt arī datus no Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Paslēpt Fulldive izvēlnē</translation>
@@ -108,8 +108,8 @@ Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai iz
 <translation id="2925193881330501265">Operētājsistēmā Fulldive iepriekš pierakstījāties kā lietotājs <ph name="USER_EMAIL_ADDRESS"/>. Lai pierakstītos vēlreiz, lūdzu, izmantojiet to pašu kontu.</translation>
 <translation id="847561904663814268">Kāds iepriekš pierakstījās pārlūkā Fulldive šajā datorā, izmantojot e-pasta adresi <ph name="ACCOUNT_EMAIL_LAST"/>. Lūdzu, izveidojiet jaunu Fulldive lietotāju, lai nošķirtu savu informāciju.</translation>
 <translation id="1853997773668795891">Vai saistīt Fulldive datus ar šo kontu?</translation>
-<translation id="1326766910007115955">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Fulldive dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME"/>. Varēsiet dzēst šos datus, izmantojot Gab AI Inc kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Fulldive dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME"/>. Varēsiet dzēst šos datus, izmantojot Gab AI Inc kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. Ja vēlaties, varat izveidot jaunu profilu, lai atsevišķi glabātu Fulldive datus. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Fulldive dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME"/>. Varēsiet dzēst šos datus, izmantojot Fulldive kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Fulldive dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME"/>. Varēsiet dzēst šos datus, izmantojot Fulldive kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. Ja vēlaties, varat izveidot jaunu profilu, lai atsevišķi glabātu Fulldive datus. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Sistēmas administrators ir konfigurējis Fulldive, lai vietne <ph name="TARGET_URL_HOSTNAME"/> tiktu atvērta papildu pārlūkā.</translation>
 <translation id="5380963249588143069">Jūsu sistēmas administrators ir konfigurējis Fulldive atvērt <ph name="ALTERNATIVE_BROWSER_NAME"/>, lai piekļūtu <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> iepriekš izmantoja Fulldive</translation>
@@ -133,7 +133,7 @@ Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai iz
 <translation id="239760341987199724">Iestatīt Fulldive kā noklusējuma pārlūku</translation>
 <translation id="669092380621816981">Šī lietotāja pārlūkošanas dati tiks dzēsti no šīs ierīces. Lai atkoptu datus, pierakstieties pārlūkprogrammā Fulldive kā lietotājs <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Pārlūkā Fulldive ir veikti uzlabojumi</translation>
-<translation id="7192666605334070839">Tagad pārlūkā Fulldive ir vieglāk izmantot Gab AI Inc kontu, kā arī ir atvieglota lietošana datoros, ko izmanto vairākas personas.</translation>
+<translation id="7192666605334070839">Tagad pārlūkā Fulldive ir vieglāk izmantot Fulldive kontu, kā arī ir atvieglota lietošana datoros, ko izmanto vairākas personas.</translation>
 <translation id="4100716194836114130">Šis ir jūsu Fulldive</translation>
 <translation id="3511996232906761537">Šeit atrodas jūsu tīmekļa saturs, grāmatzīmes un cits Fulldive saturs.</translation>
 <translation id="7406627712452599344">Viesi var izmantot Fulldive, neatstājot nekādas pēdas.</translation>
@@ -156,7 +156,7 @@ Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai iz
 <translation id="3856641371299712128">Fulldive Dev mDNS trafika ienākošā kārtula</translation>
 <translation id="8207657266087451193">Ja attēlam nav derīga apraksta, Fulldive mēģinās Jums to nodrošināt. Lai izveidotu aprakstus, Fulldive tiek nosūtīti attēli. Jūs varat izslēgt šo iespēju iestatījumos jebkurā laikā.</translation>
 <translation id="5499063270485366718">Ja attēlam nav derīga apraksta, Fulldive mēģinās Jums to nodrošināt. Lai izveidotu aprakstus, Fulldive tiek nosūtīti attēli.</translation>
-<translation id="215320507915280336">Šeit tiek izmantota tāds pats pareizrakstības pārbaudītājs, kāds tiek izmantots Gab AI Inc meklēšanā. Pārlūkprogrammā ievadītais teksts tiek nosūtīts Gab AI Inc serveriem. Jebkurā brīdī varat mainīt šo darbību iestatījumos.</translation>
+<translation id="215320507915280336">Šeit tiek izmantota tāds pats pareizrakstības pārbaudītājs, kāds tiek izmantots Fulldive meklēšanā. Pārlūkprogrammā ievadītais teksts tiek nosūtīts Fulldive serveriem. Jebkurā brīdī varat mainīt šo darbību iestatījumos.</translation>
 <translation id="1807774211756215222">Atvērt saiti jaunā Fulldive &amp;cilnē</translation>
 <translation id="4624945300945265642">Atvērt saiti inko&amp;gnito režīma logā</translation>
 <translation id="7863882214613921971">Atvērt saiti jaunā Fulldive &amp;cilnē</translation>
@@ -210,7 +210,7 @@ Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai iz
 <translation id="7573289029918943991">Lai pārbaudītu, vai ierīce ir atjaunināta, pārejiet uz sadaļu <ph name="LINK_BEGIN"/>Fulldive OS iestatījumi<ph name="LINK_END"/>.</translation>
 <translation id="3395323229510056640">Saņemt palīdzību par Fulldive OS</translation>
 <translation id="38898988211673781">Aizverot Fulldive, notīriet sīkfailus un vietnes datus</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (kopēts pārlūkā Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (kopēts pārlūkā Fulldive)</translation>
 <translation id="5468853758063275923">Jūsu noklusējuma pārlūks ir Fulldive.</translation>
 <translation id="1775322105159056176">Fulldive nevar noteikt vai iestatīt noklusējuma pārlūku.</translation>
 <translation id="6915252145142862992">Šī ir Fulldive papildu instalācija, un to nevar izmantot kā noklusējuma pārlūku.</translation>
@@ -218,10 +218,10 @@ Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai iz
       Pārlūkprogrammas Fulldive iestatījumi<ph name="LINK_END"/>.</translation>
 <translation id="5657226924540934362">Ja šajā lapā iestatījums nav pieejams, skatiet to sadaļā <ph name="LINK_BEGIN"/>
       Fulldive OS iestatījumi<ph name="LINK_END"/>.</translation>
-<translation id="2312399718665761438">Lai izlabotu pareizrakstības kļūdas, Fulldive nosūta teksta laukos ievadīto tekstu Gab AI Inc serveriem.</translation>
+<translation id="2312399718665761438">Lai izlabotu pareizrakstības kļūdas, Fulldive nosūta teksta laukos ievadīto tekstu Fulldive serveriem.</translation>
 <translation id="8586264863973514035">Lai ieviestu veiktās izmaiņas, atkārtoti palaidiet pārlūku Fulldive.</translation>
 <translation id="7021823858304886493">Atļaut pierakstīties pārlūkā Fulldive</translation>
-<translation id="1649714546770135458">Ja izslēgsiet šo iestatījumu, varēsiet pierakstīties Gab AI Inc vietnēs, piemēram, pakalpojumā Gmail, nepierakstoties pārlūkā Fulldive.</translation>
+<translation id="1649714546770135458">Ja izslēgsiet šo iestatījumu, varēsiet pierakstīties Fulldive vietnēs, piemēram, pakalpojumā Gmail, nepierakstoties pārlūkā Fulldive.</translation>
 <translation id="2796517443093885402">Fulldive var palīdzēt aizsargāt jūs pret datu noplūdi, ļaunprātīgiem paplašinājumiem un citiem apdraudējumiem.</translation>
 <translation id="428541510811554120">Pārlūkprogrammā Fulldive nevar pārbaudīt atjauninājumu pieejamību. Pārbaudiet interneta savienojumu.</translation>
 <translation id="2633397153656205379">Pārlūkprogramma Fulldive netika atjaunināta. Radās problēma. <ph name="BEGIN_LINK"/>Novērsiet Fulldive atjaunināšanas problēmas.<ph name="END_LINK"/></translation>

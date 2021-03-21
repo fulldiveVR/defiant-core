@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">Hasil penelusuran tidak ditemukan</translation>
 <translation id="8967866634928501045">Tekan Alt Shift A untuk menampilkan</translation>
 <translation id="998747458861718449">I&amp;nspeksi</translation>
-<translation id="4428301600092811022">Dapatkan deskripsi gambar dari Gab AI Inc?</translation>
+<translation id="4428301600092811022">Dapatkan deskripsi gambar dari Fulldive?</translation>
 <translation id="741204030948306876">Ya, saya ikut</translation>
 <translation id="780301667611848630">Lain kali</translation>
 <translation id="3943582379552582368">&amp;Mundur</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">&amp;Tempel</translation>
 <translation id="2218515861914035131">Tempel sebagai teks biasa</translation>
 <translation id="1017280919048282932">&amp;Tambahkan ke kamus</translation>
-<translation id="1732768497619250086">Dapatkan deskripsi gambar dari Gab AI Inc</translation>
+<translation id="1732768497619250086">Dapatkan deskripsi gambar dari Fulldive</translation>
 <translation id="7561196759112975576">Selalu</translation>
 <translation id="2241634353105152135">Hanya sekali</translation>
 <translation id="3387614642886316601">Gunakan fitur periksa ejaan yang disempurnakan</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">Aktifkan</translation>
 <translation id="7658239707568436148">Batal</translation>
 <translation id="8915370057835397490">Memuat saran</translation>
-<translation id="6191804255817539692">Tidak ada lagi saran dari Gab AI Inc</translation>
+<translation id="6191804255817539692">Tidak ada lagi saran dari Fulldive</translation>
 <translation id="1901303067676059328">Pilih semu&amp;a</translation>
 <translation id="3797900183766075808">&amp;Menelusuri <ph name="SEARCH_ENGINE"/> untuk “<ph name="SEARCH_TERMS"/>”</translation>
 <translation id="2721037002783622288">&amp;Telusuri <ph name="SEARCH_ENGINE"/> untuk gambar</translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">&amp;Tempel</translation>
 <translation id="1815083418640426271">Tempel Sebagai Teks Biasa</translation>
 <translation id="4022426551683927403">T&amp;ambahkan ke Kamus</translation>
-<translation id="6849870115130610913">Dapatkan Deskripsi Gambar dari Gab AI Inc</translation>
+<translation id="6849870115130610913">Dapatkan Deskripsi Gambar dari Fulldive</translation>
 <translation id="372722114124766626">Sekali Saja</translation>
 <translation id="4079140982534148664">Gunakan fitur Periksa Ejaan yang Disempurnakan</translation>
 <translation id="7487141338393529395">Aktifkan fitur Periksa Ejaan yang Disempurnakan</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/> berisi konten sensitif.</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/> berisi konten sensitif, dan telah diblokir.</translation>
 <translation id="6651823585377804376">Hasil download berisi malware.</translation>
-<translation id="6529597483902964581"><ph name="FILE_NAME"/> mungkin berbahaya. Kirim file ke Perlindungan Lanjutan Gab AI Inc untuk dipindai?</translation>
+<translation id="6529597483902964581"><ph name="FILE_NAME"/> mungkin berbahaya. Kirim file ke Perlindungan Lanjutan Fulldive untuk dipindai?</translation>
 <translation id="4907161631261076876">File ini tidak biasa didownload dan mungkin berbahaya.</translation>
 <translation id="6102043788063419338">File ini diblokir oleh Perlindungan Lanjutan.</translation>
 <translation id="2773802008104670137">Jenis file ini dapat membahayakan komputer.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Download dibatalkan: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Download selesai: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Download selesai: <ph name="FILE_NAME"/>. Tekan Shift+F6 untuk masuk ke area kotak download</translation>
-<translation id="7033965027041115562"><ph name="FILE_NAME"/> mungkin berbahaya. Kirim file ke Perlindungan Lanjutan Gab AI Inc untuk dipindai? Tekan Shift+F6 untuk masuk ke area kotak download.</translation>
+<translation id="7033965027041115562"><ph name="FILE_NAME"/> mungkin berbahaya. Kirim file ke Perlindungan Lanjutan Fulldive untuk dipindai? Tekan Shift+F6 untuk masuk ke area kotak download.</translation>
 <translation id="2743387203779672305">Salin ke papan klip</translation>
 <translation id="883911313571074303">Gambar anotasi</translation>
 <translation id="6291953229176937411">&amp;Tampilkan di Penemu</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">Keluar</translation>
 <translation id="7376221878517288144">Tetap keluar dari mode pribadi?</translation>
 <translation id="973473557718930265">Keluar</translation>
-<translation id="7707599169365957976">Anda dapat membantu menyempurnakan Safe Browsing dengan mengirimkan sebagian informasi sistem dan konten halaman ke Gab AI Inc.</translation>
+<translation id="7707599169365957976">Anda dapat membantu menyempurnakan Safe Browsing dengan mengirimkan sebagian informasi sistem dan konten halaman ke Fulldive.</translation>
 <translation id="4923279099980110923">Ya, saya ingin membantu</translation>
 <translation id="2316129865977710310">Lain kali</translation>
 <translation id="9169931577761441333">Tambahkan <ph name="APP_NAME"/> ke layar Utama</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">Tema "<ph name="THEME_NAME"/>" telah terinstal</translation>
 <translation id="2256115617011615191">Mulai ulang sekarang</translation>
 <translation id="4545028762441890696">Untuk mengaktifkannya kembali, setujui izin baru:</translation>
-<translation id="3009487527589249344">Gab AI Inc telah menandai "<ph name="EXTENSION_NAME"/>" sebagai berbahaya dan penginstalannya telah dicegah</translation>
+<translation id="3009487527589249344">Fulldive telah menandai "<ph name="EXTENSION_NAME"/>" sebagai berbahaya dan penginstalannya telah dicegah</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> telah ditambahkan dari jauh</translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> nonaktif</translation>
 <translation id="595959584676692139">Muat ulang halaman untuk menggunakan ekstensi ini</translation>
@@ -970,7 +970,7 @@
 <translation id="3584169441612580296">Membaca dan mengubah foto, musik, serta media lain dari komputer Anda</translation>
 <translation id="5457459357461771897">Membaca dan menghapus foto, musik, serta media lain dari komputer Anda</translation>
 <translation id="3270965368676314374">Membaca, mengubah, dan menghapus foto, musik, serta media lain dari komputer Anda</translation>
-<translation id="1285484354230578868">Simpan data di akun Gab AI Inc Drive Anda</translation>
+<translation id="1285484354230578868">Simpan data di akun Fulldive Drive Anda</translation>
 <translation id="378312418865624974">Membaca pengenal unik untuk komputer ini</translation>
 <translation id="5094721898978802975">Berkomunikasi dengan aplikasi asli yang kooperatif</translation>
 <translation id="4876895919560854374">Kunci dan buka kunci layar</translation>
@@ -1181,7 +1181,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="8756969031206844760">Perbarui sandi?</translation>
 <translation id="8230134520748321204">Simpan sandi untuk <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">Perbarui sandi untuk <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Sandi disimpan di Akun Gab AI Inc agar Anda dapat menggunakannya di perangkat mana pun</translation>
+<translation id="8284000761603848448">Sandi disimpan di Akun Fulldive agar Anda dapat menggunakannya di perangkat mana pun</translation>
 <translation id="8286036467436129157">Masuk</translation>
 <translation id="8009225694047762179">Kelola Kata sandi</translation>
 <translation id="3950820424414687140">Masuk</translation>
@@ -1189,10 +1189,10 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="328571385944182268">Simpan sandi Anda?</translation>
 <translation id="3753033997400164841">Simpan sekali. Gunakan di mana saja</translation>
 <translation id="1703331064825191675">Tidak perlu mengkhawatirkan sandi Anda</translation>
-<translation id="2341030170677284705">Simpan sandi dengan aman di Akun Gab AI Inc Anda, dan Anda tidak perlu lagi mengetikkannya</translation>
-<translation id="3913985461352963178">Akses sandi kapan pun Anda login ke Akun Gab AI Inc Anda</translation>
-<translation id="4851124464356820177">Untuk menyimpan sandi ke Akun Gab AI Inc Anda, login dan aktifkan sinkronisasi.</translation>
-<translation id="3229869963989850535">Untuk menyimpan sandi ke Akun Gab AI Inc Anda, aktifkan sinkronisasi.</translation>
+<translation id="2341030170677284705">Simpan sandi dengan aman di Akun Fulldive Anda, dan Anda tidak perlu lagi mengetikkannya</translation>
+<translation id="3913985461352963178">Akses sandi kapan pun Anda login ke Akun Fulldive Anda</translation>
+<translation id="4851124464356820177">Untuk menyimpan sandi ke Akun Fulldive Anda, login dan aktifkan sinkronisasi.</translation>
+<translation id="3229869963989850535">Untuk menyimpan sandi ke Akun Fulldive Anda, aktifkan sinkronisasi.</translation>
 <translation id="1056466516655540509">Diupdate <ph name="MINUTES"/> menit yang lalu</translation>
 <translation id="8743864605301774756">Diupdate 1 jam yang lalu</translation>
 <translation id="7363117941401515667">Diupdate <ph name="HOURS"/> jam yang lalu</translation>
@@ -1296,9 +1296,9 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="1246905108078336582">Hapus saran dari papan klip?</translation>
 <translation id="825238165904109940">Selalu Tampilkan URL Lengkap</translation>
 <translation id="3416468988018290825">Selalu tampilkan URL lengkap</translation>
-<translation id="2129873093718581193">Telusuri di Gab AI Inc atau ketik URL</translation>
-<translation id="6363797201514053536">Telusuri Gab AI Inc atau ketik URL</translation>
-<translation id="4888839742663123585">Telusuri Gab AI Inc</translation>
+<translation id="2129873093718581193">Telusuri di Fulldive atau ketik URL</translation>
+<translation id="6363797201514053536">Telusuri Fulldive atau ketik URL</translation>
+<translation id="4888839742663123585">Telusuri Fulldive</translation>
 <translation id="6078323886959318429">Tambahkan pintasan</translation>
 <translation id="6324916366299863871">Edit pintasan</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1482,35 +1482,35 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6798578729981748444">Untuk menyelesaikan impor, tutup semua jendela Firefox.</translation>
 <translation id="6374469231428023295">Coba Lagi</translation>
 <translation id="8725066075913043281">Coba lagi</translation>
-<translation id="4196805003686694274">Kirim Masukan ke Gab AI Inc</translation>
+<translation id="4196805003686694274">Kirim Masukan ke Fulldive</translation>
 <translation id="3424969259347320884">Jelaskan yang Anda Lakukan Saat Tab Error</translation>
-<translation id="1892630320532151038">Kirim masukan ke Gab AI Inc</translation>
+<translation id="1892630320532151038">Kirim masukan ke Fulldive</translation>
 <translation id="2428510569851653187">Jelaskan yang Anda lakukan saat tab error</translation>
 <translation id="5659593005791499971">Email</translation>
 <translation id="2982970937345031">Laporkan secara anonim</translation>
 <translation id="6076448957780543068">Sertakan screenshot ini</translation>
 <translation id="2865919525181940183">Screenshot program yang sedang ditampilkan di layar</translation>
 <translation id="7052237160939977163">Mengirim data pelacakan kinerja</translation>
-<translation id="5526928694260255286">Lampirkan <ph name="BEGIN_LINK"/>Log Bluetooth<ph name="END_LINK"/> (internal Gab AI Inc)</translation>
+<translation id="5526928694260255286">Lampirkan <ph name="BEGIN_LINK"/>Log Bluetooth<ph name="END_LINK"/> (internal Fulldive)</translation>
 <translation id="3047644958362961983">Informasi ini membantu kami memahami masalah Asisten dengan lebih baik. Informasi tersebut disimpan selama 90 hari dan hanya dapat diakses oleh tim teknis dan masukan yang terkait.</translation>
-<translation id="8545590844135745781">Untuk mendiagnosis masalah Bluetooth dengan lebih baik, Gab AI Incr dapat menyertakan log Bluetooth tambahan dengan laporan umpannya. Jika opsi ini dicentang, laporan Anda akan menyertakan log HCI dan btsnoop dari sesi Anda saat ini, yang dihapus untuk membuang PII sebanyak mungkin. Akses ke log ini akan dibatasi pada pengelola grup produk Fulldive OS di Listnr. Log akan dihapus setelah 90 hari.</translation>
+<translation id="8545590844135745781">Untuk mendiagnosis masalah Bluetooth dengan lebih baik, Fulldiver dapat menyertakan log Bluetooth tambahan dengan laporan umpannya. Jika opsi ini dicentang, laporan Anda akan menyertakan log HCI dan btsnoop dari sesi Anda saat ini, yang dihapus untuk membuang PII sebanyak mungkin. Akses ke log ini akan dibatasi pada pengelola grup produk Fulldive OS di Listnr. Log akan dihapus setelah 90 hari.</translation>
 <translation id="4206323443866416204">Laporan Masukan</translation>
 <translation id="3681311097828166361">Terima kasih atas masukannya. Anda sedang offline, laporan akan dikirim nanti.</translation>
 <translation id="8713570323158206935">Kirim <ph name="BEGIN_LINK1"/>sistem informasi<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962">Kirim <ph name="BEGIN_LINK1"/>informasi sistem<ph name="END_LINK1"/> dan <ph name="BEGIN_LINK2"/>metrik<ph name="END_LINK2"/></translation>
 <translation id="6270770586500173387">Kirim <ph name="BEGIN_LINK1"/>informasi aplikasi dan sistem<ph name="END_LINK1"/> serta <ph name="BEGIN_LINK2"/>metrik<ph name="END_LINK2"/></translation>
 <translation id="3894123633473837029">Sertakan histori Asisten terbaru melalui Sherlog. Informasi ini mencakup identitas, lokasi, dan info debug Anda <ph name="BEGIN_LINK"/>Pelajari lebih lanjut<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">File akan dikirim ke Gab AI Inc untuk proses debug</translation>
+<translation id="8329196515830093443">File akan dikirim ke Fulldive untuk proses debug</translation>
 <translation id="8227119283605456246">Lampirkan file</translation>
 <translation id="5367091008316207019">Membaca file..</translation>
 <translation id="2554553592469060349">File yang dipilih terlalu besar (ukuran maksimum: 3 MB).</translation>
 <translation id="4690091457710545971">&lt;Empat file dibuat oleh firmware Wi-Fi Intel: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon.  Ketiga file pertama adalah file biner yang berisi dump pendaftaran, dan dinyatakan oleh Intel tidak berisi informasi pribadi atau yang mengidentifikasi perangkat.  File terakhir adalah pelacakan eksekusi dari firmware Intel; file tersebut telah dibersihkan dari informasi pribadi atau yang mengidentifikasi perangkat, namun terlalu besar untuk ditampilkan di sini.  Semua file tersebut dibuat untuk merespons masalah Wi-Fi baru-baru ini di perangkat Anda, dan akan dibagikan kepada Intel untuk membantu memecahkan masalah tersebut.&gt;</translation>
-<translation id="6972420083546794501">Buka <ph name="BEGIN_LINK1"/>halaman Bantuan Hukum<ph name="END_LINK1"/> untuk meminta perubahan konten karena alasan hukum.  Sebagian informasi akun dan sistem dapat dikirimkan ke Gab AI Inc.  Kami akan menggunakan informasi yang Anda berikan untuk membantu mengatasi masalah teknis dan untuk menyempurnakan layanan kami. Penggunaan informasi ini tunduk pada <ph name="BEGIN_LINK2"/>Kebijakan Privasi<ph name="END_LINK2"/> dan <ph name="BEGIN_LINK3"/>Persyaratan Layanan<ph name="END_LINK3"/> kami.</translation>
+<translation id="6972420083546794501">Buka <ph name="BEGIN_LINK1"/>halaman Bantuan Hukum<ph name="END_LINK1"/> untuk meminta perubahan konten karena alasan hukum.  Sebagian informasi akun dan sistem dapat dikirimkan ke Fulldive.  Kami akan menggunakan informasi yang Anda berikan untuk membantu mengatasi masalah teknis dan untuk menyempurnakan layanan kami. Penggunaan informasi ini tunduk pada <ph name="BEGIN_LINK2"/>Kebijakan Privasi<ph name="END_LINK2"/> dan <ph name="BEGIN_LINK3"/>Persyaratan Layanan<ph name="END_LINK3"/> kami.</translation>
 <translation id="7915471803647590281">Beri tahu kami apa yang terjadi sebelum mengirim masukan.</translation>
 <translation id="6885771755599377173">Pratinjau Informasi Sistem</translation>
 <translation id="1016566241875885511">Info tambahan (opsional)</translation>
 <translation id="8026334261755873520">Hapus data browsing</translation>
-<translation id="4718442817388594217">Data yang dipilih telah dihapus dari Fulldive dan perangkat yang disinkronkan. Akun Gab AI Inc Anda mungkin memiliki bentuk histori browsing lain seperti penelusuran dan aktivitas dari layanan Gab AI Inc lainnya di <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="4718442817388594217">Data yang dipilih telah dihapus dari Fulldive dan perangkat yang disinkronkan. Akun Fulldive Anda mungkin memiliki bentuk histori browsing lain seperti penelusuran dan aktivitas dari layanan Fulldive lainnya di <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7814200940910057384">Data Fulldive telah dihapus</translation>
 <translation id="7346909386216857016">Oke, mengerti</translation>
 <translation id="8493236660459102203">Mikrofon:</translation>
@@ -1533,7 +1533,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="284805635805850872">Hapus software berbahaya?</translation>
 <translation id="489985760463306091">Untuk menyelesaikan proses penghapusan software berbahaya, nyalakan ulang komputer Anda</translation>
 <translation id="7598466960084663009">Nyalakan ulang komputer</translation>
-<translation id="2819091349626575960">Laporkan detail ke Gab AI Inc</translation>
+<translation id="2819091349626575960">Laporkan detail ke Fulldive</translation>
 <translation id="4099060993766194518">Pulihkan mesin telusur default?</translation>
 <translation id="138784436342154190">Pulihkan halaman awal default?</translation>
 <translation id="5086874064903147617">Pulihkan beranda default?</translation>
@@ -1643,10 +1643,10 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="3693415264595406141">Sandi:</translation>
 <translation id="9111102763498581341">Buka kunci</translation>
 <translation id="2190355936436201913">(kosong)</translation>
-<translation id="9079153198295609735">Kirim statistik penggunaan dan laporan error ke Gab AI Inc secara otomatis</translation>
+<translation id="9079153198295609735">Kirim statistik penggunaan dan laporan error ke Fulldive secara otomatis</translation>
 <translation id="7136984461011502314">Selamat datang di <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> siap menyelesaikan penginstalan</translation>
-<translation id="4711067597921221305">Bantu menjadikan <ph name="PRODUCT_NAME"/> lebih baik dengan mengirim statistik penggunaan dan laporan kerusakan secara otomatis ke Gab AI Inc</translation>
+<translation id="4711067597921221305">Bantu menjadikan <ph name="PRODUCT_NAME"/> lebih baik dengan mengirim statistik penggunaan dan laporan kerusakan secara otomatis ke Fulldive</translation>
 <translation id="5972826969634861500">Mulai <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Bantu engineer kami menyelidiki dan memperbaiki error ini. Cantumkan langkah-langkah yang tepat jika Anda bisa. Tidak ada detail yang sepele.</translation>
 <translation id="5418694430960033386">Fulldive kehabisan memori atau proses untuk halaman web dihentikan karena beberapa alasan lain. Untuk melanjutkan, muat ulang atau buka halaman lain.</translation>
@@ -1659,7 +1659,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Platform</translation>
 <translation id="7022562585984256452">Beranda Anda telah disetel.</translation>
-<translation id="8069615408251337349">Gab AI Inc Cloud Print</translation>
+<translation id="8069615408251337349">Fulldive Cloud Print</translation>
 <translation id="4973307593867026061">Tambahkan printer</translation>
 <translation id="9052208328806230490">Anda telah mendaftarkan printer dengan <ph name="CLOUD_PRINT_NAME"/> menggunakan akun <ph name="EMAIL"/></translation>
 <translation id="3792890930871100565">Lepaskan sambungan printer</translation>
@@ -1693,7 +1693,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="7063129466199351735">Memproses pintasan...</translation>
 <translation id="8987927404178983737">Bulan</translation>
 <translation id="6015796118275082299">Tahun</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Gunakan bilah judul dan batas sistem</translation>
 <translation id="3293644607209440645">Kirim halaman ini</translation>
 <translation id="1521774566618522728">Aktif hari ini</translation>
@@ -1747,7 +1747,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="8930351635855238750">Setelan cookie baru akan berlaku setelah halaman dimuat ulang</translation>
 <translation id="2568774940984945469">Infobar Container</translation>
 <translation id="7282992757463864530">Infobar</translation>
-<translation id="1805077115206898822">Bookmark, histori, dan setelan lainnya akan disinkronkan ke Akun Gab AI Inc.</translation>
+<translation id="1805077115206898822">Bookmark, histori, dan setelan lainnya akan disinkronkan ke Akun Fulldive.</translation>
 <translation id="1974060860693918893">Lanjutan</translation>
 <translation id="2445484935443597917">Buat Profil Baru</translation>
 <translation id="2606246518223360146">Tautkan Data</translation>
@@ -1834,7 +1834,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6387674443318562538">Pisahkan Vertikal</translation>
 <translation id="1231733316453485619">Aktifkan sinkronisasi?</translation>
 <translation id="4736292055110123391">Sinkronisasikan bookmark, sandi, histori, dan lainnya di semua perangkat Anda</translation>
-<translation id="5736731321935944068">Gab AI Inc dapat menggunakan histori Anda untuk mempersonalisasi Penelusuran, iklan, dan layanan Gab AI Inc lainnya</translation>
+<translation id="5736731321935944068">Fulldive dapat menggunakan histori Anda untuk mempersonalisasi Penelusuran, iklan, dan layanan Fulldive lainnya</translation>
 <translation id="4201546031411513170">Anda dapat memilih konten apa yang akan disinkronkan di setelan kapan saja.</translation>
 <translation id="2497852260688568942">Sinkronisasi dinonaktifkan oleh administrator</translation>
 <translation id="562935524653278697">Administrator Anda telah menonaktifkan sinkronisasi bookmark, histori, sandi, dan setelan yang lain.</translation>
@@ -1913,10 +1913,10 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6198102561359457428">Keluar kemudian masuk lagi...</translation>
 <translation id="4634771451598206121">Masuk lagi...</translation>
 <translation id="7117247127439884114">Masuk Lagi...</translation>
-<translation id="4251909665067750757">Masuk untuk mendapatkan bookmark, histori, sandi, dan setelan lain di semua perangkat. Anda juga akan otomatis masuk ke layanan Gab AI Inc.</translation>
+<translation id="4251909665067750757">Masuk untuk mendapatkan bookmark, histori, sandi, dan setelan lain di semua perangkat. Anda juga akan otomatis masuk ke layanan Fulldive.</translation>
 <translation id="2749756011735116528">Masuk ke <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Sinkronisasi dinonaktifkan oleh administrator Anda.</translation>
-<translation id="5462539695964427820">Sinkronisasi telah dihentikan melalui Dasbor Gab AI Inc.</translation>
+<translation id="5462539695964427820">Sinkronisasi telah dihentikan melalui Dasbor Fulldive.</translation>
 <translation id="8805140816472474147">Konfirmasi setelan sinkronisasi untuk memulai sinkronisasi.</translation>
 <translation id="5771816112378578655">Penyiapan sedang berlangsung...</translation>
 <translation id="3492788708641132712">Sinkronisasi tidak berjalan. Coba masuk lagi.</translation>
@@ -1930,16 +1930,16 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="1877520246462554164">Gagal mendapatkan token autentikasi. Harap logout, lalu login kembali untuk mencoba lagi.</translation>
 <translation id="9100765901046053179">Setelan lanjutan</translation>
 <translation id="2731700343119398978">Harap tunggu...</translation>
-<translation id="7218743184834293955">Data dienkripsi dengan frasa sandi sinkronisasi Anda. Data ini tidak mencakup alamat dan metode pembayaran dari Gab AI Inc Pay.</translation>
+<translation id="7218743184834293955">Data dienkripsi dengan frasa sandi sinkronisasi Anda. Data ini tidak mencakup alamat dan metode pembayaran dari Fulldive Pay.</translation>
 <translation id="7158251077901880179">Data dienkripsi dengan frasa sandi sinkronisasi Anda pada tanggal
-<ph name="TIME"/>. Data ini tidak mencakup alamat dan metode pembayaran dari Gab AI Inc Pay.</translation>
-<translation id="1171389789873508468">Data dienkripsi dengan sandi Gab AI Inc Anda mulai tanggal
-<ph name="TIME"/>. Data ini tidak mencakup alamat dan metode pembayaran dari Gab AI Inc Pay.</translation>
+<ph name="TIME"/>. Data ini tidak mencakup alamat dan metode pembayaran dari Fulldive Pay.</translation>
+<translation id="1171389789873508468">Data dienkripsi dengan sandi Fulldive Anda mulai tanggal
+<ph name="TIME"/>. Data ini tidak mencakup alamat dan metode pembayaran dari Fulldive Pay.</translation>
 <translation id="2562743677925229011">Tidak masuk ke <ph name="SHORT_PRODUCT_NAME"/></translation>
 <translation id="4027804175521224372">(Anda melewatkan—<ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">masuk</translation>
 <translation id="237828693408258535">Terjemahkan halaman ini?</translation>
-<translation id="4613765529964435709">Ingin Gab AI Inc menerjemahkan halaman ini dari <ph name="SOURCE_LANGUAGE"/> ke <ph name="TARGET_LANGUAGE"/>?</translation>
+<translation id="4613765529964435709">Ingin Fulldive menerjemahkan halaman ini dari <ph name="SOURCE_LANGUAGE"/> ke <ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="5990386583461751448">Diterjemahkan</translation>
 <translation id="5659833766619490117">Halaman ini tidak dapat diterjemahkan</translation>
 <translation id="969096075394517431">Ubah bahasa</translation>
@@ -2118,7 +2118,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6309510305002439352">Mikrofon dinonaktifkan</translation>
 <translation id="1322046419516468189">Lihat dan kelola sandi tersimpan di <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Sandi disimpan. Lihat dan kelola sandi tersimpan di <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Akun Gab AI Inc</translation>
+<translation id="5713644099811900409">Akun Fulldive</translation>
 <translation id="3785727820640310185">Sandi yang tersimpan untuk situs ini</translation>
 <translation id="3404065873681873169">Tidak ada sandi yang tersimpan untuk situs ini</translation>
 <translation id="8470513973197838199">Sandi yang tersimpan untuk <ph name="ORIGIN"/></translation>
@@ -2231,7 +2231,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{Layar #}other{Layar #}}</translation>
 <translation id="839736845446313156">Daftar</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{Printer baru di jaringan Anda}other{Printer baru di jaringan Anda}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Tambahkan printer ke Gab AI Inc Cloud Print agar Anda dapat mencetak dari mana saja.}other{Tambahkan # printer ke Gab AI Inc Cloud Print agar Anda dapat mencetak dari mana saja.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Tambahkan printer ke Fulldive Cloud Print agar Anda dapat mencetak dari mana saja.}other{Tambahkan # printer ke Fulldive Cloud Print agar Anda dapat mencetak dari mana saja.}}</translation>
 <translation id="409579654357498729">Tambahkan ke Cloud Print</translation>
 <translation id="4628757576491864469">Perangkat</translation>
 <translation id="6915804003454593391">Pengguna:</translation>
@@ -2241,8 +2241,8 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="1895934970388272448">Anda harus mengonfirmasi pendaftaran pada printer untuk menyelesaikan proses ini - periksa sekarang.</translation>
 <translation id="551752069230578406">Menambahkan printer ke akun Anda - proses ini mungkin membutuhkan beberapa saat...</translation>
 <translation id="2384436799579181135">Terjadi error. Harap periksa printer Anda dan coba lagi.</translation>
-<translation id="1327074568633507428">Printer di Gab AI Inc Cloud Print</translation>
-<translation id="6782994146626179935">Perangkat di Perangkat Gab AI Inc Cloud</translation>
+<translation id="1327074568633507428">Printer di Fulldive Cloud Print</translation>
+<translation id="6782994146626179935">Perangkat di Perangkat Fulldive Cloud</translation>
 <translation id="7140928199327930795">Tidak ada perangkat lain.</translation>
 <translation id="8213577208796878755">Satu perangkat lain tersedia.</translation>
 <translation id="1495486559005647033"><ph name="NUM_PRINTERS"/> perangkat lain tersedia.</translation>
@@ -2258,7 +2258,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="715118844758971915">Printer klasik</translation>
 <translation id="4263757076580287579">Pendaftaran printer dibatalkan.</translation>
 <translation id="8152091997436726702">Waktu pendaftaran printer telah habis. Untuk mendaftarkan printer, Anda harus mengonfirmasi pendaftaran di printer tersebut.</translation>
-<translation id="2624930408905606513">Dokumen <ph name="BEGIN_LINK_HELP"/>dikirimkan ke Gab AI Inc<ph name="END_LINK_HELP"/> untuk persiapan pencetakan. Lihat, edit, dan kelola printer serta histori printer Anda di <ph name="BEGIN_LINK_DASHBOARD"/>dasbor Gab AI Inc Cloud Print<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513">Dokumen <ph name="BEGIN_LINK_HELP"/>dikirimkan ke Fulldive<ph name="END_LINK_HELP"/> untuk persiapan pencetakan. Lihat, edit, dan kelola printer serta histori printer Anda di <ph name="BEGIN_LINK_DASHBOARD"/>dasbor Fulldive Cloud Print<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">Tab ini menggunakan kamera atau mikrofon Anda.</translation>
 <translation id="3578594933904494462">Konten tab ini sedang dibagikan.</translation>
 <translation id="4449996769074858870">Tab ini memutar audio.</translation>
@@ -2385,14 +2385,14 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="7055152154916055070">Pengalihan diblokir:</translation>
 <translation id="6777817260680419853">Pengalihan diblokir</translation>
 <translation id="694592694773692225">Pengalihan diblokir di halaman ini.</translation>
-<translation id="8945142681652245463">Akses dengan cepat menggunakan Gab AI Inc Fulldive</translation>
-<translation id="2618024864038703735">Akses dengan aman menggunakan Gab AI Inc Fulldive</translation>
+<translation id="8945142681652245463">Akses dengan cepat menggunakan Fulldive Fulldive</translation>
+<translation id="2618024864038703735">Akses dengan aman menggunakan Fulldive Fulldive</translation>
 <translation id="8142180567942285208">Akses cerdas menggunakan Fulldive</translation>
 <translation id="8862003515646449717">Beralih ke browser cepat</translation>
 <translation id="8438328416656800239">Beralih ke browser cerdas</translation>
 <translation id="491691592645955587">Beralih ke browser yang aman</translation>
 <translation id="683373380308365518">Beralih ke browser cerdas dan aman</translation>
-<translation id="989239400026154074">Gab AI Inc merekomendasikan Fulldive</translation>
+<translation id="989239400026154074">Fulldive merekomendasikan Fulldive</translation>
 <translation id="6676231621615806698">Buka Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> menggunakan lokasi Anda untuk memberi konten lokal. Anda dapat mengubah opsi ini di <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Download Anda muncul di sini</translation>
@@ -2558,7 +2558,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="2878782256107578644">Pemindaian sedang berlangsung, buka sekarang?</translation>
 <translation id="6098793583803863900">File tidak dikenal sedang dipindai untuk mendeteksi konten berbahaya.</translation>
 <translation id="7584578941316704630">Pindai sebelum membuka?</translation>
-<translation id="4467402456678825062">File terpilih tidak dikenali dan mungkin saja berbahaya. Kirim file ke Perlindungan Lanjutan Gab AI Inc untuk dipindai?</translation>
+<translation id="4467402456678825062">File terpilih tidak dikenali dan mungkin saja berbahaya. Kirim file ke Perlindungan Lanjutan Fulldive untuk dipindai?</translation>
 <translation id="2587922766792651800">Waktu habis</translation>
 <translation id="4404136731284211429">Pindai lagi</translation>
 <translation id="6428450836711225518">Verifikasi nomor telepon Anda</translation>
@@ -2566,7 +2566,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6518133107902771759">Verifikasi</translation>
 <translation id="4379281552162875326">Uninstal "<ph name="APP_NAME"/>"?</translation>
 <translation id="8812593354822910461">Hapus juga data penjelajahan (<ph name="URL"/>) yang akan membuat Anda logout dari <ph name="DOMAIN"/>. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Hapus juga data penjelajahan (<ph name="URL"/>) yang mungkin akan membuat Anda logout dari Gab AI Inc.com. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Hapus juga data penjelajahan (<ph name="URL"/>) yang mungkin akan membuat Anda logout dari Fulldive.com. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Pelajari lebih lanjut</translation>
 <translation id="2346953515226895098">Layanan SODA</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> dijeda</translation>
@@ -2728,7 +2728,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="4144218403971135344">Dapatkan video yang berkualitas lebih baik dan hemat baterai. Video hanya akan diputar di layar yang kompatibel untuk Cast.</translation>
 <translation id="236117173274098341">Optimalkan</translation>
 <translation id="8538358978858059843">Aktifkan layanan cloud untuk Cast?</translation>
-<translation id="3856595552313160385">Penggunaan Hangouts dan Cast for Education diatur oleh Kebijakan Privasi Gab AI Inc.</translation>
+<translation id="3856595552313160385">Penggunaan Hangouts dan Cast for Education diatur oleh Kebijakan Privasi Fulldive.</translation>
 <translation id="3435896845095436175">Aktifkan</translation>
 <translation id="3700888195348409686">Menampilkan (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Layar <ph name="DISPLAY_ID"/></translation>
@@ -2972,9 +2972,9 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, +1 akun lainnya}other{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> akun lainnya}}</translation>
 <translation id="7434635829372401939">Sinkronkan setelan Anda</translation>
 <translation id="1036348656032585052">Matikan</translation>
-<translation id="3267705913905916810">Aplikasi dan setelan Anda akan disinkronkan di semua perangkat Fulldive OS tempat Anda login dengan Akun Gab AI Inc. Untuk opsi sinkronisasi browser, buka <ph name="LINK_BEGIN"/>setelan Fulldive<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Aplikasi dan setelan Anda akan disinkronkan di semua perangkat Fulldive OS tempat Anda login dengan Akun Fulldive. Untuk opsi sinkronisasi browser, buka <ph name="LINK_BEGIN"/>setelan Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Printer</translation>
-<translation id="8418661265246754237">Akun Gab AI Inc</translation>
+<translation id="8418661265246754237">Akun Fulldive</translation>
 <translation id="3953834000574892725">Akun saya</translation>
 <translation id="6011193465932186973">Sidik jari</translation>
 <translation id="3707212204259470604">Kelola profil lainnya</translation>
@@ -3016,16 +3016,16 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="5916664084637901428">Aktif</translation>
 <translation id="5860033963881614850">Nonaktif</translation>
 <translation id="5515923816438946203">Pilih apa yang akan Anda lihat di layar</translation>
-<translation id="2187700606737131818">Gab AI Inc Foto</translation>
+<translation id="2187700606737131818">Fulldive Foto</translation>
 <translation id="1827738518074806965">Galeri seni</translation>
 <translation id="9137157311132182254">Mesin telusur pilihan</translation>
 <translation id="7423118389528876103">Digunakan oleh browser Fulldive dan Peluncur <ph name="DEVICE_TYPE"/></translation>
-<translation id="2862205630718215619">Asisten Gab AI Inc</translation>
+<translation id="2862205630718215619">Asisten Fulldive</translation>
 <translation id="8959699239363253085">Aktif</translation>
 <translation id="971479617738309149">Nonaktif</translation>
 <translation id="7807067443225230855">Penelusuran dan Asisten</translation>
 <translation id="1293556467332435079">File</translation>
-<translation id="6474884162850599008">Memutuskan hubungan akun Gab AI Inc Drive</translation>
+<translation id="6474884162850599008">Memutuskan hubungan akun Fulldive Drive</translation>
 <translation id="3653160965917900914">Berbagi file jaringan</translation>
 <translation id="4906490889887219338">Siapkan atau kelola berbagi file jaringan. <ph name="LINK_BEGIN"/>Pelajari lebih lanjut<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Tambahkan berbagi file</translation>
@@ -3076,7 +3076,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="5511379779384092781">Sangat kecil</translation>
 <translation id="2765217105034171413">Kecil</translation>
 <translation id="7409549334477097887">Sangat besar</translation>
-<translation id="1800308196794859773">Kirimkan suara Anda ke Gab AI Inc untuk memungkinkan pengetikan dengan suara ke kolom teks.</translation>
+<translation id="1800308196794859773">Kirimkan suara Anda ke Fulldive untuk memungkinkan pengetikan dengan suara ke kolom teks.</translation>
 <translation id="8758418656925882523">Aktifkan dikte (ucapkan untuk mengetik)</translation>
 <translation id="1330145147221172764">Aktifkan keyboard di layar</translation>
 <translation id="7580671184200851182">Putar audio yang sama melalui semua speaker (audio mono)</translation>
@@ -3139,7 +3139,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6902066522699286937">Suara untuk dipratinjau</translation>
 <translation id="304747341537320566">Mesin Ucapan</translation>
 <translation id="2755367719610958252">Kelola fitur aksesibilitas</translation>
-<translation id="1203953622051744249">Kelola akun Anda yang login. Situs, aplikasi, serta ekstensi di Fulldive dan Gab AI Inc Play mungkin menggunakan akun ini untuk menyesuaikan pengalaman Anda, bergantung pada setelan izin. <ph name="LINK_BEGIN"/>Pelajari lebih lanjut<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Kelola akun Anda yang login. Situs, aplikasi, serta ekstensi di Fulldive dan Fulldive Play mungkin menggunakan akun ini untuk menyesuaikan pengalaman Anda, bergantung pada setelan izin. <ph name="LINK_BEGIN"/>Pelajari lebih lanjut<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Tambahkan akun sekolah atau kelola akun anak di sini. <ph name="LINK_BEGIN"/>Pelajari lebih lanjut<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Akun</translation>
 <translation id="6597148444736186483">Untuk logout dari akun utama di perangkat ini, klik waktu di layar Anda. Di menu yang muncul, klik "Logout".</translation>
@@ -3148,8 +3148,8 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="2923234477033317484">Hapus akun ini</translation>
 <translation id="7665369617277396874">Tambahkan akun</translation>
 <translation id="8428271547607112339">Tambahkan akun sekolah</translation>
-<translation id="4920274951865016604">Administrator Anda telah menonaktifkan penambahan lebih banyak Akun Gab AI Inc</translation>
-<translation id="8845742957886589229">Penambahan lebih banyak Akun Gab AI Inc dinonaktifkan</translation>
+<translation id="4920274951865016604">Administrator Anda telah menonaktifkan penambahan lebih banyak Akun Fulldive</translation>
+<translation id="8845742957886589229">Penambahan lebih banyak Akun Fulldive dinonaktifkan</translation>
 <translation id="5021750053540820849">Belum diperbarui</translation>
 <translation id="3448492834076427715">Perbarui akun</translation>
 <translation id="2458379781610688953">Perbarui akun, <ph name="EMAIL"/></translation>
@@ -3184,7 +3184,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="3661172646479098821">Saat ini hanya mendukung perangkat Android.</translation>
 <translation id="3201422919974259695">Perangkat USB yang tersedia akan ditampilkan di sini.</translation>
 <translation id="2629227353894235473">Kembangkan aplikasi Android</translation>
-<translation id="1669729672557072907">Untuk membuat dan menguji aplikasi, aktifkan Android Debug Bridge (ADB). Perhatikan bahwa tindakan ini dapat menginstal aplikasi Android yang belum diverifikasi oleh Gab AI Inc, dan perlu penyetelan ulang ke setelan pabrik untuk menonaktifkannya.</translation>
+<translation id="1669729672557072907">Untuk membuat dan menguji aplikasi, aktifkan Android Debug Bridge (ADB). Perhatikan bahwa tindakan ini dapat menginstal aplikasi Android yang belum diverifikasi oleh Fulldive, dan perlu penyetelan ulang ke setelan pabrik untuk menonaktifkannya.</translation>
 <translation id="4638930039313743000">Aktifkan proses debug ADB</translation>
 <translation id="1630768113285622200">Mulai ulang dan lanjutkan</translation>
 <translation id="1005333234656240382">Aktifkan proses debug ADB?</translation>
@@ -3221,9 +3221,9 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="1870629042957780127">Beri akses untuk mikrofon</translation>
 <translation id="1392232653471491344">Linux perlu dimulai ulang</translation>
 <translation id="1064552680598333868">Perubahan pada mikrofon akan berlaku saat berikutnya Linux dimulai ulang.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play Store</translation>
+<translation id="2714393097308983682">Fulldive Play Store</translation>
 <translation id="2966937470348689686">Kelola preferensi Android</translation>
-<translation id="6398715114293939307">Hapus Gab AI Inc Play Store</translation>
+<translation id="6398715114293939307">Hapus Fulldive Play Store</translation>
 <translation id="2792290659606763004">Hapus aplikasi Android?</translation>
 <translation id="492299503953721473">Hapus aplikasi Android</translation>
 <translation id="7566118625369982896">Kelola link aplikasi Play</translation>
@@ -3231,7 +3231,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="5862109781435984885">Tampilkan alat stilus di rak</translation>
 <translation id="4673442866648850031">Buka alat stilus saat stilus dihapus</translation>
 <translation id="4244238649050961491">Temukan aplikasi stilus lainnya</translation>
-<translation id="668599234725812620">Buka Gab AI Inc Play</translation>
+<translation id="668599234725812620">Buka Fulldive Play</translation>
 <translation id="9116799625073598554">Aplikasi pencatat</translation>
 <translation id="203574396658008164">Aktifkan pencatat dari layar kunci</translation>
 <translation id="6238923052227198598">Tampilkan catatan terbaru di layar kunci</translation>
@@ -3377,7 +3377,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> - <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Data seluler aktif</translation>
 <translation id="7378812711085314936">Dapatkan koneksi data</translation>
-<translation id="3483333858382889684">Izinkan perangkat ini menemukan perangkat lain dengan Akun Gab AI Inc yang memiliki koneksi data seluler</translation>
+<translation id="3483333858382889684">Izinkan perangkat ini menemukan perangkat lain dengan Akun Fulldive yang memiliki koneksi data seluler</translation>
 <translation id="1572266655485775982">Wi-Fi aktif</translation>
 <translation id="7078120482318506217">Semua jaringan</translation>
 <translation id="1235458158152011030">Jaringan yang dikenal</translation>
@@ -3409,13 +3409,13 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="4421167684395067330">Terjadi masalah saat menyambungkan. Harap hubungi <ph name="CARRIER_NAME"/> untuk mendapat bantuan.</translation>
 <translation id="7780252971640011240">Terjadi masalah saat menyambungkan. Hubungi operator Anda untuk mendapatkan bantuan.</translation>
 <translation id="161460670679785907">Tidak dapat mendeteksi ponsel Anda</translation>
-<translation id="778480864305029524">Untuk menggunakan Tethering Instan, aktifkan notifikasi untuk Layanan Gab AI Inc Play.</translation>
+<translation id="778480864305029524">Untuk menggunakan Tethering Instan, aktifkan notifikasi untuk Layanan Fulldive Play.</translation>
 <translation id="7696063401938172191">Di '<ph name="PHONE_NAME"/>' Anda:</translation>
 <translation id="3423463006624419153">Pada '<ph name="PHONE_NAME_1"/>' dan '<ph name="PHONE_NAME_2"/>' Anda:</translation>
 <translation id="6997707937646349884">Di perangkat Anda:</translation>
 <translation id="7531779363494549572">Buka Setelan &gt; Aplikasi &amp; notifikasi &gt; Notifikasi.</translation>
-<translation id="1819721979226826163">Ketuk Notifikasi aplikasi &gt; Layanan Gab AI Inc Play.</translation>
-<translation id="968000525894980488">Aktifkan layanan Gab AI Inc Play.</translation>
+<translation id="1819721979226826163">Ketuk Notifikasi aplikasi &gt; Layanan Fulldive Play.</translation>
+<translation id="968000525894980488">Aktifkan layanan Fulldive Play.</translation>
 <translation id="2705736684557713153">Scroll ke bagian bawah layar dan aktifkan Tethering Instan, jika muncul. Jika tidak muncul, artinya Anda sudah siap.</translation>
 <translation id="7240339475467890413">Sambungkan ke hotspot baru?</translation>
 <translation id="6514010653036109809">Perangkat yang tersedia:</translation>
@@ -3530,9 +3530,9 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6555432686520421228">Hapus semua akun pengguna dan setel ulang perangkat <ph name="IDS_SHORT_PRODUCT_NAME"/> Anda agar menjadi seperti baru.</translation>
 <translation id="5470735824776589490">Mulai ulang diperlukan sebelum perangkat Anda dapat disetel ulang dengan Powerwash. <ph name="LINK_BEGIN"/>Pelajari lebih lanjut<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Tombol Setel Ulang</translation>
-<translation id="472896694312062378">Ok Gab AI Inc</translation>
-<translation id="2339135612812615870">Akses Asisten saat Anda mengucapkan "Ok Gab AI Inc".</translation>
-<translation id="3735919318855093557">Akses Asisten saat Anda mengucapkan "Ok Gab AI Inc". Untuk menghemat baterai, pilih "Aktifkan (Disarankan)". Asisten Anda hanya akan merespons saat perangkat dicolokkan atau diisi daya.</translation>
+<translation id="472896694312062378">Ok Fulldive</translation>
+<translation id="2339135612812615870">Akses Asisten saat Anda mengucapkan "Ok Fulldive".</translation>
+<translation id="3735919318855093557">Akses Asisten saat Anda mengucapkan "Ok Fulldive". Untuk menghemat baterai, pilih "Aktifkan (Disarankan)". Asisten Anda hanya akan merespons saat perangkat dicolokkan atau diisi daya.</translation>
 <translation id="5825412242012995131">Aktif (Direkomendasikan)</translation>
 <translation id="5067399438976153555">Selalu aktif</translation>
 <translation id="6175644081330715138">Nonaktif</translation>
@@ -3541,7 +3541,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="5355099869024327351">Izinkan Asisten menampilkan notifikasi</translation>
 <translation id="133535873114485416">Preferensi masukan</translation>
 <translation id="6233154960150021497">Default untuk menggunakan suara, bukan keyboard</translation>
-<translation id="3908743412684152579">Setelan Asisten Gab AI Inc</translation>
+<translation id="3908743412684152579">Setelan Asisten Fulldive</translation>
 <translation id="1048286738600630630">Tampilan</translation>
 <translation id="4184885522552335684">Tarik untuk memindahkan tampilan</translation>
 <translation id="4964455510556214366">Pengaturan</translation>
@@ -3595,7 +3595,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6856623341093082836">Siapkan dan sesuaikan akurasi layar sentuh</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Hanya buka kunci perangkat</translation>
-<translation id="3300552672525741457">Buka kunci perangkat dan login ke Akun Gab AI Inc</translation>
+<translation id="3300552672525741457">Buka kunci perangkat dan login ke Akun Fulldive</translation>
 <translation id="4562155214028662640">Tambahkan Sidik Jari</translation>
 <translation id="4068776064906523561">Sidik jari yang disimpan</translation>
 <translation id="1719312230114180055">Catatan: Sidik jari mungkin kurang aman dibandingkan dengan PIN atau sandi yang kuat.</translation>
@@ -3660,7 +3660,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6547354035488017500">Kosongkan ruang penyimpanan minimal 512 MB atau perangkat tidak akan merespons. Untuk mengosongkan ruang penyimpanan, hapus file dari penyimpanan perangkat.</translation>
 <translation id="6097480669505687979">Jika Anda tidak mengosongkan ruang penyimpanan, pengguna dan data dapat otomatis dihapus.</translation>
 <translation id="4470957202018033307">Preferensi penyimpanan eksternal</translation>
-<translation id="1900305421498694955">Aplikasi dari Gab AI Inc Play mungkin meminta akses sistem file penuh untuk membaca dan menulis file di perangkat penyimpanan eksternal. File dan folder yang dibuat di perangkat dapat dilihat oleh siapa saja yang menggunakan drive eksternal. <ph name="LINK_BEGIN"/>Pelajari lebih lanjut<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Aplikasi dari Fulldive Play mungkin meminta akses sistem file penuh untuk membaca dan menulis file di perangkat penyimpanan eksternal. File dan folder yang dibuat di perangkat dapat dilihat oleh siapa saja yang menggunakan drive eksternal. <ph name="LINK_BEGIN"/>Pelajari lebih lanjut<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">Perangkat yang tersedia akan muncul di sini.</translation>
 <translation id="1041263367839475438">Perangkat yang tersedia</translation>
 <translation id="7479221278376295180">Ringkasan Penggunaan Penyimpanan</translation>
@@ -3684,12 +3684,12 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="5840822070878669614">Buka Toko Web</translation>
 <translation id="6073903501322152803">Tambahkan fitur aksesibilitas</translation>
 <translation id="7988355189918024273">Aktifkan fitur aksesibilitas</translation>
-<translation id="5499063270485366718">Jika gambar tidak memiliki deskripsi yang berguna, Fulldive akan mencoba memberikan deskripsi untuk Anda. Untuk membuat deskripsi, gambar akan dikirim ke Gab AI Inc.</translation>
+<translation id="5499063270485366718">Jika gambar tidak memiliki deskripsi yang berguna, Fulldive akan mencoba memberikan deskripsi untuk Anda. Untuk membuat deskripsi, gambar akan dikirim ke Fulldive.</translation>
 <translation id="8957762313041272117">Teks Otomatis</translation>
 <translation id="7075426315046750605">Teks Otomatis akan mendeteksi ucapan di media dan membuat teks secara otomatis untuk semua media yang diputar di Fulldive.</translation>
 <translation id="572155275267014074">Setelan Android</translation>
-<translation id="7201042526153088083">Instal aplikasi dan game dari Gab AI Inc Play di <ph name="DEVICE_TYPE"/> Anda. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Pelajari lebih lanjut&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Aplikasi yang telah Anda download dari Gab AI Inc Play akan dihapus dari Fulldivebook ini.
+<translation id="7201042526153088083">Instal aplikasi dan game dari Fulldive Play di <ph name="DEVICE_TYPE"/> Anda. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Pelajari lebih lanjut&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Aplikasi yang telah Anda download dari Fulldive Play akan dihapus dari Fulldivebook ini.
       <ph name="LINE_BREAKS1"/>
       Konten yang telah Anda beli seperti film, acara TV, musik, buku, atau pembelian dalam aplikasi lainnya juga akan dihapus.
       <ph name="LINE_BREAKS2"/>
@@ -3715,7 +3715,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="1670399744444387456">Dasar</translation>
 <translation id="1763808908432309942">Membuka di tab baru</translation>
 <translation id="6248988683584659830">Telusuri setelan</translation>
-<translation id="883304095704384301">Buka <ph name="BEGIN_LINK_CHROMIUM"/>bantuan Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/> jika tidak dapat menemukan yang Anda cari</translation>
+<translation id="883304095704384301">Buka <ph name="BEGIN_LINK_CHROMIUM"/>bantuan Fulldive Fulldive<ph name="END_LINK_CHROMIUM"/> jika tidak dapat menemukan yang Anda cari</translation>
 <translation id="6406708970972405507">Setelan - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Tombol subhalaman</translation>
 <translation id="379509625511193653">Nonaktif</translation>
@@ -3736,10 +3736,10 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="451515744433878153">Hapus</translation>
 <translation id="5029568752722684782">Hapus salinan</translation>
 <translation id="2154484045852737596">Edit kartu</translation>
-<translation id="3032188998195902534">Untuk menambahkan atau mengelola metode pembayaran Gab AI Inc Pay, buka <ph name="BEGIN_LINK"/>Akun Gab AI Inc<ph name="END_LINK"/> Anda</translation>
+<translation id="3032188998195902534">Untuk menambahkan atau mengelola metode pembayaran Fulldive Pay, buka <ph name="BEGIN_LINK"/>Akun Fulldive<ph name="END_LINK"/> Anda</translation>
 <translation id="8853586775156634952">Kartu ini hanya akan disimpan ke perangkat ini</translation>
 <translation id="5087580092889165836">Tambahkan kartu</translation>
-<translation id="4835914736509775287">Simpan kartu di Akun Gab AI Inc Anda</translation>
+<translation id="4835914736509775287">Simpan kartu di Akun Fulldive Anda</translation>
 <translation id="7255002516883565667">Sekarang, Anda memiliki satu kartu yang hanya dapat digunakan di perangkat ini</translation>
 <translation id="6848388270925200958">Sekarang, Anda memiliki beberapa kartu yang hanya dapat digunakan di perangkat ini</translation>
 <translation id="4807098396393229769">Nama di kartu</translation>
@@ -3753,9 +3753,9 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="8731851055419582926">Sandi yang telah diperiksa</translation>
 <translation id="4248098802131000011">Amankan sandi Anda dari pelanggaran data dan masalah keamanan lainnya</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> tidak dapat memeriksa sandi Anda. Coba periksa koneksi internet Anda.</translation>
-<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> dapat memeriksa sandi saat Anda login dengan Akun Gab AI Inc.</translation>
+<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> dapat memeriksa sandi saat Anda login dengan Akun Fulldive.</translation>
 <translation id="4478777936860197922">Tidak ada sandi yang tersimpan. <ph name="IDS_SHORT_PRODUCT_NAME"/> dapat memeriksa sandi saat Anda menyimpannya.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> tidak dapat memeriksa sandi Anda. Coba lagi setelah 24 jam atau <ph name="BEGIN_LINK"/>periksa sandi di Akun Gab AI Inc Anda<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> tidak dapat memeriksa sandi Anda. Coba lagi setelah 24 jam atau <ph name="BEGIN_LINK"/>periksa sandi di Akun Fulldive Anda<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> tidak dapat memeriksa sandi Anda. Coba lagi setelah 24 jam.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> tidak dapat memeriksa sandi Anda. Coba lagi nanti.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Tidak ditemukan sandi yang telah dibobol}=1{{COUNT} sandi yang telah dibobol}other{{COUNT} sandi yang telah dibobol}}</translation>
@@ -3781,7 +3781,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="2100273922101894616">Masuk Otomatis</translation>
 <translation id="7513029293694390567">Otomatis login ke situs menggunakan kredensial yang tersimpan. Jika dinonaktifkan, Anda akan dimintai konfirmasi setiap kali login ke situs.</translation>
 <translation id="6995899638241819463">Berikan peringatan jika sandi terungkap saat terjadi pelanggaran data</translation>
-<translation id="1534287762301776620">Saat login ke Akun Gab AI Inc Anda, fitur ini akan diaktifkan</translation>
+<translation id="1534287762301776620">Saat login ke Akun Fulldive Anda, fitur ini akan diaktifkan</translation>
 <translation id="1375321115329958930">Sandi Tersimpan</translation>
 <translation id="152234381334907219">Jangan Pernah Disimpan</translation>
 <translation id="5137501176474113045">Hapus item ini</translation>
@@ -3795,7 +3795,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="7930294771522048157">Metode pembayaran yang tersimpan akan muncul di sini</translation>
 <translation id="9124003689441359348">Sandi yang disimpan akan muncul di sini</translation>
 <translation id="4400367121200150367">Situs yang tidak pernah menyimpan sandi akan muncul di sini</translation>
-<translation id="3098842761938485917">Lihat dan kelola sandi tersimpan di <ph name="BEGIN_LINK"/>Akun Gab AI Inc<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Lihat dan kelola sandi tersimpan di <ph name="BEGIN_LINK"/>Akun Fulldive<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">Ekspor sandi...</translation>
 <translation id="3900966090527141178">Ekspor sandi</translation>
 <translation id="6914783257214138813">Sandi akan terlihat oleh orang yang dapat melihat file yang diekspor.</translation>
@@ -3862,15 +3862,15 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="3380365263193509176">Kesalahan tidak dikenal</translation>
 <translation id="368789413795732264">Terdapat kesalahan saat mencoba menulis file: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Rentang waktu</translation>
-<translation id="3958004920128806270">Untuk menghapus data browsing dari perangkat ini saja dan tetap menyimpannya di Akun Gab AI Inc, <ph name="BEGIN_LINK"/>logout<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">Untuk menghapus data browsing dari semua perangkat yang disinkronkan dan dari Akun Gab AI Inc, <ph name="BEGIN_LINK"/>buka setelan sinkronisasi<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">Untuk menghapus data browsing dari semua perangkat yang disinkronkan dan dari Akun Gab AI Inc, <ph name="BEGIN_LINK"/>masukkan frasa sandi<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">Untuk menghapus data browsing dari semua perangkat yang disinkronkan dan dari Akun Gab AI Inc, <ph name="BEGIN_LINK"/>login<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">Untuk menghapus data browsing dari perangkat ini saja dan tetap menyimpannya di Akun Fulldive, <ph name="BEGIN_LINK"/>logout<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">Untuk menghapus data browsing dari semua perangkat yang disinkronkan dan dari Akun Fulldive, <ph name="BEGIN_LINK"/>buka setelan sinkronisasi<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">Untuk menghapus data browsing dari semua perangkat yang disinkronkan dan dari Akun Fulldive, <ph name="BEGIN_LINK"/>masukkan frasa sandi<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">Untuk menghapus data browsing dari semua perangkat yang disinkronkan dan dari Akun Fulldive, <ph name="BEGIN_LINK"/>login<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Membuat Anda logout dari sebagian besar situs.</translation>
-<translation id="4650925988509114690">Membuat Anda logout dari sebagian besar situs. Anda akan tetap login di Akun Gab AI Inc sehingga data yang disinkronkan dapat dihapus.</translation>
+<translation id="4650925988509114690">Membuat Anda logout dari sebagian besar situs. Anda akan tetap login di Akun Fulldive sehingga data yang disinkronkan dapat dihapus.</translation>
 <translation id="2017836877785168846">Hapus histori dan pelengkapan otomatis di kolom URL.</translation>
-<translation id="8096327394278038498">Menghapus histori dan pelengkapan otomatis di kolom URL. Akun Gab AI Inc Anda mungkin memiliki bentuk histori browsing lainnya di <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Menghapus histori dari semua perangkat yang dibuat login. Akun Gab AI Inc Anda mungkin memiliki bentuk histori browsing lain di <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Menghapus histori dan pelengkapan otomatis di kolom URL. Akun Fulldive Anda mungkin memiliki bentuk histori browsing lainnya di <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Menghapus histori dari semua perangkat yang dibuat login. Akun Fulldive Anda mungkin memiliki bentuk histori browsing lain di <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">Histori download</translation>
 <translation id="4699172675775169585">Gambar dan file dalam cache</translation>
 <translation id="1274997165432133392">Cookie dan data situs lainnya</translation>
@@ -3885,7 +3885,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="1043818413152647937">Hapus data dari aplikasi ini juga?</translation>
 <translation id="3399432415385675819">Notifikasi akan dinonaktifkan</translation>
 <translation id="3459509316159669723">Pencetakan</translation>
-<translation id="7063957500469387217">Siapkan atau kelola printer di Gab AI Inc Cloud Print.</translation>
+<translation id="7063957500469387217">Siapkan atau kelola printer di Fulldive Cloud Print.</translation>
 <translation id="8185331656081929126">Tampilkan pemberitahuan saat printer baru terdeteksi pada jaringan.</translation>
 <translation id="6451180435462401570">Kelola perangkat Cloud Print</translation>
 <translation id="4733793249294335256">Lokasi</translation>
@@ -3907,7 +3907,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="5425722269016440406">Anda harus tersambung ke internet untuk menonaktifkan Smart Lock karena setelan ini disinkronkan ke ponsel dan perangkat lain. Sambungkan ke jaringan terlebih dahulu.</translation>
 <translation id="8885197664446363138">Smart Lock tidak tersedia</translation>
 <translation id="7334190995941642545">Saat ini Smart Lock tidak tersedia. Coba lagi nanti.</translation>
-<translation id="8112427115751454716">Gunakan Smart Lock untuk login ke Akun Gab AI Inc</translation>
+<translation id="8112427115751454716">Gunakan Smart Lock untuk login ke Akun Fulldive</translation>
 <translation id="2043818754674261542">Jauhkan ponsel untuk membuka kunci <ph name="DEVICE_TYPE"/> ini</translation>
 <translation id="2522791476825452208">Sangat dekat</translation>
 <translation id="649454645705377674">Tutup</translation>
@@ -3928,7 +3928,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="1726100011689679555">Nama server</translation>
 <translation id="1209796539517632982">Server nama otomatis</translation>
 <translation id="4462159676511157176">Server nama khusus</translation>
-<translation id="1981884748698699991">Server nama Gab AI Inc</translation>
+<translation id="1981884748698699991">Server nama Fulldive</translation>
 <translation id="6317608858038767920">Server nama khusus <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">URL Penemuan Otomatis Proxy Web:</translation>
 <translation id="3817579325494460411">Tidak dicantumkan</translation>
@@ -4086,7 +4086,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="3182749001423093222">Periksa ejaan</translation>
 <translation id="5423829801105537712">Pemeriksaan ejaan dasar</translation>
 <translation id="2564653188463346023">Pemeriksaan ejaan yang disempurnakan</translation>
-<translation id="8944680893327873975">Menggunakan pemeriksa ejaan yang sama seperti yang digunakan di penelusuran Gab AI Inc. Teks yang Anda ketik di browser akan dikirim ke Gab AI Inc.</translation>
+<translation id="8944680893327873975">Menggunakan pemeriksa ejaan yang sama seperti yang digunakan di penelusuran Fulldive. Teks yang Anda ketik di browser akan dikirim ke Fulldive.</translation>
 <translation id="5051836348807686060">Fitur periksa ejaan tidak didukung untuk bahasa yang Anda pilih</translation>
 <translation id="7335974957018254119">Gunakan fitur periksa ejaan untuk</translation>
 <translation id="2469375675106140201">Sesuaikan pemeriksaan ejaan</translation>
@@ -4099,7 +4099,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="4200689466366162458">Kata khusus</translation>
 <translation id="7833720883933317473">Kata khusus yang disimpan akan muncul di sini</translation>
 <translation id="8509646642152301857">Download kamus periksa ejaan gagal.</translation>
-<translation id="8842834450537919370">Hubungi administrator jaringan Anda untuk memastikan bahwa firewall tidak memblokir download dari server Gab AI Inc.</translation>
+<translation id="8842834450537919370">Hubungi administrator jaringan Anda untuk memastikan bahwa firewall tidak memblokir download dari server Fulldive.</translation>
 <translation id="9042893549633094279">Privasi dan keamanan</translation>
 <translation id="5548606607480005320">Pemeriksaan keselamatan</translation>
 <translation id="5876576639916258720">Sedang berjalan ...</translation>
@@ -4135,24 +4135,24 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="2468205691404969808">Menggunakan cookie untuk mengingat preferensi, meski Anda tidak membuka halaman tersebut</translation>
 <translation id="3633309367764744750">Mengambil data di awal dari halaman, termasuk halaman yang belum Anda kunjungi. Informasi yang diambil dapat mencakup cookie, jika Anda mengizinkan cookie.</translation>
 <translation id="3201899458094819285">Safe Browsing (melindungi Anda dan perangkat dari situs berbahaya)</translation>
-<translation id="2876369937070532032">Mengirimkan URL beberapa halaman yang Anda kunjungi ke Gab AI Inc, jika keamanan Anda berisiko</translation>
+<translation id="2876369937070532032">Mengirimkan URL beberapa halaman yang Anda kunjungi ke Fulldive, jika keamanan Anda berisiko</translation>
 <translation id="4991384657077828949">Bantu meningkatkan keamanan Fulldive</translation>
-<translation id="1984646864943401749">Kirim URL beberapa halaman yang Anda kunjungi, informasi sistem terbatas, dan beberapa konten halaman ke Gab AI Inc untuk membantu menemukan ancaman baru dan melindungi semua orang di web.</translation>
+<translation id="1984646864943401749">Kirim URL beberapa halaman yang Anda kunjungi, informasi sistem terbatas, dan beberapa konten halaman ke Fulldive untuk membantu menemukan ancaman baru dan melindungi semua orang di web.</translation>
 <translation id="1641113438599504367">Safe Browsing</translation>
 <translation id="6900532703269623216">Perlindungan yang disempurnakan</translation>
-<translation id="7307583170263691471">Perlindungan lebih cepat dan proaktif terhadap situs, download, dan ekstensi berbahaya. Memberi Anda peringatan terkait kebocoran sandi. Mengharuskan pengiriman data penjelajahan ke Gab AI Inc.</translation>
+<translation id="7307583170263691471">Perlindungan lebih cepat dan proaktif terhadap situs, download, dan ekstensi berbahaya. Memberi Anda peringatan terkait kebocoran sandi. Mengharuskan pengiriman data penjelajahan ke Fulldive.</translation>
 <translation id="8645920082661222035">Memperkirakan dan memberikan peringatan terkait peristiwa berbahaya sebelum terjadi</translation>
-<translation id="5265419033369521352">Memastikan Anda tetap aman di Fulldive dan dapat digunakan untuk menyempurnakan keamanan Anda di aplikasi Gab AI Inc lainnya saat login</translation>
+<translation id="5265419033369521352">Memastikan Anda tetap aman di Fulldive dan dapat digunakan untuk menyempurnakan keamanan Anda di aplikasi Fulldive lainnya saat login</translation>
 <translation id="6770602306803890733">Meningkatkan keamanan untuk Anda dan semua orang di web</translation>
 <translation id="3690369331356918524">Memberikan peringatan jika sandi terekspos saat terjadi pelanggaran data</translation>
-<translation id="4979281249641199724">Mengirimkan URL ke Safe Browsing untuk memeriksanya. Juga mengirimkan sedikit contoh halaman, download, aktivitas ekstensi, dan informasi sistem untuk membantu menemukan ancaman baru. Menautkan sementara waktu data ini ke Akun Gab AI Inc Anda saat Anda login, untuk melindungi Anda ketika menggunakan berbagai aplikasi Gab AI Inc.</translation>
+<translation id="4979281249641199724">Mengirimkan URL ke Safe Browsing untuk memeriksanya. Juga mengirimkan sedikit contoh halaman, download, aktivitas ekstensi, dan informasi sistem untuk membantu menemukan ancaman baru. Menautkan sementara waktu data ini ke Akun Fulldive Anda saat Anda login, untuk melindungi Anda ketika menggunakan berbagai aplikasi Fulldive.</translation>
 <translation id="1963976881984600709">Perlindungan standar</translation>
 <translation id="6882836635272038266">Perlindungan standar terhadap situs, download, dan ekstensi yang bereputasi berbahaya.</translation>
 <translation id="5561162485081632007">Mendeteksi dan memberikan peringatan terkait peristiwa berbahaya ketika terjadi</translation>
 <translation id="7810992039564280750">Memeriksa kesesuaian URL dengan daftar situs tidak aman yang disimpan di Fulldive. Jika situs berusaha mencuri sandi Anda, atau jika Anda mendownload file berbahaya, Fulldive mungkin juga mengirim URL, termasuk bit konten halaman, ke Safe Browsing.</translation>
 <translation id="3847319713229060696">Bantu sempurnakan keamanan di web untuk semuanya</translation>
 <translation id="1984417487208496350">Tidak ada perlindungan (tidak direkomendasikan)</translation>
-<translation id="1295971429974142731">Tidak melindungi Anda terhadap situs, download, dan ekstensi berbahaya. Anda akan tetap mendapatkan perlindungan Safe Browsing, jika tersedia, di layanan Gab AI Inc lainnya, seperti Gmail dan Penelusuran.</translation>
+<translation id="1295971429974142731">Tidak melindungi Anda terhadap situs, download, dan ekstensi berbahaya. Anda akan tetap mendapatkan perlindungan Safe Browsing, jika tersedia, di layanan Fulldive lainnya, seperti Gmail dan Penelusuran.</translation>
 <translation id="6122831415929794347">Nonaktifkan Safe Browsing?</translation>
 <translation id="6410390304316730527">Safe Browsing akan melindungi Anda dari penyerang yang dapat mengelabui Anda agar melakukan sesuatu yang berbahaya, misalnya menginstal software berbahaya atau mengungkap informasi pribadi seperti sandi, nomor telepon, atau kartu kredit. Jika dinonaktifkan, harap berhati-hati saat mengakses situs tidak dikenal atau tidak tepercaya.</translation>
 <translation id="8791534160414513928">Kirim permintaan "Jangan Lacak" bersama dengan traffic akses internet</translation>
@@ -4164,8 +4164,8 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="1995916364271252349">Mengontrol informasi apa saja yang dapat digunakan dan ditampilkan situs (lokasi, kamera, pop-up, dan lainnya)</translation>
 <translation id="3320630259304269485">Safe Browsing (perlindungan dari situs berbahaya) dan setelan keamanan lainnya</translation>
 <translation id="7536333565791380193">Keamanan tingkat lanjut</translation>
-<translation id="8525226238722561998">Program Perlindungan Lanjutan Gab AI Inc</translation>
-<translation id="1229550669565092839">Mengamankan Akun Gab AI Inc pribadi siapa saja yang berisiko terkena serangan yang ditargetkan</translation>
+<translation id="8525226238722561998">Program Perlindungan Lanjutan Fulldive</translation>
+<translation id="1229550669565092839">Mengamankan Akun Fulldive pribadi siapa saja yang berisiko terkena serangan yang ditargetkan</translation>
 <translation id="1521442365706402292">Kelola sertifikat</translation>
 <translation id="7075625805486468288">Mengelola sertifikat dan setelan HTTPS/SSL</translation>
 <translation id="6588043302623806746">Gunakan DNS aman</translation>
@@ -4439,7 +4439,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="4590324241397107707">Penyimpanan basis data</translation>
 <translation id="8016266267177410919">Penyimpanan sementara</translation>
 <translation id="4175737294868205930">Penyimpanan tetap</translation>
-<translation id="8397843425685839889">Anda dan Gab AI Inc</translation>
+<translation id="8397843425685839889">Anda dan Fulldive</translation>
 <translation id="8907706281008466056">Foto profil Fulldive</translation>
 <translation id="2023167225947895179">PIN mungkin mudah ditebak</translation>
 <translation id="5342091991439452114">PIN minimal harus <ph name="MINIMUM"/> digit</translation>
@@ -4454,26 +4454,26 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="899676909165543803">Sensor sidik jari adalah tombol di kanan bawah keyboard Anda. Sentuh sensor menggunakan jari mana pun.</translation>
 <translation id="4535767533210902251">Sensor sidik jari adalah tombol di sebelah kanan atas pada keyboard Anda. Sentuh sensornya menggunakan jari apa pun.</translation>
 <translation id="5449551289610225147">Sandi tidak valid</translation>
-<translation id="4326270470840334364">Karena akun ini dikelola oleh <ph name="DOMAIN"/>, bookmark, histori, sandi, dan setelan yang lain akan dihapus dari perangkat ini. Namun, data Anda akan tetap disimpan di Akun Gab AI Inc dan dapat dikelola di <ph name="BEGIN_LINK"/>Gab AI Inc Dasbor<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">Karena akun ini dikelola oleh <ph name="DOMAIN"/>, bookmark, histori, sandi, dan setelan yang lain akan dihapus dari perangkat ini. Namun, data Anda akan tetap disimpan di Akun Fulldive dan dapat dikelola di <ph name="BEGIN_LINK"/>Fulldive Dasbor<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">Edit profil</translation>
 <translation id="3699920817649120894">Nonaktifkan sinkronisasi dan personalisasi?</translation>
 <translation id="5643620609347735571">Hapus dan lanjutkan</translation>
 <translation id="5602765853043467355">Hapus bookmark, histori, sandi, dan lainnya dari perangkat ini.</translation>
 <translation id="4089235344645910861">Setelan disimpan. Sinkronisasi dimulai.</translation>
 <translation id="6739923123728562974">Tampilkan pintasan desktop</translation>
-<translation id="2951604498031550705">Perubahan terhadap bookmark, histori, sandi, dan setelan lain sudah tidak disinkronkan ke Akun Gab AI Inc Anda. Namun, data yang sudah ada akan tetap disimpan di Akun Gab AI Inc dan dapat dikelola di <ph name="BEGIN_LINK"/>Gab AI Inc Dasbor<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">Tindakan ini akan membuat Anda logout dari Akun Gab AI Inc. Bookmark, histori, sandi, dan lainnya tidak akan disinkronkan lagi.</translation>
+<translation id="2951604498031550705">Perubahan terhadap bookmark, histori, sandi, dan setelan lain sudah tidak disinkronkan ke Akun Fulldive Anda. Namun, data yang sudah ada akan tetap disimpan di Akun Fulldive dan dapat dikelola di <ph name="BEGIN_LINK"/>Fulldive Dasbor<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">Tindakan ini akan membuat Anda logout dari Akun Fulldive. Bookmark, histori, sandi, dan lainnya tidak akan disinkronkan lagi.</translation>
 <translation id="8588866096426746242">Tampilkan statistik profil</translation>
 <translation id="5535941515421698170">Tindakan ini juga menghapus data yang sudah ada dari perangkat ini</translation>
 <translation id="2162155940152307086">Sinkronisasi akan dimulai setelah Anda meninggalkan setelan sinkronisasi</translation>
-<translation id="1125261911132334651">Kelola Akun Gab AI Inc Anda</translation>
+<translation id="1125261911132334651">Kelola Akun Fulldive Anda</translation>
 <translation id="5117427536932535467">Tema &amp; Wallpaper</translation>
 <translation id="7257173066616499747">Jaringan Wi-Fi</translation>
 <translation id="2120297377148151361">Aktivitas dan interaksi</translation>
 <translation id="5833397272224757657">Menggunakan konten di situs yang Anda buka serta aktivitas browser dan interaksi untuk personalisasi</translation>
-<translation id="8135094938656535588">Kelola data yang disinkronkan pada Gab AI Inc Dasbor</translation>
-<translation id="5958351589333270173">Enkripsikan data yang disinkronkan dengan <ph name="BEGIN_LINK"/>frasa sandi siknronisasi<ph name="END_LINK"/> Anda sendiri. Data ini tidak mencakup alamat dan metode pembayaran dari Gab AI Inc Pay.</translation>
-<translation id="4817583816512767754">Hanya orang yang memiliki frasa sandi Anda yang dapat membaca data terenkripsi. Frasa sandi tidak dikirim ke atau disimpan oleh Gab AI Inc. Jika lupa frasa sandi atau ingin mengubah setelan ini, Anda perlu <ph name="BEGIN_LINK"/>menyetel ulang sinkronisasi<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Kelola data yang disinkronkan pada Fulldive Dasbor</translation>
+<translation id="5958351589333270173">Enkripsikan data yang disinkronkan dengan <ph name="BEGIN_LINK"/>frasa sandi siknronisasi<ph name="END_LINK"/> Anda sendiri. Data ini tidak mencakup alamat dan metode pembayaran dari Fulldive Pay.</translation>
+<translation id="4817583816512767754">Hanya orang yang memiliki frasa sandi Anda yang dapat membaca data terenkripsi. Frasa sandi tidak dikirim ke atau disimpan oleh Fulldive. Jika lupa frasa sandi atau ingin mengubah setelan ini, Anda perlu <ph name="BEGIN_LINK"/>menyetel ulang sinkronisasi<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Untuk mengubah setelan ini, <ph name="BEGIN_LINK"/>setel ulang sinkronisasi<ph name="END_LINK"/> untuk menghapus frasa sandi sinkronisasi</translation>
 <translation id="3873315167136380065">Untuk mengaktifkannya, <ph name="BEGIN_LINK"/>setel ulang sinkronisasi<ph name="END_LINK"/> untuk menghapus frasa sandi sinkronisasi</translation>
 <translation id="6451689256222386810">Jika lupa frasa sandi atau ingin mengubah setelan ini, <ph name="BEGIN_LINK"/>setel ulang sinkronisasi<ph name="END_LINK"/>.</translation>
@@ -4530,7 +4530,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="8639047128869322042">Memeriksa software berbahaya...</translation>
 <translation id="2653033005692233957">Penelusuran gagal</translation>
 <translation id="655483977608336153">Coba lagi</translation>
-<translation id="8282772389915299166">Laporkan detail ke Gab AI Inc tentang software, setelan sistem, dan proses berbahaya yang ditemukan di komputer Anda selama pembersihan ini</translation>
+<translation id="8282772389915299166">Laporkan detail ke Fulldive tentang software, setelan sistem, dan proses berbahaya yang ditemukan di komputer Anda selama pembersihan ini</translation>
 <translation id="6555810572223193255">Pembersihan saat ini tidak tersedia</translation>
 <translation id="7117228822971127758">Coba lagi nanti</translation>
 <translation id="443475966875174318">Update atau hapus aplikasi yang tidak kompatibel</translation>
@@ -4614,16 +4614,16 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="161042844686301425">Sian</translation>
 <translation id="4115378294792113321">Magenta</translation>
 <translation id="8438566539970814960">Jadikan penelusuran dan penjelajahan lebih baik</translation>
-<translation id="284843628681142937">Mengirimkan URL halaman yang Anda buka ke Gab AI Inc</translation>
+<translation id="284843628681142937">Mengirimkan URL halaman yang Anda buka ke Fulldive</translation>
 <translation id="7704317875155739195">Lengkapi otomatis penelusuran dan URL</translation>
 <translation id="2000419248597011803">Mengirimkan beberapa cookie dan penelusuran dari kolom URL dan kotak penelusuran ke mesin telusur default</translation>
 <translation id="918192811481327695">Bantu sempurnakan fitur dan performa Fulldive</translation>
-<translation id="9063160602596686558">Secara otomatis mengirimkan statistik penggunaan dan laporan kerusakan ke Gab AI Inc</translation>
+<translation id="9063160602596686558">Secara otomatis mengirimkan statistik penggunaan dan laporan kerusakan ke Fulldive</translation>
 <translation id="6697492270171225480">Tampilkan saran untuk halaman yang serupa jika halaman tidak dapat ditemukan</translation>
-<translation id="4534361985432360439">Mengirimkan alamat web halaman yang ingin Anda buka ke Gab AI Inc</translation>
-<translation id="3831436149286513437">Saran penelusuran Gab AI Inc Drive</translation>
+<translation id="4534361985432360439">Mengirimkan alamat web halaman yang ingin Anda buka ke Fulldive</translation>
+<translation id="3831436149286513437">Saran penelusuran Fulldive Drive</translation>
 <translation id="5244474230056479698">Menyinkronkan dengan <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Dapatkan kecanggihan Gab AI Inc di Fulldive</translation>
+<translation id="9125982323641182972">Dapatkan kecanggihan Fulldive di Fulldive</translation>
 <translation id="2537178555904266562">Terjadi error saat menyinkronkan sandi</translation>
 <translation id="4314815835985389558">Kelola sinkronisasi</translation>
 <translation id="8931475688782629595">Kelola yang Anda sinkronkan</translation>
@@ -4632,18 +4632,18 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="4570387585180509432">Alamat, nomor telepon, dan lainnya</translation>
 <translation id="3268451620468152448">Tab Terbuka</translation>
 <translation id="4684427112815847243">Sinkronkan semua</translation>
-<translation id="5428209950370661546">Layanan Gab AI Inc lainnya</translation>
+<translation id="5428209950370661546">Layanan Fulldive lainnya</translation>
 <translation id="7399045143794278225">Sesuaikan sinkronisasi</translation>
 <translation id="7044606776288350625">Sinkronkan data</translation>
 <translation id="9050666287014529139">Frasa sandi</translation>
 <translation id="6596325263575161958">Opsi enkripsi</translation>
-<translation id="2459230470861708651">Enkripsikan sandi yang disinkronkan dengan nama pengguna dan sandi Gab AI Inc Anda</translation>
+<translation id="2459230470861708651">Enkripsikan sandi yang disinkronkan dengan nama pengguna dan sandi Fulldive Anda</translation>
 <translation id="1651008383952180276">Anda harus memasukkan frasa sandi yang sama dua kali</translation>
 <translation id="988978206646512040">Frasa sandi tidak boleh kosong</translation>
 <translation id="2136476978468204130">Frasa sandi yang Anda masukkan salah</translation>
 <translation id="7505421639213002314">Data dari sinkronisasi Fulldive</translation>
 <translation id="452750746583162491">Tinjau data Anda yang disinkronkan</translation>
-<translation id="7956662517480676674">Sinkronisasi dan layanan Gab AI Inc</translation>
+<translation id="7956662517480676674">Sinkronisasi dan layanan Fulldive</translation>
 <translation id="7772032839648071052">Konfirmasi frasa sandi</translation>
 <translation id="7529411698175791732">Periksa koneksi internet Anda. Jika masalah tetap berlanjut, coba logout lalu login lagi.</translation>
 <translation id="6406506848690869874">Sinkronkan</translation>
@@ -4777,8 +4777,8 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="7835178595033117206">Bookmark dihapus</translation>
 <translation id="742130257665691897">Bookmark dihapus</translation>
 <translation id="5468853758063275923">Fulldive adalah browser default Anda</translation>
-<translation id="2950533317914339731">Tambahkan bookmark ke aplikasi Gab AI Inc favorit Anda</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">Tambahkan bookmark ke aplikasi Fulldive favorit Anda</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Maps</translation>
 <translation id="6709133671862442373">Berita</translation>
@@ -4792,7 +4792,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="7789963078219276159">Latar belakang halaman awal telah diubah menjadi <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Latar belakang halaman awal telah disetel ulang ke latar belakang default.</translation>
 <translation id="239760341987199724">Setel Fulldive sebagai browser default</translation>
-<translation id="96037229054033864">Nikmati kecanggihan Gab AI Inc dan Gab AI Inc Penelusuran setiap kali Anda browsing</translation>
+<translation id="96037229054033864">Nikmati kecanggihan Fulldive dan Fulldive Penelusuran setiap kali Anda browsing</translation>
 <translation id="296137235951584143">Sesuaikan Fulldive dengan selera Anda</translation>
 <translation id="3982375475032951137">Siapkan browser Anda dalam beberapa langkah mudah</translation>
 <translation id="6972754398087986839">Mulai</translation>
@@ -4805,7 +4805,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="1031362278801463162">Memuat pratinjau</translation>
 <translation id="6147020289383635445">Pratinjau cetak gagal.</translation>
 <translation id="5877584842898320529">Printer yang dipilih tidak tersedia atau tidak terinstal dengan benar. <ph name="BR"/> Periksa printer atau coba pilih printer lain.</translation>
-<translation id="6645437135153136856">Perangkat Gab AI Inc Cloud Print yang dipilih tidak didukung lagi. <ph name="BR"/> Coba siapkan printer di setelan sistem komputer.</translation>
+<translation id="6645437135153136856">Perangkat Fulldive Cloud Print yang dipilih tidak didukung lagi. <ph name="BR"/> Coba siapkan printer di setelan sistem komputer.</translation>
 <translation id="5828633471261496623">Mencetak...</translation>
 <translation id="6295855836753816081">Menyimpan...</translation>
 <translation id="3587482841069643663">Semua</translation>
@@ -4825,7 +4825,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="3706463572498736864">Halaman per lembar</translation>
 <translation id="2249605167705922988">misal: 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">Simpan sebagai PDF</translation>
-<translation id="6532101170117367231">Simpan ke Gab AI Inc Drive</translation>
+<translation id="6532101170117367231">Simpan ke Fulldive Drive</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">lembaran kertas</translation>
 <translation id="8813811964357448561">lembaran kertas</translation>
@@ -4855,7 +4855,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="6991665348624301627">Pilih tujuan</translation>
 <translation id="8800004011501252845">Menunjukkan tujuan untuk</translation>
 <translation id="8996526648899750015">Tambahkan akun...</translation>
-<translation id="6723354935081862304">Cetak ke Gab AI Inc Dokumen dan tujuan awan lainnya. <ph name="BEGIN_LINK"/>Login<ph name="END_LINK"/> untuk mencetak ke Gab AI Inc Cloud Print.</translation>
+<translation id="6723354935081862304">Cetak ke Fulldive Dokumen dan tujuan awan lainnya. <ph name="BEGIN_LINK"/>Login<ph name="END_LINK"/> untuk mencetak ke Fulldive Cloud Print.</translation>
 <translation id="2150139952286079145">Telusuri tujuan</translation>
 <translation id="8569682776816196752">Tidak ditemukan tujuan</translation>
 <translation id="7885253890047913815">Tujuan Saat Ini</translation>

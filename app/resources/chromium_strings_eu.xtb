@@ -10,7 +10,7 @@
 <translation id="4847979153841887006">Fulldive logotipoa</translation>
 <translation id="7339898014177206373">Leiho berria</translation>
 <translation id="5516268345616100622">Ataza-kudeatzailea - Fulldive</translation>
-<translation id="7918740962659365265">Lagundu Fulldive hobetzen hutsegite-txostenak eta <ph name="UMA_LINK"/> Gab AI Inc-ra bidalita</translation>
+<translation id="7918740962659365265">Lagundu Fulldive hobetzen hutsegite-txostenak eta <ph name="UMA_LINK"/> Fulldive-ra bidalita</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - Hasi saioa sarean - Fulldive</translation>
@@ -36,7 +36,7 @@
 <translation id="2585240446624043880">Fulldive-ek ezin du irakurri bere datu-direktorioa eta ezin du idatzi bertan:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Aukerakoa: lagundu Fulldive hobetzen Gab AI Inc-ra erabilera-estatistikak eta hutsegite-txostenak automatikoki bidalita.</translation>
+<translation id="8417700129970341035">Aukerakoa: lagundu Fulldive hobetzen Fulldive-ra erabilera-estatistikak eta hutsegite-txostenak automatikoki bidalita.</translation>
 <translation id="1489465648257900784">Ezin duzu profila erabili Fulldive bertsio berriago batekoa delako.
 
 Baliteke eginbide batzuk erabilgarri ez egotea. Adierazi beste profil-direktorio bat edo erabili Fulldive bertsio berriago bat.</translation>
@@ -47,7 +47,7 @@ Eginbide batzuk agian dira erabilgarri egongo eta hobespenei egindako aldaketak 
 
 Fulldive-ek ezin ditu ezarpenak berreskuratu.</translation>
 <translation id="1477146545787277177">Fulldive-ek huts egin du. Berriro abiarazi nahi duzu?</translation>
-<translation id="5785919770853225148">Fulldive-ek Gab AI Inc-ko kontuan gordeko du pasahitz hau. Ez duzu gogoratu beharko.</translation>
+<translation id="5785919770853225148">Fulldive-ek Fulldive-ko kontuan gordeko du pasahitz hau. Ez duzu gogoratu beharko.</translation>
 <translation id="8211837073776713955">Fulldive-ek abisatu egingo dizu pasahitzak inoiz arriskuan badaude</translation>
 <translation id="113959764510199339">Fulldive pasahitzak erakusten saiatzen ari da.</translation>
 <translation id="96347285368592620">Pasahitzak kopiatzen saiatzen ari da Fulldive.</translation>
@@ -88,7 +88,7 @@ Fulldive-ek ezin ditu ezarpenak berreskuratu.</translation>
 <translation id="9183662282810237335">Fulldive-etik irten nahi duzu hala ere?</translation>
 <translation id="3834935463915107022">Fulldive-etik irten nahi duzu hala ere?</translation>
 <translation id="8797356639448065696">Fulldive atzeko planoko moduan dago.</translation>
-<translation id="2339258256897053758">Gab AI Inc API gakoak falta dira. Fulldive-en funtzionalitate batzuk desgaituko dira.</translation>
+<translation id="2339258256897053758">Fulldive API gakoak falta dira. Fulldive-en funtzionalitate batzuk desgaituko dira.</translation>
 <translation id="7861579472672677409">Gehitu da <ph name="EXTENSION_NAME"/> luzapena Fulldive-en</translation>
 <translation id="8516116288943000095">Halaber, garbitu Fulldive-eko datuak (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Ezkutatu Fulldive menuan</translation>
@@ -112,8 +112,8 @@ Fulldive-ek ezin ditu ezarpenak berreskuratu.</translation>
 <translation id="2925193881330501265">Fulldive-en <ph name="USER_EMAIL_ADDRESS"/> gisa hasi duzu saioa. Saioa berriro hasteko, erabili hasiera batean erabilitako kontu bera.</translation>
 <translation id="847561904663814268">Norbaitek <ph name="ACCOUNT_EMAIL_LAST"/> gisa hasi du saioa Fulldive-en ordenagailu hau erabilita. Zure informazioa bereizita izateko, sortu beste Fulldive erabiltzaile bat.</translation>
 <translation id="1853997773668795891">Fulldive datuak kontu honekin lotu nahi dituzu?</translation>
-<translation id="1326766910007115955">Kontu kudeatu batekin hasten ari zara saioa eta kontuaren administratzaileari zure Fulldive profila kontrolatzeko ahalmena ematera zoaz. Fulldive aplikazioan dituzun datuak, esaterako, aplikazioak, laster-markak, historia, pasahitzak eta beste ezarpen batzuk behin betiko lotuko zaizkio <ph name="USER_NAME"/> erabiltzaileari. Gab AI Inc kontuetako Panelaren bidez ezabatu ahalko dituzu datu horiek, baina ezingo dituzu beste kontu batekin lotu. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Kontu kudeatu batekin hasten ari zara saioa eta kontuaren administratzaileari zure Fulldive profila kontrolatzeko ahalmena ematera zoaz. Fulldive aplikazioan dituzun datuak, esaterako, aplikazioak, laster-markak, historia, pasahitzak eta beste ezarpen batzuk behin betiko lotuko zaizkio <ph name="USER_NAME"/> erabiltzaileari. Gab AI Inc kontuetako Panelaren bidez ezabatu ahalko dituzu datu horiek, baina ezingo dituzu beste kontu batekin lotu. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Kontu kudeatu batekin hasten ari zara saioa eta kontuaren administratzaileari zure Fulldive profila kontrolatzeko ahalmena ematera zoaz. Fulldive aplikazioan dituzun datuak, esaterako, aplikazioak, laster-markak, historia, pasahitzak eta beste ezarpen batzuk behin betiko lotuko zaizkio <ph name="USER_NAME"/> erabiltzaileari. Fulldive kontuetako Panelaren bidez ezabatu ahalko dituzu datu horiek, baina ezingo dituzu beste kontu batekin lotu. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Kontu kudeatu batekin hasten ari zara saioa eta kontuaren administratzaileari zure Fulldive profila kontrolatzeko ahalmena ematera zoaz. Fulldive aplikazioan dituzun datuak, esaterako, aplikazioak, laster-markak, historia, pasahitzak eta beste ezarpen batzuk behin betiko lotuko zaizkio <ph name="USER_NAME"/> erabiltzaileari. Fulldive kontuetako Panelaren bidez ezabatu ahalko dituzu datu horiek, baina ezingo dituzu beste kontu batekin lotu. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Sistemaren administratzailearen konfigurazioaren arabera, Fulldive-ek beste arakatzaile bat ireki behar du <ph name="TARGET_URL_HOSTNAME"/> helbidera joateko.</translation>
 <translation id="5380963249588143069">Sistemaren administratzailearen konfigurazioaren arabera, Fulldive-ek <ph name="ALTERNATIVE_BROWSER_NAME"/> arakatzailea ireki behar du <ph name="TARGET_URL_HOSTNAME"/> helbidera joateko.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> Fulldive erabiltzen ari da lehendik ere</translation>
@@ -137,7 +137,7 @@ Fulldive-ek ezin ditu ezarpenak berreskuratu.</translation>
 <translation id="239760341987199724">Ezarri Fulldive arakatzaile lehenetsi gisa</translation>
 <translation id="669092380621816981">Pertsona honen arakatze-datuak gailutik ezabatuko dira. Datuak berreskuratzeko, hasi saioa Fulldive-en <ph name="USER_EMAIL"/> gisa.</translation>
 <translation id="2827121003398607864">Fulldive hobetu egin dugu</translation>
-<translation id="7192666605334070839">Errazagoa da Fulldive erabiltzea Gab AI Inc-ko kontuarekin eta partekatutako ordenagailuetan.</translation>
+<translation id="7192666605334070839">Errazagoa da Fulldive erabiltzea Fulldive-ko kontuarekin eta partekatutako ordenagailuetan.</translation>
 <translation id="4100716194836114130">Hau da zure Fulldive arakatzailea</translation>
 <translation id="3511996232906761537">Webguneak, laster-markak eta Fulldive-eko beste gauzak hemen daude.</translation>
 <translation id="7406627712452599344">Gonbidatuek Fulldive erabil dezakete aztarnarik utzi gabe.</translation>
@@ -158,9 +158,9 @@ Fulldive-ek ezin ditu ezarpenak berreskuratu.</translation>
 <translation id="7272074097076644710">Fulldive Beta sarrerako araua mDNS trafikoa baimentzeko.</translation>
 <translation id="4991512282053949769">Sarrerako araua Fulldive Gauekorako mDNS trafikoa baimentzeko.</translation>
 <translation id="3856641371299712128">Fulldive Dev-en sarrerako araua mDNS trafikoa baimentzeko.</translation>
-<translation id="8207657266087451193">Irudiren batek ez badu azalpen lagungarririk, halako bat lortzen ahaleginduko da Fulldive. Azalpen horiek sortzeko, irudiak Gab AI Inc-ri bidaltzen zaizkio. Aukera hori desaktibatu nahi baduzu, joan ezarpenetara.</translation>
-<translation id="5499063270485366718">Irudiren batek ez badu azalpen lagungarririk, halako bat lortzen ahaleginduko da Fulldive. Azalpen horiek sortzeko, irudiak Gab AI Inc-ri bidaltzen zaizkio.</translation>
-<translation id="215320507915280336">Gab AI Inc Bilaketa zerbitzuan erabiltzen den ortografia-zuzentzaile bera erabiltzen da. Arakatzailean idazten duzun testua Gab AI Inc-ri bidaltzen zaio. Aukera horiek aldatzeko, joan ezarpenetara.</translation>
+<translation id="8207657266087451193">Irudiren batek ez badu azalpen lagungarririk, halako bat lortzen ahaleginduko da Fulldive. Azalpen horiek sortzeko, irudiak Fulldive-ri bidaltzen zaizkio. Aukera hori desaktibatu nahi baduzu, joan ezarpenetara.</translation>
+<translation id="5499063270485366718">Irudiren batek ez badu azalpen lagungarririk, halako bat lortzen ahaleginduko da Fulldive. Azalpen horiek sortzeko, irudiak Fulldive-ri bidaltzen zaizkio.</translation>
+<translation id="215320507915280336">Fulldive Bilaketa zerbitzuan erabiltzen den ortografia-zuzentzaile bera erabiltzen da. Arakatzailean idazten duzun testua Fulldive-ri bidaltzen zaio. Aukera horiek aldatzeko, joan ezarpenetara.</translation>
 <translation id="1807774211756215222">Ireki esteka Fulldive-eko beste &amp;fitxa batean</translation>
 <translation id="4624945300945265642">Ireki esteka Fulldive-eko &amp;ezkutuko moduko leiho batean</translation>
 <translation id="7863882214613921971">Ireki esteka Fulldive-eko beste &amp;fitxa batean</translation>
@@ -214,7 +214,7 @@ Fulldive-ek ezin ditu ezarpenak berreskuratu.</translation>
 <translation id="7573289029918943991">Gailua eguneratuta dagoen ikusteko, joan <ph name="LINK_BEGIN"/>Fulldive OS sistemaren ezarpenetara<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Lortu Fulldive sistema eragilea erabiltzeko laguntza</translation>
 <translation id="38898988211673781">Garbitu cookieak eta webguneen datuak Fulldive-etik irteten zarenean</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (Fulldive-en kopiatu da)</translation>
+<translation id="5253815230176279256">Fulldive Pay (Fulldive-en kopiatu da)</translation>
 <translation id="5468853758063275923">Fulldive da arakatzaile lehenetsia</translation>
 <translation id="1775322105159056176">Fulldive-ek ezin du ezarri edo zehaztu arakatzaile lehenetsia</translation>
 <translation id="6915252145142862992">Fulldive-en bigarren mailako instalazio bat da hau; beraz, ezin duzu ezarri arakatzaile lehenetsi gisa.</translation>
@@ -222,10 +222,10 @@ Fulldive-ek ezin ditu ezarpenak berreskuratu.</translation>
       Fulldive-en arakatze-ezarpenetan.<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Ezarpenen bat orri honetan agertzen ez bada, bila ezazu <ph name="LINK_BEGIN"/>
       Fulldive-en sistema eragilearen ezarpenetan.<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Ortografia-akatsak konpondu ahal izateko, testu-eremuetan idazten duzun testua Gab AI Inc-ri bidaltzen dio Fulldive-ek</translation>
+<translation id="2312399718665761438">Ortografia-akatsak konpondu ahal izateko, testu-eremuetan idazten duzun testua Fulldive-ri bidaltzen dio Fulldive-ek</translation>
 <translation id="8586264863973514035">Aldaketak aplikatzeko, berrabiarazi Fulldive</translation>
 <translation id="7021823858304886493">Baimendu Fulldive-en saioa hastea</translation>
-<translation id="1649714546770135458">Aukera hau desaktibatzen baduzu, Gab AI Inc-ren webguneetan saioa hasi ahalko duzu (adibidez, Gmail-en) Fulldive-en saioa hasi beharrik gabe</translation>
+<translation id="1649714546770135458">Aukera hau desaktibatzen baduzu, Fulldive-ren webguneetan saioa hasi ahalko duzu (adibidez, Gmail-en) Fulldive-en saioa hasi beharrik gabe</translation>
 <translation id="2796517443093885402">Datuen isilpekotasunaren urratzeen, luzapen gaiztoen eta abarren aurrean babes zaitzake Fulldive-ek</translation>
 <translation id="428541510811554120">Fulldive-ek ezin du egiaztatu eguneratzerik dagoen. Egiaztatu Internetera konektatuta zaudela.</translation>
 <translation id="2633397153656205379">Fulldive ez da eguneratu arazoren bat izan delako. <ph name="BEGIN_LINK"/>Konpondu Fulldive eguneratzeko arazoak eta huts egindako eguneratzeak.<ph name="END_LINK"/></translation>

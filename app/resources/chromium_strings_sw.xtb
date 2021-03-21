@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Nembo ya Fulldive</translation>
 <translation id="7339898014177206373">Dirisha jipya</translation>
 <translation id="5516268345616100622">Kidhibiti cha Shughuli - Fulldive</translation>
-<translation id="7918740962659365265">Saidia kuboresha Fulldive kwa kutuma ripoti za kuacha kufanya kazi na <ph name="UMA_LINK"/> kwenda Gab AI Inc</translation>
+<translation id="7918740962659365265">Saidia kuboresha Fulldive kwa kutuma ripoti za kuacha kufanya kazi na <ph name="UMA_LINK"/> kwenda Fulldive</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - Kuingia katika Akaunt ya Mtandao - Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldive haiwezi kusoma na kuandika kwenye saraka yake ya data:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Si lazima: Saidia kuboresha Fulldive kwa kutumia Gab AI Inc takwimu za matumizi na ripoti wakati wowote huduma hii inapoacha kufanya kazi.</translation>
+<translation id="8417700129970341035">Si lazima: Saidia kuboresha Fulldive kwa kutumia Fulldive takwimu za matumizi na ripoti wakati wowote huduma hii inapoacha kufanya kazi.</translation>
 <translation id="1489465648257900784">Wasifu wako hauwezi kutumiwa kwa sababu umetoka katika toleo jipya la Fulldive.
 
 Baadhi ya vipengele huenda visipatikane. Tafadhali bainisha saraka tofauti ya wasifu au utumie toleo jipya la Fulldive.</translation>
@@ -44,7 +44,7 @@ Baadhi ya vipengele huenda visipatikane na mabadiliko katika mapendeleo hayatahi
 
 Fulldive haiwezi kufufua mipangilio yako.</translation>
 <translation id="1477146545787277177">Lo! Fulldive imevurugika. Unataka kuzindua upya sasa?</translation>
-<translation id="5785919770853225148">Fulldive itahifadhi nenosiri hili kwenye Akaunti yako ya Gab AI Inc. Hutahitaji kulikumbuka.</translation>
+<translation id="5785919770853225148">Fulldive itahifadhi nenosiri hili kwenye Akaunti yako ya Fulldive. Hutahitaji kulikumbuka.</translation>
 <translation id="8211837073776713955">Fulldive hukuruhusu ujue iwapo manenosiri yako yameathiriwa</translation>
 <translation id="113959764510199339">Fulldive inajaribu kuonyesha manenosiri.</translation>
 <translation id="96347285368592620">Fulldive inajaribu kunakili manenosiri.</translation>
@@ -85,7 +85,7 @@ Fulldive haiwezi kufufua mipangilio yako.</translation>
 <translation id="9183662282810237335">Ungependa kufunga Fulldive?</translation>
 <translation id="3834935463915107022">Ungependa kufunga Fulldive?</translation>
 <translation id="8797356639448065696">Fulldive iko katika hali ya chini chini.</translation>
-<translation id="2339258256897053758">Funguo za Gab AI Inc API zinakosekana. Utendaji fulani wa Fulldive utazimwa.</translation>
+<translation id="2339258256897053758">Funguo za Fulldive API zinakosekana. Utendaji fulani wa Fulldive utazimwa.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> imeongezwa kwenye Fulldive</translation>
 <translation id="8516116288943000095">Futa pia data kwenye Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Ficha katika menyu ya Fulldive</translation>
@@ -109,8 +109,8 @@ Fulldive haiwezi kufufua mipangilio yako.</translation>
 <translation id="2925193881330501265">Uliingia kwenye Fulldive kama <ph name="USER_EMAIL_ADDRESS"/>. Tafadhali tumia akaunti hiyo hiyo kuingia tena.</translation>
 <translation id="847561904663814268">Kuna mtu aliingia katika Fulldive kwenye kompyuta hii akitumia <ph name="ACCOUNT_EMAIL_LAST"/>. Tafadhali ongeza wasifu mpya wa Fulldive ili utenganishe maelezo yako.</translation>
 <translation id="1853997773668795891">Ungependa kuunganisha data yako ya Fulldive kwenye akaunti hii?</translation>
-<translation id="1326766910007115955">Unaingia katika akaunti inayodhibitiwa na kumpa msimamizi wa akaunti hiyo udhibiti wa wasifu wako kwenye Fulldive. Data yako ya Fulldive, kama vile programu zako, alamisho, historia, manenosiri, na mipangilio miingine itahusishwa na <ph name="USER_NAME"/> kabisa. Utaweza kufuta data hii kupitia Dashibodi ya Akaunti za Gab AI Inc, lakini hutaweza  kuunganisha data hii na akaunti nyingine. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Unaingia katika akaunti ukitumia akaunti inayodhibitiwa na kumpa msimamizi wa akaunti hiyo udhibiti wa wasifu wako kwenye Fulldive. Data yako ya Fulldive, kama vile programu zako, alamisho, historia, manenosiri, na mipangilio nyingine itahusishwa na<ph name="USER_NAME"/> kabisa. Utaweza kufuta data hii kupitia Dashibodi ya Akaunti za Gab AI Inc, lakini hutaweza  kuunganisha data hii na akaunti nyingine. Unaweza kwa hiari kuunda wasifu mpya ili kuweka data yako ya Fulldive iliyo kando. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Unaingia katika akaunti inayodhibitiwa na kumpa msimamizi wa akaunti hiyo udhibiti wa wasifu wako kwenye Fulldive. Data yako ya Fulldive, kama vile programu zako, alamisho, historia, manenosiri, na mipangilio miingine itahusishwa na <ph name="USER_NAME"/> kabisa. Utaweza kufuta data hii kupitia Dashibodi ya Akaunti za Fulldive, lakini hutaweza  kuunganisha data hii na akaunti nyingine. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Unaingia katika akaunti ukitumia akaunti inayodhibitiwa na kumpa msimamizi wa akaunti hiyo udhibiti wa wasifu wako kwenye Fulldive. Data yako ya Fulldive, kama vile programu zako, alamisho, historia, manenosiri, na mipangilio nyingine itahusishwa na<ph name="USER_NAME"/> kabisa. Utaweza kufuta data hii kupitia Dashibodi ya Akaunti za Fulldive, lakini hutaweza  kuunganisha data hii na akaunti nyingine. Unaweza kwa hiari kuunda wasifu mpya ili kuweka data yako ya Fulldive iliyo kando. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Msimamizi wa mfumo unaotumia ameweka mipangilio ya Fulldive ifungue kivinjari mbadala ili ufikie<ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">Msimamizi wa mfumo unaotumia ameweka mipangilio ya Fulldive ifungue <ph name="ALTERNATIVE_BROWSER_NAME"/> ili kufikia <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> ilikuwa ikitumia Fulldive awali</translation>
@@ -134,7 +134,7 @@ Fulldive haiwezi kufufua mipangilio yako.</translation>
 <translation id="239760341987199724">Weka Fulldive kuwa kivinjari chako chaguomsingi</translation>
 <translation id="669092380621816981">Data ya kuvinjari ya mtu huyu itafutwa kwenye kifaa hiki. Ili kurejesha data, ingia katika Fulldive ukitumia <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Fulldive imeboreshwa</translation>
-<translation id="7192666605334070839">Sasa ni rahisi zaidi kutumia Fulldive pamoja na Akaunti yako ya Gab AI Inc na kwenye kompyuta zinazoshirikiwa.</translation>
+<translation id="7192666605334070839">Sasa ni rahisi zaidi kutumia Fulldive pamoja na Akaunti yako ya Fulldive na kwenye kompyuta zinazoshirikiwa.</translation>
 <translation id="4100716194836114130">Hii ni Fulldive yako</translation>
 <translation id="3511996232906761537">Wavuti, alamisho, na mambo yako mengine ya Fulldive yanapatikana hapa.</translation>
 <translation id="7406627712452599344">Walioalikwa wanaweza kutumia Fulldive bila kuacha kitu chochote nyuma.</translation>
@@ -149,9 +149,9 @@ Fulldive haiwezi kufufua mipangilio yako.</translation>
 <translation id="2871190378186459992">Gundua programu, michezo, viendelezi na mandhari bora ya Fulldive.</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">Sheria ya ndani ya Fulldive ili kuruhusu trafiki ya mDNS.</translation>
-<translation id="8207657266087451193">Ikiwa picha haina ufafanuzi muhimu, Fulldive itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa Gab AI Inc. Unaweza kuzima mipangilio hii wakati wowote.</translation>
-<translation id="5499063270485366718">Ikiwa picha haina ufafanuzi muhimu, Fulldive itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa Gab AI Inc.</translation>
-<translation id="215320507915280336">Huduma hii hutumia kikagua maendelezo sawa na kinachotumika kwenye Huduma ya Tafuta na Gab AI Inc. Maandishi unayoandika kwenye kivinjari yanatumwa kwa Gab AI Inc. Unaweza kubadilisha hali hii katika mipangilio wakati wowote.</translation>
+<translation id="8207657266087451193">Ikiwa picha haina ufafanuzi muhimu, Fulldive itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa Fulldive. Unaweza kuzima mipangilio hii wakati wowote.</translation>
+<translation id="5499063270485366718">Ikiwa picha haina ufafanuzi muhimu, Fulldive itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa Fulldive.</translation>
+<translation id="215320507915280336">Huduma hii hutumia kikagua maendelezo sawa na kinachotumika kwenye Huduma ya Tafuta na Fulldive. Maandishi unayoandika kwenye kivinjari yanatumwa kwa Fulldive. Unaweza kubadilisha hali hii katika mipangilio wakati wowote.</translation>
 <translation id="1807774211756215222">Fungua kiungo katika kichupo kipya cha Fulldive</translation>
 <translation id="4624945300945265642">Fungua kiungo katika dirisha fiche la Fulldive</translation>
 <translation id="7863882214613921971">Fungua Kiungo katika kichupo kipya cha Fulldive</translation>
@@ -205,7 +205,7 @@ Fulldive haiwezi kufufua mipangilio yako.</translation>
 <translation id="7573289029918943991">Ili uone ikiwa kifaa chako kimesasishwa, nenda kwenye <ph name="LINK_BEGIN"/>Mipanglio ya Mfumo wa Uendeshaji wa Fulldive<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Pata usaidizi wa kutumia mfumo wa uendeshaji wa Fulldive</translation>
 <translation id="38898988211673781">Futa vidakuzi na data ya tovuti unapofunga Fulldive</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (imenakiliwa kwenye Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (imenakiliwa kwenye Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive ni kivinjari chako chaguomsingi</translation>
 <translation id="1775322105159056176">Fulldive haijafaulu kubainisha wala kuweka kivinjari chaguomsingi</translation>
 <translation id="6915252145142862992">Huu ni usakinishaji wa pili wa Fulldive, na haiwezi kufanywa kuwa kivinjari chako chaguomsingi.</translation>
@@ -213,10 +213,10 @@ Fulldive haiwezi kufufua mipangilio yako.</translation>
       mipangilio ya kivinjari kwenye Fulldive<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Ikiwa mipangilio haionekani kwenye ukurasa huu, angalia katika.<ph name="LINK_BEGIN"/>
       mipangilio ya mfumo wa uendeshaji wa Fulldive<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Ili kurekebisha makosa ya tahajia, Fulldive hutuma maandishi unayoandika kwenye sehemu za maandishi kwa Gab AI Inc</translation>
+<translation id="2312399718665761438">Ili kurekebisha makosa ya tahajia, Fulldive hutuma maandishi unayoandika kwenye sehemu za maandishi kwa Fulldive</translation>
 <translation id="8586264863973514035">Ili utumie mabadiliko uliyofanya, fungua Fulldive upya</translation>
 <translation id="7021823858304886493">Ruhusu kuingia katika akaunti ya Fulldive</translation>
-<translation id="1649714546770135458">Kwa kuzima kipengele hiki, unaweza kuingia katika tovuti za Gab AI Inc kama vile Gmail bila kuingia katika akaunti ya Fulldive</translation>
+<translation id="1649714546770135458">Kwa kuzima kipengele hiki, unaweza kuingia katika tovuti za Fulldive kama vile Gmail bila kuingia katika akaunti ya Fulldive</translation>
 <translation id="2796517443093885402">Fulldive inaweza kukusaidia ulinde akaunti yako dhidi ya ufichuzi haramu wa data, viendelezi vibaya na zaidi</translation>
 <translation id="428541510811554120">Fulldive imeshindwa kukagua masasisho. Jaribu kuangalia muunganisho wako wa Intaneti.</translation>
 <translation id="2633397153656205379">Fulldive haijasasishwa, hitilafu fulani imetokea. <ph name="BEGIN_LINK"/>Rekebisha matatizo ya sasisho la Fulldive na masasisho ambayo hayakuwekwa.<ph name="END_LINK"/></translation>

@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">Nije pronađen nijedan rezultat pretraživanja</translation>
 <translation id="8967866634928501045">Pritisnite Alt Shift A za prikaz</translation>
 <translation id="998747458861718449">P&amp;rovjeri</translation>
-<translation id="4428301600092811022">Preuzeti opis slike s Gab AI Inca?</translation>
+<translation id="4428301600092811022">Preuzeti opis slike s Fulldivea?</translation>
 <translation id="741204030948306876">Da, želim</translation>
 <translation id="780301667611848630">Ne, hvala</translation>
 <translation id="3943582379552582368">&amp;Nazad</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">&amp;Zalijepi</translation>
 <translation id="2218515861914035131">Zalijepi kao neformatirani tekst</translation>
 <translation id="1017280919048282932">&amp;Dodavanje u direktorij</translation>
-<translation id="1732768497619250086">Preuzimanje opisa slika s Gab AI Inca</translation>
+<translation id="1732768497619250086">Preuzimanje opisa slika s Fulldivea</translation>
 <translation id="7561196759112975576">Uvijek</translation>
 <translation id="2241634353105152135">Samo ovaj put</translation>
 <translation id="3387614642886316601">Koristite poboljšanu provjeru pravopisa</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">Uključi</translation>
 <translation id="7658239707568436148">Otkaži</translation>
 <translation id="8915370057835397490">Učitavanje prijedloga</translation>
-<translation id="6191804255817539692">Gab AI Inc nema više prijedloga</translation>
+<translation id="6191804255817539692">Fulldive nema više prijedloga</translation>
 <translation id="1901303067676059328">Odaberi &amp;sve</translation>
 <translation id="3797900183766075808">&amp;Pretraži termin “<ph name="SEARCH_TERMS"/>” u pretraživaču <ph name="SEARCH_ENGINE"/></translation>
 <translation id="2721037002783622288">Traži sliku na pretraživaču <ph name="SEARCH_ENGINE"/></translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">Zalije&amp;pi</translation>
 <translation id="1815083418640426271">Zalijepi kao neformatirani tekst</translation>
 <translation id="4022426551683927403">&amp;Dodaj u rječnik</translation>
-<translation id="6849870115130610913">Preuzmi opise slika s Gab AI Inca</translation>
+<translation id="6849870115130610913">Preuzmi opise slika s Fulldivea</translation>
 <translation id="372722114124766626">Samo ovaj put</translation>
 <translation id="4079140982534148664">Koristi naprednu provjeru pravopisa</translation>
 <translation id="7487141338393529395">Uključiti poboljšanu provjeru pravopisa</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277">Fajl <ph name="FILE_NAME"/> sadrži osjetljiv sadržaj.</translation>
 <translation id="1061745542578250838">Fajl <ph name="FILE_NAME"/> sadrži osjetljiv sadržaj i blokiran je.</translation>
 <translation id="6651823585377804376">Preuzimanje sadrži zlonamjerni softver.</translation>
-<translation id="6529597483902964581">Fajl <ph name="FILE_NAME"/> može biti opasan. Poslati Gab AI Incovoj Naprednoj zaštiti radi skeniranja?</translation>
+<translation id="6529597483902964581">Fajl <ph name="FILE_NAME"/> može biti opasan. Poslati Fulldiveovoj Naprednoj zaštiti radi skeniranja?</translation>
 <translation id="4907161631261076876">Ovaj fajl se ne preuzima često i može biti opasan.</translation>
 <translation id="6102043788063419338">Napredna zaštita je blokirala ovaj fajl.</translation>
 <translation id="2773802008104670137">Ova vrsta fajla može nanijeti štetu vašem računaru.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Otkazano je preuzimanje fajla: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Preuzimanje je završeno: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Preuzimanje je završeno. <ph name="FILE_NAME"/>. Pritisnite Shift + F6 da odete u oblast trake preuzetih fajlova.</translation>
-<translation id="7033965027041115562">Fajl <ph name="FILE_NAME"/> može biti opasan. Poslati Gab AI Incovoj Naprednoj zaštiti radi skeniranja? Pritisnite Shift + F6 da odete u područje trake preuzetih fajlova.</translation>
+<translation id="7033965027041115562">Fajl <ph name="FILE_NAME"/> može biti opasan. Poslati Fulldiveovoj Naprednoj zaštiti radi skeniranja? Pritisnite Shift + F6 da odete u područje trake preuzetih fajlova.</translation>
 <translation id="2743387203779672305">Kopiraj u međumemoriju</translation>
 <translation id="883911313571074303">Dodaj bilješku slici</translation>
 <translation id="6291953229176937411">&amp;Prikaži u Tražiocu</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">Izađi</translation>
 <translation id="7376221878517288144">Ipak napustiti anonimni način rada?</translation>
 <translation id="973473557718930265">Odustani</translation>
-<translation id="7707599169365957976">Možete nam pomoći da unaprijedimo Sigurno pregledanje slanjem nekih sistemskih informacija i sadržaja stranica Gab AI Incu.</translation>
+<translation id="7707599169365957976">Možete nam pomoći da unaprijedimo Sigurno pregledanje slanjem nekih sistemskih informacija i sadržaja stranica Fulldiveu.</translation>
 <translation id="4923279099980110923">Da, želim pomoći</translation>
 <translation id="2316129865977710310">Ne, hvala</translation>
 <translation id="9169931577761441333">Dodaj aplikaciju <ph name="APP_NAME"/> na početni ekran</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">Instalirana tema "<ph name="THEME_NAME"/>"</translation>
 <translation id="2256115617011615191">Ponovo pokreni sada</translation>
 <translation id="4545028762441890696">Da ga omogućite, prihvatite nova odobrenja:</translation>
-<translation id="3009487527589249344">Gab AI Inc je označio ekstenziju "<ph name="EXTENSION_NAME"/>" kao zlonamjernu i njena instalacija je spriječena</translation>
+<translation id="3009487527589249344">Fulldive je označio ekstenziju "<ph name="EXTENSION_NAME"/>" kao zlonamjernu i njena instalacija je spriječena</translation>
 <translation id="6790497603648687708">Ekstenzija <ph name="EXTENSION_NAME"/> je dodana daljinskim putem</translation>
 <translation id="1841705068325380214">Ekstenzija <ph name="EXTENSION_NAME"/> je onemogućena</translation>
 <translation id="595959584676692139">Ponovno učitajte stranicu da koristite ekstenziju</translation>
@@ -970,7 +970,7 @@
 <translation id="3584169441612580296">Čitanje i promjena fotografija, muzike i drugih medijskih fajlova na vašem računaru</translation>
 <translation id="5457459357461771897">čitati i brisati fotografije, glazbu i druge medije s vašeg računala</translation>
 <translation id="3270965368676314374">Čitanje, izmjena i brisanje fotografija, muzike i drugih medija na vašem računaru</translation>
-<translation id="1285484354230578868">Pohranite podatke na svoj račun na Gab AI Inc Disku</translation>
+<translation id="1285484354230578868">Pohranite podatke na svoj račun na Fulldive Disku</translation>
 <translation id="378312418865624974">Pročitati jedinstveni identifikator za ovaj računar</translation>
 <translation id="5094721898978802975">Komunikacija s izvornim aplikacijama za saradnju</translation>
 <translation id="4876895919560854374">Zaključati i otključati ekran</translation>
@@ -1181,7 +1181,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="8756969031206844760">Ažurirati lozinku?</translation>
 <translation id="8230134520748321204">Sačuvati lozinku za <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">Ažurirati lozinku za <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Lozinke se pohranjuju na vašem Gab AI Inc računu tako da ih možete koristiti na bilo kojem uređaju</translation>
+<translation id="8284000761603848448">Lozinke se pohranjuju na vašem Fulldive računu tako da ih možete koristiti na bilo kojem uređaju</translation>
 <translation id="8286036467436129157">Prijava</translation>
 <translation id="8009225694047762179">Upravljaj lozinkama</translation>
 <translation id="3950820424414687140">Prijava</translation>
@@ -1189,10 +1189,10 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="328571385944182268">Sačuvati vaše lozinke?</translation>
 <translation id="3753033997400164841">Pohranite jednom. Koristite svugdje</translation>
 <translation id="1703331064825191675">Nemojte nikada brinuti zbog svojih lozinki</translation>
-<translation id="2341030170677284705">Sačuvajte lozinke sigurno na svom Gab AI Inc računu i više ih nikada nećete morati ponovo upisivati</translation>
-<translation id="3913985461352963178">Pristupite svojim lozinkama kad god ste prijavljeni na Gab AI Inc račun.</translation>
-<translation id="4851124464356820177">Da sačuvate lozinke na svoj Gab AI Inc račun, prijavite se i uključite sinhroniziranje.</translation>
-<translation id="3229869963989850535">Da sačuvate lozinke na svoj Gab AI Inc račun, uključite sinhronizaciju.</translation>
+<translation id="2341030170677284705">Sačuvajte lozinke sigurno na svom Fulldive računu i više ih nikada nećete morati ponovo upisivati</translation>
+<translation id="3913985461352963178">Pristupite svojim lozinkama kad god ste prijavljeni na Fulldive račun.</translation>
+<translation id="4851124464356820177">Da sačuvate lozinke na svoj Fulldive račun, prijavite se i uključite sinhroniziranje.</translation>
+<translation id="3229869963989850535">Da sačuvate lozinke na svoj Fulldive račun, uključite sinhronizaciju.</translation>
 <translation id="1056466516655540509">Ažurirano prije <ph name="MINUTES"/> min</translation>
 <translation id="8743864605301774756">Ažurirano prije 1 sat</translation>
 <translation id="7363117941401515667">Ažurirano prije <ph name="HOURS"/> h</translation>
@@ -1296,9 +1296,9 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="1246905108078336582">Ukloniti prijedlog iz međumemorije?</translation>
 <translation id="825238165904109940">Uvijek prikaži pune URL-ove</translation>
 <translation id="3416468988018290825">Uvijek prikaži pune URL-ove</translation>
-<translation id="2129873093718581193">Pretražite Gab AI Inc ili upišite URL</translation>
-<translation id="6363797201514053536">Pretražite Gab AI Inc ili upišite URL</translation>
-<translation id="4888839742663123585">Pretražite Gab AI Inc</translation>
+<translation id="2129873093718581193">Pretražite Fulldive ili upišite URL</translation>
+<translation id="6363797201514053536">Pretražite Fulldive ili upišite URL</translation>
+<translation id="4888839742663123585">Pretražite Fulldive</translation>
 <translation id="6078323886959318429">Dodaj prečicu</translation>
 <translation id="6324916366299863871">Uredite prečicu</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1482,35 +1482,35 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6798578729981748444">Zatvorite sve prozore u pregledniku Firefox da završite uvoz.</translation>
 <translation id="6374469231428023295">Pokušaj ponovo</translation>
 <translation id="8725066075913043281">Pokušaj ponovo</translation>
-<translation id="4196805003686694274">Pošaljite povratne informacije Gab AI Incu</translation>
+<translation id="4196805003686694274">Pošaljite povratne informacije Fulldiveu</translation>
 <translation id="3424969259347320884">Opišite što ste radili kada se kartica srušila</translation>
-<translation id="1892630320532151038">Pošaljite povratne informacije Gab AI Incu</translation>
+<translation id="1892630320532151038">Pošaljite povratne informacije Fulldiveu</translation>
 <translation id="2428510569851653187">Opišite šta ste radili kada je došlo do pada kartice</translation>
 <translation id="5659593005791499971">E-pošta</translation>
 <translation id="2982970937345031">Prijavi anonimno</translation>
 <translation id="6076448957780543068">Uključi ovaj snimak ekrana</translation>
 <translation id="2865919525181940183">Snimak ekrana programa koji su trenutno na ekranu.</translation>
 <translation id="7052237160939977163">Pošalji podatke o praćenju performansi</translation>
-<translation id="5526928694260255286">Priloži <ph name="BEGIN_LINK"/>Bluetooth zapisnike<ph name="END_LINK"/> (Gab AI Inc interno)</translation>
+<translation id="5526928694260255286">Priloži <ph name="BEGIN_LINK"/>Bluetooth zapisnike<ph name="END_LINK"/> (Fulldive interno)</translation>
 <translation id="3047644958362961983">Ove informacije nam pomažu da bolje razumijemo problem s vašim Asistentom. Pohranjuju se do 90 dana i pristup je ograničen određenim timovima za inženjering i povratne informacije.</translation>
-<translation id="8545590844135745781">Za bolju dijagnozu problema s Bluetoothom, korisnici Gab AI Inca u svoje izvještaje s povratnim informacijama mogu uvrstiti dodatne zapisnike o Bluetoothu. Kada je ova opcija označena, vaš izvještaj će obuhvatati btsnoop i HCI zapisnike iz vaše trenutne sesije, pročišćene radi uklanjanja ličnih podataka pomoću kojih se korisnik može identificirati. Pristup tim zapisnicima će biti ograničen na upravitelje grupe proizvoda za Fulldive OS u Listnru. Zapisnici će se očistiti nakon 90 dana.</translation>
+<translation id="8545590844135745781">Za bolju dijagnozu problema s Bluetoothom, korisnici Fulldivea u svoje izvještaje s povratnim informacijama mogu uvrstiti dodatne zapisnike o Bluetoothu. Kada je ova opcija označena, vaš izvještaj će obuhvatati btsnoop i HCI zapisnike iz vaše trenutne sesije, pročišćene radi uklanjanja ličnih podataka pomoću kojih se korisnik može identificirati. Pristup tim zapisnicima će biti ograničen na upravitelje grupe proizvoda za Fulldive OS u Listnru. Zapisnici će se očistiti nakon 90 dana.</translation>
 <translation id="4206323443866416204">Izvještaj o povratnim informacijama</translation>
 <translation id="3681311097828166361">Hvala na povratnim informacijama. Trenutno ste van mreže i vaš će se izvještaj poslati kasnije.</translation>
 <translation id="8713570323158206935">Pošalji <ph name="BEGIN_LINK1"/>sistemske informacije<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962">Pošalji <ph name="BEGIN_LINK1"/>sistemske informacije<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>metriku<ph name="END_LINK2"/></translation>
 <translation id="6270770586500173387">Pošalji <ph name="BEGIN_LINK1"/>sistemske informacije i informacije o aplikacijama<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>metriku<ph name="END_LINK2"/></translation>
 <translation id="3894123633473837029">Uključi nedavnu historiju Asistenta preko Sherloga. To može uključivati vaš identitet, lokaciju i informacije o ispravci grešaka. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">Fajl će se poslati Gab AI Incu radi otklanjanje grešaka</translation>
+<translation id="8329196515830093443">Fajl će se poslati Fulldiveu radi otklanjanje grešaka</translation>
 <translation id="8227119283605456246">Priloži fajl</translation>
 <translation id="5367091008316207019">Čitanje fajla…</translation>
 <translation id="2554553592469060349">Odabrani fajl je prevelik (maks. veličina: 3 MB).</translation>
 <translation id="4690091457710545971">&lt;Intel Wi-Fi firmver je izradio četiri fajla: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon.  Prva tri fajla su binarna i sadrže snimke dinamičkog dijela registra, a Intel potvrđuje da ne sadrže informacije kojima se mogu identificirati identitet osobe ili uređaj.  Posljednji fajl je izvršni obrazac za praćenje iz Intelovog firmvera. Iz njega su izbačene sve informacije kojima se mogu identificirati osoba ili uređaj, ali je previše velik za prikazivanje ovdje.  Ti fajlovi su izrađeni kao reakcija na nedavne probleme s WiFi-jem na vašem uređaju i dijelit će se s Intelom radi rješavanja tih problema.&gt;</translation>
-<translation id="6972420083546794501">Idite na stranicu <ph name="BEGIN_LINK1"/>Pravna pomoć<ph name="END_LINK1"/> da zatražite izmjenu sadržaja zbog zakona.  Neke informacije o računu i sistemu mogu se slati Gab AI Inc.  Informacije koje navedete će nam pomoći da riješimo tehničke probleme i poboljšamo usluge, u skladu s našim <ph name="BEGIN_LINK2"/>Pravilima privatnosti<ph name="END_LINK2"/> i <ph name="BEGIN_LINK3"/>Uslovima korištenja usluge<ph name="END_LINK3"/>.</translation>
+<translation id="6972420083546794501">Idite na stranicu <ph name="BEGIN_LINK1"/>Pravna pomoć<ph name="END_LINK1"/> da zatražite izmjenu sadržaja zbog zakona.  Neke informacije o računu i sistemu mogu se slati Fulldive.  Informacije koje navedete će nam pomoći da riješimo tehničke probleme i poboljšamo usluge, u skladu s našim <ph name="BEGIN_LINK2"/>Pravilima privatnosti<ph name="END_LINK2"/> i <ph name="BEGIN_LINK3"/>Uslovima korištenja usluge<ph name="END_LINK3"/>.</translation>
 <translation id="7915471803647590281">Objasnite nam šta se dešava prije slanja povratnih informacija.</translation>
 <translation id="6885771755599377173">Pregled informacija o sustavu</translation>
 <translation id="1016566241875885511">Dodatne informacije (nije obavezno)</translation>
 <translation id="8026334261755873520">Obrišite podatke pregledanja</translation>
-<translation id="4718442817388594217">Odabrani podaci su uklonjeni iz Fulldivea i sinhroniziranih uređaja. Vaš Gab AI Inc račun može imati druge oblike historije pregledanja kao što su pretraživanja i aktivnosti s drugih Gab AI Incovih usluga na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="4718442817388594217">Odabrani podaci su uklonjeni iz Fulldivea i sinhroniziranih uređaja. Vaš Fulldive račun može imati druge oblike historije pregledanja kao što su pretraživanja i aktivnosti s drugih Fulldiveovih usluga na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7814200940910057384">Fulldiveovi podaci su obrisani</translation>
 <translation id="7346909386216857016">Uredu, razumijem</translation>
 <translation id="8493236660459102203">Mikrofon:</translation>
@@ -1533,7 +1533,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="284805635805850872">Ukloniti štetni softver?</translation>
 <translation id="489985760463306091">Ponovo pokrenite računar da nastavite s uklanjenjem štetnog softvera.</translation>
 <translation id="7598466960084663009">Ponovo pokreni računar</translation>
-<translation id="2819091349626575960">Prijavite detalje u Gab AI Inc</translation>
+<translation id="2819091349626575960">Prijavite detalje u Fulldive</translation>
 <translation id="4099060993766194518">Vratiti zadani pretraživač?</translation>
 <translation id="138784436342154190">Vratiti zadanu stranicu za pokretanje?</translation>
 <translation id="5086874064903147617">Vratiti zadanu početnu stranicu?</translation>
@@ -1643,10 +1643,10 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="3693415264595406141">Lozinka:</translation>
 <translation id="9111102763498581341">Otključaj</translation>
 <translation id="2190355936436201913">(prazno)</translation>
-<translation id="9079153198295609735">Automatski šaljite statistiku korištenja i izvještaje o padovima aplikacije Gab AI Incu</translation>
+<translation id="9079153198295609735">Automatski šaljite statistiku korištenja i izvještaje o padovima aplikacije Fulldiveu</translation>
 <translation id="7136984461011502314">Dobro došli u <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690">Aplikacija <ph name="PRODUCT_NAME"/> je spremna za završetak vaše instalacije</translation>
-<translation id="4711067597921221305">Pomozite nam da poboljšamo <ph name="PRODUCT_NAME"/> automatskim slanjem statistika korištenja i izvještaja o padovima aplikacija Gab AI Incu</translation>
+<translation id="4711067597921221305">Pomozite nam da poboljšamo <ph name="PRODUCT_NAME"/> automatskim slanjem statistika korištenja i izvještaja o padovima aplikacija Fulldiveu</translation>
 <translation id="5972826969634861500">Pokreni <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Pomozite našim inženjerima da istraže i poprave pad aplikacije. Navedite tačne korake, ako možete. Nijedan detalj nije nebitan!</translation>
 <translation id="5418694430960033386">Fulldive više nema memorije ili je proces web lokacije prekinut iz nekog drugog razloga.  Ponovo učitajte ili idite na drugu stranicu da nastavite.</translation>
@@ -1659,7 +1659,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Platforma</translation>
 <translation id="7022562585984256452">Vaša početna stranica je postavljena.</translation>
-<translation id="8069615408251337349">Gab AI Inc štampanje u oblaku</translation>
+<translation id="8069615408251337349">Fulldive štampanje u oblaku</translation>
 <translation id="4973307593867026061">Dodaj štampače</translation>
 <translation id="9052208328806230490">Registrirali ste svoje štampače na uslugu <ph name="CLOUD_PRINT_NAME"/> koristeći račun <ph name="EMAIL"/></translation>
 <translation id="3792890930871100565">Prekini vezu s štampačima</translation>
@@ -1693,7 +1693,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="7063129466199351735">Obrađivanje prečica...</translation>
 <translation id="8987927404178983737">Mjesec</translation>
 <translation id="6015796118275082299">Godina</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Koristi traku s naslovom i okvire sistema</translation>
 <translation id="3293644607209440645">Pošalji ovu stranicu</translation>
 <translation id="1521774566618522728">Aktivan danas</translation>
@@ -1747,7 +1747,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="8930351635855238750">Nove postavke kolačića postat će aktivne nakon ponovnog učitavanja stranice</translation>
 <translation id="2568774940984945469">Spremnik trake s informacijama</translation>
 <translation id="7282992757463864530">Infotraka</translation>
-<translation id="1805077115206898822">Vaše oznake, historija i druge postavke će se sinhronizirati s vašim Gab AI Inc računom.</translation>
+<translation id="1805077115206898822">Vaše oznake, historija i druge postavke će se sinhronizirati s vašim Fulldive računom.</translation>
 <translation id="1974060860693918893">Napredno</translation>
 <translation id="2445484935443597917">Izradi novi profil</translation>
 <translation id="2606246518223360146">Poveži podatke</translation>
@@ -1834,7 +1834,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6387674443318562538">Podjela po vertikali</translation>
 <translation id="1231733316453485619">Uključiti sinhronizaciju?</translation>
 <translation id="4736292055110123391">Sinhronizirajte oznake, lozinke, historije i drugo na svim svojim uređajima</translation>
-<translation id="5736731321935944068">Gab AI Inc može koristiti vašu historiju za personaliziranje Pretraživanja, oglasa i drugih Gab AI Incovih usluga</translation>
+<translation id="5736731321935944068">Fulldive može koristiti vašu historiju za personaliziranje Pretraživanja, oglasa i drugih Fulldiveovih usluga</translation>
 <translation id="4201546031411513170">Uvijek možete odabrati šta želite sinhronizirati u postavkama.</translation>
 <translation id="2497852260688568942">Sinhronizaciju je onemogućio vaš administrator</translation>
 <translation id="562935524653278697">Administrator je onemogućio sinkronizaciju vaših oznaka, povijesti, zaporki i ostalih postavki.</translation>
@@ -1913,10 +1913,10 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6198102561359457428">Odjavite se i ponovo se prijavite…</translation>
 <translation id="4634771451598206121">Prijavite se ponovo...</translation>
 <translation id="7117247127439884114">Prijavi se ponovo...</translation>
-<translation id="4251909665067750757">Prijavite se da dobijete oznake, historiju, lozinke i ostale postavke na svim svojim uređajima. Također ćete biti automatski prijavljeni na svoje Gab AI Inc usluge.</translation>
+<translation id="4251909665067750757">Prijavite se da dobijete oznake, historiju, lozinke i ostale postavke na svim svojim uređajima. Također ćete biti automatski prijavljeni na svoje Fulldive usluge.</translation>
 <translation id="2749756011735116528">Prijava na uslugu <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Sinhronizaciju je onemogućio vaš administrator.</translation>
-<translation id="5462539695964427820">Sinhronizacija je zaustavljena putem Gab AI Inc Dashboarda.</translation>
+<translation id="5462539695964427820">Sinhronizacija je zaustavljena putem Fulldive Dashboarda.</translation>
 <translation id="8805140816472474147">Potvrdite postavke za sinhronizaciju da biste je pokrenuli.</translation>
 <translation id="5771816112378578655">U toku je postavljanje uređaja…</translation>
 <translation id="3492788708641132712">Sinhronizacija ne funkcionira. Pokušajte se ponovo prijaviti.</translation>
@@ -1930,16 +1930,16 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="1877520246462554164">Preuzimanje tokena za autentifikaciju nije uspjelo. Prijavite se, pa se odjavite da pokušate ponovo.</translation>
 <translation id="9100765901046053179">Napredne postavke</translation>
 <translation id="2731700343119398978">Pričekajte...</translation>
-<translation id="7218743184834293955">Podaci su šifrirani vašom lozinkom za prolaz za sinhroniziranje. Ovo ne obuhvata načine plaćanja i adrese iz Gab AI Inc Paya.</translation>
+<translation id="7218743184834293955">Podaci su šifrirani vašom lozinkom za prolaz za sinhroniziranje. Ovo ne obuhvata načine plaćanja i adrese iz Fulldive Paya.</translation>
 <translation id="7158251077901880179">Vaši podaci su šifrirani sinhroniziranim pristupnim izrazom dana
-          <ph name="TIME"/>. To ne obuhvata načine plaćanja i adrese iz Gab AI Inc Paya.</translation>
-<translation id="1171389789873508468">Podaci su šifrirani vašom šifrom za Gab AI Inc od
-          <ph name="TIME"/>. Ovo ne uključuje načine plaćanja i adrese s Gab AI Inc Paya.</translation>
+          <ph name="TIME"/>. To ne obuhvata načine plaćanja i adrese iz Fulldive Paya.</translation>
+<translation id="1171389789873508468">Podaci su šifrirani vašom šifrom za Fulldive od
+          <ph name="TIME"/>. Ovo ne uključuje načine plaćanja i adrese s Fulldive Paya.</translation>
 <translation id="2562743677925229011">Niste prijavljeni u aplikaciju <ph name="SHORT_PRODUCT_NAME"/></translation>
 <translation id="4027804175521224372">(Šta propuštate – <ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">prijava</translation>
 <translation id="237828693408258535">Prevesti ovu stranicu?</translation>
-<translation id="4613765529964435709">Želite li da Gab AI Inc prevede ovu stranicu (<ph name="SOURCE_LANGUAGE"/> – <ph name="TARGET_LANGUAGE"/>)?</translation>
+<translation id="4613765529964435709">Želite li da Fulldive prevede ovu stranicu (<ph name="SOURCE_LANGUAGE"/> – <ph name="TARGET_LANGUAGE"/>)?</translation>
 <translation id="5990386583461751448">Prevedeno</translation>
 <translation id="5659833766619490117">Ova stranica nije prevedena</translation>
 <translation id="969096075394517431">Promijenite jezike</translation>
@@ -2118,7 +2118,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6309510305002439352">Mikrofon je isključen</translation>
 <translation id="1322046419516468189">Prikažite i upravljajte lozinkama koje čuva <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Lozinka je sačuvana. Prikažite i upravljajte lozinkama koje čuva <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Gab AI Inc račun</translation>
+<translation id="5713644099811900409">Fulldive račun</translation>
 <translation id="3785727820640310185">Sačuvane lozinke za ovu web lokaciju</translation>
 <translation id="3404065873681873169">Lozinke nisu sačuvane za ovu web lokaciju</translation>
 <translation id="8470513973197838199">Sačuvane lozinke za <ph name="ORIGIN"/></translation>
@@ -2231,7 +2231,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{#. ekran}one{#. ekran}few{#. ekran}other{#. ekran}}</translation>
 <translation id="839736845446313156">Registriraj</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{Novi štampač na vašoj mreži}one{Novi štampači na vašoj mreži}few{Novi štampači na vašoj mreži}other{Novi štampači na vašoj mreži}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Dodajte štampač na Gab AI Inc štampanje u oblaku da možete štampati s bilo koje lokacije.}one{Dodajte # štampač na Gab AI Inc štampanje u oblaku da možete štampati s bilo koje lokacije.}few{Dodajte # štampača na Gab AI Inc štampanje u oblaku da možete štampati s bilo koje lokacije.}other{Dodajte # štampača na Gab AI Inc štampanje u oblaku da možete štampati s bilo koje lokacije.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Dodajte štampač na Fulldive štampanje u oblaku da možete štampati s bilo koje lokacije.}one{Dodajte # štampač na Fulldive štampanje u oblaku da možete štampati s bilo koje lokacije.}few{Dodajte # štampača na Fulldive štampanje u oblaku da možete štampati s bilo koje lokacije.}other{Dodajte # štampača na Fulldive štampanje u oblaku da možete štampati s bilo koje lokacije.}}</translation>
 <translation id="409579654357498729">Dodaj u štampanje u oblaku</translation>
 <translation id="4628757576491864469">Uređaji</translation>
 <translation id="6915804003454593391">Korisnik:</translation>
@@ -2241,8 +2241,8 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="1895934970388272448">Morate potvrditi registraciju na svom štampaču da završite ovaj postupak. Provjerite sada.</translation>
 <translation id="551752069230578406">Štampač se dodaje na vaš račun. To može potrajati nekoliko trenutaka...</translation>
 <translation id="2384436799579181135">Došlo je do greške. Provjerite svoj štampač i pokušajte ponovo.</translation>
-<translation id="1327074568633507428">Štampač na usluzi Gab AI Inc štampanje u oblaku</translation>
-<translation id="6782994146626179935">Uređaj na Gab AI Inc oblak uređajima</translation>
+<translation id="1327074568633507428">Štampač na usluzi Fulldive štampanje u oblaku</translation>
+<translation id="6782994146626179935">Uređaj na Fulldive oblak uređajima</translation>
 <translation id="7140928199327930795">Nema drugih dostupnih uređaja.</translation>
 <translation id="8213577208796878755">Dostupan je još jedan uređaj.</translation>
 <translation id="1495486559005647033">Broj drugih dostupnih uređaja: <ph name="NUM_PRINTERS"/></translation>
@@ -2258,7 +2258,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="715118844758971915">Klasični štampači</translation>
 <translation id="4263757076580287579">Registracija štampača je otkazana.</translation>
 <translation id="8152091997436726702">Registracija štampača je istekla. Za registraciju štampača morate potvrditi registraciju na štampaču.</translation>
-<translation id="2624930408905606513">Dokumenti se <ph name="BEGIN_LINK_HELP"/>šalju Gab AI Incu<ph name="END_LINK_HELP"/> kako bi se pripremili za štampanje. Štampače i njihovu historiju možete pregledati, uređivati i upravljati njima pomoću <ph name="BEGIN_LINK_DASHBOARD"/>kontrolne table Gab AI Inc štampanja u oblaku<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513">Dokumenti se <ph name="BEGIN_LINK_HELP"/>šalju Fulldiveu<ph name="END_LINK_HELP"/> kako bi se pripremili za štampanje. Štampače i njihovu historiju možete pregledati, uređivati i upravljati njima pomoću <ph name="BEGIN_LINK_DASHBOARD"/>kontrolne table Fulldive štampanja u oblaku<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">Ova kartica koristi vašu kameru ili mikrofon.</translation>
 <translation id="3578594933904494462">Sadržaj ove kartice se dijeli.</translation>
 <translation id="4449996769074858870">Ova kartica reproducira zvuk.</translation>
@@ -2384,14 +2384,14 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="7055152154916055070">Preusmjeravanje je blokirano:</translation>
 <translation id="6777817260680419853">Preusmjeravanje je blokirano</translation>
 <translation id="694592694773692225">Preusmjeravanje je blokirano na ovoj stranici.</translation>
-<translation id="8945142681652245463">Pretražujte brže uz Gab AI Inc Fulldive</translation>
-<translation id="2618024864038703735">Pregledajte internet sigurno koristeći Gab AI Inc Fulldive</translation>
+<translation id="8945142681652245463">Pretražujte brže uz Fulldive Fulldive</translation>
+<translation id="2618024864038703735">Pregledajte internet sigurno koristeći Fulldive Fulldive</translation>
 <translation id="8142180567942285208">Pregledajte pametno pomoću Fulldivea</translation>
 <translation id="8862003515646449717">Prebacite se na brži preglednik</translation>
 <translation id="8438328416656800239">Prebacite se na pametni preglednik</translation>
 <translation id="491691592645955587">Prebaci na sigurni preglednik</translation>
 <translation id="683373380308365518">Prijeđite na pametan i siguran preglednik</translation>
-<translation id="989239400026154074">Gab AI Inc preporučuje Fulldive</translation>
+<translation id="989239400026154074">Fulldive preporučuje Fulldive</translation>
 <translation id="6676231621615806698">Otvori Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> koristi vašu lokaciju za pružanje lokalnog sadržaja. To možete promijeniti na stranici <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Ovdje se prikazuju vaša preuzimanja</translation>
@@ -2557,7 +2557,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="2878782256107578644">U toku je skeniranje. Otvoriti sada?</translation>
 <translation id="6098793583803863900">Skeniranje nepoznatog fajla radi pronalaženja opasnog sadržaja.</translation>
 <translation id="7584578941316704630">Skenirati prije otvaranja?</translation>
-<translation id="4467402456678825062">Odabrani fajl je nepoznat i može biti opasan. Poslati Gab AI Incovoj Naprednoj zaštiti radi skeniranja?</translation>
+<translation id="4467402456678825062">Odabrani fajl je nepoznat i može biti opasan. Poslati Fulldiveovoj Naprednoj zaštiti radi skeniranja?</translation>
 <translation id="2587922766792651800">Vrijeme je isteklo</translation>
 <translation id="4404136731284211429">Ponovo skeniraj</translation>
 <translation id="6428450836711225518">Potvrdite broj telefona</translation>
@@ -2565,7 +2565,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6518133107902771759">Potvrdi</translation>
 <translation id="4379281552162875326">Deinstalirati "<ph name="APP_NAME"/>"?</translation>
 <translation id="8812593354822910461">Također obrišite podatke pregledanja (<ph name="URL"/>), što vas može odjaviti s domene <ph name="DOMAIN"/>. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Također obrišite podatke pregledanja (<ph name="URL"/>), što vas može odjaviti s domene Gab AI Inc.com. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Također obrišite podatke pregledanja (<ph name="URL"/>), što vas može odjaviti s domene Fulldive.com. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Saznajte više</translation>
 <translation id="2346953515226895098">Usluga SODA</translation>
 <translation id="7516981202574715431">Aplikacija <ph name="APP_NAME"/> je pauzirana</translation>
@@ -2721,7 +2721,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="4144218403971135344">Preuzmite videozapise bolje kvalitete i sačuvajte vijek trajanja baterije. Videozapis će se reproducirati samo na ekranu na kojem je omogućeno emitiranje.</translation>
 <translation id="236117173274098341">Optimiziraj</translation>
 <translation id="8538358978858059843">Omogućiti usluge u oblaku za emitiranje?</translation>
-<translation id="3856595552313160385">Korištenje aplikacija Hangouts i Cast for Education podliježe Gab AI Incovim Pravilima privatnosti.</translation>
+<translation id="3856595552313160385">Korištenje aplikacija Hangouts i Cast for Education podliježe Fulldiveovim Pravilima privatnosti.</translation>
 <translation id="3435896845095436175">Omogući</translation>
 <translation id="3700888195348409686">Prikazuje se (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Ekran <ph name="DISPLAY_ID"/></translation>
@@ -2959,9 +2959,9 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, i još jedan račun}one{<ph name="EMAIL"/>, i još <ph name="EXTRA_ACCOUNTS"/> račun}few{<ph name="EMAIL"/>, i još <ph name="EXTRA_ACCOUNTS"/> računa}other{<ph name="EMAIL"/>, i još <ph name="EXTRA_ACCOUNTS"/> računa}}</translation>
 <translation id="7434635829372401939">Sinhronizirajte postavke</translation>
 <translation id="1036348656032585052">Isključi</translation>
-<translation id="3267705913905916810">Vaše aplikacije i postavke će se sinhronizirati na svim Fulldive OS uređajima na kojima ste prijavljeni putem Gab AI Inc računa. Za opcije sinhronizacije preglednika, idite na <ph name="LINK_BEGIN"/>postavke Fulldivea<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Vaše aplikacije i postavke će se sinhronizirati na svim Fulldive OS uređajima na kojima ste prijavljeni putem Fulldive računa. Za opcije sinhronizacije preglednika, idite na <ph name="LINK_BEGIN"/>postavke Fulldivea<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Štampači</translation>
-<translation id="8418661265246754237">Gab AI Inc računi</translation>
+<translation id="8418661265246754237">Fulldive računi</translation>
 <translation id="3953834000574892725">Moji računi</translation>
 <translation id="6011193465932186973">Otisak prsta</translation>
 <translation id="3707212204259470604">Upravljaj drugim osobama</translation>
@@ -3003,16 +3003,16 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="5916664084637901428">Uključeno</translation>
 <translation id="5860033963881614850">Isključeno</translation>
 <translation id="5515923816438946203">Odaberite šta se prikazuje na ekranu</translation>
-<translation id="2187700606737131818">Gab AI Inc fotografije</translation>
+<translation id="2187700606737131818">Fulldive fotografije</translation>
 <translation id="1827738518074806965">Umjetnička galerija</translation>
 <translation id="9137157311132182254">Preferirani pretraživač</translation>
 <translation id="7423118389528876103">Koriste ga Fulldive preglednik i pokretač uređaja <ph name="DEVICE_TYPE"/></translation>
-<translation id="2862205630718215619">Gab AI Inc Asistent</translation>
+<translation id="2862205630718215619">Fulldive Asistent</translation>
 <translation id="8959699239363253085">Uključeno</translation>
 <translation id="971479617738309149">Isključeno</translation>
 <translation id="7807067443225230855">Pretraživanje i Asistent</translation>
 <translation id="1293556467332435079">Fajlovi</translation>
-<translation id="6474884162850599008">Prekini vezu s računom za Gab AI Inc Disk</translation>
+<translation id="6474884162850599008">Prekini vezu s računom za Fulldive Disk</translation>
 <translation id="3653160965917900914">Dijeljenje fajlova na mreži</translation>
 <translation id="4906490889887219338">Postavite dijeljenje fajlova na mreži ili upravljajte njime. <ph name="LINK_BEGIN"/>Saznajte više<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Dodajte dijeljenje fajlova</translation>
@@ -3063,7 +3063,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="5511379779384092781">Izuzetno mali</translation>
 <translation id="2765217105034171413">Malo</translation>
 <translation id="7409549334477097887">Veoma veliki</translation>
-<translation id="1800308196794859773">Pošaljite Gab AI Incu svoj glas da dozvolite diktiranje u bilo koje tekstualno polje.</translation>
+<translation id="1800308196794859773">Pošaljite Fulldiveu svoj glas da dozvolite diktiranje u bilo koje tekstualno polje.</translation>
 <translation id="8758418656925882523">Omogući diktiranje (govorite za pisanje)</translation>
 <translation id="1330145147221172764">Omogući tastaturu na ekranu</translation>
 <translation id="7580671184200851182">Reproduciraj isti zvuk na svim zvučnicima (mono zvuk)</translation>
@@ -3126,7 +3126,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6902066522699286937">Glas za pregled</translation>
 <translation id="304747341537320566">Alati za govor</translation>
 <translation id="2755367719610958252">Upravljajte funkcijama pristupačnosti</translation>
-<translation id="1203953622051744249">Upravljajte računima na kojima ste prijavljeni. U zavisnosti od odobrenja, web lokacije, aplikacije i ekstenzije na Fulldiveu i Gab AI Inc Playu mogu koristiti ove račune da prilagode vaše iskustvo. <ph name="LINK_BEGIN"/>Saznajte više<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Upravljajte računima na kojima ste prijavljeni. U zavisnosti od odobrenja, web lokacije, aplikacije i ekstenzije na Fulldiveu i Fulldive Playu mogu koristiti ove račune da prilagode vaše iskustvo. <ph name="LINK_BEGIN"/>Saznajte više<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Ovdje dodajte školski račun ili upravljaje računima djeteta. <ph name="LINK_BEGIN"/>Saznajte više<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Računi</translation>
 <translation id="6597148444736186483">Da se odjavite s primarnog računa na ovom uređaju, kliknite vrijeme na ekranu. U meniju koji se pojavi, kliknite "Odjava".</translation>
@@ -3135,8 +3135,8 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="2923234477033317484">Ukloni ovaj račun</translation>
 <translation id="7665369617277396874">Dodaj račun</translation>
 <translation id="8428271547607112339">Dodaj školski račun</translation>
-<translation id="4920274951865016604">Vaš administrator je onemogućio dodavanje više Gab AI Inc računa</translation>
-<translation id="8845742957886589229">Dodavanje više Gab AI Inc računa je onemogućeno</translation>
+<translation id="4920274951865016604">Vaš administrator je onemogućio dodavanje više Fulldive računa</translation>
+<translation id="8845742957886589229">Dodavanje više Fulldive računa je onemogućeno</translation>
 <translation id="5021750053540820849">Još uvijek nije ažurirano</translation>
 <translation id="3448492834076427715">Ažuriraj račun</translation>
 <translation id="2458379781610688953">Ažurirajte račun, <ph name="EMAIL"/></translation>
@@ -3171,7 +3171,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="3661172646479098821">Trenutno su podržani samo Android uređaji.</translation>
 <translation id="3201422919974259695">Dostupni USB uređaji pojavit će se ovdje.</translation>
 <translation id="2629227353894235473">Programiranje Android aplikacija</translation>
-<translation id="1669729672557072907">Da kreirate i testirate aplikacije, omogućite Alat za uklanjanje grešaka na Androidu (ADB). Važno je napomenuti da ova radnja omogućava instaliranje Android aplikacija koje nije potvrdio Gab AI Inc, a za onemogućavanje je potrebno vraćanje na fabričke postavke.</translation>
+<translation id="1669729672557072907">Da kreirate i testirate aplikacije, omogućite Alat za uklanjanje grešaka na Androidu (ADB). Važno je napomenuti da ova radnja omogućava instaliranje Android aplikacija koje nije potvrdio Fulldive, a za onemogućavanje je potrebno vraćanje na fabričke postavke.</translation>
 <translation id="4638930039313743000">Omogući otklanjanje grešaka putem ADB-a</translation>
 <translation id="1630768113285622200">Ponovo pokreni i nastavi</translation>
 <translation id="1005333234656240382">Omogućiti otklanjanje grešaka putem ADB-a?</translation>
@@ -3208,9 +3208,9 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="1870629042957780127">Dozvoli pristup mikrofonu</translation>
 <translation id="1392232653471491344">Potrebno je ponovo pokrenuti Linux</translation>
 <translation id="1064552680598333868">Promjene mikrofona će stupiti na snagu kada sljedeći put ponovo pokrenete Linux.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play trgovina</translation>
+<translation id="2714393097308983682">Fulldive Play trgovina</translation>
 <translation id="2966937470348689686">Upravljajte postavkama Androida</translation>
-<translation id="6398715114293939307">Ukloni Gab AI Inc Play trgovinu</translation>
+<translation id="6398715114293939307">Ukloni Fulldive Play trgovinu</translation>
 <translation id="2792290659606763004">Želite li ukloniti Android aplikacije?</translation>
 <translation id="492299503953721473">Ukloni Android aplikacije</translation>
 <translation id="7566118625369982896">Upravljanje linkovima za Play aplikacije</translation>
@@ -3218,7 +3218,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="5862109781435984885">Prikaži alate za digitalnu olovku na polici</translation>
 <translation id="4673442866648850031">Otvorite alate za stilos kada je stilos uklonjen</translation>
 <translation id="4244238649050961491">Pronađite još aplikacija za upotrebu digitalne olovke</translation>
-<translation id="668599234725812620">Otvori Gab AI Inc Play</translation>
+<translation id="668599234725812620">Otvori Fulldive Play</translation>
 <translation id="9116799625073598554">Aplikacija za bilježenje</translation>
 <translation id="203574396658008164">Omogući bilješke sa zaključanog ekrana</translation>
 <translation id="6238923052227198598">Zadrži posljednju napomenu na zaključanom ekranu</translation>
@@ -3364,7 +3364,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> – <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Omogućavanje prijenosa podataka na mobilnoj mreži</translation>
 <translation id="7378812711085314936">Obezbijedite vezu za prijenos podataka</translation>
-<translation id="3483333858382889684">Omogućite ovom uređaju da pronađe druge uređaje s vašim Gab AI Inc računom koji koriste vezu za prijenos podataka na mobilnoj mreži</translation>
+<translation id="3483333858382889684">Omogućite ovom uređaju da pronađe druge uređaje s vašim Fulldive računom koji koriste vezu za prijenos podataka na mobilnoj mreži</translation>
 <translation id="1572266655485775982">Omogućavanje WiFi-ja</translation>
 <translation id="7078120482318506217">Sve mreže</translation>
 <translation id="1235458158152011030">Poznate mreže</translation>
@@ -3396,13 +3396,13 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="4421167684395067330">Poteškoće prilikom povezivanja. Za pomoć kontaktirajte operatera <ph name="CARRIER_NAME"/>.</translation>
 <translation id="7780252971640011240">Poteškoće prilikom povezivanja. Za pomoć kontaktirajte mobilnog operatera.</translation>
 <translation id="161460670679785907">Nije moguće zaštititi vaš telefon</translation>
-<translation id="778480864305029524">Za korištenje Trenutnog povezivanja putem mobitela, uključite obavještenja za Gab AI Inc Play usluge.</translation>
+<translation id="778480864305029524">Za korištenje Trenutnog povezivanja putem mobitela, uključite obavještenja za Fulldive Play usluge.</translation>
 <translation id="7696063401938172191">Na vašem "<ph name="PHONE_NAME"/>" telefonu:</translation>
 <translation id="3423463006624419153">Na telefonima "<ph name="PHONE_NAME_1"/>" i "<ph name="PHONE_NAME_2"/>":</translation>
 <translation id="6997707937646349884">Na vašim uređajima:</translation>
 <translation id="7531779363494549572">Otvorite Postavke &gt; Aplikacije i obavijesti &gt; Obavijesti.</translation>
-<translation id="1819721979226826163">Dodirnite Obavještenja iz aplikacija &gt; Gab AI Inc Play usluge.</translation>
-<translation id="968000525894980488">Uključite Gab AI Inc Play usluge.</translation>
+<translation id="1819721979226826163">Dodirnite Obavještenja iz aplikacija &gt; Fulldive Play usluge.</translation>
+<translation id="968000525894980488">Uključite Fulldive Play usluge.</translation>
 <translation id="2705736684557713153">Klizite do dna ekrana i uključite Trenutno povezivanje putem mobitela, ako se pojavi. Ako se ne pojavi, sve je spremno.</translation>
 <translation id="7240339475467890413">Povezati se na novu pristupnu tačku?</translation>
 <translation id="6514010653036109809">Dostupni uređaj:</translation>
@@ -3517,9 +3517,9 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6555432686520421228">Uklonite sve korisničke račune i ponovo pokrenite <ph name="IDS_SHORT_PRODUCT_NAME"/> uređaj koji će biti kao nov.</translation>
 <translation id="5470735824776589490">Prije vraćanja na zadane vrijednosti pomoću Powerwasha potrebno je ponovo pokrenuti uređaj. <ph name="LINK_BEGIN"/>Saznajte više<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Dugme za poništavanje</translation>
-<translation id="472896694312062378">"Ok Gab AI Inc"</translation>
-<translation id="2339135612812615870">Pristupite Asistentu izgovaranjem "Ok Gab AI Inc"</translation>
-<translation id="3735919318855093557">Pristupite Asistentu izgovaranjem "Ok Gab AI Inc" Radi uštede baterije, odaberite “Uključi (Preporučeno)”. Asistent će reagirati samo kada je uređaj priključen ili kada se puni.</translation>
+<translation id="472896694312062378">"Ok Fulldive"</translation>
+<translation id="2339135612812615870">Pristupite Asistentu izgovaranjem "Ok Fulldive"</translation>
+<translation id="3735919318855093557">Pristupite Asistentu izgovaranjem "Ok Fulldive" Radi uštede baterije, odaberite “Uključi (Preporučeno)”. Asistent će reagirati samo kada je uređaj priključen ili kada se puni.</translation>
 <translation id="5825412242012995131">Uključeno (preporučeno)</translation>
 <translation id="5067399438976153555">Uvijek uključeno</translation>
 <translation id="6175644081330715138">Isključeno</translation>
@@ -3528,7 +3528,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="5355099869024327351">Dozvolite Asistentu da prikaže vaša obavještenja</translation>
 <translation id="133535873114485416">Preferirani način unosa</translation>
 <translation id="6233154960150021497">Kao zadanu postavku koristi glas umjesto tastature</translation>
-<translation id="3908743412684152579">Postavke Gab AI Inc Asistenta</translation>
+<translation id="3908743412684152579">Postavke Fulldive Asistenta</translation>
 <translation id="1048286738600630630">Ekrani</translation>
 <translation id="4184885522552335684">Prevucite da pomjerite ekran</translation>
 <translation id="4964455510556214366">Uređivanje</translation>
@@ -3582,7 +3582,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6856623341093082836">Postavite i podesite preciznost ekrana osjetljivog na dodir</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Otključaj samo uređaj</translation>
-<translation id="3300552672525741457">Otključajte uređaj i prijavite se na Gab AI Inc račun</translation>
+<translation id="3300552672525741457">Otključajte uređaj i prijavite se na Fulldive račun</translation>
 <translation id="4562155214028662640">Dodaj otisak prsta</translation>
 <translation id="4068776064906523561">Sačuvani otisci prstiju</translation>
 <translation id="1719312230114180055">Napomena: Otisak prsta može biti manje siguran od jake lozinke ili PIN-a.</translation>
@@ -3647,7 +3647,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6547354035488017500">Oslobodite najmanje 512 MB prostora ili će vaš uređaj prestati da radi. Da oslobodite prostor, izbrišite fajlove s pohrane uređaja.</translation>
 <translation id="6097480669505687979">Ako ne oslobodite prostor, može doći do automatskog uklanjanja korisnika i podataka.</translation>
 <translation id="4470957202018033307">Postavke vanjske pohrane</translation>
-<translation id="1900305421498694955">Aplikacije iz Gab AI Inc Playa mogu tražiti puni pristup sistemu fajlova za čitanje i zapisivanje fajlova na vašim vanjskim uređajima za pohranu. Fajlovi i folderi koji su kreirani na uređaju vidljivi su svakome ko koristi vanjski disk. <ph name="LINK_BEGIN"/>Saznajte više<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Aplikacije iz Fulldive Playa mogu tražiti puni pristup sistemu fajlova za čitanje i zapisivanje fajlova na vašim vanjskim uređajima za pohranu. Fajlovi i folderi koji su kreirani na uređaju vidljivi su svakome ko koristi vanjski disk. <ph name="LINK_BEGIN"/>Saznajte više<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">Ovdje će se prikazati dostupni uređaji.</translation>
 <translation id="1041263367839475438">Dostupni uređaji</translation>
 <translation id="7479221278376295180">Pregled korištenja pohrane</translation>
@@ -3671,12 +3671,12 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="5840822070878669614">Otvorite Fulldive Web trgovinu</translation>
 <translation id="6073903501322152803">Dodajte funkcije pristupačnosti</translation>
 <translation id="7988355189918024273">Omogućavanje funkcija pristupačnosti</translation>
-<translation id="5499063270485366718">Ako slika ne sadrži koristan opis, Fulldive će ga pokušati pružiti. Slike se šalju Gab AI Incu radi kreiranja opisa.</translation>
+<translation id="5499063270485366718">Ako slika ne sadrži koristan opis, Fulldive će ga pokušati pružiti. Slike se šalju Fulldiveu radi kreiranja opisa.</translation>
 <translation id="8957762313041272117">Automatski titlovi</translation>
 <translation id="7075426315046750605">Funkcija Automatski titlovi otkriva govor u medijima i automatski generira titlove za sve medije koji se reproduciraju u Fulldiveu.</translation>
 <translation id="572155275267014074">Postavke Androida</translation>
-<translation id="7201042526153088083">Instalirajte aplikacije i igare s Gab AI Inc Playa na uređaj <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Saznajte više&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Aplikacije koje ste preuzeli s Gab AI Inc Playa će se izbrisati s ovog Fulldivebooka.
+<translation id="7201042526153088083">Instalirajte aplikacije i igare s Fulldive Playa na uređaj <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Saznajte više&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Aplikacije koje ste preuzeli s Fulldive Playa će se izbrisati s ovog Fulldivebooka.
       <ph name="LINE_BREAKS1"/>
       Moguće je da će sadržaj koji ste kupili, kao što su filmovi, TV emisije, muzika, knjige ili druge kupovine unutar aplikacija, također biti izbrisan.
       <ph name="LINE_BREAKS2"/>
@@ -3702,7 +3702,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="1670399744444387456">Osnovni</translation>
 <translation id="1763808908432309942">Otvara se u novoj kartici</translation>
 <translation id="6248988683584659830">Pretražite postavke</translation>
-<translation id="883304095704384301">Ako ne možete pronaći ono što tražite, idite na <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive Pomoć<ph name="END_LINK_CHROMIUM"/>.</translation>
+<translation id="883304095704384301">Ako ne možete pronaći ono što tražite, idite na <ph name="BEGIN_LINK_CHROMIUM"/>Fulldive Fulldive Pomoć<ph name="END_LINK_CHROMIUM"/>.</translation>
 <translation id="6406708970972405507">Postavke – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Dugme za podstranicu</translation>
 <translation id="379509625511193653">Isključeno</translation>
@@ -3723,10 +3723,10 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="451515744433878153">Ukloni</translation>
 <translation id="5029568752722684782">Obriši kopiju</translation>
 <translation id="2154484045852737596">Uredi karticu</translation>
-<translation id="3032188998195902534">Za dodavanje ili upravljanje načinima plaćanja u Gab AI Inc Payu, posjetite svoj <ph name="BEGIN_LINK"/>Gab AI Inc račun<ph name="END_LINK"/></translation>
+<translation id="3032188998195902534">Za dodavanje ili upravljanje načinima plaćanja u Fulldive Payu, posjetite svoj <ph name="BEGIN_LINK"/>Fulldive račun<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">Ova kartica će se sačuvati samo na ovaj uređaj</translation>
 <translation id="5087580092889165836">Dodaj karticu</translation>
-<translation id="4835914736509775287">Sačuvajte kartice na Gab AI Inc računu</translation>
+<translation id="4835914736509775287">Sačuvajte kartice na Fulldive računu</translation>
 <translation id="7255002516883565667">Upravo sada imate jednu karticu koja se može koristiti samo na ovom uređaju.</translation>
 <translation id="6848388270925200958">Trenutno imate nekoliko kartica koje se mogu koristiti samo na ovom uređaju</translation>
 <translation id="4807098396393229769">Ime i prezime na kartici</translation>
@@ -3740,9 +3740,9 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="8731851055419582926">Provjerene lozinke</translation>
 <translation id="4248098802131000011">Zaštite svoje lozinke od narušavanja podataka i ostalih sigurnosnih problema</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> ne može provjeravati vaše lozinke. Predlažemo da provjerite internetsku vezu.</translation>
-<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> može provjeravati vaše lozinke kada se prijavite pomoću Gab AI Inc računa</translation>
+<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> može provjeravati vaše lozinke kada se prijavite pomoću Fulldive računa</translation>
 <translation id="4478777936860197922">Nema sačuvanih lozinki. <ph name="IDS_SHORT_PRODUCT_NAME"/> može provjeravati vaše lozinke kada ih sačuvate.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> ne može provjeravati vaše lozinke. Pokušajte ponovo za 24 sata ili <ph name="BEGIN_LINK"/>provjerite lozinke na Gab AI Inc računu<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> ne može provjeravati vaše lozinke. Pokušajte ponovo za 24 sata ili <ph name="BEGIN_LINK"/>provjerite lozinke na Fulldive računu<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> ne može provjeravati vaše lozinke. Pokušajte ponovo za 24 sata.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> ne može provjeravati vaše lozinke. Pokušajte ponovo kasnije.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Nisu pronađene ugrožene lozinke}=1{{COUNT} ugrožena lozinka}one{{COUNT} ugrožena lozinka}few{{COUNT} ugrožene lozinke}other{{COUNT} ugroženih lozinki}}</translation>
@@ -3768,7 +3768,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="2100273922101894616">Automatsko prijavljivanje</translation>
 <translation id="7513029293694390567">Automatsko prijavljivanje na web lokacije korištenjem pohranjenih akreditiva. Ako onemogućite, od vas će se tražiti potvrda prilikom svake prijave na web lokaciju.</translation>
 <translation id="6995899638241819463">Upozori ako su lozinke izložene pri narušavanju podataka</translation>
-<translation id="1534287762301776620">Kada se prijavite na Gab AI Inc račun, ova funkcija se uključuje</translation>
+<translation id="1534287762301776620">Kada se prijavite na Fulldive račun, ova funkcija se uključuje</translation>
 <translation id="1375321115329958930">Sačuvane lozinke</translation>
 <translation id="152234381334907219">Nikada nije sačuvano</translation>
 <translation id="5137501176474113045">Izbriši ovu stavku</translation>
@@ -3782,7 +3782,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="7930294771522048157">Ovdje će se prikazati vaši sačuvani načini plaćanja</translation>
 <translation id="9124003689441359348">Sačuvane lozinke će se prikazati ovdje</translation>
 <translation id="4400367121200150367">Web lokacije koje nikada ne pohranjuju lozinke će se pojaviti ovdje.</translation>
-<translation id="3098842761938485917">Prikažite i upravljajte sačuvanim lozinkama u svom <ph name="BEGIN_LINK"/>Gab AI Inc računu<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Prikažite i upravljajte sačuvanim lozinkama u svom <ph name="BEGIN_LINK"/>Fulldive računu<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">Izvoz lozinki….</translation>
 <translation id="3900966090527141178">Izvezite lozinke</translation>
 <translation id="6914783257214138813">Vaše lozinke će biti vidljive svima koji mogu vidjeti izvezeni fajl.</translation>
@@ -3849,15 +3849,15 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="3380365263193509176">Nepoznata greška</translation>
 <translation id="368789413795732264">Došlo je do greške pri ispisivanju fajla: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Vremenski raspon</translation>
-<translation id="3958004920128806270"><ph name="BEGIN_LINK"/>Odjavite se<ph name="END_LINK"/> da obrišete podatke pregledanja samo s ovog uređaja, a zadržite ih na Gab AI Inc računu.</translation>
-<translation id="4445433576366924090"><ph name="BEGIN_LINK"/>Posjetite postavke sinhronizacije<ph name="END_LINK"/> da obrišete podatke pregledanja sa svih sinhroniziranih uređaja i Gab AI Inc računa.</translation>
-<translation id="563489167344291753">Da biste izbrisali podatke o pregledavanju sa svih svojih sinkroniziranih uređaja i svojeg Gab AI Inc računa, <ph name="BEGIN_LINK"/>unesite svoju šifru<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788"><ph name="BEGIN_LINK"/>Prijavite se<ph name="END_LINK"/> da obrišete podatke o pregledanju sa svih svojih sinhroniziranih uređaja i Gab AI Inc računa.</translation>
+<translation id="3958004920128806270"><ph name="BEGIN_LINK"/>Odjavite se<ph name="END_LINK"/> da obrišete podatke pregledanja samo s ovog uređaja, a zadržite ih na Fulldive računu.</translation>
+<translation id="4445433576366924090"><ph name="BEGIN_LINK"/>Posjetite postavke sinhronizacije<ph name="END_LINK"/> da obrišete podatke pregledanja sa svih sinhroniziranih uređaja i Fulldive računa.</translation>
+<translation id="563489167344291753">Da biste izbrisali podatke o pregledavanju sa svih svojih sinkroniziranih uređaja i svojeg Fulldive računa, <ph name="BEGIN_LINK"/>unesite svoju šifru<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788"><ph name="BEGIN_LINK"/>Prijavite se<ph name="END_LINK"/> da obrišete podatke o pregledanju sa svih svojih sinhroniziranih uređaja i Fulldive računa.</translation>
 <translation id="8662811608048051533">Odjavljuje vas s većine web lokacija.</translation>
-<translation id="4650925988509114690">Odjavljuje vas s većine stranica Ostat ćete prijavljeni na Gab AI Inc računu, stoga se vaši sinhronizirani podaci mogu obrisati.</translation>
+<translation id="4650925988509114690">Odjavljuje vas s većine stranica Ostat ćete prijavljeni na Fulldive računu, stoga se vaši sinhronizirani podaci mogu obrisati.</translation>
 <translation id="2017836877785168846">Briše historiju i automatsko dovršavanje na traci za adresu.</translation>
-<translation id="8096327394278038498">Briše historiju i automatsko dovršavanje na traci za adresu. Vaš Gab AI Inc račun može imati druge oblike historije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Briše historiju sa svih prijavljenih uređaja. Vaš Gab AI Inc račun može imati druge oblike historije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Briše historiju i automatsko dovršavanje na traci za adresu. Vaš Fulldive račun može imati druge oblike historije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Briše historiju sa svih prijavljenih uređaja. Vaš Fulldive račun može imati druge oblike historije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">Historija preuzimanja</translation>
 <translation id="4699172675775169585">Slike i fajlovi u keš memoriji</translation>
 <translation id="1274997165432133392">Kolačići i drugi podaci o web lokaciji</translation>
@@ -3872,7 +3872,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="1043818413152647937">Obrisati i podatke iz ovih aplikacija?</translation>
 <translation id="3399432415385675819">Obavještenja će biti onemogućena</translation>
 <translation id="3459509316159669723">Štampanje</translation>
-<translation id="7063957500469387217">Postavite ili upravljajte štampačima u usluzi Gab AI Inc štampanje u oblaku.</translation>
+<translation id="7063957500469387217">Postavite ili upravljajte štampačima u usluzi Fulldive štampanje u oblaku.</translation>
 <translation id="8185331656081929126">Prikaži obavještenje kada se na mreži otkriju novi štampači</translation>
 <translation id="6451180435462401570">Upravljaj uređajima za štampanje u oblaku</translation>
 <translation id="4733793249294335256">Lokacija</translation>
@@ -3894,7 +3894,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="5425722269016440406">Morate biti online da biste isključili Smart Lock jer se ova postavka sinhronizira s vašim telefonom i drugim uređajima. Prvo se povežite na mrežu.</translation>
 <translation id="8885197664446363138">Smart Lock nije dostupan</translation>
 <translation id="7334190995941642545">Pametno zaključavanje trenutno nije dostupno. Pokušajte ponovo kasnije.</translation>
-<translation id="8112427115751454716">Koristite Pametno zaključavanje za prijavu na Gab AI Inc račun</translation>
+<translation id="8112427115751454716">Koristite Pametno zaključavanje za prijavu na Fulldive račun</translation>
 <translation id="2043818754674261542">Udaljenost potrebna da telefon otključa uređaj <ph name="DEVICE_TYPE"/></translation>
 <translation id="2522791476825452208">Veoma blizu</translation>
 <translation id="649454645705377674">Zatvori</translation>
@@ -3915,7 +3915,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="1726100011689679555">Poslužitelji naziva</translation>
 <translation id="1209796539517632982">Serveri s automatskim nazivima</translation>
 <translation id="4462159676511157176">Serveri prilagođenog imena</translation>
-<translation id="1981884748698699991">Gab AI Incovi serveri naziva</translation>
+<translation id="1981884748698699991">Fulldiveovi serveri naziva</translation>
 <translation id="6317608858038767920">Prilagođeni naziv servera <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">URL za automatsko otkrivanje web proksi servera:</translation>
 <translation id="3817579325494460411">Nije navedeno</translation>
@@ -4073,7 +4073,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="3182749001423093222">Provjera pravopisa</translation>
 <translation id="5423829801105537712">Osnovna provjera pravopisa</translation>
 <translation id="2564653188463346023">Poboljšana provjera pravopisa</translation>
-<translation id="8944680893327873975">Koristi isti alat za provjeru pravopisa koji se koristi u Gab AI Inc Pretraživanju. Tekst koji pišete u pregledniku šalje se Gab AI Incu.</translation>
+<translation id="8944680893327873975">Koristi isti alat za provjeru pravopisa koji se koristi u Fulldive Pretraživanju. Tekst koji pišete u pregledniku šalje se Fulldiveu.</translation>
 <translation id="5051836348807686060">Alat za provjeru pravopisa nije podržan za odabrane jezike</translation>
 <translation id="7335974957018254119">Koristite provjeru pravopisa za</translation>
 <translation id="2469375675106140201">Prilagodi provjeru pravopisa</translation>
@@ -4086,7 +4086,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="4200689466366162458">Prilagođene riječi</translation>
 <translation id="7833720883933317473">Sačuvane prilagođene riječi će se pojaviti ovdje</translation>
 <translation id="8509646642152301857">Preuzimanje rječnika za provjeru pravopisa nije uspjelo.</translation>
-<translation id="8842834450537919370">Provjerite s administratorom mreže da budete sigurni da zaštitni zid ne blokira preuzimanja s Gab AI Inc servera.</translation>
+<translation id="8842834450537919370">Provjerite s administratorom mreže da budete sigurni da zaštitni zid ne blokira preuzimanja s Fulldive servera.</translation>
 <translation id="9042893549633094279">Privatnost i sigurnost</translation>
 <translation id="5548606607480005320">Sigurnosna provjera</translation>
 <translation id="5876576639916258720">U toku...</translation>
@@ -4122,24 +4122,24 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="2468205691404969808">Kolačići se koriste kako bi se zapamtile vaše postavke čak iako ne posjećujete ove stranice</translation>
 <translation id="3633309367764744750">Unaprijed dohvaća informacije sa stranica, uključujući stranice koje još uvijek niste posjetili. Dohvaćene informacije mogu obuhvatati kolačiće, ako ih dozvolite.</translation>
 <translation id="3201899458094819285">Sigurno pregledavanje (štiti vas i vaš uređaj od opasnih web-lokacija)</translation>
-<translation id="2876369937070532032">Gab AI Incu šalje URL-ove nekih stranica koje posjećujete kada je ugrožena vaša sigurnost</translation>
+<translation id="2876369937070532032">Fulldiveu šalje URL-ove nekih stranica koje posjećujete kada je ugrožena vaša sigurnost</translation>
 <translation id="4991384657077828949">Pomognite poboljšati sigurnost na Fulldiveu</translation>
-<translation id="1984646864943401749">Šalje Gab AI Incu URL-ove nekih stranica koje posjetite, ograničene informacije sistema i sadržaj nekih stranica radi lakšeg otkrivanja novih prijetnji te zaštite svakoga na webu.</translation>
+<translation id="1984646864943401749">Šalje Fulldiveu URL-ove nekih stranica koje posjetite, ograničene informacije sistema i sadržaj nekih stranica radi lakšeg otkrivanja novih prijetnji te zaštite svakoga na webu.</translation>
 <translation id="1641113438599504367">Sigurno pretraživanje</translation>
 <translation id="6900532703269623216">Poboljšana zaštita</translation>
-<translation id="7307583170263691471">Brža, proaktivna zaštita od opasnih web lokacija, preuzimanja i ekstenzija. Upozorava vas na narušavanje lozinki. Zahtijeva da se podaci o pregledanju šalju Gab AI Incu.</translation>
+<translation id="7307583170263691471">Brža, proaktivna zaštita od opasnih web lokacija, preuzimanja i ekstenzija. Upozorava vas na narušavanje lozinki. Zahtijeva da se podaci o pregledanju šalju Fulldiveu.</translation>
 <translation id="8645920082661222035">Predviđa opasne događaje i upozorava vas na njih prije nego što nastupe</translation>
-<translation id="5265419033369521352">Štiti vas na Fulldiveu i može se koristiti da poboljša vašu sigurnost u drugim Gab AI Inc aplikacijama kada ste prijavljeni</translation>
+<translation id="5265419033369521352">Štiti vas na Fulldiveu i može se koristiti da poboljša vašu sigurnost u drugim Fulldive aplikacijama kada ste prijavljeni</translation>
 <translation id="6770602306803890733">Poboljšava vašu i svačiju sigurnost na webu</translation>
 <translation id="3690369331356918524">Upozorava vas ako su lozinke izložene prilikom narušavanja podataka</translation>
-<translation id="4979281249641199724">Šalje URL-ove Sigurnom pregledanju na provjeru. Također šalje mali uzorak stranica, preuzimanja, aktivnosti ekstenzija i informacija o sistemu radi lakšeg otkrivanja novih prijetnji. Privremeno povezuje ove podatke s vašim Gab AI Inc računom kada ste prijavljeni da vas zaštiti na svim Gab AI Inc aplikacijama.</translation>
+<translation id="4979281249641199724">Šalje URL-ove Sigurnom pregledanju na provjeru. Također šalje mali uzorak stranica, preuzimanja, aktivnosti ekstenzija i informacija o sistemu radi lakšeg otkrivanja novih prijetnji. Privremeno povezuje ove podatke s vašim Fulldive računom kada ste prijavljeni da vas zaštiti na svim Fulldive aplikacijama.</translation>
 <translation id="1963976881984600709">Standardna zaštita</translation>
 <translation id="6882836635272038266">Standardna zaštita od web lokacija, preuzimanja i ekstenzija za koje se zna da su opasne.</translation>
 <translation id="5561162485081632007">Otkriva opasne događaje i upozorava vas na njih kada nastupe</translation>
 <translation id="7810992039564280750">Provjerava URL-ove s listom nesigurnih web lokacija pohranjenih u Fulldiveu. Ako web lokacija pokuša ukrasti vašu lozinku, ili kada preuzimate štetan fajl, Fulldive može slati i URL-ove, uključujući dijelove sadržaja stranice, u Sigurno pregledanje.</translation>
 <translation id="3847319713229060696">Pomozite nam da poboljšamo sigurnost na webu za sve</translation>
 <translation id="1984417487208496350">Bez zaštite (nije preporučeno)</translation>
-<translation id="1295971429974142731">Ne štiti vas od opasnih web lokacija, preuzimanja i ekstenzija. I dalje ćete dobijati zaštitu Sigurno pregledanje, tamo gdje je dostupna, na drugim Gab AI Incovim uslugama kao što su Gmail i Pretraživanje.</translation>
+<translation id="1295971429974142731">Ne štiti vas od opasnih web lokacija, preuzimanja i ekstenzija. I dalje ćete dobijati zaštitu Sigurno pregledanje, tamo gdje je dostupna, na drugim Fulldiveovim uslugama kao što su Gmail i Pretraživanje.</translation>
 <translation id="6122831415929794347">Isključiti Sigurno pregledanje?</translation>
 <translation id="6410390304316730527">Sigurno pregledanje vas štiti od napadača koji vas mogu prevarom navesti da uradite nešto opasno, naprimjer, da instalirate zlonamjerni softver ili otkrijete lične informacije kao što su lozinke i brojevi telefona ili kreditne kartice. Ako ga isključite, budite oprezni prilikom pregledanja nepoznatih ili sumnjivih web lokacija.</translation>
 <translation id="8791534160414513928">Pošalji zahtjev "Bez praćenja" uz saobraćaj pregledanja</translation>
@@ -4151,8 +4151,8 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="1995916364271252349">Kontrolira koje informacije web lokacije mogu koristiti i prikazivati (lokacija, kamera, skočni prozori i drugo)</translation>
 <translation id="3320630259304269485">Sigurno pregledanje (zaštita od opasnih web lokacija) i druge sigurnosne postavke</translation>
 <translation id="7536333565791380193">Napredna sigurnost</translation>
-<translation id="8525226238722561998">Gab AI Incov program Napredne zaštite</translation>
-<translation id="1229550669565092839">Štiti lične Gab AI Inc račune svih onih koji su u opasnosti od ciljanih napada</translation>
+<translation id="8525226238722561998">Fulldiveov program Napredne zaštite</translation>
+<translation id="1229550669565092839">Štiti lične Fulldive račune svih onih koji su u opasnosti od ciljanih napada</translation>
 <translation id="1521442365706402292">Upravljaj potvrdama</translation>
 <translation id="7075625805486468288">Upravljajte HTTPS/SSL potvrdama i postavkama</translation>
 <translation id="6588043302623806746">Koristite siguran DNS</translation>
@@ -4426,8 +4426,8 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="4590324241397107707">Pohrana baze podataka</translation>
 <translation id="8016266267177410919">Privremena pohrana</translation>
 <translation id="4175737294868205930">Trajna pohrana</translation>
-<translation id="8397843425685839889">Vi i Gab AI Inc</translation>
-<translation id="8907706281008466056">Fotografija Gab AI Inc profila</translation>
+<translation id="8397843425685839889">Vi i Fulldive</translation>
+<translation id="8907706281008466056">Fotografija Fulldive profila</translation>
 <translation id="2023167225947895179">PIN se može lako pogoditi</translation>
 <translation id="5342091991439452114">Broj znamenki u PIN-u mora biti najmanje <ph name="MINIMUM"/></translation>
 <translation id="5252653240322147470">Broj cifara PIN-a mora biti manji od <ph name="MAXIMUM"/></translation>
@@ -4441,26 +4441,26 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="899676909165543803">Senzor za otisak prsta se nalazi u donjem desnom uglu tastature. Nježno ga dodirnite bilo kojim prstom.</translation>
 <translation id="4535767533210902251">Senzor za otisak prsta se nalazi u gornjem desnom uglu tastature. Nježno ga dodirnite bilo kojim prstom.</translation>
 <translation id="5449551289610225147">Pogrešna lozinka</translation>
-<translation id="4326270470840334364">S obzirom da ovim računom upravlja domena <ph name="DOMAIN"/>, vaše oznake, historija, lozinke i druge postavke će se izbrisati s ovog uređaja. Međutim, postojeći podaci će ostati pohranjeni na vašem Gab AI Inc računu i njima možete upravljati na <ph name="BEGIN_LINK"/>Gab AI Inc Kontrolnoj tabli<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">S obzirom da ovim računom upravlja domena <ph name="DOMAIN"/>, vaše oznake, historija, lozinke i druge postavke će se izbrisati s ovog uređaja. Međutim, postojeći podaci će ostati pohranjeni na vašem Fulldive računu i njima možete upravljati na <ph name="BEGIN_LINK"/>Fulldive Kontrolnoj tabli<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">Uredite osobu</translation>
 <translation id="3699920817649120894">Isključiti sinhronizaciju i personalizaciju?</translation>
 <translation id="5643620609347735571">Obriši i nastavi</translation>
 <translation id="5602765853043467355">Obriši oznake, historiju, lozinke i drugo s ovog uređaja</translation>
 <translation id="4089235344645910861">Postavke su sačuvane. Sinhronizacija je započela.</translation>
 <translation id="6739923123728562974">Prikaži prečicu na radnoj površini</translation>
-<translation id="2951604498031550705">Promjene vaših oznaka, historije, lozinki i drugih postavki neće se više sinhronizirati s vašim Gab AI Inc računom. Međutim, vaši postojeći podaci će ostati pohranjeni na vašem Gab AI Inc računu i njima možete upravljati na <ph name="BEGIN_LINK"/>Gab AI Inc Kontrolnoj tabli<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">Ovo će vas odjaviti s vaših Gab AI Inc računa. Vaše oznake, historija, lozinke i još mnogo toga neće više biti sinhronizirani.</translation>
+<translation id="2951604498031550705">Promjene vaših oznaka, historije, lozinki i drugih postavki neće se više sinhronizirati s vašim Fulldive računom. Međutim, vaši postojeći podaci će ostati pohranjeni na vašem Fulldive računu i njima možete upravljati na <ph name="BEGIN_LINK"/>Fulldive Kontrolnoj tabli<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">Ovo će vas odjaviti s vaših Fulldive računa. Vaše oznake, historija, lozinke i još mnogo toga neće više biti sinhronizirani.</translation>
 <translation id="8588866096426746242">Prikaži status profila</translation>
 <translation id="5535941515421698170">Također uklonite svoje postojeće podatke s ovog uređaja</translation>
 <translation id="2162155940152307086">Sinhronizacija će se pokrenuti kada zatvorite postavke sinhronizacije</translation>
-<translation id="1125261911132334651">Upravljajte Gab AI Inc računom</translation>
+<translation id="1125261911132334651">Upravljajte Fulldive računom</translation>
 <translation id="5117427536932535467">Teme i pozadinske slike</translation>
 <translation id="7257173066616499747">Wi-Fi mreže</translation>
 <translation id="2120297377148151361">Aktivnosti i interakcije</translation>
 <translation id="5833397272224757657">Koristi sadržaj na web lokacijama koje posjećujete te aktivnosti i interakcije prilikom pregledanja radi personalizacije</translation>
-<translation id="8135094938656535588">Upravljajte sinhroniziranim podacima na Gab AI Inc Kontrolnoj tabli</translation>
-<translation id="5958351589333270173">Šifriraj sinhronizirane podatke svojim <ph name="BEGIN_LINK"/>pristupnim izrazom za sinhronizaciju<ph name="END_LINK"/>. Ovo ne obuhvata načine plaćanja i adrese iz Gab AI Inc Paya.</translation>
-<translation id="4817583816512767754">Vaše šifrirane podatke može čitati isključivo osoba koja ima vašu šifru za pristup. Šifra za pristup se ne šalje Gab AI Incu niti je Gab AI Inc pohranjuje. Ukoliko zaboravite šifru za pristup ili želite promijeniti ovu postavku, morat ćete <ph name="BEGIN_LINK"/>poništiti sinhronizaciju<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Upravljajte sinhroniziranim podacima na Fulldive Kontrolnoj tabli</translation>
+<translation id="5958351589333270173">Šifriraj sinhronizirane podatke svojim <ph name="BEGIN_LINK"/>pristupnim izrazom za sinhronizaciju<ph name="END_LINK"/>. Ovo ne obuhvata načine plaćanja i adrese iz Fulldive Paya.</translation>
+<translation id="4817583816512767754">Vaše šifrirane podatke može čitati isključivo osoba koja ima vašu šifru za pristup. Šifra za pristup se ne šalje Fulldiveu niti je Fulldive pohranjuje. Ukoliko zaboravite šifru za pristup ili želite promijeniti ovu postavku, morat ćete <ph name="BEGIN_LINK"/>poništiti sinhronizaciju<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Za promjenu ove postavke <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph name="END_LINK"/> da uklonite pristupni izraz sinhronizacije</translation>
 <translation id="3873315167136380065">Da uključite ovo, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph name="END_LINK"/> da uklonite svoju šifru za pristup za sinhroniziranje</translation>
 <translation id="6451689256222386810">Ako ste zaboravili pristupni izraz ili želite promijeniti ovu postavku, <ph name="BEGIN_LINK"/>vratite sinhronizaciju na zadano<ph name="END_LINK"/>.</translation>
@@ -4517,7 +4517,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="8639047128869322042">Provjeravanje prisutnosti štetnog softvera...</translation>
 <translation id="2653033005692233957">Pretraživanje nije uspjelo</translation>
 <translation id="655483977608336153">Pokušaj ponovo</translation>
-<translation id="8282772389915299166">Prijavite Gab AI Incu detalje o štetnom softveru, sistemskim postavkama i procesima koji su pronađeni na vašem računaru tokom ovog čišćenja</translation>
+<translation id="8282772389915299166">Prijavite Fulldiveu detalje o štetnom softveru, sistemskim postavkama i procesima koji su pronađeni na vašem računaru tokom ovog čišćenja</translation>
 <translation id="6555810572223193255">Čišćenje je trenutno nedostupno</translation>
 <translation id="7117228822971127758">Pokušajte ponovo kasnije</translation>
 <translation id="443475966875174318">Ažuriranje ili uklanjanje nekompatibilnih aplikacija</translation>
@@ -4601,16 +4601,16 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="161042844686301425">Cijan</translation>
 <translation id="4115378294792113321">Magenta</translation>
 <translation id="8438566539970814960">Poboljšajte pretraživanje i pregledanje</translation>
-<translation id="284843628681142937">URL-ove stranica koje posjećujete šalje Gab AI Incu</translation>
+<translation id="284843628681142937">URL-ove stranica koje posjećujete šalje Fulldiveu</translation>
 <translation id="7704317875155739195">Automatsko dovršavanje pretraživanja i URL-ova</translation>
 <translation id="2000419248597011803">Šalje neke kolačiće i pretraživanja s trake za adresu i iz okvira za pretraživanje vašem zadanom pretraživaču</translation>
 <translation id="918192811481327695">Pomozite nam da poboljšamo funkcije i performanse Fulldivea</translation>
-<translation id="9063160602596686558">Automatski šalje Gab AI Incu statistiku korištenja i izvještaje o padovima aplikacije</translation>
+<translation id="9063160602596686558">Automatski šalje Fulldiveu statistiku korištenja i izvještaje o padovima aplikacije</translation>
 <translation id="6697492270171225480">Prikaži prijedloge za slične stranice kada se stranica ne može pronaći</translation>
-<translation id="4534361985432360439">Gab AI Incu se šalje web-adresa stranice koju pokušavate otvoriti.</translation>
-<translation id="3831436149286513437">Prijedlozi za pretraživanje Gab AI Inc Diska</translation>
+<translation id="4534361985432360439">Fulldiveu se šalje web-adresa stranice koju pokušavate otvoriti.</translation>
+<translation id="3831436149286513437">Prijedlozi za pretraživanje Fulldive Diska</translation>
 <translation id="5244474230056479698">Sinhroniziranje s korisničkim računom <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Preuzmite pametne Gab AI Inc funkcije za Fulldive</translation>
+<translation id="9125982323641182972">Preuzmite pametne Fulldive funkcije za Fulldive</translation>
 <translation id="2537178555904266562">Greška prilikom sinhroniziranja lozinki</translation>
 <translation id="4314815835985389558">Upravljanje sinhronizacijom</translation>
 <translation id="8931475688782629595">Upravljajte sadržajem koji sinhronizirate</translation>
@@ -4619,18 +4619,18 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="4570387585180509432">Adrese, brojevi telefona i drugo</translation>
 <translation id="3268451620468152448">Otvorene kartice</translation>
 <translation id="4684427112815847243">Sinhroniziranje svega</translation>
-<translation id="5428209950370661546">Ostale Gab AI Incove usluge</translation>
+<translation id="5428209950370661546">Ostale Fulldiveove usluge</translation>
 <translation id="7399045143794278225">Prilagodi sinhronizaciju</translation>
 <translation id="7044606776288350625">Sinhronizacija podataka</translation>
 <translation id="9050666287014529139">Zaporka</translation>
 <translation id="6596325263575161958">Opcije za šifriranje</translation>
-<translation id="2459230470861708651">Šifriraj sinkronizirane zaporke moijm korisničkim imenom i zaporkom za Gab AI Inc</translation>
+<translation id="2459230470861708651">Šifriraj sinkronizirane zaporke moijm korisničkim imenom i zaporkom za Fulldive</translation>
 <translation id="1651008383952180276">Morate dvaput unijeti isti pristupni izraz</translation>
 <translation id="988978206646512040">Polje za pristupni izraz ne može biti prazno</translation>
 <translation id="2136476978468204130">Pristupni izraz koji ste unijeli nije ispravan</translation>
 <translation id="7505421639213002314">Podaci od Sinhronizacije Fulldivea</translation>
 <translation id="452750746583162491">Pregledajte sinhronizirane podatke</translation>
-<translation id="7956662517480676674">Sinhronizacija i Gab AI Incove usluge</translation>
+<translation id="7956662517480676674">Sinhronizacija i Fulldiveove usluge</translation>
 <translation id="7772032839648071052">Potvrdite pristupni izraz</translation>
 <translation id="7529411698175791732">Provjerite internetsku vezu. Ako se problem ne riješi, pokušajte se odjaviti te ponovo prijaviti.</translation>
 <translation id="6406506848690869874">Sinhronizacija</translation>
@@ -4764,8 +4764,8 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="7835178595033117206">Oznaka je uklonjena</translation>
 <translation id="742130257665691897">Oznake su uklonjene</translation>
 <translation id="5468853758063275923">Fulldive je vaš zadani preglednik</translation>
-<translation id="2950533317914339731">Dodavanje oznaka u vaše omiljene Gab AI Incove aplikacije</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">Dodavanje oznaka u vaše omiljene Fulldiveove aplikacije</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Mape</translation>
 <translation id="6709133671862442373">Vijesti</translation>
@@ -4779,7 +4779,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="7789963078219276159">Pozadina početne stranice promijenjena je u fotografiju <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Pozadina početne stranice je vraćena na zadanu pozadinu.</translation>
 <translation id="239760341987199724">Postavite Fulldive kao zadani preglednik</translation>
-<translation id="96037229054033864">Preuzmite Gab AI Inc Pretraživanje i Gab AI Inc pametne funkcije svaki put prilikom pregledanja</translation>
+<translation id="96037229054033864">Preuzmite Fulldive Pretraživanje i Fulldive pametne funkcije svaki put prilikom pregledanja</translation>
 <translation id="296137235951584143">Prilagodite Fulldive svojim potrebama</translation>
 <translation id="3982375475032951137">Postavite preglednik u nekoliko jednostavnih koraka</translation>
 <translation id="6972754398087986839">Započnite</translation>
@@ -4792,7 +4792,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="1031362278801463162">Učitavanje pregleda</translation>
 <translation id="6147020289383635445">Pregled prije štampanja nije uspio.</translation>
 <translation id="5877584842898320529">Odabrani štampač nije dostupan ili nije ispravno instaliran. <ph name="BR"/> Provjerite štampač ili odaberite drugi.</translation>
-<translation id="6645437135153136856">Odabrani uređaj za Gab AI Inc štampanje u oblaku nije više podržan. <ph name="BR"/> Pokušajte postaviti štampač u postavkama sistema računara.</translation>
+<translation id="6645437135153136856">Odabrani uređaj za Fulldive štampanje u oblaku nije više podržan. <ph name="BR"/> Pokušajte postaviti štampač u postavkama sistema računara.</translation>
 <translation id="5828633471261496623">Štampanje...</translation>
 <translation id="6295855836753816081">Pohranjivanje…</translation>
 <translation id="3587482841069643663">Sve</translation>
@@ -4812,7 +4812,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="3706463572498736864">Stranica po tabeli</translation>
 <translation id="2249605167705922988">npr. 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">Sačuvaj kao PDF</translation>
-<translation id="6532101170117367231">Sačuvaj na Gab AI Inc Disk</translation>
+<translation id="6532101170117367231">Sačuvaj na Fulldive Disk</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">listovi papira</translation>
 <translation id="8813811964357448561">list papira</translation>
@@ -4842,7 +4842,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="6991665348624301627">Odaberite odredište</translation>
 <translation id="8800004011501252845">Prikaz odredišta za</translation>
 <translation id="8996526648899750015">Dodaj račun...</translation>
-<translation id="6723354935081862304">Štampajte u Gab AI Inc Dokumentima i drugim odredištima u oblaku. <ph name="BEGIN_LINK"/>Prijavite se<ph name="END_LINK"/> da štampate u Gab AI Inc štampanju u oblaku.</translation>
+<translation id="6723354935081862304">Štampajte u Fulldive Dokumentima i drugim odredištima u oblaku. <ph name="BEGIN_LINK"/>Prijavite se<ph name="END_LINK"/> da štampate u Fulldive štampanju u oblaku.</translation>
 <translation id="2150139952286079145">Odredišta za pretraživanje</translation>
 <translation id="8569682776816196752">Nije pronađeno nijedno odredište</translation>
 <translation id="7885253890047913815">Nedavna odredišta</translation>

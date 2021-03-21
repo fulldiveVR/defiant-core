@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Fulldive logotip</translation>
 <translation id="7339898014177206373">Novi prozor</translation>
 <translation id="5516268345616100622">Menadžer zadataka – Fulldive</translation>
-<translation id="7918740962659365265">Pomozite nam da poboljšamo Fulldive tako što ćete Gab AI Inc-u slati izveštaje o otkazivanju i <ph name="UMA_LINK"/></translation>
+<translation id="7918740962659365265">Pomozite nam da poboljšamo Fulldive tako što ćete Fulldive-u slati izveštaje o otkazivanju i <ph name="UMA_LINK"/></translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> – Fulldive</translation>
 <translation id="7830723774663008396">Fulldive – <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – prijavljivanje na mrežu – Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldive ne može da čita podatke iz direktorijuma sa podacima niti da ih upisuje u njega:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Opcionalno: Pomozite da poboljšamo Fulldive tako što ćete Gab AI Inc-u automatski slati statistiku korišćenja i izveštaje o otkazivanju.</translation>
+<translation id="8417700129970341035">Opcionalno: Pomozite da poboljšamo Fulldive tako što ćete Fulldive-u automatski slati statistiku korišćenja i izveštaje o otkazivanju.</translation>
 <translation id="1489465648257900784">Profil ne može da se koristi jer je iz novije verzije Fulldive-a.
 
 Neke funkcije će možda biti nedostupne. Navedite drugi direktorijum profila ili koristite noviju verziju Fulldive-a.</translation>
@@ -44,7 +44,7 @@ Neke funkcije su možda nedostupne i promene podešavanja neće biti sačuvane.
 
 Fulldive ne može da vrati podešavanja.</translation>
 <translation id="1477146545787277177">Opa! Fulldive je otkazao. Želite li da ga odmah ponovo pokrenete?</translation>
-<translation id="5785919770853225148">Fulldive će sačuvati ovu lozinku na Gab AI Inc nalogu. Nećete morati da je pamtite.</translation>
+<translation id="5785919770853225148">Fulldive će sačuvati ovu lozinku na Fulldive nalogu. Nećete morati da je pamtite.</translation>
 <translation id="8211837073776713955">Fulldive vas obaveštava ako su lozinke ugrožene</translation>
 <translation id="113959764510199339">Fulldive pokušava da prikaže lozinke.</translation>
 <translation id="96347285368592620">Fulldive pokušava da kopira lozinke.</translation>
@@ -85,7 +85,7 @@ Fulldive ne može da vrati podešavanja.</translation>
 <translation id="9183662282810237335">Želite li ipak da zatvorite Fulldive?</translation>
 <translation id="3834935463915107022">Želite li ipak da zatvorite Fulldive?</translation>
 <translation id="8797356639448065696">Fulldive je u pozadinskom režimu.</translation>
-<translation id="2339258256897053758">Nedostaju šifre za Gab AI Inc API. Neke funkcije Fulldive-a će biti onemogućene.</translation>
+<translation id="2339258256897053758">Nedostaju šifre za Fulldive API. Neke funkcije Fulldive-a će biti onemogućene.</translation>
 <translation id="7861579472672677409">Dodatak <ph name="EXTENSION_NAME"/> je dodat u Fulldive</translation>
 <translation id="8516116288943000095">Obriši podatke i iz Fulldive-a (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Sakrij u Fulldive meniju</translation>
@@ -109,8 +109,8 @@ Fulldive ne može da vrati podešavanja.</translation>
 <translation id="2925193881330501265">Bili ste prijavljeni na Fulldive kao <ph name="USER_EMAIL_ADDRESS"/>. Koristite isti nalog da biste se ponovo prijavili.</translation>
 <translation id="847561904663814268">Neko se prethodno prijavio na Fulldive na ovom računaru kao <ph name="ACCOUNT_EMAIL_LAST"/>. Napravite novog Fulldive korisnika da bi informacije bile razdvojene.</translation>
 <translation id="1853997773668795891">Želite li da povežete Fulldive podatke sa ovim nalogom?</translation>
-<translation id="1326766910007115955">Prijavljujete se pomoću naloga kojim se upravlja i dajete njegovom administratoru kontrolu nad Fulldive profilom. Fulldive podaci, kao što su aplikacije, obeleživači, istorija, lozinke i druga podešavanja, biće trajno povezani sa nalogom <ph name="USER_NAME"/>. Moći ćete da izbrišete te podatke preko Kontrolne table Gab AI Inc naloga, ali nećete moći da ih povežete sa nekim drugim nalogom. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Prijavljujete se pomoću naloga kojim se upravlja i dajete njegovom administratoru kontrolu nad Fulldive profilom. Fulldive podaci, kao što su aplikacije, obeleživači, istorija, lozinke i druga podešavanja, biće trajno povezani sa nalogom <ph name="USER_NAME"/>. Moći ćete da izbrišete te podatke preko Kontrolne table Gab AI Inc naloga, ali nećete moći da ih povežete sa nekim drugim nalogom. Možete opcionalno da napravite novi profil da bi postojeći Fulldive podaci ostali odvojeni. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Prijavljujete se pomoću naloga kojim se upravlja i dajete njegovom administratoru kontrolu nad Fulldive profilom. Fulldive podaci, kao što su aplikacije, obeleživači, istorija, lozinke i druga podešavanja, biće trajno povezani sa nalogom <ph name="USER_NAME"/>. Moći ćete da izbrišete te podatke preko Kontrolne table Fulldive naloga, ali nećete moći da ih povežete sa nekim drugim nalogom. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Prijavljujete se pomoću naloga kojim se upravlja i dajete njegovom administratoru kontrolu nad Fulldive profilom. Fulldive podaci, kao što su aplikacije, obeleživači, istorija, lozinke i druga podešavanja, biće trajno povezani sa nalogom <ph name="USER_NAME"/>. Moći ćete da izbrišete te podatke preko Kontrolne table Fulldive naloga, ali nećete moći da ih povežete sa nekim drugim nalogom. Možete opcionalno da napravite novi profil da bi postojeći Fulldive podaci ostali odvojeni. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Administrator sistema je konfigurisao Fulldive da otvara alternativni pregledač za pristup URL-u <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">Administrator sistema je konfigurisao Fulldive da otvara pregledač <ph name="ALTERNATIVE_BROWSER_NAME"/> da bi pristupao <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656">Korisnik <ph name="USER_EMAIL_ADDRESS"/> je prethodno koristio Fulldive</translation>
@@ -134,7 +134,7 @@ Fulldive ne može da vrati podešavanja.</translation>
 <translation id="239760341987199724">Podesi Fulldive kao podrazumevani pregledač</translation>
 <translation id="669092380621816981">Podaci pregledanja ove osobe će biti izbrisani sa ovog uređaja. Da biste vratili podatke, prijavite se u Fulldive kao <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Upravo smo poboljšali Fulldive</translation>
-<translation id="7192666605334070839">Sada možete lakše da koristite Fulldive sa Gab AI Inc nalogom i na deljenim računarima.</translation>
+<translation id="7192666605334070839">Sada možete lakše da koristite Fulldive sa Fulldive nalogom i na deljenim računarima.</translation>
 <translation id="4100716194836114130">Ovo je vaš Fulldive</translation>
 <translation id="3511996232906761537">Veb, obeleživači i drugi Fulldive sadržaj se ovde uživo prikazuju.</translation>
 <translation id="7406627712452599344">Gosti mogu da koriste Fulldive a da ne ostavljaju nikakve tragove.</translation>
@@ -149,9 +149,9 @@ Fulldive ne može da vrati podešavanja.</translation>
 <translation id="2871190378186459992">Otkrijte odlične aplikacije, igre, dodatke i teme za Fulldive.</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">Pravilo za dolazni saobraćaj za Fulldive da bi se omogućio mDNS saobraćaj.</translation>
-<translation id="8207657266087451193">Ako slika nema koristan opis, Fulldive će probati da vam ga pruži. Slike se šalju Gab AI Inc-u radi pravljenja opisa. To možete da isključite u podešavanjima u svakom trenutku.</translation>
-<translation id="5499063270485366718">Ako slika nema koristan opis, Fulldive će probati da vam ga pruži. Slike se šalju Gab AI Inc-u radi pravljenja opisa.</translation>
-<translation id="215320507915280336">Koristi istu proveru pravopisa kao Gab AI Inc pretraga. Tekst koji unesete u pregledač se šalje Gab AI Inc-u. To uvek možete da promenite u podešavanjima.</translation>
+<translation id="8207657266087451193">Ako slika nema koristan opis, Fulldive će probati da vam ga pruži. Slike se šalju Fulldive-u radi pravljenja opisa. To možete da isključite u podešavanjima u svakom trenutku.</translation>
+<translation id="5499063270485366718">Ako slika nema koristan opis, Fulldive će probati da vam ga pruži. Slike se šalju Fulldive-u radi pravljenja opisa.</translation>
+<translation id="215320507915280336">Koristi istu proveru pravopisa kao Fulldive pretraga. Tekst koji unesete u pregledač se šalje Fulldive-u. To uvek možete da promenite u podešavanjima.</translation>
 <translation id="1807774211756215222">Otvori link u novoj Fulldive &amp;kartici</translation>
 <translation id="4624945300945265642">Otvori link u Fulldive prozoru bez arhi&amp;viranja</translation>
 <translation id="7863882214613921971">Otvori link u novoj Fulldive &amp;kartici</translation>
@@ -205,7 +205,7 @@ Fulldive ne može da vrati podešavanja.</translation>
 <translation id="7573289029918943991">Da biste proverili da li je uređaj ažuriran, idite u <ph name="LINK_BEGIN"/>Podešavanja Fulldive OS-a<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Pronađite pomoć za Fulldive OS</translation>
 <translation id="38898988211673781">Obriši kolačiće i podatke o sajtovima kad izađem iz Fulldive-a</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (kopirano u Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (kopirano u Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive je podrazumevani pregledač</translation>
 <translation id="1775322105159056176">Fulldive ne može da odredi ni da podesi podrazumevani pregledač</translation>
 <translation id="6915252145142862992">Ovo je sekundarna instalacija Fulldive-a pa ne možete da ga podesite kao podrazumevani pregledač.</translation>
@@ -213,10 +213,10 @@ Fulldive ne može da vrati podešavanja.</translation>
       podešavanjima Fulldive pregledača<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Ako se podešavanje ne prikazuje na ovoj stranici, potražite ga u <ph name="LINK_BEGIN"/>
       podešavanjima Fulldive OS-a<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Da bi ispravio pravopisne greške, Fulldive šalje Gab AI Inc-ovim serverima tekst koji unosite u polja za tekst.</translation>
+<translation id="2312399718665761438">Da bi ispravio pravopisne greške, Fulldive šalje Fulldive-ovim serverima tekst koji unosite u polja za tekst.</translation>
 <translation id="8586264863973514035">Da biste primenili promene, ponovo pokrenite Fulldive</translation>
 <translation id="7021823858304886493">Dozvoli prijavljivanje u Fulldive</translation>
-<translation id="1649714546770135458">Kada to uključite, možete da se prijavljujete na Gab AI Inc sajtove, kao što je Gmail, ali se ne prijavljujete u Fulldive</translation>
+<translation id="1649714546770135458">Kada to uključite, možete da se prijavljujete na Fulldive sajtove, kao što je Gmail, ali se ne prijavljujete u Fulldive</translation>
 <translation id="2796517443093885402">Fulldive može da vas štiti od upada u podatke, neispravnih dodataka i drugih problema</translation>
 <translation id="428541510811554120">Fulldive ne može da traži ažuriranja. Proverite internet vezu.</translation>
 <translation id="2633397153656205379">Fulldive se nije ažurirao. Došlo je do greške. <ph name="BEGIN_LINK"/>Otklonite probleme sa ažuriranjem Fulldive-a i neuspela ažuriranja.<ph name="END_LINK"/></translation>

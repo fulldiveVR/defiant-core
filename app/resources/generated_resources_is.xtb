@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">Engar leitarniðurstöður fundust</translation>
 <translation id="8967866634928501045">Ýttu á Alt Shift A til að sýna</translation>
 <translation id="998747458861718449">S&amp;koða</translation>
-<translation id="4428301600092811022">Fá lýsingar á myndum frá Gab AI Inc?</translation>
+<translation id="4428301600092811022">Fá lýsingar á myndum frá Fulldive?</translation>
 <translation id="741204030948306876">Hljómar vel</translation>
 <translation id="780301667611848630">Nei, takk</translation>
 <translation id="3943582379552582368">Til &amp;baka</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">Líma</translation>
 <translation id="2218515861914035131">Líma sem ósniðinn texta</translation>
 <translation id="1017280919048282932">Bæt&amp;a við orðabók</translation>
-<translation id="1732768497619250086">Fá lýsingar á myndum frá Gab AI Inc</translation>
+<translation id="1732768497619250086">Fá lýsingar á myndum frá Fulldive</translation>
 <translation id="7561196759112975576">Alltaf</translation>
 <translation id="2241634353105152135">Bara einu sinni</translation>
 <translation id="3387614642886316601">Nota endurbætta ritvilluleit</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">Kveikja</translation>
 <translation id="7658239707568436148">Hætta við</translation>
 <translation id="8915370057835397490">Hleður tillögu</translation>
-<translation id="6191804255817539692">Ekki fleiri tillögur frá Gab AI Inc</translation>
+<translation id="6191804255817539692">Ekki fleiri tillögur frá Fulldive</translation>
 <translation id="1901303067676059328">Velja &amp;allt</translation>
 <translation id="3797900183766075808">Leita á <ph name="SEARCH_ENGINE"/> að „<ph name="SEARCH_TERMS"/>“</translation>
 <translation id="2721037002783622288">&amp;Leita að mynd á <ph name="SEARCH_ENGINE"/></translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">Líma</translation>
 <translation id="1815083418640426271">Líma sem ósniðinn texta</translation>
 <translation id="4022426551683927403">Bæt&amp;a við orðabók</translation>
-<translation id="6849870115130610913">Fá lýsingar á myndum frá Gab AI Inc</translation>
+<translation id="6849870115130610913">Fá lýsingar á myndum frá Fulldive</translation>
 <translation id="372722114124766626">Bara einu sinni</translation>
 <translation id="4079140982534148664">Nota endurbætta ritvilluleit</translation>
 <translation id="7487141338393529395">Kveikja á endurbættri ritvilluleit</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/> inniheldur viðkvæmt efni.</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/> inniheldur viðkvæmt efni og hefur verið útilokuð.</translation>
 <translation id="6651823585377804376">Niðurhal inniheldur spilliforrit.</translation>
-<translation id="6529597483902964581">Skráin <ph name="FILE_NAME"/> gæti verið hættuleg. Viltu senda hana í skönnun Ítarlegrar verndar hjá Gab AI Inc?</translation>
+<translation id="6529597483902964581">Skráin <ph name="FILE_NAME"/> gæti verið hættuleg. Viltu senda hana í skönnun Ítarlegrar verndar hjá Fulldive?</translation>
 <translation id="4907161631261076876">Þessi skrá er ekki sótt oft og kann að vera hættuleg.</translation>
 <translation id="6102043788063419338">Ítarleg vernd lokaði fyrir þessa skrá.</translation>
 <translation id="2773802008104670137">Þessi tegund af skrá gæti skaðað tölvuna þína.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Hætt við niðurhal: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Niðurhali lokið: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Niðurhali lokið: <ph name="FILE_NAME"/>. Ýttu á Shift+F6 til að fara á niðurhalsstikuna.</translation>
-<translation id="7033965027041115562">Skráin <ph name="FILE_NAME"/> gæti verið hættuleg. Viltu senda hana í skönnun Ítarlegrar verndar hjá Gab AI Inc? Ýttu á Shift+F6 til að fara á niðurhalsstikuna.</translation>
+<translation id="7033965027041115562">Skráin <ph name="FILE_NAME"/> gæti verið hættuleg. Viltu senda hana í skönnun Ítarlegrar verndar hjá Fulldive? Ýttu á Shift+F6 til að fara á niðurhalsstikuna.</translation>
 <translation id="2743387203779672305">Afrita á klippiborð</translation>
 <translation id="883911313571074303">Skrifa skýringu við mynd</translation>
 <translation id="6291953229176937411">&amp;Sýna í Finder</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">Hætta</translation>
 <translation id="7376221878517288144">Viltu samt loka huliðsstillingu?</translation>
 <translation id="973473557718930265">Hætta</translation>
-<translation id="7707599169365957976">Þú getur hjálpað til við að bæta örugga vefnotkun með því að senda kerfisupplýsingar og efni síðu til Gab AI Inc.</translation>
+<translation id="7707599169365957976">Þú getur hjálpað til við að bæta örugga vefnotkun með því að senda kerfisupplýsingar og efni síðu til Fulldive.</translation>
 <translation id="4923279099980110923">Já, ég vil hjálpa</translation>
 <translation id="2316129865977710310">Nei, takk</translation>
 <translation id="9169931577761441333">Bæta <ph name="APP_NAME"/> á heimaskjá</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">Þemað „<ph name="THEME_NAME"/>“ var sett upp</translation>
 <translation id="2256115617011615191">Endurræsa núna</translation>
 <translation id="4545028762441890696">Samþykktu nýju heimildirnar til að virkja þetta á ný:</translation>
-<translation id="3009487527589249344">Gab AI Inc hefur merkt „<ph name="EXTENSION_NAME"/>“ sem skaðlega viðbót og komið var í veg fyrir uppsetninguna</translation>
+<translation id="3009487527589249344">Fulldive hefur merkt „<ph name="EXTENSION_NAME"/>“ sem skaðlega viðbót og komið var í veg fyrir uppsetninguna</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> var bætt við með fjartengingu</translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> er óvirkt</translation>
 <translation id="595959584676692139">Endurhladdu síðuna til að nota þessa viðbót</translation>
@@ -970,7 +970,7 @@
 <translation id="3584169441612580296">Lesa og breyta myndum, tónlist og öðru margmiðlunarefni í tölvunni þinni</translation>
 <translation id="5457459357461771897">Lesa og eyða myndum, tónlist og öðru margmiðlunarefni í tölvunni þinni</translation>
 <translation id="3270965368676314374">Lesa, breyta og eyða myndum, tónlist og öðru margmiðlunarefni í tölvunni þinni</translation>
-<translation id="1285484354230578868">Vista gögn á Gab AI Inc Drive reikningnum þínum</translation>
+<translation id="1285484354230578868">Vista gögn á Fulldive Drive reikningnum þínum</translation>
 <translation id="378312418865624974">Lesa einkvæmt auðkenni fyrir þessa tölvu</translation>
 <translation id="5094721898978802975">Eiga samskipti við sérhönnuð forrit í samstarfi</translation>
 <translation id="4876895919560854374">Læsa skjánum og taka hann úr lás</translation>
@@ -1181,7 +1181,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="8756969031206844760">Uppfæra aðgangsorð?</translation>
 <translation id="8230134520748321204">Vista aðgangsorð fyrir <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">Uppfæra aðgangsorð fyrir <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Aðgangsorð eru vistuð á Gab AI Inc reikningnum þínum til að þú getir notað þau í hvaða tæki sem er</translation>
+<translation id="8284000761603848448">Aðgangsorð eru vistuð á Fulldive reikningnum þínum til að þú getir notað þau í hvaða tæki sem er</translation>
 <translation id="8286036467436129157">Skrá inn</translation>
 <translation id="8009225694047762179">Stjórna aðgangsorðum</translation>
 <translation id="3950820424414687140">Skrá inn</translation>
@@ -1189,10 +1189,10 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="328571385944182268">Vista aðgangsorðin þín?</translation>
 <translation id="3753033997400164841">Vista einu sinni. Nota hvar sem er</translation>
 <translation id="1703331064825191675">Losnaðu undan áhyggjum af aðgangsorðum</translation>
-<translation id="2341030170677284705">Vistaðu aðgangsorðin þín á öruggum stað á Gab AI Inc reikningnum þínum til að þurfa aldrei að slá þau inn aftur</translation>
-<translation id="3913985461352963178">Hafðu aðgang að aðgangsorðunum þínum hvenær sem þú ert skráð(ur) inn á Gab AI Inc reikninginn þinn</translation>
-<translation id="4851124464356820177">Skráðu þig inn og kveiktu á samstillingu til að vista aðgangsorð á Gab AI Inc reikningnum þínum.</translation>
-<translation id="3229869963989850535">Kveiktu á samstillingu til að vista aðgangsorð á Gab AI Inc reikningnum þínum.</translation>
+<translation id="2341030170677284705">Vistaðu aðgangsorðin þín á öruggum stað á Fulldive reikningnum þínum til að þurfa aldrei að slá þau inn aftur</translation>
+<translation id="3913985461352963178">Hafðu aðgang að aðgangsorðunum þínum hvenær sem þú ert skráð(ur) inn á Fulldive reikninginn þinn</translation>
+<translation id="4851124464356820177">Skráðu þig inn og kveiktu á samstillingu til að vista aðgangsorð á Fulldive reikningnum þínum.</translation>
+<translation id="3229869963989850535">Kveiktu á samstillingu til að vista aðgangsorð á Fulldive reikningnum þínum.</translation>
 <translation id="1056466516655540509">Uppfært fyrir <ph name="MINUTES"/> mín.</translation>
 <translation id="8743864605301774756">Uppfært fyrir einni klst.</translation>
 <translation id="7363117941401515667">Uppfært fyrir <ph name="HOURS"/> klst.</translation>
@@ -1296,9 +1296,9 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="1246905108078336582">Fjarlægja tillögu af klippiborði?</translation>
 <translation id="825238165904109940">Sýna alltaf vefslóðir í fullri lengd</translation>
 <translation id="3416468988018290825">Sýna alltaf vefslóðir í fullri lengd</translation>
-<translation id="2129873093718581193">Leitaðu með Gab AI Inc eða sláðu inn vefslóð</translation>
-<translation id="6363797201514053536">Leitaðu á Gab AI Inc eða sláðu inn vefslóð</translation>
-<translation id="4888839742663123585">Leita á Gab AI Inc</translation>
+<translation id="2129873093718581193">Leitaðu með Fulldive eða sláðu inn vefslóð</translation>
+<translation id="6363797201514053536">Leitaðu á Fulldive eða sláðu inn vefslóð</translation>
+<translation id="4888839742663123585">Leita á Fulldive</translation>
 <translation id="6078323886959318429">Bæta flýtileið við</translation>
 <translation id="6324916366299863871">Breyta flýtileið</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1482,35 +1482,35 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6798578729981748444">Lokaðu öllum Firefox-gluggum til að ljúka við innflutning.</translation>
 <translation id="6374469231428023295">Reyna aftur</translation>
 <translation id="8725066075913043281">Reyna aftur</translation>
-<translation id="4196805003686694274">Senda ábendingar til Gab AI Inc</translation>
+<translation id="4196805003686694274">Senda ábendingar til Fulldive</translation>
 <translation id="3424969259347320884">Lýstu því hvað þú varst að gera þegar flipinn hrundi</translation>
-<translation id="1892630320532151038">Senda ábendingar til Gab AI Inc</translation>
+<translation id="1892630320532151038">Senda ábendingar til Fulldive</translation>
 <translation id="2428510569851653187">Lýstu því hvað þú varst að gera þegar flipinn hrundi</translation>
 <translation id="5659593005791499971">Netfang</translation>
 <translation id="2982970937345031">Tilkynna nafnlaust</translation>
 <translation id="6076448957780543068">Senda þessa skjámynd með</translation>
 <translation id="2865919525181940183">Skjámynd af forritum sem eru á skjánum núna</translation>
 <translation id="7052237160939977163">Senda rakningargögn um afköst</translation>
-<translation id="5526928694260255286">Hengja við <ph name="BEGIN_LINK"/>Bluetooth-skrár<ph name="END_LINK"/> (innanhúss hjá Gab AI Inc)</translation>
+<translation id="5526928694260255286">Hengja við <ph name="BEGIN_LINK"/>Bluetooth-skrár<ph name="END_LINK"/> (innanhúss hjá Fulldive)</translation>
 <translation id="3047644958362961983">Þessar upplýsingar auðvelda okkur að skilja vandamál þitt með hjálparann. Upplýsingarnar eru geymdar í allt að 90 daga og aðgangur að þeim er takmarkaður við viðeigandi tölvu- og þjónustuteymi.</translation>
-<translation id="8545590844135745781">Til að geta betur greint vandamál tengd Bluetooth geta starfsmenn Gab AI Inc látið viðbótarannála fylgja með ábendingarskýrslum sínum fyrir Bluetooth. Þegar þessi valkostur er valinn mun skýrslan innihalda btsnoop- og HCI-annála úr yfirstandandi lotu þinni þar sem búið er að eyða eins miklu af auðkennisupplýsingum og mögulegt er. Aðgangur að þessum annálum verður takmarkaður við stjórnendur í Fulldive OS vöruhópnum í Listnr. Annálar verða hreinsaðir eftir 90 daga.</translation>
+<translation id="8545590844135745781">Til að geta betur greint vandamál tengd Bluetooth geta starfsmenn Fulldive látið viðbótarannála fylgja með ábendingarskýrslum sínum fyrir Bluetooth. Þegar þessi valkostur er valinn mun skýrslan innihalda btsnoop- og HCI-annála úr yfirstandandi lotu þinni þar sem búið er að eyða eins miklu af auðkennisupplýsingum og mögulegt er. Aðgangur að þessum annálum verður takmarkaður við stjórnendur í Fulldive OS vöruhópnum í Listnr. Annálar verða hreinsaðir eftir 90 daga.</translation>
 <translation id="4206323443866416204">Ábendingaskýrsla</translation>
 <translation id="3681311097828166361">Takk fyrir ábendinguna. Þú ert án nettengingar sem stendur og tilkynningin verður send síðar.</translation>
 <translation id="8713570323158206935">Senda <ph name="BEGIN_LINK1"/>kerfisupplýsingar<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962">Senda <ph name="BEGIN_LINK1"/>kerfisupplýsingar<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>mælingar<ph name="END_LINK2"/></translation>
 <translation id="6270770586500173387">Senda <ph name="BEGIN_LINK1"/>kerfis- og forritsupplýsingar<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>mælingar<ph name="END_LINK2"/></translation>
 <translation id="3894123633473837029">Láta nýlegan feril hjálparans fylgja með Sherlog. Upplýsingar um hver þú ert, staðsetning þín og upplýsingar um villuleit gætu fylgt með. <ph name="BEGIN_LINK"/>Frekari upplýsingar<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">Skráin verður send til villuleitar hjá Gab AI Inc</translation>
+<translation id="8329196515830093443">Skráin verður send til villuleitar hjá Fulldive</translation>
 <translation id="8227119283605456246">Hengja skrá við</translation>
 <translation id="5367091008316207019">Les skrá...</translation>
 <translation id="2554553592469060349">Valin skrá er of stór (hámarksstærð: 3 MB).</translation>
 <translation id="4690091457710545971">&lt;Fjórar skrár búnar til af Intel Wi-Fi fastbúnaði: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon.  Fyrstu þrjár eru tvíundakerfisskrár sem innihalda skráningardembu og eiga samkvæmt Intel ekki að innihalda neinar persónuupplýsingar eða auðkennandi tækjaupplýsingar.  Síðasta skráin er aðgerðarakning frá Intel-fastbúnaðinum. Hún hefur verið hreinsuð af öllum persónuupplýsingum eða auðkennandi tækjaupplýsingum, en er of stór til að birta hér.  Þessar skrár voru búnar til til að bregðast við nýlegum Wi-Fi vandamálum í tækinu þínu og þeim verður deilt með Intel til að hjálpa til við að leysa þessi vandamál.&gt;</translation>
-<translation id="6972420083546794501">Farðu á <ph name="BEGIN_LINK1"/>hjálparsíðu lagalegra atriða<ph name="END_LINK1"/> til að fara fram á breytingar á efni af lagalegum ástæðum. Einhverjar reiknings- og kerfisupplýsingar kunna að verða sendar til Gab AI Inc. Við munum nota upplýsingarnar sem þú veitir okkur til að laga tæknileg vandamál og bæta þjónustu okkar, í samræmi við <ph name="BEGIN_LINK2"/>persónuverndarstefnu<ph name="END_LINK2"/> okkar og <ph name="BEGIN_LINK3"/>þjónustuskilmála<ph name="END_LINK3"/>.</translation>
+<translation id="6972420083546794501">Farðu á <ph name="BEGIN_LINK1"/>hjálparsíðu lagalegra atriða<ph name="END_LINK1"/> til að fara fram á breytingar á efni af lagalegum ástæðum. Einhverjar reiknings- og kerfisupplýsingar kunna að verða sendar til Fulldive. Við munum nota upplýsingarnar sem þú veitir okkur til að laga tæknileg vandamál og bæta þjónustu okkar, í samræmi við <ph name="BEGIN_LINK2"/>persónuverndarstefnu<ph name="END_LINK2"/> okkar og <ph name="BEGIN_LINK3"/>þjónustuskilmála<ph name="END_LINK3"/>.</translation>
 <translation id="7915471803647590281">Segðu okkur hvað er í gangi áður en þú sendir inn ábendingar.</translation>
 <translation id="6885771755599377173">Forskoðun kerfisupplýsinga</translation>
 <translation id="1016566241875885511">Viðbótarupplýsingar (valfrjálst)</translation>
 <translation id="8026334261755873520">Hreinsa vafragögn</translation>
-<translation id="4718442817388594217">Völdu gögnin hafa verið fjarlægð af Fulldive og samstilltum tækjum. Gab AI Inc reikningurinn þinn kann að vera með annars konar vefskoðunarferil, svo sem yfir leit og virkni í annarri þjónustu Gab AI Inc, á <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="4718442817388594217">Völdu gögnin hafa verið fjarlægð af Fulldive og samstilltum tækjum. Fulldive reikningurinn þinn kann að vera með annars konar vefskoðunarferil, svo sem yfir leit og virkni í annarri þjónustu Fulldive, á <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7814200940910057384">Fulldive gögnum eytt</translation>
 <translation id="7346909386216857016">Ég skil</translation>
 <translation id="8493236660459102203">Hljóðnemi:</translation>
@@ -1533,7 +1533,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="284805635805850872">Fjarlægja skaðlegan hugbúnað?</translation>
 <translation id="489985760463306091">Endurræstu tölvuna til að ljúka við að fjarlægja skaðlegan hugbúnað</translation>
 <translation id="7598466960084663009">Endurræsa tölvu</translation>
-<translation id="2819091349626575960">Tilkynna upplýsingar til Gab AI Inc</translation>
+<translation id="2819091349626575960">Tilkynna upplýsingar til Fulldive</translation>
 <translation id="4099060993766194518">Endurheimta sjálfgefna leitarvél?</translation>
 <translation id="138784436342154190">Endurheimta sjálfgefnar ræsisíðu?</translation>
 <translation id="5086874064903147617">Endurheimta sjálfgefna heimasíðu?</translation>
@@ -1643,10 +1643,10 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="3693415264595406141">Aðgangsorð:</translation>
 <translation id="9111102763498581341">Taka úr lás</translation>
 <translation id="2190355936436201913">(autt)</translation>
-<translation id="9079153198295609735">Senda sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Gab AI Inc</translation>
+<translation id="9079153198295609735">Senda sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Fulldive</translation>
 <translation id="7136984461011502314">Velkomin(n) í <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> er tilbúið til að ljúka uppsetningunni</translation>
-<translation id="4711067597921221305">Hjálpa til við að bæta <ph name="PRODUCT_NAME"/> með því að senda sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Gab AI Inc</translation>
+<translation id="4711067597921221305">Hjálpa til við að bæta <ph name="PRODUCT_NAME"/> með því að senda sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Fulldive</translation>
 <translation id="5972826969634861500">Ræsa <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Hjálpaðu hugbúnaðarverkfræðingum okkar að rannsaka og lagfæra ástæðu þess að þetta hrun átti sér stað. Lýstu nákvæmum skrefum eins vel og þú getur. Lýsingin getur ekki verið of ítarleg!</translation>
 <translation id="5418694430960033386">Annaðhvort kláraðist minni Fulldive eða önnur ástæða varð til þess að slökkt var á ferli vefsíðunnar. Til að halda áfram skaltu endurhlaða eða fara á aðra síðu.</translation>
@@ -1659,7 +1659,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Kerfi</translation>
 <translation id="7022562585984256452">Heimasíðan hefur verið stillt.</translation>
-<translation id="8069615408251337349">Gab AI Inc skýjaprentun</translation>
+<translation id="8069615408251337349">Fulldive skýjaprentun</translation>
 <translation id="4973307593867026061">Bæta við prenturum</translation>
 <translation id="9052208328806230490">Þú hefur skráð prentarana þína hjá <ph name="CLOUD_PRINT_NAME"/> með því að nota reikninginn <ph name="EMAIL"/></translation>
 <translation id="3792890930871100565">Aftengja prentara</translation>
@@ -1693,7 +1693,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="7063129466199351735">Vinnur úr flýtileiðum...</translation>
 <translation id="8987927404178983737">Mánuður</translation>
 <translation id="6015796118275082299">Ár</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Nota titilrönd og ramma kerfis</translation>
 <translation id="3293644607209440645">Senda þessa síðu</translation>
 <translation id="1521774566618522728">Virkt í dag</translation>
@@ -1747,7 +1747,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="8930351635855238750">Nýjar fótsporastillingar taka gildi þegar síðan hefur verið endurhlaðin</translation>
 <translation id="2568774940984945469">Rammi upplýsingastiku</translation>
 <translation id="7282992757463864530">Upplýsingastika</translation>
-<translation id="1805077115206898822">Bókamerkin þín, ferillinn og aðrar stillingar verða samstilltar við Gab AI Inc reikninginn þinn.</translation>
+<translation id="1805077115206898822">Bókamerkin þín, ferillinn og aðrar stillingar verða samstilltar við Fulldive reikninginn þinn.</translation>
 <translation id="1974060860693918893">Ítarlegt</translation>
 <translation id="2445484935443597917">Búa til nýjan prófíl</translation>
 <translation id="2606246518223360146">Tengja gögn</translation>
@@ -1834,7 +1834,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6387674443318562538">Lóðrétt skipting</translation>
 <translation id="1231733316453485619">Kveikja á samstillingu?</translation>
 <translation id="4736292055110123391">Samstilltu bókamerkin þín, aðgangsorð, feril og fleira í öllum tækjunum þínum</translation>
-<translation id="5736731321935944068">Gab AI Inc notar hugsanlega ferilinn þinn til að sérsníða leitina, auglýsingar og aðra þjónustu Gab AI Inc</translation>
+<translation id="5736731321935944068">Fulldive notar hugsanlega ferilinn þinn til að sérsníða leitina, auglýsingar og aðra þjónustu Fulldive</translation>
 <translation id="4201546031411513170">Þú getur alltaf valið hvað á að samstilla í stillingunum.</translation>
 <translation id="2497852260688568942">Kerfisstjóri hefur gert samstillingu óvirka</translation>
 <translation id="562935524653278697">Kerfisstjóri hefur gert samstillingu bókamerkja, ferla, aðgangsorða og annarra stillinga óvirka.</translation>
@@ -1913,10 +1913,10 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6198102561359457428">Skráðu þig út og svo inn aftur...</translation>
 <translation id="4634771451598206121">Skráðu þig inn aftur...</translation>
 <translation id="7117247127439884114">Skrá inn aftur...</translation>
-<translation id="4251909665067750757">Skráðu þig inn til að sjá bókamerkin þín, ferilinn, aðgangsorðin og aðrar stillingar í öllum tækjunum þínum. Þú skráist einnig sjálfkrafa inn í þá þjónustu Gab AI Inc sem þú notar.</translation>
+<translation id="4251909665067750757">Skráðu þig inn til að sjá bókamerkin þín, ferilinn, aðgangsorðin og aðrar stillingar í öllum tækjunum þínum. Þú skráist einnig sjálfkrafa inn í þá þjónustu Fulldive sem þú notar.</translation>
 <translation id="2749756011735116528">Skráðu þig inn á <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Kerfisstjóri hefur gert samstillingu óvirka.</translation>
-<translation id="5462539695964427820">Samstilling var stöðvuð í gegnum stjórnborð Gab AI Inc.</translation>
+<translation id="5462539695964427820">Samstilling var stöðvuð í gegnum stjórnborð Fulldive.</translation>
 <translation id="8805140816472474147">Staðfestu samstillingarkosti til að hefja samstillingu.</translation>
 <translation id="5771816112378578655">Uppsetning fer fram...</translation>
 <translation id="3492788708641132712">Samstilling virkar ekki. Prófaðu að skrá þig inn aftur.</translation>
@@ -1930,16 +1930,16 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="1877520246462554164">Auðkenningarlykill fékkst ekki. Skráðu þig út og inn aftur til að reyna aftur.</translation>
 <translation id="9100765901046053179">Ítarlegar stillingar</translation>
 <translation id="2731700343119398978">Augnablik...</translation>
-<translation id="7218743184834293955">Gögnin eru dulkóðuð með aðgangsorði samstillingar. Þetta gildir ekki um greiðslumáta og heimilisföng af Gab AI Inc Pay.</translation>
+<translation id="7218743184834293955">Gögnin eru dulkóðuð með aðgangsorði samstillingar. Þetta gildir ekki um greiðslumáta og heimilisföng af Fulldive Pay.</translation>
 <translation id="7158251077901880179">Gögnin voru dulkóðuð með samstillingaraðgangsorðinu þínu
-          <ph name="TIME"/>. Þetta gildir ekki um greiðslumáta og heimilisföng af Gab AI Inc Pay.</translation>
-<translation id="1171389789873508468">Gögnin voru dulkóðuð með aðgangsorði Gab AI Inc
-          <ph name="TIME"/>. Þetta gildir ekki um greiðslumáta og heimilisföng af Gab AI Inc Pay.</translation>
+          <ph name="TIME"/>. Þetta gildir ekki um greiðslumáta og heimilisföng af Fulldive Pay.</translation>
+<translation id="1171389789873508468">Gögnin voru dulkóðuð með aðgangsorði Fulldive
+          <ph name="TIME"/>. Þetta gildir ekki um greiðslumáta og heimilisföng af Fulldive Pay.</translation>
 <translation id="2562743677925229011">Ekki skráð(ur) inn á <ph name="SHORT_PRODUCT_NAME"/></translation>
 <translation id="4027804175521224372">(Þú ert að missa af allskonar – <ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">skrá inn</translation>
 <translation id="237828693408258535">Þýða þessa síðu?</translation>
-<translation id="4613765529964435709">Viltu að Gab AI Inc þýði þessa síðu: <ph name="SOURCE_LANGUAGE"/>-<ph name="TARGET_LANGUAGE"/>?</translation>
+<translation id="4613765529964435709">Viltu að Fulldive þýði þessa síðu: <ph name="SOURCE_LANGUAGE"/>-<ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="5990386583461751448">Þýtt</translation>
 <translation id="5659833766619490117">Ekki var hægt að þýða þessa síðu</translation>
 <translation id="969096075394517431">Breyta tungumálum</translation>
@@ -2118,7 +2118,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6309510305002439352">Slökkt á hljóðnema</translation>
 <translation id="1322046419516468189">Þú getur skoðað og haft umsjón með vistuðum aðgangsorðum á <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Aðgangsorðið var vistað. Þú getur skoðað og haft umsjón með vistuðum aðgangsorðum á <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Gab AI Inc reikningur</translation>
+<translation id="5713644099811900409">Fulldive reikningur</translation>
 <translation id="3785727820640310185">Vistuð aðgangsorð fyrir þetta vefsvæði</translation>
 <translation id="3404065873681873169">Engin aðgangsorð hafa verið vistuð fyrir þetta vefsvæði</translation>
 <translation id="8470513973197838199">Vistuð aðgangsorð fyrir <ph name="ORIGIN"/></translation>
@@ -2231,7 +2231,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{Skjár #}one{Skjár #}other{Skjár #}}</translation>
 <translation id="839736845446313156">Skrá</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{Nýr prentari á netinu}one{Nýir prentarar á netinu}other{Nýir prentarar á netinu}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Bættu prentaranum við Gab AI Inc skýjaprentun til að prenta hvaðan sem er.}one{Bættu # prentara við Gab AI Inc skýjaprentun til að prenta hvaðan sem er.}other{Bættu # prenturum við Gab AI Inc skýjaprentun til að prenta hvaðan sem er.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Bættu prentaranum við Fulldive skýjaprentun til að prenta hvaðan sem er.}one{Bættu # prentara við Fulldive skýjaprentun til að prenta hvaðan sem er.}other{Bættu # prenturum við Fulldive skýjaprentun til að prenta hvaðan sem er.}}</translation>
 <translation id="409579654357498729">Bæta við skýjaprentun</translation>
 <translation id="4628757576491864469">Tæki</translation>
 <translation id="6915804003454593391">Notandi:</translation>
@@ -2241,8 +2241,8 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="1895934970388272448">Þú verður að staðfesta skráningu prentarans til að ljúka þessu ferli – kannaðu þetta núna.</translation>
 <translation id="551752069230578406">Bætir prentara við reikninginn þinn – þetta gæti tekið smástund...</translation>
 <translation id="2384436799579181135">Villa kom upp. Athugaðu prentarann og reyndu aftur.</translation>
-<translation id="1327074568633507428">Prentari í Gab AI Inc skýjaprentun</translation>
-<translation id="6782994146626179935">Tæki í Gab AI Inc skýjatækjum</translation>
+<translation id="1327074568633507428">Prentari í Fulldive skýjaprentun</translation>
+<translation id="6782994146626179935">Tæki í Fulldive skýjatækjum</translation>
 <translation id="7140928199327930795">Engin önnur tiltæk tæki.</translation>
 <translation id="8213577208796878755">Eitt annað tæki í boði.</translation>
 <translation id="1495486559005647033"><ph name="NUM_PRINTERS"/> önnur tiltæk tæki</translation>
@@ -2258,7 +2258,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="715118844758971915">Hefðbundnir prentarar</translation>
 <translation id="4263757076580287579">Hætt var við skráningu prentara.</translation>
 <translation id="8152091997436726702">Prentaraskráning rann út á tíma. Til að skrá prentara þarftu að staðfesta skráninguna í prentaranum.</translation>
-<translation id="2624930408905606513">Skjölin eru <ph name="BEGIN_LINK_HELP"/>send til Gab AI Inc<ph name="END_LINK_HELP"/> til að búa þau undir prentun. Þú getur skoðað, breytt og stjórnað prenturunum þínum og prentaraferlinum á <ph name="BEGIN_LINK_DASHBOARD"/>stjórnborði Gab AI Inc skýjaprentunar<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513">Skjölin eru <ph name="BEGIN_LINK_HELP"/>send til Fulldive<ph name="END_LINK_HELP"/> til að búa þau undir prentun. Þú getur skoðað, breytt og stjórnað prenturunum þínum og prentaraferlinum á <ph name="BEGIN_LINK_DASHBOARD"/>stjórnborði Fulldive skýjaprentunar<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">Þessi flipi er að nota myndavélina eða hljóðnemann.</translation>
 <translation id="3578594933904494462">Verið er að deila efni þessa flipa.</translation>
 <translation id="4449996769074858870">Þessi flipi er að spila hljóð.</translation>
@@ -2384,14 +2384,14 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="7055152154916055070">Lokað á framsendingu:</translation>
 <translation id="6777817260680419853">Lokað á framsendingu</translation>
 <translation id="694592694773692225">Lokað á framsendingu á þessari síðu.</translation>
-<translation id="8945142681652245463">Hraðvirk vefskoðun með Gab AI Inc Fulldive</translation>
-<translation id="2618024864038703735">Örugg vefskoðun með Gab AI Inc Fulldive</translation>
+<translation id="8945142681652245463">Hraðvirk vefskoðun með Fulldive Fulldive</translation>
+<translation id="2618024864038703735">Örugg vefskoðun með Fulldive Fulldive</translation>
 <translation id="8142180567942285208">Betri vefskoðun með Fulldive</translation>
 <translation id="8862003515646449717">Skiptu yfir í hraðvirkari vafra</translation>
 <translation id="8438328416656800239">Skiptu yfir í snjallari vafra</translation>
 <translation id="491691592645955587">Skipta í öruggan vafra</translation>
 <translation id="683373380308365518">Skipta yfir í öruggan og snjallan vafra</translation>
-<translation id="989239400026154074">Gab AI Inc mælir með Fulldive</translation>
+<translation id="989239400026154074">Fulldive mælir með Fulldive</translation>
 <translation id="6676231621615806698">Opna Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> notar staðsetningu þína til að veita þér staðbundið efni. Þú getur breytt þessu í <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Niðurhalið þitt birtist hér</translation>
@@ -2557,7 +2557,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="2878782256107578644">Skönnun er í gangi. Opna núna?</translation>
 <translation id="6098793583803863900">Verið er að skanna óþekkta skrá í leit að hættulegu efni.</translation>
 <translation id="7584578941316704630">Skanna fyrir opnun?</translation>
-<translation id="4467402456678825062">Valin skrá þekkist ekki og gæti verið hættuleg. Viltu senda hana í skönnun Ítarlegrar verndar hjá Gab AI Inc?</translation>
+<translation id="4467402456678825062">Valin skrá þekkist ekki og gæti verið hættuleg. Viltu senda hana í skönnun Ítarlegrar verndar hjá Fulldive?</translation>
 <translation id="2587922766792651800">Rann út á tíma</translation>
 <translation id="4404136731284211429">Leita aftur</translation>
 <translation id="6428450836711225518">Staðfestu símanúmerið þitt</translation>
@@ -2565,7 +2565,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6518133107902771759">Staðfesta</translation>
 <translation id="4379281552162875326">Fjarlægja „<ph name="APP_NAME"/>“?</translation>
 <translation id="8812593354822910461">Hreinsa einnig vefskoðunargögn (<ph name="URL"/>), sem skráir þig út af <ph name="DOMAIN"/>. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Hreinsaðu einnig vefskoðunargögn (<ph name="URL"/>), en það gæti skráð þig út af Gab AI Inc.com. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Hreinsaðu einnig vefskoðunargögn (<ph name="URL"/>), en það gæti skráð þig út af Fulldive.com. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Frekari upplýsingar</translation>
 <translation id="2346953515226895098">SODA Service</translation>
 <translation id="7516981202574715431">Hlé hefur verið gert á <ph name="APP_NAME"/></translation>
@@ -2721,7 +2721,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="4144218403971135344">Fáðu betri myndgæði og sparaðu rafhlöðuna. Myndskeiðið mun aðeins spilast á skjá sem styður Cast.</translation>
 <translation id="236117173274098341">Fínstilla</translation>
 <translation id="8538358978858059843">Viltu virkja skýjaþjónustu fyrir Cast?</translation>
-<translation id="3856595552313160385">Notkun Hangouts og Cast for Education fellur undir persónuverndarstefnu Gab AI Inc.</translation>
+<translation id="3856595552313160385">Notkun Hangouts og Cast for Education fellur undir persónuverndarstefnu Fulldive.</translation>
 <translation id="3435896845095436175">Kveikja</translation>
 <translation id="3700888195348409686">Kynnir (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Skjár <ph name="DISPLAY_ID"/></translation>
@@ -2959,9 +2959,9 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, +1 reikningur í viðbót}one{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> reikningur í viðbót}other{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> reikningar í viðbót}}</translation>
 <translation id="7434635829372401939">Samstilla stillingar</translation>
 <translation id="1036348656032585052">Slökkva</translation>
-<translation id="3267705913905916810">Forritin þín og stillingarnar verða samstillt í öllum Fulldive OS tækjum sem þú skráðir þig inn á með Gab AI Inc reikningnum þínum. Valkostir fyrir samstillingu vafra má finna í <ph name="LINK_BEGIN"/>Stillingar Fulldive<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Forritin þín og stillingarnar verða samstillt í öllum Fulldive OS tækjum sem þú skráðir þig inn á með Fulldive reikningnum þínum. Valkostir fyrir samstillingu vafra má finna í <ph name="LINK_BEGIN"/>Stillingar Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Prentarar</translation>
-<translation id="8418661265246754237">Gab AI Inc reikningar</translation>
+<translation id="8418661265246754237">Fulldive reikningar</translation>
 <translation id="3953834000574892725">Reikningarnir mínir</translation>
 <translation id="6011193465932186973">Fingrafar</translation>
 <translation id="3707212204259470604">Stjórna öðrum notendum</translation>
@@ -3003,16 +3003,16 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="5916664084637901428">Kveikt</translation>
 <translation id="5860033963881614850">Slökkt</translation>
 <translation id="5515923816438946203">Veldu hvað þú sérð á skjánum</translation>
-<translation id="2187700606737131818">Gab AI Inc myndir</translation>
+<translation id="2187700606737131818">Fulldive myndir</translation>
 <translation id="1827738518074806965">Listasafn</translation>
 <translation id="9137157311132182254">Valin leitarvél</translation>
 <translation id="7423118389528876103">Notað af Fulldive vafranum og ræsiforriti <ph name="DEVICE_TYPE"/></translation>
-<translation id="2862205630718215619">Gab AI Inc hjálpari</translation>
+<translation id="2862205630718215619">Fulldive hjálpari</translation>
 <translation id="8959699239363253085">Kveikt</translation>
 <translation id="971479617738309149">Slökkt</translation>
 <translation id="7807067443225230855">Leit og aðstoðarmaður</translation>
 <translation id="1293556467332435079">Skrár</translation>
-<translation id="6474884162850599008">Aftengja Gab AI Inc Drive reikning</translation>
+<translation id="6474884162850599008">Aftengja Fulldive Drive reikning</translation>
 <translation id="3653160965917900914">Samnýttar skráageymslur</translation>
 <translation id="4906490889887219338">Setja upp eða hafa umsjón með samnýttum skráageymslum. <ph name="LINK_BEGIN"/>Frekari upplýsingar<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Bæta samnýttri skráageymslu við</translation>
@@ -3063,7 +3063,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="5511379779384092781">Mjög lág</translation>
 <translation id="2765217105034171413">Lítið</translation>
 <translation id="7409549334477097887">Mjög há</translation>
-<translation id="1800308196794859773">Sendu rödd þína til Gab AI Inc til að bjóða upp á upplestur fyrir hvaða textareit sem er.</translation>
+<translation id="1800308196794859773">Sendu rödd þína til Fulldive til að bjóða upp á upplestur fyrir hvaða textareit sem er.</translation>
 <translation id="8758418656925882523">Kveikja á upplestri (talskrifum)</translation>
 <translation id="1330145147221172764">Kveikja á skjályklaborði</translation>
 <translation id="7580671184200851182">Spila sama hljóð í öllum hátölurum (mono)</translation>
@@ -3126,7 +3126,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6902066522699286937">Rödd til að nota sem sýnishorn</translation>
 <translation id="304747341537320566">Talgervlar</translation>
 <translation id="2755367719610958252">Stjórna aðgengiseiginleikum</translation>
-<translation id="1203953622051744249">Stjórnaðu innskráðum reikningum þínum. Vefsvæði, forrit og viðbætur í Fulldive og Gab AI Inc Play geta notað þessa reikninga til að sérsníða upplifun þína, eftir því hvaða heimildir eru veittar. <ph name="LINK_BEGIN"/>Frekari upplýsingar<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Stjórnaðu innskráðum reikningum þínum. Vefsvæði, forrit og viðbætur í Fulldive og Fulldive Play geta notað þessa reikninga til að sérsníða upplifun þína, eftir því hvaða heimildir eru veittar. <ph name="LINK_BEGIN"/>Frekari upplýsingar<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Bættu við skólareikningi eða stjórnaðu reikningum barns hér. <ph name="LINK_BEGIN"/>Frekari upplýsingar<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Reikningar</translation>
 <translation id="6597148444736186483">Smelltu á tímann á skjánum til að skrá þig út af aðalreikningi þessa tækis. Á valmyndinni sem birtist smellirðu á „Skrá út“.</translation>
@@ -3135,8 +3135,8 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="2923234477033317484">Fjarlægja þennan reikning</translation>
 <translation id="7665369617277396874">Bæta við reikningi</translation>
 <translation id="8428271547607112339">Bæta við skólareikningi</translation>
-<translation id="4920274951865016604">Kerfisstjóri hefur lokað fyrir að bæta við fleiri Gab AI Inc reikningum</translation>
-<translation id="8845742957886589229">Möguleikinn á að bæta við fleiri Gab AI Inc reikningum er óvirkur</translation>
+<translation id="4920274951865016604">Kerfisstjóri hefur lokað fyrir að bæta við fleiri Fulldive reikningum</translation>
+<translation id="8845742957886589229">Möguleikinn á að bæta við fleiri Fulldive reikningum er óvirkur</translation>
 <translation id="5021750053540820849">Ekki uppfært enn</translation>
 <translation id="3448492834076427715">Uppfæra reikning</translation>
 <translation id="2458379781610688953">Uppfæra reikning, <ph name="EMAIL"/></translation>
@@ -3171,7 +3171,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="3661172646479098821">Aðeins Android tæki eru studd eins og er.</translation>
 <translation id="3201422919974259695">USB-tæki í boði birtast hér.</translation>
 <translation id="2629227353894235473">Þróa Android forrit</translation>
-<translation id="1669729672557072907">Kveiktu á villuleitarbrú Android (ADB) til að búa til og prófa forritin þín. Hafðu í huga að þessi aðgerð gerir þér kleift að setja upp Android forrit sem eru ekki staðfest af Gab AI Inc. Núllstilla þarf tækið til að slökkva á þessu.</translation>
+<translation id="1669729672557072907">Kveiktu á villuleitarbrú Android (ADB) til að búa til og prófa forritin þín. Hafðu í huga að þessi aðgerð gerir þér kleift að setja upp Android forrit sem eru ekki staðfest af Fulldive. Núllstilla þarf tækið til að slökkva á þessu.</translation>
 <translation id="4638930039313743000">Kveikja á ADB-villuleit</translation>
 <translation id="1630768113285622200">Endurræsa og halda áfram</translation>
 <translation id="1005333234656240382">Kveikja á ADB-villuleit?</translation>
@@ -3208,9 +3208,9 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="1870629042957780127">Veita aðgang að hljóðnema</translation>
 <translation id="1392232653471491344">Endurræsa þarf Linux</translation>
 <translation id="1064552680598333868">Breytingar á hljóðnema taka gildi næst þegar Linux er endurræst.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play Store</translation>
+<translation id="2714393097308983682">Fulldive Play Store</translation>
 <translation id="2966937470348689686">Hafa umsjón með stillingum Android</translation>
-<translation id="6398715114293939307">Fjarlægja Gab AI Inc Play Store</translation>
+<translation id="6398715114293939307">Fjarlægja Fulldive Play Store</translation>
 <translation id="2792290659606763004">Fjarlægja Android forrit?</translation>
 <translation id="492299503953721473">Fjarlægja Android forrit</translation>
 <translation id="7566118625369982896">Umsjón með forritatenglum í Play</translation>
@@ -3218,7 +3218,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="5862109781435984885">Sýna pennaverkfæri á hillu</translation>
 <translation id="4673442866648850031">Opna pennaverkfæri þegar penni er fjarlægður</translation>
 <translation id="4244238649050961491">Finna fleiri pennaforrit</translation>
-<translation id="668599234725812620">Opna Gab AI Inc Play</translation>
+<translation id="668599234725812620">Opna Fulldive Play</translation>
 <translation id="9116799625073598554">Glósuforrit</translation>
 <translation id="203574396658008164">Virkja glósur af lásskjá</translation>
 <translation id="6238923052227198598">Halda nýjustu glósu á lásskjánum</translation>
@@ -3364,7 +3364,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> – <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Virkjun á farsímagögnum</translation>
 <translation id="7378812711085314936">Koma á gagnatengingu</translation>
-<translation id="3483333858382889684">Leyfa þessu tæki að finna önnur tæki með Gab AI Inc reikningnum þínum sem eru með farsímagagnatengingu</translation>
+<translation id="3483333858382889684">Leyfa þessu tæki að finna önnur tæki með Fulldive reikningnum þínum sem eru með farsímagagnatengingu</translation>
 <translation id="1572266655485775982">Wi-Fi virkjun</translation>
 <translation id="7078120482318506217">Öll netkerfi</translation>
 <translation id="1235458158152011030">Þekkt netkerfi</translation>
@@ -3396,13 +3396,13 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="4421167684395067330">Vandræði með að tengjast. Hafðu samband við <ph name="CARRIER_NAME"/> til að fá aðstoð.</translation>
 <translation id="7780252971640011240">Vandræði með að tengjast. Hafðu samband við símafyrirtækið þitt til að fá aðstoð.</translation>
 <translation id="161460670679785907">Síminn fannst ekki</translation>
-<translation id="778480864305029524">Til að nota skynditjóðrun þarftu að kveikja á tilkynningum fyrir þjónustu Gab AI Inc Play.</translation>
+<translation id="778480864305029524">Til að nota skynditjóðrun þarftu að kveikja á tilkynningum fyrir þjónustu Fulldive Play.</translation>
 <translation id="7696063401938172191">Í „<ph name="PHONE_NAME"/>“:</translation>
 <translation id="3423463006624419153">Í „<ph name="PHONE_NAME_1"/>“ og „<ph name="PHONE_NAME_2"/>“:</translation>
 <translation id="6997707937646349884">Í tækjunum þínum:</translation>
 <translation id="7531779363494549572">Farðu í Stillingar &gt; Forrit og tilkynningar &gt; Tilkynningar.</translation>
-<translation id="1819721979226826163">Ýttu á Forritatilkynningar &gt; Þjónusta Gab AI Inc Play.</translation>
-<translation id="968000525894980488">Kveiktu á þjónustu Gab AI Inc Play.</translation>
+<translation id="1819721979226826163">Ýttu á Forritatilkynningar &gt; Þjónusta Fulldive Play.</translation>
+<translation id="968000525894980488">Kveiktu á þjónustu Fulldive Play.</translation>
 <translation id="2705736684557713153">Flettu alla leið niður og kveiktu á Skynditjóðrun ef sá möguleiki er í boði. Ef svo er ekki er allt til reiðu.</translation>
 <translation id="7240339475467890413">Tengjast nýjum heitum reit?</translation>
 <translation id="6514010653036109809">Tiltækt tæki:</translation>
@@ -3517,9 +3517,9 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6555432686520421228">Fjarlæga alla notendareikninga og núllstilla <ph name="IDS_SHORT_PRODUCT_NAME"/> tækið þannig að það verði eins og þegar það var nýtt.</translation>
 <translation id="5470735824776589490">Endurræsa þarf tækið áður er hægt er að endurstilla það með djúphreinsun. <ph name="LINK_BEGIN"/>Frekari upplýsingar<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Hnappur til að endurstilla</translation>
-<translation id="472896694312062378">„Ok Gab AI Inc“</translation>
-<translation id="2339135612812615870">Opnaðu hjálparann með því að segja „Ok Gab AI Inc“.</translation>
-<translation id="3735919318855093557">Opnaðu hjálparann með því að segja „Ok Gab AI Inc“. Veldu „Kveikt (mælt með)“ til að spara rafhlöðuna. Hjálparinn svarar aðeins þegar tækið er í sambandi eða í hleðslu.</translation>
+<translation id="472896694312062378">„Ok Fulldive“</translation>
+<translation id="2339135612812615870">Opnaðu hjálparann með því að segja „Ok Fulldive“.</translation>
+<translation id="3735919318855093557">Opnaðu hjálparann með því að segja „Ok Fulldive“. Veldu „Kveikt (mælt með)“ til að spara rafhlöðuna. Hjálparinn svarar aðeins þegar tækið er í sambandi eða í hleðslu.</translation>
 <translation id="5825412242012995131">Kveikt (mælt með)</translation>
 <translation id="5067399438976153555">Alltaf á</translation>
 <translation id="6175644081330715138">Slökkt</translation>
@@ -3528,7 +3528,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="5355099869024327351">Heimila hjálparanum að sýna þér tilkynningar</translation>
 <translation id="133535873114485416">Inntak sem skal nota</translation>
 <translation id="6233154960150021497">Nota rödd í stað lyklaborðs að sjálfgefnu</translation>
-<translation id="3908743412684152579">Stillingar Gab AI Inc hjálparans</translation>
+<translation id="3908743412684152579">Stillingar Fulldive hjálparans</translation>
 <translation id="1048286738600630630">Skjáir</translation>
 <translation id="4184885522552335684">Dragðu til að færa skjá</translation>
 <translation id="4964455510556214366">Fyrirkomulag</translation>
@@ -3582,7 +3582,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6856623341093082836">Settu upp og breyttu nákvæmni snertiskjásins</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Taka aðeins tæki úr lás</translation>
-<translation id="3300552672525741457">Opnaðu tækið og skráðu þig inn á Gab AI Inc reikning</translation>
+<translation id="3300552672525741457">Opnaðu tækið og skráðu þig inn á Fulldive reikning</translation>
 <translation id="4562155214028662640">Bæta fingrafari við</translation>
 <translation id="4068776064906523561">Vistuð fingraför</translation>
 <translation id="1719312230114180055">Athugaðu: Fingrafar kann að vera ótraustari aðferð en sterkt aðgangsorð eða PIN-númer.</translation>
@@ -3647,7 +3647,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6547354035488017500">Losaðu um a.m.k. 512 MB af plássi, annars mun tækið þitt hætta að svara. Eyddu skrám úr geymslu tækisins til að losa um pláss.</translation>
 <translation id="6097480669505687979">Ef þú losar ekki um pláss verður notendum og gögnum sjálfkrafa eytt.</translation>
 <translation id="4470957202018033307">Kjörstillingar ytri geymslu</translation>
-<translation id="1900305421498694955">Forrit frá Gab AI Inc Play kunna að gera kröfu um fullan aðgang að skráakerfinu til að geta lesið og skrifað skrár á lausum geymslumiðlum. Allir sem nota lausa drifið geta séð skrár og möppur sem búnar eru til í þessu tæki. <ph name="LINK_BEGIN"/>Frekari upplýsingar<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Forrit frá Fulldive Play kunna að gera kröfu um fullan aðgang að skráakerfinu til að geta lesið og skrifað skrár á lausum geymslumiðlum. Allir sem nota lausa drifið geta séð skrár og möppur sem búnar eru til í þessu tæki. <ph name="LINK_BEGIN"/>Frekari upplýsingar<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">Tiltæk tæki birtast hér.</translation>
 <translation id="1041263367839475438">Tæki í boði</translation>
 <translation id="7479221278376295180">Yfirlit yfir notkun geymslurýmis</translation>
@@ -3671,12 +3671,12 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="5840822070878669614">Opna vefverslun Fulldive</translation>
 <translation id="6073903501322152803">Bæta við aðgengiseiginleikum</translation>
 <translation id="7988355189918024273">Virkja aðgengiseiginleika</translation>
-<translation id="5499063270485366718">Ef gagnlega lýsingu vantar við mynd reynir Fulldive að útvega þér lýsingu. Til að búa til lýsingar eru myndir sendar til Gab AI Inc.</translation>
+<translation id="5499063270485366718">Ef gagnlega lýsingu vantar við mynd reynir Fulldive að útvega þér lýsingu. Til að búa til lýsingar eru myndir sendar til Fulldive.</translation>
 <translation id="8957762313041272117">Skjátextar í rauntíma</translation>
 <translation id="7075426315046750605">Skjátextar í rauntíma bera kennsl á tal í efni og búa sjálfkrafa til skjátexta fyrir allt efni sem er spilað í Fulldive.</translation>
 <translation id="572155275267014074">Android stillingar</translation>
-<translation id="7201042526153088083">Settu upp forrit og leiki af Gab AI Inc Play í <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Frekari upplýsingar&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Forritum sem þú hefur sótt með Gab AI Inc Play verður eytt úr þessari Fulldivebook tölvu.
+<translation id="7201042526153088083">Settu upp forrit og leiki af Fulldive Play í <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Frekari upplýsingar&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Forritum sem þú hefur sótt með Fulldive Play verður eytt úr þessari Fulldivebook tölvu.
       <ph name="LINE_BREAKS1"/>
       Efni sem þú hefur keypt eins og kvikmyndum, sjónvarpsþáttum, tónlist, bókum eða öðrum innkaupum í forritum verður einnig eytt.
       <ph name="LINE_BREAKS2"/>
@@ -3702,7 +3702,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="1670399744444387456">Grunnatriði</translation>
 <translation id="1763808908432309942">Opnast í nýjum flipa</translation>
 <translation id="6248988683584659830">Leitarstillingar</translation>
-<translation id="883304095704384301">Opnaðu <ph name="BEGIN_LINK_CHROMIUM"/>aðstoð Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/> ef þú finnur ekki það sem þú leitar að.</translation>
+<translation id="883304095704384301">Opnaðu <ph name="BEGIN_LINK_CHROMIUM"/>aðstoð Fulldive Fulldive<ph name="END_LINK_CHROMIUM"/> ef þú finnur ekki það sem þú leitar að.</translation>
 <translation id="6406708970972405507">Stillingar – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Hnappur fyrir undirsíðu</translation>
 <translation id="379509625511193653">Slökkt</translation>
@@ -3723,10 +3723,10 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="451515744433878153">Fjarlægja</translation>
 <translation id="5029568752722684782">Hreinsa eintak</translation>
 <translation id="2154484045852737596">Breyta korti</translation>
-<translation id="3032188998195902534">Til að bæta við eða hafa umsjón með greiðslumátum í Gab AI Inc Pay skaltu fara á <ph name="BEGIN_LINK"/>Gab AI Inc reikninginn<ph name="END_LINK"/> þinn</translation>
+<translation id="3032188998195902534">Til að bæta við eða hafa umsjón með greiðslumátum í Fulldive Pay skaltu fara á <ph name="BEGIN_LINK"/>Fulldive reikninginn<ph name="END_LINK"/> þinn</translation>
 <translation id="8853586775156634952">Þetta kort verður aðeins vistað í þessu tæki</translation>
 <translation id="5087580092889165836">Bæta við korti</translation>
-<translation id="4835914736509775287">Vista kort á Gab AI Inc reikningnum þínum</translation>
+<translation id="4835914736509775287">Vista kort á Fulldive reikningnum þínum</translation>
 <translation id="7255002516883565667">Eins og er ertu með eitt kort sem aðeins er hægt að nota í þessu tæki</translation>
 <translation id="6848388270925200958">Eins og er ertu með einhver kort sem aðeins er hægt að nota í þessu tæki</translation>
 <translation id="4807098396393229769">Nafn á korti</translation>
@@ -3740,9 +3740,9 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="8731851055419582926">Athugun aðgangsorða</translation>
 <translation id="4248098802131000011">Tryggðu öryggi aðgangsorðanna gagnvart öryggisbrotum og öðrum öryggisvandamálum</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> getur ekki athugað aðgangsorðin þín. Athugaðu nettenginguna þína.</translation>
-<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> getur athugað aðgangsorðin þín þegar þú skráir þig inn með Gab AI Inc reikningnum þínum</translation>
+<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> getur athugað aðgangsorðin þín þegar þú skráir þig inn með Fulldive reikningnum þínum</translation>
 <translation id="4478777936860197922">Engin vistuð aðgangsorð. <ph name="IDS_SHORT_PRODUCT_NAME"/> getur athugað aðgangsorðin þín þegar þú vistar þau.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> getur ekki athugað aðgangsorðin þín. Reyndu aftur eftir sólarhring eða <ph name="BEGIN_LINK"/>athugaðu aðgangsorðin á Gab AI Inc reikningnum þínum<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> getur ekki athugað aðgangsorðin þín. Reyndu aftur eftir sólarhring eða <ph name="BEGIN_LINK"/>athugaðu aðgangsorðin á Fulldive reikningnum þínum<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> getur ekki athugað aðgangsorðin þín. Reyndu aftur eftir sólarhring.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> getur ekki athugað aðgangsorðin þín. Reyndu aftur síðar.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Engin aðgangsorð í hættu fundust}=1{{COUNT} aðgangsorð í hættu}one{{COUNT} aðgangsorð í hættu}other{{COUNT} aðgangsorð í hættu}}</translation>
@@ -3768,7 +3768,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="2100273922101894616">Sjálfvirk innskráning</translation>
 <translation id="7513029293694390567">Skrá þig sjálfkrafa inn á vefsvæði með vistuðum skilríkjum. Ef slökkt er á þessu biðjum við þig um staðfestingu í hvert sinn sem þú skráir þig inn á vefsvæði.</translation>
 <translation id="6995899638241819463">Láta vita ef aðgangsorðin þín eru afhjúpuð vegna öryggisbrots</translation>
-<translation id="1534287762301776620">Kveikt er á þessum eiginleika þegar þú skráir þig inn á Gab AI Inc reikninginn þinn</translation>
+<translation id="1534287762301776620">Kveikt er á þessum eiginleika þegar þú skráir þig inn á Fulldive reikninginn þinn</translation>
 <translation id="1375321115329958930">Vistuð aðgangsorð</translation>
 <translation id="152234381334907219">Aldrei vistað</translation>
 <translation id="5137501176474113045">Eyða þessu atriði</translation>
@@ -3782,7 +3782,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="7930294771522048157">Vistaðir greiðslumátar birtast hér</translation>
 <translation id="9124003689441359348">Vistuð aðgangsorð birtast hér</translation>
 <translation id="4400367121200150367">Vefsvæði sem aldrei vista aðgangsorð munu birtast hér</translation>
-<translation id="3098842761938485917">Þú getur skoðað og haft umsjón með vistuðum aðgangsorðum á <ph name="BEGIN_LINK"/>Gab AI Inc reikningnum<ph name="END_LINK"/> þínum</translation>
+<translation id="3098842761938485917">Þú getur skoðað og haft umsjón með vistuðum aðgangsorðum á <ph name="BEGIN_LINK"/>Fulldive reikningnum<ph name="END_LINK"/> þínum</translation>
 <translation id="5620655347161642930">Flytja út aðgangsorð...</translation>
 <translation id="3900966090527141178">Flytja út aðgangsorð</translation>
 <translation id="6914783257214138813">Aðgangsorðin þín verða sýnileg öllum sem geta séð útfluttu skrána.</translation>
@@ -3849,15 +3849,15 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="3380365263193509176">Óþekkt villa</translation>
 <translation id="368789413795732264">Villa kom upp við að reyna að skrifa skrána: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Tímabil</translation>
-<translation id="3958004920128806270">Til að hreinsa vafragögn aðeins úr þessu tæki en halda þeim á Gab AI Inc reikningnum þínum skaltu <ph name="BEGIN_LINK"/>skrá þig út<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">Til að hreinsa vafragögn úr öllum samstilltum tækjum og af Gab AI Inc reikningnum þínum skaltu <ph name="BEGIN_LINK"/>skoða samstillingarkosti<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">Til að hreinsa vafragögn úr öllum samstilltum tækjum og af Gab AI Inc reikningnum þínum skaltu <ph name="BEGIN_LINK"/>slá inn aðgangsorðið þitt<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">Til að hreinsa vafragögn úr öllum samstilltum tækjum og af Gab AI Inc reikningnum þínum skaltu <ph name="BEGIN_LINK"/>skrá þig inn<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">Til að hreinsa vafragögn aðeins úr þessu tæki en halda þeim á Fulldive reikningnum þínum skaltu <ph name="BEGIN_LINK"/>skrá þig út<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">Til að hreinsa vafragögn úr öllum samstilltum tækjum og af Fulldive reikningnum þínum skaltu <ph name="BEGIN_LINK"/>skoða samstillingarkosti<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">Til að hreinsa vafragögn úr öllum samstilltum tækjum og af Fulldive reikningnum þínum skaltu <ph name="BEGIN_LINK"/>slá inn aðgangsorðið þitt<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">Til að hreinsa vafragögn úr öllum samstilltum tækjum og af Fulldive reikningnum þínum skaltu <ph name="BEGIN_LINK"/>skrá þig inn<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Skráir þig út af flestum vefsvæðum.</translation>
-<translation id="4650925988509114690">Skráir þig út af flestum vefsvæðum. Þú verður áfram skráð(ur) inn á Gab AI Inc reikninginn þinn svo hægt sé að hreinsa samstillt gögn.</translation>
+<translation id="4650925988509114690">Skráir þig út af flestum vefsvæðum. Þú verður áfram skráð(ur) inn á Fulldive reikninginn þinn svo hægt sé að hreinsa samstillt gögn.</translation>
 <translation id="2017836877785168846">Hreinsar ferilinn og sjálfvirka útfyllingu í veffangastiku.</translation>
-<translation id="8096327394278038498">Hreinsar ferilinn og sjálfvirka útfyllingu í veffangastikunni. Gab AI Inc reikningurinn þinn kann að vera með annars konar vefskoðunarferil á <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Hreinsar ferilinn úr öllum innskráðum tækjum. Gab AI Inc reikningurinn þinn kann að vera með annars konar vefskoðunarferil á <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Hreinsar ferilinn og sjálfvirka útfyllingu í veffangastikunni. Fulldive reikningurinn þinn kann að vera með annars konar vefskoðunarferil á <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Hreinsar ferilinn úr öllum innskráðum tækjum. Fulldive reikningurinn þinn kann að vera með annars konar vefskoðunarferil á <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">Niðurhalsferill</translation>
 <translation id="4699172675775169585">Myndir og skrár í skyndiminni</translation>
 <translation id="1274997165432133392">Fótspor og önnur gögn vefsvæðis</translation>
@@ -3872,7 +3872,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="1043818413152647937">Viltu líka hreinsa gögn úr þessum forritum?</translation>
 <translation id="3399432415385675819">Tilkynningar verða gerðar óvirkar</translation>
 <translation id="3459509316159669723">Prentun</translation>
-<translation id="7063957500469387217">Setja upp eða hafa umsjón með prenturum í Gab AI Inc skýjaprentun.</translation>
+<translation id="7063957500469387217">Setja upp eða hafa umsjón með prenturum í Fulldive skýjaprentun.</translation>
 <translation id="8185331656081929126">Sýna tilkynningar þegar nýir prentarar finnast á netinu</translation>
 <translation id="6451180435462401570">Hafa umsjón með tækjum skýjaprentunar</translation>
 <translation id="4733793249294335256">Staðsetning</translation>
@@ -3894,7 +3894,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="5425722269016440406">Þú verður að vera á netinu til að slökkva á Smart Lock því að þessi stilling er samstillt við símann og önnur tæki. Tengstu netinu fyrst.</translation>
 <translation id="8885197664446363138">Smart Lock er ekki í boði</translation>
 <translation id="7334190995941642545">Smart Lock er ekki í boði í augnablikinu. Reyndu aftur síðar.</translation>
-<translation id="8112427115751454716">Nota Smart Lock til innskráningar á Gab AI Inc reikninginn þinn</translation>
+<translation id="8112427115751454716">Nota Smart Lock til innskráningar á Fulldive reikninginn þinn</translation>
 <translation id="2043818754674261542">Fjarlægð sem þarf til að síminn taki þetta <ph name="DEVICE_TYPE"/> tæki úr lás</translation>
 <translation id="2522791476825452208">Mjög nálægt</translation>
 <translation id="649454645705377674">Loka</translation>
@@ -3915,7 +3915,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="1726100011689679555">Nafnaþjónar</translation>
 <translation id="1209796539517632982">Sjálfvirkir nafnaþjónar</translation>
 <translation id="4462159676511157176">Þjónar með sérsniðnu heiti</translation>
-<translation id="1981884748698699991">Nafnaþjónar Gab AI Inc</translation>
+<translation id="1981884748698699991">Nafnaþjónar Fulldive</translation>
 <translation id="6317608858038767920">Sérstilltur nafnaþjónn <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">Vefslóð fyrir sjálfvirka uppgötvun staðgengilsþjóna</translation>
 <translation id="3817579325494460411">Ekki gefið upp</translation>
@@ -4073,7 +4073,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="3182749001423093222">Villuleit</translation>
 <translation id="5423829801105537712">Innbyggð ritvilluleit</translation>
 <translation id="2564653188463346023">Endurbætt villuleit</translation>
-<translation id="8944680893327873975">Notar sömu ritvilluleit og Gab AI Inc leitin. Textinn sem þú skrifar í vafranum er sendur til Gab AI Inc.</translation>
+<translation id="8944680893327873975">Notar sömu ritvilluleit og Fulldive leitin. Textinn sem þú skrifar í vafranum er sendur til Fulldive.</translation>
 <translation id="5051836348807686060">Villuleit er ekki studd á þeim tungumálum sem þú valdir</translation>
 <translation id="7335974957018254119">Nota ritvilluleit fyrir</translation>
 <translation id="2469375675106140201">Sérsníða ritvilluleit</translation>
@@ -4086,7 +4086,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="4200689466366162458">Sérsniðin orð</translation>
 <translation id="7833720883933317473">Vistuð sérsniðin orð munu birtast hér</translation>
 <translation id="8509646642152301857">Mistókst að sækja orðabók fyrir ritvilluleit.</translation>
-<translation id="8842834450537919370">Hafðu samband við kerfisstjórann til að ganga úr skugga um að eldveggur hindri ekki niðurhal frá þjónum Gab AI Inc.</translation>
+<translation id="8842834450537919370">Hafðu samband við kerfisstjórann til að ganga úr skugga um að eldveggur hindri ekki niðurhal frá þjónum Fulldive.</translation>
 <translation id="9042893549633094279">Persónuvernd og öryggi</translation>
 <translation id="5548606607480005320">Öryggisathugun</translation>
 <translation id="5876576639916258720">Í gangi...</translation>
@@ -4122,24 +4122,24 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="2468205691404969808">Notar fótspor til að muna kjörstillingar þínar, jafnvel þótt þú heimsækir ekki þessar síður</translation>
 <translation id="3633309367764744750">Forhleður upplýsingar af síðum, þ.m.t. síðum sem þú hefur ekki heimsótt. Upplýsingarnar sem eru sóttar geta innihaldið fótspor, ef þú leyfir fótspor.</translation>
 <translation id="3201899458094819285">Örugg vefnotkun (verndar þig og tækið þitt fyrir hættulegum vefsvæðum)</translation>
-<translation id="2876369937070532032">Sendir vefslóð sumra síðna sem þú skoðar til Gab AI Inc, þegar öryggi þitt er í hættu</translation>
+<translation id="2876369937070532032">Sendir vefslóð sumra síðna sem þú skoðar til Fulldive, þegar öryggi þitt er í hættu</translation>
 <translation id="4991384657077828949">Hjálpaðu til við að bæta öryggi Fulldive</translation>
-<translation id="1984646864943401749">Sendir vefslóðir sumra vefsíðna sem þú skoðar, takmarkaðar kerfisupplýsingar og tiltekið innihald síðna til Gab AI Inc til að hjálpa til við að finna og loka á nýjar ógnir og vernda alla vefnotendur.</translation>
+<translation id="1984646864943401749">Sendir vefslóðir sumra vefsíðna sem þú skoðar, takmarkaðar kerfisupplýsingar og tiltekið innihald síðna til Fulldive til að hjálpa til við að finna og loka á nýjar ógnir og vernda alla vefnotendur.</translation>
 <translation id="1641113438599504367">Örugg vefnotkun</translation>
 <translation id="6900532703269623216">Aukin vörn</translation>
-<translation id="7307583170263691471">Hraðari forvirk vörn gegn hættulegum vefsvæðum, niðurhali og viðbótum. Varar þig við berskjölduðum aðgangsorðum. Krefst þess að vefskoðunargögn verði send til Gab AI Inc.</translation>
+<translation id="7307583170263691471">Hraðari forvirk vörn gegn hættulegum vefsvæðum, niðurhali og viðbótum. Varar þig við berskjölduðum aðgangsorðum. Krefst þess að vefskoðunargögn verði send til Fulldive.</translation>
 <translation id="8645920082661222035">Spáir fyrir um og varar þig við hættulegum atvikum áður en þau eiga sér stað</translation>
-<translation id="5265419033369521352">Tryggir öryggi þitt í Fulldive og kann að vera notað til að auka öryggi þitt í öðrum Gab AI Inc forritum þegar þú ert skráð(ur) inn</translation>
+<translation id="5265419033369521352">Tryggir öryggi þitt í Fulldive og kann að vera notað til að auka öryggi þitt í öðrum Fulldive forritum þegar þú ert skráð(ur) inn</translation>
 <translation id="6770602306803890733">Eykur öryggi þitt og allra á vefnum</translation>
 <translation id="3690369331356918524">Lætur þig vita ef aðgangsorð eru afhjúpuð vegna öryggisbrots</translation>
-<translation id="4979281249641199724">Sendir vefslóðir til athugunar í Öruggri vefskoðun. Sendir einnig lítið brot af síðum, niðurhali, virkni viðbóta og kerfisupplýsingar til að auðvelda leit að nýjum ógnum. Tengir þessi gögn tímabundið við Gab AI Inc reikninginn þinn þegar þú ert skráð(ur) inn til að auka öryggi þitt í Gab AI Inc forritum.</translation>
+<translation id="4979281249641199724">Sendir vefslóðir til athugunar í Öruggri vefskoðun. Sendir einnig lítið brot af síðum, niðurhali, virkni viðbóta og kerfisupplýsingar til að auðvelda leit að nýjum ógnum. Tengir þessi gögn tímabundið við Fulldive reikninginn þinn þegar þú ert skráð(ur) inn til að auka öryggi þitt í Fulldive forritum.</translation>
 <translation id="1963976881984600709">Hefðbundin vörn</translation>
 <translation id="6882836635272038266">Hefðbundin vörn gegn vefsvæðum, niðurhali og viðbótum sem vitað er að eru hættuleg.</translation>
 <translation id="5561162485081632007">Greinir hættuleg atvik og varar þig við þeim þegar þau eiga sér stað</translation>
 <translation id="7810992039564280750">Ber vefslóðir saman við lista yfir óörugg vefsvæði sem er vistaður í Fulldive. Ef vefsvæði reynir að stela aðgangsorðinu þínu, eða ef þú sækir skaðlega skrá, gæti Fulldive einnig sent vefslóðir í Örugga vefskoðun, þar á meðal hluta af innihaldi síðna.</translation>
 <translation id="3847319713229060696">Hjálpaðu til við að auka öryggi allra á vefnum</translation>
 <translation id="1984417487208496350">Engin vörn (ekki mælt með)</translation>
-<translation id="1295971429974142731">Ver þig ekki gegn hættulegum vefsvæðum, niðurhali eða viðbótum. Þú munt áfram geta notað örugga vefskoðun, þar sem hún er í boði, í annarri þjónustu Gab AI Inc á borð við Gmail og leit.</translation>
+<translation id="1295971429974142731">Ver þig ekki gegn hættulegum vefsvæðum, niðurhali eða viðbótum. Þú munt áfram geta notað örugga vefskoðun, þar sem hún er í boði, í annarri þjónustu Fulldive á borð við Gmail og leit.</translation>
 <translation id="6122831415929794347">Viltu slökkva á öruggri vefnotkun?</translation>
 <translation id="6410390304316730527">Örugg vefnotkun verndar þig fyrir tölvuþrjótum sem gætu platað þig til að gera eitthvað hættulegt eins og að setja upp skaðlegan hugbúnað eða gefa upp persónuupplýsingar á borð við aðgangsorð, símanúmer eða kreditkortaupplýsingar. Ef þú slekkur á henni skaltu fara varlega þegar þú skoðar ókunnug eða óáreiðanleg vefsvæði.</translation>
 <translation id="8791534160414513928">Senda beiðnina „Ekki rekja“ með vefumferð</translation>
@@ -4151,8 +4151,8 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="1995916364271252349">Stjórnar því hvaða upplýsingar vefsvæði geta notað og sýnt (staðsetning, myndavél, sprettigluggar og fleira)</translation>
 <translation id="3320630259304269485">Örugg vefskoðun (vörn gegn hættulegum vefsvæðum) og aðrar öryggisstillingar</translation>
 <translation id="7536333565791380193">Ítarlegt öryggi</translation>
-<translation id="8525226238722561998">Áætlun Gab AI Inc um ítarlega vernd</translation>
-<translation id="1229550669565092839">Verndar Gab AI Inc reikninga einstaklinga þar sem hætta er á miðuðum árásum</translation>
+<translation id="8525226238722561998">Áætlun Fulldive um ítarlega vernd</translation>
+<translation id="1229550669565092839">Verndar Fulldive reikninga einstaklinga þar sem hætta er á miðuðum árásum</translation>
 <translation id="1521442365706402292">Stjórna vottorðum</translation>
 <translation id="7075625805486468288">Hafa umsjón með HTTPS/SSL-vottorðum og stillingum</translation>
 <translation id="6588043302623806746">Nota öruggt DNS</translation>
@@ -4426,8 +4426,8 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="4590324241397107707">Gagnagrunnsgeymsla</translation>
 <translation id="8016266267177410919">Tímabundin geymsla</translation>
 <translation id="4175737294868205930">Langtímageymsla</translation>
-<translation id="8397843425685839889">Þú og Gab AI Inc</translation>
-<translation id="8907706281008466056">Gab AI Inc prófílmynd</translation>
+<translation id="8397843425685839889">Þú og Fulldive</translation>
+<translation id="8907706281008466056">Fulldive prófílmynd</translation>
 <translation id="2023167225947895179">Hugsanlega er auðvelt að giska á PIN-númerið</translation>
 <translation id="5342091991439452114">PIN-númerið má ekki vera styttra en <ph name="MINIMUM"/> tölustafir</translation>
 <translation id="5252653240322147470">PIN-númer þarf að vera færri en <ph name="MAXIMUM"/> tölustafir</translation>
@@ -4441,26 +4441,26 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="899676909165543803">Fingrafaralesarinn er neðst til hægri á lyklaborðinu. Snertu hann laust með fingrinum.</translation>
 <translation id="4535767533210902251">Fingrafaralesarinn er efst til hægri á lyklaborðinu. Snertu hann laust með fingrinum.</translation>
 <translation id="5449551289610225147">Ógilt aðgangsorð</translation>
-<translation id="4326270470840334364">Þar sem <ph name="DOMAIN"/> stýrir þessum reikningi verða bókamerkin þín, ferillinn, aðgangsorðin og aðrar stillingar hreinsuð af tækinu. Gögnin þín verða þó áfram vistuð á Gab AI Inc reikningnum þínum og hægt er að hafa umsjón með þeim á <ph name="BEGIN_LINK"/>stjórnborði Gab AI Inc<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">Þar sem <ph name="DOMAIN"/> stýrir þessum reikningi verða bókamerkin þín, ferillinn, aðgangsorðin og aðrar stillingar hreinsuð af tækinu. Gögnin þín verða þó áfram vistuð á Fulldive reikningnum þínum og hægt er að hafa umsjón með þeim á <ph name="BEGIN_LINK"/>stjórnborði Fulldive<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">Breyta aðila</translation>
 <translation id="3699920817649120894">Viltu slökkva á samstillingu og sérsniði?</translation>
 <translation id="5643620609347735571">Hreinsa og halda áfram</translation>
 <translation id="5602765853043467355">Hreinsa bókamerki, feril, aðgangsorð og fleira úr þessu tæki</translation>
 <translation id="4089235344645910861">Stillingar vistaðar. Samstilling hafin.</translation>
 <translation id="6739923123728562974">Sýna skjáborðsflýtileið</translation>
-<translation id="2951604498031550705">Breytingar á bókamerkjum, ferlum, aðgangsorðum og öðrum stillingum verða ekki lengur samstilltar við Gab AI Inc reikninginn þinn. Gögnin þín verða þó áfram vistuð á Gab AI Inc reikningnum þínum og hægt er að hafa umsjón með þeim á <ph name="BEGIN_LINK"/>stjórnborði Gab AI Inc<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">Þetta skráir þig út af Gab AI Inc reikningnum þínum. Bókamerki, ferill, aðgangsorð og fleira verður ekki lengur samstillt.</translation>
+<translation id="2951604498031550705">Breytingar á bókamerkjum, ferlum, aðgangsorðum og öðrum stillingum verða ekki lengur samstilltar við Fulldive reikninginn þinn. Gögnin þín verða þó áfram vistuð á Fulldive reikningnum þínum og hægt er að hafa umsjón með þeim á <ph name="BEGIN_LINK"/>stjórnborði Fulldive<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">Þetta skráir þig út af Fulldive reikningnum þínum. Bókamerki, ferill, aðgangsorð og fleira verður ekki lengur samstillt.</translation>
 <translation id="8588866096426746242">Sýna tölfræði prófílsins</translation>
 <translation id="5535941515421698170">Fjarlægja einnig fyrirliggjandi gögn af tækinu</translation>
 <translation id="2162155940152307086">Samstilling hefst þegar þú lokar samstillingarkostum</translation>
-<translation id="1125261911132334651">Stjórna Gab AI Inc reikningnum</translation>
+<translation id="1125261911132334651">Stjórna Fulldive reikningnum</translation>
 <translation id="5117427536932535467">Þemu og veggfóður</translation>
 <translation id="7257173066616499747">Wi-Fi net</translation>
 <translation id="2120297377148151361">Virkni og aðrar aðgerðir</translation>
 <translation id="5833397272224757657">Notar efni af vefsvæðum sem þú heimsækir auk virkni og samskipta í vafra til að bjóða upp á sérsniðna notkun</translation>
-<translation id="8135094938656535588">Stjórna samstilltum gögnum á Gab AI Inc stjórnborðinu</translation>
-<translation id="5958351589333270173">Dulkóða samstillt gögn með eigin <ph name="BEGIN_LINK"/>aðgangsorði samstillingar<ph name="END_LINK"/>. Þetta gildir ekki um greiðslumáta og heimilisföng af Gab AI Inc Pay.</translation>
-<translation id="4817583816512767754">Aðeins þeir sem vita aðgangsorðið geta lesið dulkóðuðu gögnin þín. Aðgangsorðið er ekki sent til Gab AI Inc eða vistað þar. Ef þú gleymir aðgangsorðinu eða þig langar að breyta þessari stillingu þarftu að <ph name="BEGIN_LINK"/>endurstilla samstillingu<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Stjórna samstilltum gögnum á Fulldive stjórnborðinu</translation>
+<translation id="5958351589333270173">Dulkóða samstillt gögn með eigin <ph name="BEGIN_LINK"/>aðgangsorði samstillingar<ph name="END_LINK"/>. Þetta gildir ekki um greiðslumáta og heimilisföng af Fulldive Pay.</translation>
+<translation id="4817583816512767754">Aðeins þeir sem vita aðgangsorðið geta lesið dulkóðuðu gögnin þín. Aðgangsorðið er ekki sent til Fulldive eða vistað þar. Ef þú gleymir aðgangsorðinu eða þig langar að breyta þessari stillingu þarftu að <ph name="BEGIN_LINK"/>endurstilla samstillingu<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla samstillingu<ph name="END_LINK"/> til að fjarlægja aðgangsorð samstillingar</translation>
 <translation id="3873315167136380065">Til að kveikja á þessu þarftu að fjarlægja aðgangsorð samstillingar með því að <ph name="BEGIN_LINK"/>endurstilla samstillingu<ph name="END_LINK"/></translation>
 <translation id="6451689256222386810">Ef þú hefur gleymt aðgangsorðinu eða þig langar að breyta þessari stillingu skaltu <ph name="BEGIN_LINK"/>endurstilla samstillinguna<ph name="END_LINK"/>.</translation>
@@ -4517,7 +4517,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="8639047128869322042">Leitar að skaðlegum hugbúnaði...</translation>
 <translation id="2653033005692233957">Leit mistókst</translation>
 <translation id="655483977608336153">Reyna aftur</translation>
-<translation id="8282772389915299166">Tilkynna Gab AI Inc upplýsingar um skaðlegan hugbúnað, kerfisstillingar og ferli sem fundust í tölvunni þinni í þessari hreinsun</translation>
+<translation id="8282772389915299166">Tilkynna Fulldive upplýsingar um skaðlegan hugbúnað, kerfisstillingar og ferli sem fundust í tölvunni þinni í þessari hreinsun</translation>
 <translation id="6555810572223193255">Hreinsun er ekki tiltæk eins og er</translation>
 <translation id="7117228822971127758">Reyndu aftur síðar</translation>
 <translation id="443475966875174318">Uppfærðu eða fjarlægðu ósamhæf forrit</translation>
@@ -4601,16 +4601,16 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="161042844686301425">Blár (cyan)</translation>
 <translation id="4115378294792113321">Bleikur</translation>
 <translation id="8438566539970814960">Bæta leit og vafra</translation>
-<translation id="284843628681142937">Sendir vefslóðir síðna sem þú skoðar til Gab AI Inc</translation>
+<translation id="284843628681142937">Sendir vefslóðir síðna sem þú skoðar til Fulldive</translation>
 <translation id="7704317875155739195">Fylla sjálfvirkt út leitir og vefslóðir</translation>
 <translation id="2000419248597011803">Sendir sum fótspor og sumar leitir úr veffangastikunni og leitarreitnum í sjálfgefnu leitarvélina þína</translation>
 <translation id="918192811481327695">Hjálpaðu til við að bæta eiginleika og afköst Fulldive</translation>
-<translation id="9063160602596686558">Sendir sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Gab AI Inc</translation>
+<translation id="9063160602596686558">Sendir sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Fulldive</translation>
 <translation id="6697492270171225480">Birta tillögur að svipuðum síðum þegar síða finnst ekki</translation>
-<translation id="4534361985432360439">Sendir veffang síðunnar sem þú reynir að opna til Gab AI Inc</translation>
-<translation id="3831436149286513437">Leitartillögur af Gab AI Inc Drive</translation>
+<translation id="4534361985432360439">Sendir veffang síðunnar sem þú reynir að opna til Fulldive</translation>
+<translation id="3831436149286513437">Leitartillögur af Fulldive Drive</translation>
 <translation id="5244474230056479698">Samstillir við <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Fá Gab AI Inc snjalltæki í Fulldive</translation>
+<translation id="9125982323641182972">Fá Fulldive snjalltæki í Fulldive</translation>
 <translation id="2537178555904266562">Villa við að samstilla aðgangsorð</translation>
 <translation id="4314815835985389558">Stjórna samstillingu</translation>
 <translation id="8931475688782629595">Stjórnaðu því sem þú samstillir</translation>
@@ -4619,18 +4619,18 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="4570387585180509432">Heimilisföng, símanúmer og fleira</translation>
 <translation id="3268451620468152448">Opna flipa</translation>
 <translation id="4684427112815847243">Samstilla allt</translation>
-<translation id="5428209950370661546">Önnur Gab AI Inc þjónusta</translation>
+<translation id="5428209950370661546">Önnur Fulldive þjónusta</translation>
 <translation id="7399045143794278225">Sérvalin samstilling</translation>
 <translation id="7044606776288350625">Samstilla gögn</translation>
 <translation id="9050666287014529139">Aðgangsorð</translation>
 <translation id="6596325263575161958">Dulkóðunarvalkostir</translation>
-<translation id="2459230470861708651">Dulkóða samstillt aðgangsorð með Gab AI Inc notandanafninu þínu og aðgangsorði</translation>
+<translation id="2459230470861708651">Dulkóða samstillt aðgangsorð með Fulldive notandanafninu þínu og aðgangsorði</translation>
 <translation id="1651008383952180276">Þú verður að slá sama aðgangsorðið inn tvisvar</translation>
 <translation id="988978206646512040">Ekki er leyft að hafa autt aðgangsorð</translation>
 <translation id="2136476978468204130">Innslegið aðgangsorð er rangt</translation>
 <translation id="7505421639213002314">Gögn úr Fulldive samstillingu</translation>
 <translation id="452750746583162491">Fara yfir samstillt gögn</translation>
-<translation id="7956662517480676674">Samstilling og þjónusta Gab AI Inc</translation>
+<translation id="7956662517480676674">Samstilling og þjónusta Fulldive</translation>
 <translation id="7772032839648071052">Staðfestu aðgangsorðið</translation>
 <translation id="7529411698175791732">Athugaðu nettenginguna. Ef vandamálið er viðvarandi skaltu prófa að skrá þig út og inn aftur.</translation>
 <translation id="6406506848690869874">Samstilling</translation>
@@ -4764,8 +4764,8 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="7835178595033117206">Bókamerki fjarlægt</translation>
 <translation id="742130257665691897">Bókamerki fjarlægð</translation>
 <translation id="5468853758063275923">Fulldive er sjálfgefni vafrinn þinn</translation>
-<translation id="2950533317914339731">Bæta bókamerkjum við eftirlætis Gab AI Inc forritin þín</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">Bæta bókamerkjum við eftirlætis Fulldive forritin þín</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Kort</translation>
 <translation id="6709133671862442373">Fréttir</translation>
@@ -4779,7 +4779,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="7789963078219276159">Bakgrunni upphafssíðu hefur verið breytt í <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Bakgrunnur upphafssíðu hefur verið endurstilltur á sjálfgefinn bakgrunn.</translation>
 <translation id="239760341987199724">Stilltu Fulldive sem sjálfgefinn vafra</translation>
-<translation id="96037229054033864">Fáðu Gab AI Inc leit og Gab AI Inc snjalltækni í hvert skipti sem þú vafrar</translation>
+<translation id="96037229054033864">Fáðu Fulldive leit og Fulldive snjalltækni í hvert skipti sem þú vafrar</translation>
 <translation id="296137235951584143">Gerðu Fulldive að þínu</translation>
 <translation id="3982375475032951137">Settu upp vafrann í nokkrum einföldum skrefum</translation>
 <translation id="6972754398087986839">Byrja</translation>
@@ -4792,7 +4792,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="1031362278801463162">Hleður forskoðun</translation>
 <translation id="6147020289383635445">Prentforskoðun mistókst.</translation>
 <translation id="5877584842898320529">Valinn prentari er ekki tiltækur eða ekki rétt uppsettur. <ph name="BR"/> Athugaðu prentarann eða prófaðu að velja annan prentara.</translation>
-<translation id="6645437135153136856">Valið Gab AI Inc skýjaprentunartæki er ekki lengur stutt. <ph name="BR"/> Reyndu að setja prentarann upp í kerfisstillingum tölvunnar.</translation>
+<translation id="6645437135153136856">Valið Fulldive skýjaprentunartæki er ekki lengur stutt. <ph name="BR"/> Reyndu að setja prentarann upp í kerfisstillingum tölvunnar.</translation>
 <translation id="5828633471261496623">Prentar...</translation>
 <translation id="6295855836753816081">Vistar...</translation>
 <translation id="3587482841069643663">Allar</translation>
@@ -4812,7 +4812,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="3706463572498736864">Síður í töflureikni</translation>
 <translation id="2249605167705922988">t.d. 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">Vista sem PDF</translation>
-<translation id="6532101170117367231">Vista í Gab AI Inc Drive</translation>
+<translation id="6532101170117367231">Vista í Fulldive Drive</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">blaðsíður</translation>
 <translation id="8813811964357448561">blaðsíða</translation>
@@ -4842,7 +4842,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="6991665348624301627">Veldu áfangastað</translation>
 <translation id="8800004011501252845">Sýnir áfangastaði fyrir</translation>
 <translation id="8996526648899750015">Bæta við reikningi...</translation>
-<translation id="6723354935081862304">Prentaðu í Gab AI Inc skjölum og öðrum stöðum í skýinu. <ph name="BEGIN_LINK"/>Skráðu þig inn<ph name="END_LINK"/> til að prenta með Gab AI Inc skýjaprentun.</translation>
+<translation id="6723354935081862304">Prentaðu í Fulldive skjölum og öðrum stöðum í skýinu. <ph name="BEGIN_LINK"/>Skráðu þig inn<ph name="END_LINK"/> til að prenta með Fulldive skýjaprentun.</translation>
 <translation id="2150139952286079145">Leitarstaðir</translation>
 <translation id="8569682776816196752">Engir áfangastaðir fundust</translation>
 <translation id="7885253890047913815">Nýlegir áfangastaðir</translation>

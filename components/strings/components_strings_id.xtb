@@ -31,7 +31,7 @@
 <translation id="6710213216561001401">Sebelumnya</translation>
 <translation id="1201402288615127009">Berikutnya</translation>
 <translation id="2824775600643448204">Bilah alamat dan pencarian</translation>
-<translation id="5713644099811900409">Akun Gab AI Inc</translation>
+<translation id="5713644099811900409">Akun Fulldive</translation>
 <translation id="5851548754964597211">Daftar tab</translation>
 <translation id="2495083838625180221">JSON Parser</translation>
 <translation id="3157931365184549694">Pulihkan</translation>
@@ -68,7 +68,7 @@
 <translation id="1581080074034554886">CVC</translation>
 <translation id="9065203028668620118">Edit</translation>
 <translation id="5029568752722684782">Hapus salinan</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="3655851112780233803">Kelola...</translation>
 <translation id="2709516037105925701">Isi-Otomatis</translation>
 <translation id="370665806235115550">Memuat...</translation>
@@ -246,8 +246,8 @@
 <translation id="6910240653697687763"><ph name="URL"/> ingin mendapatkan kontrol penuh atas perangkat MIDI Anda</translation>
 <translation id="503498442187459473"><ph name="HOST"/> ingin menggunakan kamera dan mikrofon Anda</translation>
 <translation id="8282947398454257691">Mengetahui pengenal perangkat unik Anda</translation>
-<translation id="8329449853370113380"><ph name="URL"/> ingin memutar konten yang dilindungi. Identitas perangkat Anda akan diverifikasi oleh Gab AI Inc.</translation>
-<translation id="2650609753175229582"><ph name="URL"/> ingin memutar konten yang dilindungi. Identitas perangkat Anda akan diverifikasi oleh Gab AI Inc dan akan dapat diakses oleh situs ini.</translation>
+<translation id="8329449853370113380"><ph name="URL"/> ingin memutar konten yang dilindungi. Identitas perangkat Anda akan diverifikasi oleh Fulldive.</translation>
+<translation id="2650609753175229582"><ph name="URL"/> ingin memutar konten yang dilindungi. Identitas perangkat Anda akan diverifikasi oleh Fulldive dan akan dapat diakses oleh situs ini.</translation>
 <translation id="3016780570757425217">Mengetahui lokasi Anda</translation>
 <translation id="7221855153210829124">Tampilkan notifikasi</translation>
 <translation id="8606726445206553943">Menggunakan perangkat MIDI Anda</translation>

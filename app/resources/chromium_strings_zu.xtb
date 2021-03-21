@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Ilogo ye-Fulldive</translation>
 <translation id="7339898014177206373">Iwindi elisha</translation>
 <translation id="5516268345616100622">Isiphathi somsebenzi - I-Fulldive</translation>
-<translation id="7918740962659365265">Siza ukwenza i-Fulldive ibe ngcono ngokuthumela imibiko yokuphahlazeka ne-<ph name="UMA_LINK"/> ku-Gab AI Inc</translation>
+<translation id="7918740962659365265">Siza ukwenza i-Fulldive ibe ngcono ngokuthumela imibiko yokuphahlazeka ne-<ph name="UMA_LINK"/> ku-Fulldive</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">I-Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - Inethiwekhi Yokungena ngemvume - i-Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">I-Fulldive ayikwazi ukufunda nokubhala umkhombandlela wayo wedatha:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Ongakukhetha: Siza wenze i-Fulldive ibe ngcono ngokuthumela ngokuzenzakalela izibalo zokusetshenziswa nemibiko yokuphahlazeka ku-Gab AI Inc.</translation>
+<translation id="8417700129970341035">Ongakukhetha: Siza wenze i-Fulldive ibe ngcono ngokuthumela ngokuzenzakalela izibalo zokusetshenziswa nemibiko yokuphahlazeka ku-Fulldive.</translation>
 <translation id="1489465648257900784">Iphrofayela yakho ayikwazi ukusetshenziswa ngoba isuka kunguqulo entsha ye-Fulldive. 
 
 Ezinye izici kungenzeka zingatholakali. Sicela ucacise umkhombandlela wephrofayela ehlukile noma usebenzise inguqulo entsha ye-Fulldive.</translation>
@@ -44,7 +44,7 @@ Ezinye izici kungenzeka zingabi khona futhi izinguquko kokuncamelayo ngeke zize 
 
 I-Fulldive ayikwazi ukubuyisela izilungiselelo zakho.</translation>
 <translation id="1477146545787277177">Eshu! I-Fulldive iphahlazekile. Qalisa kabusha manje?</translation>
-<translation id="5785919770853225148">I-Fulldive izolondoloza le phasiwedi ku-akhawunti yakho ye-Gab AI Inc. Ngeke kudingeke ukuthi uyikhumbule.</translation>
+<translation id="5785919770853225148">I-Fulldive izolondoloza le phasiwedi ku-akhawunti yakho ye-Fulldive. Ngeke kudingeke ukuthi uyikhumbule.</translation>
 <translation id="8211837073776713955">I-Fulldive ikuvumela kuthi wazi amaphasiwedi akho afakwe engcupheni</translation>
 <translation id="113959764510199339">I-Fulldive izama ukubonisa amaphasiwedi.</translation>
 <translation id="96347285368592620">I-Fulldive izama ukukopisha amaphasiwedi.</translation>
@@ -85,7 +85,7 @@ I-Fulldive ayikwazi ukubuyisela izilungiselelo zakho.</translation>
 <translation id="9183662282810237335">Phuma ku-Fulldive noma kunjalo?</translation>
 <translation id="3834935463915107022">Phuma ku-Fulldive noma kunjalo?</translation>
 <translation id="8797356639448065696">I-Fulldive kumodi yasemuva.</translation>
-<translation id="2339258256897053758">Okhiye be-Gab AI Inc API abekho. Okunye ukusebenza kwe-Fulldive kuzokhutshazwa.</translation>
+<translation id="2339258256897053758">Okhiye be-Fulldive API abekho. Okunye ukusebenza kwe-Fulldive kuzokhutshazwa.</translation>
 <translation id="7861579472672677409">I-<ph name="EXTENSION_NAME"/> ingezwe ku-Fulldive</translation>
 <translation id="8516116288943000095">Futhi sula idatha kusuka ku-Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Fihla kumenyu ye-Fulldive</translation>
@@ -109,8 +109,8 @@ I-Fulldive ayikwazi ukubuyisela izilungiselelo zakho.</translation>
 <translation id="2925193881330501265">Ubukade ungene ngemvume ku-Fulldive njengo-<ph name="USER_EMAIL_ADDRESS"/>. Sicela usebenzise i-akhawunti efanayo ukuze uphinde ungene ngemvume futhi.</translation>
 <translation id="847561904663814268">Umuntu othile ungene ngemvume ngaphambilini ku-Fulldive kule khompuyutha njengo-<ph name="ACCOUNT_EMAIL_LAST"/>. Sicela udale umsebenzisi omusha we-Fulldive ukuze ugcine ulwazi lwakho luhlukile.</translation>
 <translation id="1853997773668795891">Xhumanisa idatha yakho ye-Fulldive kule akhawunti?</translation>
-<translation id="1326766910007115955">Ungena ngemvume nge-akhawunti ephethwe futhi unikeza umlawuli wayo ukulawula okungaphezulu kwephrofayela yakho ye-Fulldive. Idatha yakho ye-Fulldive, efana nezinhlelo zakho zokusebenza, amabhukhimakhi, umlando, amaphasiwedi, nezinye izilungiselelo zizoboshezelwa unaphakade ku-<ph name="USER_NAME"/>. Uzokwazi ukususa le datha nge-Ideshibhodi yama-Akhawunti we-Gab AI Inc, kodwa ngeke uze ukwazi ukuhlobanisa le datha nenye i-akhawunti. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Ungena ngemvume nge-akhawunti ephethwe futhi unikezele ukuqondiswa kokulawulwa kwayo ngaphezulu kwephrofayela yakho ye-Fulldive. Idatha yakho ye-Fulldive, efana nezinhlelo zakho zokusebenza, amabhukhimakhi, umlando, amaphasiwedi, nezinye izilungiselelo zizoboshelwa unaphakade ku-<ph name="USER_NAME"/>. Uzokwazi ukususa le datha nge-Ideshibhodi yama-Akhawunti we-Gab AI Inc, kodwa ngeke uze ukwazi ukuhlobanisa le datha nenye i-akhawunti. Ungadala ngokukhetha iphrofayela entsha ukuze ugcine idatha yakho ekhona ye-Fulldive ihlukile. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Ungena ngemvume nge-akhawunti ephethwe futhi unikeza umlawuli wayo ukulawula okungaphezulu kwephrofayela yakho ye-Fulldive. Idatha yakho ye-Fulldive, efana nezinhlelo zakho zokusebenza, amabhukhimakhi, umlando, amaphasiwedi, nezinye izilungiselelo zizoboshezelwa unaphakade ku-<ph name="USER_NAME"/>. Uzokwazi ukususa le datha nge-Ideshibhodi yama-Akhawunti we-Fulldive, kodwa ngeke uze ukwazi ukuhlobanisa le datha nenye i-akhawunti. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Ungena ngemvume nge-akhawunti ephethwe futhi unikezele ukuqondiswa kokulawulwa kwayo ngaphezulu kwephrofayela yakho ye-Fulldive. Idatha yakho ye-Fulldive, efana nezinhlelo zakho zokusebenza, amabhukhimakhi, umlando, amaphasiwedi, nezinye izilungiselelo zizoboshelwa unaphakade ku-<ph name="USER_NAME"/>. Uzokwazi ukususa le datha nge-Ideshibhodi yama-Akhawunti we-Fulldive, kodwa ngeke uze ukwazi ukuhlobanisa le datha nenye i-akhawunti. Ungadala ngokukhetha iphrofayela entsha ukuze ugcine idatha yakho ekhona ye-Fulldive ihlukile. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Umlawuli wesistimu yakho ulungise i-Fulldive ukuthi ivule esinye isiphequluli ukufinyelela i-<ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">Umlawuli wakho wesistimu ulungiselele i-Fulldive ukuthi ivule i-<ph name="ALTERNATIVE_BROWSER_NAME"/> ukuze ifinyelele ku-<ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> ngaphambilini ibisebenzisa i-Fulldive</translation>
@@ -134,7 +134,7 @@ I-Fulldive ayikwazi ukubuyisela izilungiselelo zakho.</translation>
 <translation id="239760341987199724">Setha i-Fulldive njengesiphequluli sakho esizenzakalelayo</translation>
 <translation id="669092380621816981">Idatha yokuphequlula yalo muntu izosuswa kusukela kule divayisi. Ukuze uphinde uthole idatha, ngena ngemvume ku-Fulldive njengo-<ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">I-Fulldive ibe ngcono nakakhulu</translation>
-<translation id="7192666605334070839">Manje kulula ukusebenzisa i-Fulldive nge-Akhawunti yakho ye-Gab AI Inc nakumakhompyutha abiwe.</translation>
+<translation id="7192666605334070839">Manje kulula ukusebenzisa i-Fulldive nge-Akhawunti yakho ye-Fulldive nakumakhompyutha abiwe.</translation>
 <translation id="4100716194836114130">Lena yi-Fulldive yakho</translation>
 <translation id="3511996232906761537">Iwebhu yakho, amabhukhimakhi, nezinye izinto ze-Fulldive zihlala lapha.</translation>
 <translation id="7406627712452599344">Izihambeli zingasebenzisa i-Fulldive ngaphandle kokushiya noma yini ngemuva.</translation>
@@ -149,9 +149,9 @@ I-Fulldive ayikwazi ukubuyisela izilungiselelo zakho.</translation>
 <translation id="2871190378186459992">Thola izinhlelo zokusebenza ezinhle, amageyimu, izandiso, namatimu we-Fulldive.</translation>
 <translation id="3350544518197210895">I-Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">Umyalo obambeke ngaphakathi we-Fulldive wokuvumela ithrafikhi ye-mDNS.</translation>
-<translation id="8207657266087451193">Uma isithombe singanayo incazelo ephelele, i-Fulldive izozama ukukunikezela eyodwa. Ukuze udale izincazelo, izithombe zithunyelwa ku-Gab AI Inc. Ungavala lokhu kuzilungiselelo noma kunini.</translation>
-<translation id="5499063270485366718">Uma isithombe singanayo incazelo ephelele, i-Fulldive izozama ukukunikezela eyodwa. Ukuze udale izincazelo, izithombe zithunyelwa ku-Gab AI Inc.</translation>
-<translation id="215320507915280336">Lokhu kusebenzisa isihloli sokupeleta esifanayo naleso esisetshenziswe kusesho lwe-Gab AI Inc. Umbhalo owuthayiphayo kusiphequluli uthunyelwa ku-Gab AI Inc. Ungahlala ushintsha le mpatho kuzilungiselelo.</translation>
+<translation id="8207657266087451193">Uma isithombe singanayo incazelo ephelele, i-Fulldive izozama ukukunikezela eyodwa. Ukuze udale izincazelo, izithombe zithunyelwa ku-Fulldive. Ungavala lokhu kuzilungiselelo noma kunini.</translation>
+<translation id="5499063270485366718">Uma isithombe singanayo incazelo ephelele, i-Fulldive izozama ukukunikezela eyodwa. Ukuze udale izincazelo, izithombe zithunyelwa ku-Fulldive.</translation>
+<translation id="215320507915280336">Lokhu kusebenzisa isihloli sokupeleta esifanayo naleso esisetshenziswe kusesho lwe-Fulldive. Umbhalo owuthayiphayo kusiphequluli uthunyelwa ku-Fulldive. Ungahlala ushintsha le mpatho kuzilungiselelo.</translation>
 <translation id="1807774211756215222">Vula isixhumanisi ku&amp;thebhu elisha le-Fulldive</translation>
 <translation id="4624945300945265642">Vula isixhumanisi kuwindi le-Fulldive inco&amp;gnito</translation>
 <translation id="7863882214613921971">Vula isixhumanisi ku&amp;thebhu entsha ye-Fulldive</translation>
@@ -205,7 +205,7 @@ I-Fulldive ayikwazi ukubuyisela izilungiselelo zakho.</translation>
 <translation id="7573289029918943991">Ukuze ubone uma ngabe idivayisi yakho isesikhathini, hamba <ph name="LINK_BEGIN"/>kuzilungiselelo ze-Fulldive OS<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Thola usizo nge-Fulldive OS</translation>
 <translation id="38898988211673781">Isula amakhukhi kanye nedatha yesayithi uma uyeka i-Fulldive</translation>
-<translation id="5253815230176279256">I-Gab AI Inc Pay (ikopishelwe ku-Fulldive)</translation>
+<translation id="5253815230176279256">I-Fulldive Pay (ikopishelwe ku-Fulldive)</translation>
 <translation id="5468853758063275923">I-Fulldive iyisiphequluli sakho esizenzakalelayo</translation>
 <translation id="1775322105159056176">I-Fulldive ayikwazi ukunquma noma isethe isiphequluli esizenzakalelayo</translation>
 <translation id="6915252145142862992">Lokhu ukufakwa kwesibili kwe-Fulldive, futhi akukwazi ukwenziwa isiphequluli sakho esizenzakalelayo.</translation>
@@ -213,10 +213,10 @@ I-Fulldive ayikwazi ukubuyisela izilungiselelo zakho.</translation>
       kuzilungiselelo zakho zesiphequluli se-Fulldive<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Uma isilungiselelo singaveli kuleli khasi, bheka<ph name="LINK_BEGIN"/>
       izilungiselelo ze-Fulldive OS<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Ukuze kulungiswe amaphutha okupeletwa, i-Fulldive ithumela umbhalo owuthayiphayo kuzinkambu zombhalo ku-Gab AI Inc</translation>
+<translation id="2312399718665761438">Ukuze kulungiswe amaphutha okupeletwa, i-Fulldive ithumela umbhalo owuthayiphayo kuzinkambu zombhalo ku-Fulldive</translation>
 <translation id="8586264863973514035">Ukuze ufake izinguquko zakho, qalisa kabusha i-Fulldive</translation>
 <translation id="7021823858304886493">Vumela ukungena ngemvume kwe-Fulldive</translation>
-<translation id="1649714546770135458">Ngokuvala lokhu, ungangena ngemvume kumasayithi e-Gab AI Inc njenge-Gmail ngaphandle kokungena ngemvume ku-Fulldive</translation>
+<translation id="1649714546770135458">Ngokuvala lokhu, ungangena ngemvume kumasayithi e-Fulldive njenge-Gmail ngaphandle kokungena ngemvume ku-Fulldive</translation>
 <translation id="2796517443093885402">I-Fulldive ingasiza ukukugcina uphephile kusukela ekuphulweni kwedatha, kuzandiso ezimbi, nokuningi</translation>
 <translation id="428541510811554120">I-Fulldive ayikwazi ukuhlola izibuyekezo. Zama ukuhlola ukuxhumeka kwakho ku-inthanethi.</translation>
 <translation id="2633397153656205379">I-Fulldive ayibuyekezekanga, kunokuthile okungahambanga kahle. <ph name="BEGIN_LINK"/>Lungisa izinkinga zokubuyekaza kwe-Fulldive nezibuyekezo ezihlulekile.<ph name="END_LINK"/></translation>

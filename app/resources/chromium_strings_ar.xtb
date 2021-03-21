@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">‏شعار Fulldive</translation>
 <translation id="7339898014177206373">نافذة جديدة</translation>
 <translation id="5516268345616100622">‏إدارة المهام - Fulldive</translation>
-<translation id="7918740962659365265">‏يمكنك المساعدة في تحسين Fulldive عن طريق إرسال تقارير الأعطال و<ph name="UMA_LINK"/> إلى Gab AI Inc</translation>
+<translation id="7918740962659365265">‏يمكنك المساعدة في تحسين Fulldive عن طريق إرسال تقارير الأعطال و<ph name="UMA_LINK"/> إلى Fulldive</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459">‏<ph name="PAGE_TITLE"/> - تسجيل الدخول إلى الشبكة - Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">‏يتعذر على Fulldive القراءة والكتابة في دليل البيانات الخاص به:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">‏اختياري: ساعد في تحسين Fulldive عن طريق إرسال إحصائيات الاستخدام وتقارير الأعطال إلى Gab AI Inc تلقائيًا.</translation>
+<translation id="8417700129970341035">‏اختياري: ساعد في تحسين Fulldive عن طريق إرسال إحصائيات الاستخدام وتقارير الأعطال إلى Fulldive تلقائيًا.</translation>
 <translation id="1489465648257900784">‏لا يمكن استخدام ملفك الشخصي نظرًا لأنه من إصدار أحدث من Fulldive.
 
 قد تكون بعض الميزات غير متاحة. يُرجى تحديد دليل ملف شخصي مختلف أو استخدام إصدار أحدث من Fulldive.</translation>
@@ -42,7 +42,7 @@
 
 يتعذر على Fulldive استعادة إعداداتك.</translation>
 <translation id="1477146545787277177">‏للأسف! تعطل Fulldive. هل تريد إعادة التشغيل الآن؟</translation>
-<translation id="5785919770853225148">‏سيحفظ Fulldive كلمة المرور هذه في حسابك على Gab AI Inc ولن تحتاج تذكّرها.</translation>
+<translation id="5785919770853225148">‏سيحفظ Fulldive كلمة المرور هذه في حسابك على Fulldive ولن تحتاج تذكّرها.</translation>
 <translation id="8211837073776713955">‏يتم إعلامك من خلال Fulldive في حال تم اختراق كلمات المرور في أي وقت.</translation>
 <translation id="113959764510199339">‏يحاول Fulldive إظهار كلمات المرور.</translation>
 <translation id="96347285368592620">‏يحاول Fulldive نسخ كلمات المرور.</translation>
@@ -83,7 +83,7 @@
 <translation id="9183662282810237335">‏هل تريد الخروج من Fulldive على أي حال؟</translation>
 <translation id="3834935463915107022">‏هل تريد الخروج من Fulldive على أي حال؟</translation>
 <translation id="8797356639448065696">‏Fulldive في وضع الخلفية.</translation>
-<translation id="2339258256897053758">‏مفاتيح واجهة برمجة تطبيقات Gab AI Inc مفقودة. وسيترتب على ذلك توقف بعض وظائف Fulldive عن العمل.</translation>
+<translation id="2339258256897053758">‏مفاتيح واجهة برمجة تطبيقات Fulldive مفقودة. وسيترتب على ذلك توقف بعض وظائف Fulldive عن العمل.</translation>
 <translation id="7861579472672677409">‏تمت إضافة <ph name="EXTENSION_NAME"/> إلى Fulldive</translation>
 <translation id="8516116288943000095">‏محو البيانات من Fulldive أيضًا (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">‏الإخفاء في قائمة Fulldive</translation>
@@ -107,8 +107,8 @@
 <translation id="2925193881330501265">‏تم تسجيل دخولك إلى Fulldive باعتبارك <ph name="USER_EMAIL_ADDRESS"/>. يُرجى استخدام الحساب نفسه لتسجيل الدخول مرة أخرى.</translation>
 <translation id="847561904663814268">‏سجّل شخص ما الدخول من قبل إلى Fulldive على جهاز الكمبيوتر هذا باسم <ph name="ACCOUNT_EMAIL_LAST"/>. يُرجى إنشاء حساب مستخدم جديد في Fulldive للإبقاء على معلوماتك بشكلٍ منفصل.</translation>
 <translation id="1853997773668795891">‏هل ترغب في ربط بياناتك في Fulldive بهذا الحساب؟</translation>
-<translation id="1326766910007115955">‏أنت تسجل الدخول باستخدام حساب يخضع للإدارة وتتيح للمشرف إمكانية التحكم في ملفك الشخصي على Fulldive. وستكون بياناتك في Fulldive مثل تطبيقاتك وإشاراتك المرجعية وسجلك وكلمات المرور التابعة لك والإعدادات الأخرى مرتبطة دائمًا بالمستخدم <ph name="USER_NAME"/>. ستتمكن من حذف هذه البيانات عبر لوحة تحكم حسابات Gab AI Inc، ولكنك لن تتمكن من إقران هذه البيانات بحساب آخر. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">‏أنت تسجل الدخول باستخدام حساب يخضع للإدارة وتتيح للمشرف إمكانية التحكم في ملفك الشخصي على Fulldive. وستكون بياناتك في Fulldive مثل تطبيقاتك وإشاراتك المرجعية وسجلك وكلمات المرور التابعة لك والإعدادات الأخرى مرتبطة دائمًا بالمستخدم <ph name="USER_NAME"/>. ستتمكن من حذف هذه البيانات عبر لوحة تحكم حسابات Gab AI Inc، ولكنك لن تتمكن من إقران هذه البيانات بحساب آخر. ويُمكنك اختيار إنشاء ملف شخصي جديد للإبقاء على بياناتك الحالية في Fulldive بشكل مستقل. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">‏أنت تسجل الدخول باستخدام حساب يخضع للإدارة وتتيح للمشرف إمكانية التحكم في ملفك الشخصي على Fulldive. وستكون بياناتك في Fulldive مثل تطبيقاتك وإشاراتك المرجعية وسجلك وكلمات المرور التابعة لك والإعدادات الأخرى مرتبطة دائمًا بالمستخدم <ph name="USER_NAME"/>. ستتمكن من حذف هذه البيانات عبر لوحة تحكم حسابات Fulldive، ولكنك لن تتمكن من إقران هذه البيانات بحساب آخر. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">‏أنت تسجل الدخول باستخدام حساب يخضع للإدارة وتتيح للمشرف إمكانية التحكم في ملفك الشخصي على Fulldive. وستكون بياناتك في Fulldive مثل تطبيقاتك وإشاراتك المرجعية وسجلك وكلمات المرور التابعة لك والإعدادات الأخرى مرتبطة دائمًا بالمستخدم <ph name="USER_NAME"/>. ستتمكن من حذف هذه البيانات عبر لوحة تحكم حسابات Fulldive، ولكنك لن تتمكن من إقران هذه البيانات بحساب آخر. ويُمكنك اختيار إنشاء ملف شخصي جديد للإبقاء على بياناتك الحالية في Fulldive بشكل مستقل. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">‏ضبط مشرف النظام Fulldive لفتح متصفِّح بديل للوصول إلى <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">‏ضَبَط مشرف النظام Fulldive لفتح <ph name="ALTERNATIVE_BROWSER_NAME"/> للوصول إلى <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656">‏كان <ph name="USER_EMAIL_ADDRESS"/> يستخدم Fulldive مسبقًا</translation>
@@ -132,7 +132,7 @@
 <translation id="239760341987199724">‏تعيين Fulldive المتصفح التلقائي</translation>
 <translation id="669092380621816981">‏ستُحذَف بيانات تصفُّح هذا المستخدم من هذا الجهاز. ولاسترداد البيانات، سجّل الدخول إلى Fulldive بصفتك <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">‏Fulldive أصبح أفضل</translation>
-<translation id="7192666605334070839">‏الآن أصبح استخدام Fulldive مع حسابك في Gab AI Inc وفي أجهزة الكمبيوتر المشتركة أكثر سهولة.</translation>
+<translation id="7192666605334070839">‏الآن أصبح استخدام Fulldive مع حسابك في Fulldive وفي أجهزة الكمبيوتر المشتركة أكثر سهولة.</translation>
 <translation id="4100716194836114130">‏هذا هو Fulldive الخاص بك</translation>
 <translation id="3511996232906761537">‏الويب والإشارات المرجعية وغيرها من عناصر Fulldive توجد هنا.</translation>
 <translation id="7406627712452599344">‏يمكن للضيف استخدام Fulldive بدون أن يترك أي أثر وراءه.</translation>
@@ -147,9 +147,9 @@
 <translation id="2871190378186459992">‏اكتشف تطبيقات، وألعاب، وإضافات، ومظاهر رائعة لمتصفح Fulldive.</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">‏قاعدة الوارد إلى Fulldive للسماح بحركة مرور mDNS.</translation>
-<translation id="8207657266087451193">‏في حال لم تتضمن صورة وصفًا مفيدًا، سيحاول Fulldive توفير وصف لك. لإنشاء أوصاف، سيتم إرسال الصور إلى Gab AI Inc. ويمكنك إيقاف هذه الميزة في الإعدادات في أي وقت.</translation>
-<translation id="5499063270485366718">‏في حال لم تتضمن صورة وصفًا مفيدًا، سيحاول Fulldive توفير وصف لك. لإنشاء أوصاف، سيتم إرسال الصور إلى Gab AI Inc.</translation>
-<translation id="215320507915280336">‏يستخدم ذلك المدقق الإملائي نفسه الذي يتم استخدامه في "بحث Gab AI Inc". ويتم إرسال النص الذي تكتبه في المتصفّح إلى Gab AI Inc. يمكنك دائمًا تغيير هذا السلوك في الإعدادات.</translation>
+<translation id="8207657266087451193">‏في حال لم تتضمن صورة وصفًا مفيدًا، سيحاول Fulldive توفير وصف لك. لإنشاء أوصاف، سيتم إرسال الصور إلى Fulldive. ويمكنك إيقاف هذه الميزة في الإعدادات في أي وقت.</translation>
+<translation id="5499063270485366718">‏في حال لم تتضمن صورة وصفًا مفيدًا، سيحاول Fulldive توفير وصف لك. لإنشاء أوصاف، سيتم إرسال الصور إلى Fulldive.</translation>
+<translation id="215320507915280336">‏يستخدم ذلك المدقق الإملائي نفسه الذي يتم استخدامه في "بحث Fulldive". ويتم إرسال النص الذي تكتبه في المتصفّح إلى Fulldive. يمكنك دائمًا تغيير هذا السلوك في الإعدادات.</translation>
 <translation id="1807774211756215222">‏فتح الرابط في علامة تبويب جديدة في Fulldive</translation>
 <translation id="4624945300945265642">‏فتح الرابط في نافذة تصفح متخفٍ في Fulldive</translation>
 <translation id="7863882214613921971">‏فتح الرابط في علامة تبويب جديدة في Fulldive</translation>
@@ -203,7 +203,7 @@
 <translation id="7573289029918943991">‏للتأكّد من أن جهازك يستخدم أحدث إصدار من نظام التشغيل، يُرجى الانتقال إلى <ph name="LINK_BEGIN"/>إعدادات نظام التشغيل Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="3395323229510056640">‏الحصول على مساعدة في نظام التشغيل Fulldive</translation>
 <translation id="38898988211673781">‏محو بيانات الموقع الإلكتروني وملفات تعريف الارتباط عند الخروج من Fulldive</translation>
-<translation id="5253815230176279256">‏Gab AI Inc Pay (تم النسخ إلى Fulldive)</translation>
+<translation id="5253815230176279256">‏Fulldive Pay (تم النسخ إلى Fulldive)</translation>
 <translation id="5468853758063275923">‏Fulldive هو متصفحك التلقائي</translation>
 <translation id="1775322105159056176">‏يتعذَّر على Fulldive تحديد المتصفح التلقائي أو تعيينه</translation>
 <translation id="6915252145142862992">‏هذا تثبيت ثانوي من Fulldive، ولا يمكن جعله متصفحك التلقائي.</translation>
@@ -211,10 +211,10 @@
     إعدادات متصفِّح Fulldive<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">‏في حال عدم عرض إعداد على هذه الصفحة، انتقل إلى <ph name="LINK_BEGIN"/>
     إعدادات نظام التشغيل Fulldive<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">‏لإصلاح الأخطاء الإملائية، يُرسِل Fulldive ما تكتبه في حقول النص إلى Gab AI Inc</translation>
+<translation id="2312399718665761438">‏لإصلاح الأخطاء الإملائية، يُرسِل Fulldive ما تكتبه في حقول النص إلى Fulldive</translation>
 <translation id="8586264863973514035">‏لتطبيق التغييرات، يُرجى إعادة تشغيل Fulldive</translation>
 <translation id="7021823858304886493">‏السماح بتسجيل الدخول إلى Fulldive</translation>
-<translation id="1649714546770135458">‏من خلال إيقاف هذا الإعداد، يمكنك تسجيل الدخول إلى "مواقع Gab AI Inc" مثل Gmail بدون الحاجة إلى تسجيل الدخول إلى Fulldive</translation>
+<translation id="1649714546770135458">‏من خلال إيقاف هذا الإعداد، يمكنك تسجيل الدخول إلى "مواقع Fulldive" مثل Gmail بدون الحاجة إلى تسجيل الدخول إلى Fulldive</translation>
 <translation id="2796517443093885402">‏يستطيع Fulldive مساعدتك في الحفاظ على أمان معلوماتك من عمليات اختراق البيانات والإضافات الضارة وغيرها من المشاكل.</translation>
 <translation id="428541510811554120">‏يتعذّر على Fulldive البحث عن تحديثات. يُرجى التحقّق من اتصال الإنترنت.</translation>
 <translation id="2633397153656205379">‏تعذّر تحديث Fulldive بسبب حدوث خطأ. <ph name="BEGIN_LINK"/>حلّ مشاكل تحديث Fulldive وتعذُّر التحديثات<ph name="END_LINK"/></translation>

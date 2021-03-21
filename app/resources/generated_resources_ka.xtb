@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">ძიების შედეგები ვერ მოიძებნა</translation>
 <translation id="8967866634928501045">საჩვენებლად დააჭირეთ კლავიშთა შემდეგ კომბინაციას: Alt+Shift+A</translation>
 <translation id="998747458861718449">შ&amp;ემოწმება</translation>
-<translation id="4428301600092811022">გსურთ სურათების აღწერილობების მიღება Gab AI Inc-ისგან?</translation>
+<translation id="4428301600092811022">გსურთ სურათების აღწერილობების მიღება Fulldive-ისგან?</translation>
 <translation id="741204030948306876">დიახ, თანახმა ვარ</translation>
 <translation id="780301667611848630">არა, მადლობთ</translation>
 <translation id="3943582379552582368">&amp;უკან</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">ჩ&amp;ასმა</translation>
 <translation id="2218515861914035131">ჩასმა ჩვეულებრივი ტექსტის სახით</translation>
 <translation id="1017280919048282932">&amp;ლექსიკონში დამატება</translation>
-<translation id="1732768497619250086">სურათების აღწერილობების მიღება Gab AI Inc-ისგან</translation>
+<translation id="1732768497619250086">სურათების აღწერილობების მიღება Fulldive-ისგან</translation>
 <translation id="7561196759112975576">ყოველთვის</translation>
 <translation id="2241634353105152135">მხოლოდ ერთხელ</translation>
 <translation id="3387614642886316601">მართლწერის გაძლიერებული შემოწმების გამოყენება</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">ჩართვა</translation>
 <translation id="7658239707568436148">გაუქმება</translation>
 <translation id="8915370057835397490">შემოთავაზების ჩატვირთვა</translation>
-<translation id="6191804255817539692">Gab AI Inc-ის სხვა შემოთავაზება აღარ არის</translation>
+<translation id="6191804255817539692">Fulldive-ის სხვა შემოთავაზება აღარ არის</translation>
 <translation id="1901303067676059328">&amp;ყველას არჩევა</translation>
 <translation id="3797900183766075808"><ph name="SEARCH_ENGINE"/>-ში „<ph name="SEARCH_TERMS"/>“-ის &amp;მოძიება</translation>
 <translation id="2721037002783622288"><ph name="SEARCH_ENGINE"/>-ში სურათის ძ&amp;იება</translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">ჩ&amp;ასმა</translation>
 <translation id="1815083418640426271">ჩასმა ჩვეულებრივი ტექსტის სახით</translation>
 <translation id="4022426551683927403">ლექსიკონში &amp;დამატება</translation>
-<translation id="6849870115130610913">სურათების აღწერილობების მიღება Gab AI Inc-ისგან</translation>
+<translation id="6849870115130610913">სურათების აღწერილობების მიღება Fulldive-ისგან</translation>
 <translation id="372722114124766626">მხოლოდ ერთხელ</translation>
 <translation id="4079140982534148664">მართლწერის გაძლიერებული შემოწმების გამოყენება</translation>
 <translation id="7487141338393529395">მართლწერის გაძლიერებული შემოწმების ჩართვა</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/> შეიცავს სენსიტიურ კონტენტს.</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/> შეიცავს სენსიტიურ კონტენტს, ამიტომ ის დაიბლოკა.</translation>
 <translation id="6651823585377804376">ჩამოტვირთული კონტენტი შეიცავს მავნე პროგრამას.</translation>
-<translation id="6529597483902964581"><ph name="FILE_NAME"/> შეიძლება სახიფათო იყოს. გსურთ, სკანირებისთვის Gab AI Inc-ის დამატებით დაცვას გაუგზავნოთ?</translation>
+<translation id="6529597483902964581"><ph name="FILE_NAME"/> შეიძლება სახიფათო იყოს. გსურთ, სკანირებისთვის Fulldive-ის დამატებით დაცვას გაუგზავნოთ?</translation>
 <translation id="4907161631261076876">ამ ფაილის ჩამოტვირთვა ხშირად არ ხორციელდება ხოლმე და ის შეიძლება სახიფათო იყოს.</translation>
 <translation id="6102043788063419338">ეს ფაილი დაიბლოკა დამატებითი დაცვის მიერ.</translation>
 <translation id="2773802008104670137">ამ ტიპის ფაილს თქვენი კომპიუტერისთვის ზიანის მიყენება შეუძლია.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">ჩამოტვირთვა გაუქმდა: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">ჩამოტვირთვა დასრულდა: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">ჩამოტვირთვა დასრულდა: <ph name="FILE_NAME"/>. ჩამოტვირთვების ზოლის არეზე გადასასვლელად დააჭირეთ კლავიშთა კომბინაციას: Shift+F6.</translation>
-<translation id="7033965027041115562"><ph name="FILE_NAME"/> შეიძლება სახიფათო იყოს. გსურთ, სკანირებისთვის Gab AI Inc-ის დამატებით დაცვას გაუგზავნოთ? ჩამოტვირთვების ზოლის არეზე გადასასვლელად დააჭირეთ კლავიშთა შემდეგ კომბინაციას: Shift+F6.</translation>
+<translation id="7033965027041115562"><ph name="FILE_NAME"/> შეიძლება სახიფათო იყოს. გსურთ, სკანირებისთვის Fulldive-ის დამატებით დაცვას გაუგზავნოთ? ჩამოტვირთვების ზოლის არეზე გადასასვლელად დააჭირეთ კლავიშთა შემდეგ კომბინაციას: Shift+F6.</translation>
 <translation id="2743387203779672305">კოპირება გაცვლის ბუფერში</translation>
 <translation id="883911313571074303">სურათის ანოტაცია</translation>
 <translation id="6291953229176937411">ჩ&amp;ვენება მაძიებელში</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">გასვლა</translation>
 <translation id="7376221878517288144">მაინც გსურთ ინკოგნიტო რეჟიმიდან გასვლა?</translation>
 <translation id="973473557718930265">გამოსვლა</translation>
-<translation id="7707599169365957976">შეუწყვეთ ხელი Safe Browsing-ის გაუმჯობესებას სისტემის გარკვეული ინფორმაციასა და გვერდების კონტენტის Gab AI Inc-ისთვის გაგზავნით.</translation>
+<translation id="7707599169365957976">შეუწყვეთ ხელი Safe Browsing-ის გაუმჯობესებას სისტემის გარკვეული ინფორმაციასა და გვერდების კონტენტის Fulldive-ისთვის გაგზავნით.</translation>
 <translation id="4923279099980110923">დიახ, მინდა დაგეხმაროთ</translation>
 <translation id="2316129865977710310">არა, გმადლობთ</translation>
 <translation id="9169931577761441333"><ph name="APP_NAME"/>-ის დამატება მთავარ ეკრანზე</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">დაინსტალირებული თემა „<ph name="THEME_NAME"/>“</translation>
 <translation id="2256115617011615191">ახლავე გადატვირთვა</translation>
 <translation id="4545028762441890696">ხელახლა ჩასართავად დაეთანხმეთ ახალ ნებართვებს:</translation>
-<translation id="3009487527589249344">Gab AI Inc-მა მონიშნა „<ph name="EXTENSION_NAME"/>“, როგორც საზიანო და აკრძალა მისი ინსტალაცია</translation>
+<translation id="3009487527589249344">Fulldive-მა მონიშნა „<ph name="EXTENSION_NAME"/>“, როგორც საზიანო და აკრძალა მისი ინსტალაცია</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> დაემატა დისტანციურად</translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> გათიშულია</translation>
 <translation id="595959584676692139">ამ გაფართოების გამოსაყენებლად გადატვირთეთ გვერდი</translation>
@@ -970,7 +970,7 @@
 <translation id="3584169441612580296">ფოტოების, მუსიკის და სხვა მედიის თქვენი კომპიუტერიდან წაკითხვა და შეცვლა</translation>
 <translation id="5457459357461771897">ფოტოების, მუსიკის და კომპიუტერის სხვა მედიის წაკითხვა და წაშლა</translation>
 <translation id="3270965368676314374">ფოტოების, მუსიკის და კომპიუტერის სხვა მედიის წაკითხვა, შეცვლა და წაშლა</translation>
-<translation id="1285484354230578868">მონაცემების შენახვა თქვენს Gab AI Inc Drive ანგარიშზე</translation>
+<translation id="1285484354230578868">მონაცემების შენახვა თქვენს Fulldive Drive ანგარიშზე</translation>
 <translation id="378312418865624974">ამ კომპიუტერის უნიკალური იდენტიფიკატორის წაკითხვა</translation>
 <translation id="5094721898978802975">მოთანამშრომლე ძირითად პროგრამებთან კომუნიკაცია</translation>
 <translation id="4876895919560854374">ეკრანის ჩაკეტვა და გახსნა</translation>
@@ -1181,7 +1181,7 @@
 <translation id="8756969031206844760">გსურთ პაროლის განახლება?</translation>
 <translation id="8230134520748321204">გსურთ, <ph name="ORIGIN"/>-ის პაროლის შენახვა?</translation>
 <translation id="9040661932550800571">გსურთ <ph name="ORIGIN"/>-ის პაროლის განახლება?</translation>
-<translation id="8284000761603848448">პაროლები ინახება თქვენს Gab AI Inc ანგარიშში, რაც ნიშნავს, რომ მათი გამოყენება ნებისმიერ მოწყობილობაზე შეგიძლიათ</translation>
+<translation id="8284000761603848448">პაროლები ინახება თქვენს Fulldive ანგარიშში, რაც ნიშნავს, რომ მათი გამოყენება ნებისმიერ მოწყობილობაზე შეგიძლიათ</translation>
 <translation id="8286036467436129157">შესვლა</translation>
 <translation id="8009225694047762179">პაროლების მართვა</translation>
 <translation id="3950820424414687140">შესვლა</translation>
@@ -1189,10 +1189,10 @@
 <translation id="328571385944182268">გსურთ თქვენი პაროლების შენახვა?</translation>
 <translation id="3753033997400164841">შეინახეთ ერთხელ. გამოიყენეთ ყველგან</translation>
 <translation id="1703331064825191675">ნუღარ ინერვიულებთ თქვენს პაროლებზე</translation>
-<translation id="2341030170677284705">უსაფრთხოდ შეინახეთ პაროლები თქვენს Gab AI Inc ანგარიშში და მათი აკრეფა აღარასოდეს მოგიწევთ</translation>
-<translation id="3913985461352963178">იქონიეთ წვდომა თქვენს პაროლებზე, როცა შესული ხართ თქვენს Gab AI Inc ანგარიშში</translation>
-<translation id="4851124464356820177">პაროლების თქვენს Gab AI Inc ანგარიშში შესანახად შედით სისტემაში და ჩართეთ სინქრონიზაცია.</translation>
-<translation id="3229869963989850535">თქვენს Gab AI Inc ანგარიშში პაროლების შესანახად ჩართეთ სინქრონიზაცია.</translation>
+<translation id="2341030170677284705">უსაფრთხოდ შეინახეთ პაროლები თქვენს Fulldive ანგარიშში და მათი აკრეფა აღარასოდეს მოგიწევთ</translation>
+<translation id="3913985461352963178">იქონიეთ წვდომა თქვენს პაროლებზე, როცა შესული ხართ თქვენს Fulldive ანგარიშში</translation>
+<translation id="4851124464356820177">პაროლების თქვენს Fulldive ანგარიშში შესანახად შედით სისტემაში და ჩართეთ სინქრონიზაცია.</translation>
+<translation id="3229869963989850535">თქვენს Fulldive ანგარიშში პაროლების შესანახად ჩართეთ სინქრონიზაცია.</translation>
 <translation id="1056466516655540509">განახლდა <ph name="MINUTES"/> წუთის წინ</translation>
 <translation id="8743864605301774756">განახლდა 1 საათის წინ</translation>
 <translation id="7363117941401515667">განახლდა <ph name="HOURS"/> საათის წინ</translation>
@@ -1296,9 +1296,9 @@
 <translation id="1246905108078336582">გსურთ შემოთავაზების გაცვლის ბუფერიდან ამოშლა?</translation>
 <translation id="825238165904109940">URL-ების ყოველთვის სრულად გამოჩენა</translation>
 <translation id="3416468988018290825">URL-ების ყოველთვის სრულად გამოჩენა</translation>
-<translation id="2129873093718581193">მოიძიეთ Gab AI Inc-ში, ან აკრიფეთ URL</translation>
-<translation id="6363797201514053536">მოიძიეთ Gab AI Inc-ით, ან აკრიფეთ URL</translation>
-<translation id="4888839742663123585">Gab AI Inc-ში ძიება</translation>
+<translation id="2129873093718581193">მოიძიეთ Fulldive-ში, ან აკრიფეთ URL</translation>
+<translation id="6363797201514053536">მოიძიეთ Fulldive-ით, ან აკრიფეთ URL</translation>
+<translation id="4888839742663123585">Fulldive-ში ძიება</translation>
 <translation id="6078323886959318429">მალსახმობის დამატება</translation>
 <translation id="6324916366299863871">მალსახმობის რედაქტირება</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1482,35 +1482,35 @@
 <translation id="6798578729981748444">იმპორტის დასასრულებლად დახურეთ Firefox-ის ყველა ფანჯარა.</translation>
 <translation id="6374469231428023295">ხელახლა ცდა</translation>
 <translation id="8725066075913043281">ხელახლა სცადეთ</translation>
-<translation id="4196805003686694274">გამოხმაურების გაგზავნა Gab AI Inc-ში</translation>
+<translation id="4196805003686694274">გამოხმაურების გაგზავნა Fulldive-ში</translation>
 <translation id="3424969259347320884">აღწერეთ, რას აკეთებდით, როცა ჩანართი ავარიულად გაითიშა</translation>
-<translation id="1892630320532151038">გამოხმაურების გაგზავნა Gab AI Inc-ში</translation>
+<translation id="1892630320532151038">გამოხმაურების გაგზავნა Fulldive-ში</translation>
 <translation id="2428510569851653187">აღწერეთ, რას აკეთებდით, როცა ჩანართი ავარიულად გაითიშა</translation>
 <translation id="5659593005791499971">ელფოსტა</translation>
 <translation id="2982970937345031">ანონიმურად შეტყობინება</translation>
 <translation id="6076448957780543068">ეკრანის ამ ანაბეჭდის დართვა</translation>
 <translation id="2865919525181940183">ეკრანზე ამჟამად გაშვებული პროგრამების ანაბეჭდი</translation>
 <translation id="7052237160939977163">ეფექტურობის ტრასირების მონაცემების გაგზავნა</translation>
-<translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth ჟურნალების<ph name="END_LINK"/> დართვა (Gab AI Inc-ის შიდა გამოყენებისთვის)</translation>
+<translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth ჟურნალების<ph name="END_LINK"/> დართვა (Fulldive-ის შიდა გამოყენებისთვის)</translation>
 <translation id="3047644958362961983">ეს ინფორმაცია დაგვეხმარება, უკეთ გავერკვიოთ, თუ რა პრობლემა გაქვთ ასისტენტთან დაკავშირებით. ის ინახება მაქსიმუმ 90 დღის ვადით და მასზე წვდომა აქვს მხოლოდ ინჟინერებისა და უკუკავშირის შესაბამის გუნდებს.</translation>
-<translation id="8545590844135745781">Bluetooth-თან დაკავშირებული პრობლემების უკეთ დიაგნოსტირების მიზნით, Gab AI Incr-ის თანამშრომლებს შეუძლიათ გამოხმაურებისთვის Bluetooth-ის დამატებითი ჟურნალების დართვა. ამ ვარიანტის მონიშვნის შემთხვევაში, თქვენს ანგარიშს დაერთვება მიმდინარე სესიის btsnoop და HCI ჟურნალები, რომლებიდანაც მაქსიმალურად ამოიშლება ინფორმაცია, რომლის მეშვეობითაც შესაძლებელია პიროვნების ვინაობის დადგენა. აღნიშნულ ჟურნალებზე წვდომა შეეძლებათ მხოლოდ Fulldive OS პროდუქტის ჯგუფის მენეჯერებს Listnr-ში. ჟურნალები გასუფთავდება 90 დღის შემდეგ.</translation>
+<translation id="8545590844135745781">Bluetooth-თან დაკავშირებული პრობლემების უკეთ დიაგნოსტირების მიზნით, Fulldiver-ის თანამშრომლებს შეუძლიათ გამოხმაურებისთვის Bluetooth-ის დამატებითი ჟურნალების დართვა. ამ ვარიანტის მონიშვნის შემთხვევაში, თქვენს ანგარიშს დაერთვება მიმდინარე სესიის btsnoop და HCI ჟურნალები, რომლებიდანაც მაქსიმალურად ამოიშლება ინფორმაცია, რომლის მეშვეობითაც შესაძლებელია პიროვნების ვინაობის დადგენა. აღნიშნულ ჟურნალებზე წვდომა შეეძლებათ მხოლოდ Fulldive OS პროდუქტის ჯგუფის მენეჯერებს Listnr-ში. ჟურნალები გასუფთავდება 90 დღის შემდეგ.</translation>
 <translation id="4206323443866416204">გამოხმაურების ანგარიში</translation>
 <translation id="3681311097828166361">გმადლობთ გამოხმაურებისთვის. ახლა ხაზგარეშე რეჟიმში ხართ და თქვენი ანგარიში მოგვიანებით გაიგზავნება.</translation>
 <translation id="8713570323158206935">გააგზავნეთ <ph name="BEGIN_LINK1"/>სისტემის ინფორმაცია<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962"><ph name="BEGIN_LINK1"/>სისტემის ინფორმაციის<ph name="END_LINK1"/> და <ph name="BEGIN_LINK2"/>მეტრიკის<ph name="END_LINK2"/> გაგზავნა</translation>
 <translation id="6270770586500173387"><ph name="BEGIN_LINK1"/>სისტემისა/აპების ინფორმაციისა<ph name="END_LINK1"/> და <ph name="BEGIN_LINK2"/>მეტრიკის<ph name="END_LINK2"/> გაგზავნა</translation>
 <translation id="3894123633473837029">ასისტენტის ბოლოდროინდელი ისტორიის დართვა Sherlog-ის მეშვეობით. აღნიშნული შეიძლება მოიცავდეს ინფორმაციას თქვენი ვინაობის, მდებარეობის და ხარვეზების გამართვის შესახებ. <ph name="BEGIN_LINK"/>შეიტყვეთ მეტი<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">ფაილი, გამართვის მიზნით, Gab AI Inc-ს გაეგზავნება</translation>
+<translation id="8329196515830093443">ფაილი, გამართვის მიზნით, Fulldive-ს გაეგზავნება</translation>
 <translation id="8227119283605456246">ფაილის მიმაგრება</translation>
 <translation id="5367091008316207019">ფაილის კითხვა…</translation>
 <translation id="2554553592469060349">არჩეული ფაილი ძალიან დიდია (მაქს. ზომა: 3 მბ).</translation>
 <translation id="4690091457710545971">&lt;Intel Wi-Fi ჩაშენებული პროგრამული უზრუნველყოფის მიერ გენერირებული ოთხი ფაილი: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon. პირველი სამი არის ორობითი ფაილი, რომელიც შეიცავს რეგისტრის დამპებს და Intel ადასტურებს, რომ ისინი არ შეიცავს პიროვნების ან მოწყობილობის მაიდენტიფირებელ ინფორმაციას. ბოლო ფაილი წარმოადგენს Intel-ის ჩაშენებული პროგრამული უზრუნველყოფის შესრულების ტრასირებას, რომელიდანაც ამოშლილია პიროვნების ან მოწყობილობის მაიდენტიფირებელი ინფორმაცია, თუმცა ის მეტისმეტად დიდია აქ საჩვენებლად. აღნიშნული ფაილები გენერირებული იყო თქვენს მოწყობილობაში Wi-Fi ქსელთან დაკავშირებული პრობლემების პასუხად, რომლებიც ბოლო დროს დაფიქსირდა, და გაზიარდება Intel-თან აღნიშნული პრობლემების აღმოფხვრის მიზნით.&gt;</translation>
-<translation id="6972420083546794501">სამართლებრივ საფუძველზე კონტენტის შეცვლის მოთხოვნის გადასაგზავნად ეწვიეთ <ph name="BEGIN_LINK1"/>იურიდიული დახმარების გვერდს<ph name="END_LINK1"/>. ანგარიშისა და სისტემის გარკვეული ინფორმაცია შეიძლება გაეგზავნოს Gab AI Inc-ს. აღნიშნული ინფორმაციის გამოყენება მოხდება ტექნიკური პრობლემების მოსაგვარებლად და ჩვენი სერვისების გასაუმჯობესებლად, ჩვენი <ph name="BEGIN_LINK2"/>კონფიდენციალურობის დებულებისა<ph name="END_LINK2"/> და <ph name="BEGIN_LINK3"/>მომსახურების პირობების<ph name="END_LINK3"/> შესაბამისად.</translation>
+<translation id="6972420083546794501">სამართლებრივ საფუძველზე კონტენტის შეცვლის მოთხოვნის გადასაგზავნად ეწვიეთ <ph name="BEGIN_LINK1"/>იურიდიული დახმარების გვერდს<ph name="END_LINK1"/>. ანგარიშისა და სისტემის გარკვეული ინფორმაცია შეიძლება გაეგზავნოს Fulldive-ს. აღნიშნული ინფორმაციის გამოყენება მოხდება ტექნიკური პრობლემების მოსაგვარებლად და ჩვენი სერვისების გასაუმჯობესებლად, ჩვენი <ph name="BEGIN_LINK2"/>კონფიდენციალურობის დებულებისა<ph name="END_LINK2"/> და <ph name="BEGIN_LINK3"/>მომსახურების პირობების<ph name="END_LINK3"/> შესაბამისად.</translation>
 <translation id="7915471803647590281">გთხოვთ გვითხრათ, რა ხდება უკუკავშირის გაგზავნამდე.</translation>
 <translation id="6885771755599377173">სისტემის ინფორმაციის გადახედვა</translation>
 <translation id="1016566241875885511">დამატებითი ინფორმაცია (არასავალდებულო)</translation>
 <translation id="8026334261755873520">დათვალიერების მონაცემების გასუფთავება</translation>
-<translation id="4718442817388594217">არჩეული მონაცემები ამოიშალა Fulldive-იდან და სინქრონიზებული მოწყობილობებიდან. თქვენს Gab AI Inc ანგარიშში შეიძლება სხვა ტიპის დათვალიერების ისტორია იყოს შენახული (მაგალითად, ძიებები და Gab AI Inc-ის სხვა სერვისებზე აქტივობა), რომელიც ხელმისაწვდომია მისამართზე: <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="4718442817388594217">არჩეული მონაცემები ამოიშალა Fulldive-იდან და სინქრონიზებული მოწყობილობებიდან. თქვენს Fulldive ანგარიშში შეიძლება სხვა ტიპის დათვალიერების ისტორია იყოს შენახული (მაგალითად, ძიებები და Fulldive-ის სხვა სერვისებზე აქტივობა), რომელიც ხელმისაწვდომია მისამართზე: <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7814200940910057384">Fulldive მონაცემები გასუფთავდა</translation>
 <translation id="7346909386216857016">კარგი, გასაგებია</translation>
 <translation id="8493236660459102203">მიკროფონი:</translation>
@@ -1533,7 +1533,7 @@
 <translation id="284805635805850872">გსურთ საზიანო პროგრამული უზრუნველყოფის ამოშლა?</translation>
 <translation id="489985760463306091">საზიანო პროგრამული უზრუნველყოფის ამოშლის დასასრულებლად გადატვირთეთ თქვენი კომპიუტერი</translation>
 <translation id="7598466960084663009">კომპიუტერის გადატვირთვა</translation>
-<translation id="2819091349626575960">დეტალების მოხსენება Gab AI Inc-ისთვის</translation>
+<translation id="2819091349626575960">დეტალების მოხსენება Fulldive-ისთვის</translation>
 <translation id="4099060993766194518">გსურთ ნაგულისხმევი საძიებო სისტემის აღდგენა?</translation>
 <translation id="138784436342154190">გსურთ ნაგულისხმევი გაშვების გვერდის აღდგენა?</translation>
 <translation id="5086874064903147617">გსურთ ნაგულისხმევი მთავარი გვერდის აღდგენა?</translation>
@@ -1643,10 +1643,10 @@
 <translation id="3693415264595406141">პაროლი:</translation>
 <translation id="9111102763498581341">განბლოკვა</translation>
 <translation id="2190355936436201913">(ცარიელი)</translation>
-<translation id="9079153198295609735">გამოყენების სტატისტიკისა და შეცდომების შესახებ მოხსენებების ავტომატური გაგზავნა Gab AI Inc-ში</translation>
+<translation id="9079153198295609735">გამოყენების სტატისტიკისა და შეცდომების შესახებ მოხსენებების ავტომატური გაგზავნა Fulldive-ში</translation>
 <translation id="7136984461011502314">მოგესალმებათ <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> მზად არის ინსტალაციის დასასრულებლად</translation>
-<translation id="4711067597921221305">დახმარება აუმჯობესებს <ph name="PRODUCT_NAME"/> ს Gab AI Inc-ისათვის მეხსიერების სტატისტიკის და ავარიული ანგარიშების ავტომატურ მიწოდებას</translation>
+<translation id="4711067597921221305">დახმარება აუმჯობესებს <ph name="PRODUCT_NAME"/> ს Fulldive-ისათვის მეხსიერების სტატისტიკის და ავარიული ანგარიშების ავტომატურ მიწოდებას</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/>-ის გაშვება</translation>
 <translation id="4876273079589074638">ხელი შეუწყვეთ ჩვენს ინჟინრებს, შეისწავლონ და გამოასწორონ ავარიულად გათიშვის მიზეზი. შეძლებისდაგვარად, ზუსტად ჩამოთვალეთ ყველა ეტაპი. ყოველი დეტალი მნიშვნელოვანია!</translation>
 <translation id="5418694430960033386">შესაძლოა Fulldive-ისთვის არასაკმარისი მეხსიერებაა ან ვებგვერდისთვის გაშვებული პროცესი შეწყდა სხვა მიზეზის გამო. გასაგრძელებლად, ხელახლა ჩატვირთეთ ან გადადით სხვა გვერდზე.</translation>
@@ -1659,7 +1659,7 @@
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">პლატფორმა</translation>
 <translation id="7022562585984256452">მთავარი გვერდი დაყენდა.</translation>
-<translation id="8069615408251337349">Gab AI Inc Cloud Print</translation>
+<translation id="8069615408251337349">Fulldive Cloud Print</translation>
 <translation id="4973307593867026061">პრინტერების დამატება</translation>
 <translation id="9052208328806230490">თქვენ დაარეგისტრირეთ თქვენი პრინტერები <ph name="CLOUD_PRINT_NAME"/>-ში ანგარიშით <ph name="EMAIL"/></translation>
 <translation id="3792890930871100565">გამორთეთ პრინტერები</translation>
@@ -1693,7 +1693,7 @@
 <translation id="7063129466199351735">მალსახმობების დამუშავება…</translation>
 <translation id="8987927404178983737">თვე</translation>
 <translation id="6015796118275082299">წელი</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">სისტემის სათაურის ზოლის და საზღვრების გამოყენება</translation>
 <translation id="3293644607209440645">ამ გვერდის გაგზავნა</translation>
 <translation id="1521774566618522728">აქტიური იყო დღეს</translation>
@@ -1747,7 +1747,7 @@
 <translation id="8930351635855238750">ქუქი-ჩანაწერების ახალი პარამეტრები გააქტიურდება გვერდის გადატვირთვის შემდეგ</translation>
 <translation id="2568774940984945469">საინფორმაციო ზოლის კონტეინერი</translation>
 <translation id="7282992757463864530">საინფორმაციო ზოლი</translation>
-<translation id="1805077115206898822">თქვენი სანიშნეები, ისტორია და სხვა პარამეტრები დასინქრონდება Gab AI Inc ანგარიშთან.</translation>
+<translation id="1805077115206898822">თქვენი სანიშნეები, ისტორია და სხვა პარამეტრები დასინქრონდება Fulldive ანგარიშთან.</translation>
 <translation id="1974060860693918893">გაფართოებული</translation>
 <translation id="2445484935443597917">ახალი პროფილის შექმნა</translation>
 <translation id="2606246518223360146">მონაცემების მიბმა</translation>
@@ -1834,7 +1834,7 @@
 <translation id="6387674443318562538">ვერტიკალური გაყოფა</translation>
 <translation id="1231733316453485619">გსურთ სინქრონიზაციის ჩართვა?</translation>
 <translation id="4736292055110123391">მოახდინეთ თქვენი სანიშნეების, პაროლების, ისტორიისა და სხვა კონტენტის სინქრონიზაცია თქვენს ყველა მოწყობილობას შორის</translation>
-<translation id="5736731321935944068">Gab AI Inc-მა შეიძლება გამოიყენოს თქვენი ისტორია Search-ის, რეკლამისა და Gab AI Inc-ის სხვა სერვისების თქვენზე მოსარგებად</translation>
+<translation id="5736731321935944068">Fulldive-მა შეიძლება გამოიყენოს თქვენი ისტორია Search-ის, რეკლამისა და Fulldive-ის სხვა სერვისების თქვენზე მოსარგებად</translation>
 <translation id="4201546031411513170">პარამეტრებიდან ნებისმიერ დროს შეგიძლიათ აირჩიოთ, რისი სინქრონიზაცია გსურთ.</translation>
 <translation id="2497852260688568942">სინქრონიზაცია გათიშულია თქვენი ადმინისტრატორის მიერ</translation>
 <translation id="562935524653278697">თქვენი სანიშნეების, ისტორიის, პაროლების და სხვა პარამეტრების სინქრონიზაცია გათიშულია თქვენი ადმინისტრატორის მიერ.</translation>
@@ -1913,10 +1913,10 @@
 <translation id="6198102561359457428">გამოდით, შემდეგ ისევ შედით…</translation>
 <translation id="4634771451598206121">ხელახლა შესვლა…</translation>
 <translation id="7117247127439884114">ხელახლა შედით…</translation>
-<translation id="4251909665067750757">შედით სისტემაში თქვენი სანიშნეების, ისტორიის, პაროლებისა და სხვა პარამეტრების ყველა თქვენს მოწყობილობაში მისაღებად. თქვენ ასევე ავტომატურად შეხვალთ თქვენს Gab AI Inc-ის სერვისებში.</translation>
+<translation id="4251909665067750757">შედით სისტემაში თქვენი სანიშნეების, ისტორიის, პაროლებისა და სხვა პარამეტრების ყველა თქვენს მოწყობილობაში მისაღებად. თქვენ ასევე ავტომატურად შეხვალთ თქვენს Fulldive-ის სერვისებში.</translation>
 <translation id="2749756011735116528">შედით <ph name="PRODUCT_NAME"/>-ში</translation>
 <translation id="2126167708562367080">სინქრონიზაცია გათიშულია თქვენი ადმინისტრატორის მიერ.</translation>
-<translation id="5462539695964427820">სინქრონიზაცია შეწყდა Gab AI Inc Dashboard-იდან.</translation>
+<translation id="5462539695964427820">სინქრონიზაცია შეწყდა Fulldive Dashboard-იდან.</translation>
 <translation id="8805140816472474147">სინქრონიზაციის დასაწყებად დაადასტურეთ სინქრონიზაციის პარამეტრები.</translation>
 <translation id="5771816112378578655">მიმდინარეობს ინსტალაცია…</translation>
 <translation id="3492788708641132712">სინქრონიზაცია არ მუშაობს. ცადეთ სისტემაში ხელახლა შესვლა.</translation>
@@ -1930,14 +1930,14 @@
 <translation id="1877520246462554164">ავტორიზაციის ჟეტონის მიღება ვერ მოხერხდა. ხელახლა საცდელად, გთხოვთ, გახვიდეთ და ხელახლა შეხვიდეთ სისტემაში.</translation>
 <translation id="9100765901046053179">გაფართოებული პარამეტრები</translation>
 <translation id="2731700343119398978">დაელოდეთ…</translation>
-<translation id="7218743184834293955">მონაცემები დაშიფრულია თქვენი სინქრონიზაციის საიდუმლო ფრაზით. აღნიშნული არ მოიცავს Gab AI Inc Pay-ში შენახულ გადახდის მეთოდებსა და მისამართებს.</translation>
-<translation id="7158251077901880179">მონაცემები დაშიფრულია თქვენი სინქრონიზაციის საიდუმლო ფრაზით <ph name="TIME"/>-დან. აღნიშნული არ მოიცავს Gab AI Inc Pay-ში შენახულ გადახდის მეთოდებსა და მისამართებს.</translation>
-<translation id="1171389789873508468">მონაცემები დაშიფრულია თქვენი Gab AI Inc პაროლით <ph name="TIME"/>-ის მდგომარეობით. აღნიშნული არ მოიცავს Gab AI Inc Pay-ში შენახულ გადახდის მეთოდებსა და მისამართებს.</translation>
+<translation id="7218743184834293955">მონაცემები დაშიფრულია თქვენი სინქრონიზაციის საიდუმლო ფრაზით. აღნიშნული არ მოიცავს Fulldive Pay-ში შენახულ გადახდის მეთოდებსა და მისამართებს.</translation>
+<translation id="7158251077901880179">მონაცემები დაშიფრულია თქვენი სინქრონიზაციის საიდუმლო ფრაზით <ph name="TIME"/>-დან. აღნიშნული არ მოიცავს Fulldive Pay-ში შენახულ გადახდის მეთოდებსა და მისამართებს.</translation>
+<translation id="1171389789873508468">მონაცემები დაშიფრულია თქვენი Fulldive პაროლით <ph name="TIME"/>-ის მდგომარეობით. აღნიშნული არ მოიცავს Fulldive Pay-ში შენახულ გადახდის მეთოდებსა და მისამართებს.</translation>
 <translation id="2562743677925229011">არ არის შესული <ph name="SHORT_PRODUCT_NAME"/>-ში</translation>
 <translation id="4027804175521224372">(თქვენ გამოტოვეთt - <ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">შესვლა</translation>
 <translation id="237828693408258535">გსურთ ამ გვერდის თარგმნა?</translation>
-<translation id="4613765529964435709">გსურთ, Gab AI Inc-მა ამ <ph name="SOURCE_LANGUAGE"/> გვერდის <ph name="TARGET_LANGUAGE"/> ვერსია შემოგთავაზოთ?</translation>
+<translation id="4613765529964435709">გსურთ, Fulldive-მა ამ <ph name="SOURCE_LANGUAGE"/> გვერდის <ph name="TARGET_LANGUAGE"/> ვერსია შემოგთავაზოთ?</translation>
 <translation id="5990386583461751448">ნათარგმნია</translation>
 <translation id="5659833766619490117">ეს გვერდი ვერ ითარგმნა</translation>
 <translation id="969096075394517431">შეცვალეთ ენები</translation>
@@ -2116,7 +2116,7 @@
 <translation id="6309510305002439352">მიკროფონი გამორთულია</translation>
 <translation id="1322046419516468189">შენახული პაროლების ნახვა და მართვა შეგიძლიათ სექციაში „<ph name="SAVED_PASSWORDS_STORE"/>“</translation>
 <translation id="5297082477358294722">პაროლი შენახულია. შენახული პაროლების ნახვა და მართვა შეგიძლიათ სექციაში „<ph name="SAVED_PASSWORDS_STORE"/>“.</translation>
-<translation id="5713644099811900409">Gab AI Inc ანგარიში</translation>
+<translation id="5713644099811900409">Fulldive ანგარიში</translation>
 <translation id="3785727820640310185">ამ საიტისთვის შენახული პაროლები</translation>
 <translation id="3404065873681873169">ამ საიტისთვის პაროლები შენახული არ არის</translation>
 <translation id="8470513973197838199"><ph name="ORIGIN"/>-ისთვის შენახული პაროლები</translation>
@@ -2229,7 +2229,7 @@
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{ეკრანი #}other{ეკრანი #}}</translation>
 <translation id="839736845446313156">რეგისტრაცია</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{ახალი პრინტერი თქვენს ქსელში}other{ახალი პრინტერები თქვენს ქსელში}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{დაამატეთ პრინტერი Gab AI Inc Cloud Print-ს ნებისმიერი ადგილიდან ბეჭდვისთვის.}other{დაამატეთ # პრინტერი Gab AI Inc Cloud Print-ს ნებისმიერი ადგილიდან ბეჭდვისთვის.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{დაამატეთ პრინტერი Fulldive Cloud Print-ს ნებისმიერი ადგილიდან ბეჭდვისთვის.}other{დაამატეთ # პრინტერი Fulldive Cloud Print-ს ნებისმიერი ადგილიდან ბეჭდვისთვის.}}</translation>
 <translation id="409579654357498729">Cloud Print-ში დამატება</translation>
 <translation id="4628757576491864469">მოწყობილობები</translation>
 <translation id="6915804003454593391">მომხმარებელი:</translation>
@@ -2239,8 +2239,8 @@
 <translation id="1895934970388272448">პროცესის დასრულებისთვის თქვენი პრინტერის რეგისტრაცია უნდა დაადასტუროთ - შეამოწმეთ ახლა.</translation>
 <translation id="551752069230578406">თქვენს ანგარიშზე პრინტერის დამატება - ამას შეიძლება დასჭირდეს მცირე დრო…</translation>
 <translation id="2384436799579181135">მოხდა შეცდომა. გთხოვთ, შეამოწმოთ პრინტერი და ცადოთ ხელახლა.</translation>
-<translation id="1327074568633507428">პრინტერი Gab AI Inc Cloud Print-ზე</translation>
-<translation id="6782994146626179935">მოწყობილობა Gab AI Inc Cloud Devices-ზე</translation>
+<translation id="1327074568633507428">პრინტერი Fulldive Cloud Print-ზე</translation>
+<translation id="6782994146626179935">მოწყობილობა Fulldive Cloud Devices-ზე</translation>
 <translation id="7140928199327930795">სხვა ხელმისაწვდომი მოწყობილობები არ არის.</translation>
 <translation id="8213577208796878755">ერთი სხვა ხელმისაწვდომი მოწყობილობა.</translation>
 <translation id="1495486559005647033"><ph name="NUM_PRINTERS"/> სხვა ხელმისაწვდომი მოწყობილობა.</translation>
@@ -2256,7 +2256,7 @@
 <translation id="715118844758971915">კლასიკური პრინტერები</translation>
 <translation id="4263757076580287579">პრინტერის რეგისტრაცია გაუქმდა.</translation>
 <translation id="8152091997436726702">პრინტერის რეგისტრაციის ვადა ამოიწურა. პრინტერის დასარეგისტრირებლად საჭიროა მასზე რეგისტრაციის დადასტურება.</translation>
-<translation id="2624930408905606513">დოკუმენტები <ph name="BEGIN_LINK_HELP"/>გაეგზავნება Gab AI Inc-ს<ph name="END_LINK_HELP"/> ბეჭდვისთვის მოსამზადებლად. თქვენი პრინტერებისა და პრინტერების ისტორიის ნახვა, რედაქტირება და მართვა შეგიძლიათ <ph name="BEGIN_LINK_DASHBOARD"/>Gab AI Inc Cloud Print-ის საინფორმაციო დაფაზე<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513">დოკუმენტები <ph name="BEGIN_LINK_HELP"/>გაეგზავნება Fulldive-ს<ph name="END_LINK_HELP"/> ბეჭდვისთვის მოსამზადებლად. თქვენი პრინტერებისა და პრინტერების ისტორიის ნახვა, რედაქტირება და მართვა შეგიძლიათ <ph name="BEGIN_LINK_DASHBOARD"/>Fulldive Cloud Print-ის საინფორმაციო დაფაზე<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">ეს ჩანართი იყენებს თქვენს კამერაა ან მიკროფონს.</translation>
 <translation id="3578594933904494462">ამ ჩანართის შიგთავსი გაზიარებულია.</translation>
 <translation id="4449996769074858870">ამ ჩანართზე დაკრულია ვიდეო.</translation>
@@ -2382,14 +2382,14 @@
 <translation id="7055152154916055070">გადამისამართება დაიბლოკა:</translation>
 <translation id="6777817260680419853">გადამისამართება დაიბლოკა</translation>
 <translation id="694592694773692225">გადამისამართება დაიბლოკა ამ გვერდზე.</translation>
-<translation id="8945142681652245463">დაათვალიერეთ ვები სწრაფად Gab AI Inc Fulldive-ის მეშვეობით</translation>
-<translation id="2618024864038703735">დაათვალიერეთ ვები უსაფრთხოდ Gab AI Inc Fulldive-ის მეშვეობით</translation>
+<translation id="8945142681652245463">დაათვალიერეთ ვები სწრაფად Fulldive Fulldive-ის მეშვეობით</translation>
+<translation id="2618024864038703735">დაათვალიერეთ ვები უსაფრთხოდ Fulldive Fulldive-ის მეშვეობით</translation>
 <translation id="8142180567942285208">დაათვალიერეთ ვები გონივრულად Fulldive-ის მეშვეობით</translation>
 <translation id="8862003515646449717">გადადით სწრაფ ბრაუზერზე</translation>
 <translation id="8438328416656800239">გადადით გონიერ ბრაუზერზე</translation>
 <translation id="491691592645955587">გადადით უსაფრთხო ბრაუზერზე</translation>
 <translation id="683373380308365518">გადადით გონიერ და უსაფრთხო ბრაუზერზე</translation>
-<translation id="989239400026154074">Gab AI Inc გირჩევთ Fulldive-ს</translation>
+<translation id="989239400026154074">Fulldive გირჩევთ Fulldive-ს</translation>
 <translation id="6676231621615806698">Fulldive-ის გახსნა</translation>
 <translation id="5250372599208556903">ადგილობრივი კონტენტის უზრუნველსაყოფად <ph name="SEARCH_ENGINE_NAME"/> იყენებს თქვენს მდებარეობას. ამის შეცვლა შეგიძლიათ სექციაში „<ph name="SETTINGS_LINK"/>“.</translation>
 <translation id="3737536731758327622">აქ გამოჩნდება თქვენი ჩამოტვირთვები</translation>
@@ -2555,7 +2555,7 @@
 <translation id="2878782256107578644">მიმდინარეობს სკანირება. გსურთ ახლავე გახსნა?</translation>
 <translation id="6098793583803863900">მიმდინარეობს სახიფათო კონტენტის სკანირება უცნობ ფაილში.</translation>
 <translation id="7584578941316704630">გსურთ გახსნამდე სკანირება?</translation>
-<translation id="4467402456678825062">არჩეული ფაილი უცნობია და შეიძლება სახიფათო იყოს. გსურთ, სკანირებისთვის Gab AI Inc-ის დამატებით დაცვას გაუგზავნოთ?</translation>
+<translation id="4467402456678825062">არჩეული ფაილი უცნობია და შეიძლება სახიფათო იყოს. გსურთ, სკანირებისთვის Fulldive-ის დამატებით დაცვას გაუგზავნოთ?</translation>
 <translation id="2587922766792651800">მოლოდინის დრო ამოიწურა</translation>
 <translation id="4404136731284211429">ხელახლა სკანირება</translation>
 <translation id="6428450836711225518">დაადასტურეთ თქვენი ტელეფონის ნომერი</translation>
@@ -2563,7 +2563,7 @@
 <translation id="6518133107902771759">გადამოწმება</translation>
 <translation id="4379281552162875326">გსურთ „<ph name="APP_NAME"/>“-ის დეინსტალაცია?</translation>
 <translation id="8812593354822910461">დათვალიერების მონაცემების (<ph name="URL"/>) გასუფთავებაც (ეს გამოგიყვანთ <ph name="DOMAIN"/>-იდან). <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">დათვალიერების მონაცემების (<ph name="URL"/>) გასუფთავებაც (შესაძლოა, გამოხვიდეთ Gab AI Inc.com-დან). <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">დათვალიერების მონაცემების (<ph name="URL"/>) გასუფთავებაც (შესაძლოა, გამოხვიდეთ Fulldive.com-დან). <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">შეიტყვეთ მეტი</translation>
 <translation id="2346953515226895098">SODA Service</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> დაპაუზებულია</translation>
@@ -2719,7 +2719,7 @@
 <translation id="4144218403971135344">ნახეთ ვიდეოები უკეთესი ხარისხით და დაზოგეთ ბატარეა. ვიდეოები დაიკვრება მხოლოდ Cast-ის მხარდაჭერის მქონე ეკრანზე.</translation>
 <translation id="236117173274098341">ოპტიმიზაცია</translation>
 <translation id="8538358978858059843">გსურთ Cast-ისთვის ღრუბლოვანი სერვისების ჩართვა?</translation>
-<translation id="3856595552313160385">Hangouts-ისა და Cast for Education-ის გამოყენებაზე ვრცელდება Gab AI Inc-ის კონფიდენციალურობის დებულება.</translation>
+<translation id="3856595552313160385">Hangouts-ისა და Cast for Education-ის გამოყენებაზე ვრცელდება Fulldive-ის კონფიდენციალურობის დებულება.</translation>
 <translation id="3435896845095436175">ჩართვა</translation>
 <translation id="3700888195348409686">მიმდინარეობს პრეზენტაცია (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">ეკრანი <ph name="DISPLAY_ID"/></translation>
@@ -2957,9 +2957,9 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> და კიდევ 1 სხვა ანგარიში}other{<ph name="EMAIL"/> და კიდევ <ph name="EXTRA_ACCOUNTS"/> სხვა ანგარიში}}</translation>
 <translation id="7434635829372401939">თქვენი პარამეტრების სინქრონიზაცია</translation>
 <translation id="1036348656032585052">გამორთვა</translation>
-<translation id="3267705913905916810">თქვენი აპები და პარამეტრები სინქრონიზებული იქნება თქვენს ყველა Fulldive OS მოწყობილობასთან, რომელზეც შესული ხართ თქვენი Gab AI Inc ანგარიშით. ბრაუზერის სინქრონიზაციის პარამეტრების სანახავად გადადით <ph name="LINK_BEGIN"/>Fulldive-ის პარამეტრებზე<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">თქვენი აპები და პარამეტრები სინქრონიზებული იქნება თქვენს ყველა Fulldive OS მოწყობილობასთან, რომელზეც შესული ხართ თქვენი Fulldive ანგარიშით. ბრაუზერის სინქრონიზაციის პარამეტრების სანახავად გადადით <ph name="LINK_BEGIN"/>Fulldive-ის პარამეტრებზე<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">პრინტერები</translation>
-<translation id="8418661265246754237">Gab AI Inc ანგარიშები</translation>
+<translation id="8418661265246754237">Fulldive ანგარიშები</translation>
 <translation id="3953834000574892725">ჩემი ანგარიშები</translation>
 <translation id="6011193465932186973">თითის ანაბეჭდი</translation>
 <translation id="3707212204259470604">სხვა ადამიანების მართვა</translation>
@@ -3001,16 +3001,16 @@
 <translation id="5916664084637901428">ჩართული</translation>
 <translation id="5860033963881614850">გამორთული</translation>
 <translation id="5515923816438946203">არჩიეთ, რას ხედავთ ეკრანზე</translation>
-<translation id="2187700606737131818">Gab AI Inc Photos</translation>
+<translation id="2187700606737131818">Fulldive Photos</translation>
 <translation id="1827738518074806965">ხელოვნების გალერეა</translation>
 <translation id="9137157311132182254">სასურველი საძიებო სისტემა</translation>
 <translation id="7423118389528876103">გამოიყენება Fulldive ბრაუზერისა და <ph name="DEVICE_TYPE"/> გამშვების მიერ</translation>
-<translation id="2862205630718215619">Gab AI Inc ასისტენტი</translation>
+<translation id="2862205630718215619">Fulldive ასისტენტი</translation>
 <translation id="8959699239363253085">ჩართული</translation>
 <translation id="971479617738309149">გამორთული</translation>
 <translation id="7807067443225230855">ძიება და ასისტენტი</translation>
 <translation id="1293556467332435079">ფაილები</translation>
-<translation id="6474884162850599008">Gab AI Inc Drive ანგარიშთან კავშირის გაწყვეტა</translation>
+<translation id="6474884162850599008">Fulldive Drive ანგარიშთან კავშირის გაწყვეტა</translation>
 <translation id="3653160965917900914">ქსელში გაზიარებული ფაილები</translation>
 <translation id="4906490889887219338">ქსელში ფაილების გაზიარების დაყენება ან მართვა. <ph name="LINK_BEGIN"/>შეიტყვეთ მეტი<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">ფაილის გაზიარების დამატება</translation>
@@ -3061,7 +3061,7 @@
 <translation id="5511379779384092781">ძალიან პატარა</translation>
 <translation id="2765217105034171413">პატარა</translation>
 <translation id="7409549334477097887">ძალიან დიდი</translation>
-<translation id="1800308196794859773">ნებისმიერი ტექსტური ველის კარნახით შესავსებად თქვენი ხმა გაიგზავნება Gab AI Inc-ში.</translation>
+<translation id="1800308196794859773">ნებისმიერი ტექსტური ველის კარნახით შესავსებად თქვენი ხმა გაიგზავნება Fulldive-ში.</translation>
 <translation id="8758418656925882523">კარნახის (ტექსტის წარმოთქმით აკრეფის) ჩართვა</translation>
 <translation id="1330145147221172764">ეკრანული კლავიატურის ჩართვა</translation>
 <translation id="7580671184200851182">ყველა დინამიკში ერთი და იგივე აუდიოს დაკვრა (მონო აუდიო)</translation>
@@ -3124,7 +3124,7 @@
 <translation id="6902066522699286937">გადასახედი ხმა</translation>
 <translation id="304747341537320566">მეტყველების მოდულები</translation>
 <translation id="2755367719610958252">მარტივი წვდომის ფუნქციების მართვა</translation>
-<translation id="1203953622051744249">მართეთ თქვენი სისტემაში შესული ანგარიშები. მინიჭებული ნებართვების მიხედვით, Fulldive-სა და Gab AI Inc Play-ში არსებულმა ვებსაიტებმა, აპებმა თუ გაფართოებებმა შეიძლება გამოიყენოს აღნიშნული ანგარიშები სერვისებით სარგებლობის პროცესის თქვენზე მოსარგებად. <ph name="LINK_BEGIN"/>შეიტყვეთ მეტი<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">მართეთ თქვენი სისტემაში შესული ანგარიშები. მინიჭებული ნებართვების მიხედვით, Fulldive-სა და Fulldive Play-ში არსებულმა ვებსაიტებმა, აპებმა თუ გაფართოებებმა შეიძლება გამოიყენოს აღნიშნული ანგარიშები სერვისებით სარგებლობის პროცესის თქვენზე მოსარგებად. <ph name="LINK_BEGIN"/>შეიტყვეთ მეტი<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">აქ შეგიძლიათ სასწავლებლის ანგარიშის დამატება ან შვილის ანგარიშების მართვა. <ph name="LINK_BEGIN"/>შეიტყვეთ მეტი<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">ანგარიშები</translation>
 <translation id="6597148444736186483">ამ მოწყობილობაზე ძირითადი ანგარიშიდან გამოსასვლელად ეკრანზე დააწკაპუნეთ დროზე. გამოჩენილ მენიუში დააწკაპუნეთ „გასვლაზე“.</translation>
@@ -3133,8 +3133,8 @@
 <translation id="2923234477033317484">ამ ანგარიშის ამოშლა</translation>
 <translation id="7665369617277396874">ანგარიშის დამატება</translation>
 <translation id="8428271547607112339">სასწავლებლის ანგარიშის დამატება</translation>
-<translation id="4920274951865016604">თქვენმა ადმინისტრატორმა გათიშა სხვა Gab AI Inc ანგარიშების დამატების შესაძლებლობა</translation>
-<translation id="8845742957886589229">სხვა Gab AI Inc ანგარიშების დამატება გათიშულია</translation>
+<translation id="4920274951865016604">თქვენმა ადმინისტრატორმა გათიშა სხვა Fulldive ანგარიშების დამატების შესაძლებლობა</translation>
+<translation id="8845742957886589229">სხვა Fulldive ანგარიშების დამატება გათიშულია</translation>
 <translation id="5021750053540820849">ჯერ არ განახლებულა</translation>
 <translation id="3448492834076427715">ანგარიშის განახლება</translation>
 <translation id="2458379781610688953">ანგარიშის განახლება, <ph name="EMAIL"/></translation>
@@ -3169,7 +3169,7 @@
 <translation id="3661172646479098821">ამჟამად მხარდაჭერილია მხოლოდ Android მოწყობილობები.</translation>
 <translation id="3201422919974259695">აქ გამოჩნდება ხელმისაწვდომი USB-მოწყობილობები.</translation>
 <translation id="2629227353894235473">შეიმუშავეთ Android აპები</translation>
-<translation id="1669729672557072907">აპების შესაქმნელად და ტესტირებისთვის ჩართეთ Android Debug Bridge (ADB). გაითვალისწინეთ, რომ აღნიშნულის შემდეგ შესაძლებელი იქნება Gab AI Inc-ის მიერ შეუმოწმებელი Android აპების ინსტალაცია, ხოლო მის გამოსართავად საჭირო იქნება ქარხნული პარამეტრების დაბრუნება.</translation>
+<translation id="1669729672557072907">აპების შესაქმნელად და ტესტირებისთვის ჩართეთ Android Debug Bridge (ADB). გაითვალისწინეთ, რომ აღნიშნულის შემდეგ შესაძლებელი იქნება Fulldive-ის მიერ შეუმოწმებელი Android აპების ინსტალაცია, ხოლო მის გამოსართავად საჭირო იქნება ქარხნული პარამეტრების დაბრუნება.</translation>
 <translation id="4638930039313743000">ADB გამართვის ჩართვა</translation>
 <translation id="1630768113285622200">გადატვირთვა და გაგრძელება</translation>
 <translation id="1005333234656240382">გსურთ ADB გამართვის ჩართვა?</translation>
@@ -3206,17 +3206,17 @@
 <translation id="1870629042957780127">მიკროფონზე წვდომის დაშვება</translation>
 <translation id="1392232653471491344">საჭიროა Linux-ის გადატვირთვა</translation>
 <translation id="1064552680598333868">მიკროფონთან დაკავშირებით შეტანილი ცვლილებები ამოქმედდება Linux-ის მომდევნო გადატვირთვის შემდეგ.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play Store</translation>
+<translation id="2714393097308983682">Fulldive Play Store</translation>
 <translation id="2966937470348689686">Android პარამეტრების მართვა</translation>
-<translation id="6398715114293939307">Gab AI Inc Play Store-ის ამოშლა</translation>
+<translation id="6398715114293939307">Fulldive Play Store-ის ამოშლა</translation>
 <translation id="2792290659606763004">გსურთ Android-ის აპების ამოშლა?</translation>
 <translation id="492299503953721473">Android-ის აპების ამოშლა</translation>
-<translation id="7566118625369982896">Gab AI Inc Play აპების ბმულების მართვა</translation>
+<translation id="7566118625369982896">Fulldive Play აპების ბმულების მართვა</translation>
 <translation id="8785622406424941542">სტილუსი</translation>
 <translation id="5862109781435984885">თაროზე სტილუსის ხელსაწყოების ჩვენება</translation>
 <translation id="4673442866648850031">სტილუსის ამოღებისას სტილუსის ხელსაწყოების გახსნა</translation>
 <translation id="4244238649050961491">სტილუსის მეტი აპის პოვნა</translation>
-<translation id="668599234725812620">Gab AI Inc Play-ს გახსნა</translation>
+<translation id="668599234725812620">Fulldive Play-ს გახსნა</translation>
 <translation id="9116799625073598554">ჩანიშვნების აპი</translation>
 <translation id="203574396658008164">ჩაკეტილი ეკრანიდან ჩანიშვნის ჩართვა</translation>
 <translation id="6238923052227198598">უახლესი ჩანიშვნის შენარჩუნება ჩაკეტილ ეკრანზე</translation>
@@ -3362,7 +3362,7 @@
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> — <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">მობილური ინტერნეტის ჩართვა</translation>
 <translation id="7378812711085314936">მობილური ინტერნეტით სარგებლობა</translation>
-<translation id="3483333858382889684">ამ მოწყობილობისთვის იმ მოწყობილობების პოვნის დაშვება, რომლებიც თქვენი Gab AI Inc ანგარიშით სარგებლობს და მობილური ინტერნეტის უზრუნველყოფა შეუძლია</translation>
+<translation id="3483333858382889684">ამ მოწყობილობისთვის იმ მოწყობილობების პოვნის დაშვება, რომლებიც თქვენი Fulldive ანგარიშით სარგებლობს და მობილური ინტერნეტის უზრუნველყოფა შეუძლია</translation>
 <translation id="1572266655485775982">Wi-Fi-ს ჩართვა</translation>
 <translation id="7078120482318506217">ყველა ქსელი</translation>
 <translation id="1235458158152011030">ცნობილი ქსელები</translation>
@@ -3394,13 +3394,13 @@
 <translation id="4421167684395067330">დაკავშირება ვერ ხერხდება. დახმარებისთვის მიმართეთ <ph name="CARRIER_NAME"/>-ს.</translation>
 <translation id="7780252971640011240">დაკავშირება ვერ ხერხდება. დახმარებისთვის მიმართეთ თქვენს ოპერატორს.</translation>
 <translation id="161460670679785907">თქვენი ტელეფონის ამოცნობა ვერ ხერხდება</translation>
-<translation id="778480864305029524">მყისიერი ტეტერინგის გამოსაყენებლად ჩართეთ შეტყობინებები Gab AI Inc Play Services-ისთვის.</translation>
+<translation id="778480864305029524">მყისიერი ტეტერინგის გამოსაყენებლად ჩართეთ შეტყობინებები Fulldive Play Services-ისთვის.</translation>
 <translation id="7696063401938172191">თქვენს „<ph name="PHONE_NAME"/>“-ზე:</translation>
 <translation id="3423463006624419153">თქვენს „<ph name="PHONE_NAME_1"/>“-სა და „<ph name="PHONE_NAME_2"/>“-ზე:</translation>
 <translation id="6997707937646349884">თქვენს მოწყობილობებზე:</translation>
 <translation id="7531779363494549572">გადადით აქ: პარამეტრები &gt; აპები და შეტყობინებები &gt; შეტყობინებები.</translation>
-<translation id="1819721979226826163">შეხებით აირჩიეთ: აპების შეტყობინებები &gt; Gab AI Inc Play services.</translation>
-<translation id="968000525894980488">ჩართეთ Gab AI Inc Play services.</translation>
+<translation id="1819721979226826163">შეხებით აირჩიეთ: აპების შეტყობინებები &gt; Fulldive Play services.</translation>
+<translation id="968000525894980488">ჩართეთ Fulldive Play services.</translation>
 <translation id="2705736684557713153">გადადით გვერდის ქვედა ნაწილში და ჩართეთ მყისიერი ტეტერინგი (თუ ეს ვარიანტი ხელმისაწვდომია). თუ ის მიუწვდომელია, ყველაფერი მზად არის.</translation>
 <translation id="7240339475467890413">გსურთ ახალ უსადენო ქსელთან დაკავშირება?</translation>
 <translation id="6514010653036109809">ხელმისაწვდომი მოწყობილობა:</translation>
@@ -3515,9 +3515,9 @@
 <translation id="6555432686520421228">წაშალეთ ყველა მომხმარებლის ანგარიში და გაანულეთ თქვენი <ph name="IDS_SHORT_PRODUCT_NAME"/> მოწყობილობა, მის განსაახლებლად.</translation>
 <translation id="5470735824776589490">გადატვირთვა საჭიროა, სანამ განხორციელდება თქვენი მოწყობილობის გადატვირთვა Powerwash-ით. <ph name="LINK_BEGIN"/>შეიტყვეთ მეტი<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">გადაყენების ღილაკი</translation>
-<translation id="472896694312062378">„Ok Gab AI Inc“</translation>
-<translation id="2339135612812615870">იქონიეთ წვდომა ასისტენტზე „Ok Gab AI Inc“-ის წარმოთქმით.</translation>
-<translation id="3735919318855093557">იქონიეთ წვდომა ასისტენტზე „Ok Gab AI Inc“-ის წარმოთქმით. ბატარეის დაზოგვის მიზნით, აირჩიეთ „ჩართული (რეკომენდებული)”. ასისტენტი რეაგირებას მოახდენს მხოლოდ მაშინ, როცა მოწყობილობა მიერთებულია ელკვების წყაროსთან ან იტენება.</translation>
+<translation id="472896694312062378">„Ok Fulldive“</translation>
+<translation id="2339135612812615870">იქონიეთ წვდომა ასისტენტზე „Ok Fulldive“-ის წარმოთქმით.</translation>
+<translation id="3735919318855093557">იქონიეთ წვდომა ასისტენტზე „Ok Fulldive“-ის წარმოთქმით. ბატარეის დაზოგვის მიზნით, აირჩიეთ „ჩართული (რეკომენდებული)”. ასისტენტი რეაგირებას მოახდენს მხოლოდ მაშინ, როცა მოწყობილობა მიერთებულია ელკვების წყაროსთან ან იტენება.</translation>
 <translation id="5825412242012995131">ჩართული (რეკომენდებულია)</translation>
 <translation id="5067399438976153555">ყოველთვის ჩართული</translation>
 <translation id="6175644081330715138">გამორთული</translation>
@@ -3526,7 +3526,7 @@
 <translation id="5355099869024327351">ასისტენტისთვის შეტყობინებების ჩვენების დაშვება</translation>
 <translation id="133535873114485416">შეყვანის სასურველი მეთოდი</translation>
 <translation id="6233154960150021497">კლავიატურის ნაცვლად ნაგულისხმევად ხმის გამოყენება</translation>
-<translation id="3908743412684152579">Gab AI Inc ასისტენტის პარამეტრები</translation>
+<translation id="3908743412684152579">Fulldive ასისტენტის პარამეტრები</translation>
 <translation id="1048286738600630630">ეკრანები</translation>
 <translation id="4184885522552335684">ეკრანის გადაადგილება ჩავლებით შეგიძლიათ</translation>
 <translation id="4964455510556214366">მოწყობა</translation>
@@ -3580,7 +3580,7 @@
 <translation id="6856623341093082836">თქვენი სენსორული ეკრანის დაყენება და სიზუსტის დარეგულირება</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">მხოლოდ მოწყობილობის განბლოკვა</translation>
-<translation id="3300552672525741457">მოწყობილობის განბლოკვა და Gab AI Inc ანგარიშში შესვლა</translation>
+<translation id="3300552672525741457">მოწყობილობის განბლოკვა და Fulldive ანგარიშში შესვლა</translation>
 <translation id="4562155214028662640">თითის ანაბეჭდის დამატება</translation>
 <translation id="4068776064906523561">შენახული თითის ანაბეჭდები</translation>
 <translation id="1719312230114180055">შენიშვნა: თქვენი თითის ანაბეჭდი შეიძლება ძლიერ პაროლზე ან PIN-კოდზე ნაკლებად საიმედო იყოს.</translation>
@@ -3645,7 +3645,7 @@
 <translation id="6547354035488017500">გამოათავისუფლეთ მინიმუმ 512 მბაიტი მეხსიერება. წინააღმდეგ შემთხვევაში, თქვენი მოწყობილობა რეაგირებას ვეღარ მოახდენს. მეხსიერების გამოთავისუფლება მოწყობილობიდან ფაილების წაშლით შეგიძლიათ.</translation>
 <translation id="6097480669505687979">თუ მეხსიერებას არ გამოათავისუფლებთ, მომხმარებლები და მონაცემები შეიძლება ავტომატურად ამოიშალოს.</translation>
 <translation id="4470957202018033307">გარე მეხსიერების პარამეტრები</translation>
-<translation id="1900305421498694955">Gab AI Inc Play-დან ჩამოტვირთულმა აპებმა შეიძლება მოითხოვოს სრული წვდომა ფაილების სისტემაზე, რათა წაიკითხოს და ჩაწეროს ფაილები მეხსიერების გარე მოწყობილობებზე. მოწყობილობაზე შექმნილი ფაილები და საქაღალდეები ხილულია გარე დისკის ნებისმიერი მომხმარებლისთვის. <ph name="LINK_BEGIN"/>შეიტყვეთ მეტი<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Fulldive Play-დან ჩამოტვირთულმა აპებმა შეიძლება მოითხოვოს სრული წვდომა ფაილების სისტემაზე, რათა წაიკითხოს და ჩაწეროს ფაილები მეხსიერების გარე მოწყობილობებზე. მოწყობილობაზე შექმნილი ფაილები და საქაღალდეები ხილულია გარე დისკის ნებისმიერი მომხმარებლისთვის. <ph name="LINK_BEGIN"/>შეიტყვეთ მეტი<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">აქ გამოჩნდება ხელმისაწვდომი მოწყობილობები.</translation>
 <translation id="1041263367839475438">ხელმისაწვდომი მოწყობილობები</translation>
 <translation id="7479221278376295180">გამოყენებული მეხსიერების მიმოხილვა</translation>
@@ -3669,12 +3669,12 @@
 <translation id="5840822070878669614">Fulldive Web Store-ის გახსნა</translation>
 <translation id="6073903501322152803">მარტივი წვდომის ფუნქციების დამატება</translation>
 <translation id="7988355189918024273">მარტივი წვდომის ფუნქციების ჩართვა</translation>
-<translation id="5499063270485366718">თუ სურათს არ ექნება სასარგებლო აღწერილობა, Fulldive შეეცდება მის უზრუნველყოფას. აღწერილობების შესაქმნელად სურათები იგზავნება Gab AI Inc-ში.</translation>
+<translation id="5499063270485366718">თუ სურათს არ ექნება სასარგებლო აღწერილობა, Fulldive შეეცდება მის უზრუნველყოფას. აღწერილობების შესაქმნელად სურათები იგზავნება Fulldive-ში.</translation>
 <translation id="8957762313041272117">ავტოსუბტიტრები</translation>
 <translation id="7075426315046750605">ავტოსუბტიტრები ამოიცნობს მეტყველებას მედიაფაილში და ავტომატურად შექმნის სუბტიტრებს Fulldive-ში გაშვებული მედიაკონტენტისთვის.</translation>
 <translation id="572155275267014074">Android-ის პარამეტრები</translation>
-<translation id="7201042526153088083">დააინსტალირეთ აპები და თამაშები Gab AI Inc Play-დან თქვენს <ph name="DEVICE_TYPE"/>-ზე. &lt;a target="_blank" href="<ph name="URL"/>"&gt;შეიტყვეთ მეტი&lt;/a&gt;</translation>
-<translation id="8039595758121742506">ამ Fulldivebook-იდან წაიშლება Gab AI Inc Play-ს მეშვეობით ჩამოტვირთული აპები.
+<translation id="7201042526153088083">დააინსტალირეთ აპები და თამაშები Fulldive Play-დან თქვენს <ph name="DEVICE_TYPE"/>-ზე. &lt;a target="_blank" href="<ph name="URL"/>"&gt;შეიტყვეთ მეტი&lt;/a&gt;</translation>
+<translation id="8039595758121742506">ამ Fulldivebook-იდან წაიშლება Fulldive Play-ს მეშვეობით ჩამოტვირთული აპები.
       <ph name="LINE_BREAKS1"/>
       გარდა ამისა, შეიძლება წაიშალოს თქვენ მიერ შეძენილი კონტენტი, როგორიცაა ფილმები, სატელევიზიო შოუები, მუსიკა, წიგნები ან აპს-შიდა შენაძენები.
       <ph name="LINE_BREAKS2"/>
@@ -3700,7 +3700,7 @@
 <translation id="1670399744444387456">ძირითადი</translation>
 <translation id="1763808908432309942">გაიხსნება ახალ ჩანართში</translation>
 <translation id="6248988683584659830">ძიების პარამეტრები</translation>
-<translation id="883304095704384301">თუ სასურველ კონტენტს ვერ პოულობთ, გადადით <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive-ის დახმარების<ph name="END_LINK_CHROMIUM"/> სექციაზე</translation>
+<translation id="883304095704384301">თუ სასურველ კონტენტს ვერ პოულობთ, გადადით <ph name="BEGIN_LINK_CHROMIUM"/>Fulldive Fulldive-ის დახმარების<ph name="END_LINK_CHROMIUM"/> სექციაზე</translation>
 <translation id="6406708970972405507">პარამეტრები — <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">ქვეგვერდის ღილაკი</translation>
 <translation id="379509625511193653">გამორთული</translation>
@@ -3721,10 +3721,10 @@
 <translation id="451515744433878153">ამოშლა</translation>
 <translation id="5029568752722684782">ასლის გასუფთავება</translation>
 <translation id="2154484045852737596">ბარათის რედაქტირება</translation>
-<translation id="3032188998195902534">Gab AI Inc Pay გადახდის მეთოდების დასამატებლად ან სამართავად გადადით თქვენს <ph name="BEGIN_LINK"/>Gab AI Inc ანგარიშზე<ph name="END_LINK"/></translation>
+<translation id="3032188998195902534">Fulldive Pay გადახდის მეთოდების დასამატებლად ან სამართავად გადადით თქვენს <ph name="BEGIN_LINK"/>Fulldive ანგარიშზე<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">ეს ბარათი შეინახება მხოლოდ ამ მოწყობილობაზე</translation>
 <translation id="5087580092889165836">ბარათის დამატება</translation>
-<translation id="4835914736509775287">შეინახეთ ბარათები თქვენს Gab AI Inc ანგარიშში</translation>
+<translation id="4835914736509775287">შეინახეთ ბარათები თქვენს Fulldive ანგარიშში</translation>
 <translation id="7255002516883565667">ამჟამად თქვენ გაქვთ ერთი ბარათი, რომლის გამოყენებაც შეგიძლიათ მხოლოდ ამ მოწყობილობაზე</translation>
 <translation id="6848388270925200958">ამჟამად თქვენ გაქვთ რამდენიმე ბარათი, რომელთა გამოყენებაც შეგიძლიათ მხოლოდ ამ მოწყობილობაზე</translation>
 <translation id="4807098396393229769">სახელი ბარათზე</translation>
@@ -3738,9 +3738,9 @@
 <translation id="8731851055419582926">შემოწმებული პაროლები</translation>
 <translation id="4248098802131000011">დაიცავით პაროლები პერსონალურ მონაცემთა გაჟონვის შემთხვევებისა და უსაფრთხოებასთან დაკავშირებული სხვა პრობლემებისგან</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> ვერ ახერხებს პაროლების შემოწმებას. შეამოწმეთ კავშირი ინტერნეტთან.</translation>
-<translation id="802916701582020725">პაროლების <ph name="IDS_SHORT_PRODUCT_NAME"/>-ის მეშვეობით შესამოწმებლად შედით სისტემაში თქვენი Gab AI Inc ანგარიშით</translation>
+<translation id="802916701582020725">პაროლების <ph name="IDS_SHORT_PRODUCT_NAME"/>-ის მეშვეობით შესამოწმებლად შედით სისტემაში თქვენი Fulldive ანგარიშით</translation>
 <translation id="4478777936860197922">შენახული პაროლები არ არის. პაროლების შემოწმებას <ph name="IDS_SHORT_PRODUCT_NAME"/> შეძლებს მათი შენახვის შემდეგ.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> ვერ ახერხებს პაროლების შემოწმებას. ცადეთ 24 საათში ან <ph name="BEGIN_LINK"/>შეამოწმეთ პაროლები თქვენს Gab AI Inc ანგარიშში<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> ვერ ახერხებს პაროლების შემოწმებას. ცადეთ 24 საათში ან <ph name="BEGIN_LINK"/>შეამოწმეთ პაროლები თქვენს Fulldive ანგარიშში<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> ვერ ახერხებს პაროლების შემოწმებას. ცადეთ 24 საათში.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> ვერ ახერხებს პაროლების შემოწმებას. ცადეთ მოგვიანებით.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{გატეხილი პაროლები არ მოიძებნა}=1{{COUNT} გატეხილი პაროლი}other{{COUNT} გატეხილი პაროლი}}</translation>
@@ -3766,7 +3766,7 @@
 <translation id="2100273922101894616">ავტომატური შესვლა</translation>
 <translation id="7513029293694390567">ავტორიზაციის შენახული მონაცემების მეშვეობით ვებსაიტებში შესვლა ავტომატურად მოხდება. გათიშვის შემთხვევაში, ვებსაიტში შესვლის ყოველი მცდელობისას დადასტურება მოგიწევთ.</translation>
 <translation id="6995899638241819463">გაფრთხილების მიღება მონაცემთა გაჟონვისას პაროლების გამოაშკარავების შემთხვევაში</translation>
-<translation id="1534287762301776620">თქვენს Gab AI Inc ანგარიშში შესვლისას ეს ფუნქცია ჩართული იქნება</translation>
+<translation id="1534287762301776620">თქვენს Fulldive ანგარიშში შესვლისას ეს ფუნქცია ჩართული იქნება</translation>
 <translation id="1375321115329958930">შენახული პაროლები</translation>
 <translation id="152234381334907219">არასოდეს შენახულა</translation>
 <translation id="5137501176474113045">ამ ელემენტის წაშლა</translation>
@@ -3780,7 +3780,7 @@
 <translation id="7930294771522048157">აქ გამოჩნდება გადახდის შენახული მეთოდები</translation>
 <translation id="9124003689441359348">შენახული პაროლები აქ გამოჩნდება</translation>
 <translation id="4400367121200150367">საიტები, რომლებიც არასოდეს იმახსოვრებს პაროლებს, აქ გამოჩნდება</translation>
-<translation id="3098842761938485917">ნახეთ და მართეთ შენახული პაროლები თქვენს <ph name="BEGIN_LINK"/>Gab AI Inc ანგარიშში<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">ნახეთ და მართეთ შენახული პაროლები თქვენს <ph name="BEGIN_LINK"/>Fulldive ანგარიშში<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">პაროლების ექსპორტი...</translation>
 <translation id="3900966090527141178">პაროლების ექსპორტი</translation>
 <translation id="6914783257214138813">თქვენს პაროლებს დაინახავს ნებისმიერი, ვისაც ექნება წვდომა ექსპორტირებულ ფაილზე.</translation>
@@ -3847,15 +3847,15 @@
 <translation id="3380365263193509176">უცნობი შეცდომა</translation>
 <translation id="368789413795732264">ფაილის ჩაწერისას შეცდომა მოხდა: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">დროის დიაპაზონი</translation>
-<translation id="3958004920128806270">დათვალიერების მონაცემების მხოლოდ ამ მოწყობილობიდან გასასუფთავებლად და Gab AI Inc ანგარიშში მათ შესანარჩუნებლად <ph name="BEGIN_LINK"/>გამოდით სისტემიდან<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">თქვენი Gab AI Inc ანგარიშიდან და ყველა სინქრონიზებული მოწყობილობიდან დათვალიერების მონაცემების გასასუფთავებლად <ph name="BEGIN_LINK"/>გადადით სინქრონიზაციის პარამეტრებზე<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">თქვენი Gab AI Inc ანგარიშიდან და ყველა სინქრონიზებული მოწყობილობიდან დათვალიერების მონაცემების გასასუფთავებლად <ph name="BEGIN_LINK"/>შეიყვანეთ თქვენი საიდუმლო ფრაზა<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">თქვენი Gab AI Inc ანგარიშიდან და ყველა სინქრონიზებული მოწყობილობიდან დათვალიერების მონაცემების გასასუფთავებლად <ph name="BEGIN_LINK"/>შედით სისტემაში<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">დათვალიერების მონაცემების მხოლოდ ამ მოწყობილობიდან გასასუფთავებლად და Fulldive ანგარიშში მათ შესანარჩუნებლად <ph name="BEGIN_LINK"/>გამოდით სისტემიდან<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">თქვენი Fulldive ანგარიშიდან და ყველა სინქრონიზებული მოწყობილობიდან დათვალიერების მონაცემების გასასუფთავებლად <ph name="BEGIN_LINK"/>გადადით სინქრონიზაციის პარამეტრებზე<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">თქვენი Fulldive ანგარიშიდან და ყველა სინქრონიზებული მოწყობილობიდან დათვალიერების მონაცემების გასასუფთავებლად <ph name="BEGIN_LINK"/>შეიყვანეთ თქვენი საიდუმლო ფრაზა<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">თქვენი Fulldive ანგარიშიდან და ყველა სინქრონიზებული მოწყობილობიდან დათვალიერების მონაცემების გასასუფთავებლად <ph name="BEGIN_LINK"/>შედით სისტემაში<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">თქვენ გამოხვალთ სისტემიდან საიტების უმეტესობაზე.</translation>
-<translation id="4650925988509114690">თქვენ გამოხვალთ საიტების უმეტესობიდან, თუმცა დარჩებით შესული თქვენს Gab AI Inc ანგარიშში, რაც აუცილებელია სინქრონიზებული მონაცემების გასასუფთავებლად.</translation>
+<translation id="4650925988509114690">თქვენ გამოხვალთ საიტების უმეტესობიდან, თუმცა დარჩებით შესული თქვენს Fulldive ანგარიშში, რაც აუცილებელია სინქრონიზებული მონაცემების გასასუფთავებლად.</translation>
 <translation id="2017836877785168846">გაასუფთავებს ისტორიას და მისამართთა ზოლის ავტომატური დასრულების მონაცემებს.</translation>
-<translation id="8096327394278038498">მისამართთა ზოლში გაასუფთავებს ისტორიასა და ავტომატურ დასრულებებს. თქვენს Gab AI Inc ანგარიშში შეიძლება ინახებოდეს სხვა ტიპის დათვალიერების ისტორიაც, რომელიც ხელმისაწვდომია მისამართზე: <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">გაასუფთავებს ისტორიას სისტემაში შესული ყველა მოწყობილობიდან. თქვენს Gab AI Inc ანგარიშში შეიძლება ინახებოდეს სხვა ტიპის დათვალიერების ისტორიაც, რომელიც ხელმისაწვდომია მისამართზე: <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">მისამართთა ზოლში გაასუფთავებს ისტორიასა და ავტომატურ დასრულებებს. თქვენს Fulldive ანგარიშში შეიძლება ინახებოდეს სხვა ტიპის დათვალიერების ისტორიაც, რომელიც ხელმისაწვდომია მისამართზე: <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">გაასუფთავებს ისტორიას სისტემაში შესული ყველა მოწყობილობიდან. თქვენს Fulldive ანგარიშში შეიძლება ინახებოდეს სხვა ტიპის დათვალიერების ისტორიაც, რომელიც ხელმისაწვდომია მისამართზე: <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">ჩამოტვირთვების ისტორია</translation>
 <translation id="4699172675775169585">ქეშირებული სურათები და ფაილები</translation>
 <translation id="1274997165432133392">ქუქი და საიტის სხვა მონაცემები</translation>
@@ -3870,7 +3870,7 @@
 <translation id="1043818413152647937">ამ აპებიდანაც გსურთ მონაცემთა გასუფთავება?</translation>
 <translation id="3399432415385675819">შეტყობინებები გაითიშება</translation>
 <translation id="3459509316159669723">ბეჭდვა</translation>
-<translation id="7063957500469387217">Gab AI Inc Cloud Print-ში პრინტერების დაყენება ან მართვა.</translation>
+<translation id="7063957500469387217">Fulldive Cloud Print-ში პრინტერების დაყენება ან მართვა.</translation>
 <translation id="8185331656081929126">აჩვენეთ შეტყობინებები როდესაც ქსელში აღმოჩნდება ახალ პრინტერები</translation>
 <translation id="6451180435462401570">Cloud Print მოწყობილობების მართვა</translation>
 <translation id="4733793249294335256">მდებარეობა</translation>
@@ -3892,7 +3892,7 @@
 <translation id="5425722269016440406">თუ გსურთ Smart Lock-ის ფუნქციის გამორთვა, თქვენ უნდა იყოთ ონლაინ რეჟიმში. ეს პარამეტრი სინქრონირდება თქვენს ტელეფონთან და სხვა მოწყობილობებთან. გთხოვთ, პირველ რიგში, დაამყაროთ ქსელთან კავშირდი.</translation>
 <translation id="8885197664446363138">Smart Lock მიუწვდომელია</translation>
 <translation id="7334190995941642545">Smart Lock ამჟამად მიუწვდომელია. გთხოვთ სცადეთ მოგვიანებით.</translation>
-<translation id="8112427115751454716">თქვენს Gab AI Inc ანგარიშში შესვლა Smart Lock-ის მეშვეობით</translation>
+<translation id="8112427115751454716">თქვენს Fulldive ანგარიშში შესვლა Smart Lock-ის მეშვეობით</translation>
 <translation id="2043818754674261542">ამ <ph name="DEVICE_TYPE"/>-ის განსაბლოკად ტელეფონისთვის საჭირო მანძილი</translation>
 <translation id="2522791476825452208">ძალიან ახლო</translation>
 <translation id="649454645705377674">დახურვა</translation>
@@ -3913,7 +3913,7 @@
 <translation id="1726100011689679555">სახელთა სერვერები</translation>
 <translation id="1209796539517632982">ავტომატური სახელის სერვერები</translation>
 <translation id="4462159676511157176">ინდივიდუალური სახელთა სერვერები</translation>
-<translation id="1981884748698699991">Gab AI Inc სახელთა სერვერები</translation>
+<translation id="1981884748698699991">Fulldive სახელთა სერვერები</translation>
 <translation id="6317608858038767920">სახელების მორგებული სერვერი <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">ვებ პროქსი-სერვერის ავტომატური აღმოჩენის URL:</translation>
 <translation id="3817579325494460411">მიუთითებელი</translation>
@@ -4071,7 +4071,7 @@
 <translation id="3182749001423093222">მართლწერის შემოწმება</translation>
 <translation id="5423829801105537712">მართლწერის მარტივი შემოწმება</translation>
 <translation id="2564653188463346023">გაძლიერებული მართლწერის შემოწმება</translation>
-<translation id="8944680893327873975">იყენებს მართლწერის იმ შემმოწმებელს, რომელიც გამოიყენება Gab AI Inc Search-ში. ბრაუზერში თქვენ მიერ აკრეფილი ტექსტი ეგზავნება Gab AI Inc-ს.</translation>
+<translation id="8944680893327873975">იყენებს მართლწერის იმ შემმოწმებელს, რომელიც გამოიყენება Fulldive Search-ში. ბრაუზერში თქვენ მიერ აკრეფილი ტექსტი ეგზავნება Fulldive-ს.</translation>
 <translation id="5051836348807686060">მართლწერის შემოწმება მხარდაუჭერელია თქვენ მიერ არჩეული ენებისთვის</translation>
 <translation id="7335974957018254119">მართლწერის შემოწმების გამოყენება შემდეგისთვის:</translation>
 <translation id="2469375675106140201">მართლწერის შემოწმების მორგება</translation>
@@ -4084,7 +4084,7 @@
 <translation id="4200689466366162458">მორგებული სიტყვები</translation>
 <translation id="7833720883933317473">შენახული მორგებული სიტყვები აქ გამოჩნდება</translation>
 <translation id="8509646642152301857">მართლწერის შემოწმების ლექსიკონი ვერ ჩამოიტვირთა.</translation>
-<translation id="8842834450537919370">ჰკითხეთ ქსელის ადმინისტრატორს, ხომ არ ბლოკავს ქსელური დაცვა ჩამოტვირთვებს Gab AI Inc-ის სერვერებიდან.</translation>
+<translation id="8842834450537919370">ჰკითხეთ ქსელის ადმინისტრატორს, ხომ არ ბლოკავს ქსელური დაცვა ჩამოტვირთვებს Fulldive-ის სერვერებიდან.</translation>
 <translation id="9042893549633094279">კონფიდენციალურობა და უსაფრთხოება</translation>
 <translation id="5548606607480005320">უსაფრთხოების შემოწმება</translation>
 <translation id="5876576639916258720">გაშვებულია...</translation>
@@ -4120,24 +4120,24 @@
 <translation id="2468205691404969808">იყენებს ქუქი-ჩანაწერებს თქვენთვის სასურველი პარამეტრების დასამახსოვრებლად, მაშინაც კი, როცა ამ გვერდებს არ სტუმრობთ</translation>
 <translation id="3633309367764744750">წინასწარ ჩატვირთავს ინფორმაციას გვერდებიდან, მათ შორის, გვერდებიდან, რომლებიც ჯერ არ მოგინახულებიათ. წინასწარ ჩატვირთული ინფორმაცია შეიძლება მოიცავდეს ქუქი-ჩანაწერებს (თუ დაუშვებთ მათ).</translation>
 <translation id="3201899458094819285">Safe Browsing (თქვენ და თქვენს მოწყობილობებს გიცავთ სახიფათო საიტებისგან)</translation>
-<translation id="2876369937070532032">Gab AI Inc-ს უგზავნის თქვენ მიერ მონახულებული ზოგიერთი გვერდის URL-ებს, როცა უსაფრთხოება რისკის ქვეშ არის</translation>
+<translation id="2876369937070532032">Fulldive-ს უგზავნის თქვენ მიერ მონახულებული ზოგიერთი გვერდის URL-ებს, როცა უსაფრთხოება რისკის ქვეშ არის</translation>
 <translation id="4991384657077828949">Fulldive-ის უსაფრთხოების გაუმჯობესების ხელშეწყობა</translation>
-<translation id="1984646864943401749">Gab AI Inc-ს გაუგზავნის თქვენ მიერ მონახულებული ზოგიერთი გვერდის URL-ებს, სისტემის შეზღუდულ ინფორმაციასა და გვერდების გარკვეულ კონტენტს ვების ყველა მომხმარებლისთვის ახალი საფრთხეების აღმოსაჩენად და დასაბლოკად.</translation>
+<translation id="1984646864943401749">Fulldive-ს გაუგზავნის თქვენ მიერ მონახულებული ზოგიერთი გვერდის URL-ებს, სისტემის შეზღუდულ ინფორმაციასა და გვერდების გარკვეულ კონტენტს ვების ყველა მომხმარებლისთვის ახალი საფრთხეების აღმოსაჩენად და დასაბლოკად.</translation>
 <translation id="1641113438599504367">Safe Browsing</translation>
 <translation id="6900532703269623216">გაძლიერებული დაცვა</translation>
-<translation id="7307583170263691471">უფრო სწრაფი, პროაქტიური დაცვა სახიფათო ვებსაიტებისგან, ჩამოტვირთვებისა და გაფართოებებისგან. გაგაფრთხილებთ პაროლების შესახებ ინფორმაციის გაჟონვის შემთხვევაში. საჭირო იქნება დათვალიერების მონაცემების Gab AI Inc-ში გაგზავნა.</translation>
+<translation id="7307583170263691471">უფრო სწრაფი, პროაქტიური დაცვა სახიფათო ვებსაიტებისგან, ჩამოტვირთვებისა და გაფართოებებისგან. გაგაფრთხილებთ პაროლების შესახებ ინფორმაციის გაჟონვის შემთხვევაში. საჭირო იქნება დათვალიერების მონაცემების Fulldive-ში გაგზავნა.</translation>
 <translation id="8645920082661222035">პროგნოზირებს სახიფათო მოვლენებს და გაგაფრთხილებთ მათ შესახებ</translation>
-<translation id="5265419033369521352">უზრუნველყოფს თქვენს უსაფრთხოებას Fulldive-ში და Gab AI Inc-ის სხვა აპებში, როცა სისტემაში შესული ხართ</translation>
+<translation id="5265419033369521352">უზრუნველყოფს თქვენს უსაფრთხოებას Fulldive-ში და Fulldive-ის სხვა აპებში, როცა სისტემაში შესული ხართ</translation>
 <translation id="6770602306803890733">უსაფრთხოების გაუმჯობესება თქვენთვის და ვების ყველა მომხმარებლისთვის</translation>
 <translation id="3690369331356918524">გაგაფრთხილებთ მონაცემთა გაჟონვისას პაროლების გამოაშკარავების შემთხვევაში</translation>
-<translation id="4979281249641199724">URL-ებს შესამოწმებლად Safe Browsing-ს უგზავნის. ახალი საფრთხეების აღმოჩენის ხელშესაწყობად ასევე გზავნის გვერდების მცირე ნიმუშებს, ჩამოტვირთვებს, გაფართოებათა აქტივობას და სისტემის ინფორმაციას. Gab AI Inc-ის აპებში თქვენს დასაცავად დროებით მიაბამს ამ მონაცემებს თქვენს Gab AI Inc ანგარიშს, როცა სისტემაში შესული ხართ.</translation>
+<translation id="4979281249641199724">URL-ებს შესამოწმებლად Safe Browsing-ს უგზავნის. ახალი საფრთხეების აღმოჩენის ხელშესაწყობად ასევე გზავნის გვერდების მცირე ნიმუშებს, ჩამოტვირთვებს, გაფართოებათა აქტივობას და სისტემის ინფორმაციას. Fulldive-ის აპებში თქვენს დასაცავად დროებით მიაბამს ამ მონაცემებს თქვენს Fulldive ანგარიშს, როცა სისტემაში შესული ხართ.</translation>
 <translation id="1963976881984600709">სტანდარტული დაცვა</translation>
 <translation id="6882836635272038266">სტანდარტული დაცვა ცნობილი სახიფათო ვებსაიტებისგან, ჩამოტვირთვებისა და გაფართოებებისგან.</translation>
 <translation id="5561162485081632007">აღმოაჩენს სახიფათო მოვლენებს და გაგაფრთხილებთ მათ შესახებ</translation>
 <translation id="7810992039564280750">შეამოწმებს URL-ების თანხვედრას Fulldive-ში შენახულ არაუსაფრთხო საიტების სიასთან. საიტის მიერ პაროლის მოპარვის მცდელობის ან თქვენ მიერ საზიანო ფაილის ჩამოტვირთვის შემთხვევაში Fulldive-ის მიერ Safe Browsing-ს გაეგზავნება URL-ები და შესაბამისი გვერდის კონტენტის გარკვეული ნაწილი.</translation>
 <translation id="3847319713229060696">ხელი შეუწყვეთ ვების უსაფრთხოების ყველასთვის გაუმჯობესებას</translation>
 <translation id="1984417487208496350">დაცვის გარეშე (არარეკომენდებული)</translation>
-<translation id="1295971429974142731">არ დაგიცავთ სახიფათო ვებსაიტებისგან, ჩამოტვირთვებისა თუ გაფართოებებისგან. Safe Browsing-ის დაცვით (ხელმისაწვდომობის მიხედვით) მაინც ისარგებლებთ სხვა Gab AI Inc სერვისებში, როგორიცაა Gmail თუ Search.</translation>
+<translation id="1295971429974142731">არ დაგიცავთ სახიფათო ვებსაიტებისგან, ჩამოტვირთვებისა თუ გაფართოებებისგან. Safe Browsing-ის დაცვით (ხელმისაწვდომობის მიხედვით) მაინც ისარგებლებთ სხვა Fulldive სერვისებში, როგორიცაა Gmail თუ Search.</translation>
 <translation id="6122831415929794347">გსურთ Safe Browsing-ის გამორთვა?</translation>
 <translation id="6410390304316730527">Safe Browsing დაგიცავთ თავდამსხმელებისგან, რომლებმაც შეიძლება მოტყუებით ჩაგადენინონ ისეთი სახიფათო ქმედება, როგორიცაა პროგრამული უზრუნველყოფის ინსტალაცია ან თქვენი პერსონალური ინფორმაციის (მაგალითად, პაროლების, ტელეფონის ნომრების ან საკრედიტო ბარათების მონაცემების) გამჟღავნება. გამორთვის შემთხვევაში გამოიჩინეთ სიფრთხილე უცნობი საიტების დათვალიერებისას.</translation>
 <translation id="8791534160414513928">თქვენი ბრაუზერის საშუალებით „არ მიაკვლიო“ მოთხოვნის გაგზავნა</translation>
@@ -4149,8 +4149,8 @@
 <translation id="1995916364271252349">აკონტროლებს, რა ტიპის ინფორმაციის გამოყენება და ჩვენება შეუძლია საიტებს (მდებარეობა, კამერა, ამომხტარი ფანჯრები და ა.შ.)</translation>
 <translation id="3320630259304269485">Safe Browsing (სახიფათო საიტებისგან დაცვა) და უსაფრთხოებასთან დაკავშირებული სხვა პარამეტრები</translation>
 <translation id="7536333565791380193">დაცვის გაფართოებული ვარიანტები</translation>
-<translation id="8525226238722561998">Gab AI Inc-ის დამატებითი დაცვის პროგრამა</translation>
-<translation id="1229550669565092839">დაიცავს პერსონალურ Gab AI Inc ანგარიშებს, რომლებსაც გამიზნული თავდასხმების საფრთხე ემუქრება</translation>
+<translation id="8525226238722561998">Fulldive-ის დამატებითი დაცვის პროგრამა</translation>
+<translation id="1229550669565092839">დაიცავს პერსონალურ Fulldive ანგარიშებს, რომლებსაც გამიზნული თავდასხმების საფრთხე ემუქრება</translation>
 <translation id="1521442365706402292">სერთიფიკატების მართვა</translation>
 <translation id="7075625805486468288">HTTPS/SSL სერტიფიკატებისა და პარამეტრების მართვა</translation>
 <translation id="6588043302623806746">დაცული DNS-ის გამოყენება</translation>
@@ -4424,8 +4424,8 @@
 <translation id="4590324241397107707">მონაცემთა ბაზის საცავი</translation>
 <translation id="8016266267177410919">დროებითი მეხსიერება</translation>
 <translation id="4175737294868205930">მუდმივი მეხსიერება</translation>
-<translation id="8397843425685839889">თქვენ და Gab AI Inc</translation>
-<translation id="8907706281008466056">Gab AI Inc პროფილის ფოტო</translation>
+<translation id="8397843425685839889">თქვენ და Fulldive</translation>
+<translation id="8907706281008466056">Fulldive პროფილის ფოტო</translation>
 <translation id="2023167225947895179">PIN-კოდის გამოცნობა შეიძლება შედარებით ადვილი იყოს</translation>
 <translation id="5342091991439452114">PIN-კოდი უნდა შედგებოდეს მინიმუმ <ph name="MINIMUM"/> ციფრისგან</translation>
 <translation id="5252653240322147470">PIN-კოდი უნდა იყოს <ph name="MAXIMUM"/> ციფრზე ნაკლები</translation>
@@ -4439,26 +4439,26 @@
 <translation id="899676909165543803">თითის ანაბეჭდის სენსორი არის კლავიში, რომელიც მდებარეობს თქვენი კლავიატურის ქვედა მარჯვენა კუთხეში. შეეხეთ მას მსუბუქად ნებისმიერი თითით.</translation>
 <translation id="4535767533210902251">თითის ანაბეჭდის სენსორი არის კლავიში, რომელიც მდებარეობს თქვენი კლავიატურის ზედა მარჯვენა კუთხეში. შეეხეთ მას მსუბუქად ნებისმიერი თითით.</translation>
 <translation id="5449551289610225147">პაროლი არასწორია</translation>
-<translation id="4326270470840334364">რადგან ამ ანგარიშს მართავს <ph name="DOMAIN"/>, თქვენი სანიშნეები, ისტორია, პაროლები და სხვა პარამეტრები ამ მოწყობილობიდან გასუფთავდება, თუმცა თქვენს Gab AI Inc ანგარიშში შენახული მონაცემები კვლავ შენარჩუნდება და მათ მართვას <ph name="BEGIN_LINK"/>Gab AI Inc Dashboard<ph name="END_LINK"/>-იდან შეძლებთ.</translation>
+<translation id="4326270470840334364">რადგან ამ ანგარიშს მართავს <ph name="DOMAIN"/>, თქვენი სანიშნეები, ისტორია, პაროლები და სხვა პარამეტრები ამ მოწყობილობიდან გასუფთავდება, თუმცა თქვენს Fulldive ანგარიშში შენახული მონაცემები კვლავ შენარჩუნდება და მათ მართვას <ph name="BEGIN_LINK"/>Fulldive Dashboard<ph name="END_LINK"/>-იდან შეძლებთ.</translation>
 <translation id="6906406176003824042">პიროვნების რედაქტირება</translation>
 <translation id="3699920817649120894">გსურთ სინქრონიზაციისა და პერსონალიზების გამორთვა?</translation>
 <translation id="5643620609347735571">გასუფთავება და გაგრძელება</translation>
 <translation id="5602765853043467355">ამ მოწყობილობაზე სანიშნეების, ისტორიის, პაროლებისა და სხვა კონტენტის გასუფთავება</translation>
 <translation id="4089235344645910861">პარამეტრები შენახულია. სინქრონიზაცია დაიწყო.</translation>
 <translation id="6739923123728562974">დესკტოპზე მალსახმობის ჩვენება</translation>
-<translation id="2951604498031550705">თქვენი სანიშნეების, ისტორიის, პაროლებისა და სხვა პარამეტრების ცვლილებების სინქრონიზაცია თქვენს Gab AI Inc ანგარიშთან აღარ მოხდება. თუმცა არსებული მონაცემები კვლავ შეინახება თქვენს Gab AI Inc ანგარიშში და მათ მართვას <ph name="BEGIN_LINK"/>Gab AI Inc Dashboard<ph name="END_LINK"/>-იდან შეძლებთ.</translation>
-<translation id="3169352093514419465">ამ ქმედებით გამოხვალთ თქვენი Gab AI Inc ანგარიშებიდან. თქვენი სანიშნეები, ისტორია, პაროლები და სხვა კონტენტი აღარ იქნება სინქრონიზებული.</translation>
+<translation id="2951604498031550705">თქვენი სანიშნეების, ისტორიის, პაროლებისა და სხვა პარამეტრების ცვლილებების სინქრონიზაცია თქვენს Fulldive ანგარიშთან აღარ მოხდება. თუმცა არსებული მონაცემები კვლავ შეინახება თქვენს Fulldive ანგარიშში და მათ მართვას <ph name="BEGIN_LINK"/>Fulldive Dashboard<ph name="END_LINK"/>-იდან შეძლებთ.</translation>
+<translation id="3169352093514419465">ამ ქმედებით გამოხვალთ თქვენი Fulldive ანგარიშებიდან. თქვენი სანიშნეები, ისტორია, პაროლები და სხვა კონტენტი აღარ იქნება სინქრონიზებული.</translation>
 <translation id="8588866096426746242">პროფილის სტატისტიკის ჩვენება</translation>
 <translation id="5535941515421698170">ამ მოწყობილობიდან არსებული მონაცემების ამოშლაც</translation>
 <translation id="2162155940152307086">სინქრონიზაცია დაიწყება სინქრონიზაციის პარამეტრებიდან გამოსვლის შემდეგ</translation>
-<translation id="1125261911132334651">თქვენი Gab AI Inc ანგარიშის მართვა</translation>
+<translation id="1125261911132334651">თქვენი Fulldive ანგარიშის მართვა</translation>
 <translation id="5117427536932535467">თემები და ფონები</translation>
 <translation id="7257173066616499747">Wi-Fi ქსელები</translation>
 <translation id="2120297377148151361">აქტივობა და ინტერაქციები</translation>
 <translation id="5833397272224757657">პერსონალიზებისთვის იყენებს თქვენ მიერ მონახულებული ვებსაიტების კონტენტს, ასევე ბრაუზერის აქტივობასა და მასთან ინტერაქციას</translation>
-<translation id="8135094938656535588">სინქრონიზებული მონაცემების მართვა Gab AI Inc Dashboard-ში</translation>
-<translation id="5958351589333270173">სინქრონიზებული მონაცემების დაშიფვრა თქვენი საკუთარი <ph name="BEGIN_LINK"/>საიდუმლო ფრაზით<ph name="END_LINK"/>. აღნიშნული არ მოიცავს Gab AI Inc Pay-ში შენახულ გადახდის მეთოდებსა და მისამართებს.</translation>
-<translation id="4817583816512767754">თქვენი დაშიფრული მონაცემების წაკითხვა შეუძლია მხოლოდ იმ ადამიანს, რომელმაც იცის თქვენი საიდუმლო ფრაზა. საიდუმლო ფრაზა არ იგზავნება Gab AI Inc-ში და არ ინახება მის მიერ. საიდუმლო ფრაზის დავიწყების ან ამ პარამეტრის შეცვლის სურვილის შემთხვევაში, <ph name="BEGIN_LINK"/>სინქრონიზაციის გადაყენება<ph name="END_LINK"/> მოგიწევთ.</translation>
+<translation id="8135094938656535588">სინქრონიზებული მონაცემების მართვა Fulldive Dashboard-ში</translation>
+<translation id="5958351589333270173">სინქრონიზებული მონაცემების დაშიფვრა თქვენი საკუთარი <ph name="BEGIN_LINK"/>საიდუმლო ფრაზით<ph name="END_LINK"/>. აღნიშნული არ მოიცავს Fulldive Pay-ში შენახულ გადახდის მეთოდებსა და მისამართებს.</translation>
+<translation id="4817583816512767754">თქვენი დაშიფრული მონაცემების წაკითხვა შეუძლია მხოლოდ იმ ადამიანს, რომელმაც იცის თქვენი საიდუმლო ფრაზა. საიდუმლო ფრაზა არ იგზავნება Fulldive-ში და არ ინახება მის მიერ. საიდუმლო ფრაზის დავიწყების ან ამ პარამეტრის შეცვლის სურვილის შემთხვევაში, <ph name="BEGIN_LINK"/>სინქრონიზაციის გადაყენება<ph name="END_LINK"/> მოგიწევთ.</translation>
 <translation id="7441736921018636843">ამ პარამეტრის შესაცვლელად <ph name="BEGIN_LINK"/>გადააყენეთ სინქრონიზაცია<ph name="END_LINK"/>, რომ ამოშალოთ სინქრონიზაციის საიდუმლო ფრაზა</translation>
 <translation id="3873315167136380065">ამის ჩასართავად საჭიროა <ph name="BEGIN_LINK"/>სინქრონიზაციის გადაყენება<ph name="END_LINK"/> სინქრონიზაციის საიდუმლო ფრაზის ამოსაშლელად</translation>
 <translation id="6451689256222386810">თუ დაგავიწყდათ თქვენი საიდუმლო ფრაზა, ან ამ პარამეტრის შეცვლა გსურთ, <ph name="BEGIN_LINK"/>გადააყენეთ სინქრონიზაცია<ph name="END_LINK"/>.</translation>
@@ -4515,7 +4515,7 @@
 <translation id="8639047128869322042">მიმდინარეობს საზიანო პროგრამული უზრუნველყოფის შემოწმება...</translation>
 <translation id="2653033005692233957">ძიება ვერ შესრულდა</translation>
 <translation id="655483977608336153">ხელახლა ცდა</translation>
-<translation id="8282772389915299166">საზიანო პროგრამული უზრუნველყოფის, სისტემის პარამეტრების და თქვენი კომპიუტერის გასუფთავებისას აღმოჩენილი მიმდინარე პროცესების შესახებ დეტალური ინფორმაციის შეტყობინება Gab AI Inc-ისთვის</translation>
+<translation id="8282772389915299166">საზიანო პროგრამული უზრუნველყოფის, სისტემის პარამეტრების და თქვენი კომპიუტერის გასუფთავებისას აღმოჩენილი მიმდინარე პროცესების შესახებ დეტალური ინფორმაციის შეტყობინება Fulldive-ისთვის</translation>
 <translation id="6555810572223193255">გასუფთავების ფუნქცია ამჟამად მიუწვდომელია</translation>
 <translation id="7117228822971127758">გთხოვთ, ცადოთ მოგვიანებით</translation>
 <translation id="443475966875174318">შეუთავსებელი აპლიკაციების განახლება ან ამოშლა</translation>
@@ -4599,16 +4599,16 @@
 <translation id="161042844686301425">ციანი</translation>
 <translation id="4115378294792113321">მაგენტა</translation>
 <translation id="8438566539970814960">გააუმჯობესეთ ძიებები და ვებსაიტების დათვალიერება</translation>
-<translation id="284843628681142937">Gab AI Inc-ს უგზავნის თქვენ მიერ მონახულებული გვერდების URL-ებს</translation>
+<translation id="284843628681142937">Fulldive-ს უგზავნის თქვენ მიერ მონახულებული გვერდების URL-ებს</translation>
 <translation id="7704317875155739195">ძიებებისა და URL-ების ავტომატური დასრულება</translation>
 <translation id="2000419248597011803">თქვენს ნაგულისხმევ საძიებო სისტემას უგზავნის ზოგიერთ ქუქი-ჩანაწერს და საძიებო მოთხოვნებს მისამართთა ზოლიდან ან საძიებო ველიდან</translation>
 <translation id="918192811481327695">შეუწყვეთ ხელი Fulldive-ის ფუნქციებისა და წარმადობის გაუმჯობესებას</translation>
-<translation id="9063160602596686558">ავტომატური აგზავნის Gab AI Inc-ში გამოყენების სტატისტიკასა და შეცდომების ანგარიშებს</translation>
+<translation id="9063160602596686558">ავტომატური აგზავნის Fulldive-ში გამოყენების სტატისტიკასა და შეცდომების ანგარიშებს</translation>
 <translation id="6697492270171225480">მსგავსი გვერდების შემოთავაზებების ჩვენება, როცა გვერდი ვერ მოიძებნება</translation>
-<translation id="4534361985432360439">Gab AI Inc-ს უგზავნის იმ გვერდის ვებ-მისამართს, რომელთან დაკავშირებასაც ცდილობთ</translation>
-<translation id="3831436149286513437">ძიების შემოთავაზებები Gab AI Inc Drive-იდან</translation>
+<translation id="4534361985432360439">Fulldive-ს უგზავნის იმ გვერდის ვებ-მისამართს, რომელთან დაკავშირებასაც ცდილობთ</translation>
+<translation id="3831436149286513437">ძიების შემოთავაზებები Fulldive Drive-იდან</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/>-თან სინქრონიზაცია</translation>
-<translation id="9125982323641182972">ისარგებლეთ Gab AI Inc-ის გონიერი ფუნქციებით Fulldive-ში</translation>
+<translation id="9125982323641182972">ისარგებლეთ Fulldive-ის გონიერი ფუნქციებით Fulldive-ში</translation>
 <translation id="2537178555904266562">შეცდომა პაროლების სინქრონიზაციისას</translation>
 <translation id="4314815835985389558">სინქრონიზაციის მართვა</translation>
 <translation id="8931475688782629595">დასასინქრონებელი მონაცემების მართვა</translation>
@@ -4617,18 +4617,18 @@
 <translation id="4570387585180509432">მისამართები, ტელეფონის ნომრები და სხვა</translation>
 <translation id="3268451620468152448">გახსნილი ჩანართები</translation>
 <translation id="4684427112815847243">ყველაფრის სინქრონიზაცია</translation>
-<translation id="5428209950370661546">Gab AI Inc-ის სხვა სერვისები</translation>
+<translation id="5428209950370661546">Fulldive-ის სხვა სერვისები</translation>
 <translation id="7399045143794278225">სინქრონიზაციის მორგება</translation>
 <translation id="7044606776288350625">მონაცემთა სინქრონიზაცია</translation>
 <translation id="9050666287014529139">საიდუმლო ფრაზა</translation>
 <translation id="6596325263575161958">დაშიფვრის პარამეტრები</translation>
-<translation id="2459230470861708651">სინქრონიზებული მონაცემების დაშიფვრა თქვენი Gab AI Inc-ის მომხმარებლის სახელითა და პაროლით</translation>
+<translation id="2459230470861708651">სინქრონიზებული მონაცემების დაშიფვრა თქვენი Fulldive-ის მომხმარებლის სახელითა და პაროლით</translation>
 <translation id="1651008383952180276">შეყვანილი საიდუმლო ფრაზები უნდა ემთხვეოდეს</translation>
 <translation id="988978206646512040">ცარიელი საიდუმლო ფრაზის გამოყენება დაუშვებელია</translation>
 <translation id="2136476978468204130">თქვენ მიერ შეყვანილი საიდუმლო ფრაზა არასწორია</translation>
 <translation id="7505421639213002314">Fulldive-ის სინქრონიზაციის მონაცემები</translation>
 <translation id="452750746583162491">სინქრონიზებული მონაცემების გადახედვა</translation>
-<translation id="7956662517480676674">სინქრონიზაციის/Gab AI Inc სერვისები</translation>
+<translation id="7956662517480676674">სინქრონიზაციის/Fulldive სერვისები</translation>
 <translation id="7772032839648071052">დაადასტურეთ პაროლი</translation>
 <translation id="7529411698175791732">შეამოწმეთ კავშირი ინტერნეტთან. თუ პრობლემა გამეორდება, ცადეთ გამოსვლა და ხელახლა შესვლა.</translation>
 <translation id="6406506848690869874">სინქრონიზაცია</translation>
@@ -4762,8 +4762,8 @@
 <translation id="7835178595033117206">სანიშნე ამოიშალა</translation>
 <translation id="742130257665691897">სანიშნეები ამოიშალა</translation>
 <translation id="5468853758063275923">Fulldive თქვენი ნაგულისხმევი ბრაუზერია</translation>
-<translation id="2950533317914339731">დაამატეთ სანიშნეები თქვენს რჩეულ Gab AI Inc აპებს</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">დაამატეთ სანიშნეები თქვენს რჩეულ Fulldive აპებს</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Maps</translation>
 <translation id="6709133671862442373">ახალი ამბები</translation>
@@ -4777,7 +4777,7 @@
 <translation id="7789963078219276159">საწყისი გვერდის ფონად აირჩა <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">საწყისი გვერდის ფონი გადაყენებულია ნაგულისხმევ ფონზე.</translation>
 <translation id="239760341987199724">დააყენეთ Fulldive ნაგულისხმევ ბრაუზერად</translation>
-<translation id="96037229054033864">ისარგებლეთ Gab AI Inc Search-ითა და Gab AI Inc-ის გონიერი ფუნქციებით ვების ყოველი დათვალიერებისას</translation>
+<translation id="96037229054033864">ისარგებლეთ Fulldive Search-ითა და Fulldive-ის გონიერი ფუნქციებით ვების ყოველი დათვალიერებისას</translation>
 <translation id="296137235951584143">მოირგეთ Fulldive</translation>
 <translation id="3982375475032951137">დააყენეთ თქვენი ბრაუზერი რამდენიმე მარტივი ეტაპის გავლით</translation>
 <translation id="6972754398087986839">დაწყება</translation>
@@ -4790,7 +4790,7 @@
 <translation id="1031362278801463162">წინასწარი ხედის ჩატვირთვა</translation>
 <translation id="6147020289383635445">ბეჭდვის გადახედვა ვერ მოხერხდა.</translation>
 <translation id="5877584842898320529">არჩეული პრინტერი მიუწვდომელია ან სწორად არ არის დაინსტალირებული. <ph name="BR"/> შეამოწმეთ პრინტერი ან ცადეთ სხვა პრინტერის არჩევა.</translation>
-<translation id="6645437135153136856">არჩეული Gab AI Inc Cloud Print მოწყობილობა აღარ არის მხარდაჭერილი. <ph name="BR"/> ცადეთ პრინტერის დაყენება თქვენი კომპიუტერის სიტემის პარამეტრებიდან.</translation>
+<translation id="6645437135153136856">არჩეული Fulldive Cloud Print მოწყობილობა აღარ არის მხარდაჭერილი. <ph name="BR"/> ცადეთ პრინტერის დაყენება თქვენი კომპიუტერის სიტემის პარამეტრებიდან.</translation>
 <translation id="5828633471261496623">ბეჭდვა…</translation>
 <translation id="6295855836753816081">მიმდინარეობს შენახვა…</translation>
 <translation id="3587482841069643663">ყველა</translation>
@@ -4810,7 +4810,7 @@
 <translation id="3706463572498736864">გვერდების რაოდენობა ფურცელზე</translation>
 <translation id="2249605167705922988">მაგ., 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">შენახვა PDF-ის სახით</translation>
-<translation id="6532101170117367231">შენახვა Gab AI Inc Drive-ზე</translation>
+<translation id="6532101170117367231">შენახვა Fulldive Drive-ზე</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">ქაღალდის ფურცლები</translation>
 <translation id="8813811964357448561">ფურცელი</translation>
@@ -4840,7 +4840,7 @@
 <translation id="6991665348624301627">აირჩიეთ დანიშნულება</translation>
 <translation id="8800004011501252845">მიმართულებების ჩვენება</translation>
 <translation id="8996526648899750015">ანგარიშის დამატება…</translation>
-<translation id="6723354935081862304">ბეჭდვა Gab AI Inc Docs-ში და სხვა გლობალურ ქსელებში. <ph name="BEGIN_LINK"/>შედით<ph name="END_LINK"/>, Gab AI Inc Cloud Print-ში დასაბეჭდად.</translation>
+<translation id="6723354935081862304">ბეჭდვა Fulldive Docs-ში და სხვა გლობალურ ქსელებში. <ph name="BEGIN_LINK"/>შედით<ph name="END_LINK"/>, Fulldive Cloud Print-ში დასაბეჭდად.</translation>
 <translation id="2150139952286079145">დანიშნულებების ძიება</translation>
 <translation id="8569682776816196752">დანიშნულების ადგილები ვერ მოიძებნა</translation>
 <translation id="7885253890047913815">ბოლო მიმართულებები</translation>

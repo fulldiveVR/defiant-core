@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Fulldive 로고</translation>
 <translation id="7339898014177206373">새 창</translation>
 <translation id="5516268345616100622">작업 관리자 - Fulldive</translation>
-<translation id="7918740962659365265">비정상 종료 보고서와 <ph name="UMA_LINK"/>을(를) Gab AI Inc로 전송하여 Fulldive 개선에 참여합니다.</translation>
+<translation id="7918740962659365265">비정상 종료 보고서와 <ph name="UMA_LINK"/>을(를) Fulldive로 전송하여 Fulldive 개선에 참여합니다.</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - 네트워크 로그인 - Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldive에서 데이터 디렉토리를 읽고 쓸 수 없습니다.
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">선택사항: 사용 통계 및 비정상 종료 보고서가 Gab AI Inc로 자동 전송되도록 선택하시면 Fulldive을 개선하는 데 도움이 됩니다.</translation>
+<translation id="8417700129970341035">선택사항: 사용 통계 및 비정상 종료 보고서가 Fulldive로 자동 전송되도록 선택하시면 Fulldive을 개선하는 데 도움이 됩니다.</translation>
 <translation id="1489465648257900784">Fulldive의 최신 버전을 사용하기 때문에 프로필을 사용할 수 없습니다.
 
 일부 기능을 사용할 수 없습니다. 다른 프로필 디렉토리를 지정하거나 Fulldive의 새로운 버전을 사용하시기 바랍니다.</translation>
@@ -44,7 +44,7 @@
 
 Fulldive에서 설정을 복구할 수 없습니다.</translation>
 <translation id="1477146545787277177">Fulldive이 다운되었습니다. 다시 시작하시겠습니까?</translation>
-<translation id="5785919770853225148">Fulldive에서 내 Gab AI Inc 계정에 이 비밀번호를 저장하므로 기억하지 않아도 됩니다.</translation>
+<translation id="5785919770853225148">Fulldive에서 내 Fulldive 계정에 이 비밀번호를 저장하므로 기억하지 않아도 됩니다.</translation>
 <translation id="8211837073776713955">비밀번호가 유출되면 Fulldive에서 알려줍니다.</translation>
 <translation id="113959764510199339">Fulldive이 비밀번호를 표시하려고 합니다.</translation>
 <translation id="96347285368592620">Fulldive에서 비밀번호를 복사하려고 합니다.</translation>
@@ -85,7 +85,7 @@ Fulldive에서 설정을 복구할 수 없습니다.</translation>
 <translation id="9183662282810237335">Fulldive을 종료하시겠습니까?</translation>
 <translation id="3834935463915107022">Fulldive을 종료하시겠습니까?</translation>
 <translation id="8797356639448065696">Fulldive이 백그라운드 모드로 실행 중입니다.</translation>
-<translation id="2339258256897053758">Gab AI Inc API 키가 누락되었습니다. Fulldive의 일부 기능이 사용 중지됩니다.</translation>
+<translation id="2339258256897053758">Fulldive API 키가 누락되었습니다. Fulldive의 일부 기능이 사용 중지됩니다.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/>이(가) Fulldive에 추가됨</translation>
 <translation id="8516116288943000095">Fulldive(<ph name="URL"/>)에서도 데이터 삭제</translation>
 <translation id="4054452651944170004">Fulldive 메뉴에서 숨기기</translation>
@@ -93,8 +93,8 @@ Fulldive에서 설정을 복구할 수 없습니다.</translation>
 <translation id="6134859571175647580">경고: Fulldive은 확장 프로그램이 인터넷 방문 기록을 저장하지 못하도록 할 수 없습니다. 시크릿 모드에서 이 확장 프로그램을 사용 중지하려면 옵션을 선택 취소하세요.</translation>
 <translation id="777113543093865885">Fulldive에서 제거...</translation>
 <translation id="6078442581074612226">Fulldive에서</translation>
-<translation id="1448049584457347995">Gab AI Inc에서는 Fulldive의 보안을 강화하기 위해 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>에 표시되지 않고 사용자 모르게 추가되었을 수 있는 일부 확장 프로그램의 사용을 중지했습니다.</translation>
-<translation id="8848045066928358658">Gab AI Inc에서는 Fulldive의 보안을 강화하기 위해 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>에 표시되지 않고 사용자가 모르게 추가되었을 수 있는 다음 확장 프로그램의 사용을 중지했습니다.</translation>
+<translation id="1448049584457347995">Fulldive에서는 Fulldive의 보안을 강화하기 위해 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>에 표시되지 않고 사용자 모르게 추가되었을 수 있는 일부 확장 프로그램의 사용을 중지했습니다.</translation>
+<translation id="8848045066928358658">Fulldive에서는 Fulldive의 보안을 강화하기 위해 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>에 표시되지 않고 사용자가 모르게 추가되었을 수 있는 다음 확장 프로그램의 사용을 중지했습니다.</translation>
 <translation id="8148611988012584308">Fulldive 맞춤설정 및 제어</translation>
 <translation id="5849446944780602366">Fulldive을 맞춤설정하고 제어하세요. 업데이트가 출시되었습니다.</translation>
 <translation id="6315734375101223238">Fulldive을 맞춤설정 및 제어합니다. 확인이 필요한 항목이 있습니다. 클릭하여 세부정보를 보세요.</translation>
@@ -109,8 +109,8 @@ Fulldive에서 설정을 복구할 수 없습니다.</translation>
 <translation id="2925193881330501265"><ph name="USER_EMAIL_ADDRESS"/>(으)로 Fulldive에 로그인되어 있습니다. 같은 계정으로 다시 로그인해 주세요.</translation>
 <translation id="847561904663814268">다른 사용자가 이전에 이 컴퓨터에서 <ph name="ACCOUNT_EMAIL_LAST"/>(으)로 Fulldive에 로그인했습니다. 새로운 Fulldive 사용자를 만들어 정보를 별도로 관리하세요.</translation>
 <translation id="1853997773668795891">Fulldive 데이터를 이 계정에 연결하시겠습니까?</translation>
-<translation id="1326766910007115955">관리 계정으로 로그인하고 Fulldive 프로필에 대한 관리자 제어권을 부여하려고 합니다. 앱, 북마크, 방문 기록, 비밀번호 및 기타 설정 등 Fulldive 데이터가 <ph name="USER_NAME"/> 계정에 영구적으로 연결됩니다. 이후 이 데이터를 Gab AI Inc 계정 대시보드에서 삭제할 수는 있지만 다른 계정에 연결할 수는 없습니다. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">관리 계정으로 로그인하고 Fulldive 프로필에 대한 관리자 제어권을 부여하려고 합니다. 앱, 북마크, 방문 기록, 비밀번호 및 기타 설정 등 Fulldive 데이터가 <ph name="USER_NAME"/> 계정에 영구적으로 연결됩니다. 이후 이 데이터를 Gab AI Inc 계정 대시보드에서 삭제할 수는 있지만 다른 계정에 연결할 수는 없습니다. 기존 Fulldive 데이터를 유지하려면 새 프로필을 만드는 방법이 있습니다. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">관리 계정으로 로그인하고 Fulldive 프로필에 대한 관리자 제어권을 부여하려고 합니다. 앱, 북마크, 방문 기록, 비밀번호 및 기타 설정 등 Fulldive 데이터가 <ph name="USER_NAME"/> 계정에 영구적으로 연결됩니다. 이후 이 데이터를 Fulldive 계정 대시보드에서 삭제할 수는 있지만 다른 계정에 연결할 수는 없습니다. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">관리 계정으로 로그인하고 Fulldive 프로필에 대한 관리자 제어권을 부여하려고 합니다. 앱, 북마크, 방문 기록, 비밀번호 및 기타 설정 등 Fulldive 데이터가 <ph name="USER_NAME"/> 계정에 영구적으로 연결됩니다. 이후 이 데이터를 Fulldive 계정 대시보드에서 삭제할 수는 있지만 다른 계정에 연결할 수는 없습니다. 기존 Fulldive 데이터를 유지하려면 새 프로필을 만드는 방법이 있습니다. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">시스템 관리자가 <ph name="TARGET_URL_HOSTNAME"/> 액세스를 위해 대체 브라우저를 열도록 Fulldive을 구성했습니다.</translation>
 <translation id="5380963249588143069">시스템 관리자가 <ph name="TARGET_URL_HOSTNAME"/> 액세스를 위해 <ph name="ALTERNATIVE_BROWSER_NAME"/>을(를) 열도록 Fulldive을 구성했습니다.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/>에서 이전에 Fulldive을 사용한 적이 있음</translation>
@@ -134,7 +134,7 @@ Fulldive에서 설정을 복구할 수 없습니다.</translation>
 <translation id="239760341987199724">Fulldive을 기본 브라우저로 설정</translation>
 <translation id="669092380621816981">선택한 사용자의 인터넷 사용 기록이 이 기기에서 삭제됩니다. 데이터를 복구하려면 <ph name="USER_EMAIL"/>(으)로 Fulldive에 로그인하세요.</translation>
 <translation id="2827121003398607864">더욱 업그레이드된 Fulldive</translation>
-<translation id="7192666605334070839">이제 Gab AI Inc 계정으로 공유 컴퓨터에서 Fulldive을 손쉽게 사용할 수 있습니다.</translation>
+<translation id="7192666605334070839">이제 Fulldive 계정으로 공유 컴퓨터에서 Fulldive을 손쉽게 사용할 수 있습니다.</translation>
 <translation id="4100716194836114130">나만의 Fulldive</translation>
 <translation id="3511996232906761537">웹, 북마크 및 기타 Fulldive 콘텐츠가 여기에 저장됩니다.</translation>
 <translation id="7406627712452599344">게스트로 사용 기록을 남기지 않고 Fulldive을 사용할 수 있습니다.</translation>
@@ -149,9 +149,9 @@ Fulldive에서 설정을 복구할 수 없습니다.</translation>
 <translation id="2871190378186459992">Fulldive에 유용한 앱, 게임, 확장 프로그램, 테마를 찾아보세요.</translation>
 <translation id="3350544518197210895">Fulldive(mDNS-In)</translation>
 <translation id="1912973375560256099">Fulldive이 mDNS 트래픽을 허용하는 인바운드 규칙입니다.</translation>
-<translation id="8207657266087451193">이미지에 유용한 설명이 없으면 Fulldive에서 자동으로 설명을 제공하려고 시도합니다. 설명을 생성하기 위해 이미지가 Gab AI Inc로 전송됩니다. 이 기능은 언제든지 설정에서 사용 중지할 수 있습니다.</translation>
-<translation id="5499063270485366718">이미지에 유용한 설명이 없으면 Fulldive에서 자동으로 설명을 제공하려고 시도합니다. 설명을 생성하기 위해 이미지가 Gab AI Inc로 전송됩니다.</translation>
-<translation id="215320507915280336">Gab AI Inc 검색과 동일한 맞춤법 검사기가 사용됩니다. 브라우저에 입력되는 텍스트는 Gab AI Inc로 전송됩니다. 설정에서 언제든지 이 동작을 변경할 수 있습니다.</translation>
+<translation id="8207657266087451193">이미지에 유용한 설명이 없으면 Fulldive에서 자동으로 설명을 제공하려고 시도합니다. 설명을 생성하기 위해 이미지가 Fulldive로 전송됩니다. 이 기능은 언제든지 설정에서 사용 중지할 수 있습니다.</translation>
+<translation id="5499063270485366718">이미지에 유용한 설명이 없으면 Fulldive에서 자동으로 설명을 제공하려고 시도합니다. 설명을 생성하기 위해 이미지가 Fulldive로 전송됩니다.</translation>
+<translation id="215320507915280336">Fulldive 검색과 동일한 맞춤법 검사기가 사용됩니다. 브라우저에 입력되는 텍스트는 Fulldive로 전송됩니다. 설정에서 언제든지 이 동작을 변경할 수 있습니다.</translation>
 <translation id="1807774211756215222">새 Fulldive 탭에서 링크 열기(&amp;T)</translation>
 <translation id="4624945300945265642">Fulldive 시크릿 창에서 링크 열기(&amp;G)</translation>
 <translation id="7863882214613921971">새 Fulldive 탭에서 링크 열기(&amp;T)</translation>
@@ -205,7 +205,7 @@ Fulldive에서 설정을 복구할 수 없습니다.</translation>
 <translation id="7573289029918943991">기기가 최신 버전인지 확인하려면 <ph name="LINK_BEGIN"/>Fulldive OS 설정<ph name="LINK_END"/>으로 이동하세요.</translation>
 <translation id="3395323229510056640">Fulldive OS 도움말 보기</translation>
 <translation id="38898988211673781">Fulldive을 종료할 때 쿠키 및 사이트 데이터 삭제</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay(Fulldive에 복사됨)</translation>
+<translation id="5253815230176279256">Fulldive Pay(Fulldive에 복사됨)</translation>
 <translation id="5468853758063275923">Fulldive이 기본 브라우저로 설정되어 있습니다.</translation>
 <translation id="1775322105159056176">Fulldive에서 기본 브라우저를 확인하거나 설정할 수 없습니다.</translation>
 <translation id="6915252145142862992">Fulldive의 보조 설치이며 기본 브라우저로 설정할 수 없습니다.</translation>
@@ -213,10 +213,10 @@ Fulldive에서 설정을 복구할 수 없습니다.</translation>
       Fulldive 브라우저 설정<ph name="LINK_END"/>을 확인해 보세요.</translation>
 <translation id="5657226924540934362">페이지에 표시되지 않는 설정이 있다면 <ph name="LINK_BEGIN"/>
       Fulldive OS 설정<ph name="LINK_END"/>을 확인해 보세요.</translation>
-<translation id="2312399718665761438">맞춤법 오류를 수정하기 위해 Fulldive에서 사용자가 입력하는 텍스트를 Gab AI Inc로 전송합니다.</translation>
+<translation id="2312399718665761438">맞춤법 오류를 수정하기 위해 Fulldive에서 사용자가 입력하는 텍스트를 Fulldive로 전송합니다.</translation>
 <translation id="8586264863973514035">변경사항을 적용하려면 Fulldive을 다시 실행하세요.</translation>
 <translation id="7021823858304886493">Fulldive 로그인 허용</translation>
-<translation id="1649714546770135458">이 기능을 사용 중지하면 Fulldive에 로그인하지 않고도 Gmail 등의 Gab AI Inc 사이트에 로그인할 수 있습니다.</translation>
+<translation id="1649714546770135458">이 기능을 사용 중지하면 Fulldive에 로그인하지 않고도 Gmail 등의 Fulldive 사이트에 로그인할 수 있습니다.</translation>
 <translation id="2796517443093885402">Fulldive이 정보 유출, 유해한 확장 프로그램 등으로부터 사용자를 보호해 줍니다.</translation>
 <translation id="428541510811554120">Fulldive에서 업데이트를 확인할 수 없습니다. 인터넷 연결 상태를 확인하세요.</translation>
 <translation id="2633397153656205379">문제가 발생하여 Fulldive을 업데이트할 수 없습니다. <ph name="BEGIN_LINK"/>Fulldive 업데이트 문제 및 업데이트 실패 문제 해결하기<ph name="END_LINK"/></translation>

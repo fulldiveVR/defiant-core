@@ -28,26 +28,26 @@
 <translation id="2096012225669085171">Sincroniza y personaliza contenido en diferentes dispositivos</translation>
 <translation id="1692118695553449118">La sincronización está activada.</translation>
 <translation id="5514904542973294328">El administrador de este dispositivo inhabilitó esta opción</translation>
-<translation id="6447211988989208781">Controles de actividad de Gab AI Inc</translation>
+<translation id="6447211988989208781">Controles de actividad de Fulldive</translation>
 <translation id="4882831918239250449">Controlar cómo se usa tu historial de navegación para personalizar la Búsqueda, los anuncios y mucho más</translation>
 <translation id="7431991332293347422">Controla cómo se usa tu historial de navegación para personalizar la Búsqueda y mucho más</translation>
 <translation id="6303969859164067831">Salir y desactivar la sincronización</translation>
-<translation id="1125261911132334651">Administrar tu Cuenta de Gab AI Inc</translation>
+<translation id="1125261911132334651">Administrar tu Cuenta de Fulldive</translation>
 <translation id="6406506848690869874">Sincronización</translation>
 <translation id="714362445477979774">Sincroniza tus datos de Fulldive</translation>
 <translation id="4314815835985389558">Administrar la sincronización</translation>
-<translation id="5428209950370661546">Otros servicios de Gab AI Inc</translation>
+<translation id="5428209950370661546">Otros servicios de Fulldive</translation>
 <translation id="7704317875155739195">Autocompletar búsquedas y URL</translation>
 <translation id="2000419248597011803">Envía algunas cookies y búsquedas de la barra de direcciones y del cuadro de búsqueda a tu motor de búsqueda predeterminado</translation>
 <translation id="7981313251711023384">Cargar previamente las páginas para acelerar la navegación y las búsquedas</translation>
 <translation id="1821253160463689938">Usa cookies para recordar tus preferencias, incluso si no visitas esas páginas</translation>
 <translation id="6697492270171225480">Mostrar sugerencias para páginas similares cuando no se puede encontrar una específica</translation>
-<translation id="8109318360573330108">Envía a Gab AI Inc la URL de la página a la que intentas acceder</translation>
+<translation id="8109318360573330108">Envía a Fulldive la URL de la página a la que intentas acceder</translation>
 <translation id="8438566539970814960">Mejorar las búsquedas y la navegación</translation>
-<translation id="284843628681142937">Envía a Gab AI Inc las URL de las páginas que visitas</translation>
+<translation id="284843628681142937">Envía a Fulldive las URL de las páginas que visitas</translation>
 <translation id="7222718784508482526">Para obtener más opciones de configuración relacionadas con la privacidad, la seguridad y la recopilación de datos, visita <ph name="BEGIN_LINK"/>Sincronización y servicios<ph name="END_LINK"/></translation>
 <translation id="918192811481327695">Ayudar a mejorar las funciones y el rendimiento de Fulldive</translation>
-<translation id="9063160602596686558">Envía automáticamente informes de fallos y estadísticas de uso a Gab AI Inc</translation>
+<translation id="9063160602596686558">Envía automáticamente informes de fallos y estadísticas de uso a Fulldive</translation>
 <translation id="4824958205181053313">¿Quieres cancelar la sincronización?</translation>
 <translation id="3058498974290601450">Puedes activar la sincronización en la configuración en cualquier momento</translation>
 <translation id="3143515551205905069">Cancelar sincronización</translation>
@@ -86,9 +86,9 @@
 <translation id="2100273922101894616">Acceso automático</translation>
 <translation id="363596933471559332">Permite acceder automáticamente a los sitios web con las credenciales almacenadas. Si la función está desactivada, siempre se solicitará verificación antes de acceder a un sitio web.</translation>
 <translation id="6995899638241819463">Advertirme si quedan expuestas las contraseñas ante una violación de la seguridad de los datos</translation>
-<translation id="1534287762301776620">Esta función se activa cuando accedes a tu Cuenta de Gab AI Inc</translation>
+<translation id="1534287762301776620">Esta función se activa cuando accedes a tu Cuenta de Fulldive</translation>
 <translation id="10614374240317010">Nunca guardado</translation>
-<translation id="3098842761938485917">Ver y administrar las contraseñas guardadas en tu <ph name="BEGIN_LINK"/>cuenta de Gab AI Inc<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Ver y administrar las contraseñas guardadas en tu <ph name="BEGIN_LINK"/>cuenta de Fulldive<ph name="END_LINK"/></translation>
 <translation id="8988028529677883095">Usa el teléfono como llave de seguridad</translation>
 <translation id="8562452229998620586">Las contraseñas guardadas aparecerán aquí.</translation>
 <translation id="1303339473099049190">No se encontró esa contraseña. Revisa la ortografía y vuelve a intentarlo.</translation>
@@ -116,7 +116,7 @@
 <translation id="6914783257214138813">Las personas que tengan acceso al archivo exportado podrán ver tus contraseñas.</translation>
 <translation id="2321086116217818302">Preparando las contraseñas…</translation>
 <translation id="8445448999790540984">No se pueden exportar las contraseñas</translation>
-<translation id="5139940364318403933">Aprender a usar Gab AI Inc Drive</translation>
+<translation id="5139940364318403933">Aprender a usar Fulldive Drive</translation>
 <translation id="729975465115245577">Tu dispositivo no tiene una app que pueda almacenar el archivo de contraseñas.</translation>
 <translation id="7682724950699840886">Intenta las siguientes sugerencias: Antes de exportar las contraseñas nuevamente, asegúrate de que haya espacio suficiente en tu dispositivo.</translation>
 <translation id="1129510026454351943">Detalles: <ph name="ERROR_DESCRIPTION"/></translation>
@@ -140,17 +140,17 @@
 <translation id="6381421346744604172">Oscurecer sitios web</translation>
 <translation id="5040262127954254034">Privacidad</translation>
 <translation id="4991384657077828949">Ayudar a mejorar la seguridad de Fulldive</translation>
-<translation id="1943176487615318915">Para detectar apps y sitios peligrosos, Fulldive envía a Gab AI Inc URL de algunas páginas que visitas, información limitada sobre el sistema y contenido de algunas páginas</translation>
+<translation id="1943176487615318915">Para detectar apps y sitios peligrosos, Fulldive envía a Fulldive URL de algunas páginas que visitas, información limitada sobre el sistema y contenido de algunas páginas</translation>
 <translation id="3201899458094819285">Navegación segura (te protege a ti y tu dispositivo de sitios peligrosos)</translation>
-<translation id="2876369937070532032">Enviar a Gab AI Inc las URL de algunas páginas que visitas, cuando tu seguridad esté en riesgo</translation>
+<translation id="2876369937070532032">Enviar a Fulldive las URL de algunas páginas que visitas, cuando tu seguridad esté en riesgo</translation>
 <translation id="3738139272394829648">Tocar para buscar</translation>
-<translation id="4749189475009528195">Obtén información sobre los temas en sitios web sin salir de la página. La función Tocar para buscar envía una palabra y el contexto en el que se encuentra a la Búsqueda de Gab AI Inc, y muestra definiciones, fotos, resultados de la búsqueda y otros detalles.
+<translation id="4749189475009528195">Obtén información sobre los temas en sitios web sin salir de la página. La función Tocar para buscar envía una palabra y el contexto en el que se encuentra a la Búsqueda de Fulldive, y muestra definiciones, fotos, resultados de la búsqueda y otros detalles.
 
 Para buscar una palabra, presiónala. Si quieres definir mejor la búsqueda, mantén presionado para seleccionar más o menos palabras. Si quieres editar la búsqueda, abre el panel, presiona el ícono para abrir una pestaña nueva y realiza los cambios que quieras en el cuadro de búsqueda.</translation>
-<translation id="934250516944040460">Obtén información sobre los temas en sitios web sin salir de la página. La función Tocar para buscar envía una palabra y el contexto en el que se encuentra a la Búsqueda de Gab AI Inc, y muestra definiciones, fotos, resultados de la búsqueda y otros detalles.
+<translation id="934250516944040460">Obtén información sobre los temas en sitios web sin salir de la página. La función Tocar para buscar envía una palabra y el contexto en el que se encuentra a la Búsqueda de Fulldive, y muestra definiciones, fotos, resultados de la búsqueda y otros detalles.
 
 Para buscar una palabra, mantenla presionada. Si quieres definir mejor la búsqueda, selecciona más o menos palabras. Si quieres editar la búsqueda, abre el panel, presiona el ícono para abrir una pestaña nueva y realiza los cambios que quieras en el cuadro de búsqueda.</translation>
-<translation id="6209156474097347789">La función Tocar para buscar envía la palabra seleccionada y la página actual como contexto a la Búsqueda de Gab AI Inc. Para desactivarla, accede a <ph name="BEGIN_LINK"/>Configuración<ph name="END_LINK"/>.</translation>
+<translation id="6209156474097347789">La función Tocar para buscar envía la palabra seleccionada y la página actual como contexto a la Búsqueda de Fulldive. Para desactivarla, accede a <ph name="BEGIN_LINK"/>Configuración<ph name="END_LINK"/>.</translation>
 <translation id="5039804452771397117">Permitir</translation>
 <translation id="780301667611848630">No, gracias</translation>
 <translation id="1406000523432664303">No realizar seguimiento</translation>
@@ -163,15 +163,15 @@ Por ejemplo, algunos sitios web pueden responder a la solicitud mediante anuncio
 <translation id="7814200940910057384">Datos de Fulldive borrados</translation>
 <translation id="1664855196866195614">Los datos seleccionados se quitaron de Fulldive y tus dispositivos sincronizados.
 
-Es posible que tu cuenta de Gab AI Inc tenga otros formularios de historial de navegación, como búsquedas y actividad de otros servicios de Gab AI Inc en <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+Es posible que tu cuenta de Fulldive tenga otros formularios de historial de navegación, como búsquedas y actividad de otros servicios de Fulldive en <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="4699172675775169585">Imágenes y archivos almacenados en caché</translation>
 <translation id="2496180316473517155">Historial de navegación</translation>
 <translation id="2546283357679194313">Datos de sitios y cookies</translation>
 <translation id="8662811608048051533">Esta acción te hace salir de la mayoría de los sitios.</translation>
-<translation id="8218628800671693884">Esta acción te hace salir de la mayoría de los sitios. No saldrás de tu cuenta de Gab AI Inc.</translation>
+<translation id="8218628800671693884">Esta acción te hace salir de la mayoría de los sitios. No saldrás de tu cuenta de Fulldive.</translation>
 <translation id="2017836877785168846">Borra el historial y las opciones de autocompletado en la barra de direcciones.</translation>
-<translation id="8096327394278038498">Borra el historial y las sugerencias de autocompletado en la barra de direcciones. Es posible que tu cuenta de Gab AI Inc tenga otros formularios del historial de navegación en <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Borra el historial de todos los dispositivos en los que accediste. Es posible que tu cuenta de Gab AI Inc tenga otros formularios del historial de navegación en <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Borra el historial y las sugerencias de autocompletado en la barra de direcciones. Es posible que tu cuenta de Fulldive tenga otros formularios del historial de navegación en <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Borra el historial de todos los dispositivos en los que accediste. Es posible que tu cuenta de Fulldive tenga otros formularios del historial de navegación en <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="5869522115854928033">Contraseñas almacenadas</translation>
 <translation id="6865313869410766144">Datos del formulario de autocompletar</translation>
 <translation id="7562080006725997899">Borrando datos de navegación</translation>
@@ -188,7 +188,7 @@ Es posible que tu cuenta de Gab AI Inc tenga otros formularios de historial de n
 <translation id="6643016212128521049">Borrar</translation>
 <translation id="7641339528570811325">Borrar datos de navegación…</translation>
 <translation id="1670399744444387456">Básicas</translation>
-<translation id="3245261285041759672">Es posible que tu cuenta de Gab AI Inc tenga otros formularios del historial de navegación en <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="3245261285041759672">Es posible que tu cuenta de Fulldive tenga otros formularios del historial de navegación en <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7274013316676448362">Sitio bloqueado</translation>
 <translation id="2534155362429831547"><ph name="NUMBER_OF_ITEMS"/> elementos borrados</translation>
 <translation id="6981982820502123353">Accesibilidad</translation>
@@ -358,13 +358,13 @@ Es posible que tu cuenta de Gab AI Inc tenga otros formularios de historial de n
 <translation id="3658159451045945436">Si lo haces, se borrará el historial de ahorro de datos, incluida la lista de sitios visitados.</translation>
 <translation id="5939518447894949180">Restablecer</translation>
 <translation id="3295530008794733555">Navega más rápido; usa menos datos</translation>
-<translation id="7340390500800578919">En el modo lite, Fulldive carga las páginas más rápido y usa hasta un 60% menos de datos. Para optimizar las páginas que visitas, Fulldive envía tu tráfico en la Web a Gab AI Inc. <ph name="BEGIN_LINK"/>Más información<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">En el modo lite, Fulldive carga las páginas más rápido y usa hasta un 60% menos de datos. Para optimizar las páginas que visitas, Fulldive envía tu tráfico en la Web a Fulldive. <ph name="BEGIN_LINK"/>Más información<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Activar el modo lite</translation>
 <translation id="4493497663118223949">El modo lite está activado</translation>
 <translation id="7559975015014302720">El modo lite está desactivado</translation>
 <translation id="7606077192958116810">El modo lite está activado. Puedes administrarlo en Configuración.</translation>
 <translation id="4714588616299687897">Ahorra hasta un 60% de tus datos</translation>
-<translation id="1006927014032731288">Los servidores de Gab AI Inc optimizarán las páginas que visites.</translation>
+<translation id="1006927014032731288">Los servidores de Fulldive optimizarán las páginas que visites.</translation>
 <translation id="3257320067425202300">Fulldive te permitió ahorrar <ph name="MEGABYTES"/> megabytes</translation>
 <translation id="5813223329348543512">Fulldive te permitió ahorrar <ph name="GIGABYTES"/> gigabytes</translation>
 <translation id="8266862848225348053">Ubicación de las descargas</translation>
@@ -393,13 +393,13 @@ Es posible que tu cuenta de Gab AI Inc tenga otros formularios de historial de n
 <translation id="3334729583274622784">¿Quieres cambiar la extensión del archivo?</translation>
 <translation id="107147699690128016">Si cambias la extensión de archivo, es posible que el archivo se abra en una app diferente y dañe el dispositivo.</translation>
 <translation id="8541922081612557424">Acerca de Fulldive</translation>
-<translation id="5311273890481188673">Copyright <ph name="YEAR"/> Gab AI Inc LLC. Todos los derechos reservados.</translation>
+<translation id="5311273890481188673">Copyright <ph name="YEAR"/> Fulldive LLC. Todos los derechos reservados.</translation>
 <translation id="1416550906796893042">Versión de la aplicación</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (actualización: <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Sistema operativo</translation>
 <translation id="3968054912784331254">Las actualizaciones de Fulldive ya no son compatibles con esta versión de Android</translation>
 <translation id="7665369617277396874">Agregar cuenta</translation>
-<translation id="649070405679044769">Accediste a Gab AI Inc como</translation>
+<translation id="649070405679044769">Accediste a Fulldive como</translation>
 <translation id="6234515504547364178">Salir de Fulldive</translation>
 <translation id="5324858694974489420">Configuración parental</translation>
 <translation id="8920114477895755567">Esperando los detalles parentales</translation>
@@ -424,14 +424,14 @@ Es posible que tu cuenta de Gab AI Inc tenga otros formularios de historial de n
 <translation id="2968755619301702150">Visualizador de certificados</translation>
 <translation id="1360432990279830238">¿Salir y desactivar la sincronización?</translation>
 <translation id="8581481290581777242">¿Quieres borrar tus datos de Fulldive de este dispositivo?</translation>
-<translation id="1318865768845061710">Ya no se sincronizarán con tu Cuenta de Gab AI Inc los favoritos, el historial, las contraseñas ni otros datos de Fulldive.</translation>
+<translation id="1318865768845061710">Ya no se sincronizarán con tu Cuenta de Fulldive los favoritos, el historial, las contraseñas ni otros datos de Fulldive.</translation>
 <translation id="3325020657155065477">Borrar también los datos de Fulldive de este dispositivo</translation>
-<translation id="6136448902816743006">Estás saliendo de una cuenta administrada por <ph name="DOMAIN_NAME"/>. Se borrarán tus datos de Fulldive de este dispositivo, pero permanecerán en tu Cuenta de Gab AI Inc.</translation>
-<translation id="1853026300647876496">Se está estableciendo la comunicación con Gab AI Inc. Esta acción puede demorar unos minutos…</translation>
+<translation id="6136448902816743006">Estás saliendo de una cuenta administrada por <ph name="DOMAIN_NAME"/>. Se borrarán tus datos de Fulldive de este dispositivo, pero permanecerán en tu Cuenta de Fulldive.</translation>
+<translation id="1853026300647876496">Se está estableciendo la comunicación con Fulldive. Esta acción puede demorar unos minutos…</translation>
 <translation id="2328985652426384049">No puedes acceder</translation>
-<translation id="7723158744459952869">Gab AI Inc tardó demasiado en responder</translation>
+<translation id="7723158744459952869">Fulldive tardó demasiado en responder</translation>
 <translation id="4572422548854449519">Acceder a una cuenta administrada</translation>
-<translation id="2689656545739939160">Estás accediendo con una cuenta administrada por <ph name="MANAGED_DOMAIN"/> y dándole permiso a su administrador para que controle tus datos de Fulldive. Tus datos se vincularán de forma permanente a esta cuenta. Si sales de Fulldive, tus datos se borrarán en este dispositivo, pero quedarán guardados en tu cuenta de Gab AI Inc.</translation>
+<translation id="2689656545739939160">Estás accediendo con una cuenta administrada por <ph name="MANAGED_DOMAIN"/> y dándole permiso a su administrador para que controle tus datos de Fulldive. Tus datos se vincularán de forma permanente a esta cuenta. Si sales de Fulldive, tus datos se borrarán en este dispositivo, pero quedarán guardados en tu cuenta de Fulldive.</translation>
 <translation id="1749561566933687563">Sincroniza tus favoritos</translation>
 <translation id="4242533952199664413">Abrir la configuración</translation>
 <translation id="1111673857033749125">Los favoritos guardados en tus otros dispositivos aparecerán aquí.</translation>
@@ -445,21 +445,21 @@ Es posible que tu cuenta de Gab AI Inc tenga otros formularios de historial de n
 <translation id="8820817407110198400">Favoritos</translation>
 <translation id="1644574205037202324">Historial</translation>
 <translation id="17513872634828108">Pestañas abiertas</translation>
-<translation id="1320169905922104972">Tarjetas de crédito y direcciones con Gab AI Inc Pay</translation>
+<translation id="1320169905922104972">Tarjetas de crédito y direcciones con Fulldive Pay</translation>
 <translation id="6337234675334993532">Encriptación</translation>
 <translation id="6698801883190606802">Administrar datos sincronizados</translation>
-<translation id="3598578758776312506">Encriptar las contraseñas con las credenciales de Gab AI Inc</translation>
-<translation id="7810580217418711046">Encriptar los datos sincronizados con la contraseña de Gab AI Inc a partir del <ph name="TIME"/></translation>
+<translation id="3598578758776312506">Encriptar las contraseñas con las credenciales de Fulldive</translation>
+<translation id="7810580217418711046">Encriptar los datos sincronizados con la contraseña de Fulldive a partir del <ph name="TIME"/></translation>
 <translation id="8461694314515752532">Encriptar los datos sincronizados con tu propia frase de contraseña de sincronización</translation>
 <translation id="2996291259634659425">Crear frase de contraseña</translation>
-<translation id="5713644099811900409">Cuenta de Gab AI Inc</translation>
-<translation id="8997474919031554666">La encriptación de la frase de contraseña no incluye formas de pago ni direcciones de Gab AI Inc Pay. Solo las personas que tengan tu frase de contraseña pueden leer los datos encriptados. Gab AI Inc no envía ni almacena la frase de contraseña. Si la olvidas o quieres cambiar esta configuración, deberás restablecer la sincronización. <ph name="BEGIN_LINK"/>Más información<ph name="END_LINK"/></translation>
+<translation id="5713644099811900409">Cuenta de Fulldive</translation>
+<translation id="8997474919031554666">La encriptación de la frase de contraseña no incluye formas de pago ni direcciones de Fulldive Pay. Solo las personas que tengan tu frase de contraseña pueden leer los datos encriptados. Fulldive no envía ni almacena la frase de contraseña. Si la olvidas o quieres cambiar esta configuración, deberás restablecer la sincronización. <ph name="BEGIN_LINK"/>Más información<ph name="END_LINK"/></translation>
 <translation id="9050666287014529139">Frase de contraseña</translation>
 <translation id="7772032839648071052">Confirmar frase de contraseña</translation>
 <translation id="5304593522240415983">Este campo no puede quedar en blanco.</translation>
 <translation id="321773570071367578">Si olvidaste la frase de contraseña o quieres cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la contraseña<ph name="END_LINK"/></translation>
 <translation id="3029704984691124060">Las frases de contraseña no coinciden.</translation>
-<translation id="5149495116300586333">La encriptación de la frase de contraseña no incluye formas de pago ni direcciones de Gab AI Inc Pay.
+<translation id="5149495116300586333">La encriptación de la frase de contraseña no incluye formas de pago ni direcciones de Fulldive Pay.
 
 Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincronización<ph name="END_LINK"/></translation>
 <translation id="7638584964844754484">Frase de contraseña incorrecta</translation>
@@ -575,7 +575,7 @@ Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincroniz
 <translation id="6649642165559792194">Vista previa de imagen <ph name="BEGIN_NEW"/>Nueva<ph name="END_NEW"/></translation>
 <translation id="3269093882174072735">Cargar imagen</translation>
 <translation id="6671495933530132209">Copiar imagen</translation>
-<translation id="3845332215609790146">Buscar con Gab AI Inc Lens <ph name="BEGIN_NEW"/>Nuevo<ph name="END_NEW"/></translation>
+<translation id="3845332215609790146">Buscar con Fulldive Lens <ph name="BEGIN_NEW"/>Nuevo<ph name="END_NEW"/></translation>
 <translation id="5578795271662203820">Buscar esta imagen en <ph name="SEARCH_ENGINE"/></translation>
 <translation id="3384347053049321195">Compartir imagen</translation>
 <translation id="5833984609253377421">Compartir vínculo</translation>
@@ -584,7 +584,7 @@ Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincroniz
 <translation id="7975379999046275268">Vista previa de página <ph name="BEGIN_NEW"/>Nueva<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Sitio rápido</translation>
 <translation id="6112702117600201073">Actualizando la página</translation>
-<translation id="6990079615885386641">Descargar la aplicación desde Gab AI Inc Play Store: <ph name="APP_ACTION"/></translation>
+<translation id="6990079615885386641">Descargar la aplicación desde Fulldive Play Store: <ph name="APP_ACTION"/></translation>
 <translation id="2414886740292270097">Oscuro</translation>
 <translation id="1807246157184219062">Claro</translation>
 <translation id="4056223980640387499">Sepia</translation>
@@ -610,9 +610,9 @@ Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincroniz
 <translation id="164269334534774161">Estás viendo una copia sin conexión de esta página del <ph name="CREATION_TIME"/></translation>
 <translation id="4594952190837476234">Esta página sin conexión se creó el <ph name="CREATION_TIME"/> y es posible que sea diferente con respecto a la versión en línea.</translation>
 <translation id="8840953339110955557">Es posible que esta página sea diferente con respecto a la versión en línea.</translation>
-<translation id="6405300764336705484">Este contenido es de <ph name="DOMAIN_NAME"/>, publicado por Gab AI Inc.</translation>
+<translation id="6405300764336705484">Este contenido es de <ph name="DOMAIN_NAME"/>, publicado por Fulldive.</translation>
 <translation id="1006017844123154345">Abrir en línea</translation>
-<translation id="3326636747541519688">Gab AI Inc proporcionó la página básica</translation>
+<translation id="3326636747541519688">Fulldive proporcionó la página básica</translation>
 <translation id="7149158118503947153"><ph name="BEGIN_LINK"/>Cargar página original<ph name="END_LINK"/> de <ph name="DOMAIN_NAME"/></translation>
 <translation id="7475192538862203634">Si el mensaje aparece con frecuencia, prueba estas <ph name="BEGIN_LINK"/>sugerencias<ph name="END_LINK"/>.</translation>
 <translation id="8748850008226585750">Contenidos ocultos</translation>
@@ -711,18 +711,18 @@ Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincroniz
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">AA</translation>
 <translation id="724102042129299115">Primera experiencia de ejecución de Fulldive</translation>
-<translation id="7766792282581704663">Si usas Fulldive, aceptas las <ph name="BEGIN_LINK1"/>Condiciones del Servicio de Gab AI Inc<ph name="END_LINK1"/> y las <ph name="BEGIN_LINK2"/>Condiciones del Servicio Adicionales de Gab AI Inc Fulldive y el Sistema operativo Fulldive<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Si usas Fulldive, aceptas las <ph name="BEGIN_LINK1"/>Condiciones del Servicio de Gab AI Inc<ph name="END_LINK1"/> y las <ph name="BEGIN_LINK2"/>Condiciones del Servicio Adicionales de Gab AI Inc Fulldive y el Sistema operativo Fulldive<ph name="END_LINK2"/>. También se aplica el <ph name="BEGIN_LINK3"/>Aviso de Privacidad para las Cuentas de Gab AI Inc administradas con Family Link<ph name="END_LINK3"/>.</translation>
-<translation id="4993481112200507346">Se abrirá <ph name="APP_NAME"/> en Fulldive. Si continúas, aceptas las <ph name="BEGIN_LINK1"/>Condiciones del Servicio de Gab AI Inc<ph name="END_LINK1"/> y las <ph name="BEGIN_LINK2"/>Condiciones del Servicio Adicionales de Gab AI Inc Fulldive y el Sistema operativo Fulldive<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485">Se abrirá <ph name="APP_NAME"/> en Fulldive. Si continúas, aceptas las <ph name="BEGIN_LINK1"/>Condiciones del Servicio de Gab AI Inc<ph name="END_LINK1"/> y las <ph name="BEGIN_LINK2"/>Condiciones del Servicio Adicionales de Gab AI Inc Fulldive y el Sistema operativo Fulldive<ph name="END_LINK2"/>. También se aplica el <ph name="BEGIN_LINK3"/>Aviso de Privacidad para las Cuentas de Gab AI Inc administradas con Family Link<ph name="END_LINK3"/>.</translation>
-<translation id="673197144963363525">Envía las estadísticas de uso y los informes de fallos a Gab AI Inc para ayudarnos a mejorar Fulldive.</translation>
+<translation id="7766792282581704663">Si usas Fulldive, aceptas las <ph name="BEGIN_LINK1"/>Condiciones del Servicio de Fulldive<ph name="END_LINK1"/> y las <ph name="BEGIN_LINK2"/>Condiciones del Servicio Adicionales de Fulldive Fulldive y el Sistema operativo Fulldive<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Si usas Fulldive, aceptas las <ph name="BEGIN_LINK1"/>Condiciones del Servicio de Fulldive<ph name="END_LINK1"/> y las <ph name="BEGIN_LINK2"/>Condiciones del Servicio Adicionales de Fulldive Fulldive y el Sistema operativo Fulldive<ph name="END_LINK2"/>. También se aplica el <ph name="BEGIN_LINK3"/>Aviso de Privacidad para las Cuentas de Fulldive administradas con Family Link<ph name="END_LINK3"/>.</translation>
+<translation id="4993481112200507346">Se abrirá <ph name="APP_NAME"/> en Fulldive. Si continúas, aceptas las <ph name="BEGIN_LINK1"/>Condiciones del Servicio de Fulldive<ph name="END_LINK1"/> y las <ph name="BEGIN_LINK2"/>Condiciones del Servicio Adicionales de Fulldive Fulldive y el Sistema operativo Fulldive<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485">Se abrirá <ph name="APP_NAME"/> en Fulldive. Si continúas, aceptas las <ph name="BEGIN_LINK1"/>Condiciones del Servicio de Fulldive<ph name="END_LINK1"/> y las <ph name="BEGIN_LINK2"/>Condiciones del Servicio Adicionales de Fulldive Fulldive y el Sistema operativo Fulldive<ph name="END_LINK2"/>. También se aplica el <ph name="BEGIN_LINK3"/>Aviso de Privacidad para las Cuentas de Fulldive administradas con Family Link<ph name="END_LINK3"/>.</translation>
+<translation id="673197144963363525">Envía las estadísticas de uso y los informes de fallos a Fulldive para ayudarnos a mejorar Fulldive.</translation>
 <translation id="3518985090088779359">Aceptar y continuar</translation>
 <translation id="7207456302801184289">Te damos la bienvenida a Fulldive</translation>
-<translation id="7189372733857464326">Esperando que los servicios de Gab AI Inc Play terminen de actualizarse</translation>
+<translation id="7189372733857464326">Esperando que los servicios de Fulldive Play terminen de actualizarse</translation>
 <translation id="1231733316453485619">¿Quieres activar la sincronización?</translation>
 <translation id="5132942445612118989">Sincroniza tus contraseñas, historial y más en todos los dispositivos</translation>
-<translation id="5736731321935944068">Es posible que Gab AI Inc use tu historial para personalizar la Búsqueda, los anuncios y otros servicios de Gab AI Inc</translation>
-<translation id="4013614219085422040">Es posible que Gab AI Inc use tu historial para personalizar la Búsqueda, los anuncios y otros servicios de Gab AI Inc</translation>
+<translation id="5736731321935944068">Es posible que Fulldive use tu historial para personalizar la Búsqueda, los anuncios y otros servicios de Fulldive</translation>
+<translation id="4013614219085422040">Es posible que Fulldive use tu historial para personalizar la Búsqueda, los anuncios y otros servicios de Fulldive</translation>
 <translation id="5581519193887989363">En la <ph name="BEGIN_LINK1"/>configuración<ph name="END_LINK1"/>, puedes elegir los datos para sincronizar en cualquier momento.</translation>
 <translation id="741204030948306876">Sí, acepto</translation>
 <translation id="2410754283952462441">Elegir una cuenta</translation>
@@ -730,8 +730,8 @@ Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincroniz
 <translation id="6210748933810148297">¿No eres <ph name="EMAIL"/>?</translation>
 <translation id="8109613176066109935">Para que tus favoritos estén en todos tus dispositivos, activa la sincronización</translation>
 <translation id="2818669890320396765">Para que tus favoritos estén en todos tus dispositivos, accede a tu cuenta y activa la sincronización</translation>
-<translation id="6003646045106347985">Para obtener contenido personalizado y sugerido por Gab AI Inc, activa la sincronización</translation>
-<translation id="8494430740943879273">Para obtener contenido personalizado y sugerido por Gab AI Inc, accede a tu cuenta y activa la sincronización</translation>
+<translation id="6003646045106347985">Para obtener contenido personalizado y sugerido por Fulldive, activa la sincronización</translation>
+<translation id="8494430740943879273">Para obtener contenido personalizado y sugerido por Fulldive, accede a tu cuenta y activa la sincronización</translation>
 <translation id="5862731021271217234">Para obtener las pestañas de tus otros dispositivos, activa la sincronización</translation>
 <translation id="3568688522516854065">Para obtener las pestañas de tus otros dispositivos, accede a tu cuenta y activa la sincronización</translation>
 <translation id="1208340532756947324">Para sincronizar diferentes dispositivos y personalizar tu experiencia, activa la sincronización</translation>
@@ -751,7 +751,7 @@ Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincroniz
 <translation id="5423934151118863508">Aquí aparecerán las páginas que visites con más frecuencia</translation>
 <translation id="6127379762771434464">Se eliminó el elemento</translation>
 <translation id="4605958867780575332">Se quitó el siguiente elemento: <ph name="ITEM_TITLE"/></translation>
-<translation id="1996480094660735607">Doodle de Gab AI Inc: <ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">Doodle de Fulldive: <ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="7851858861565204677">Otros dispositivos</translation>
 <translation id="4738836084190194332">Última sincronización: <ph name="WHEN"/></translation>
 <translation id="4583164079174244168">{MINUTES,plural, =1{Hace # minuto}other{Hace # minutos}}</translation>
@@ -778,7 +778,7 @@ Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincroniz
 <translation id="1171770572613082465">Presiona el botón "Populares" para ver los sitios web más conocidos</translation>
 <translation id="5233638681132016545">Nueva pestaña</translation>
 <translation id="6336451774241870485">Nueva pestaña de incógnito</translation>
-<translation id="4521874409998847950">De <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>publicado por Gab AI Inc<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950">De <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>publicado por Fulldive<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Nueva versión disponible</translation>
 <translation id="4058091506841967397">No se actualiza Fulldive</translation>
 <translation id="6316139424528454185">Versión Android no compatible</translation>
@@ -914,7 +914,7 @@ Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincroniz
 <translation id="8427875596167638501">La pestaña de vista previa está abierta a la mitad</translation>
 <translation id="9102803872260866941">Está abierta la pestaña de vista previa</translation>
 <translation id="2942036813789421260">Se cerró la pestaña de vista previa</translation>
-<translation id="6355102470683871794">Almacenamiento de Gab AI Inc <ph name="APP_NAME"/></translation>
+<translation id="6355102470683871794">Almacenamiento de Fulldive <ph name="APP_NAME"/></translation>
 <translation id="3822502789641063741">¿Borrar el almacenamiento de sitios?</translation>
 <translation id="9205995714227143200">Almacenamiento de sitios que Fulldive no considera importantes (por ejemplo, sitios que no visitas a menudo o sin configuración guardada)</translation>
 <translation id="3997476611815694295">Almacenamiento no importante</translation>
@@ -955,9 +955,9 @@ Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincroniz
 <translation id="5489227211564503167">Tiempo transcurrido: <ph name="ELAPSED_TIME"/> de <ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Buscar con Sogou</translation>
 <translation id="5406914950576900927">Fulldive puede usar <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> para realizar búsquedas en China. Puede cambiar esta opción en <ph name="BEGIN_LINK"/>Configuración<ph name="END_LINK"/>.</translation>
-<translation id="6456271171669383967">Seguir usando Gab AI Inc</translation>
+<translation id="6456271171669383967">Seguir usando Fulldive</translation>
 <translation id="4384468725000734951">Se usa Sogou para la búsqueda</translation>
-<translation id="6103327872225198548">Se usa Gab AI Inc para la búsqueda</translation>
+<translation id="6103327872225198548">Se usa Fulldive para la búsqueda</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
 <translation id="919933208285147476">Esta app se ejecuta en Fulldive</translation>
 <translation id="6143689084714664628">Se está ejecutando en Fulldive</translation>
@@ -989,7 +989,7 @@ Para cambiar esta configuración, <ph name="BEGIN_LINK"/>restablece la sincroniz
 <translation id="123724288017357924">Volver a cargar página actual; ignorar contenido en caché</translation>
 <translation id="305870044889644984">Abrir Centro de ayuda de Fulldive en pestaña nueva</translation>
 <translation id="3166827708714933426">Accesos directos a ventanas y pestañas</translation>
-<translation id="3169981355900570544">Accesos directos a las funciones de Gab AI Inc Fulldive</translation>
+<translation id="3169981355900570544">Accesos directos a las funciones de Fulldive Fulldive</translation>
 <translation id="4558311620361989323">Accesos directos a páginas web</translation>
 <translation id="1908301351964700579">Fulldive todavía se está preparando para la RV. Reinicia Fulldive más tarde.</translation>
 <translation id="8970887620466824814">Se produjo un error</translation>
@@ -1018,9 +1018,9 @@ Solo tú podrás ver lo que captura la cámara. El sitio no tiene acceso a las i
 <translation id="3341058695485821946">Consulta cuántos datos redujiste</translation>
 <translation id="3157842584138209013">Para ver cuántos datos redujiste, selecciona el botón Más opciones</translation>
 <translation id="8218622182176210845">Administra tu cuenta</translation>
-<translation id="8090895580117672212">Para administrar tu Cuenta de Gab AI Inc, presiona el botón "Administrar cuenta"</translation>
-<translation id="8856898588039823173">Gab AI Inc proporcionó la página básica. Presiona para cargar la versión original.</translation>
-<translation id="8134317863207426198">Gab AI Inc proporcionó la página básica. Para cargar la original, presiona el botón.</translation>
+<translation id="8090895580117672212">Para administrar tu Cuenta de Fulldive, presiona el botón "Administrar cuenta"</translation>
+<translation id="8856898588039823173">Fulldive proporcionó la página básica. Presiona para cargar la versión original.</translation>
+<translation id="8134317863207426198">Fulldive proporcionó la página básica. Para cargar la original, presiona el botón.</translation>
 <translation id="4961107849584082341">Traducir esta página a cualquier idioma</translation>
 <translation id="569536719314091526">Traduce esta página a cualquier idioma desde el botón Más opciones</translation>
 <translation id="1397811292916898096">Buscar con <ph name="PRODUCT_NAME"/></translation>
@@ -1079,11 +1079,11 @@ Solo tú podrás ver lo que captura la cámara. El sitio no tiene acceso a las i
 <translation id="5805364706385912897">Fulldive pausó esta página porque usa demasiada memoria.</translation>
 <translation id="5138664332909611586">Fulldive quitó parte del contenido de esta página porque usa demasiada memoria.</translation>
 <translation id="9137013805542155359">Mostrar original</translation>
-<translation id="6361779936989026201">Asistente de Gab AI Inc en Fulldive</translation>
+<translation id="6361779936989026201">Asistente de Fulldive en Fulldive</translation>
 <translation id="7291387454912369099">Confirmación de compra activada</translation>
-<translation id="9037412730408024068">Para ayudarte a completar tareas, Gab AI Inc recibirá las URL y los contenidos de los sitios en los que uses el Asistente, así como la información que envías a través de este servicio</translation>
+<translation id="9037412730408024068">Para ayudarte a completar tareas, Fulldive recibirá las URL y los contenidos de los sitios en los que uses el Asistente, así como la información que envías a través de este servicio</translation>
 <translation id="4565206163201411670">¿Quieres que se muestre tu actividad de Fulldive en Bienestar digital?</translation>
-<translation id="9055113864158719823">Puedes ver los sitios que visites en Fulldive y establecer temporizadores para ellos.\n\nGab AI Inc obtiene información sobre los sitios para los que estableces temporizadores y la duración de las visitas a ellos. Esta información se usa para mejorar Bienestar digital.</translation>
+<translation id="9055113864158719823">Puedes ver los sitios que visites en Fulldive y establecer temporizadores para ellos.\n\nFulldive obtiene información sobre los sitios para los que estableces temporizadores y la duración de las visitas a ellos. Esta información se usa para mejorar Bienestar digital.</translation>
 <translation id="4596514158372210596">Quita tu actividad en Fulldive de Bienestar digital</translation>
 <translation id="1174893863889683998">¿Quieres quitar tu actividad en Fulldive de Bienestar digital?</translation>
 <translation id="708829030563435351">No se mostrarán los sitios que visites en Fulldive. Se borrarán todos los temporizadores.</translation>
@@ -1111,7 +1111,7 @@ Solo tú podrás ver lo que captura la cámara. El sitio no tiene acceso a las i
 <translation id="7173114856073700355">Abrir la configuración</translation>
 <translation id="1311657260431405215">Este código QR no es una URL: <ph name="QRCODEVALUE"/></translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
-<translation id="7339921667754113786">Plataforma de notificaciones de Gab AI Inc</translation>
+<translation id="7339921667754113786">Plataforma de notificaciones de Fulldive</translation>
 <translation id="8516012719330875537">Editor de imágenes</translation>
 <translation id="8926666909099850184">La tecnología NFC está desactivada en este dispositivo. Actívala en la <ph name="BEGIN_LINK"/>Configuración de Android<ph name="END_LINK"/>.</translation>
 <translation id="4808319664292298116">¿Quieres ingresar a RV desde <ph name="DOMAIN"/>?</translation>

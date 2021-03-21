@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">No search results found</translation>
 <translation id="8967866634928501045">Press Alt Shift A to show</translation>
 <translation id="998747458861718449">I&amp;nspect</translation>
-<translation id="4428301600092811022">Get image descriptions from Gab AI Inc?</translation>
+<translation id="4428301600092811022">Get image descriptions from Fulldive?</translation>
 <translation id="741204030948306876">Yes, I'm in</translation>
 <translation id="780301667611848630">No, thank you</translation>
 <translation id="3943582379552582368">&amp;Back</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">&amp;Paste</translation>
 <translation id="2218515861914035131">Paste as plain text</translation>
 <translation id="1017280919048282932">&amp;Add to dictionary</translation>
-<translation id="1732768497619250086">Get image descriptions from Gab AI Inc</translation>
+<translation id="1732768497619250086">Get image descriptions from Fulldive</translation>
 <translation id="7561196759112975576">Always</translation>
 <translation id="2241634353105152135">Just once</translation>
 <translation id="3387614642886316601">Use enhanced spell check</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">Turn on</translation>
 <translation id="7658239707568436148">Cancel</translation>
 <translation id="8915370057835397490">Loading suggestion</translation>
-<translation id="6191804255817539692">No more suggestions from Gab AI Inc</translation>
+<translation id="6191804255817539692">No more suggestions from Fulldive</translation>
 <translation id="1901303067676059328">Select &amp;all</translation>
 <translation id="3797900183766075808">&amp;Search <ph name="SEARCH_ENGINE"/> for “<ph name="SEARCH_TERMS"/>”</translation>
 <translation id="2721037002783622288">&amp;Search <ph name="SEARCH_ENGINE"/> for image</translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">&amp;Paste</translation>
 <translation id="1815083418640426271">Paste as Plain Text</translation>
 <translation id="4022426551683927403">&amp;Add to Dictionary</translation>
-<translation id="6849870115130610913">Get Image Descriptions from Gab AI Inc</translation>
+<translation id="6849870115130610913">Get Image Descriptions from Fulldive</translation>
 <translation id="372722114124766626">Just Once</translation>
 <translation id="4079140982534148664">Use Enhanced Spell Check</translation>
 <translation id="7487141338393529395">Turn on Enhanced Spell Check</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/> contains sensitive content.</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/> contains sensitive content, and has been blocked.</translation>
 <translation id="6651823585377804376">Download contains malware.</translation>
-<translation id="6529597483902964581"><ph name="FILE_NAME"/> may be dangerous. Send to Gab AI Inc Advanced Protection for scanning?</translation>
+<translation id="6529597483902964581"><ph name="FILE_NAME"/> may be dangerous. Send to Fulldive Advanced Protection for scanning?</translation>
 <translation id="4907161631261076876">This file is not commonly downloaded and may be dangerous.</translation>
 <translation id="6102043788063419338">This file was blocked by Advanced Protection.</translation>
 <translation id="2773802008104670137">This type of file may harm your computer.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Download cancelled: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Download complete: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Download complete: <ph name="FILE_NAME"/>. Press Shift+F6 to cycle to the downloads bar area.</translation>
-<translation id="7033965027041115562"><ph name="FILE_NAME"/> may be dangerous. Send to Gab AI Inc Advanced Protection for scanning? Press Shift + F6 to cycle to the downloads bar area.</translation>
+<translation id="7033965027041115562"><ph name="FILE_NAME"/> may be dangerous. Send to Fulldive Advanced Protection for scanning? Press Shift + F6 to cycle to the downloads bar area.</translation>
 <translation id="2743387203779672305">Copy to clipboard</translation>
 <translation id="883911313571074303">Annotate image</translation>
 <translation id="6291953229176937411">&amp;Show in Finder</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">Exit</translation>
 <translation id="7376221878517288144">Quit private mode anyway?</translation>
 <translation id="973473557718930265">Quit</translation>
-<translation id="7707599169365957976">You can help improve Safe Browsing by sending some system information and page content to Gab AI Inc.</translation>
+<translation id="7707599169365957976">You can help improve Safe Browsing by sending some system information and page content to Fulldive.</translation>
 <translation id="4923279099980110923">Yes, I want to help</translation>
 <translation id="2316129865977710310">No, thank you</translation>
 <translation id="9169931577761441333">Add <ph name="APP_NAME"/> to Home screen</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">Installed theme "<ph name="THEME_NAME"/>"</translation>
 <translation id="2256115617011615191">Restart now</translation>
 <translation id="4545028762441890696">To re-enable it, accept the new permissions:</translation>
-<translation id="3009487527589249344">Gab AI Inc has flagged '<ph name="EXTENSION_NAME"/>' as malicious, and installation has been prevented</translation>
+<translation id="3009487527589249344">Fulldive has flagged '<ph name="EXTENSION_NAME"/>' as malicious, and installation has been prevented</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> was added remotely</translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> is disabled</translation>
 <translation id="595959584676692139">Reload page to use this extension</translation>
@@ -970,7 +970,7 @@
 <translation id="3584169441612580296">Read and change photos, music and other media from your computer</translation>
 <translation id="5457459357461771897">Read and delete photos, music and other media from your computer</translation>
 <translation id="3270965368676314374">Read, change and delete photos, music and other media from your computer</translation>
-<translation id="1285484354230578868">Store data in your Gab AI Inc Drive account</translation>
+<translation id="1285484354230578868">Store data in your Fulldive Drive account</translation>
 <translation id="378312418865624974">Read a unique identifier for this computer</translation>
 <translation id="5094721898978802975">Communicate with cooperating native applications</translation>
 <translation id="4876895919560854374">Lock and unlock the screen</translation>
@@ -1181,7 +1181,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8756969031206844760">Update password?</translation>
 <translation id="8230134520748321204">Save password for <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">Update password for <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Passwords are saved in your Gab AI Inc account so that you can use them on any device</translation>
+<translation id="8284000761603848448">Passwords are saved in your Fulldive account so that you can use them on any device</translation>
 <translation id="8286036467436129157">Sign In</translation>
 <translation id="8009225694047762179">Manage Passwords</translation>
 <translation id="3950820424414687140">Sign in</translation>
@@ -1189,10 +1189,10 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="328571385944182268">Save your passwords?</translation>
 <translation id="3753033997400164841">Store once. Use everywhere</translation>
 <translation id="1703331064825191675">Never worry about your passwords</translation>
-<translation id="2341030170677284705">Save passwords securely in your Gab AI Inc account and you'll never have to type them again</translation>
-<translation id="3913985461352963178">Access your passwords whenever you're signed in to your Gab AI Inc account</translation>
-<translation id="4851124464356820177">To save passwords to your Gab AI Inc account, sign in and turn on sync.</translation>
-<translation id="3229869963989850535">To save passwords to your Gab AI Inc account, turn on sync.</translation>
+<translation id="2341030170677284705">Save passwords securely in your Fulldive account and you'll never have to type them again</translation>
+<translation id="3913985461352963178">Access your passwords whenever you're signed in to your Fulldive account</translation>
+<translation id="4851124464356820177">To save passwords to your Fulldive account, sign in and turn on sync.</translation>
+<translation id="3229869963989850535">To save passwords to your Fulldive account, turn on sync.</translation>
 <translation id="1056466516655540509">Updated <ph name="MINUTES"/> min ago</translation>
 <translation id="8743864605301774756">Updated 1hr ago</translation>
 <translation id="7363117941401515667">Updated <ph name="HOURS"/> hrs ago</translation>
@@ -1296,9 +1296,9 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="1246905108078336582">Remove suggestion from clipboard?</translation>
 <translation id="825238165904109940">Always show full URLs</translation>
 <translation id="3416468988018290825">Always show full URLs</translation>
-<translation id="2129873093718581193">Search Gab AI Inc or type URL</translation>
-<translation id="6363797201514053536">Search Gab AI Inc or type a URL</translation>
-<translation id="4888839742663123585">Search Gab AI Inc</translation>
+<translation id="2129873093718581193">Search Fulldive or type URL</translation>
+<translation id="6363797201514053536">Search Fulldive or type a URL</translation>
+<translation id="4888839742663123585">Search Fulldive</translation>
 <translation id="6078323886959318429">Add shortcut</translation>
 <translation id="6324916366299863871">Edit shortcut</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1482,35 +1482,35 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6798578729981748444">To finish importing, close all Firefox windows.</translation>
 <translation id="6374469231428023295">Try Again</translation>
 <translation id="8725066075913043281">Try again</translation>
-<translation id="4196805003686694274">Send Feedback to Gab AI Inc</translation>
+<translation id="4196805003686694274">Send Feedback to Fulldive</translation>
 <translation id="3424969259347320884">Describe What you Were Doing When the Tab Crashed</translation>
-<translation id="1892630320532151038">Send feedback to Gab AI Inc</translation>
+<translation id="1892630320532151038">Send feedback to Fulldive</translation>
 <translation id="2428510569851653187">Describe what you were doing when the tab crashed</translation>
 <translation id="5659593005791499971">Email</translation>
 <translation id="2982970937345031">Report anonymously</translation>
 <translation id="6076448957780543068">Include this screenshot</translation>
 <translation id="2865919525181940183">Screenshot of programs that are currently on the screen</translation>
 <translation id="7052237160939977163">Send performance trace data</translation>
-<translation id="5526928694260255286">Attach <ph name="BEGIN_LINK"/>Bluetooth Logs<ph name="END_LINK"/> (Gab AI Inc internal)</translation>
+<translation id="5526928694260255286">Attach <ph name="BEGIN_LINK"/>Bluetooth Logs<ph name="END_LINK"/> (Fulldive internal)</translation>
 <translation id="3047644958362961983">This information helps us better understand your Assistant issue. It’s stored for up to 90 days and access is restricted to appropriate engineering and feedback teams.</translation>
-<translation id="8545590844135745781">To better diagnose Bluetooth issues, Gab AI Incrs can include additional Bluetooth logs with their feedback reports. When this option is ticked, your report will include btsnoop and HCI logs from your current session, sanitised to remove as much PII as possible. Access to these logs will be restricted to managers of the Fulldive OS product group in Listnr. Logs will be purged after 90 days.</translation>
+<translation id="8545590844135745781">To better diagnose Bluetooth issues, Fulldivers can include additional Bluetooth logs with their feedback reports. When this option is ticked, your report will include btsnoop and HCI logs from your current session, sanitised to remove as much PII as possible. Access to these logs will be restricted to managers of the Fulldive OS product group in Listnr. Logs will be purged after 90 days.</translation>
 <translation id="4206323443866416204">Feedback Report</translation>
 <translation id="3681311097828166361">Thank you for your feedback. You are offline now, and your report will be sent later.</translation>
 <translation id="8713570323158206935">Send <ph name="BEGIN_LINK1"/>system information<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962">Send <ph name="BEGIN_LINK1"/>system information<ph name="END_LINK1"/> and <ph name="BEGIN_LINK2"/>metrics<ph name="END_LINK2"/></translation>
 <translation id="6270770586500173387">Send <ph name="BEGIN_LINK1"/>system and app information<ph name="END_LINK1"/>, and <ph name="BEGIN_LINK2"/>metrics<ph name="END_LINK2"/></translation>
 <translation id="3894123633473837029">Include recent Assistant history via Sherlog. This may include your identity, location and debug info. <ph name="BEGIN_LINK"/>Learn more<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">File will be sent to Gab AI Inc for debugging</translation>
+<translation id="8329196515830093443">File will be sent to Fulldive for debugging</translation>
 <translation id="8227119283605456246">Attach file</translation>
 <translation id="5367091008316207019">Reading file..</translation>
 <translation id="2554553592469060349">Selected file is too big (max size: 3mb).</translation>
 <translation id="4690091457710545971">&lt;Four files generated by Intel Wi-Fi firmware: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon. The first three are binary files containing register dumps, and are asserted by Intel to contain no personal or device-identifying information. The last file is an execution trace from the Intel firmware; it has been scrubbed of any personal or device-identifying information, but is too large to display here. These files were generated in response to recent Wi-Fi problems with your device, and will be shared with Intel to help troubleshoot these problems.&gt;</translation>
-<translation id="6972420083546794501">Go to the <ph name="BEGIN_LINK1"/>Legal Help page<ph name="END_LINK1"/> to request content changes for legal reasons. Some account and system information may be sent to Gab AI Inc. We will use the information that you give us to help address technical issues and to improve our services, subject to our <ph name="BEGIN_LINK2"/>Privacy Policy<ph name="END_LINK2"/> and <ph name="BEGIN_LINK3"/>Terms of Service<ph name="END_LINK3"/>.</translation>
+<translation id="6972420083546794501">Go to the <ph name="BEGIN_LINK1"/>Legal Help page<ph name="END_LINK1"/> to request content changes for legal reasons. Some account and system information may be sent to Fulldive. We will use the information that you give us to help address technical issues and to improve our services, subject to our <ph name="BEGIN_LINK2"/>Privacy Policy<ph name="END_LINK2"/> and <ph name="BEGIN_LINK3"/>Terms of Service<ph name="END_LINK3"/>.</translation>
 <translation id="7915471803647590281">Please tell us what is happening before sending the feedback.</translation>
 <translation id="6885771755599377173">System information preview</translation>
 <translation id="1016566241875885511">Additional info (optional)</translation>
 <translation id="8026334261755873520">Clear browsing data</translation>
-<translation id="4718442817388594217">The selected data has been removed from Fulldive and synced devices. Your Gab AI Inc Account may have other forms of browsing history such as searches and activity from other Gab AI Inc services at <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="4718442817388594217">The selected data has been removed from Fulldive and synced devices. Your Fulldive Account may have other forms of browsing history such as searches and activity from other Fulldive services at <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7814200940910057384">Cleared Fulldive data</translation>
 <translation id="7346909386216857016">OK, got it</translation>
 <translation id="8493236660459102203">Microphone:</translation>
@@ -1533,7 +1533,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="284805635805850872">Remove harmful software?</translation>
 <translation id="489985760463306091">To finish removing harmful software, restart your computer</translation>
 <translation id="7598466960084663009">Restart computer</translation>
-<translation id="2819091349626575960">Report details to Gab AI Inc</translation>
+<translation id="2819091349626575960">Report details to Fulldive</translation>
 <translation id="4099060993766194518">Restore default search engine?</translation>
 <translation id="138784436342154190">Restore default start-up page?</translation>
 <translation id="5086874064903147617">Restore default homepage?</translation>
@@ -1643,10 +1643,10 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="3693415264595406141">Password:</translation>
 <translation id="9111102763498581341">Unlock</translation>
 <translation id="2190355936436201913">(empty)</translation>
-<translation id="9079153198295609735">Automatically send usage statistics and crash reports to Gab AI Inc</translation>
+<translation id="9079153198295609735">Automatically send usage statistics and crash reports to Fulldive</translation>
 <translation id="7136984461011502314">Welcome to <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> is ready to complete your installation</translation>
-<translation id="4711067597921221305">Help make <ph name="PRODUCT_NAME"/> better by automatically sending usage statistics and crash reports to Gab AI Inc.</translation>
+<translation id="4711067597921221305">Help make <ph name="PRODUCT_NAME"/> better by automatically sending usage statistics and crash reports to Fulldive.</translation>
 <translation id="5972826969634861500">Start <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Help our engineers investigate and fix this crash. List exact steps if you can. No detail is too small!</translation>
 <translation id="5418694430960033386">Either Fulldive ran out of memory or the process for the web page was terminated for some other reason. To continue, reload or go to another page.</translation>
@@ -1659,7 +1659,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Platform</translation>
 <translation id="7022562585984256452">Your home page has been set.</translation>
-<translation id="8069615408251337349">Gab AI Inc Cloud Print</translation>
+<translation id="8069615408251337349">Fulldive Cloud Print</translation>
 <translation id="4973307593867026061">Add printers</translation>
 <translation id="9052208328806230490">You have registered your printers with <ph name="CLOUD_PRINT_NAME"/>, using the account <ph name="EMAIL"/></translation>
 <translation id="3792890930871100565">Disconnect printers</translation>
@@ -1693,7 +1693,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="7063129466199351735">Processing shortcuts...</translation>
 <translation id="8987927404178983737">Month</translation>
 <translation id="6015796118275082299">Year</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Use system title bar and borders</translation>
 <translation id="3293644607209440645">Send this page</translation>
 <translation id="1521774566618522728">Active today</translation>
@@ -1747,7 +1747,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8930351635855238750">New cookie settings will take effect after reloading the page</translation>
 <translation id="2568774940984945469">Infobar Container</translation>
 <translation id="7282992757463864530">Infobar</translation>
-<translation id="1805077115206898822">Your bookmarks, history and other settings will be synced to your Gab AI Inc Account.</translation>
+<translation id="1805077115206898822">Your bookmarks, history and other settings will be synced to your Fulldive Account.</translation>
 <translation id="1974060860693918893">Advanced</translation>
 <translation id="2445484935443597917">Create a New Profile</translation>
 <translation id="2606246518223360146">Link Data</translation>
@@ -1834,7 +1834,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6387674443318562538">Split vertical</translation>
 <translation id="1231733316453485619">Turn on sync?</translation>
 <translation id="4736292055110123391">Sync your bookmarks, passwords, history and more on all your devices</translation>
-<translation id="5736731321935944068">Gab AI Inc may use your history to personalise Search, ads and other Gab AI Inc services</translation>
+<translation id="5736731321935944068">Fulldive may use your history to personalise Search, ads and other Fulldive services</translation>
 <translation id="4201546031411513170">You can always choose what to sync in settings.</translation>
 <translation id="2497852260688568942">Sync is disabled by your administrator</translation>
 <translation id="562935524653278697">Your administrator has disabled syncing of your bookmarks, history, passwords and other settings.</translation>
@@ -1913,10 +1913,10 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6198102561359457428">Sign out then sign in again...</translation>
 <translation id="4634771451598206121">Sign in again...</translation>
 <translation id="7117247127439884114">Sign in Again...</translation>
-<translation id="4251909665067750757">Sign in to get your bookmarks, history, passwords and other settings on all your devices. You'll also automatically be signed in to your Gab AI Inc services.</translation>
+<translation id="4251909665067750757">Sign in to get your bookmarks, history, passwords and other settings on all your devices. You'll also automatically be signed in to your Fulldive services.</translation>
 <translation id="2749756011735116528">Sign in to <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Sync is disabled by your administrator.</translation>
-<translation id="5462539695964427820">Sync has been stopped via the Gab AI Inc Dashboard.</translation>
+<translation id="5462539695964427820">Sync has been stopped via the Fulldive Dashboard.</translation>
 <translation id="8805140816472474147">Confirm sync settings to start sync.</translation>
 <translation id="5771816112378578655">Setup in progress...</translation>
 <translation id="3492788708641132712">Sync isn’t working. Try signing in again.</translation>
@@ -1930,16 +1930,16 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="1877520246462554164">Failed to get authentication token. Please sign out then sign in again to try again.</translation>
 <translation id="9100765901046053179">Advanced settings</translation>
 <translation id="2731700343119398978">Please wait…</translation>
-<translation id="7218743184834293955">Data is encrypted with your sync passphrase. This doesn't include payment methods and addresses from Gab AI Inc Pay.</translation>
+<translation id="7218743184834293955">Data is encrypted with your sync passphrase. This doesn't include payment methods and addresses from Fulldive Pay.</translation>
 <translation id="7158251077901880179">Data was encrypted with your sync passphrase on
-          <ph name="TIME"/>. This doesn't include payment methods and addresses from Gab AI Inc Pay.</translation>
-<translation id="1171389789873508468">Data was encrypted with your Gab AI Inc password as of
-          <ph name="TIME"/>. This doesn't include payment methods and addresses from Gab AI Inc Pay.</translation>
+          <ph name="TIME"/>. This doesn't include payment methods and addresses from Fulldive Pay.</translation>
+<translation id="1171389789873508468">Data was encrypted with your Fulldive password as of
+          <ph name="TIME"/>. This doesn't include payment methods and addresses from Fulldive Pay.</translation>
 <translation id="2562743677925229011">Not signed in to <ph name="SHORT_PRODUCT_NAME"/></translation>
 <translation id="4027804175521224372">(You're missing out—<ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">sign in</translation>
 <translation id="237828693408258535">Translate this page?</translation>
-<translation id="4613765529964435709">Do you want Gab AI Inc to translate this page from <ph name="SOURCE_LANGUAGE"/> to <ph name="TARGET_LANGUAGE"/>?</translation>
+<translation id="4613765529964435709">Do you want Fulldive to translate this page from <ph name="SOURCE_LANGUAGE"/> to <ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="5990386583461751448">Translated</translation>
 <translation id="5659833766619490117">This page could not be translated</translation>
 <translation id="969096075394517431">Change languages</translation>
@@ -2118,7 +2118,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6309510305002439352">Microphone turned off</translation>
 <translation id="1322046419516468189">View and manage saved passwords in your <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Password saved. View and manage saved passwords in your <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Gab AI Inc Account</translation>
+<translation id="5713644099811900409">Fulldive Account</translation>
 <translation id="3785727820640310185">Saved passwords for this site</translation>
 <translation id="3404065873681873169">No passwords saved for this site</translation>
 <translation id="8470513973197838199">Saved passwords for <ph name="ORIGIN"/></translation>
@@ -2231,7 +2231,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{Screen #}other{Screen #}}</translation>
 <translation id="839736845446313156">Register</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{New printer on your network}other{New printers on your network}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Add the printer to Gab AI Inc Cloud Print so that you can print from anywhere.}other{Add # printers to Gab AI Inc Cloud Print so that you can print from anywhere.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Add the printer to Fulldive Cloud Print so that you can print from anywhere.}other{Add # printers to Fulldive Cloud Print so that you can print from anywhere.}}</translation>
 <translation id="409579654357498729">Add to Cloud Print</translation>
 <translation id="4628757576491864469">Devices</translation>
 <translation id="6915804003454593391">User:</translation>
@@ -2241,8 +2241,8 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="1895934970388272448">You must confirm registration on your printer to finish this process - check it now.</translation>
 <translation id="551752069230578406">Adding the printer to your account - this may take a moment...</translation>
 <translation id="2384436799579181135">An error has occurred. Please check your printer and try again.</translation>
-<translation id="1327074568633507428">Printer on Gab AI Inc Cloud Print</translation>
-<translation id="6782994146626179935">Device on Gab AI Inc Cloud Devices</translation>
+<translation id="1327074568633507428">Printer on Fulldive Cloud Print</translation>
+<translation id="6782994146626179935">Device on Fulldive Cloud Devices</translation>
 <translation id="7140928199327930795">No other available devices.</translation>
 <translation id="8213577208796878755">One other available device.</translation>
 <translation id="1495486559005647033"><ph name="NUM_PRINTERS"/> other available devices.</translation>
@@ -2258,7 +2258,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="715118844758971915">Classic printers</translation>
 <translation id="4263757076580287579">Printer registration has been cancelled.</translation>
 <translation id="8152091997436726702">Printer registration has timed out. In order to register a printer, you must confirm registration on the printer.</translation>
-<translation id="2624930408905606513">Documents are <ph name="BEGIN_LINK_HELP"/>sent to Gab AI Inc<ph name="END_LINK_HELP"/> to prepare them for printing. View, edit and manage your printers and printer history on the <ph name="BEGIN_LINK_DASHBOARD"/>Gab AI Inc Cloud Print dashboard<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513">Documents are <ph name="BEGIN_LINK_HELP"/>sent to Fulldive<ph name="END_LINK_HELP"/> to prepare them for printing. View, edit and manage your printers and printer history on the <ph name="BEGIN_LINK_DASHBOARD"/>Fulldive Cloud Print dashboard<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">This tab is using your camera or microphone.</translation>
 <translation id="3578594933904494462">This tab's content is being shared.</translation>
 <translation id="4449996769074858870">This tab is playing audio.</translation>
@@ -2385,14 +2385,14 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="7055152154916055070">Redirect blocked:</translation>
 <translation id="6777817260680419853">Redirect blocked</translation>
 <translation id="694592694773692225">Redirect blocked on this page.</translation>
-<translation id="8945142681652245463">Browse fast with Gab AI Inc Fulldive</translation>
-<translation id="2618024864038703735">Browse safely with Gab AI Inc Fulldive</translation>
+<translation id="8945142681652245463">Browse fast with Fulldive Fulldive</translation>
+<translation id="2618024864038703735">Browse safely with Fulldive Fulldive</translation>
 <translation id="8142180567942285208">Browse smart with Fulldive</translation>
 <translation id="8862003515646449717">Switch to a fast browser</translation>
 <translation id="8438328416656800239">Switch to a smart browser</translation>
 <translation id="491691592645955587">Switch to a secure browser</translation>
 <translation id="683373380308365518">Switch to a smart and secure browser</translation>
-<translation id="989239400026154074">Gab AI Inc recommends Fulldive</translation>
+<translation id="989239400026154074">Fulldive recommends Fulldive</translation>
 <translation id="6676231621615806698">Open Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> uses your location to give you local content. You can change this in <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Your downloads appear here</translation>
@@ -2558,7 +2558,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="2878782256107578644">Scan in progress. Open now?</translation>
 <translation id="6098793583803863900">An unknown file is being scanned for dangerous content.</translation>
 <translation id="7584578941316704630">Scan before opening?</translation>
-<translation id="4467402456678825062">The selected file is unknown and may be dangerous. Send to Gab AI Inc Advanced Protection for scanning?</translation>
+<translation id="4467402456678825062">The selected file is unknown and may be dangerous. Send to Fulldive Advanced Protection for scanning?</translation>
 <translation id="2587922766792651800">Timed out</translation>
 <translation id="4404136731284211429">Scan again</translation>
 <translation id="6428450836711225518">Verifying your phone number</translation>
@@ -2566,7 +2566,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6518133107902771759">Verify</translation>
 <translation id="4379281552162875326">Uninstall '<ph name="APP_NAME"/>'?</translation>
 <translation id="8812593354822910461">Also clear browsing data (<ph name="URL"/>) which will sign you out of <ph name="DOMAIN"/>. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Also clear browsing data (<ph name="URL"/>) which may sign you out of Gab AI Inc.com. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Also clear browsing data (<ph name="URL"/>) which may sign you out of Fulldive.com. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Learn more</translation>
 <translation id="2346953515226895098">SODA Service</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> is paused</translation>
@@ -2728,7 +2728,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="4144218403971135344">Get better quality video and save battery life. Video will play only on your Cast-enabled screen.</translation>
 <translation id="236117173274098341">Optimise</translation>
 <translation id="8538358978858059843">Enable cloud services for Cast?</translation>
-<translation id="3856595552313160385">Use of Hangouts and Cast for Education is governed by the Gab AI Inc Privacy Policy.</translation>
+<translation id="3856595552313160385">Use of Hangouts and Cast for Education is governed by the Fulldive Privacy Policy.</translation>
 <translation id="3435896845095436175">Enable</translation>
 <translation id="3700888195348409686">Presenting (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Display <ph name="DISPLAY_ID"/></translation>
@@ -2972,9 +2972,9 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, +1 more account}other{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> more accounts}}</translation>
 <translation id="7434635829372401939">Sync your settings</translation>
 <translation id="1036348656032585052">Turn off</translation>
-<translation id="3267705913905916810">Your apps and settings will sync across all Fulldive OS devices where you are signed in with your Gab AI Inc Account. For browser sync options, go to<ph name="LINK_BEGIN"/>Fulldive settings<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Your apps and settings will sync across all Fulldive OS devices where you are signed in with your Fulldive Account. For browser sync options, go to<ph name="LINK_BEGIN"/>Fulldive settings<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Printers</translation>
-<translation id="8418661265246754237">Gab AI Inc Accounts</translation>
+<translation id="8418661265246754237">Fulldive Accounts</translation>
 <translation id="3953834000574892725">My accounts</translation>
 <translation id="6011193465932186973">Fingerprint</translation>
 <translation id="3707212204259470604">Manage other profiles</translation>
@@ -3016,16 +3016,16 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="5916664084637901428">On</translation>
 <translation id="5860033963881614850">Off</translation>
 <translation id="5515923816438946203">Choose what you see on your screen</translation>
-<translation id="2187700606737131818">Gab AI Inc Photos</translation>
+<translation id="2187700606737131818">Fulldive Photos</translation>
 <translation id="1827738518074806965">Art gallery</translation>
 <translation id="9137157311132182254">Preferred search engine</translation>
 <translation id="7423118389528876103">Used by Fulldive browser and <ph name="DEVICE_TYPE"/> Launcher</translation>
-<translation id="2862205630718215619">Gab AI Inc Assistant</translation>
+<translation id="2862205630718215619">Fulldive Assistant</translation>
 <translation id="8959699239363253085">On</translation>
 <translation id="971479617738309149">Off</translation>
 <translation id="7807067443225230855">Search and Assistant</translation>
 <translation id="1293556467332435079">Files</translation>
-<translation id="6474884162850599008">Disconnect Gab AI Inc Drive account</translation>
+<translation id="6474884162850599008">Disconnect Fulldive Drive account</translation>
 <translation id="3653160965917900914">Network file shares</translation>
 <translation id="4906490889887219338">Set up or manage network file shares. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Add file share</translation>
@@ -3076,7 +3076,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="5511379779384092781">Extra small</translation>
 <translation id="2765217105034171413">Small</translation>
 <translation id="7409549334477097887">Extra large</translation>
-<translation id="1800308196794859773">Send your voice to Gab AI Inc to allow dictation into any text field.</translation>
+<translation id="1800308196794859773">Send your voice to Fulldive to allow dictation into any text field.</translation>
 <translation id="8758418656925882523">Enable dictation (speak to type)</translation>
 <translation id="1330145147221172764">Enable on-screen keyboard</translation>
 <translation id="7580671184200851182">Play the same audio through all speakers (mono audio)</translation>
@@ -3139,7 +3139,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6902066522699286937">Voice to preview</translation>
 <translation id="304747341537320566">Speech Engines</translation>
 <translation id="2755367719610958252">Manage accessibility features</translation>
-<translation id="1203953622051744249">Manage your signed-in accounts. Websites, apps and extensions in Fulldive and Gab AI Inc Play may use these accounts to customise your experience, depending on permissions. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Manage your signed-in accounts. Websites, apps and extensions in Fulldive and Fulldive Play may use these accounts to customise your experience, depending on permissions. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Add a school account or manage child accounts here. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Accounts</translation>
 <translation id="6597148444736186483">To sign out of the primary account on this device, click the time on your screen. In the menu that appears, click 'Sign out'.</translation>
@@ -3148,8 +3148,8 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="2923234477033317484">Remove this account</translation>
 <translation id="7665369617277396874">Add account</translation>
 <translation id="8428271547607112339">Add school account</translation>
-<translation id="4920274951865016604">Your administrator has disabled the addition of more Gab AI Inc accounts</translation>
-<translation id="8845742957886589229">Addition of more Gab AI Inc accounts is disabled</translation>
+<translation id="4920274951865016604">Your administrator has disabled the addition of more Fulldive accounts</translation>
+<translation id="8845742957886589229">Addition of more Fulldive accounts is disabled</translation>
 <translation id="5021750053540820849">Not updated yet</translation>
 <translation id="3448492834076427715">Update account</translation>
 <translation id="2458379781610688953">Update account, <ph name="EMAIL"/></translation>
@@ -3184,7 +3184,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="3661172646479098821">Only Android devices are currently supported.</translation>
 <translation id="3201422919974259695">Available USB devices will appear here.</translation>
 <translation id="2629227353894235473">Develop Android apps</translation>
-<translation id="1669729672557072907">To create and test your apps, enable the Android Debug Bridge (ADB). Note that this action allows installation of Android apps that haven't been verified by Gab AI Inc, and requires a factory reset to disable.</translation>
+<translation id="1669729672557072907">To create and test your apps, enable the Android Debug Bridge (ADB). Note that this action allows installation of Android apps that haven't been verified by Fulldive, and requires a factory reset to disable.</translation>
 <translation id="4638930039313743000">Enable ADB debugging</translation>
 <translation id="1630768113285622200">Restart and continue</translation>
 <translation id="1005333234656240382">Enable ADB debugging?</translation>
@@ -3221,9 +3221,9 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="1870629042957780127">Give access to microphone</translation>
 <translation id="1392232653471491344">Linux restart required</translation>
 <translation id="1064552680598333868">Changes to microphone will take effect when Linux is next restarted.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play Store</translation>
+<translation id="2714393097308983682">Fulldive Play Store</translation>
 <translation id="2966937470348689686">Manage Android preferences</translation>
-<translation id="6398715114293939307">Remove Gab AI Inc Play Store</translation>
+<translation id="6398715114293939307">Remove Fulldive Play Store</translation>
 <translation id="2792290659606763004">Remove Android apps?</translation>
 <translation id="492299503953721473">Remove Android apps</translation>
 <translation id="7566118625369982896">Manage Play app links</translation>
@@ -3231,7 +3231,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="5862109781435984885">Show stylus tools in the shelf</translation>
 <translation id="4673442866648850031">Open stylus tools when the stylus is removed</translation>
 <translation id="4244238649050961491">Find more stylus apps</translation>
-<translation id="668599234725812620">Open Gab AI Inc Play</translation>
+<translation id="668599234725812620">Open Fulldive Play</translation>
 <translation id="9116799625073598554">Note-taking app</translation>
 <translation id="203574396658008164">Enable note taking from lock screen</translation>
 <translation id="6238923052227198598">Keep latest note on lock screen</translation>
@@ -3377,7 +3377,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> – <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Mobile data enable</translation>
 <translation id="7378812711085314936">Get data connection</translation>
-<translation id="3483333858382889684">Let this device find other devices with your Gab AI Inc Account that have a mobile data connection</translation>
+<translation id="3483333858382889684">Let this device find other devices with your Fulldive Account that have a mobile data connection</translation>
 <translation id="1572266655485775982">Wi-Fi enable</translation>
 <translation id="7078120482318506217">All networks</translation>
 <translation id="1235458158152011030">Known networks</translation>
@@ -3409,13 +3409,13 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="4421167684395067330">Trouble connecting. Please contact <ph name="CARRIER_NAME"/> for assistance.</translation>
 <translation id="7780252971640011240">Trouble connecting. Please contact your operator for assistance.</translation>
 <translation id="161460670679785907">Unable to detect your phone</translation>
-<translation id="778480864305029524">To use Instant Tethering, turn on notifications for Gab AI Inc Play Services.</translation>
+<translation id="778480864305029524">To use Instant Tethering, turn on notifications for Fulldive Play Services.</translation>
 <translation id="7696063401938172191">On your '<ph name="PHONE_NAME"/>':</translation>
 <translation id="3423463006624419153">On your '<ph name="PHONE_NAME_1"/>' and '<ph name="PHONE_NAME_2"/>':</translation>
 <translation id="6997707937646349884">On your devices:</translation>
 <translation id="7531779363494549572">Go to Settings &gt; Apps &amp; notifications &gt; Notifications.</translation>
-<translation id="1819721979226826163">Tap App notifications &gt; Gab AI Inc Play services.</translation>
-<translation id="968000525894980488">Turn on Gab AI Inc Play services.</translation>
+<translation id="1819721979226826163">Tap App notifications &gt; Fulldive Play services.</translation>
+<translation id="968000525894980488">Turn on Fulldive Play services.</translation>
 <translation id="2705736684557713153">Scroll to the bottom of the screen and if it appears, turn on Instant Tethering. If it doesn't, you're ready to go.</translation>
 <translation id="7240339475467890413">Connect to new hotspot?</translation>
 <translation id="6514010653036109809">Available device:</translation>
@@ -3530,9 +3530,9 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6555432686520421228">Remove all user accounts and reset your <ph name="IDS_SHORT_PRODUCT_NAME"/> device to be just like new.</translation>
 <translation id="5470735824776589490">A restart is required before your device can be reset with Powerwash. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Reset button</translation>
-<translation id="472896694312062378">Ok Gab AI Inc</translation>
-<translation id="2339135612812615870">Access your Assistant when you say "Ok Gab AI Inc".</translation>
-<translation id="3735919318855093557">Access your Assistant when you say "Ok Gab AI Inc". To save battery, choose 'On (Recommended)'. Your Assistant will respond only when your device is plugged in or charging.</translation>
+<translation id="472896694312062378">Ok Fulldive</translation>
+<translation id="2339135612812615870">Access your Assistant when you say "Ok Fulldive".</translation>
+<translation id="3735919318855093557">Access your Assistant when you say "Ok Fulldive". To save battery, choose 'On (Recommended)'. Your Assistant will respond only when your device is plugged in or charging.</translation>
 <translation id="5825412242012995131">On (recommended)</translation>
 <translation id="5067399438976153555">Always on</translation>
 <translation id="6175644081330715138">Off</translation>
@@ -3541,7 +3541,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="5355099869024327351">Allow the Assistant to show you notifications</translation>
 <translation id="133535873114485416">Preferred input</translation>
 <translation id="6233154960150021497">Default to using voice instead of keyboard</translation>
-<translation id="3908743412684152579">Gab AI Inc Assistant settings</translation>
+<translation id="3908743412684152579">Fulldive Assistant settings</translation>
 <translation id="1048286738600630630">Displays</translation>
 <translation id="4184885522552335684">Drag to move a display</translation>
 <translation id="4964455510556214366">Arrangement</translation>
@@ -3595,7 +3595,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6856623341093082836">Set up and adjust the accuracy of your touchscreen</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Unlock device only</translation>
-<translation id="3300552672525741457">Unlock device and sign in to Gab AI Inc account</translation>
+<translation id="3300552672525741457">Unlock device and sign in to Fulldive account</translation>
 <translation id="4562155214028662640">Add Fingerprint</translation>
 <translation id="4068776064906523561">Saved fingerprints</translation>
 <translation id="1719312230114180055">Note: Your fingerprint may be less secure than a strong password or PIN.</translation>
@@ -3660,7 +3660,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6547354035488017500">Free up at least 512 MB of space or your device will become unresponsive. To free up space, delete files from device storage.</translation>
 <translation id="6097480669505687979">If you don’t free up space, users and data may be automatically removed.</translation>
 <translation id="4470957202018033307">External storage preferences</translation>
-<translation id="1900305421498694955">Apps from Gab AI Inc Play may require full file system access to read and write files on external storage devices. Files and folders created on the device are visible to anyone who uses the external drive. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Apps from Fulldive Play may require full file system access to read and write files on external storage devices. Files and folders created on the device are visible to anyone who uses the external drive. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">Available devices will appear here.</translation>
 <translation id="1041263367839475438">Available devices</translation>
 <translation id="7479221278376295180">Storage Usage Overview</translation>
@@ -3684,12 +3684,12 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="5840822070878669614">Open web store</translation>
 <translation id="6073903501322152803">Add accessibility features</translation>
 <translation id="7988355189918024273">Enable accessibility features</translation>
-<translation id="5499063270485366718">If an image doesn’t have a useful description, Fulldive will try to provide one for you. To create descriptions, images are sent to Gab AI Inc.</translation>
+<translation id="5499063270485366718">If an image doesn’t have a useful description, Fulldive will try to provide one for you. To create descriptions, images are sent to Fulldive.</translation>
 <translation id="8957762313041272117">Live Caption</translation>
 <translation id="7075426315046750605">Live caption detects speech in media and automatically generates captions for all media playing in Fulldive.</translation>
 <translation id="572155275267014074">Android settings</translation>
-<translation id="7201042526153088083">Install apps and games from Gab AI Inc Play on your <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Learn more&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Apps that you’ve downloaded from Gab AI Inc Play will be deleted from this Fulldivebook.
+<translation id="7201042526153088083">Install apps and games from Fulldive Play on your <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Learn more&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Apps that you’ve downloaded from Fulldive Play will be deleted from this Fulldivebook.
       <ph name="LINE_BREAKS1"/>
       Content that you’ve purchased such as movies, TV shows, music, books or other in-app purchases may also be deleted.
       <ph name="LINE_BREAKS2"/>
@@ -3715,7 +3715,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="1670399744444387456">Basic</translation>
 <translation id="1763808908432309942">Opens in a new tab</translation>
 <translation id="6248988683584659830">Search settings</translation>
-<translation id="883304095704384301">Go to <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive help<ph name="END_LINK_CHROMIUM"/> if you can't find what you're looking for</translation>
+<translation id="883304095704384301">Go to <ph name="BEGIN_LINK_CHROMIUM"/>Fulldive Fulldive help<ph name="END_LINK_CHROMIUM"/> if you can't find what you're looking for</translation>
 <translation id="6406708970972405507">Settings – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Subpage button</translation>
 <translation id="379509625511193653">Off</translation>
@@ -3736,10 +3736,10 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="451515744433878153">Remove</translation>
 <translation id="5029568752722684782">Clear copy</translation>
 <translation id="2154484045852737596">Edit card</translation>
-<translation id="3032188998195902534">To add or manage Gab AI Inc Pay payment methods, visit your <ph name="BEGIN_LINK"/>Gab AI Inc account<ph name="END_LINK"/></translation>
+<translation id="3032188998195902534">To add or manage Fulldive Pay payment methods, visit your <ph name="BEGIN_LINK"/>Fulldive account<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">This card will be saved to this device only</translation>
 <translation id="5087580092889165836">Add card</translation>
-<translation id="4835914736509775287">Save cards in your Gab AI Inc account</translation>
+<translation id="4835914736509775287">Save cards in your Fulldive account</translation>
 <translation id="7255002516883565667">At the moment, you have one card that can only be used on this device</translation>
 <translation id="6848388270925200958">At the moment, you have some cards that can only be used on this device</translation>
 <translation id="4807098396393229769">Name on card</translation>
@@ -3753,9 +3753,9 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8731851055419582926">Checked passwords</translation>
 <translation id="4248098802131000011">Keep your passwords safe from data breaches and other security issues</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> can't check your passwords. Try checking your Internet connection.</translation>
-<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> can check your passwords when you sign in with your Gab AI Inc Account</translation>
+<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> can check your passwords when you sign in with your Fulldive Account</translation>
 <translation id="4478777936860197922">No saved passwords. <ph name="IDS_SHORT_PRODUCT_NAME"/> can check your passwords when you save them.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> can't check your passwords. Try again after 24 hours or <ph name="BEGIN_LINK"/>check passwords in your Gab AI Inc Account<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> can't check your passwords. Try again after 24 hours or <ph name="BEGIN_LINK"/>check passwords in your Fulldive Account<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> can't check your passwords. Try again after 24 hours.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> can't check your passwords. Try again later.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{No compromised passwords found}=1{{COUNT} compromised password}other{{COUNT} compromised passwords}}</translation>
@@ -3781,7 +3781,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="2100273922101894616">Auto Sign-in</translation>
 <translation id="7513029293694390567">Automatically sign in to websites using stored credentials. If disabled, you will be asked for confirmation every time before signing in to a website.</translation>
 <translation id="6995899638241819463">Warn you if passwords are exposed in a data breach</translation>
-<translation id="1534287762301776620">When you sign in to your Gab AI Inc account, this feature is turned on</translation>
+<translation id="1534287762301776620">When you sign in to your Fulldive account, this feature is turned on</translation>
 <translation id="1375321115329958930">Saved Passwords</translation>
 <translation id="152234381334907219">Never Saved</translation>
 <translation id="5137501176474113045">Delete this item</translation>
@@ -3795,7 +3795,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="7930294771522048157">Saved payment methods will appear here</translation>
 <translation id="9124003689441359348">Saved passwords will appear here</translation>
 <translation id="4400367121200150367">Sites which never save passwords will appear here</translation>
-<translation id="3098842761938485917">View and manage saved passwords in your <ph name="BEGIN_LINK"/>Gab AI Inc account<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">View and manage saved passwords in your <ph name="BEGIN_LINK"/>Fulldive account<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">Export passwords…</translation>
 <translation id="3900966090527141178">Export passwords</translation>
 <translation id="6914783257214138813">Your passwords will be visible to anyone who can see the exported file.</translation>
@@ -3862,15 +3862,15 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="3380365263193509176">Unknown error</translation>
 <translation id="368789413795732264">There was an error while trying to write the file: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Time range</translation>
-<translation id="3958004920128806270">To clear browsing data from this device only, while keeping it in your Gab AI Inc Account, <ph name="BEGIN_LINK"/>sign out<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">To clear browsing data from all of your synced devices and your Gab AI Inc Account, <ph name="BEGIN_LINK"/>visit sync settings<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">To clear browsing data from all of your synced devices and your Gab AI Inc Account, <ph name="BEGIN_LINK"/>enter your passphrase<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">To clear browsing data from all of your synced devices and your Gab AI Inc Account, <ph name="BEGIN_LINK"/>sign in<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">To clear browsing data from this device only, while keeping it in your Fulldive Account, <ph name="BEGIN_LINK"/>sign out<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">To clear browsing data from all of your synced devices and your Fulldive Account, <ph name="BEGIN_LINK"/>visit sync settings<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">To clear browsing data from all of your synced devices and your Fulldive Account, <ph name="BEGIN_LINK"/>enter your passphrase<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">To clear browsing data from all of your synced devices and your Fulldive Account, <ph name="BEGIN_LINK"/>sign in<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Signs you out of most sites.</translation>
-<translation id="4650925988509114690">Signs you out of most sites. You'll stay signed in to your Gab AI Inc Account so that your synced data can be cleared.</translation>
+<translation id="4650925988509114690">Signs you out of most sites. You'll stay signed in to your Fulldive Account so that your synced data can be cleared.</translation>
 <translation id="2017836877785168846">Clears history and autocompletions in the address bar.</translation>
-<translation id="8096327394278038498">Clears history and autocompletions in the address bar. Your Gab AI Inc account may have other forms of browsing history at <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Clears history from all signed-in devices. Your Gab AI Inc account may have other forms of browsing history at <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Clears history and autocompletions in the address bar. Your Fulldive account may have other forms of browsing history at <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Clears history from all signed-in devices. Your Fulldive account may have other forms of browsing history at <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">Download history</translation>
 <translation id="4699172675775169585">Cached images and files</translation>
 <translation id="1274997165432133392">Cookies and other site data</translation>
@@ -3885,7 +3885,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="1043818413152647937">Also clear data from these apps?</translation>
 <translation id="3399432415385675819">Notifications will be disabled</translation>
 <translation id="3459509316159669723">Printing</translation>
-<translation id="7063957500469387217">Set up or manage printers in Gab AI Inc Cloud Print.</translation>
+<translation id="7063957500469387217">Set up or manage printers in Fulldive Cloud Print.</translation>
 <translation id="8185331656081929126">Show notifications when new printers are detected on the network</translation>
 <translation id="6451180435462401570">Manage Cloud Print devices</translation>
 <translation id="4733793249294335256">Location</translation>
@@ -3907,7 +3907,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="5425722269016440406">You must be online to turn off Smart Lock because this setting is synced to your phone and other devices. Please connect to a network first.</translation>
 <translation id="8885197664446363138">Smart Lock is unavailable</translation>
 <translation id="7334190995941642545">Smart Lock is currently unavailable. Please try again later.</translation>
-<translation id="8112427115751454716">Use Smart Lock to sign in to your Gab AI Inc account</translation>
+<translation id="8112427115751454716">Use Smart Lock to sign in to your Fulldive account</translation>
 <translation id="2043818754674261542">Distance needed for phone to unlock this <ph name="DEVICE_TYPE"/></translation>
 <translation id="2522791476825452208">Very close</translation>
 <translation id="649454645705377674">Close</translation>
@@ -3928,7 +3928,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="1726100011689679555">Name servers</translation>
 <translation id="1209796539517632982">Automatic name servers</translation>
 <translation id="4462159676511157176">Custom name servers</translation>
-<translation id="1981884748698699991">Gab AI Inc name servers</translation>
+<translation id="1981884748698699991">Fulldive name servers</translation>
 <translation id="6317608858038767920">Custom nameserver <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">Web Proxy Auto Discovery URL:</translation>
 <translation id="3817579325494460411">Not provided</translation>
@@ -4086,7 +4086,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="3182749001423093222">Spell check</translation>
 <translation id="5423829801105537712">Basic spell check</translation>
 <translation id="2564653188463346023">Enhanced spell check</translation>
-<translation id="8944680893327873975">Uses the same spell checker that’s used in Gab AI Inc search. Text that you type in the browser is sent to Gab AI Inc.</translation>
+<translation id="8944680893327873975">Uses the same spell checker that’s used in Fulldive search. Text that you type in the browser is sent to Fulldive.</translation>
 <translation id="5051836348807686060">Spellcheck isn’t supported for the languages that you have selected</translation>
 <translation id="7335974957018254119">Use spell check for</translation>
 <translation id="2469375675106140201">Customise spell check</translation>
@@ -4099,7 +4099,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="4200689466366162458">Customised words</translation>
 <translation id="7833720883933317473">Saved custom words will appear here</translation>
 <translation id="8509646642152301857">Spell check dictionary download failed.</translation>
-<translation id="8842834450537919370">Please check with your network administrator to make sure that the firewall is not blocking downloads from Gab AI Inc servers.</translation>
+<translation id="8842834450537919370">Please check with your network administrator to make sure that the firewall is not blocking downloads from Fulldive servers.</translation>
 <translation id="9042893549633094279">Privacy and security</translation>
 <translation id="5548606607480005320">Safety check</translation>
 <translation id="5876576639916258720">Running…</translation>
@@ -4135,24 +4135,24 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="2468205691404969808">Uses cookies to remember your preferences, even if you don’t visit those pages</translation>
 <translation id="3633309367764744750">Pre-fetches information from pages, including pages that you have not yet visited. Information fetched may include cookies, if you allow cookies.</translation>
 <translation id="3201899458094819285">Safe Browsing (protects you and your device from dangerous sites)</translation>
-<translation id="2876369937070532032">Sends URLs of some pages that you visit to Gab AI Inc, when your security is at risk</translation>
+<translation id="2876369937070532032">Sends URLs of some pages that you visit to Fulldive, when your security is at risk</translation>
 <translation id="4991384657077828949">Help improve Fulldive security</translation>
-<translation id="1984646864943401749">Sends URLs of some pages that you visit, limited system information and some page content to Gab AI Inc, to help discover new threats and protect everyone on the web.</translation>
+<translation id="1984646864943401749">Sends URLs of some pages that you visit, limited system information and some page content to Fulldive, to help discover new threats and protect everyone on the web.</translation>
 <translation id="1641113438599504367">Safe Browsing</translation>
 <translation id="6900532703269623216">Enhanced protection</translation>
-<translation id="7307583170263691471">Faster, proactive protection against dangerous websites, downloads and extensions. Warns you about password breaches. Requires browsing data to be sent to Gab AI Inc.</translation>
+<translation id="7307583170263691471">Faster, proactive protection against dangerous websites, downloads and extensions. Warns you about password breaches. Requires browsing data to be sent to Fulldive.</translation>
 <translation id="8645920082661222035">Predicts and warns you about dangerous events before they happen</translation>
-<translation id="5265419033369521352">Keeps you safe on Fulldive and may be used to improve your security in other Gab AI Inc apps when you are signed in</translation>
+<translation id="5265419033369521352">Keeps you safe on Fulldive and may be used to improve your security in other Fulldive apps when you are signed in</translation>
 <translation id="6770602306803890733">Improves security for you and everyone on the web</translation>
 <translation id="3690369331356918524">Warns you if passwords are exposed in a data breach</translation>
-<translation id="4979281249641199724">Sends URLs to Safe Browsing to check them. Also sends a small sample of pages, downloads, extension activity and system information to help discover new threats. Temporarily links this data to your Gab AI Inc Account when you're signed in, to protect you across Gab AI Inc apps.</translation>
+<translation id="4979281249641199724">Sends URLs to Safe Browsing to check them. Also sends a small sample of pages, downloads, extension activity and system information to help discover new threats. Temporarily links this data to your Fulldive Account when you're signed in, to protect you across Fulldive apps.</translation>
 <translation id="1963976881984600709">Standard protection</translation>
 <translation id="6882836635272038266">Standard protection against websites, downloads and extensions that are known to be dangerous.</translation>
 <translation id="5561162485081632007">Detects and warns you about dangerous events when they happen</translation>
 <translation id="7810992039564280750">Checks URLs with a list of unsafe sites stored in Fulldive. If a site tries to steal your password, or when you download a harmful file, Fulldive may also send URLs, including bits of page content, to Safe Browsing.</translation>
 <translation id="3847319713229060696">Help improve security on the web for everyone</translation>
 <translation id="1984417487208496350">No protection (not recommended)</translation>
-<translation id="1295971429974142731">Does not protect you against dangerous websites, downloads and extensions. You’ll still get Safe Browsing protection, where available, in other Gab AI Inc services, like Gmail and Search.</translation>
+<translation id="1295971429974142731">Does not protect you against dangerous websites, downloads and extensions. You’ll still get Safe Browsing protection, where available, in other Fulldive services, like Gmail and Search.</translation>
 <translation id="6122831415929794347">Turn off Safe Browsing?</translation>
 <translation id="6410390304316730527">Safe Browsing protects you against attackers who may trick you into doing something dangerous, like installing malicious software or revealing personal information such as passwords, phone numbers or credit cards. If you turn it off, be careful when browsing unfamiliar or unreputable sites.</translation>
 <translation id="8791534160414513928">Send a "Do Not Track" request with your browsing traffic</translation>
@@ -4164,8 +4164,8 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="1995916364271252349">Controls what information sites can use and show (location, camera, pop-ups and more)</translation>
 <translation id="3320630259304269485">Safe Browsing (protection from dangerous sites) and other security settings</translation>
 <translation id="7536333565791380193">Advanced security</translation>
-<translation id="8525226238722561998">Gab AI Inc Advanced Protection programme</translation>
-<translation id="1229550669565092839">Safeguards the personal Gab AI Inc Accounts of anyone at risk of targeted attacks</translation>
+<translation id="8525226238722561998">Fulldive Advanced Protection programme</translation>
+<translation id="1229550669565092839">Safeguards the personal Fulldive Accounts of anyone at risk of targeted attacks</translation>
 <translation id="1521442365706402292">Manage certificates</translation>
 <translation id="7075625805486468288">Manage HTTPS/SSL certificates and settings</translation>
 <translation id="6588043302623806746">Use secure DNS</translation>
@@ -4439,7 +4439,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="4590324241397107707">Database Storage</translation>
 <translation id="8016266267177410919">Temporary storage</translation>
 <translation id="4175737294868205930">Persistent storage</translation>
-<translation id="8397843425685839889">You and Gab AI Inc</translation>
+<translation id="8397843425685839889">You and Fulldive</translation>
 <translation id="8907706281008466056">Fulldive profile photo</translation>
 <translation id="2023167225947895179">PIN may be easy to guess</translation>
 <translation id="5342091991439452114">PIN must be at least <ph name="MINIMUM"/> digits</translation>
@@ -4454,26 +4454,26 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="899676909165543803">The fingerprint sensor is the bottom-right key on your keyboard. Touch it lightly with any finger.</translation>
 <translation id="4535767533210902251">The fingerprint sensor is the top-right key on your keyboard. Touch it lightly with any finger.</translation>
 <translation id="5449551289610225147">Invalid password</translation>
-<translation id="4326270470840334364">Because this account is managed by <ph name="DOMAIN"/>, your bookmarks, history, passwords and other settings will be cleared from this device. However, your data will remain stored in your Gab AI Inc account and can be managed on <ph name="BEGIN_LINK"/>Gab AI Inc Dashboard<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">Because this account is managed by <ph name="DOMAIN"/>, your bookmarks, history, passwords and other settings will be cleared from this device. However, your data will remain stored in your Fulldive account and can be managed on <ph name="BEGIN_LINK"/>Fulldive Dashboard<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">Edit profile</translation>
 <translation id="3699920817649120894">Turn off sync and personalisation?</translation>
 <translation id="5643620609347735571">Clear and continue</translation>
 <translation id="5602765853043467355">Clear bookmarks, history, passwords and more from this device</translation>
 <translation id="4089235344645910861">Settings saved. Sync started.</translation>
 <translation id="6739923123728562974">Show desktop shortcut</translation>
-<translation id="2951604498031550705">Changes to your bookmarks, history, passwords and other settings will no longer be synced to your Gab AI Inc account. However, your existing data will remain stored in your Gab AI Inc account and can be managed on <ph name="BEGIN_LINK"/>Gab AI Inc Dashboard<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">This will sign you out of your Gab AI Inc accounts. Your bookmarks, history, passwords and more will no longer be synced.</translation>
+<translation id="2951604498031550705">Changes to your bookmarks, history, passwords and other settings will no longer be synced to your Fulldive account. However, your existing data will remain stored in your Fulldive account and can be managed on <ph name="BEGIN_LINK"/>Fulldive Dashboard<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">This will sign you out of your Fulldive accounts. Your bookmarks, history, passwords and more will no longer be synced.</translation>
 <translation id="8588866096426746242">Show profile stats</translation>
 <translation id="5535941515421698170">Also remove your existing data from this device</translation>
 <translation id="2162155940152307086">Sync will start once you leave sync settings</translation>
-<translation id="1125261911132334651">Manage your Gab AI Inc account</translation>
+<translation id="1125261911132334651">Manage your Fulldive account</translation>
 <translation id="5117427536932535467">Themes &amp; Wallpapers</translation>
 <translation id="7257173066616499747">Wi-Fi networks</translation>
 <translation id="2120297377148151361">Activity and interactions</translation>
 <translation id="5833397272224757657">Uses content on sites that you visit, plus browser activity and interactions, for personalisation</translation>
-<translation id="8135094938656535588">Manage synced data on Gab AI Inc Dashboard</translation>
-<translation id="5958351589333270173">Encrypt synced data with your own <ph name="BEGIN_LINK"/>sync passphrase<ph name="END_LINK"/>. This doesn't include payment methods and addresses from Gab AI Inc Pay.</translation>
-<translation id="4817583816512767754">Only someone with your passphrase can read your encrypted data. The passphrase is not sent to or stored by Gab AI Inc. If you forget your passphrase or want to change this setting, you'll need to <ph name="BEGIN_LINK"/>reset sync<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Manage synced data on Fulldive Dashboard</translation>
+<translation id="5958351589333270173">Encrypt synced data with your own <ph name="BEGIN_LINK"/>sync passphrase<ph name="END_LINK"/>. This doesn't include payment methods and addresses from Fulldive Pay.</translation>
+<translation id="4817583816512767754">Only someone with your passphrase can read your encrypted data. The passphrase is not sent to or stored by Fulldive. If you forget your passphrase or want to change this setting, you'll need to <ph name="BEGIN_LINK"/>reset sync<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">To change this setting, <ph name="BEGIN_LINK"/>reset sync<ph name="END_LINK"/> to remove your sync passphrase</translation>
 <translation id="3873315167136380065">To turn this on, <ph name="BEGIN_LINK"/>reset sync<ph name="END_LINK"/> to remove your sync passphrase</translation>
 <translation id="6451689256222386810">If you forget your passphrase or want to change this setting, <ph name="BEGIN_LINK"/>reset sync<ph name="END_LINK"/>.</translation>
@@ -4530,7 +4530,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8639047128869322042">Checking for harmful software…</translation>
 <translation id="2653033005692233957">Search failed</translation>
 <translation id="655483977608336153">Try again</translation>
-<translation id="8282772389915299166">Report details to Gab AI Inc about harmful software, system settings and processes that were found on your computer during this clean up</translation>
+<translation id="8282772389915299166">Report details to Fulldive about harmful software, system settings and processes that were found on your computer during this clean up</translation>
 <translation id="6555810572223193255">Cleanup is currently unavailable</translation>
 <translation id="7117228822971127758">Please try again later</translation>
 <translation id="443475966875174318">Update or remove incompatible applications</translation>
@@ -4614,16 +4614,16 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="161042844686301425">Cyan</translation>
 <translation id="4115378294792113321">Magenta</translation>
 <translation id="8438566539970814960">Make searches and browsing better</translation>
-<translation id="284843628681142937">Sends URLs of pages that you visit to Gab AI Inc</translation>
+<translation id="284843628681142937">Sends URLs of pages that you visit to Fulldive</translation>
 <translation id="7704317875155739195">Auto-complete searches and URLs</translation>
 <translation id="2000419248597011803">Sends some cookies and searches from the address bar and search box to your default search engine</translation>
 <translation id="918192811481327695">Help improve Fulldive's features and performance</translation>
-<translation id="9063160602596686558">Automatically sends usage statistics and crash reports to Gab AI Inc</translation>
+<translation id="9063160602596686558">Automatically sends usage statistics and crash reports to Fulldive</translation>
 <translation id="6697492270171225480">Show suggestions for similar pages when a page can't be found</translation>
-<translation id="4534361985432360439">Sends the web address of the page that you're trying to reach to Gab AI Inc</translation>
-<translation id="3831436149286513437">Gab AI Inc Drive search suggestions</translation>
+<translation id="4534361985432360439">Sends the web address of the page that you're trying to reach to Fulldive</translation>
+<translation id="3831436149286513437">Fulldive Drive search suggestions</translation>
 <translation id="5244474230056479698">Syncing to <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Get Gab AI Inc smarts in Fulldive</translation>
+<translation id="9125982323641182972">Get Fulldive smarts in Fulldive</translation>
 <translation id="2537178555904266562">Error syncing passwords</translation>
 <translation id="4314815835985389558">Manage sync</translation>
 <translation id="8931475688782629595">Manage what you sync</translation>
@@ -4632,18 +4632,18 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="4570387585180509432">Addresses, phone numbers and more</translation>
 <translation id="3268451620468152448">Open Tabs</translation>
 <translation id="4684427112815847243">Sync everything</translation>
-<translation id="5428209950370661546">Other Gab AI Inc services</translation>
+<translation id="5428209950370661546">Other Fulldive services</translation>
 <translation id="7399045143794278225">Customise sync</translation>
 <translation id="7044606776288350625">Sync data</translation>
 <translation id="9050666287014529139">Passphrase</translation>
 <translation id="6596325263575161958">Encryption options</translation>
-<translation id="2459230470861708651">Encrypt synced passwords with your Gab AI Inc username and password</translation>
+<translation id="2459230470861708651">Encrypt synced passwords with your Fulldive username and password</translation>
 <translation id="1651008383952180276">You must enter the same passphrase twice</translation>
 <translation id="988978206646512040">Empty passphrase is not allowed</translation>
 <translation id="2136476978468204130">The passphrase you entered is incorrect</translation>
 <translation id="7505421639213002314">Data from Fulldive sync</translation>
 <translation id="452750746583162491">Review your synced data</translation>
-<translation id="7956662517480676674">Sync and Gab AI Inc services</translation>
+<translation id="7956662517480676674">Sync and Fulldive services</translation>
 <translation id="7772032839648071052">Confirm passphrase</translation>
 <translation id="7529411698175791732">Check your Internet connection. If the problem continues, try signing out and signing in again.</translation>
 <translation id="6406506848690869874">Sync</translation>
@@ -4777,8 +4777,8 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="7835178595033117206">Bookmark removed</translation>
 <translation id="742130257665691897">Bookmarks removed</translation>
 <translation id="5468853758063275923">Fulldive is your default browser</translation>
-<translation id="2950533317914339731">Add bookmarks to your favourite Gab AI Inc apps</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">Add bookmarks to your favourite Fulldive apps</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Maps</translation>
 <translation id="6709133671862442373">News</translation>
@@ -4792,7 +4792,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="7789963078219276159">Start page background has been changed to <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Start page background has been reset to the default background.</translation>
 <translation id="239760341987199724">Set Fulldive as your default browser</translation>
-<translation id="96037229054033864">Get Gab AI Inc Search and Gab AI Inc smarts every time that you browse</translation>
+<translation id="96037229054033864">Get Fulldive Search and Fulldive smarts every time that you browse</translation>
 <translation id="296137235951584143">Make Fulldive your own</translation>
 <translation id="3982375475032951137">Set up your browser in a few simple steps</translation>
 <translation id="6972754398087986839">Get Started</translation>
@@ -4805,7 +4805,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="1031362278801463162">Loading preview</translation>
 <translation id="6147020289383635445">Print preview failed.</translation>
 <translation id="5877584842898320529">The selected printer is not available or not installed correctly. <ph name="BR"/> Check your printer or try selecting another printer.</translation>
-<translation id="6645437135153136856">The selected Gab AI Inc Cloud Print device is no longer supported. <ph name="BR"/> Try setting up the printer in your computer's system settings.</translation>
+<translation id="6645437135153136856">The selected Fulldive Cloud Print device is no longer supported. <ph name="BR"/> Try setting up the printer in your computer's system settings.</translation>
 <translation id="5828633471261496623">Printing...</translation>
 <translation id="6295855836753816081">Saving...</translation>
 <translation id="3587482841069643663">All</translation>
@@ -4825,7 +4825,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="3706463572498736864">Pages per sheet</translation>
 <translation id="2249605167705922988">e.g. 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">Save as PDF</translation>
-<translation id="6532101170117367231">Save to Gab AI Inc Drive</translation>
+<translation id="6532101170117367231">Save to Fulldive Drive</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">sheets of paper</translation>
 <translation id="8813811964357448561">sheet of paper</translation>
@@ -4855,7 +4855,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="6991665348624301627">Select a destination</translation>
 <translation id="8800004011501252845">Showing destinations for</translation>
 <translation id="8996526648899750015">Add account...</translation>
-<translation id="6723354935081862304">Print to Gab AI Inc Docs and other cloud destinations. <ph name="BEGIN_LINK"/>Sign in<ph name="END_LINK"/> to print to Gab AI Inc Cloud Print.</translation>
+<translation id="6723354935081862304">Print to Fulldive Docs and other cloud destinations. <ph name="BEGIN_LINK"/>Sign in<ph name="END_LINK"/> to print to Fulldive Cloud Print.</translation>
 <translation id="2150139952286079145">Search destinations</translation>
 <translation id="8569682776816196752">No destinations found</translation>
 <translation id="7885253890047913815">Recent destinations</translation>

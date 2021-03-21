@@ -23,31 +23,31 @@
 <translation id="3749259744154402564">Nije podržano</translation>
 <translation id="629730747756840877">nalog</translation>
 <translation id="82609232232243542">Prijavljivanje u Fulldive</translation>
-<translation id="7956662517480676674">Sinhronizacija i Gab AI Inc usluge</translation>
-<translation id="5294439808117722387">Trenutno prilagođavate podešavanja Sinhronizacije i Gab AI Inc usluga. Da biste dovršili uključivanje sinhronizacije, dodirnite dugme Potvrdi u dnu ekrana. Idi nagore</translation>
+<translation id="7956662517480676674">Sinhronizacija i Fulldive usluge</translation>
+<translation id="5294439808117722387">Trenutno prilagođavate podešavanja Sinhronizacije i Fulldive usluga. Da biste dovršili uključivanje sinhronizacije, dodirnite dugme Potvrdi u dnu ekrana. Idi nagore</translation>
 <translation id="2096012225669085171">Sinhronizacija i personalizacija na svim uređajima</translation>
 <translation id="1692118695553449118">Sinhronizacija je uključena</translation>
 <translation id="5514904542973294328">Onemogućio je administrator ovog uređaja</translation>
-<translation id="6447211988989208781">Gab AI Inc kontrole aktivnosti</translation>
+<translation id="6447211988989208781">Fulldive kontrole aktivnosti</translation>
 <translation id="4882831918239250449">Kontrolišite način na koji se istorija pregledanja koristi za personalizaciju Pretrage, oglasa i drugih usluga</translation>
 <translation id="7431991332293347422">Kontrolišite kako se istorija pregledanja koristi za personalizovanje Pretrage i drugih usluga</translation>
 <translation id="6303969859164067831">Odjavi me i isključi sinhronizaciju</translation>
-<translation id="1125261911132334651">Upravljajte Gab AI Inc nalogom</translation>
+<translation id="1125261911132334651">Upravljajte Fulldive nalogom</translation>
 <translation id="6406506848690869874">Sinhronizacija</translation>
 <translation id="714362445477979774">Sinhronizujte Fulldive podatke</translation>
 <translation id="4314815835985389558">Upravljajte sinhronizacijom</translation>
-<translation id="5428209950370661546">Druge Gab AI Inc usluge</translation>
+<translation id="5428209950370661546">Druge Fulldive usluge</translation>
 <translation id="7704317875155739195">Automatski dovršavaj pretrage i URL-ove</translation>
 <translation id="2000419248597011803">Podrazumevanom pretraživaču šalje neke kolačiće i pretrage iz trake za adresu i okvira za pretragu</translation>
 <translation id="7981313251711023384">Stranice se učitavaju unapred radi bržeg pregledanja i pretraživanja</translation>
 <translation id="1821253160463689938">Koristi kolačiće da bi se zapamtila podešavanja, čak i kada ne posećujete te stranice</translation>
 <translation id="6697492270171225480">Prikazuj predloge za slične stranice kada neka stranica ne može da se pronađe</translation>
-<translation id="8109318360573330108">Šalje Gab AI Inc-u URL stranice kojoj pokušavate da pristupite</translation>
+<translation id="8109318360573330108">Šalje Fulldive-u URL stranice kojoj pokušavate da pristupite</translation>
 <translation id="8438566539970814960">Poboljšaj pretrage i pregledanje</translation>
-<translation id="284843628681142937">URL-ovi stranica koje posećujete se šalju Gab AI Inc-u</translation>
-<translation id="7222718784508482526">Više podešavanja u vezi sa privatnošću, bezbednošću i prikupljanjem podataka potražite u odeljku <ph name="BEGIN_LINK"/>Sinhronizacija i Gab AI Inc usluge<ph name="END_LINK"/></translation>
+<translation id="284843628681142937">URL-ovi stranica koje posećujete se šalju Fulldive-u</translation>
+<translation id="7222718784508482526">Više podešavanja u vezi sa privatnošću, bezbednošću i prikupljanjem podataka potražite u odeljku <ph name="BEGIN_LINK"/>Sinhronizacija i Fulldive usluge<ph name="END_LINK"/></translation>
 <translation id="918192811481327695">Pomozite nam da poboljšamo Fulldive-ove funkcije i učinak</translation>
-<translation id="9063160602596686558">Automatski šalje Gab AI Inc-u statistiku korišćenja i izveštaje o otkazivanju</translation>
+<translation id="9063160602596686558">Automatski šalje Fulldive-u statistiku korišćenja i izveštaje o otkazivanju</translation>
 <translation id="4824958205181053313">Želite li da otkažete sinhronizaciju?</translation>
 <translation id="3058498974290601450">Možete da uključite sinhronizaciju u podešavanjima u bilo kom trenutku</translation>
 <translation id="3143515551205905069">Otkaži sinhronizaciju</translation>
@@ -86,9 +86,9 @@
 <translation id="2100273922101894616">Automatsko prijavljivanje</translation>
 <translation id="363596933471559332">Automatski se prijavljujte na veb-sajtove pomoću sačuvanih akreditiva. Kada je ova funkcija isključena, tražićemo vam da se verifikujete pre svakog prijavljivanja na veb-sajt.</translation>
 <translation id="6995899638241819463">Upozori me ako su lozinke otkrivene pri upadu u podatke</translation>
-<translation id="1534287762301776620">Ova funkcija se uključuje kada se prijavite na Gab AI Inc nalog</translation>
+<translation id="1534287762301776620">Ova funkcija se uključuje kada se prijavite na Fulldive nalog</translation>
 <translation id="10614374240317010">Nikada se ne čuva</translation>
-<translation id="3098842761938485917">Pregledajte sačuvane lozinke i upravljajte njima na <ph name="BEGIN_LINK"/>Gab AI Inc nalogu<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Pregledajte sačuvane lozinke i upravljajte njima na <ph name="BEGIN_LINK"/>Fulldive nalogu<ph name="END_LINK"/></translation>
 <translation id="8988028529677883095">Koristite telefon kao bezbednosni ključ</translation>
 <translation id="8562452229998620586">Sačuvane lozinke će se pojaviti ovde.</translation>
 <translation id="1303339473099049190">Ne možemo da pronađemo tu lozinku. Proverite kako ste je napisali i probajte ponovo.</translation>
@@ -116,7 +116,7 @@
 <translation id="6914783257214138813">Lozinke će biti vidljive svima koji mogu da vide izvezenu datoteku.</translation>
 <translation id="2321086116217818302">Pripremaju se lozinke...</translation>
 <translation id="8445448999790540984">Izvoz lozinki nije uspeo</translation>
-<translation id="5139940364318403933">Saznajte kako da koristite Gab AI Inc disk</translation>
+<translation id="5139940364318403933">Saznajte kako da koristite Fulldive disk</translation>
 <translation id="729975465115245577">Uređaj nema aplikaciju za čuvanje datoteke sa lozinkama.</translation>
 <translation id="7682724950699840886">Isprobajte sledeće savete: proverite da li na uređaju ima dovoljno prostora, pa probajte da ponovo izvezete lozinke.</translation>
 <translation id="1129510026454351943">Detalji: <ph name="ERROR_DESCRIPTION"/></translation>
@@ -140,17 +140,17 @@
 <translation id="6381421346744604172">Zatamni veb-sajtove</translation>
 <translation id="5040262127954254034">Privatnost</translation>
 <translation id="4991384657077828949">Pomozite nam da poboljšamo Fulldive bezbednost</translation>
-<translation id="1943176487615318915">Da bi otkrivao opasne aplikacije i sajtove, Fulldive šalje Gab AI Inc-u URL-ove nekih stranica koje posećujete, ograničene informacije o sistemu i određeni sadržaj stranica</translation>
+<translation id="1943176487615318915">Da bi otkrivao opasne aplikacije i sajtove, Fulldive šalje Fulldive-u URL-ove nekih stranica koje posećujete, ograničene informacije o sistemu i određeni sadržaj stranica</translation>
 <translation id="3201899458094819285">Bezbedno pregledanje (štiti vas i uređaj od opasnih sajtova)</translation>
-<translation id="2876369937070532032">Šalje URL-ove nekih stranica koje posećujete Gab AI Inc-u kada je bezbednost ugrožena</translation>
+<translation id="2876369937070532032">Šalje URL-ove nekih stranica koje posećujete Fulldive-u kada je bezbednost ugrožena</translation>
 <translation id="3738139272394829648">Dodirni za pretragu</translation>
-<translation id="4749189475009528195">Saznajte više o temama na veb-sajtovima bez napuštanja stranice. „Dodirnite za pretragu“ šalje reč i njen kontekst u Gab AI Inc pretragu i prikazuje definicije, slike, rezultate pretrage i druge detalje.
+<translation id="4749189475009528195">Saznajte više o temama na veb-sajtovima bez napuštanja stranice. „Dodirnite za pretragu“ šalje reč i njen kontekst u Fulldive pretragu i prikazuje definicije, slike, rezultate pretrage i druge detalje.
 
 Dodirnite bilo koju reč za pretragu. Da biste precizirali pretragu, dodirnite i zadržite ako želite da izaberete više ili manje reči. Da biste izmenili pretragu, otvorite okno, dodirnite ikonu za otvaranje na novoj kartici i unesite promene u okviru za pretragu.</translation>
-<translation id="934250516944040460">Saznajte više o temama na veb-sajtovima bez napuštanja stranice. „Dodirnite za pretragu“ šalje reč i njen kontekst u Gab AI Inc pretragu i prikazuje definicije, slike, rezultate pretrage i druge detalje.
+<translation id="934250516944040460">Saznajte više o temama na veb-sajtovima bez napuštanja stranice. „Dodirnite za pretragu“ šalje reč i njen kontekst u Fulldive pretragu i prikazuje definicije, slike, rezultate pretrage i druge detalje.
 
 Dodirnite i zadržite bilo koju reč za pretragu. Da biste precizirali pretragu, izaberite više ili manje reči. Da biste izmenili pretragu, otvorite okno, dodirnite ikonu za otvaranje na novoj kartici i unesite promene u okviru za pretragu.</translation>
-<translation id="6209156474097347789">Funkcija Dodirnite za pretragu šalje izabranu reč i aktuelnu stranicu kao kontekst u Gab AI Inc pretragu. Možete da je isključite u <ph name="BEGIN_LINK"/>Podešavanjima<ph name="END_LINK"/>.</translation>
+<translation id="6209156474097347789">Funkcija Dodirnite za pretragu šalje izabranu reč i aktuelnu stranicu kao kontekst u Fulldive pretragu. Možete da je isključite u <ph name="BEGIN_LINK"/>Podešavanjima<ph name="END_LINK"/>.</translation>
 <translation id="5039804452771397117">Dozvoli</translation>
 <translation id="780301667611848630">Ne, hvala</translation>
 <translation id="1406000523432664303">„Ne prati“</translation>
@@ -163,15 +163,15 @@ Na primer, neki veb-sajtovi mogu da odgovore na ovaj zahtev prikazivanjem oglasa
 <translation id="7814200940910057384">Fulldive podaci su obrisani</translation>
 <translation id="1664855196866195614">Izabrani podaci su uklonjeni iz Fulldive-a i sa sinhronizovanih uređaja.
 
-Gab AI Inc nalog možda ima druge oblike istorije pregledanja, poput pretraga i aktivnosti u drugim Gab AI Inc uslugama na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+Fulldive nalog možda ima druge oblike istorije pregledanja, poput pretraga i aktivnosti u drugim Fulldive uslugama na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="4699172675775169585">Keširane slike i datoteke</translation>
 <translation id="2496180316473517155">Istorija pregledanja</translation>
 <translation id="2546283357679194313">Kolačići i podaci o sajtovima</translation>
 <translation id="8662811608048051533">Odjaviće vas sa većine sajtova.</translation>
-<translation id="8218628800671693884">Odjaviće vas sa većine sajtova. Neće vas odjaviti sa Gab AI Inc naloga.</translation>
+<translation id="8218628800671693884">Odjaviće vas sa većine sajtova. Neće vas odjaviti sa Fulldive naloga.</translation>
 <translation id="2017836877785168846">Briše istoriju i automatska dovršavanja u traci za adresu.</translation>
-<translation id="8096327394278038498">Briše istoriju i automatska dovršavanja u traci za adresu. Gab AI Inc nalog može da ima druge oblike istorije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Briše istoriju sa svih uređaja na kojima ste prijavljeni. Gab AI Inc nalog može da ima druge oblike istorije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Briše istoriju i automatska dovršavanja u traci za adresu. Fulldive nalog može da ima druge oblike istorije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Briše istoriju sa svih uređaja na kojima ste prijavljeni. Fulldive nalog može da ima druge oblike istorije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="5869522115854928033">Sačuvane lozinke</translation>
 <translation id="6865313869410766144">Podaci Automatskog popunjavanja za obrasce</translation>
 <translation id="7562080006725997899">Brisanje podataka pregledanja</translation>
@@ -188,7 +188,7 @@ Gab AI Inc nalog možda ima druge oblike istorije pregledanja, poput pretraga i 
 <translation id="6643016212128521049">Obriši</translation>
 <translation id="7641339528570811325">Obriši podatke pregledanja…</translation>
 <translation id="1670399744444387456">Osnovna</translation>
-<translation id="3245261285041759672">Gab AI Inc nalog može da ima druge oblike istorije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="3245261285041759672">Fulldive nalog može da ima druge oblike istorije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7274013316676448362">Sajt je blokiran</translation>
 <translation id="2534155362429831547">Izbrisanih stavki: <ph name="NUMBER_OF_ITEMS"/></translation>
 <translation id="6981982820502123353">Pristupačnost</translation>
@@ -335,7 +335,7 @@ Gab AI Inc nalog možda ima druge oblike istorije pregledanja, poput pretraga i 
 <translation id="2131665479022868825">Sačuvano: <ph name="DATA"/></translation>
 <translation id="8569404424186215731">od <ph name="DATE"/></translation>
 <translation id="3252158532344029638">U Lite režimu Fulldive učitava stranice brže i koristi i do 60 procenata manje podataka.</translation>
-<translation id="1438581767753657407">Kada je Lite režim uključen, Fulldive ubrzava učitavanje stranica pomoću Gab AI Inc servera. Lite režim ponovo upisuje veoma spore stranice da bi učitavale samo sadržaj koji je neophodan. Lite režim se ne primenjuje na kartice bez arhiviranja.</translation>
+<translation id="1438581767753657407">Kada je Lite režim uključen, Fulldive ubrzava učitavanje stranica pomoću Fulldive servera. Lite režim ponovo upisuje veoma spore stranice da bi učitavale samo sadržaj koji je neophodan. Lite režim se ne primenjuje na kartice bez arhiviranja.</translation>
 <translation id="6159335304067198720"><ph name="PERCENT"/> uštede podataka</translation>
 <translation id="7494974237137038751">ušteđenih podataka</translation>
 <translation id="6111020039983847643">iskorišćenih podataka</translation>
@@ -358,13 +358,13 @@ Gab AI Inc nalog možda ima druge oblike istorije pregledanja, poput pretraga i 
 <translation id="3658159451045945436">Resetovanjem ćete obrisati istoriju Uštede podataka, uključujući listu sajtova koje ste posetili.</translation>
 <translation id="5939518447894949180">Resetuj</translation>
 <translation id="3295530008794733555">Pregledajte brže. Koristite manje podataka.</translation>
-<translation id="7340390500800578919">U Lite režimu Fulldive učitava stranice brže i koristi i do 60 procenata manje podataka. Da bi optimizovao stranice koje posećujete, Fulldive šalje Gab AI Inc-u vaš saobraćaj na vebu. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">U Lite režimu Fulldive učitava stranice brže i koristi i do 60 procenata manje podataka. Da bi optimizovao stranice koje posećujete, Fulldive šalje Fulldive-u vaš saobraćaj na vebu. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">Uključi Lite režim</translation>
 <translation id="4493497663118223949">Lite režim je uključen</translation>
 <translation id="7559975015014302720">Lite režim je isključen</translation>
 <translation id="7606077192958116810">Lite režim je uključen. Upravljajte njime u Podešavanjima.</translation>
 <translation id="4714588616299687897">Uštedite do 60% podataka</translation>
-<translation id="1006927014032731288">Gab AI Inc serveri će optimizovati stranice koje posećujete.</translation>
+<translation id="1006927014032731288">Fulldive serveri će optimizovati stranice koje posećujete.</translation>
 <translation id="3257320067425202300">Fulldive vam je uštedeo <ph name="MEGABYTES"/> MB</translation>
 <translation id="5813223329348543512">Fulldive vam je uštedeo <ph name="GIGABYTES"/> GB</translation>
 <translation id="8266862848225348053">Lokacija za preuzimanje</translation>
@@ -393,13 +393,13 @@ Gab AI Inc nalog možda ima druge oblike istorije pregledanja, poput pretraga i 
 <translation id="3334729583274622784">Želite da promenite ekstenziju datoteke?</translation>
 <translation id="107147699690128016">Ako promenite ekstenziju datoteke, ona može da se otvori u drugoj aplikaciji i da bude opasna po uređaj.</translation>
 <translation id="8541922081612557424">O Fulldive pregledaču</translation>
-<translation id="5311273890481188673">Autorska prava <ph name="YEAR"/>. Gab AI Inc LLC. Sva prava zadržana.</translation>
+<translation id="5311273890481188673">Autorska prava <ph name="YEAR"/>. Fulldive LLC. Sva prava zadržana.</translation>
 <translation id="1416550906796893042">Verzija aplikacije</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (ažurirano je <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7596558890252710462">Operativni sistem</translation>
 <translation id="3968054912784331254">Fulldive ažuriranja više nisu podržana za ovu verziju Android-a</translation>
 <translation id="7665369617277396874">Dodajte nalog</translation>
-<translation id="649070405679044769">Prijavljeni ste u Gab AI Inc kao</translation>
+<translation id="649070405679044769">Prijavljeni ste u Fulldive kao</translation>
 <translation id="6234515504547364178">Odjavljivanje iz Fulldive-a</translation>
 <translation id="5324858694974489420">Roditeljska podešavanja</translation>
 <translation id="8920114477895755567">Čekaju se detalji roditelja.</translation>
@@ -418,20 +418,20 @@ Gab AI Inc nalog možda ima druge oblike istorije pregledanja, poput pretraga i 
 <translation id="6108923351542677676">Podešavanje je u toku...</translation>
 <translation id="4062305924942672200">Pravne informacije</translation>
 <translation id="4256782883801055595">Licence otvorenog koda</translation>
-<translation id="1138681184697033370">Gab AI Inc uslovi korišćenja usluge</translation>
+<translation id="1138681184697033370">Fulldive uslovi korišćenja usluge</translation>
 <translation id="2368444735104192323">Dodatni uslovi korišćenja usluge za Fulldive i Fulldive OS</translation>
 <translation id="7392539049993970338">Fulldive obaveštenje o privatnosti</translation>
 <translation id="2968755619301702150">Prikazivač sertifikata</translation>
 <translation id="1360432990279830238">Odjavljujete se i isključujete sinhroniz?</translation>
 <translation id="8581481290581777242">Želite li da obrišete Fulldive podatke sa ovog uređaja?</translation>
-<translation id="1318865768845061710">Obeleživači, istorija, lozinke i drugi Fulldive podaci više se neće sinhronizovati sa Gab AI Inc nalogom</translation>
+<translation id="1318865768845061710">Obeleživači, istorija, lozinke i drugi Fulldive podaci više se neće sinhronizovati sa Fulldive nalogom</translation>
 <translation id="3325020657155065477">Obriši Fulldive podatke i sa ovog uređaja</translation>
-<translation id="6136448902816743006">Pošto se odjavljujete sa naloga kojim upravlja <ph name="DOMAIN_NAME"/>, Fulldive podaci biće izbrisani sa ovog uređaja. Ostaće na vašem Gab AI Inc nalogu.</translation>
-<translation id="1853026300647876496">Kontaktiramo Gab AI Inc. To može malo da potraje...</translation>
+<translation id="6136448902816743006">Pošto se odjavljujete sa naloga kojim upravlja <ph name="DOMAIN_NAME"/>, Fulldive podaci biće izbrisani sa ovog uređaja. Ostaće na vašem Fulldive nalogu.</translation>
+<translation id="1853026300647876496">Kontaktiramo Fulldive. To može malo da potraje...</translation>
 <translation id="2328985652426384049">Ne mogu da se prijavim</translation>
-<translation id="7723158744459952869">Gab AI Inc-u je trebalo predugo da odgovori</translation>
+<translation id="7723158744459952869">Fulldive-u je trebalo predugo da odgovori</translation>
 <translation id="4572422548854449519">Prijavite se na nalog kojim se upravlja</translation>
-<translation id="2689656545739939160">Prijavljujete se pomoću naloga kojim upravlja <ph name="MANAGED_DOMAIN"/> i dajete njegovom administratoru kontrolu nad svojim Fulldive podacima. Podaci će postati trajno povezani sa tim nalogom. Odjavljivanjem iz Fulldive-a ćete izbrisati podatke sa ovog uređaja, ali će oni ostati sačuvani na Gab AI Inc nalogu.</translation>
+<translation id="2689656545739939160">Prijavljujete se pomoću naloga kojim upravlja <ph name="MANAGED_DOMAIN"/> i dajete njegovom administratoru kontrolu nad svojim Fulldive podacima. Podaci će postati trajno povezani sa tim nalogom. Odjavljivanjem iz Fulldive-a ćete izbrisati podatke sa ovog uređaja, ali će oni ostati sačuvani na Fulldive nalogu.</translation>
 <translation id="1749561566933687563">Sinhronizujte obeleživače</translation>
 <translation id="4242533952199664413">Otvori podešavanja</translation>
 <translation id="1111673857033749125">Obeleživači sačuvani na drugim uređajima će se prikazati ovde.</translation>
@@ -445,21 +445,21 @@ Gab AI Inc nalog možda ima druge oblike istorije pregledanja, poput pretraga i 
 <translation id="8820817407110198400">Obeleživači</translation>
 <translation id="1644574205037202324">Istorija</translation>
 <translation id="17513872634828108">Otvorene kartice</translation>
-<translation id="1320169905922104972">Kreditne kartice i adrese iz Gab AI Inc Pay-a</translation>
+<translation id="1320169905922104972">Kreditne kartice i adrese iz Fulldive Pay-a</translation>
 <translation id="6337234675334993532">Šifrovanje</translation>
 <translation id="6698801883190606802">Upravljajte sinhronizovanim podacima</translation>
-<translation id="3598578758776312506">Šifrujte lozinke pomoću Gab AI Inc akreditiva</translation>
-<translation id="7810580217418711046">Šifrujte sinhronizovane podatke pomoću Gab AI Inc lozinke od <ph name="TIME"/></translation>
+<translation id="3598578758776312506">Šifrujte lozinke pomoću Fulldive akreditiva</translation>
+<translation id="7810580217418711046">Šifrujte sinhronizovane podatke pomoću Fulldive lozinke od <ph name="TIME"/></translation>
 <translation id="8461694314515752532">Šifrujte sinhronizovane podatke pomoću sopstvene pristupne fraze za sinhronizaciju</translation>
 <translation id="2996291259634659425">Napravite pristupnu frazu</translation>
-<translation id="5713644099811900409">Gab AI Inc naloga</translation>
-<translation id="8997474919031554666">Šifrovanje pomoću pristupne fraze ne obuhvata načine plaćanja i adrese iz Gab AI Inc Pay-a. Samo neko ko ima pristupnu frazu može da čita šifrovane podatke. Pristupna fraza se ne šalje Gab AI Inc-u niti je on čuva. Ako zaboravite pristupnu frazu ili poželite da promenite ovo podešavanje, treba da resetujete sinhronizaciju. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
+<translation id="5713644099811900409">Fulldive naloga</translation>
+<translation id="8997474919031554666">Šifrovanje pomoću pristupne fraze ne obuhvata načine plaćanja i adrese iz Fulldive Pay-a. Samo neko ko ima pristupnu frazu može da čita šifrovane podatke. Pristupna fraza se ne šalje Fulldive-u niti je on čuva. Ako zaboravite pristupnu frazu ili poželite da promenite ovo podešavanje, treba da resetujete sinhronizaciju. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
 <translation id="9050666287014529139">Pristupna fraza</translation>
 <translation id="7772032839648071052">Potvrdi pristupnu frazu</translation>
 <translation id="5304593522240415983">Ovo polje ne sme da bude prazno</translation>
 <translation id="321773570071367578">Ako ste zaboravili pristupnu frazu ili želite da promenite ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhronizaciju<ph name="END_LINK"/></translation>
 <translation id="3029704984691124060">Pristupne fraze se ne podudaraju</translation>
-<translation id="5149495116300586333">Šifrovanje pomoću pristupne fraze ne obuhvata načine plaćanja i adrese iz Gab AI Inc Pay-a.
+<translation id="5149495116300586333">Šifrovanje pomoću pristupne fraze ne obuhvata načine plaćanja i adrese iz Fulldive Pay-a.
 
 Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhronizaciju<ph name="END_LINK"/></translation>
 <translation id="7638584964844754484">Neispravna pristupna fraza</translation>
@@ -575,7 +575,7 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhroniza
 <translation id="6649642165559792194">Prikaži sliku <ph name="BEGIN_NEW"/>Novo<ph name="END_NEW"/></translation>
 <translation id="3269093882174072735">Učitaj sliku</translation>
 <translation id="6671495933530132209">Kopiraj sliku</translation>
-<translation id="3845332215609790146">Traži uz Gab AI Inc objektiv <ph name="BEGIN_NEW"/>Novo<ph name="END_NEW"/></translation>
+<translation id="3845332215609790146">Traži uz Fulldive objektiv <ph name="BEGIN_NEW"/>Novo<ph name="END_NEW"/></translation>
 <translation id="5578795271662203820">Potraži ovu sliku na <ph name="SEARCH_ENGINE"/>-u</translation>
 <translation id="3384347053049321195">Deli sliku</translation>
 <translation id="5833984609253377421">Deli link</translation>
@@ -584,7 +584,7 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhroniza
 <translation id="7975379999046275268">Prikaži stranicu <ph name="BEGIN_NEW"/>Novo<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">Brz sajt</translation>
 <translation id="6112702117600201073">Osvežavanje stranice</translation>
-<translation id="6990079615885386641">Preuzmite aplikaciju iz Gab AI Inc Play prodavnice: <ph name="APP_ACTION"/></translation>
+<translation id="6990079615885386641">Preuzmite aplikaciju iz Fulldive Play prodavnice: <ph name="APP_ACTION"/></translation>
 <translation id="2414886740292270097">Tamna</translation>
 <translation id="1807246157184219062">Svetla</translation>
 <translation id="4056223980640387499">Sepija</translation>
@@ -610,9 +610,9 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhroniza
 <translation id="164269334534774161">Prikazuje se oflajn kopija ove stranice od <ph name="CREATION_TIME"/></translation>
 <translation id="4594952190837476234">Ova oflajn stranica je od <ph name="CREATION_TIME"/> i može da se razlikuje od onlajn verzije.</translation>
 <translation id="8840953339110955557">Ova stranica može da se razlikuje od onlajn verzije.</translation>
-<translation id="6405300764336705484">Ovaj sadržaj je sa <ph name="DOMAIN_NAME"/>, prikazuje Gab AI Inc.</translation>
+<translation id="6405300764336705484">Ovaj sadržaj je sa <ph name="DOMAIN_NAME"/>, prikazuje Fulldive.</translation>
 <translation id="1006017844123154345">Otvori onlajn</translation>
-<translation id="3326636747541519688">Pojednostavljenu stranicu pruža Gab AI Inc</translation>
+<translation id="3326636747541519688">Pojednostavljenu stranicu pruža Fulldive</translation>
 <translation id="7149158118503947153"><ph name="BEGIN_LINK"/>Učitaj originalnu stranicu<ph name="END_LINK"/> sa <ph name="DOMAIN_NAME"/></translation>
 <translation id="7475192538862203634">Ako vam se ovo često prikazuje, isprobajte ove <ph name="BEGIN_LINK"/>predloge<ph name="END_LINK"/>.</translation>
 <translation id="8748850008226585750">Sadržaj je sakriven</translation>
@@ -710,18 +710,18 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhroniza
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">GG</translation>
 <translation id="724102042129299115">Fulldive doživljaj prvog pokretanja</translation>
-<translation id="7766792282581704663">Ako koristite Fulldive, prihvatate <ph name="BEGIN_LINK1"/>Gab AI Inc uslove korišćenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne uslove korišćenja usluge za Gab AI Inc Fulldive i Fulldive OS<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Ako koristite Fulldive, prihvatate <ph name="BEGIN_LINK1"/>Gab AI Inc uslove korišćenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne uslove korišćenja usluge za Gab AI Inc Fulldive i Fulldive OS<ph name="END_LINK2"/>. Primenjuje se i <ph name="BEGIN_LINK3"/>Obaveštenje o privatnosti za Gab AI Inc naloge kojima se upravlja preko Family Link-a<ph name="END_LINK3"/>.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> će se otvoriti u Fulldive-u. Ako nastavite, prihvatate <ph name="BEGIN_LINK1"/>Gab AI Inc uslove korišćenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne uslove korišćenja usluge za Gab AI Inc Fulldive i Fulldive OS<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> će se otvoriti u Fulldive-u. Ako nastavite, prihvatate <ph name="BEGIN_LINK1"/>Gab AI Inc uslove korišćenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne uslove korišćenja usluge za Gab AI Inc Fulldive i Fulldive OS<ph name="END_LINK2"/>. Primenjuje se i <ph name="BEGIN_LINK3"/>Obaveštenje o privatnosti za Gab AI Inc naloge kojima se upravlja preko Family Link-a<ph name="END_LINK3"/>.</translation>
-<translation id="673197144963363525">Poboljšajte Fulldive slanjem statistike korišćenja i izveštaja o otkazivanju Gab AI Inc-u.</translation>
+<translation id="7766792282581704663">Ako koristite Fulldive, prihvatate <ph name="BEGIN_LINK1"/>Fulldive uslove korišćenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne uslove korišćenja usluge za Fulldive Fulldive i Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Ako koristite Fulldive, prihvatate <ph name="BEGIN_LINK1"/>Fulldive uslove korišćenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne uslove korišćenja usluge za Fulldive Fulldive i Fulldive OS<ph name="END_LINK2"/>. Primenjuje se i <ph name="BEGIN_LINK3"/>Obaveštenje o privatnosti za Fulldive naloge kojima se upravlja preko Family Link-a<ph name="END_LINK3"/>.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> će se otvoriti u Fulldive-u. Ako nastavite, prihvatate <ph name="BEGIN_LINK1"/>Fulldive uslove korišćenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne uslove korišćenja usluge za Fulldive Fulldive i Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> će se otvoriti u Fulldive-u. Ako nastavite, prihvatate <ph name="BEGIN_LINK1"/>Fulldive uslove korišćenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne uslove korišćenja usluge za Fulldive Fulldive i Fulldive OS<ph name="END_LINK2"/>. Primenjuje se i <ph name="BEGIN_LINK3"/>Obaveštenje o privatnosti za Fulldive naloge kojima se upravlja preko Family Link-a<ph name="END_LINK3"/>.</translation>
+<translation id="673197144963363525">Poboljšajte Fulldive slanjem statistike korišćenja i izveštaja o otkazivanju Fulldive-u.</translation>
 <translation id="3518985090088779359">Prihvati i nastavi</translation>
 <translation id="7207456302801184289">Dobro došli u Fulldive</translation>
-<translation id="7189372733857464326">Čeka se da Gab AI Inc Play usluge završe ažuriranje</translation>
+<translation id="7189372733857464326">Čeka se da Fulldive Play usluge završe ažuriranje</translation>
 <translation id="1231733316453485619">Želite li da uključite sinhronizaciju?</translation>
 <translation id="5132942445612118989">Sinhronizujte lozinke, istoriju i drugi sadržaj na svim uređajima</translation>
-<translation id="5736731321935944068">Gab AI Inc može da koristi istoriju za personalizaciju Pretrage, oglasa i drugih Gab AI Inc usluga</translation>
-<translation id="4013614219085422040">Gab AI Inc može da koristi istoriju za personalizaciju Pretrage i drugih Gab AI Inc usluga</translation>
+<translation id="5736731321935944068">Fulldive može da koristi istoriju za personalizaciju Pretrage, oglasa i drugih Fulldive usluga</translation>
+<translation id="4013614219085422040">Fulldive može da koristi istoriju za personalizaciju Pretrage i drugih Fulldive usluga</translation>
 <translation id="5581519193887989363">Uvek možete da odaberete šta ćete sinhronizovati u <ph name="BEGIN_LINK1"/>podešavanjima<ph name="END_LINK1"/>.</translation>
 <translation id="741204030948306876">Da, omogući</translation>
 <translation id="2410754283952462441">Izaberite nalog</translation>
@@ -729,8 +729,8 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhroniza
 <translation id="6210748933810148297">Niste <ph name="EMAIL"/>?</translation>
 <translation id="8109613176066109935">Da bi vam obeleživači bili dostupni na svim uređajima, uključite sinhronizaciju</translation>
 <translation id="2818669890320396765">Da bi vam obeleživači bili dostupni na svim uređajima, prijavite se i uključite sinhronizaciju</translation>
-<translation id="6003646045106347985">Da biste dobijali personalizovani sadržaj koji predlaže Gab AI Inc, uključite sinhronizaciju</translation>
-<translation id="8494430740943879273">Da biste dobijali personalizovani sadržaj koji predlaže Gab AI Inc, prijavite se i uključite sinhronizaciju</translation>
+<translation id="6003646045106347985">Da biste dobijali personalizovani sadržaj koji predlaže Fulldive, uključite sinhronizaciju</translation>
+<translation id="8494430740943879273">Da biste dobijali personalizovani sadržaj koji predlaže Fulldive, prijavite se i uključite sinhronizaciju</translation>
 <translation id="5862731021271217234">Da bi vam kartice bile dostupne na drugim uređajima, uključite sinhronizaciju</translation>
 <translation id="3568688522516854065">Da bi vam kartice bile dostupne na drugim uređajima, prijavite se i uključite sinhronizaciju</translation>
 <translation id="1208340532756947324">Da biste sinhronizovali i personalizovali sadržaj na uređajima, uključite sinhronizaciju</translation>
@@ -750,7 +750,7 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhroniza
 <translation id="5423934151118863508">Najčešće posećivane stranice će se pojaviti ovde</translation>
 <translation id="6127379762771434464">Uklonili ste stavku</translation>
 <translation id="4605958867780575332">Stavka je uklonjena: <ph name="ITEM_TITLE"/></translation>
-<translation id="1996480094660735607">Gab AI Inc dudl logotip: <ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">Fulldive dudl logotip: <ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="7851858861565204677">Drugi uređaji</translation>
 <translation id="4738836084190194332">Poslednja sinhronizacija: <ph name="WHEN"/></translation>
 <translation id="4583164079174244168">{MINUTES,plural, =1{Pre # minuta}one{Pre # minuta}few{Pre # minuta}other{Pre # minuta}}</translation>
@@ -777,7 +777,7 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhroniza
 <translation id="1171770572613082465">Dodirnite dugme „Najpopularniji veb-sajtovi“ i vidite te veb-sajtove</translation>
 <translation id="5233638681132016545">Nova kartica</translation>
 <translation id="6336451774241870485">Nova kartica bez arhiviranja</translation>
-<translation id="4521874409998847950">Od objavljivača <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>prikazuje Gab AI Inc<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950">Od objavljivača <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>prikazuje Fulldive<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">Dostupna je novija verzija</translation>
 <translation id="4058091506841967397">Fulldive se neće ažurirati</translation>
 <translation id="6316139424528454185">Nepodržana verzija Android-a</translation>
@@ -913,7 +913,7 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhroniza
 <translation id="8427875596167638501">Kartica za pregled je poluotvorena</translation>
 <translation id="9102803872260866941">Kartica za pregled je otvorena</translation>
 <translation id="2942036813789421260">Kartica za pregled je zatvorena</translation>
-<translation id="6355102470683871794">Memorijski prostor za Gab AI Inc <ph name="APP_NAME"/></translation>
+<translation id="6355102470683871794">Memorijski prostor za Fulldive <ph name="APP_NAME"/></translation>
 <translation id="3822502789641063741">Brišete memoriju sajta?</translation>
 <translation id="9205995714227143200">Memorijski prostor za sajtove koji Fulldive ne smatra važnim (npr. sajtovi bez sačuvanih podešavanja ili sajtovi koje ne posećujete često)</translation>
 <translation id="3997476611815694295">Nevažan memorijski prostor</translation>
@@ -954,9 +954,9 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhroniza
 <translation id="5489227211564503167">Proteklo vreme: <ph name="ELAPSED_TIME"/> od <ph name="TOTAL_TIME"/>.</translation>
 <translation id="6560414384669816528">Pretraga pomoću Sogou-a</translation>
 <translation id="5406914950576900927">Fulldive može da koristi <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> za pretragu u Kini. Ovo možete da promenite u <ph name="BEGIN_LINK"/>Podešavanjima<ph name="END_LINK"/>.</translation>
-<translation id="6456271171669383967">Zadrži Gab AI Inc</translation>
+<translation id="6456271171669383967">Zadrži Fulldive</translation>
 <translation id="4384468725000734951">Koristite Sogou za pretragu</translation>
-<translation id="6103327872225198548">Koristite Gab AI Inc za pretragu</translation>
+<translation id="6103327872225198548">Koristite Fulldive za pretragu</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
 <translation id="919933208285147476">Ova aplikacija je aktivna u Fulldive-u</translation>
 <translation id="6143689084714664628">Pokrenuto je u Fulldive-u</translation>
@@ -988,7 +988,7 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK"/>resetujte sinhroniza
 <translation id="123724288017357924">Ponovno učitavanje aktuelne stranice, zanemarujući keširani sadržaj</translation>
 <translation id="305870044889644984">Otvaranje Fulldive centra za pomoć na novoj kartici</translation>
 <translation id="3166827708714933426">Prečice za kartice i prozore</translation>
-<translation id="3169981355900570544">Prečice za Gab AI Inc Fulldive funkcije</translation>
+<translation id="3169981355900570544">Prečice za Fulldive Fulldive funkcije</translation>
 <translation id="4558311620361989323">Prečice za veb-stranice</translation>
 <translation id="1908301351964700579">Fulldive se još priprema za VR. Kasnije restartujte Fulldive.</translation>
 <translation id="8970887620466824814">Došlo je do greške.</translation>
@@ -1017,9 +1017,9 @@ Samo vi možete da vidite prikaz kamere. Sajt ne može da vidi slike kamere.</tr
 <translation id="3341058695485821946">Pogledajte koliko ste podataka uštedeli</translation>
 <translation id="3157842584138209013">Pogledajte koliko ste podataka uštedeli pomoću dugmeta Još opcija</translation>
 <translation id="8218622182176210845">Upravljajte nalogom</translation>
-<translation id="8090895580117672212">Da biste upravljali Gab AI Inc nalogom, dodirnite dugme „Upravljajte nalogom“</translation>
-<translation id="8856898588039823173">Pojednostavljenu stranicu pruža Gab AI Inc. Dodirnite da biste učitali prvobitnu stranicu.</translation>
-<translation id="8134317863207426198">Pojednostavljenu stranicu pruža Gab AI Inc. Dodirnite dugme Učitaj prvobitnu stranicu da biste učitali prvobitnu stranicu.</translation>
+<translation id="8090895580117672212">Da biste upravljali Fulldive nalogom, dodirnite dugme „Upravljajte nalogom“</translation>
+<translation id="8856898588039823173">Pojednostavljenu stranicu pruža Fulldive. Dodirnite da biste učitali prvobitnu stranicu.</translation>
+<translation id="8134317863207426198">Pojednostavljenu stranicu pruža Fulldive. Dodirnite dugme Učitaj prvobitnu stranicu da biste učitali prvobitnu stranicu.</translation>
 <translation id="4961107849584082341">Prevedite ovu stranicu na bilo koji jezik</translation>
 <translation id="569536719314091526">Prevedite ovu stranicu na bilo koji jezik pomoću dugmeta Još opcija</translation>
 <translation id="1397811292916898096">Pretražite pomoću: <ph name="PRODUCT_NAME"/></translation>
@@ -1078,11 +1078,11 @@ Samo vi možete da vidite prikaz kamere. Sajt ne može da vidi slike kamere.</tr
 <translation id="5805364706385912897">Ova stranica koristi previše memorije, pa ju je Fulldive pauzirao.</translation>
 <translation id="5138664332909611586">Ova stranica koristi previše memorije, pa je Fulldive uklonio određeni sadržaj.</translation>
 <translation id="9137013805542155359">Prikaži original</translation>
-<translation id="6361779936989026201">Gab AI Inc pomoćnik u Fulldive-u</translation>
+<translation id="6361779936989026201">Fulldive pomoćnik u Fulldive-u</translation>
 <translation id="7291387454912369099">Plaćanje pokreće Pomoćnik</translation>
-<translation id="9037412730408024068">Da bi vam pomogao u obavljanju zadataka, Gab AI Inc će dobijati URL-ove i sadržaj sajtova na kojima koristite Pomoćnik, kao i informacije koje pošaljete preko Pomoćnika</translation>
+<translation id="9037412730408024068">Da bi vam pomogao u obavljanju zadataka, Fulldive će dobijati URL-ove i sadržaj sajtova na kojima koristite Pomoćnik, kao i informacije koje pošaljete preko Pomoćnika</translation>
 <translation id="4565206163201411670">Želite li da se Fulldive aktivnosti prikazuju u Digitalnom blagostanju?</translation>
-<translation id="9055113864158719823">Možete da vidite sajtove koje posećujete u Fulldive-u i da podesite tajmere za njih.\n\nGab AI Inc dobija informacije o sajtovima za koje podesite tajmere i o tome koliko dugo ih posećujete. Te informacije se koriste za poboljšanje Digitalnog blagostanja.</translation>
+<translation id="9055113864158719823">Možete da vidite sajtove koje posećujete u Fulldive-u i da podesite tajmere za njih.\n\nFulldive dobija informacije o sajtovima za koje podesite tajmere i o tome koliko dugo ih posećujete. Te informacije se koriste za poboljšanje Digitalnog blagostanja.</translation>
 <translation id="4596514158372210596">Uklonite Fulldive aktivnosti iz Digitalnog blagostanja</translation>
 <translation id="1174893863889683998">Želite li da uklonite Fulldive aktivnosti iz Digitalnog blagostanja?</translation>
 <translation id="708829030563435351">Sajtovi koje posećujete u Fulldive-u se neće prikazivati. Biće izbrisani tajmeri za sve sajtove.</translation>
@@ -1110,7 +1110,7 @@ Samo vi možete da vidite prikaz kamere. Sajt ne može da vidi slike kamere.</tr
 <translation id="7173114856073700355">Otvori Podešavanja</translation>
 <translation id="1311657260431405215">Ovaj QR kôd nije URL: <ph name="QRCODEVALUE"/></translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
-<translation id="7339921667754113786">Gab AI Inc platforma za obaveštenja</translation>
+<translation id="7339921667754113786">Fulldive platforma za obaveštenja</translation>
 <translation id="8516012719330875537">Uređivač slika</translation>
 <translation id="8926666909099850184">NFC je isključen za ovaj uređaj. Uključite ga u <ph name="BEGIN_LINK"/>Android podešavanjima<ph name="END_LINK"/>.</translation>
 <translation id="4808319664292298116">Želite da aktivirate VR sa <ph name="DOMAIN"/>?</translation>

@@ -10,7 +10,7 @@
 <translation id="4847979153841887006">Fulldive-logotyp</translation>
 <translation id="7339898014177206373">Nytt fönster</translation>
 <translation id="5516268345616100622">Aktivitetshanteraren – Fulldive</translation>
-<translation id="7918740962659365265">Hjälp oss att göra Fulldive bättre genom att skicka felrapporter och <ph name="UMA_LINK"/> till Gab AI Inc</translation>
+<translation id="7918740962659365265">Hjälp oss att göra Fulldive bättre genom att skicka felrapporter och <ph name="UMA_LINK"/> till Fulldive</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> – Fulldive</translation>
 <translation id="7830723774663008396">Fulldive – <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – nätverksinloggning – Fulldive</translation>
@@ -36,7 +36,7 @@
 <translation id="2585240446624043880">Fulldive kan inte läsa och skriva till datakatalogen:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Valfritt: Hjälp till att göra Fulldive bättre genom att automatiskt skicka användningsstatistik och felrapporter till Gab AI Inc.</translation>
+<translation id="8417700129970341035">Valfritt: Hjälp till att göra Fulldive bättre genom att automatiskt skicka användningsstatistik och felrapporter till Fulldive.</translation>
 <translation id="1489465648257900784">Din profil kan inte användas eftersom den kommer från en nyare version av Fulldive.
 
 Vissa funktioner är kanske inte tillgängliga. Ange en annan profilkatalog eller använd en nyare version av Fulldive.</translation>
@@ -47,7 +47,7 @@ Vissa funktioner kanske inte är tillgängliga och ändringar i inställningarna
 
 Fulldive kan inte återställa dina inställningar.</translation>
 <translation id="1477146545787277177">Hoppsan! Fulldive har kraschat. Vill du starta om nu?</translation>
-<translation id="5785919770853225148">Det här lösenordet sparas i ditt Gab AI Inc-konto. Du behöver inte komma ihåg det.</translation>
+<translation id="5785919770853225148">Det här lösenordet sparas i ditt Fulldive-konto. Du behöver inte komma ihåg det.</translation>
 <translation id="8211837073776713955">Om dina lösenord någonsin skulle läcka ut får du veta det i Fulldive</translation>
 <translation id="113959764510199339">Fulldive försöker visa lösenord.</translation>
 <translation id="96347285368592620">Lösenorden i Fulldive kopieras.</translation>
@@ -88,7 +88,7 @@ Fulldive kan inte återställa dina inställningar.</translation>
 <translation id="9183662282810237335">Vill du avsluta Fulldive ändå?</translation>
 <translation id="3834935463915107022">Vill du avsluta Fulldive ändå?</translation>
 <translation id="8797356639448065696">Fulldive körs i bakgrundsläge.</translation>
-<translation id="2339258256897053758">Gab AI Incs API-nycklar saknas. Vissa funktioner i Gab AI Inc Fulldive kommer att vara inaktiverade.</translation>
+<translation id="2339258256897053758">Fulldives API-nycklar saknas. Vissa funktioner i Fulldive Fulldive kommer att vara inaktiverade.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> har lagts till i Fulldive</translation>
 <translation id="8516116288943000095">Rensa även data från Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Dölj i Fulldive-menyn</translation>
@@ -112,8 +112,8 @@ Fulldive kan inte återställa dina inställningar.</translation>
 <translation id="2925193881330501265">Du var inloggad i Fulldive som <ph name="USER_EMAIL_ADDRESS"/>. Använd samma konto när du loggar in igen.</translation>
 <translation id="847561904663814268">Någon har tidigare loggat in i Fulldive som <ph name="ACCOUNT_EMAIL_LAST"/> på den här datorn. Skapa en ny Fulldive-användare så att dina uppgifter hålls separat.</translation>
 <translation id="1853997773668795891">Vill du koppla dina uppgifter i Fulldive till det här kontot?</translation>
-<translation id="1326766910007115955">Du loggar in med ett hanterat konto och ger dess administratör kontroll över din Fulldive-profil. Dina uppgifter i Fulldive, t.ex. dina appar, bokmärken, din historik, ditt lösenord och andra inställningar, kopplas då permanent till <ph name="USER_NAME"/>. Du kommer att kunna ta bort dessa uppgifter via instrumentpanelen i Gab AI Inc Konton, men du kommer inte att kunna koppla dem till något annat konto. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Du loggar in med ett hanterat konto och ger dess administratör kontroll över din Fulldive-profil. Dina uppgifter i Fulldive, t.ex. dina appar, bokmärken, din historik, ditt lösenord och andra inställningar, kopplas då permanent till <ph name="USER_NAME"/>. Du kommer att kunna ta bort dessa uppgifter via instrumentpanelen i Gab AI Inc Konton, men du kommer inte att kunna koppla dem till något annat konto. Du kan skapa en ny profil om du vill hålla dina befintliga Fulldive-uppgifter separata. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Du loggar in med ett hanterat konto och ger dess administratör kontroll över din Fulldive-profil. Dina uppgifter i Fulldive, t.ex. dina appar, bokmärken, din historik, ditt lösenord och andra inställningar, kopplas då permanent till <ph name="USER_NAME"/>. Du kommer att kunna ta bort dessa uppgifter via instrumentpanelen i Fulldive Konton, men du kommer inte att kunna koppla dem till något annat konto. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Du loggar in med ett hanterat konto och ger dess administratör kontroll över din Fulldive-profil. Dina uppgifter i Fulldive, t.ex. dina appar, bokmärken, din historik, ditt lösenord och andra inställningar, kopplas då permanent till <ph name="USER_NAME"/>. Du kommer att kunna ta bort dessa uppgifter via instrumentpanelen i Fulldive Konton, men du kommer inte att kunna koppla dem till något annat konto. Du kan skapa en ny profil om du vill hålla dina befintliga Fulldive-uppgifter separata. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Systemadministratören har konfigurerat Fulldive så att <ph name="TARGET_URL_HOSTNAME"/> öppnas i en annan webbläsare.</translation>
 <translation id="5380963249588143069">Systemadministratören har konfigurerat Fulldive så att <ph name="TARGET_URL_HOSTNAME"/> öppnas i <ph name="ALTERNATIVE_BROWSER_NAME"/>.</translation>
 <translation id="2591326305549412656">Fulldive användes tidigare av <ph name="USER_EMAIL_ADDRESS"/></translation>
@@ -137,7 +137,7 @@ Fulldive kan inte återställa dina inställningar.</translation>
 <translation id="239760341987199724">Använd Fulldive som standardwebbläsare</translation>
 <translation id="669092380621816981">Den här personens webbläsardata tas bort från enheten. Logga in i Fulldive som <ph name="USER_EMAIL"/> om du vill återställa data.</translation>
 <translation id="2827121003398607864">Vi har förbättrat Fulldive</translation>
-<translation id="7192666605334070839">Nu är det enklare att använda Fulldive med ditt Gab AI Inc-konto och på delade datorer.</translation>
+<translation id="7192666605334070839">Nu är det enklare att använda Fulldive med ditt Fulldive-konto och på delade datorer.</translation>
 <translation id="4100716194836114130">Det här är Fulldive</translation>
 <translation id="3511996232906761537">Här finns webben, bokmärken och allt annat du använder Fulldive till.</translation>
 <translation id="7406627712452599344">Gäster kan använda Fulldive utan att lämna spår efter sig.</translation>
@@ -158,9 +158,9 @@ Fulldive kan inte återställa dina inställningar.</translation>
 <translation id="7272074097076644710">Regel som tillåter inkommande mDNS-trafik för Fulldive Beta.</translation>
 <translation id="4991512282053949769">Regel som tillåter inkommande mDNS-trafik för Fulldive Nightly.</translation>
 <translation id="3856641371299712128">Regel som tillåter inkommande mDNS-trafik för Fulldive Dev.</translation>
-<translation id="8207657266087451193">Om en bild inte har någon användbar beskrivning görs ett försök att beskriva den åt dig i Fulldive. Bilderna skickas till Gab AI Inc så att beskrivningen kan genereras. Du kan när som helst inaktivera den här inställningen.</translation>
-<translation id="5499063270485366718">Om en bild inte har någon användbar beskrivning görs ett försök att beskriva den åt dig i Fulldive. Bilderna skickas till Gab AI Inc så att beskrivningen kan genereras.</translation>
-<translation id="215320507915280336">Detta använder samma stavningskontroll som Gab AI Inc Sök. Text som du skriver i webbläsaren skickas till Gab AI Inc. Du kan när som helst ändra detta i inställningarna.</translation>
+<translation id="8207657266087451193">Om en bild inte har någon användbar beskrivning görs ett försök att beskriva den åt dig i Fulldive. Bilderna skickas till Fulldive så att beskrivningen kan genereras. Du kan när som helst inaktivera den här inställningen.</translation>
+<translation id="5499063270485366718">Om en bild inte har någon användbar beskrivning görs ett försök att beskriva den åt dig i Fulldive. Bilderna skickas till Fulldive så att beskrivningen kan genereras.</translation>
+<translation id="215320507915280336">Detta använder samma stavningskontroll som Fulldive Sök. Text som du skriver i webbläsaren skickas till Fulldive. Du kan när som helst ändra detta i inställningarna.</translation>
 <translation id="1807774211756215222">Öppna länken i en ny &amp;flik i Fulldive</translation>
 <translation id="4624945300945265642">Öppna länken i ett inko&amp;gnitofönster i Fulldive.</translation>
 <translation id="7863882214613921971">Öppna länken i en ny &amp;flik i Fulldive</translation>
@@ -214,7 +214,7 @@ Fulldive kan inte återställa dina inställningar.</translation>
 <translation id="7573289029918943991">Om du vill se om enheten är uppdaterad öppnar du <ph name="LINK_BEGIN"/>inställningarna för Fulldive OS<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Få hjälp med Fulldive OS</translation>
 <translation id="38898988211673781">Radera cookies och webbplatsdata när du avslutar Fulldive</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (har kopierats till Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (har kopierats till Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive är din standardwebbläsare</translation>
 <translation id="1775322105159056176">Fulldive kan inte fastställa eller ange standardwebbläsaren</translation>
 <translation id="6915252145142862992">Det här är en sekundär installation av Fulldive. Det går inte att göra den till standardwebbläsare.</translation>
@@ -222,10 +222,10 @@ Fulldive kan inte återställa dina inställningar.</translation>
       inställningarna för webbläsaren Fulldive<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Om en inställning saknas på den här sidan tittar du i <ph name="LINK_BEGIN"/>
       inställningarna för Fulldive OS<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Fulldive skickar det du skriver i textfält till Gab AI Inc för att kontrollera stavningen</translation>
+<translation id="2312399718665761438">Fulldive skickar det du skriver i textfält till Fulldive för att kontrollera stavningen</translation>
 <translation id="8586264863973514035">Ändringarna tillämpas när du startar om Fulldive</translation>
 <translation id="7021823858304886493">Tillåt inloggning i Fulldive</translation>
-<translation id="1649714546770135458">Om du inaktiverar detta kan du logga in på Gab AI Incs webbplatser, till exempel Gmail, utan att logga in i Fulldive</translation>
+<translation id="1649714546770135458">Om du inaktiverar detta kan du logga in på Fulldives webbplatser, till exempel Gmail, utan att logga in i Fulldive</translation>
 <translation id="2796517443093885402">Fulldive kan skydda dig från dataintrång, olämpliga tillägg med mera</translation>
 <translation id="428541510811554120">Fulldive kan inte söka efter uppdateringar. Testa att kontrollera internetanslutningen.</translation>
 <translation id="2633397153656205379">Ett fel uppstod och Fulldive uppdaterades inte. <ph name="BEGIN_LINK"/>Åtgärda uppdateringsproblem och misslyckade uppdateringar i Fulldive<ph name="END_LINK"/>.</translation>

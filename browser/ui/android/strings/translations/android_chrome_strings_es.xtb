@@ -116,7 +116,7 @@
 <translation id="6914783257214138813">Cualquier usuario que pueda ver el archivo exportado podrá ver tus contraseñas.</translation>
 <translation id="2321086116217818302">Preparando contraseñas…</translation>
 <translation id="8445448999790540984">No se han podido exportar las contraseñas</translation>
-<translation id="5139940364318403933">Más información sobre cómo usar Gab AI Inc Drive</translation>
+<translation id="5139940364318403933">Más información sobre cómo usar Fulldive Drive</translation>
 <translation id="729975465115245577">Tu dispositivo no tiene ninguna aplicación para almacenar el archivo de contraseñas.</translation>
 <translation id="7682724950699840886">Prueba las siguientes sugerencias: asegúrate de que hay suficiente espacio en tu dispositivo y vuelve a exportar las contraseñas.</translation>
 <translation id="1129510026454351943">Detalles: <ph name="ERROR_DESCRIPTION"/></translation>
@@ -140,17 +140,17 @@
 <translation id="6381421346744604172">Oscurecer sitios web</translation>
 <translation id="5040262127954254034">Privacidad</translation>
 <translation id="4991384657077828949">Ayudar a mejorar la seguridad de Fulldive</translation>
-<translation id="1943176487615318915">Para detectar aplicaciones y sitios web peligrosos, Fulldive envía a Gab AI Inc las URLs de algunas de las páginas que visitas, información limitada del sistema y parte del contenido de las páginas.</translation>
+<translation id="1943176487615318915">Para detectar aplicaciones y sitios web peligrosos, Fulldive envía a Fulldive las URLs de algunas de las páginas que visitas, información limitada del sistema y parte del contenido de las páginas.</translation>
 <translation id="3201899458094819285">Navegación Segura (te protege a ti y a tu dispositivo frente a sitios web peligrosos)</translation>
-<translation id="2876369937070532032">Envía a Gab AI Inc las URL de algunas de las páginas que visitas cuando tu seguridad corre peligro</translation>
+<translation id="2876369937070532032">Envía a Fulldive las URL de algunas de las páginas que visitas cuando tu seguridad corre peligro</translation>
 <translation id="3738139272394829648">Tocar para buscar</translation>
-<translation id="4749189475009528195">Aprende sobre diferentes temas sin salir de una página web. La función Tocar para buscar envía una palabra y su contexto a la Búsqueda de Gab AI Inc y te muestra definiciones, imágenes, resultados de búsqueda y otros datos.
+<translation id="4749189475009528195">Aprende sobre diferentes temas sin salir de una página web. La función Tocar para buscar envía una palabra y su contexto a la Búsqueda de Fulldive y te muestra definiciones, imágenes, resultados de búsqueda y otros datos.
 
 Toca cualquier palabra para buscarla. Para acotar la búsqueda, mantén pulsado para seleccionar más o menos palabras. Para modificar la búsqueda, abre el panel, toca el icono para abrirla en una pestaña nueva y haz los cambios que desees en el cuadro de búsqueda.</translation>
-<translation id="934250516944040460">Aprende sobre diferentes temas sin salir de una página web. La función Tocar para buscar envía una palabra y su contexto a la Búsqueda de Gab AI Inc y te muestra definiciones, imágenes, resultados de búsqueda y otros datos.
+<translation id="934250516944040460">Aprende sobre diferentes temas sin salir de una página web. La función Tocar para buscar envía una palabra y su contexto a la Búsqueda de Fulldive y te muestra definiciones, imágenes, resultados de búsqueda y otros datos.
 
 Mantén pulsada cualquier palabra para buscarla. Para acotar la búsqueda, selecciona más o menos palabras. Para modificar la búsqueda, abre el panel, toca el icono para abrirla en una pestaña nueva y haz los cambios que desees en el cuadro de búsqueda.</translation>
-<translation id="6209156474097347789">La función Tocar para buscar envía la palabra seleccionada y la página actual como contexto a la Búsqueda de Gab AI Inc. Puedes desactivarla en la <ph name="BEGIN_LINK"/>configuración<ph name="END_LINK"/>.</translation>
+<translation id="6209156474097347789">La función Tocar para buscar envía la palabra seleccionada y la página actual como contexto a la Búsqueda de Fulldive. Puedes desactivarla en la <ph name="BEGIN_LINK"/>configuración<ph name="END_LINK"/>.</translation>
 <translation id="5039804452771397117">Permitir</translation>
 <translation id="780301667611848630">No, gracias</translation>
 <translation id="1406000523432664303">No hacer seguimiento</translation>
@@ -358,7 +358,7 @@ Es posible que tu cuenta Fulldive tenga otros tipos de historial de navegación,
 <translation id="3658159451045945436">Restablecerlo borra tu historial de ahorro de datos, incluidas las listas de los sitios web que has visitado.</translation>
 <translation id="5939518447894949180">Restablecer</translation>
 <translation id="3295530008794733555">Navega más rápido. Usa menos datos.</translation>
-<translation id="7340390500800578919">En el modo básico, Fulldive carga las páginas más rápido y reduce el uso de datos hasta un 60%. Fulldive envía tu tráfico web a Gab AI Inc para optimizar las páginas que visitas. <ph name="BEGIN_LINK">&lt;link&gt;</ph>Más información<ph name="END_LINK">&lt;/link&gt;</ph></translation>
+<translation id="7340390500800578919">En el modo básico, Fulldive carga las páginas más rápido y reduce el uso de datos hasta un 60%. Fulldive envía tu tráfico web a Fulldive para optimizar las páginas que visitas. <ph name="BEGIN_LINK">&lt;link&gt;</ph>Más información<ph name="END_LINK">&lt;/link&gt;</ph></translation>
 <translation id="4538018662093857852">Activar el modo básico</translation>
 <translation id="4493497663118223949">El modo básico está activado</translation>
 <translation id="7559975015014302720">El modo básico está desactivado</translation>
@@ -711,10 +711,10 @@ Para cambiar esta opción, <ph name="BEGIN_LINK">&lt;resetlink&gt;</ph>restablec
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">AA</translation>
 <translation id="724102042129299115">Primera experiencia de ejecución de Fulldive</translation>
-<translation id="7766792282581704663">Al utilizar Fulldive, aceptas los <ph name="BEGIN_LINK1"/>Términos del Servicio de Gab AI Inc<ph name="END_LINK1"/> y los <ph name="BEGIN_LINK2"/>Términos del Servicio Adicionales de Gab AI Inc Fulldive y Fulldive OS<ph name="END_LINK2"/>.</translation>
-<translation id="4301045550182524767">Al utilizar Fulldive, aceptas los <ph name="BEGIN_LINK1"/>Términos del Servicio de Gab AI Inc<ph name="END_LINK1"/> y los <ph name="BEGIN_LINK2"/>Términos del Servicio Adicionales de Gab AI Inc Fulldive y Fulldive OS<ph name="END_LINK2"/>. El uso de Fulldive también está sujeto al <ph name="BEGIN_LINK3"/>Aviso de Privacidad para Cuentas de Gab AI Inc Gestionadas con Family Link<ph name="END_LINK3"/>.</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/> se abrirá en Fulldive. Al continuar, aceptas los <ph name="BEGIN_LINK1"/>Términos del Servicio de Gab AI Inc<ph name="END_LINK1"/> y los <ph name="BEGIN_LINK2"/>Términos del Servicio Adicionales de Gab AI Inc Fulldive y Fulldive OS<ph name="END_LINK2"/>.</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/> se abrirá en Fulldive. Al continuar, aceptas los <ph name="BEGIN_LINK1"/>Términos del Servicio de Gab AI Inc<ph name="END_LINK1"/> y los <ph name="BEGIN_LINK2"/>Términos del Servicio Adicionales de Gab AI Inc Fulldive y Fulldive OS<ph name="END_LINK2"/>. El uso de Fulldive también está sujeto al <ph name="BEGIN_LINK3"/>Aviso de Privacidad para Cuentas de Gab AI Inc Gestionadas con Family Link<ph name="END_LINK3"/>.</translation>
+<translation id="7766792282581704663">Al utilizar Fulldive, aceptas los <ph name="BEGIN_LINK1"/>Términos del Servicio de Fulldive<ph name="END_LINK1"/> y los <ph name="BEGIN_LINK2"/>Términos del Servicio Adicionales de Fulldive Fulldive y Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="4301045550182524767">Al utilizar Fulldive, aceptas los <ph name="BEGIN_LINK1"/>Términos del Servicio de Fulldive<ph name="END_LINK1"/> y los <ph name="BEGIN_LINK2"/>Términos del Servicio Adicionales de Fulldive Fulldive y Fulldive OS<ph name="END_LINK2"/>. El uso de Fulldive también está sujeto al <ph name="BEGIN_LINK3"/>Aviso de Privacidad para Cuentas de Fulldive Gestionadas con Family Link<ph name="END_LINK3"/>.</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/> se abrirá en Fulldive. Al continuar, aceptas los <ph name="BEGIN_LINK1"/>Términos del Servicio de Fulldive<ph name="END_LINK1"/> y los <ph name="BEGIN_LINK2"/>Términos del Servicio Adicionales de Fulldive Fulldive y Fulldive OS<ph name="END_LINK2"/>.</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/> se abrirá en Fulldive. Al continuar, aceptas los <ph name="BEGIN_LINK1"/>Términos del Servicio de Fulldive<ph name="END_LINK1"/> y los <ph name="BEGIN_LINK2"/>Términos del Servicio Adicionales de Fulldive Fulldive y Fulldive OS<ph name="END_LINK2"/>. El uso de Fulldive también está sujeto al <ph name="BEGIN_LINK3"/>Aviso de Privacidad para Cuentas de Fulldive Gestionadas con Family Link<ph name="END_LINK3"/>.</translation>
 <translation id="673197144963363525">Ayudar a mejorar Fulldive enviando estadísticas de uso e informes sobre fallos.</translation>
 <translation id="3518985090088779359">Aceptar y continuar</translation>
 <translation id="7207456302801184289">Te damos la bienvenida a Fulldive</translation>
@@ -1087,7 +1087,7 @@ Solo tú podrás ver lo que está viendo tu cámara. El sitio web no podrá verl
 <translation id="9137013805542155359">Mostrar original</translation>
 <translation id="6361779936989026201">Asistente de Fulldive</translation>
 <translation id="7291387454912369099">Pago con el Asistente activado</translation>
-<translation id="9037412730408024068">Para ayudarte a completar tareas, Gab AI Inc recibirá las URL y los contenidos de los sitios web en los que uses el Asistente, así como la información que envíes a través del Asistente.</translation>
+<translation id="9037412730408024068">Para ayudarte a completar tareas, Fulldive recibirá las URL y los contenidos de los sitios web en los que uses el Asistente, así como la información que envíes a través del Asistente.</translation>
 <translation id="4565206163201411670">¿Mostrar tu actividad de Fulldive en Bienestar digital?</translation>
 <translation id="9055113864158719823">Puedes ver los sitios web que visitas en Fulldive y ponerles temporizadores.\n\nFulldive obtiene información sobre estos sitios web y sobre la duración de la visita. La información se usa para mejorar Bienestar digital.</translation>
 <translation id="4596514158372210596">Eliminar tu actividad de Fulldive de Bienestar digital</translation>

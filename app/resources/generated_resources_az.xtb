@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">Heç bir axtarış nəticəsi tapılmadı</translation>
 <translation id="8967866634928501045">Göstərmək üçün Alt Shift A düymələrinə basın</translation>
 <translation id="998747458861718449">Yoxlayın</translation>
-<translation id="4428301600092811022">Gab AI Inc'dan şəkil təsvirləri əldə etmək istəyirsiniz?</translation>
+<translation id="4428301600092811022">Fulldive'dan şəkil təsvirləri əldə etmək istəyirsiniz?</translation>
 <translation id="741204030948306876">Bəli, razıyam</translation>
 <translation id="780301667611848630">Yox, çox sağ olun</translation>
 <translation id="3943582379552582368">Geri</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">&amp;Yerləşdirin</translation>
 <translation id="2218515861914035131">Tam mətn olaraq yerləşdirin</translation>
 <translation id="1017280919048282932">Lüğətə əlavə edin</translation>
-<translation id="1732768497619250086">Gab AI Inc'dan şəkil təsvirlərini əldə edin</translation>
+<translation id="1732768497619250086">Fulldive'dan şəkil təsvirlərini əldə edin</translation>
 <translation id="7561196759112975576">Həmişə</translation>
 <translation id="2241634353105152135">Sadəcə bir dəfə</translation>
 <translation id="3387614642886316601">Təkmilləşdirilmiş orfoqrafik yoxlanışdan istifadə edin</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">Aktiv edin</translation>
 <translation id="7658239707568436148">Ləğv edin</translation>
 <translation id="8915370057835397490">Təklif yüklənir</translation>
-<translation id="6191804255817539692">Gab AI Inc'dan daha təklif yoxdur</translation>
+<translation id="6191804255817539692">Fulldive'dan daha təklif yoxdur</translation>
 <translation id="1901303067676059328">Hamısını seçin</translation>
 <translation id="3797900183766075808">“<ph name="SEARCH_TERMS"/>” üçün <ph name="SEARCH_ENGINE"/> axtarın</translation>
 <translation id="2721037002783622288"><ph name="SEARCH_ENGINE"/> şəkil axtarır</translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">&amp;Yerləşdirin</translation>
 <translation id="1815083418640426271">Sadə Mətn Kimi Yerləşdirin</translation>
 <translation id="4022426551683927403">&amp;Lüğətə əlavə edin</translation>
-<translation id="6849870115130610913">Gab AI Inc'dan Şəkil Təsvirləri əldə edin</translation>
+<translation id="6849870115130610913">Fulldive'dan Şəkil Təsvirləri əldə edin</translation>
 <translation id="372722114124766626">Sadəcə bir dəfə</translation>
 <translation id="4079140982534148664">Təkmilləşdirilmiş Orfoqrafik Yoxlanışdan İstifadə Edin</translation>
 <translation id="7487141338393529395">Təkmilləşdirilmiş Orfoqrafik Yoxlanışı Aktiv Edin</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/> həssas məzmun ehtiva edir.</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/> həssas məzmun ehtiva edir və bloklanıb.</translation>
 <translation id="6651823585377804376">Endirmə zərərli proqram ehtiva edir.</translation>
-<translation id="6529597483902964581"><ph name="FILE_NAME"/> təhlükəli ola bilər. Skanlanması üçün Gab AI Inc Qabaqcıl Qorumaya göndərilsin?</translation>
+<translation id="6529597483902964581"><ph name="FILE_NAME"/> təhlükəli ola bilər. Skanlanması üçün Fulldive Qabaqcıl Qorumaya göndərilsin?</translation>
 <translation id="4907161631261076876">Bu tətbiq adətən endirilmir və təhlükəli ola bilər.</translation>
 <translation id="6102043788063419338">Bu fayl Qabaqcıl Qorunma tərəfindən blok edilib</translation>
 <translation id="2773802008104670137">Bu növ fayl kompüterə zərər vura bilər.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Endirmə ləğv edildi: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Endirmə tamamlandı: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Endirmə tamamlandı: <ph name="FILE_NAME"/>. Endirmələr panelinə keçmək üçün Shift+F6 düymələrinə basın.</translation>
-<translation id="7033965027041115562"><ph name="FILE_NAME"/> təhlükəli ola bilər. Skanlanması üçün Gab AI Inc Qabaqcıl Qorumaya göndərilsin? Endirmələr paneli sahəsinə keçmək üçün Shift+F6 üzərinə basın.</translation>
+<translation id="7033965027041115562"><ph name="FILE_NAME"/> təhlükəli ola bilər. Skanlanması üçün Fulldive Qabaqcıl Qorumaya göndərilsin? Endirmələr paneli sahəsinə keçmək üçün Shift+F6 üzərinə basın.</translation>
 <translation id="2743387203779672305">Buferə kopyalayın</translation>
 <translation id="883911313571074303">Şəklə qeydlər edin</translation>
 <translation id="6291953229176937411">&amp;Axtarıcıda göstərin</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">Çıxış</translation>
 <translation id="7376221878517288144">İstənilən halda gizli rejimdən çıxılsın?</translation>
 <translation id="973473557718930265">Tərk edin</translation>
-<translation id="7707599169365957976">Bəzi sistem məlumatı və səhifə kontentini Gab AI Inc'a göndərməklə Güvənli Axtarışı təkmilləşdirin.</translation>
+<translation id="7707599169365957976">Bəzi sistem məlumatı və səhifə kontentini Fulldive'a göndərməklə Güvənli Axtarışı təkmilləşdirin.</translation>
 <translation id="4923279099980110923">Bəli, kömək etmək istəyirəm</translation>
 <translation id="2316129865977710310">Yox, çox sağ olun</translation>
 <translation id="9169931577761441333">Əsas Səhifə ekranına <ph name="APP_NAME"/> əlavə edin</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">"<ph name="THEME_NAME"/>" quraşdırıldı</translation>
 <translation id="2256115617011615191">İndi yenidən başladın</translation>
 <translation id="4545028762441890696">Onu təkrar aktiv etmək üçün yeni icazələri qəbul edin:</translation>
-<translation id="3009487527589249344">Gab AI Inc <ph name="EXTENSION_NAME"/> adlı artırmanı zərərli qeyd edərək quraşdırmanı ləğv etdi</translation>
+<translation id="3009487527589249344">Fulldive <ph name="EXTENSION_NAME"/> adlı artırmanı zərərli qeyd edərək quraşdırmanı ləğv etdi</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> uzaqdan əlavə edildi</translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> deaktiv edildi</translation>
 <translation id="595959584676692139">Bu artırmadan istifadə etmək üçün səhifəni yenidən yükləyin</translation>
@@ -966,7 +966,7 @@
 <translation id="3584169441612580296">Kompüterinizdə foto, musiqi və digər medianı oxuyun və dəyişin</translation>
 <translation id="5457459357461771897">Kompüterinizdə foto, musiqi və digər medianı oxuyun və silin</translation>
 <translation id="3270965368676314374">Kompüterinizdə foto, musiqi və digər medianı oxuyun, dəyişin və silin</translation>
-<translation id="1285484354230578868">Gab AI Inc Disk hesabınızda datanı saxlayın</translation>
+<translation id="1285484354230578868">Fulldive Disk hesabınızda datanı saxlayın</translation>
 <translation id="378312418865624974">Bu kompüter üçün unikal identifikatoru oxuyun</translation>
 <translation id="5094721898978802975">Nativ tətbiqlərlə əməkdaşlıqla ünsiyyət qurun</translation>
 <translation id="4876895919560854374">Ekranı kiliddəyin və kiliddən çıxarın</translation>
@@ -1175,7 +1175,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="8756969031206844760">Parol yenilənsin?</translation>
 <translation id="8230134520748321204"><ph name="ORIGIN"/> üçün parol yadda saxlanılsın?</translation>
 <translation id="9040661932550800571"><ph name="ORIGIN"/> üçün parol yenilənsin?</translation>
-<translation id="8284000761603848448">Parollar Gab AI Inc Hesabınızda yadda saxlanılıb, beləliklə, onları istənilən cihazda istifadə edə bilərsiniz</translation>
+<translation id="8284000761603848448">Parollar Fulldive Hesabınızda yadda saxlanılıb, beləliklə, onları istənilən cihazda istifadə edə bilərsiniz</translation>
 <translation id="8286036467436129157">Giriş</translation>
 <translation id="8009225694047762179">Parolları İdarə edin</translation>
 <translation id="3950820424414687140">Giriş</translation>
@@ -1183,10 +1183,10 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="328571385944182268">Parollar yadda saxlanılsın?</translation>
 <translation id="3753033997400164841">Bir dəfə saxlayın. Hər yerdə istifadə edin</translation>
 <translation id="1703331064825191675">Parollarınız barədə narahat olmağınıza ehtiyac qalmayacaq</translation>
-<translation id="2341030170677284705">Parolları Gab AI Inc Hesabınızda təhlükəsiz şəkildə yadda saxlayın, onları yenidən daxil etməli olmayacaqsınız</translation>
-<translation id="3913985461352963178">Gab AI Inc Hesabına hər dəfə daxil olduğunuz zaman parollarınızı əldə edin</translation>
-<translation id="4851124464356820177">Parolları Gab AI Inc Hesabınızda saxlamaq üçün giriş edin və sinxronlaşdırmanı aktiv edin.</translation>
-<translation id="3229869963989850535">Parolları Gab AI Inc Hesabınızda saxlamaq üçün sinxronlaşdırmanı aktiv edin.</translation>
+<translation id="2341030170677284705">Parolları Fulldive Hesabınızda təhlükəsiz şəkildə yadda saxlayın, onları yenidən daxil etməli olmayacaqsınız</translation>
+<translation id="3913985461352963178">Fulldive Hesabına hər dəfə daxil olduğunuz zaman parollarınızı əldə edin</translation>
+<translation id="4851124464356820177">Parolları Fulldive Hesabınızda saxlamaq üçün giriş edin və sinxronlaşdırmanı aktiv edin.</translation>
+<translation id="3229869963989850535">Parolları Fulldive Hesabınızda saxlamaq üçün sinxronlaşdırmanı aktiv edin.</translation>
 <translation id="1056466516655540509"><ph name="MINUTES"/> dəqiqə əvvəl yeniləndi</translation>
 <translation id="8743864605301774756">1 saat əvvəl yenilənib</translation>
 <translation id="7363117941401515667"><ph name="HOURS"/> saat əvvəl yeniləndi</translation>
@@ -1290,9 +1290,9 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="1246905108078336582">Təklif mübadilə buferindən silinsin?</translation>
 <translation id="825238165904109940">Həmişə Tam URL'ləri Göstərin</translation>
 <translation id="3416468988018290825">Həmişə tam URL'ləri göstərin</translation>
-<translation id="2129873093718581193">Gab AI Inc'da axtarın və ya link yazın</translation>
-<translation id="6363797201514053536">Gab AI Inc'da axtarın və ya link yazın</translation>
-<translation id="4888839742663123585">Gab AI Inc'da axtarın</translation>
+<translation id="2129873093718581193">Fulldive'da axtarın və ya link yazın</translation>
+<translation id="6363797201514053536">Fulldive'da axtarın və ya link yazın</translation>
+<translation id="4888839742663123585">Fulldive'da axtarın</translation>
 <translation id="6078323886959318429">Qısayol əlavə edin</translation>
 <translation id="6324916366299863871">Qısayola düzəliş edin</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1476,35 +1476,35 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="6798578729981748444">İmportu tamamlamaq üçün bütün Firefox pəncərələrini bağlayın</translation>
 <translation id="6374469231428023295">Yenidən cəhd edin</translation>
 <translation id="8725066075913043281">Yenidən cəhd edin</translation>
-<translation id="4196805003686694274">Gab AI Inc'a Rəy göndərin</translation>
+<translation id="4196805003686694274">Fulldive'a Rəy göndərin</translation>
 <translation id="3424969259347320884">Tabda Xəta Baş Verdiyi Zaman Nə Etdiyinizi Təsvir Edin</translation>
-<translation id="1892630320532151038">Gab AI Inc'a rəy göndərin</translation>
+<translation id="1892630320532151038">Fulldive'a rəy göndərin</translation>
 <translation id="2428510569851653187">Tabda xəta baş verdiyi zaman nə etdiyinizi təsvir edin</translation>
 <translation id="5659593005791499971">E-poçt</translation>
 <translation id="2982970937345031">Anonim olaraq bildirin</translation>
 <translation id="6076448957780543068">Bu ani görüntünü daxil edin</translation>
 <translation id="2865919525181940183">Hazırda ekranda olan proqramların ekran şəkli</translation>
 <translation id="7052237160939977163">Performans izləmə datasını göndərin</translation>
-<translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth Girişləri<ph name="END_LINK"/> əlavə edin (Gab AI Inc daxili)</translation>
+<translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth Girişləri<ph name="END_LINK"/> əlavə edin (Fulldive daxili)</translation>
 <translation id="3047644958362961983">Bu məlumat Assistent ilə bağlı problemləri daha yaxşı anlamağımıza kömək edir. Bu, 90 gün saxlanılır. Texniki və rəy komandaları üçün giriş məhduddur.</translation>
-<translation id="8545590844135745781">Gab AI Inc istifadəçiləri Bluetooth problemlərini daha yaxşı müəyyən etmək üçün rəy hesabatları ilə birlikdə əlavə Bluetooth girişləri daxil edə bilər. Bu seçim yoxlandıqda hesabata cari sessiyadan btsnoop və HCI girişləri (mümkün qədər çox PII silmək üçün təmizlənmişdir) əlavə ediləcək. Listnr cihazında Fulldive ƏS məhsul qrupunun menecerləri üçün bu girişlər məhdudlaşdırılıb.</translation>
+<translation id="8545590844135745781">Fulldive istifadəçiləri Bluetooth problemlərini daha yaxşı müəyyən etmək üçün rəy hesabatları ilə birlikdə əlavə Bluetooth girişləri daxil edə bilər. Bu seçim yoxlandıqda hesabata cari sessiyadan btsnoop və HCI girişləri (mümkün qədər çox PII silmək üçün təmizlənmişdir) əlavə ediləcək. Listnr cihazında Fulldive ƏS məhsul qrupunun menecerləri üçün bu girişlər məhdudlaşdırılıb.</translation>
 <translation id="4206323443866416204">Əks Əlaqə</translation>
 <translation id="3681311097828166361">Əks əlaqə üçün təşəkkür edirik. Hazırda oflaynsınız, hesabınız sonra göndəriləcək.</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>Sistem məlumatını<ph name="END_LINK1"/> göndərin</translation>
 <translation id="6395423953133416962"><ph name="BEGIN_LINK1"/>Sistem məlumatı<ph name="END_LINK1"/> və <ph name="BEGIN_LINK2"/>metrikləri<ph name="END_LINK2"/> göndərin</translation>
 <translation id="6270770586500173387"><ph name="BEGIN_LINK1"/>Sistem və tətbiq məlumatı<ph name="END_LINK1"/> və <ph name="BEGIN_LINK2"/>ölçüləri<ph name="END_LINK2"/> göndərin</translation>
 <translation id="3894123633473837029">Sherlog ilə ən son Assistent tarixçəsini daxil edin. Bura kimlik, məkan və sazlama məlumatı aiddir. <ph name="BEGIN_LINK"/>Ətraflı məlumat<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">Fayl sazlama üçün Gab AI Inc'a göndəriləcək</translation>
+<translation id="8329196515830093443">Fayl sazlama üçün Fulldive'a göndəriləcək</translation>
 <translation id="8227119283605456246">Fayl qoşun</translation>
 <translation id="5367091008316207019">Fayl oxunur..</translation>
 <translation id="2554553592469060349">Seçilmiş fayl çox böyükdür. (maks ölçü: 3mb).</translation>
 <translation id="4690091457710545971">&lt;Intel Wi-Fi tərəfindən yaradılan dörd fayl: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon.  İlk üç fayl qeydiyyat materiallarından ibarət ikili fayllardır və Intel iddia edir ki, həmin fayllarda şəxsi, yaxud cihazı müəyyən edən məlumat yoxdur.  Son fayl Intel proqramından icraedilmənin izlənilməsidir; hər hansı şəxsi və ya cihazı müəyyən edən məlumat silinib və burada göstərilə bilməz çünki çox böyükdür.  Bu fayllar cihazınızdakı ən son Wi-Fi problemlərini həll etmək üçün yaradılıb. Həmin problemlərin həll edilməsi üçün fayllar Intel ilə paylaşılacaq.&gt;</translation>
-<translation id="6972420083546794501">Hüquqi səbəblərdən kontent dəyişiklikləri tələb etmək üçün <ph name="BEGIN_LINK1"/>Hüquqi Yardım səhifəsinə<ph name="END_LINK1"/> daxil olun. Bəzi hesab və sistem məlumatı Gab AI Inc'a göndərilə bilər. Verdiyiniz məlumatdan <ph name="BEGIN_LINK2"/>Məxfilik Siyasəti<ph name="END_LINK2"/> və <ph name="BEGIN_LINK3"/>Xidmət Şərtlərinə<ph name="END_LINK3"/> uyğun olaraq texniki məsələləri həll etmək və xidmətlərimizi təkmilləşdirmək üçün istifadə edəcəyik.</translation>
+<translation id="6972420083546794501">Hüquqi səbəblərdən kontent dəyişiklikləri tələb etmək üçün <ph name="BEGIN_LINK1"/>Hüquqi Yardım səhifəsinə<ph name="END_LINK1"/> daxil olun. Bəzi hesab və sistem məlumatı Fulldive'a göndərilə bilər. Verdiyiniz məlumatdan <ph name="BEGIN_LINK2"/>Məxfilik Siyasəti<ph name="END_LINK2"/> və <ph name="BEGIN_LINK3"/>Xidmət Şərtlərinə<ph name="END_LINK3"/> uyğun olaraq texniki məsələləri həll etmək və xidmətlərimizi təkmilləşdirmək üçün istifadə edəcəyik.</translation>
 <translation id="7915471803647590281">Rəy göndərmədən öncə nə baş verdiyini bizə deməyiniz xahiş olunur.</translation>
 <translation id="6885771755599377173">Sistem Məlumatı Önizləməsi</translation>
 <translation id="1016566241875885511">Əlavə məlumat (istəyə bağlı)</translation>
 <translation id="8026334261755873520">Brauzinq datasını təmizləyin</translation>
-<translation id="4718442817388594217">Seçilmiş data Fulldive və sinxronizasiya olunmuş cihazlardan silindi. <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> bölməsində Gab AI Inc Hesabınızın axtarış tarixçəsinin digər formaları ola bilər.</translation>
+<translation id="4718442817388594217">Seçilmiş data Fulldive və sinxronizasiya olunmuş cihazlardan silindi. <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> bölməsində Fulldive Hesabınızın axtarış tarixçəsinin digər formaları ola bilər.</translation>
 <translation id="7814200940910057384">Fulldive datası təmizləndi</translation>
 <translation id="7346909386216857016">Ok, anladım</translation>
 <translation id="8493236660459102203">Mikrofon:</translation>
@@ -1527,7 +1527,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="284805635805850872">Zərərli proqram təminatı silinsin?</translation>
 <translation id="489985760463306091">Zərərli proqram təminatını silmək üçün kompüteri yenidən başladın</translation>
 <translation id="7598466960084663009">Kompüteri yenidən başladın</translation>
-<translation id="2819091349626575960">Detalları Gab AI Inc'a bildirin</translation>
+<translation id="2819091349626575960">Detalları Fulldive'a bildirin</translation>
 <translation id="4099060993766194518">Defolt axtarış sistemi bərpa edilsin?</translation>
 <translation id="138784436342154190">Defolt başlanğıc səhifə bərpa edilsin?</translation>
 <translation id="5086874064903147617">Defolt əsas səhifə bərpa edilsin?</translation>
@@ -1637,10 +1637,10 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="3693415264595406141">Parol:</translation>
 <translation id="9111102763498581341">Kiliddən çıxarın</translation>
 <translation id="2190355936436201913">(boş)</translation>
-<translation id="9079153198295609735">Gab AI Inc'a istifadəçi statistikalarını və qəza raportlarını avtomatik göndərin</translation>
+<translation id="9079153198295609735">Fulldive'a istifadəçi statistikalarını və qəza raportlarını avtomatik göndərin</translation>
 <translation id="7136984461011502314"><ph name="PRODUCT_NAME"/> məhsuluna xoş gəlmisiniz</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> quraşdırmanız tamamlamaq üçün hazırdır</translation>
-<translation id="4711067597921221305">İstifadə statistikası və xəta hesabatlarını avtomatik Gab AI Inc'a göndərməklə <ph name="PRODUCT_NAME"/> tətbiqini təkmilləşdirməyə kömək edin</translation>
+<translation id="4711067597921221305">İstifadə statistikası və xəta hesabatlarını avtomatik Fulldive'a göndərməklə <ph name="PRODUCT_NAME"/> tətbiqini təkmilləşdirməyə kömək edin</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/> başladın</translation>
 <translation id="4876273079589074638">Bu xətanın araşdırılması və aradan qaldırılması üçün mühəndislərimizə yardım edin. Bunu edə bilərsinizsə, dəqiq mərhələləri qeyd edin. Heç bir xırdalığı gözdən qaçırmayın!</translation>
 <translation id="5418694430960033386">Ya Fulldive yaddaşı qurtarıb, ya da sayt üçün proses hansısa səbəbdən dayanıb. Yenidən yükləyin və ya digər səhifəyə keçin.</translation>
@@ -1653,7 +1653,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Platforma</translation>
 <translation id="7022562585984256452">Əsas səhifəniz ayarlandı.</translation>
-<translation id="8069615408251337349">Gab AI Inc Bulud Printi</translation>
+<translation id="8069615408251337349">Fulldive Bulud Printi</translation>
 <translation id="4973307593867026061">Printer əlavə edin</translation>
 <translation id="9052208328806230490"><ph name="EMAIL"/> hesabını istifadə etməklə, printerlərinizi <ph name="CLOUD_PRINT_NAME"/> adı ilə qeydiyyatdan keçirdiniz.</translation>
 <translation id="3792890930871100565">Printer bağlantısını kəsin</translation>
@@ -1687,7 +1687,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="7063129466199351735">Qısayollar icra olunur...</translation>
 <translation id="8987927404178983737">Ay</translation>
 <translation id="6015796118275082299">İl</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Sistem başlıq paneli və hədlər istifadə edin</translation>
 <translation id="3293644607209440645">Bu səhifəni göndərin</translation>
 <translation id="1521774566618522728">Bu gün aktivdir</translation>
@@ -1741,7 +1741,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="8930351635855238750">Səhifə yenidən yükləndikdən sonra yeni kuki ayarları qüvvəyə minəcək</translation>
 <translation id="2568774940984945469">Məlumat paneli konteyneri</translation>
 <translation id="7282992757463864530">Məlumat paneli</translation>
-<translation id="1805077115206898822">Əlfəcin, tarixçə və digər ayarlarınız Gab AI Inc Hesabınıza sinxronizasiya olunacaq.</translation>
+<translation id="1805077115206898822">Əlfəcin, tarixçə və digər ayarlarınız Fulldive Hesabınıza sinxronizasiya olunacaq.</translation>
 <translation id="1974060860693918893">Qabaqcıl</translation>
 <translation id="2445484935443597917">Yeni Profil Yaradın</translation>
 <translation id="2606246518223360146">Link Datası</translation>
@@ -1828,7 +1828,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="6387674443318562538">Vertikal Bölün</translation>
 <translation id="1231733316453485619">Sinxronizasiya ktiv edilsin?</translation>
 <translation id="4736292055110123391">Bütün cihazlardakı əlfəcin, parol, tarixçə və daha çoxunu sinxronizasiya edin</translation>
-<translation id="5736731321935944068">Axtarış, reklam və digər Gab AI Inc xidmətlərini fərdiləşdirmək üçün Gab AI Inc tarixçədən istifadə edə bilər</translation>
+<translation id="5736731321935944068">Axtarış, reklam və digər Fulldive xidmətlərini fərdiləşdirmək üçün Fulldive tarixçədən istifadə edə bilər</translation>
 <translation id="4201546031411513170">Sinxronizasiya seçimlərini ayarlarda edə bilərsiniz.</translation>
 <translation id="2497852260688568942">Sinxronizasiya administratorunuz tərəfindən deaktiv edilib</translation>
 <translation id="562935524653278697">Administratorunuz əlfəcin, tarixçə, parol və digər ayarlar üçün sinxronizasiyanı deaktiv edib.</translation>
@@ -1907,10 +1907,10 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="6198102561359457428">Hesabdan çıxın və yenidən daxil olun...</translation>
 <translation id="4634771451598206121">Yenidən daxil olun</translation>
 <translation id="7117247127439884114">Yenidən daxil olun...</translation>
-<translation id="4251909665067750757">Bütün cihazlarınızda əlfəcin, tarixçə və digər ayarları əldə etmək üçün daxil olun. Həmçinin, avtomatik olaraq Gab AI Inc xidmətlərinə daxil ediləcəksiniz.</translation>
+<translation id="4251909665067750757">Bütün cihazlarınızda əlfəcin, tarixçə və digər ayarları əldə etmək üçün daxil olun. Həmçinin, avtomatik olaraq Fulldive xidmətlərinə daxil ediləcəksiniz.</translation>
 <translation id="2749756011735116528"><ph name="PRODUCT_NAME"/> məhsuluna daxil olun</translation>
 <translation id="2126167708562367080">Sinxronizasiya administratorunuz tərəfindən deaktiv edilib.</translation>
-<translation id="5462539695964427820">Sinxronizasiya Gab AI Inc Alətlər Paneli vasitəsilə dayandırıldı.</translation>
+<translation id="5462539695964427820">Sinxronizasiya Fulldive Alətlər Paneli vasitəsilə dayandırıldı.</translation>
 <translation id="8805140816472474147">Sinxronizasiyaya başlamaq üçün sinxronizasiyanı təsdiq edin.</translation>
 <translation id="5771816112378578655">Quraşdırma icra olunur...</translation>
 <translation id="3492788708641132712">Sinxronizasiya işləmir. Yenidən daxil olmağa çalışın</translation>
@@ -1924,14 +1924,14 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="1877520246462554164">Doğrulama açarı əldə etmək alınmadı. Yenidən cəhd etmək üçün hesabdan çıxın və təkar daxil olun.</translation>
 <translation id="9100765901046053179">Qabaqcıl ayarlar</translation>
 <translation id="2731700343119398978">Gözləyin...</translation>
-<translation id="7218743184834293955">Data sinxronizasiya parolunuz ilə şifrələndi. Gab AI Inc Pay'dəki ödəniş metodları və ünvanlar bura daxil deyil.</translation>
-<translation id="7158251077901880179"><ph name="TIME"/> tarixindən başlayaraq data sinxronizasiya parolunuz ilə şifrələndi. Gab AI Inc Pay'dəki ödəniş metodları və ünvanlar bura daxil deyil.</translation>
-<translation id="1171389789873508468"><ph name="TIME"/> tarixindən başlayaraq data Gab AI Inc parolunuz ilə şifrələndi. Gab AI Inc Pay'dəki ödəniş metodları və ünvanlar bura daxil deyil.</translation>
+<translation id="7218743184834293955">Data sinxronizasiya parolunuz ilə şifrələndi. Fulldive Pay'dəki ödəniş metodları və ünvanlar bura daxil deyil.</translation>
+<translation id="7158251077901880179"><ph name="TIME"/> tarixindən başlayaraq data sinxronizasiya parolunuz ilə şifrələndi. Fulldive Pay'dəki ödəniş metodları və ünvanlar bura daxil deyil.</translation>
+<translation id="1171389789873508468"><ph name="TIME"/> tarixindən başlayaraq data Fulldive parolunuz ilə şifrələndi. Fulldive Pay'dəki ödəniş metodları və ünvanlar bura daxil deyil.</translation>
 <translation id="2562743677925229011"><ph name="SHORT_PRODUCT_NAME"/> məhsuluna giriş edilməyib</translation>
 <translation id="4027804175521224372">(Siz out itkin edirik <ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/> )</translation>
 <translation id="3574210789297084292">giriş</translation>
 <translation id="237828693408258535">Bu səhifə tərcümə edilsin?</translation>
-<translation id="4613765529964435709">Gab AI Inc'un bu səhifəni <ph name="SOURCE_LANGUAGE"/> dilindən <ph name="TARGET_LANGUAGE"/> dilinə tərcümə etməyini istəyirsiniz?</translation>
+<translation id="4613765529964435709">Fulldive'un bu səhifəni <ph name="SOURCE_LANGUAGE"/> dilindən <ph name="TARGET_LANGUAGE"/> dilinə tərcümə etməyini istəyirsiniz?</translation>
 <translation id="5990386583461751448">Tərcümə edildi</translation>
 <translation id="5659833766619490117">Bu səhifə tərcümə edilə bilməz</translation>
 <translation id="969096075394517431">Dilləri dəyişin</translation>
@@ -2110,7 +2110,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="6309510305002439352">Mikrofon deaktiv edildi</translation>
 <translation id="1322046419516468189"><ph name="SAVED_PASSWORDS_STORE"/> ünvanında yadda saxlanılmış parollara baxın və idarə edin</translation>
 <translation id="5297082477358294722">Parol yadda saxlanıldı. Yadda saxlanılmış parollara <ph name="SAVED_PASSWORDS_STORE"/> ünvanında baxın və idarə edin.</translation>
-<translation id="5713644099811900409">Gab AI Inc Hesabı</translation>
+<translation id="5713644099811900409">Fulldive Hesabı</translation>
 <translation id="3785727820640310185">Bu sayt üçün yadda saxlanmış parollar</translation>
 <translation id="3404065873681873169">Bu saytda heç bir parol yadda saxlanılmayıb</translation>
 <translation id="8470513973197838199"><ph name="ORIGIN"/> üçün parollar yadda saxlanıldı</translation>
@@ -2221,7 +2221,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{Ekran #}other{Ekran #}}</translation>
 <translation id="839736845446313156">Qeyd olun</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{Şəbəkənizdəki yeni printer}other{Şəbəkənizdəki yeni printerlər}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Gab AI Inc Bulud Print'ə printer əlavə edin, bununla istənilən yerdən çap edə bilərsiniz.}other{Gab AI Inc Bulud Print'ə # printer əlavə edin, bununla istənilən yerdən çap edə bilərsiniz.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Fulldive Bulud Print'ə printer əlavə edin, bununla istənilən yerdən çap edə bilərsiniz.}other{Fulldive Bulud Print'ə # printer əlavə edin, bununla istənilən yerdən çap edə bilərsiniz.}}</translation>
 <translation id="409579654357498729">Bulud Çapına əlavə edin</translation>
 <translation id="4628757576491864469">Cihazlar</translation>
 <translation id="6915804003454593391">İstifadəçi:</translation>
@@ -2231,8 +2231,8 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="1895934970388272448">İndi yoxlamaq - Siz bu prosesi başa çatdırmaq üçün printer qeydiyyat təsdiq etməlidir.</translation>
 <translation id="551752069230578406">Hesabınıza printer əlavə edilir - bir az vaxt çəkə bilər...</translation>
 <translation id="2384436799579181135">Xəta baş verdi. Printerinizi yoxlayın və yenidən cəhd edin.</translation>
-<translation id="1327074568633507428">Gab AI Inc Bulud Print üzrə Printer</translation>
-<translation id="6782994146626179935">Gab AI Inc Bulud Cihazında Cihaz</translation>
+<translation id="1327074568633507428">Fulldive Bulud Print üzrə Printer</translation>
+<translation id="6782994146626179935">Fulldive Bulud Cihazında Cihaz</translation>
 <translation id="7140928199327930795">Başqa əlçatan cihaz yoxdur.</translation>
 <translation id="8213577208796878755">Başqa əlçatan cihaz.</translation>
 <translation id="1495486559005647033"><ph name="NUM_PRINTERS"/> başqa əlçatan cihazlar.</translation>
@@ -2248,7 +2248,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="715118844758971915">Klassik printerlər</translation>
 <translation id="4263757076580287579">Printer qeydiyyatı ləğv edildi.</translation>
 <translation id="8152091997436726702">Printer qeydiyyatının vaxtı keçdi. Printeri qeydiyyatdan keçirmək üçün qeydiyyatı printerdə təsdiq etməlisiniz.</translation>
-<translation id="2624930408905606513">Sənədlər çapa hazırlanmaq üçün <ph name="BEGIN_LINK_HELP"/>Gab AI Inc'a göndərildi<ph name="END_LINK_HELP"/>. Printer və printer tarixçəsinə <ph name="BEGIN_LINK_DASHBOARD"/>Gab AI Inc Bulud Çap panelində<ph name="END_LINK_DASHBOARD"/> baxa, redaktə edə və idarə edə bilərsiniz.</translation>
+<translation id="2624930408905606513">Sənədlər çapa hazırlanmaq üçün <ph name="BEGIN_LINK_HELP"/>Fulldive'a göndərildi<ph name="END_LINK_HELP"/>. Printer və printer tarixçəsinə <ph name="BEGIN_LINK_DASHBOARD"/>Fulldive Bulud Çap panelində<ph name="END_LINK_DASHBOARD"/> baxa, redaktə edə və idarə edə bilərsiniz.</translation>
 <translation id="3082780749197361769">Bu tab kameranızı və ya mikrofonunuzu istifadə edir.</translation>
 <translation id="3578594933904494462">Bu tab kontenti paylaşılır.</translation>
 <translation id="4449996769074858870">Bu tab audio oxudur.</translation>
@@ -2374,14 +2374,14 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="7055152154916055070">Yönləndirmə blok edildi:</translation>
 <translation id="6777817260680419853">Yönləndirmə blok edildi</translation>
 <translation id="694592694773692225">Bu səhifədə yönləndirmə deaktiv edilib.</translation>
-<translation id="8945142681652245463">Gab AI Inc Fulldive ilə sürətli axtarış edin</translation>
-<translation id="2618024864038703735">Gab AI Inc Fulldive ilə təhlükəsiz axtarış edin</translation>
+<translation id="8945142681652245463">Fulldive Fulldive ilə sürətli axtarış edin</translation>
+<translation id="2618024864038703735">Fulldive Fulldive ilə təhlükəsiz axtarış edin</translation>
 <translation id="8142180567942285208">Fulldive ilə ağıllı axtarış edin</translation>
 <translation id="8862003515646449717">Sürətli brauzerə keçin</translation>
 <translation id="8438328416656800239">Ağıllı brauzerə keçin</translation>
 <translation id="491691592645955587">Təhlükəsiz brauzerə keçin</translation>
 <translation id="683373380308365518">Ağıllı və təhlükəsiz brauzerə keçin</translation>
-<translation id="989239400026154074">Gab AI Inc, Fulldive'u tövsiyə edir</translation>
+<translation id="989239400026154074">Fulldive, Fulldive'u tövsiyə edir</translation>
 <translation id="6676231621615806698">Fulldive'u açın</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> yerli kontent təmin etmək üçün məkandan istifadə edir. Bunu <ph name="SETTINGS_LINK"/> bölməsində dəyişə bilərsiniz.</translation>
 <translation id="3737536731758327622">Endirmələriniz burada görünür</translation>
@@ -2547,7 +2547,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="2878782256107578644">Skanlama davam edir, indi açılsın?</translation>
 <translation id="6098793583803863900">Naməlum fayl skanlanaraq məzmunun təhlükəli olub-olmaması yoxlanılır.</translation>
 <translation id="7584578941316704630">Açmazdan əvvəl skanlansın?</translation>
-<translation id="4467402456678825062">Seçilmiş fayl naməlumdur və təhlükəli ola bilər. Skanlanması üçün Gab AI Inc Qabaqcıl Qorumaya göndərilsin?</translation>
+<translation id="4467402456678825062">Seçilmiş fayl naməlumdur və təhlükəli ola bilər. Skanlanması üçün Fulldive Qabaqcıl Qorumaya göndərilsin?</translation>
 <translation id="2587922766792651800">Vaxt bitdi</translation>
 <translation id="4404136731284211429">Yenidən skanlayın</translation>
 <translation id="6428450836711225518">Telefon nömrənizi doğrulayın</translation>
@@ -2555,7 +2555,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="6518133107902771759">Doğrulayın</translation>
 <translation id="4379281552162875326">"<ph name="APP_NAME"/>" ləğv edilsin?</translation>
 <translation id="8812593354822910461">Həmçinin baxış datasını (<ph name="URL"/>) silin, bunun nəticəsində <ph name="DOMAIN"/> ünvanından çıxacaqsınız. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Həmçinin baxış datasını (<ph name="URL"/>) silin, bunun nəticəsində Gab AI Inc.com ünvanından çıxa bilərsiniz. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Həmçinin baxış datasını (<ph name="URL"/>) silin, bunun nəticəsində Fulldive.com ünvanından çıxa bilərsiniz. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Ətraflı öyrənin</translation>
 <translation id="2346953515226895098">SODA Xidməti</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> tətbiqinə fasilə verilib</translation>
@@ -2711,7 +2711,7 @@ Açar faylınızı güvənli yerdə saxlayın.</translation>
 <translation id="4144218403971135344">Daha yaxşı video keyfiyyəti əldə edin və batareyaya qənaət edin. Video yalnız Yayımın aktiv edildiyi ekranda oxudulacaq.</translation>
 <translation id="236117173274098341">Optimallaşdırın</translation>
 <translation id="8538358978858059843">Yayım üçün bulud xidmətləri aktiv edilsin?</translation>
-<translation id="3856595552313160385">Hangouts və Təhsil üçün Yayımının istifadəsi Gab AI Inc Məxfilik Siyasəti ilə tənzimlənir.</translation>
+<translation id="3856595552313160385">Hangouts və Təhsil üçün Yayımının istifadəsi Fulldive Məxfilik Siyasəti ilə tənzimlənir.</translation>
 <translation id="3435896845095436175">Aktivləşdirin</translation>
 <translation id="3700888195348409686">Təqdim olunur (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Displey <ph name="DISPLAY_ID"/></translation>
@@ -2949,9 +2949,9 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, daha 1 hesab}other{<ph name="EMAIL"/>, daha <ph name="EXTRA_ACCOUNTS"/> hesab}}</translation>
 <translation id="7434635829372401939">Ayarları sinxronlaşdırın</translation>
 <translation id="1036348656032585052">Deaktiv edin</translation>
-<translation id="3267705913905916810">Tətbiqlər və ayarlarınız Gab AI Inc hesabınız ilə daxil olduğunuz bütün Fulldive ƏS cihazlarında sinxronlaşdırılacaq. Brauzerin sinxronlaşdırma seçimləri üçün <ph name="LINK_BEGIN"/>Fulldive ayarları<ph name="LINK_END"/> bölməsinə keçin.</translation>
+<translation id="3267705913905916810">Tətbiqlər və ayarlarınız Fulldive hesabınız ilə daxil olduğunuz bütün Fulldive ƏS cihazlarında sinxronlaşdırılacaq. Brauzerin sinxronlaşdırma seçimləri üçün <ph name="LINK_BEGIN"/>Fulldive ayarları<ph name="LINK_END"/> bölməsinə keçin.</translation>
 <translation id="6985607387932385770">Printerlər</translation>
-<translation id="8418661265246754237">Gab AI Inc Hesabları</translation>
+<translation id="8418661265246754237">Fulldive Hesabları</translation>
 <translation id="3953834000574892725">Hesablarım</translation>
 <translation id="6011193465932186973">Barmaq izi</translation>
 <translation id="3707212204259470604">Digər insanları idarə edin</translation>
@@ -2993,16 +2993,16 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="5916664084637901428">Aktiv</translation>
 <translation id="5860033963881614850">Deaktiv</translation>
 <translation id="5515923816438946203">Ekranda gördüyünüzü seçin</translation>
-<translation id="2187700606737131818">Gab AI Inc Foto</translation>
+<translation id="2187700606737131818">Fulldive Foto</translation>
 <translation id="1827738518074806965">İncəsənət qalereyası</translation>
 <translation id="9137157311132182254">Tərcih edilən axtarış mühərriki</translation>
 <translation id="7423118389528876103">Fulldive brauzeri və <ph name="DEVICE_TYPE"/> Başladıcısı tərəfindən istifadə edilir</translation>
-<translation id="2862205630718215619">Gab AI Inc Assistent</translation>
+<translation id="2862205630718215619">Fulldive Assistent</translation>
 <translation id="8959699239363253085">Aktiv</translation>
 <translation id="971479617738309149">Deaktiv</translation>
 <translation id="7807067443225230855">Axtarış və Assistent</translation>
 <translation id="1293556467332435079">Fayllar</translation>
-<translation id="6474884162850599008">Gab AI Inc Disk hesabı bağlantısını kəsin</translation>
+<translation id="6474884162850599008">Fulldive Disk hesabı bağlantısını kəsin</translation>
 <translation id="3653160965917900914">Şəbəkə fayl paylaşımları</translation>
 <translation id="4906490889887219338">Şəbəkə fayl paylaşımlarını ayarlayın və ya idarə edin. <ph name="LINK_BEGIN"/>Ətraflı məlumat<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Fayl paylaşımı əlavə edin</translation>
@@ -3053,7 +3053,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="5511379779384092781">Çox kiçik</translation>
 <translation id="2765217105034171413">Kiçik</translation>
 <translation id="7409549334477097887">Çox böyük</translation>
-<translation id="1800308196794859773">İstənilən mətn sahəsində diktant icazəsi üçün Gab AI Inc'a səs göndərin.</translation>
+<translation id="1800308196794859773">İstənilən mətn sahəsində diktant icazəsi üçün Fulldive'a səs göndərin.</translation>
 <translation id="8758418656925882523">İmlanı aktiv edin (yazmaq üçün danışın)</translation>
 <translation id="1330145147221172764">Ekranüstü klaviaturaları aktiv edin</translation>
 <translation id="7580671184200851182">Eyni audionu bütün spikerlər vasitsəilə oxudun (mono audio)</translation>
@@ -3116,7 +3116,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="6902066522699286937">Önizləmək üçün səs</translation>
 <translation id="304747341537320566">Nitq Mühərrikləri</translation>
 <translation id="2755367719610958252">Əlçatımlılıq funksiyalarını idarə edin</translation>
-<translation id="1203953622051744249">Giriş edilən hesablarınızı idarə edin. Fulldive və Gab AI Inc Play'dəki veb saytlar, tətbiqlər və artırmalar icazələrdən asılı olaraq təcrübənizi fərdiləşdirmək üçün bu hesablardan istifadə edə bilər. <ph name="LINK_BEGIN"/>Ətraflı məlumat<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Giriş edilən hesablarınızı idarə edin. Fulldive və Fulldive Play'dəki veb saytlar, tətbiqlər və artırmalar icazələrdən asılı olaraq təcrübənizi fərdiləşdirmək üçün bu hesablardan istifadə edə bilər. <ph name="LINK_BEGIN"/>Ətraflı məlumat<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Burada məktəb hesabı əlavə edin və ya uşaq hesablarını idarə edin. <ph name="LINK_BEGIN"/>Ətraflı məlumat<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Hesablar</translation>
 <translation id="6597148444736186483">Bu cihazdakı əsas hesabdan çıxmaq üçün ekranınızdakı vaxta klikləyin. Görünən menyuda "Çıxış edin" seçiminə klikləyin.</translation>
@@ -3125,8 +3125,8 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="2923234477033317484">Bu hesabı silin</translation>
 <translation id="7665369617277396874">Hesab əlavə edin</translation>
 <translation id="8428271547607112339">Məktəb hesabı əlavə edin</translation>
-<translation id="4920274951865016604">Administrator daha çox Gab AI Inc Hesabın əlavə edilməsini deaktiv edib</translation>
-<translation id="8845742957886589229">Daha çox Gab AI Inc Hesabın əlavə edilməsi deaktivdir</translation>
+<translation id="4920274951865016604">Administrator daha çox Fulldive Hesabın əlavə edilməsini deaktiv edib</translation>
+<translation id="8845742957886589229">Daha çox Fulldive Hesabın əlavə edilməsi deaktivdir</translation>
 <translation id="5021750053540820849">Hələ yenilənməyib</translation>
 <translation id="3448492834076427715">Hesabı yeniləyin</translation>
 <translation id="2458379781610688953">Hesabı yeniləyin, <ph name="EMAIL"/></translation>
@@ -3161,7 +3161,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="3661172646479098821">Hazırda yalnız Android cihazları dəstəklənir.</translation>
 <translation id="3201422919974259695">Əlçatan USB cihazları burada görünəcək.</translation>
 <translation id="2629227353894235473">Android tətbiqlərini inkişaf etdirin</translation>
-<translation id="1669729672557072907">Yaratmaq və tətbiqlərinizi sınamaq üçün Android Debug Bridge'i (ADB) aktiv edin. Nəzərə alın ki, bu əməliyyat Gab AI Inc tərəfindən doğrulanmamış Android tətbiqlərinin quraşdırılmasına icazə verir və deaktiv etmək üçün zavod ayarlarının bərpasını tələb edir.</translation>
+<translation id="1669729672557072907">Yaratmaq və tətbiqlərinizi sınamaq üçün Android Debug Bridge'i (ADB) aktiv edin. Nəzərə alın ki, bu əməliyyat Fulldive tərəfindən doğrulanmamış Android tətbiqlərinin quraşdırılmasına icazə verir və deaktiv etmək üçün zavod ayarlarının bərpasını tələb edir.</translation>
 <translation id="4638930039313743000">ADB sazlamasını aktiv edin</translation>
 <translation id="1630768113285622200">Yenidən başladın və davam edin</translation>
 <translation id="1005333234656240382">ADB sazlaması aktivləşdirilsin?</translation>
@@ -3198,9 +3198,9 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="1870629042957780127">Mikrofona giriş icazəsi verin</translation>
 <translation id="1392232653471491344">Linux'un yenidən başladılması tələb edilir</translation>
 <translation id="1064552680598333868">Mikrofona edilən dəyişikliklər Linux növbəti dəfə yenidən başladıldıqda keçərli olacaq.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play Store</translation>
+<translation id="2714393097308983682">Fulldive Play Store</translation>
 <translation id="2966937470348689686">Android tərcihlərini idarə edin</translation>
-<translation id="6398715114293939307">Gab AI Inc Play Mağazanı Silin</translation>
+<translation id="6398715114293939307">Fulldive Play Mağazanı Silin</translation>
 <translation id="2792290659606763004">Android tətbiqləri silinsin?</translation>
 <translation id="492299503953721473">Android tətbiqlərini silin</translation>
 <translation id="7566118625369982896">Play tətbiq linklərini idarə edin</translation>
@@ -3208,7 +3208,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="5862109781435984885">Buferdə fırça alətlərini göstərin</translation>
 <translation id="4673442866648850031">Fırça silinərkən fırça alətlərini açın</translation>
 <translation id="4244238649050961491">Daha çox stiloqraf tətbiqləri axtarın</translation>
-<translation id="668599234725812620">Gab AI Inc Play'i açın</translation>
+<translation id="668599234725812620">Fulldive Play'i açın</translation>
 <translation id="9116799625073598554">Qeyd etmə tətbiqi</translation>
 <translation id="203574396658008164">Kilid ekranından qeyd götürməni aktiv edin</translation>
 <translation id="6238923052227198598">Ən son qeydi kilid ekranında saxlayın</translation>
@@ -3354,7 +3354,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> - <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Mobil datanı aktiv edin</translation>
 <translation id="7378812711085314936">Data bağlantısı əldə edin</translation>
-<translation id="3483333858382889684">Bu cihaza Gab AI Inc Hesabınızla mobil data bağlantısı olan digər cihazları tapmaq icazəsi verin</translation>
+<translation id="3483333858382889684">Bu cihaza Fulldive Hesabınızla mobil data bağlantısı olan digər cihazları tapmaq icazəsi verin</translation>
 <translation id="1572266655485775982">Wi-Fi aktivdir</translation>
 <translation id="7078120482318506217">Bütün şəbəkələr</translation>
 <translation id="1235458158152011030">Tanış şəbəkələr</translation>
@@ -3386,13 +3386,13 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="4421167684395067330">Bağlantı problemi var. Kömək üçün <ph name="CARRIER_NAME"/> ilə əlaqə saxlayın.</translation>
 <translation id="7780252971640011240">Bağlantı problemi var. Kömək üçün operatorunuz ilə əlaqə saxlayın.</translation>
 <translation id="161460670679785907">Telefonu aşkarlamaq alınmadı</translation>
-<translation id="778480864305029524">Ani Birləşmədən istifadə etmək üçün Gab AI Inc Play Xidmətlərində bildirişləri aktiv edin.</translation>
+<translation id="778480864305029524">Ani Birləşmədən istifadə etmək üçün Fulldive Play Xidmətlərində bildirişləri aktiv edin.</translation>
 <translation id="7696063401938172191">"<ph name="PHONE_NAME"/>" telefonunuzda:</translation>
 <translation id="3423463006624419153">"<ph name="PHONE_NAME_1"/>" və "<ph name="PHONE_NAME_2"/>" telefonlarınızda</translation>
 <translation id="6997707937646349884">Cihazlarınızda:</translation>
 <translation id="7531779363494549572">Ayarlar &gt; Tətbiq və bildirişlər &gt; Bildirişlər ünvanına daxil olun.</translation>
-<translation id="1819721979226826163">Tətbiq bildirişlər &gt; Gab AI Inc Play xidmətləri seçiminə klikləyin.</translation>
-<translation id="968000525894980488">Gab AI Inc Play xidmətlərini aktiv edin.</translation>
+<translation id="1819721979226826163">Tətbiq bildirişlər &gt; Fulldive Play xidmətləri seçiminə klikləyin.</translation>
+<translation id="968000525894980488">Fulldive Play xidmətlərini aktiv edin.</translation>
 <translation id="2705736684557713153">Ekranın sonuna doğru sürüşdürün və əgər görünürsə, Ani Birləşməni aktiv edin. Görünmürsə, artıq ayarlanıb.</translation>
 <translation id="7240339475467890413">Yeni hotspota qoşulsun?</translation>
 <translation id="6514010653036109809">Əlçatan cihaz:</translation>
@@ -3507,9 +3507,9 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="6555432686520421228">Tamamilə yeni olmaq üçün bütün istifadəçi hesablarınızı silin və <ph name="IDS_SHORT_PRODUCT_NAME"/> cihazınızı sıfırlayın.</translation>
 <translation id="5470735824776589490">Cihazınız fabrik sıfırlaması etmədən öncə yenidən başladılmalıdır. <ph name="LINK_BEGIN"/>Ətraflı məlumat<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Sıfırlama Düyməsi</translation>
-<translation id="472896694312062378">"Ok Gab AI Inc"</translation>
-<translation id="2339135612812615870">"Ok Gab AI Inc" dedikdə Assistentinizə daxil olun.</translation>
-<translation id="3735919318855093557">"Ok Gab AI Inc" dedikdə Assistentinizə daxil olun. Enerjiyə qənaət üçün “Aktiv (Tövsiyə olunur)” seçin. Assistentiniz yalnız cihazınız elektrik şəbəkəsinə qoşulduqda və ya batareya doldurulduqda cavab verəcək.</translation>
+<translation id="472896694312062378">"Ok Fulldive"</translation>
+<translation id="2339135612812615870">"Ok Fulldive" dedikdə Assistentinizə daxil olun.</translation>
+<translation id="3735919318855093557">"Ok Fulldive" dedikdə Assistentinizə daxil olun. Enerjiyə qənaət üçün “Aktiv (Tövsiyə olunur)” seçin. Assistentiniz yalnız cihazınız elektrik şəbəkəsinə qoşulduqda və ya batareya doldurulduqda cavab verəcək.</translation>
 <translation id="5825412242012995131">Aktiv (Tövsiyə edilir)</translation>
 <translation id="5067399438976153555">Həmişə aktivdir</translation>
 <translation id="6175644081330715138">Deaktiv</translation>
@@ -3518,7 +3518,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="5355099869024327351">Assistentə bildirişləri göstərmək icazəsi verir</translation>
 <translation id="133535873114485416">Tərcih edilmiş daxiletmə</translation>
 <translation id="6233154960150021497">Klaviatura əvəzinə səsdən istifadə üçün defolt</translation>
-<translation id="3908743412684152579">Gab AI Inc Assistent ayarları</translation>
+<translation id="3908743412684152579">Fulldive Assistent ayarları</translation>
 <translation id="1048286738600630630">Ekran</translation>
 <translation id="4184885522552335684">Ekranı hərəkət etdirmək üçün çəkin</translation>
 <translation id="4964455510556214366">Quruluş</translation>
@@ -3572,7 +3572,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="6856623341093082836">Sensor ekranın dəqiqliyini quraşdırın və tənzimləyin</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Yalnız cihazı kiliddən çıxarın</translation>
-<translation id="3300552672525741457">Cihazı kiliddən çıxarın və Gab AI Inc Hesabına daxil olun</translation>
+<translation id="3300552672525741457">Cihazı kiliddən çıxarın və Fulldive Hesabına daxil olun</translation>
 <translation id="4562155214028662640">Barmaq İzi əlavə edin</translation>
 <translation id="4068776064906523561">Yadda saxlanmış barmaq izləri</translation>
 <translation id="1719312230114180055">Qeyd: Barmaq izi güclü kod və ya PIN koddan daha az təhlükəsiz ola bilər.</translation>
@@ -3637,7 +3637,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="6547354035488017500">Ən az 512 MB boşaldın əks halda cihazınız reaksiya verməyəcək. Yer boşaltmaq üçün, cihaz yaddaşından faylları silin.</translation>
 <translation id="6097480669505687979">Yer boşaltmasanız, istifadəçilər və data avtomatik silinə bilər.</translation>
 <translation id="4470957202018033307">Xarici yaddaş tərcihləri</translation>
-<translation id="1900305421498694955">Gab AI Inc Play tətbiqləri xarici yaddaş cihazlarında faylları oxumaq və yazmaq üçün bütün fayl sisteminə giriş istəyə bilər. Cihazda yaradılan fayl və qovluqları xarici diskdən istifadə edən hər kəs görə bilər. <ph name="LINK_BEGIN"/>Ətraflı məlumat<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Fulldive Play tətbiqləri xarici yaddaş cihazlarında faylları oxumaq və yazmaq üçün bütün fayl sisteminə giriş istəyə bilər. Cihazda yaradılan fayl və qovluqları xarici diskdən istifadə edən hər kəs görə bilər. <ph name="LINK_BEGIN"/>Ətraflı məlumat<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">Əlçatan cihazlar burada görünəcək.</translation>
 <translation id="1041263367839475438">Əlçatan cihazlar</translation>
 <translation id="7479221278376295180">Yaddaş İstifadəsi İcmalı</translation>
@@ -3661,12 +3661,12 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="5840822070878669614">Fulldive Veb Mağazanı Açın</translation>
 <translation id="6073903501322152803">Əlçatımlılıq funksiyaları əlavə edin</translation>
 <translation id="7988355189918024273">Əlçatımlılıq funksiyalarını aktiv edin</translation>
-<translation id="5499063270485366718">Şəklin təsviri faydalı deyilsə, Fulldive Sizin üçün təsviri təmin etməyə çalışacaq. Təsvir yaratmaq üçün şəkillər Gab AI Inc'a göndərilir.</translation>
+<translation id="5499063270485366718">Şəklin təsviri faydalı deyilsə, Fulldive Sizin üçün təsviri təmin etməyə çalışacaq. Təsvir yaratmaq üçün şəkillər Fulldive'a göndərilir.</translation>
 <translation id="8957762313041272117">Canlı altyazı</translation>
 <translation id="7075426315046750605">Canlı altyazı mediada nitqi aşkarlayır və Fulldive'da bütün media oxutma üçün avtomatik olaraq altyazılar yaradır.</translation>
 <translation id="572155275267014074">Android ayarları</translation>
-<translation id="7201042526153088083"><ph name="DEVICE_TYPE"/> cihazında Gab AI Inc Play'dən tətbiq və oyunlar quraşdırın. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Ətraflı məlumat&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Gab AI Inc Play'dən endirdiyiniz tətbiqlər Fulldivebook'dan silinəcək.
+<translation id="7201042526153088083"><ph name="DEVICE_TYPE"/> cihazında Fulldive Play'dən tətbiq və oyunlar quraşdırın. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Ətraflı məlumat&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Fulldive Play'dən endirdiyiniz tətbiqlər Fulldivebook'dan silinəcək.
       <ph name="LINE_BREAKS1"/>
       Ödəniş etdiyiniz kino, TV şou, musiqi, kitab və digər tətbiqdaxili alqı-satqılar kimi məzmunlar da silinə bilər.
       <ph name="LINE_BREAKS2"/>
@@ -3692,7 +3692,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="1670399744444387456">Əsas</translation>
 <translation id="1763808908432309942">Yeni tabda açır</translation>
 <translation id="6248988683584659830">Axtarış ayarları</translation>
-<translation id="883304095704384301">Axtardığınızı tapa bilmirsinizsə <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive yardımı<ph name="END_LINK_CHROMIUM"/> bölməsinə gedin</translation>
+<translation id="883304095704384301">Axtardığınızı tapa bilmirsinizsə <ph name="BEGIN_LINK_CHROMIUM"/>Fulldive Fulldive yardımı<ph name="END_LINK_CHROMIUM"/> bölməsinə gedin</translation>
 <translation id="6406708970972405507">Ayarlar - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Alt səhifə düyməsi</translation>
 <translation id="379509625511193653">Deaktiv</translation>
@@ -3713,10 +3713,10 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="451515744433878153">Silin</translation>
 <translation id="5029568752722684782">Kopyanı təmizləyin</translation>
 <translation id="2154484045852737596">Kartı redaktə edin</translation>
-<translation id="3032188998195902534">Gab AI Inc Pay ödəniş metodlarını əlavə etmək və idarə etmək üçün <ph name="BEGIN_LINK"/>Gab AI Inc Hesabına<ph name="END_LINK"/> daxil olun</translation>
+<translation id="3032188998195902534">Fulldive Pay ödəniş metodlarını əlavə etmək və idarə etmək üçün <ph name="BEGIN_LINK"/>Fulldive Hesabına<ph name="END_LINK"/> daxil olun</translation>
 <translation id="8853586775156634952">Bu kart yalnız bu cihazda yadda saxlanılacaq</translation>
 <translation id="5087580092889165836">Kart əlavə edin</translation>
-<translation id="4835914736509775287">Kartları Gab AI Inc Hesabında yadda saxlayın</translation>
+<translation id="4835914736509775287">Kartları Fulldive Hesabında yadda saxlayın</translation>
 <translation id="7255002516883565667">Hazırda yalnız bu cihazda istifadə edilə bilən bir kart var</translation>
 <translation id="6848388270925200958">Hazırda yalnız bu cihazda istifadə edilə bilən bir neçə kartınız var</translation>
 <translation id="4807098396393229769">Kart Adı</translation>
@@ -3730,9 +3730,9 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="8731851055419582926">Parollar yoxlandı</translation>
 <translation id="4248098802131000011">Data pozuntuları və digər güvənlik məsələlərinə qarşı parollarınızı qoruyun</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> parollarınızı yoxlaya bilmir. İnternet bağlantınızı yoxlayın.</translation>
-<translation id="802916701582020725">Gab AI Inc Hesabınız ilə daxil olduqda <ph name="IDS_SHORT_PRODUCT_NAME"/> parollarınızı yoxlaya bilər.</translation>
+<translation id="802916701582020725">Fulldive Hesabınız ilə daxil olduqda <ph name="IDS_SHORT_PRODUCT_NAME"/> parollarınızı yoxlaya bilər.</translation>
 <translation id="4478777936860197922">Yadda saxlanmış parol yoxdur. Parollarınızı yadda saxladıqda <ph name="IDS_SHORT_PRODUCT_NAME"/> onları yoxlaya bilər.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> parollarınızı yoxlaya bilmir. 24 saat sonra yenidən cəhd edin və ya <ph name="BEGIN_LINK"/>Gab AI Inc Hesabınızda parolları yoxlayın<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> parollarınızı yoxlaya bilmir. 24 saat sonra yenidən cəhd edin və ya <ph name="BEGIN_LINK"/>Fulldive Hesabınızda parolları yoxlayın<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> parollarınızı yoxlaya bilmir. 24 saat sonra yenidən cəhd edin.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> parollarınızı yoxlaya bilmir. Sonra cəhd edin.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Oğurlanmış parol tapılmadı}=1{{COUNT} oğurlanmış parol}other{{COUNT} oğurlanmış parol}}</translation>
@@ -3758,7 +3758,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="2100273922101894616">Hesaba avtomatik giriş</translation>
 <translation id="7513029293694390567">Yadda saxlanmış kredensialları istifadə edərək veb saytlara avtomatik qoşulun. Əgər funksiya deaktivdirsə, hər dəfə veb sayta daxil olmadan əvvəl təsdiqləmə tələb ediləcək.</translation>
 <translation id="6995899638241819463">Data pozulması halında parolların ələ keçirilib-keçirilmədiyi bildirilir</translation>
-<translation id="1534287762301776620">Gab AI Inc Hesabınıza daxil olduqda, bu xüsusiyyət aktivləşir</translation>
+<translation id="1534287762301776620">Fulldive Hesabınıza daxil olduqda, bu xüsusiyyət aktivləşir</translation>
 <translation id="1375321115329958930">Saxlanılmış Parollar</translation>
 <translation id="152234381334907219">Heç vaxt Saxlanılmır</translation>
 <translation id="5137501176474113045">Bu elementi silin</translation>
@@ -3772,7 +3772,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="7930294771522048157">Yadda saxlanmış ödəniş üsulları burada görünəcək</translation>
 <translation id="9124003689441359348">Yadda saxlanmış parollar burada görünəcək</translation>
 <translation id="4400367121200150367">Parolları heç vaxt yadda saxlamayan saytlar burada görünəcək</translation>
-<translation id="3098842761938485917"><ph name="BEGIN_LINK"/>Gab AI Inc Hesabınızda<ph name="END_LINK"/> yadda saxlanılmış parollara baxın və idarə edin</translation>
+<translation id="3098842761938485917"><ph name="BEGIN_LINK"/>Fulldive Hesabınızda<ph name="END_LINK"/> yadda saxlanılmış parollara baxın və idarə edin</translation>
 <translation id="5620655347161642930">Parolları eskport edin...</translation>
 <translation id="3900966090527141178">Parolları eskport edin</translation>
 <translation id="6914783257214138813">Eksport edilmiş faylı görən hər kəs parollarınızı görəcək.</translation>
@@ -3839,15 +3839,15 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="3380365263193509176">Naməlum xəta</translation>
 <translation id="368789413795732264">Faylı yazan zaman xəta baş verdi: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Vaxt aralığı</translation>
-<translation id="3958004920128806270">Axtarış tarixçəsini yalnız bu cihazan silmək, Gab AI Inc Hesabında saxlamaq üçün <ph name="BEGIN_LINK"/>çıxış edin<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">Axtarış tarixçəsini bütün sinxronizasiya olunmuş cihazlardan və Gab AI Inc Hesabınızdan silmək üçün <ph name="BEGIN_LINK"/>sinxronizasiya ayarlarına daxil olun<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">Axtarış tarixçəsini bütün sinxronizasiya olunmuş cihazlardan və Gab AI Inc Hesabınızdan silmək üçün <ph name="BEGIN_LINK"/>parol ifadəsini daxil edin<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">Axtarış tarixçəsini bütün sinxronizasiya olunmuş cihazlardan və Gab AI Inc Hesabınızdan silmək üçün <ph name="BEGIN_LINK"/>daxil olun<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">Axtarış tarixçəsini yalnız bu cihazan silmək, Fulldive Hesabında saxlamaq üçün <ph name="BEGIN_LINK"/>çıxış edin<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">Axtarış tarixçəsini bütün sinxronizasiya olunmuş cihazlardan və Fulldive Hesabınızdan silmək üçün <ph name="BEGIN_LINK"/>sinxronizasiya ayarlarına daxil olun<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">Axtarış tarixçəsini bütün sinxronizasiya olunmuş cihazlardan və Fulldive Hesabınızdan silmək üçün <ph name="BEGIN_LINK"/>parol ifadəsini daxil edin<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">Axtarış tarixçəsini bütün sinxronizasiya olunmuş cihazlardan və Fulldive Hesabınızdan silmək üçün <ph name="BEGIN_LINK"/>daxil olun<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Bununla əksər saytlardan çıxacaqsınız.</translation>
-<translation id="4650925988509114690">Bir çox saytlardan çıxış edəcəksiniz. Gab AI Inc Hesabınızdan çıxmayacaqsınız. Sinxronizasiya olunmuş data silinə bilər.</translation>
+<translation id="4650925988509114690">Bir çox saytlardan çıxış edəcəksiniz. Fulldive Hesabınızdan çıxmayacaqsınız. Sinxronizasiya olunmuş data silinə bilər.</translation>
 <translation id="2017836877785168846">Ünvan panelində tarixçə və avtomatik tamamlamaları silir.</translation>
-<translation id="8096327394278038498">Ünvan penelindəki tarixçə və avtomatik tamamlamanı silir. <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> linkində Gab AI Inc Hesabına məxsus axtarış tarixçəsinin başqa formaları ola bilər.</translation>
-<translation id="8122693181154564064">Bütün daxil olunmuş cihazlardan tarixçəni silir. <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> linkində Gab AI Inc Hesabına məxsus axtarış tarixçəsinin başqa formaları ola bilər.</translation>
+<translation id="8096327394278038498">Ünvan penelindəki tarixçə və avtomatik tamamlamanı silir. <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> linkində Fulldive Hesabına məxsus axtarış tarixçəsinin başqa formaları ola bilər.</translation>
+<translation id="8122693181154564064">Bütün daxil olunmuş cihazlardan tarixçəni silir. <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/> linkində Fulldive Hesabına məxsus axtarış tarixçəsinin başqa formaları ola bilər.</translation>
 <translation id="7127980134843952133">Endirmə tarixi</translation>
 <translation id="4699172675775169585">Keşlənmiş şəkillər və fayllar</translation>
 <translation id="1274997165432133392">Kukilər və sayt datası</translation>
@@ -3862,7 +3862,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="1043818413152647937">Həmçinin bu tətbiqlərdən data silinsin?</translation>
 <translation id="3399432415385675819">Bildirişlər deaktiv ediləcək</translation>
 <translation id="3459509316159669723">Çap edilir</translation>
-<translation id="7063957500469387217">Gab AI Inc Bulud Printerində printerləri ayarlayın və idarə edin.</translation>
+<translation id="7063957500469387217">Fulldive Bulud Printerində printerləri ayarlayın və idarə edin.</translation>
 <translation id="8185331656081929126">Yeni printerlər şəbəkədə aşkarlanan zaman bildirişləri göstərin</translation>
 <translation id="6451180435462401570">Cloud Print cihazlarını idarə edin</translation>
 <translation id="4733793249294335256">Məkan</translation>
@@ -3884,7 +3884,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="5425722269016440406">Smart Kilidi deaktiv etmək üçün onlayn olmalısınız. İlk öncə şəbəkəyə qoşulun.</translation>
 <translation id="8885197664446363138">Smart Kilid əlçatmazdır</translation>
 <translation id="7334190995941642545">Smart Lock hazırda əlçatmazdır. Lütfən, daha sonra yenidən cəhd edin.</translation>
-<translation id="8112427115751454716">Gab AI Inc Hesabınıza daxil olmaq üçün Smart Lock istifadə edin</translation>
+<translation id="8112427115751454716">Fulldive Hesabınıza daxil olmaq üçün Smart Lock istifadə edin</translation>
 <translation id="2043818754674261542"><ph name="DEVICE_TYPE"/> cihazını kiliddən çıxarmaq üçün məsafə tələb olunur</translation>
 <translation id="2522791476825452208">Çox yaxın</translation>
 <translation id="649454645705377674">Bağlayın</translation>
@@ -3905,7 +3905,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="1726100011689679555">Ad serverləri</translation>
 <translation id="1209796539517632982">Avtomatik ad serverləri</translation>
 <translation id="4462159676511157176">Fərdi ad serverləri</translation>
-<translation id="1981884748698699991">Gab AI Inc ad serverləri</translation>
+<translation id="1981884748698699991">Fulldive ad serverləri</translation>
 <translation id="6317608858038767920">Fərdi ad serveri <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">Veb Proksi Avtomatik Aşkarlama URL-si:</translation>
 <translation id="3817579325494460411">Təmin edilməyib</translation>
@@ -4063,7 +4063,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="3182749001423093222">Orfoqrafik yoxlanış</translation>
 <translation id="5423829801105537712">Təməl orfoqrafiya yoxlanışı</translation>
 <translation id="2564653188463346023">Təkmilləşdirilmiş yazı yoxlaması</translation>
-<translation id="8944680893327873975">Gab AI Inc, axtarışda istifadə edilən orfoqrafiya yoxlanışının eynisindən istifadə edir. Brauzerdə yazdığınız mətn Gab AI Inc'a göndərilir.</translation>
+<translation id="8944680893327873975">Fulldive, axtarışda istifadə edilən orfoqrafiya yoxlanışının eynisindən istifadə edir. Brauzerdə yazdığınız mətn Fulldive'a göndərilir.</translation>
 <translation id="5051836348807686060">Seçdiyiniz dillərdə orfoqrafik yoxlanış dəstəklənmir</translation>
 <translation id="7335974957018254119">Bu dillər üçün orfoqrafik yoxlanışdan istifadə edin:</translation>
 <translation id="2469375675106140201">Orfoqrafik yoxlanışı fərdiləşdirin</translation>
@@ -4076,7 +4076,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="4200689466366162458">Fərdi sözlər</translation>
 <translation id="7833720883933317473">Yadda saxlanmış fərdi sözlər burada görünəcək</translation>
 <translation id="8509646642152301857">Orfoqrafik yoxlama sözlüyünün endirilməsi alınmadı.</translation>
-<translation id="8842834450537919370">Şəbəkə administratorunuz ilə yoxlayaraq əmin olun ki, brandmauer Gab AI Inc serverlərindən olan endirmələri blok etmir.</translation>
+<translation id="8842834450537919370">Şəbəkə administratorunuz ilə yoxlayaraq əmin olun ki, brandmauer Fulldive serverlərindən olan endirmələri blok etmir.</translation>
 <translation id="9042893549633094279">Məxfilik və təhlükəsizlik</translation>
 <translation id="5548606607480005320">Təhlükəsizlik yoxlanışı</translation>
 <translation id="5876576639916258720">İcra edilir...</translation>
@@ -4112,24 +4112,24 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="2468205691404969808">Həmin səhifələrə daxil olmasanız belə, tərcihlərinizi xatırlamaq üçün kukilərdən istifadə edir</translation>
 <translation id="3633309367764744750">Hələ ziyarət etmədiyiniz səhifələr daxil olmaqla, səhifələrdən məlumatları öncədən əldə edir. Kukilərə icazə verdiyiniz halda, əldə edilən məlumatlara kukilər daxil ola bilər.</translation>
 <translation id="3201899458094819285">Təhlükəsiz Axtarış (Sizi və cihazınızı təhlükəli saytlardan qoruyur)</translation>
-<translation id="2876369937070532032">Təhlükəsizliyiniz risk altında olduqda Gab AI Inc'a daxil olduğunuz bəzi səhifələrin linklərini göndərin</translation>
+<translation id="2876369937070532032">Təhlükəsizliyiniz risk altında olduqda Fulldive'a daxil olduğunuz bəzi səhifələrin linklərini göndərin</translation>
 <translation id="4991384657077828949">Fulldive təhlükəsizliyini təkmilləşdirin</translation>
-<translation id="1984646864943401749">Yeni təhlükələri aşkarlamaq və vebdə hər kəsi qorumağa yardım etmək üçün daxil olduğunuz bəzi səhifələrin URL'lərini, məhdud sistem məlumatlarını və bəzi səhifə məzmunlarını Gab AI Inc'a göndərin.</translation>
+<translation id="1984646864943401749">Yeni təhlükələri aşkarlamaq və vebdə hər kəsi qorumağa yardım etmək üçün daxil olduğunuz bəzi səhifələrin URL'lərini, məhdud sistem məlumatlarını və bəzi səhifə məzmunlarını Fulldive'a göndərin.</translation>
 <translation id="1641113438599504367">Təhlükəsiz Axtarış</translation>
 <translation id="6900532703269623216">Təkmil qoruma</translation>
-<translation id="7307583170263691471">Təhlükəli veb saytlar, endirmələr və artırmalara qarşı daha sürətli, fəal qoruma. Sizə parol aşkarlanmaları barədə xəbərdarlıq edir. Baxış datasının Gab AI Inc'a göndərilməsini tələb edir.</translation>
+<translation id="7307583170263691471">Təhlükəli veb saytlar, endirmələr və artırmalara qarşı daha sürətli, fəal qoruma. Sizə parol aşkarlanmaları barədə xəbərdarlıq edir. Baxış datasının Fulldive'a göndərilməsini tələb edir.</translation>
 <translation id="8645920082661222035">Təhlükəli hadisələr baş vermədən əvvəl onları proqnozlaşdırır və sizə xəbərdarlıq edir</translation>
-<translation id="5265419033369521352">Daxil olduğunuzda Fulldive'da sizi qoruyur və digər Gab AI Inc tətbiqlərində təhlükəsizliyinizi artırmaq üçün istifadə edilə bilər</translation>
+<translation id="5265419033369521352">Daxil olduğunuzda Fulldive'da sizi qoruyur və digər Fulldive tətbiqlərində təhlükəsizliyinizi artırmaq üçün istifadə edilə bilər</translation>
 <translation id="6770602306803890733">Siz və vebdəki hər kəs üçün təhlükəsizliyi artırır</translation>
 <translation id="3690369331356918524">Data pozulması halında parolların ələ keçirilib-keçirilmədiyini Sizə bildirir</translation>
-<translation id="4979281249641199724">URL'ləri yoxlamaq üçün onları Təhlükəsiz Baxışa göndərir. Həmçinin yeni təhlükələri aşkarlamaqda kömək məqsədilə səhifə, endirmə, artırma fəaliyyətindən ibarət kiçik nümunə göndərir. Daxil olduğunuzda sizi Gab AI Inc tətbiqlərində qorumaq üçün bu datanı Gab AI Inc Hesabınız ilə müvəqqəti olaraq əlaqələndirir.</translation>
+<translation id="4979281249641199724">URL'ləri yoxlamaq üçün onları Təhlükəsiz Baxışa göndərir. Həmçinin yeni təhlükələri aşkarlamaqda kömək məqsədilə səhifə, endirmə, artırma fəaliyyətindən ibarət kiçik nümunə göndərir. Daxil olduğunuzda sizi Fulldive tətbiqlərində qorumaq üçün bu datanı Fulldive Hesabınız ilə müvəqqəti olaraq əlaqələndirir.</translation>
 <translation id="1963976881984600709">Standart qoruma</translation>
 <translation id="6882836635272038266">Təhlükəli hesab edilən veb saytlar, endirmələr və artırmalara qarşı standart qoruma.</translation>
 <translation id="5561162485081632007">Təhlükəli hadisələr baş verdikdə onları aşkarlayır və sizə xəbərdarlıq edir</translation>
 <translation id="7810992039564280750">URL'ləri Fulldive'da saxlanılan təhlükəli saytların siyahısı ilə yoxlayır. Sayt parolunuzu oğurlamağa çalışdıqda və ya zərərli fayl endirdiyinizdə Fulldive səhifə məzmunundan kiçik nümunələr də daxil olmaqla, URL'ləri Təhlükəsiz Baxışa göndərə bilər.</translation>
 <translation id="3847319713229060696">Vebdə hər kəsin güvənliyini artırmağa yardım edin</translation>
 <translation id="1984417487208496350">Qoruma yoxdur (tövsiyə edilmir)</translation>
-<translation id="1295971429974142731">Sizi təhlükəli veb sayt, endirmə və artırmalardan qorumur. Hələ də Gmail və Axtarış kimi digər Gab AI Inc xidmətlərində mümkün olduğu qədər Təhlükəsiz Baxış qoruması əldə edəcəksiniz.</translation>
+<translation id="1295971429974142731">Sizi təhlükəli veb sayt, endirmə və artırmalardan qorumur. Hələ də Gmail və Axtarış kimi digər Fulldive xidmətlərində mümkün olduğu qədər Təhlükəsiz Baxış qoruması əldə edəcəksiniz.</translation>
 <translation id="6122831415929794347">Təhlükəsiz Baxış deaktiv edilsin?</translation>
 <translation id="6410390304316730527">Təhlükəsiz Baxış sizi zərərli proqram təminatı quraşdırmaq və ya parol, telefon nömrəsi, kredit kartı kimi şəxsi məlumatlarınızı aşkar etmək kimi təhlükəli əməliyyatlara sövq etmək üçün aldada biləcək hücumlardan qoruyur. Bu xüsusiyyəti söndürsəniz, tanış və ya məşhur olmayan saytlara baxarkən ehtiyatlı olun.</translation>
 <translation id="8791534160414513928">"İzləməyin" sorğusunu brauzinq trafiki ilə göndərin</translation>
@@ -4141,8 +4141,8 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="1995916364271252349">Saytların istifadə edə və göstərə biləcəyi məlumatlara (məkan, kamera, xəbərdarlıq pəncərələri və s.) nəzarət edir</translation>
 <translation id="3320630259304269485">Təhlükəsiz Baxış (təhlükəli saytlardan qoruma) və digər güvənlik ayarları</translation>
 <translation id="7536333565791380193">Qabaqcıl təhlükəsizlik</translation>
-<translation id="8525226238722561998">Gab AI Inc Qabaqcıl Qoruma Proqramı</translation>
-<translation id="1229550669565092839">Şəxsi Gab AI Inc Hesablarını hədəflənmiş hücumlardan qoruyur</translation>
+<translation id="8525226238722561998">Fulldive Qabaqcıl Qoruma Proqramı</translation>
+<translation id="1229550669565092839">Şəxsi Fulldive Hesablarını hədəflənmiş hücumlardan qoruyur</translation>
 <translation id="1521442365706402292">Sertifikatları idarə edin</translation>
 <translation id="7075625805486468288">HTTPS/SSL sertifikatları və ayarlarınızı idarə edin</translation>
 <translation id="6588043302623806746">Güvənli DNS yoxdur</translation>
@@ -4416,8 +4416,8 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="4590324241397107707">Databaza yaddaş ehtiyatı</translation>
 <translation id="8016266267177410919">Müvəqqəti saxlama yeri</translation>
 <translation id="4175737294868205930">Davamlı saxlama yeri</translation>
-<translation id="8397843425685839889">Siz və Gab AI Inc</translation>
-<translation id="8907706281008466056">Gab AI Inc Profil şəkli</translation>
+<translation id="8397843425685839889">Siz və Fulldive</translation>
+<translation id="8907706281008466056">Fulldive Profil şəkli</translation>
 <translation id="2023167225947895179">PIN tapmaq üçün asan ola bilər</translation>
 <translation id="5342091991439452114">PIN ən azı <ph name="MINIMUM"/> rəqəmli olmalıdır</translation>
 <translation id="5252653240322147470">PIN ən çox <ph name="MAXIMUM"/> rəqəmli olmalıdır.</translation>
@@ -4431,26 +4431,26 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="899676909165543803">Barmaq izi sensoru klaviaturanızın aşağı sağ hissəsində yerləşən barmaq işarəsidir. Barmağınızla ona yavaşca toxunun.</translation>
 <translation id="4535767533210902251">Barmaq izi sensoru klaviaturanızın yuxarı sağ hissəsində yerləşən barmaq işarəsidir. Barmağınızla ona yavaşca toxunun.</translation>
 <translation id="5449551289610225147">Yanlış parol</translation>
-<translation id="4326270470840334364">Bu hesab <ph name="DOMAIN"/> tərəfindən idarə olunduğu üçün, əlfəcin, tarixçə, parol və digər ayarlarınız bu cihazdan silinəcək. Buna baxmayaraq, datanız Gab AI Inc hesabınızın yaddaşında qalacaq və <ph name="BEGIN_LINK"/>Gab AI Inc İdarə Panelində<ph name="END_LINK"/> idarə oluna bilər.</translation>
+<translation id="4326270470840334364">Bu hesab <ph name="DOMAIN"/> tərəfindən idarə olunduğu üçün, əlfəcin, tarixçə, parol və digər ayarlarınız bu cihazdan silinəcək. Buna baxmayaraq, datanız Fulldive hesabınızın yaddaşında qalacaq və <ph name="BEGIN_LINK"/>Fulldive İdarə Panelində<ph name="END_LINK"/> idarə oluna bilər.</translation>
 <translation id="6906406176003824042">Şəxsi redaktə edin</translation>
 <translation id="3699920817649120894">Sinxronizasiya və fərdiləşdirmə deaktiv edilsin?</translation>
 <translation id="5643620609347735571">Silin və davam edin</translation>
 <translation id="5602765853043467355">Bu cihazda əlfəcin, tarixçə, parollar və daha çoxunu silin</translation>
 <translation id="4089235344645910861">Ayar yadda saxlandı. Sinxronizasiya başladı.</translation>
 <translation id="6739923123728562974">Masaüstü qısayolunu göstərin</translation>
-<translation id="2951604498031550705">Əlfəcin, tarixçə, parol və digər ayarlarınızdakı dəyişikliklər artıq Gab AI Inc Hesabınıza sinxronizasiya olunmayacaq. Buna baxmayaraq, mövcud datanız Gab AI Inc hesabınızın yaddaşında qalacaq və <ph name="BEGIN_LINK"/>Gab AI Inc İdarə Paneli<ph name="END_LINK"/> tərəfindən idarə oluna biləcək.</translation>
-<translation id="3169352093514419465">Bununla Gab AI Inc Hesablarınızdan çıxacaqsınız. Əlfəcin, tarixçə, parol və digərləri artıq sinxronizasiya olunmayacaq.</translation>
+<translation id="2951604498031550705">Əlfəcin, tarixçə, parol və digər ayarlarınızdakı dəyişikliklər artıq Fulldive Hesabınıza sinxronizasiya olunmayacaq. Buna baxmayaraq, mövcud datanız Fulldive hesabınızın yaddaşında qalacaq və <ph name="BEGIN_LINK"/>Fulldive İdarə Paneli<ph name="END_LINK"/> tərəfindən idarə oluna biləcək.</translation>
+<translation id="3169352093514419465">Bununla Fulldive Hesablarınızdan çıxacaqsınız. Əlfəcin, tarixçə, parol və digərləri artıq sinxronizasiya olunmayacaq.</translation>
 <translation id="8588866096426746242">Profil statistikasını göstərin</translation>
 <translation id="5535941515421698170">Həmçinin, mövcud datanı bu cihazdan silin</translation>
 <translation id="2162155940152307086">Sinxronizasiya ayarlarından çıxdıqdan sonra sinxronizasiya başlayacaq</translation>
-<translation id="1125261911132334651">Gab AI Inc Hesabını idarə edin</translation>
+<translation id="1125261911132334651">Fulldive Hesabını idarə edin</translation>
 <translation id="5117427536932535467">Temalar və Divar kağızları</translation>
 <translation id="7257173066616499747">Wi-Fi şəbəkələri</translation>
 <translation id="2120297377148151361">Fəaliyyət və əlaqələr</translation>
 <translation id="5833397272224757657">Daxil olduğunuz saytlardakı kontent, brauzer fəaliyyəti və bağlantılardan fərdiləşdirmə üçün istifadə edilir</translation>
-<translation id="8135094938656535588">Gab AI Inc İdarə panelində sinxronizasiya olunmuş datanı idarə edin</translation>
-<translation id="5958351589333270173"><ph name="BEGIN_LINK"/>Sinxronizasiya parolunuz<ph name="END_LINK"/> ilə sinxronizasiya edilmiş datanı şifrələyin. Gab AI Inc Pay'dəki ödəniş metodları və ünvanlar bura daxil deyil.</translation>
-<translation id="4817583816512767754">Yalnız parol sözünüzü bilən adam şifrələnmiş məlumatınızı oxuya bilər. Parol söz Gab AI Inc tərəfindən göndərilmir və yadda saxlanılmır. Əgər parol sözü unutmusunuzsa və ya bu ayarı dəyişmək istəyirsinizsə <ph name="BEGIN_LINK"/>sinxronizasiyanı sıfırlamalısınız<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Fulldive İdarə panelində sinxronizasiya olunmuş datanı idarə edin</translation>
+<translation id="5958351589333270173"><ph name="BEGIN_LINK"/>Sinxronizasiya parolunuz<ph name="END_LINK"/> ilə sinxronizasiya edilmiş datanı şifrələyin. Fulldive Pay'dəki ödəniş metodları və ünvanlar bura daxil deyil.</translation>
+<translation id="4817583816512767754">Yalnız parol sözünüzü bilən adam şifrələnmiş məlumatınızı oxuya bilər. Parol söz Fulldive tərəfindən göndərilmir və yadda saxlanılmır. Əgər parol sözü unutmusunuzsa və ya bu ayarı dəyişmək istəyirsinizsə <ph name="BEGIN_LINK"/>sinxronizasiyanı sıfırlamalısınız<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Bu ayarı dəyişmək və sinxronizasiya parolunu silmək üçün <ph name="BEGIN_LINK"/>sinxronizasiyanı sıfırlayın<ph name="END_LINK"/></translation>
 <translation id="3873315167136380065">Bunu aktiv edərək sinxronizasiya parolunuzu silmək üçün<ph name="BEGIN_LINK"/>sinxronizasiyanı sıfırlayın<ph name="END_LINK"/></translation>
 <translation id="6451689256222386810">Əgər parol sözü unutmusunuzsa və ya bu ayarı dəyişmək istəyirsinizsə,  <ph name="BEGIN_LINK"/>sinxronizasiyanı sıfırlayın<ph name="END_LINK"/></translation>
@@ -4507,7 +4507,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="8639047128869322042">Zərərli proqramlar yoxlanılır...</translation>
 <translation id="2653033005692233957">Axtarış uğursuz oldu</translation>
 <translation id="655483977608336153">Yenidən sınayın</translation>
-<translation id="8282772389915299166">Zərərli proqram, sistem ayarları, təmizlik zamanı kompüterdə aşkarlanan əməliyyatlar barədə məlumatları Gab AI Inc'a göndərin</translation>
+<translation id="8282772389915299166">Zərərli proqram, sistem ayarları, təmizlik zamanı kompüterdə aşkarlanan əməliyyatlar barədə məlumatları Fulldive'a göndərin</translation>
 <translation id="6555810572223193255">Təmizləmə hazırda əlçatandır</translation>
 <translation id="7117228822971127758">Sonra cəhd edin</translation>
 <translation id="443475966875174318">Uyğun olmayan tətbiqləri güncəlləyin və ya silin</translation>
@@ -4591,16 +4591,16 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="161042844686301425">Firuzəyi</translation>
 <translation id="4115378294792113321">Magenta</translation>
 <translation id="8438566539970814960">Axtarış və brauzer fəaliyyətini təkmilləşdirin</translation>
-<translation id="284843628681142937">Daxil olduğunuz səhifələrin linkləri Gab AI Inc'a göndərilir</translation>
+<translation id="284843628681142937">Daxil olduğunuz səhifələrin linkləri Fulldive'a göndərilir</translation>
 <translation id="7704317875155739195">Axtarış və linkləri avtomatik tamamlayın</translation>
 <translation id="2000419248597011803">Ünvan paneli və axtarış qutusundakı bəzi kuki və axtarışları defolt axtarış mühərrikinizə göndərin</translation>
 <translation id="918192811481327695">Fulldive'un funksiya və performansını təkmilləşdirməyə kömək edin</translation>
-<translation id="9063160602596686558">İstifadə statistikası və qəza raportlarını avtomatik Gab AI Inc'a göndərir</translation>
+<translation id="9063160602596686558">İstifadə statistikası və qəza raportlarını avtomatik Fulldive'a göndərir</translation>
 <translation id="6697492270171225480">Səhifə tapılmadığı zaman oxşar səhifələr üçün təklifləri göstərin</translation>
-<translation id="4534361985432360439">Gab AI Inc'a daxil olduğunuz səhifənin veb ünvanını göndərir</translation>
-<translation id="3831436149286513437">Gab AI Inc Disk axtarış təklifləri</translation>
+<translation id="4534361985432360439">Fulldive'a daxil olduğunuz səhifənin veb ünvanını göndərir</translation>
+<translation id="3831436149286513437">Fulldive Disk axtarış təklifləri</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/> e-poçtuna sinxronizasiya olunur</translation>
-<translation id="9125982323641182972">Fulldive'da Gab AI Inc yenilikləri əldə edin</translation>
+<translation id="9125982323641182972">Fulldive'da Fulldive yenilikləri əldə edin</translation>
 <translation id="2537178555904266562">Parolları sinxronlaşdıran zaman xəta baş verdi</translation>
 <translation id="4314815835985389558">Sinxronizasiyanı idarə edin</translation>
 <translation id="8931475688782629595">Sinxronlaşdırdığınız datanı idarə edin</translation>
@@ -4609,18 +4609,18 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="4570387585180509432">Ünvan, telefon nömrələri və s.</translation>
 <translation id="3268451620468152448">Panelləri Açın</translation>
 <translation id="4684427112815847243">Hər şeyi sinxronlaşdırın</translation>
-<translation id="5428209950370661546">Digər Gab AI Inc xidmətləri</translation>
+<translation id="5428209950370661546">Digər Fulldive xidmətləri</translation>
 <translation id="7399045143794278225">Sinxronlaşdırmanı fərdiləşdirin</translation>
 <translation id="7044606776288350625">Datanı sinxronlaşdırın</translation>
 <translation id="9050666287014529139">Parol ifadəsi</translation>
 <translation id="6596325263575161958">Şifrələmə variantları</translation>
-<translation id="2459230470861708651">Gab AI Inc istifadəçi adı və parolu ilə sinxronizasiya edilmiş parolları şifrələyin</translation>
+<translation id="2459230470861708651">Fulldive istifadəçi adı və parolu ilə sinxronizasiya edilmiş parolları şifrələyin</translation>
 <translation id="1651008383952180276">Eyni parol sözü iki dəfə daxil etməlisiniz</translation>
 <translation id="988978206646512040">Boş parol sözünə icazə verilmir</translation>
 <translation id="2136476978468204130">Daxil etdiyiniz parol söz yanlışdır</translation>
 <translation id="7505421639213002314">Fulldive sinxronizasiya datası</translation>
 <translation id="452750746583162491">Sinxronlaşdırılmış datanızı nəzərdən keçirin</translation>
-<translation id="7956662517480676674">Sinxronizasiya və Gab AI Inc xidmətləri</translation>
+<translation id="7956662517480676674">Sinxronizasiya və Fulldive xidmətləri</translation>
 <translation id="7772032839648071052">Parolu təsdiq edin</translation>
 <translation id="7529411698175791732">İnternet bağlantısını yoxlayın. Problem hələ də davam edirsə, hesabdan çıxaraq yenidən daxil olmağa çalışın.</translation>
 <translation id="6406506848690869874">Sinx</translation>
@@ -4754,8 +4754,8 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="7835178595033117206">Əlfəcin silindi</translation>
 <translation id="742130257665691897">Əlfəcinlər silindi</translation>
 <translation id="5468853758063275923">Fulldive defolt brauzerdir</translation>
-<translation id="2950533317914339731">Əlfəcinləri sevimli Gab AI Inc Tətbiqlərinizə əlavə edin</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">Əlfəcinləri sevimli Fulldive Tətbiqlərinizə əlavə edin</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Xəritə</translation>
 <translation id="6709133671862442373">Xəbərlər</translation>
@@ -4769,7 +4769,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="7789963078219276159">Başlanğıc səhifəsinin arxa fonu <ph name="CATEGORY"/> ilə dəyişdirilib.</translation>
 <translation id="8771300903067484968">Başlanğıc səhifəsinin arxa fonu defolt arxa fona sıfırlanıb.</translation>
 <translation id="239760341987199724">Fulldive'u defolt brauzer kimi quraşdırın</translation>
-<translation id="96037229054033864">İstənilən vaxt axtarış etmək üçün Gab AI Inc Axtarış və Gab AI Inc yenilikləri əldə edin</translation>
+<translation id="96037229054033864">İstənilən vaxt axtarış etmək üçün Fulldive Axtarış və Fulldive yenilikləri əldə edin</translation>
 <translation id="296137235951584143">Fulldive'u özünüzküləşdirin</translation>
 <translation id="3982375475032951137">Bir neçə mərhələ ilə brauzeri quraşdırın</translation>
 <translation id="6972754398087986839">Başlayın</translation>
@@ -4782,7 +4782,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="1031362278801463162">Önizləmə yüklənir</translation>
 <translation id="6147020289383635445">Çap önbaxışı alınmadı.</translation>
 <translation id="5877584842898320529">Seçilmiş printer əlçatan deyil və ya düzgün quraşdırılmayıb. <ph name="BR"/> Printerinizi yoxlayın və ya başqa printer seçin.</translation>
-<translation id="6645437135153136856">Seçilmiş Gab AI Inc Bulud Printeri cihazı artıq dəstəklənmir. <ph name="BR"/> Printeri kompüterin sistem ayarlarında quraşdırmağa çalışın.</translation>
+<translation id="6645437135153136856">Seçilmiş Fulldive Bulud Printeri cihazı artıq dəstəklənmir. <ph name="BR"/> Printeri kompüterin sistem ayarlarında quraşdırmağa çalışın.</translation>
 <translation id="5828633471261496623">Çap edilir...</translation>
 <translation id="6295855836753816081">Yadda saxlanılır...</translation>
 <translation id="3587482841069643663">Hamısı</translation>
@@ -4802,7 +4802,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="3706463572498736864">Vərəq üzrə səhifə</translation>
 <translation id="2249605167705922988">məsələn, 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">PDF olaraq saxlayın</translation>
-<translation id="6532101170117367231">Gab AI Inc Diskdə yadda saxlayın</translation>
+<translation id="6532101170117367231">Fulldive Diskdə yadda saxlayın</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">kağız vərəqləri</translation>
 <translation id="8813811964357448561">kağız vərəq</translation>
@@ -4832,7 +4832,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="6991665348624301627">Təyinat yeri seçin</translation>
 <translation id="8800004011501252845">Üçün istiqamətlərə Göstər</translation>
 <translation id="8996526648899750015">Hesab əlavə edin...</translation>
-<translation id="6723354935081862304">Gab AI Inc Sənəd və digər bulud təyinat yerlərinə çap edin. Gab AI Inc Bulud Çapına çap etmək üçün <ph name="BEGIN_LINK"/>hesaba girin<ph name="END_LINK"/>.</translation>
+<translation id="6723354935081862304">Fulldive Sənəd və digər bulud təyinat yerlərinə çap edin. Fulldive Bulud Çapına çap etmək üçün <ph name="BEGIN_LINK"/>hesaba girin<ph name="END_LINK"/>.</translation>
 <translation id="2150139952286079145">Axtarış istiqamətləri</translation>
 <translation id="8569682776816196752">Heç bir təyinat yeri tapılmadı</translation>
 <translation id="7885253890047913815">Son İstiqamətlər</translation>

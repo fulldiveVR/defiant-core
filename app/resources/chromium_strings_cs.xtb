@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Logo Fulldive</translation>
 <translation id="7339898014177206373">Nové okno</translation>
 <translation id="5516268345616100622">Správce úloh – Fulldive</translation>
-<translation id="7918740962659365265">Pomozte aplikaci Fulldive zlepšovat tím, že budete společnosti Gab AI Inc zasílat zprávy o selhání a <ph name="UMA_LINK"/>.</translation>
+<translation id="7918740962659365265">Pomozte aplikaci Fulldive zlepšovat tím, že budete společnosti Fulldive zasílat zprávy o selhání a <ph name="UMA_LINK"/>.</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> – Fulldive</translation>
 <translation id="7830723774663008396">Fulldive – <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – přihlášení k síti – Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldive nemůže číst ani zapisovat do svého datového adresáře:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Volitelné: Pomozte Fulldive zlepšit – posílejte automaticky společnosti Gab AI Inc statistiky využití a zprávy o selhání aplikace.</translation>
+<translation id="8417700129970341035">Volitelné: Pomozte Fulldive zlepšit – posílejte automaticky společnosti Fulldive statistiky využití a zprávy o selhání aplikace.</translation>
 <translation id="1489465648257900784">Nelze použít váš profil, protože byl vytvořen v novější verzi prohlížeče Fulldive.
 
 Některé funkce mohou být nedostupné. Zadejte prosím jiný adresář profilu, nebo používejte novější verzi prohlížeče Fulldive.</translation>
@@ -44,7 +44,7 @@ Některé funkce možná nebudou k dispozici a změny nastavení se neuloží.</
 
 Fulldive nemůže vaše nastavení obnovit.</translation>
 <translation id="1477146545787277177">Ouha! Prohlížeč Fulldive spadl. Chcete jej znovu spustit?</translation>
-<translation id="5785919770853225148">Fulldive vám toto heslo uloží do účtu Gab AI Inc. Nebudete si ho muset pamatovat.</translation>
+<translation id="5785919770853225148">Fulldive vám toto heslo uloží do účtu Fulldive. Nebudete si ho muset pamatovat.</translation>
 <translation id="8211837073776713955">Pokud vaše hesla někdo prolomí, Fulldive vás o tom bude informovat</translation>
 <translation id="113959764510199339">Fulldive se pokouší zobrazit hesla.</translation>
 <translation id="96347285368592620">Fulldive se pokouší zkopírovat hesla.</translation>
@@ -85,7 +85,7 @@ Fulldive nemůže vaše nastavení obnovit.</translation>
 <translation id="9183662282810237335">Přesto Fulldive ukončit?</translation>
 <translation id="3834935463915107022">Přesto Fulldive ukončit?</translation>
 <translation id="8797356639448065696">Fulldive je v režimu na pozadí.</translation>
-<translation id="2339258256897053758">Chybí klíče rozhraní Gab AI Inc API. Některé funkce Fulldive nebudou k dispozici.</translation>
+<translation id="2339258256897053758">Chybí klíče rozhraní Fulldive API. Některé funkce Fulldive nebudou k dispozici.</translation>
 <translation id="7861579472672677409">Do prohlížeče Fulldive bylo přidáno rozšíření <ph name="EXTENSION_NAME"/></translation>
 <translation id="8516116288943000095">Také vymazat data z prohlížeče Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Skrýt v nabídce Fulldive</translation>
@@ -109,8 +109,8 @@ Fulldive nemůže vaše nastavení obnovit.</translation>
 <translation id="2925193881330501265">K prohlížeči Fulldive jste byli přihlášeni s účtem <ph name="USER_EMAIL_ADDRESS"/>. Přihlaste se prosím znovu pomocí stejného účtu.</translation>
 <translation id="847561904663814268">Prohlížeč Fulldive v tomto počítači je již přihlášen k účtu <ph name="ACCOUNT_EMAIL_LAST"/>. Chcete-li své informace uchovat odděleně, vytvořte nového uživatele prohlížeče Fulldive.</translation>
 <translation id="1853997773668795891">Opravdu chcete propojit údaje prohlížeče Fulldive s tímto účtem?</translation>
-<translation id="1326766910007115955">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem prohlížeče Fulldive. Vaše údaje prohlížeče Fulldive, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME"/>. Tyto údaje budete moci smazat pomocí Hlavního panelu v Účtech Gab AI Inc, ale nebudete je moci přidružit k jinému účtu. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem prohlížeče Fulldive. Vaše údaje prohlížeče Fulldive, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME"/>. Tyto údaje budete moci smazat pomocí stránky Dashboard služby Účty Gab AI Inc, ale nebudete je moci přidružit k jinému účtu. Pokud chcete uchovat existující údaje prohlížeče Fulldive odděleně, můžete vytvořit nový profil. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem prohlížeče Fulldive. Vaše údaje prohlížeče Fulldive, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME"/>. Tyto údaje budete moci smazat pomocí Hlavního panelu v Účtech Fulldive, ale nebudete je moci přidružit k jinému účtu. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem prohlížeče Fulldive. Vaše údaje prohlížeče Fulldive, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME"/>. Tyto údaje budete moci smazat pomocí stránky Dashboard služby Účty Fulldive, ale nebudete je moci přidružit k jinému účtu. Pokud chcete uchovat existující údaje prohlížeče Fulldive odděleně, můžete vytvořit nový profil. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Administrátor systému nakonfiguroval prohlížeč Fulldive tak, aby pro přístup k adrese <ph name="TARGET_URL_HOSTNAME"/> otevřel alternativní prohlížeč.</translation>
 <translation id="5380963249588143069">Administrátor systému nakonfiguroval prohlížeč Fulldive tak, aby pro přístup k adrese <ph name="TARGET_URL_HOSTNAME"/> otevřel prohlížeč <ph name="ALTERNATIVE_BROWSER_NAME"/>.</translation>
 <translation id="2591326305549412656">Před vámi prohlížeč Fulldive používal uživatel <ph name="USER_EMAIL_ADDRESS"/></translation>
@@ -134,7 +134,7 @@ Fulldive nemůže vaše nastavení obnovit.</translation>
 <translation id="239760341987199724">Nastavit Fulldive jako výchozí prohlížeč</translation>
 <translation id="669092380621816981">Ze zařízení budou smazány údaje této osoby o prohlížení. Budete-li je chtít znovu získat, přihlaste se do prohlížeče Fulldive jako <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Prohlížeč Fulldive je opět o něco lepší</translation>
-<translation id="7192666605334070839">Používání prohlížeče Fulldive se spravovaným účtem Gab AI Inc a sdílenými počítači je teď snazší.</translation>
+<translation id="7192666605334070839">Používání prohlížeče Fulldive se spravovaným účtem Fulldive a sdílenými počítači je teď snazší.</translation>
 <translation id="4100716194836114130">Toto je váš prohlížeč Fulldive</translation>
 <translation id="3511996232906761537">Zde jsou k dispozici vaše weby, záložky a další obsah prohlížeče Fulldive.</translation>
 <translation id="7406627712452599344">Hosté mohou Fulldive používat, aniž by po nich zůstaly jakékoliv stopy.</translation>
@@ -151,7 +151,7 @@ Fulldive nemůže vaše nastavení obnovit.</translation>
 <translation id="1912973375560256099">Pravidlo příchozího provozu pro prohlížeč Fulldive, které povolí provoz mDNS.</translation>
 <translation id="8207657266087451193">Pokud obrázek nemá užitečný popis, Fulldive se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu. Tuto funkci můžete kdykoliv vypnout v nastavení.</translation>
 <translation id="5499063270485366718">Pokud obrázek nemá užitečný popis, Fulldive se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu.</translation>
-<translation id="215320507915280336">Tato funkce využívá stejnou službu kontroly pravopisu, jaká se používá ve vyhledávání Gab AI Inc. Text, který v prohlížeči zadáte, se odešle do Googlu. Toto chování můžete kdykoliv změnit v nastavení.</translation>
+<translation id="215320507915280336">Tato funkce využívá stejnou službu kontroly pravopisu, jaká se používá ve vyhledávání Fulldive. Text, který v prohlížeči zadáte, se odešle do Googlu. Toto chování můžete kdykoliv změnit v nastavení.</translation>
 <translation id="1807774211756215222">Otevřít odkaz na nové kar&amp;tě prohlížeče Fulldive</translation>
 <translation id="4624945300945265642">Otevřít odkaz v &amp;anonymním okně prohlížeče Fulldive</translation>
 <translation id="7863882214613921971">Otevřít odkaz na nové kar&amp;tě prohlížeče Fulldive</translation>
@@ -205,7 +205,7 @@ Fulldive nemůže vaše nastavení obnovit.</translation>
 <translation id="7573289029918943991">Chcete-li se podívat, zda je zařízení aktualizované, přejděte do <ph name="LINK_BEGIN"/>Nastavení operačního systému Fulldive<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Pomoc se systémem Fulldive OS</translation>
 <translation id="38898988211673781">Při ukončení prohlížeče Fulldive vymazat soubory cookie a data webů</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (zkopírováno do prohlížeče Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (zkopírováno do prohlížeče Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive je vaším výchozím prohlížečem</translation>
 <translation id="1775322105159056176">Fulldive nemůže určit ani nastavit výchozí prohlížeč</translation>
 <translation id="6915252145142862992">Toto je druhá instalace prohlížeče Fulldive. Tuto instalaci nelze nastavit jako výchozí prohlížeč.</translation>
@@ -214,7 +214,7 @@ Fulldive nemůže vaše nastavení obnovit.</translation>
 <translation id="2312399718665761438">Text zadaný do textových polí odesílá Fulldive kvůli opravě pravopisných chyb do Googlu</translation>
 <translation id="8586264863973514035">Chcete-li změny použít, restartujte Fulldive</translation>
 <translation id="7021823858304886493">Povolit přihlášení do prohlížeče Fulldive</translation>
-<translation id="1649714546770135458">Pokud tuto možnost vypnete, budete se moci přihlásit k většině webů Gab AI Inc, jako je Gmail, aniž byste se přihlásili do prohlížeče Fulldive</translation>
+<translation id="1649714546770135458">Pokud tuto možnost vypnete, budete se moci přihlásit k většině webů Fulldive, jako je Gmail, aniž byste se přihlásili do prohlížeče Fulldive</translation>
 <translation id="2796517443093885402">Fulldive vás pomáhá chránit před porušeními zabezpečení údajů, škodlivými rozšířeními a dalšími hrozbami</translation>
 <translation id="428541510811554120">Fulldive nemůže vyhledat dostupné aktualizace. Zkuste zkontrolovat připojení k internetu.</translation>
 <translation id="2633397153656205379">Prohlížeč Fulldive se neaktualizoval, něco se pokazilo. <ph name="BEGIN_LINK"/>Vyřešte problémy se stahováním aktualizací prohlížeče Fulldive a neúspěšnými aktualizacemi.<ph name="END_LINK"/></translation>

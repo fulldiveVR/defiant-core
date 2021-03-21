@@ -44,7 +44,7 @@ Nekatere funkcije morda niso na voljo in spremembe nastavitev ne bodo shranjene.
 
 Fulldive ne more obnoviti vaših nastavitev.</translation>
 <translation id="1477146545787277177">Opa! Fulldive se je zrušil. Ga želite znova zagnati?</translation>
-<translation id="5785919770853225148">Fulldive bo shranil to geslo v Gab AI Inc Računu. Ni si vam ga treba zapomniti.</translation>
+<translation id="5785919770853225148">Fulldive bo shranil to geslo v Fulldive Računu. Ni si vam ga treba zapomniti.</translation>
 <translation id="8211837073776713955">Fulldive vam sporoči, ali so gesla ogrožena</translation>
 <translation id="113959764510199339">Fulldive poskuša prikazati gesla.</translation>
 <translation id="96347285368592620">Fulldive poskuša kopirati gesla.</translation>
@@ -85,7 +85,7 @@ Fulldive ne more obnoviti vaših nastavitev.</translation>
 <translation id="9183662282810237335">Želite vseeno zapreti Fulldive?</translation>
 <translation id="3834935463915107022">Želite vseeno zapreti Fulldive?</translation>
 <translation id="8797356639448065696">Fulldive se izvaja v ozadju.</translation>
-<translation id="2339258256897053758">Manjkajo ključi za Gab AI Inc API. Nekatere funkcije Fulldivea bodo onemogočene.</translation>
+<translation id="2339258256897053758">Manjkajo ključi za Fulldive API. Nekatere funkcije Fulldivea bodo onemogočene.</translation>
 <translation id="7861579472672677409">Razširitev <ph name="EXTENSION_NAME"/> je dodana v Fulldive</translation>
 <translation id="8516116288943000095">Počisti tudi podatke iz Fulldivea (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Skrij v meniju Fulldivea</translation>
@@ -109,8 +109,8 @@ Fulldive ne more obnoviti vaših nastavitev.</translation>
 <translation id="2925193881330501265">V Fulldive ste bili prijavljeni kot <ph name="USER_EMAIL_ADDRESS"/>. Pri vnovični prijavi uporabite isti račun.</translation>
 <translation id="847561904663814268">Nekdo se je prijavil v Fulldive v tem računalniku kot <ph name="ACCOUNT_EMAIL_LAST"/>. Ustvarite nov uporabniški profil za Fulldive, če želite, da bodo vaši podatki ločeni.</translation>
 <translation id="1853997773668795891">Želite svoje podatke v Fulldiveu povezati s tem računom?</translation>
-<translation id="1326766910007115955">Prijavljate se z upravljanim računom in s tem njegovemu skrbniku omogočate nadzor vašega profila v Fulldiveu. Vaši podatki v Fulldiveu, kot so aplikacije, zaznamki, zgodovina, gesla in druge nastavitve, bodo postali trajno povezani z uporabnikom <ph name="USER_NAME"/>. Te podatke boste lahko izbrisali na nadzorni plošči za Gab AI Inc Račune, vendar jih ne boste mogli povezati z drugim računom. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Prijavljate se z upravljanim računom in s tem njegovemu skrbniku omogočate nadzor vašega profila v Fulldiveu. Vaši podatki v Fulldiveu, kot so aplikacije, zaznamki, zgodovina, gesla in druge nastavitve, bodo postali trajno povezani z uporabnikom <ph name="USER_NAME"/>. Te podatke boste lahko izbrisali na nadzorni plošči za Gab AI Inc Račune, vendar jih ne boste mogli povezati z drugim računom. Če želite, lahko ustvarite nov profil, da bodo obstoječi podatki v Fulldiveu ostali ločeni. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Prijavljate se z upravljanim računom in s tem njegovemu skrbniku omogočate nadzor vašega profila v Fulldiveu. Vaši podatki v Fulldiveu, kot so aplikacije, zaznamki, zgodovina, gesla in druge nastavitve, bodo postali trajno povezani z uporabnikom <ph name="USER_NAME"/>. Te podatke boste lahko izbrisali na nadzorni plošči za Fulldive Račune, vendar jih ne boste mogli povezati z drugim računom. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Prijavljate se z upravljanim računom in s tem njegovemu skrbniku omogočate nadzor vašega profila v Fulldiveu. Vaši podatki v Fulldiveu, kot so aplikacije, zaznamki, zgodovina, gesla in druge nastavitve, bodo postali trajno povezani z uporabnikom <ph name="USER_NAME"/>. Te podatke boste lahko izbrisali na nadzorni plošči za Fulldive Račune, vendar jih ne boste mogli povezati z drugim računom. Če želite, lahko ustvarite nov profil, da bodo obstoječi podatki v Fulldiveu ostali ločeni. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Skrbnik sistema je Fulldive nastavil tako, da za dostop do <ph name="TARGET_URL_HOSTNAME"/> odpre drug brskalnik.</translation>
 <translation id="5380963249588143069">Skrbnik sistema je Fulldive nastavil tako, da za dostop do <ph name="TARGET_URL_HOSTNAME"/> odpre brskalnik <ph name="ALTERNATIVE_BROWSER_NAME"/>.</translation>
 <translation id="2591326305549412656">Uporabnik <ph name="USER_EMAIL_ADDRESS"/> je prej uporabljal Fulldive</translation>
@@ -134,7 +134,7 @@ Fulldive ne more obnoviti vaših nastavitev.</translation>
 <translation id="239760341987199724">Nastavitev Fulldivea za privzeti brskalnik</translation>
 <translation id="669092380621816981">Podatki brskanja te osebe bodo izbrisani iz te naprave. Če želite podatke obnoviti, se prijavite v Fulldive kot <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Fulldive je pravkar postal še boljši</translation>
-<translation id="7192666605334070839">Zdaj je Fulldive lažje uporabljati z Gab AI Inc Računom in v računalnikih, ki so v skupni rabi.</translation>
+<translation id="7192666605334070839">Zdaj je Fulldive lažje uporabljati z Fulldive Računom in v računalnikih, ki so v skupni rabi.</translation>
 <translation id="4100716194836114130">To je vaš Fulldive</translation>
 <translation id="3511996232906761537">Tu so shranjeni vaš splet, zaznamki in druge stvari v Fulldiveu.</translation>
 <translation id="7406627712452599344">Gostje lahko uporabljajo Fulldive, ne da bi za seboj pustili kar koli.</translation>
@@ -151,7 +151,7 @@ Fulldive ne more obnoviti vaših nastavitev.</translation>
 <translation id="1912973375560256099">Pravilo za dohodni promet za Fulldive, ki omogoča promet mDNS.</translation>
 <translation id="8207657266087451193">Če slika nima koristnega opisa, ga bo Fulldive poskušal zagotoviti. Opisi se ustvarijo tako, da se slike pošljejo Googlu. To lahko kadar koli izklopite v nastavitvah.</translation>
 <translation id="5499063270485366718">Če slika nima koristnega opisa, ga bo Fulldive poskušal zagotoviti. Opisi se ustvarijo tako, da se slike pošljejo Googlu.</translation>
-<translation id="215320507915280336">Uporabljeno je isto preverjanje črkovanja kot v Iskanju Gab AI Inc. Besedilo, ki ga vnesete v brskalniku, je poslano Googlu. To lahko kadar koli spremenite v nastavitvah.</translation>
+<translation id="215320507915280336">Uporabljeno je isto preverjanje črkovanja kot v Iskanju Fulldive. Besedilo, ki ga vnesete v brskalniku, je poslano Googlu. To lahko kadar koli spremenite v nastavitvah.</translation>
 <translation id="1807774211756215222">Odpiranje povezave na novem &amp;zavihku v Fulldiveu</translation>
 <translation id="4624945300945265642">Odpri povezavo v Fulldiveovem oknu brez bele&amp;ženja zgodovine</translation>
 <translation id="7863882214613921971">Odpiranje povezave na novem &amp;zavihku v Fulldiveu</translation>
@@ -205,7 +205,7 @@ Fulldive ne more obnoviti vaših nastavitev.</translation>
 <translation id="7573289029918943991">Če želite preveriti, ali je naprava posodobljena, odprite <ph name="LINK_BEGIN"/>nastavitve sistema Fulldive<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Pomoč za OS Fulldive</translation>
 <translation id="38898988211673781">Izbris piškotkov in podatkov spletnih mest, ko zaprete Fulldive</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (kopirano v Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (kopirano v Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive je privzeti brskalnik</translation>
 <translation id="1775322105159056176">Fulldive ne more določiti ali nastaviti privzetega brskalnika</translation>
 <translation id="6915252145142862992">To je sekundarna namestitev Fulldivea in ga ni mogoče nastaviti kot privzeti brskalnik.</translation>

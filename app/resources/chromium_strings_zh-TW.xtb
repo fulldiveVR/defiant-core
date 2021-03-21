@@ -10,7 +10,7 @@
 <translation id="4847979153841887006">Fulldive 標誌</translation>
 <translation id="7339898014177206373">新視窗</translation>
 <translation id="5516268345616100622">工作管理員 - Fulldive</translation>
-<translation id="7918740962659365265">將當機報告和<ph name="UMA_LINK"/>傳送給 Gab AI Inc，助我們一臂之力，讓 Fulldive 更臻完美</translation>
+<translation id="7918740962659365265">將當機報告和<ph name="UMA_LINK"/>傳送給 Fulldive，助我們一臂之力，讓 Fulldive 更臻完美</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - 網路登入 - Fulldive</translation>
@@ -36,7 +36,7 @@
 <translation id="2585240446624043880">Fulldive 無法讀取及寫入資料目錄：
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">選用：將使用統計資料及當機報告自動傳送給 Gab AI Inc，助我們一臂之力，讓 Fulldive 更臻完美。</translation>
+<translation id="8417700129970341035">選用：將使用統計資料及當機報告自動傳送給 Fulldive，助我們一臂之力，讓 Fulldive 更臻完美。</translation>
 <translation id="1489465648257900784">由於你的設定檔是來自較新版本的 Fulldive，所以系統無法使用該檔案。
 
 這表示你可能無法使用部分功能。請指定另一個設定檔目錄，或使用較新版本的 Fulldive。</translation>
@@ -45,7 +45,7 @@
 
 Fulldive 無法復原你的設定。</translation>
 <translation id="1477146545787277177">Fulldive 當機了，要立即重新啟動嗎？</translation>
-<translation id="5785919770853225148">Fulldive 會將這組密碼儲存至你的 Gab AI Inc 帳戶，你不須記住密碼。</translation>
+<translation id="5785919770853225148">Fulldive 會將這組密碼儲存至你的 Fulldive 帳戶，你不須記住密碼。</translation>
 <translation id="8211837073776713955">Fulldive 會通知你密碼是否曾遭外洩</translation>
 <translation id="113959764510199339">Fulldive 即將顯示密碼。</translation>
 <translation id="96347285368592620">Fulldive 正在嘗試複製密碼。</translation>
@@ -86,7 +86,7 @@ Fulldive 無法復原你的設定。</translation>
 <translation id="9183662282810237335">確定要結束 Fulldive 嗎？</translation>
 <translation id="3834935463915107022">確定要關閉 Fulldive 嗎？</translation>
 <translation id="8797356639448065696">Fulldive 正在背景模式中執行。</translation>
-<translation id="2339258256897053758">缺少 Gab AI Inc API 金鑰，系統將停用 Fulldive 的部分功能。</translation>
+<translation id="2339258256897053758">缺少 Fulldive API 金鑰，系統將停用 Fulldive 的部分功能。</translation>
 <translation id="7861579472672677409">已將「<ph name="EXTENSION_NAME"/>」加到 Fulldive</translation>
 <translation id="8516116288943000095">一併清除 Fulldive 中的資料 (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">在 Fulldive 選單中隱藏</translation>
@@ -110,8 +110,8 @@ Fulldive 無法復原你的設定。</translation>
 <translation id="2925193881330501265">你使用了 <ph name="USER_EMAIL_ADDRESS"/> 的身分登入 Fulldive，請使用相同帳戶重新登入。</translation>
 <translation id="847561904663814268">先前已有其他使用者使用 <ph name="ACCOUNT_EMAIL_LAST"/> 在這部電腦上登入 Fulldive。請建立新的 Fulldive 使用者，以便另行保存你的資訊。</translation>
 <translation id="1853997773668795891">要將你的 Fulldive 資料連結至這個帳戶嗎？</translation>
-<translation id="1326766910007115955">你已登入管理化環境下的帳戶，並將管理控制權授予你的 Fulldive 設定檔。你的 Fulldive 資料 (例如應用程式、書籤、記錄、密碼和其他設定) 均將永久與 <ph name="USER_NAME"/> 建立關聯。你可以透過 Gab AI Inc 帳戶資訊主頁刪除這些資料，但你無法將這些資料與其他帳戶建立關聯。<ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">你已登入管理化環境下的帳戶，並將管理控制權授予你的 Fulldive 設定檔。你的 Fulldive 資料 (例如應用程式、書籤、記錄、密碼和其他設定) 均將永久與 <ph name="USER_NAME"/> 建立關聯。你可以透過 Gab AI Inc 帳戶資訊主頁刪除這些資料，但你無法將這些資料與其他帳戶建立關聯。如要另行保留現有的 Fulldive 資料，你可以選擇建立新的設定檔。<ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">你已登入管理化環境下的帳戶，並將管理控制權授予你的 Fulldive 設定檔。你的 Fulldive 資料 (例如應用程式、書籤、記錄、密碼和其他設定) 均將永久與 <ph name="USER_NAME"/> 建立關聯。你可以透過 Fulldive 帳戶資訊主頁刪除這些資料，但你無法將這些資料與其他帳戶建立關聯。<ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">你已登入管理化環境下的帳戶，並將管理控制權授予你的 Fulldive 設定檔。你的 Fulldive 資料 (例如應用程式、書籤、記錄、密碼和其他設定) 均將永久與 <ph name="USER_NAME"/> 建立關聯。你可以透過 Fulldive 帳戶資訊主頁刪除這些資料，但你無法將這些資料與其他帳戶建立關聯。如要另行保留現有的 Fulldive 資料，你可以選擇建立新的設定檔。<ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">您的系統管理員設定了 Fulldive 開啟替代瀏覽器以存取 <ph name="TARGET_URL_HOSTNAME"/>。</translation>
 <translation id="5380963249588143069">你的系統管理員已設定由 Fulldive 開啟 <ph name="ALTERNATIVE_BROWSER_NAME"/> 以存取 <ph name="TARGET_URL_HOSTNAME"/>。</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> 先前使用的是 Fulldive</translation>
@@ -135,7 +135,7 @@ Fulldive 無法復原你的設定。</translation>
 <translation id="239760341987199724">將 Fulldive 設為預設瀏覽器</translation>
 <translation id="669092380621816981">這位使用者的瀏覽資料將從這個裝置上刪除。如要還原資料，請使用 <ph name="USER_EMAIL"/> 登入 Fulldive。</translation>
 <translation id="2827121003398607864">Fulldive 變得更進步了</translation>
-<translation id="7192666605334070839">無論是登入 Gab AI Inc 帳戶使用 Fulldive，還是以 Gab AI Inc 帳戶使用共用電腦，現在都變得更容易了。</translation>
+<translation id="7192666605334070839">無論是登入 Fulldive 帳戶使用 Fulldive，還是以 Fulldive 帳戶使用共用電腦，現在都變得更容易了。</translation>
 <translation id="4100716194836114130">這是你專屬的 Fulldive</translation>
 <translation id="3511996232906761537">你瀏覽的網頁、書籤和其他 Fulldive 設定都在這裡。</translation>
 <translation id="7406627712452599344">以訪客身分使用 Fulldive 不會留下任何記錄。</translation>
@@ -156,9 +156,9 @@ Fulldive 無法復原你的設定。</translation>
 <translation id="7272074097076644710">Fulldive Beta 允許 mDNS 流量的連入規則。</translation>
 <translation id="4991512282053949769">Fulldive Nightly 允許 mDNS 流量的連入規則。</translation>
 <translation id="3856641371299712128">Fulldive Dev 允許 mDNS 流量的連入規則。</translation>
-<translation id="8207657266087451193">如果圖片缺少有用的說明，Fulldive 會嘗試為你提供說明。系統會將圖片傳送給 Gab AI Inc，以便產生說明。你隨時可以在設定中關閉這項功能。</translation>
-<translation id="5499063270485366718">如果圖片缺少有用的說明，Fulldive 會嘗試為你提供說明。系統會將圖片傳送給 Gab AI Inc，以便產生說明。</translation>
-<translation id="215320507915280336">這會使用與 Gab AI Inc 搜尋相同的拼字檢查工具。系統會將你在瀏覽器中輸入的文字傳送給 Gab AI Inc。你隨時可以在設定中變更這項行為。</translation>
+<translation id="8207657266087451193">如果圖片缺少有用的說明，Fulldive 會嘗試為你提供說明。系統會將圖片傳送給 Fulldive，以便產生說明。你隨時可以在設定中關閉這項功能。</translation>
+<translation id="5499063270485366718">如果圖片缺少有用的說明，Fulldive 會嘗試為你提供說明。系統會將圖片傳送給 Fulldive，以便產生說明。</translation>
+<translation id="215320507915280336">這會使用與 Fulldive 搜尋相同的拼字檢查工具。系統會將你在瀏覽器中輸入的文字傳送給 Fulldive。你隨時可以在設定中變更這項行為。</translation>
 <translation id="1807774211756215222">在新的 Fulldive 分頁中開啟連結(&amp;T)</translation>
 <translation id="4624945300945265642">在 Fulldive 無痕式視窗中開啟連結(&amp;G)</translation>
 <translation id="7863882214613921971">在新的 Fulldive 分頁中開啟連結(&amp;T)</translation>
@@ -212,7 +212,7 @@ Fulldive 無法復原你的設定。</translation>
 <translation id="7573289029918943991">如要查看你的裝置是否為最新版，請前往 <ph name="LINK_BEGIN"/>Fulldive 作業系統設定<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">前往 Fulldive 作業系統說明頁面</translation>
 <translation id="38898988211673781">當你關閉 Fulldive 時，清除 Cookie 和網站資料</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (已複製到 Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (已複製到 Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive 是你的預設瀏覽器</translation>
 <translation id="1775322105159056176">Fulldive 無法偵測或設定預設瀏覽器</translation>
 <translation id="6915252145142862992">這是以並存形式安裝的次要 Fulldive，無法設為您的預設瀏覽器。</translation>
@@ -220,10 +220,10 @@ Fulldive 無法復原你的設定。</translation>
       Fulldive 瀏覽器設定<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">如果這個頁面上並未顯示你的設定，請檢查 <ph name="LINK_BEGIN"/>
       Fulldive 作業系統設定<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">為修正拼字錯誤，Fulldive 會將你在文字欄位輸入的文字傳送給 Gab AI Inc</translation>
+<translation id="2312399718665761438">為修正拼字錯誤，Fulldive 會將你在文字欄位輸入的文字傳送給 Fulldive</translation>
 <translation id="8586264863973514035">如要套用變更，請重新啟動 Fulldive</translation>
 <translation id="7021823858304886493">允許登入 Fulldive</translation>
-<translation id="1649714546770135458">關閉這項功能後，你可以單獨登入 Gmail 等這類 Gab AI Inc 網站，不必同時登入 Fulldive</translation>
+<translation id="1649714546770135458">關閉這項功能後，你可以單獨登入 Gmail 等這類 Fulldive 網站，不必同時登入 Fulldive</translation>
 <translation id="2796517443093885402">Fulldive 可確保安全性，例如防範資料侵害事件或封鎖含有惡意軟體的擴充功能等等</translation>
 <translation id="428541510811554120">Fulldive 無法檢查更新，請查看你的網際網路連線狀態。</translation>
 <translation id="2633397153656205379">發生錯誤，Fulldive 未能更新。<ph name="BEGIN_LINK"/>請修正 Fulldive 更新問題與更新失敗項目。<ph name="END_LINK"/></translation>

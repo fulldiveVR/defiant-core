@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Логотип Fulldive</translation>
 <translation id="7339898014177206373">Нове вікно</translation>
 <translation id="5516268345616100622">Диспетчер завдань – Fulldive</translation>
-<translation id="7918740962659365265">Допоможіть покращити Fulldive, надсилаючи звіти про аварійне завершення роботи та <ph name="UMA_LINK"/> в Gab AI Inc</translation>
+<translation id="7918740962659365265">Допоможіть покращити Fulldive, надсилаючи звіти про аварійне завершення роботи та <ph name="UMA_LINK"/> в Fulldive</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> – Fulldive</translation>
 <translation id="7830723774663008396">Fulldive – <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – Вхід у мережу – Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldive не може читати та писати дані у свій каталог даних:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Додатково: допоможіть покращити Fulldive,  автоматично надсилаючи статистику використання та звіти про аварійне завершення роботи в Gab AI Inc.</translation>
+<translation id="8417700129970341035">Додатково: допоможіть покращити Fulldive,  автоматично надсилаючи статистику використання та звіти про аварійне завершення роботи в Fulldive.</translation>
 <translation id="1489465648257900784">Ваш профіль не можна використовувати, оскільки він створений у новішій версії Fulldive.
 
 Деякі функції можуть бути недоступними. Укажіть інший каталог профілю або скористайтеся новішою версією Fulldive.</translation>
@@ -42,7 +42,7 @@
 
 Fulldive не може відновити ваші налаштування.</translation>
 <translation id="1477146545787277177">Помилка. Fulldive аварійно завершив роботу. Перезапустити зараз?</translation>
-<translation id="5785919770853225148">Fulldive збереже цей пароль в обліковому записі Gab AI Inc. Не потрібно його запам’ятовувати.</translation>
+<translation id="5785919770853225148">Fulldive збереже цей пароль в обліковому записі Fulldive. Не потрібно його запам’ятовувати.</translation>
 <translation id="8211837073776713955">Fulldive повідомляє, коли ваші паролі зламують</translation>
 <translation id="113959764510199339">Fulldive намагається показати паролі.</translation>
 <translation id="96347285368592620">Fulldive намагається скопіювати паролі.</translation>
@@ -83,7 +83,7 @@ Fulldive не може відновити ваші налаштування.</tr
 <translation id="9183662282810237335">Усе одно вийти з Fulldive?</translation>
 <translation id="3834935463915107022">Усе одно вийти з Fulldive?</translation>
 <translation id="8797356639448065696">Fulldive у фоновому режимі.</translation>
-<translation id="2339258256897053758">Ключі API Gab AI Inc відсутні. Деякі функції Fulldive буде вимкнено.</translation>
+<translation id="2339258256897053758">Ключі API Fulldive відсутні. Деякі функції Fulldive буде вимкнено.</translation>
 <translation id="7861579472672677409">Розширення <ph name="EXTENSION_NAME"/> додано в Fulldive</translation>
 <translation id="8516116288943000095">Також очистити дані Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Сховати в меню Fulldive</translation>
@@ -107,8 +107,8 @@ Fulldive не може відновити ваші налаштування.</tr
 <translation id="2925193881330501265">Ви ввійшли в Fulldive як <ph name="USER_EMAIL_ADDRESS"/>. Скористайтеся тим самим обліковим записом, щоб увійти знову.</translation>
 <translation id="847561904663814268">Хтось раніше входив у Fulldive на цьому комп’ютері як <ph name="ACCOUNT_EMAIL_LAST"/>. Створіть нового користувача Fulldive, щоб зберігати свою інформацію окремо.</translation>
 <translation id="1853997773668795891">Пов’язати ваші дані Fulldive із цим обліковим записом?</translation>
-<translation id="1326766910007115955">Ви входите, використовуючи дані облікового запису, яким керує адміністратор. Адміністратор може контролювати ваш профіль Fulldive. Ваші дані Fulldive, як-от програми, закладки, історія, паролі й інші налаштування, буде назавжди пов’язано з обліковим записом <ph name="USER_NAME"/>. Ці дані можна видалити на інформаційній панелі Облікових записів Gab AI Inc, але ви не зможете пов’язати їх з іншим обліковим записом. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Ви входите, використовуючи дані облікового запису, яким керує адміністратор. Адміністратор може контролювати ваш профіль Fulldive. Ваші дані Fulldive, як-от програми, закладки, історія, паролі й інші налаштування, буде назавжди пов’язано з обліковим записом <ph name="USER_NAME"/>. Ці дані можна видалити на інформаційній панелі Облікових записів Gab AI Inc, але ви не зможете пов’язати їх з іншим обліковим записом. Проте ви можете створити новий профіль, щоб зберігати наявні дані Fulldive окремо. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Ви входите, використовуючи дані облікового запису, яким керує адміністратор. Адміністратор може контролювати ваш профіль Fulldive. Ваші дані Fulldive, як-от програми, закладки, історія, паролі й інші налаштування, буде назавжди пов’язано з обліковим записом <ph name="USER_NAME"/>. Ці дані можна видалити на інформаційній панелі Облікових записів Fulldive, але ви не зможете пов’язати їх з іншим обліковим записом. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Ви входите, використовуючи дані облікового запису, яким керує адміністратор. Адміністратор може контролювати ваш профіль Fulldive. Ваші дані Fulldive, як-от програми, закладки, історія, паролі й інші налаштування, буде назавжди пов’язано з обліковим записом <ph name="USER_NAME"/>. Ці дані можна видалити на інформаційній панелі Облікових записів Fulldive, але ви не зможете пов’язати їх з іншим обліковим записом. Проте ви можете створити новий профіль, щоб зберігати наявні дані Fulldive окремо. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Ваш системний адміністратор налаштував Fulldive відкривати сторінку <ph name="TARGET_URL_HOSTNAME"/> в альтернативному веб-переглядачі.</translation>
 <translation id="5380963249588143069">Ваш системний адміністратор налаштував Fulldive відкривати сторінку <ph name="TARGET_URL_HOSTNAME"/> в <ph name="ALTERNATIVE_BROWSER_NAME"/>.</translation>
 <translation id="2591326305549412656">Раніше ви входили в обліковий запис <ph name="USER_EMAIL_ADDRESS"/> у Fulldive</translation>
@@ -132,7 +132,7 @@ Fulldive не може відновити ваші налаштування.</tr
 <translation id="239760341987199724">Зробити Fulldive веб-переглядачем за умовчанням</translation>
 <translation id="669092380621816981">Дані веб-перегляду користувача буде видалено з цього пристрою. Щоб відновити їх, увійдіть в обліковий запис Fulldive як <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Fulldive став ще кращим</translation>
-<translation id="7192666605334070839">Користуватися Fulldive у своєму обліковому записі Gab AI Inc на спільних комп’ютерах стало легше.</translation>
+<translation id="7192666605334070839">Користуватися Fulldive у своєму обліковому записі Fulldive на спільних комп’ютерах стало легше.</translation>
 <translation id="4100716194836114130">Це ваш Fulldive</translation>
 <translation id="3511996232906761537">Тут містяться ваші веб-сторінки, закладки та інші дані Fulldive.</translation>
 <translation id="7406627712452599344">Гості можуть анонімно користуватися Fulldive.</translation>
@@ -147,9 +147,9 @@ Fulldive не може відновити ваші налаштування.</tr
 <translation id="2871190378186459992">Знаходьте чудові додатки, ігри, розширення й теми для Fulldive.</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">Вхідне правило для Fulldive дозволяє трафік mDNS.</translation>
-<translation id="8207657266087451193">Якщо зображення не має корисного опису, Fulldive спробує додати його. Для цього зображення надсилаються в Gab AI Inc. Ви можете будь-коли вимкнути це в налаштуваннях.</translation>
-<translation id="5499063270485366718">Якщо зображення не має корисного опису, Fulldive спробує додати його. Для цього зображення надсилаються в Gab AI Inc.</translation>
-<translation id="215320507915280336">Використовується та сама технологія перевірки правопису, що й у Пошуку Gab AI Inc. Текст, який ви вводите у веб-переглядачі, надсилається в Gab AI Inc. Це завжди можна змінити в налаштуваннях.</translation>
+<translation id="8207657266087451193">Якщо зображення не має корисного опису, Fulldive спробує додати його. Для цього зображення надсилаються в Fulldive. Ви можете будь-коли вимкнути це в налаштуваннях.</translation>
+<translation id="5499063270485366718">Якщо зображення не має корисного опису, Fulldive спробує додати його. Для цього зображення надсилаються в Fulldive.</translation>
+<translation id="215320507915280336">Використовується та сама технологія перевірки правопису, що й у Пошуку Fulldive. Текст, який ви вводите у веб-переглядачі, надсилається в Fulldive. Це завжди можна змінити в налаштуваннях.</translation>
 <translation id="1807774211756215222">Відкрити посилання в новій &amp;вкладці Fulldive</translation>
 <translation id="4624945300945265642">Відкрити посилання в аноні&amp;мному вікні Fulldive</translation>
 <translation id="7863882214613921971">Відкрити посилання в новій &amp;вкладці Fulldive</translation>
@@ -203,7 +203,7 @@ Fulldive не може відновити ваші налаштування.</tr
 <translation id="7573289029918943991">Щоб дізнатися, чи пристрій використовує актуальну версію операційної системи, перейдіть у <ph name="LINK_BEGIN"/>налаштування ОС Fulldive<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Отримати довідку щодо ОС Fulldive</translation>
 <translation id="38898988211673781">Видаляти файли cookie й дані сайтів, коли ви закриваєте Fulldive</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (скопійовано в Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (скопійовано в Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive – ваш веб-переглядач за умовчанням</translation>
 <translation id="1775322105159056176">Fulldive не може визначити чи встановити веб-переглядач за умовчанням</translation>
 <translation id="6915252145142862992">Це додаткове встановлення Fulldive. Його не можна зробити вашим веб-переглядачем за умовчанням.</translation>
@@ -211,10 +211,10 @@ Fulldive не може відновити ваші налаштування.</tr
       налаштуваннях веб-переглядача Fulldive<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Якщо налаштування не з'явиться на цій сторінці, пошукайте його в <ph name="LINK_BEGIN"/>
       налаштуваннях ОС Fulldive<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Щоб виправляти орфографічні помилки, Fulldive надсилає введений текст у Gab AI Inc</translation>
+<translation id="2312399718665761438">Щоб виправляти орфографічні помилки, Fulldive надсилає введений текст у Fulldive</translation>
 <translation id="8586264863973514035">Щоб застосувати зміни, перезапустіть Fulldive</translation>
 <translation id="7021823858304886493">Дозволити вхід у Fulldive</translation>
-<translation id="1649714546770135458">Якщо вимкнути цей параметр, ви зможете входити на сайти Gab AI Inc, як-от Gmail, без входу в Fulldive</translation>
+<translation id="1649714546770135458">Якщо вимкнути цей параметр, ви зможете входити на сайти Fulldive, як-от Gmail, без входу в Fulldive</translation>
 <translation id="2796517443093885402">Fulldive захищає від порушень безпеки даних, шкідливих розширень тощо</translation>
 <translation id="428541510811554120">Fulldive не може перевірити наявність оновлень. Перевірте інтернет-з'єднання.</translation>
 <translation id="2633397153656205379">Не вдалось оновити веб-переглядач Fulldive. <ph name="BEGIN_LINK"/>Вирішіть проблеми з оновленням Fulldive.<ph name="END_LINK"/></translation>

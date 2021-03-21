@@ -346,7 +346,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/> përfshin përmbajtje delikate.</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/> përfshin përmbajtje delikate dhe është bllokuar.</translation>
 <translation id="6651823585377804376">Shkarkimi përmban një softuer keqdashës.</translation>
-<translation id="6529597483902964581"><ph name="FILE_NAME"/> mund të jetë i rrezikshëm. Të dërgohet te "Mbrojtja e përparuar" e Gab AI Inc për skanim?</translation>
+<translation id="6529597483902964581"><ph name="FILE_NAME"/> mund të jetë i rrezikshëm. Të dërgohet te "Mbrojtja e përparuar" e Fulldive për skanim?</translation>
 <translation id="4907161631261076876">Ky skedar nuk shkarkohet zakonisht dhe mund të jetë i rrezikshëm.</translation>
 <translation id="6102043788063419338">Ky skedar është bllokuar nga "Mbrojtja e përparuar".</translation>
 <translation id="2773802008104670137">Ky lloj skedari mund ta dëmtojë kompjuterin tënd.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Shkarkimi u anulua: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Shkarkimi përfundoi: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Shkarkimi përfundoi: <ph name="FILE_NAME"/>. Shtyp Shift+F6 për të kaluar në cikël në zonën e shiritit të shkarkimeve.</translation>
-<translation id="7033965027041115562"><ph name="FILE_NAME"/> mund të jetë i rrezikshëm. Të dërgohet te "Mbrojtja e përparuar" e Gab AI Inc për skanim? Shtyp Shift+F6 për të kaluar në cikël në zonën e shiritit të shkarkimeve.</translation>
+<translation id="7033965027041115562"><ph name="FILE_NAME"/> mund të jetë i rrezikshëm. Të dërgohet te "Mbrojtja e përparuar" e Fulldive për skanim? Shtyp Shift+F6 për të kaluar në cikël në zonën e shiritit të shkarkimeve.</translation>
 <translation id="2743387203779672305">Kopjo te kujtesa e fragmenteve</translation>
 <translation id="883911313571074303">Shëno imazhin</translation>
 <translation id="6291953229176937411">Shfaqe te "Gjetësi"</translation>
@@ -448,7 +448,7 @@
 <translation id="9148058034647219655">Dil</translation>
 <translation id="7376221878517288144">Dëshiron ta mbyllësh gjithsesi modalitetin "e fshehtë"?</translation>
 <translation id="973473557718930265">Dil</translation>
-<translation id="7707599169365957976">Mund të ndihmosh në përmirësimin e "Shfletimit të sigurt" duke dërguar te Gab AI Inc disa informacione të sistemit dhe përmbajtje të faqes.</translation>
+<translation id="7707599169365957976">Mund të ndihmosh në përmirësimin e "Shfletimit të sigurt" duke dërguar te Fulldive disa informacione të sistemit dhe përmbajtje të faqes.</translation>
 <translation id="4923279099980110923">Po, dua ndihmë</translation>
 <translation id="2316129865977710310">Jo, faleminderit</translation>
 <translation id="9169931577761441333">Shto <ph name="APP_NAME"/> në "Ekranin bazë"</translation>
@@ -833,7 +833,7 @@
 <translation id="1545775234664667895">Tema e instaluar "<ph name="THEME_NAME"/>"</translation>
 <translation id="2256115617011615191">Rinise tani</translation>
 <translation id="4545028762441890696">Për ta aktivizuar sërish, prano lejet e reja:</translation>
-<translation id="3009487527589249344">Gab AI Inc e ka raportuar "<ph name="EXTENSION_NAME"/>" si keqdashës dhe instalimi është penguar</translation>
+<translation id="3009487527589249344">Fulldive e ka raportuar "<ph name="EXTENSION_NAME"/>" si keqdashës dhe instalimi është penguar</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> qe shtuar së largëti</translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> është i çaktivizuar</translation>
 <translation id="595959584676692139">Ringarko faqen për të përdorur këtë shtesë</translation>
@@ -976,7 +976,7 @@
 <translation id="3584169441612580296">Lexo dhe ndrysho fotografi, muzikë dhe media të tjera nga kompjuteri yt</translation>
 <translation id="5457459357461771897">Lexo dhe fshi fotografitë, muzikën dhe media të tjera nga kompjuteri</translation>
 <translation id="3270965368676314374">Lexo, ndrysho dhe fshi fotografi, muzikë dhe media të tjera nga kompjuteri yt</translation>
-<translation id="1285484354230578868">Ruaji të dhënat në llogarinë tënde të "Diskut të Gab AI Inc"</translation>
+<translation id="1285484354230578868">Ruaji të dhënat në llogarinë tënde të "Diskut të Fulldive"</translation>
 <translation id="378312418865624974">Lexo një identifikues unik për këtë kompjuter</translation>
 <translation id="5094721898978802975">Komuniko me aplikacionet origjinale bashkëpunuese</translation>
 <translation id="4876895919560854374">Kyç dhe shkyç ekranin</translation>
@@ -1187,7 +1187,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="8756969031206844760">Të përditësohet fjalëkalimi?</translation>
 <translation id="8230134520748321204">Të ruhet fjalëkalimi për <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">Të përditësohet fjalëkalimi për <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Fjalëkalimet ruhen në llogarinë tënde të Gab AI Inc që të mund t'i përdorësh në çdo pajisje</translation>
+<translation id="8284000761603848448">Fjalëkalimet ruhen në llogarinë tënde të Fulldive që të mund t'i përdorësh në çdo pajisje</translation>
 <translation id="8286036467436129157">Futu</translation>
 <translation id="8009225694047762179">Menaxho fjalëkalimet</translation>
 <translation id="3950820424414687140">Futu</translation>
@@ -1195,10 +1195,10 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="328571385944182268">Ruaj fjalëkalimet e tua</translation>
 <translation id="3753033997400164841">Ruaji një herë. Përdori kudo</translation>
 <translation id="1703331064825191675">Mos u shqetëso asnjëherë për fjalëkalime e tua</translation>
-<translation id="2341030170677284705">Ruaji fjalëkalimet në mënyrë të sigurt në "Llogarinë tënde të Gab AI Inc" dhe nuk do të duhet t'i shkruash më përsëri</translation>
-<translation id="3913985461352963178">Merr qasjen te fjalëkalimet e tua kur je identifikuar në "Llogarinë tënde të Gab AI Inc"</translation>
-<translation id="4851124464356820177">Për të ruajtur fjalëkalimet në "Llogarinë tënde të Gab AI Inc", identifikohu dhe aktivizo sinkronizimin.</translation>
-<translation id="3229869963989850535">Për të ruajtur fjalëkalimet në "Llogarinë tënde të Gab AI Inc", aktivizo sinkronizimin.</translation>
+<translation id="2341030170677284705">Ruaji fjalëkalimet në mënyrë të sigurt në "Llogarinë tënde të Fulldive" dhe nuk do të duhet t'i shkruash më përsëri</translation>
+<translation id="3913985461352963178">Merr qasjen te fjalëkalimet e tua kur je identifikuar në "Llogarinë tënde të Fulldive"</translation>
+<translation id="4851124464356820177">Për të ruajtur fjalëkalimet në "Llogarinë tënde të Fulldive", identifikohu dhe aktivizo sinkronizimin.</translation>
+<translation id="3229869963989850535">Për të ruajtur fjalëkalimet në "Llogarinë tënde të Fulldive", aktivizo sinkronizimin.</translation>
 <translation id="1056466516655540509">Përditësuar <ph name="MINUTES"/> min. më parë</translation>
 <translation id="8743864605301774756">Përditësuar 1 orë më parë</translation>
 <translation id="7363117941401515667">Përditësuar <ph name="HOURS"/> orë më parë</translation>
@@ -1302,9 +1302,9 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="1246905108078336582">Të hiqet sugjerimi nga kujtesa e fragmenteve?</translation>
 <translation id="825238165904109940">Gjithmonë shfaq URL të plota</translation>
 <translation id="3416468988018290825">Gjithmonë shfaq URL të plota</translation>
-<translation id="2129873093718581193">Kërko në Gab AI Inc ose shkruaj URL-në</translation>
-<translation id="6363797201514053536">Kërko në Gab AI Inc ose shkruaj një URL</translation>
-<translation id="4888839742663123585">Kërko në Gab AI Inc</translation>
+<translation id="2129873093718581193">Kërko në Fulldive ose shkruaj URL-në</translation>
+<translation id="6363797201514053536">Kërko në Fulldive ose shkruaj një URL</translation>
+<translation id="4888839742663123585">Kërko në Fulldive</translation>
 <translation id="6078323886959318429">Shto një shkurtore</translation>
 <translation id="6324916366299863871">Modifiko shkurtoren</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1492,35 +1492,35 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6798578729981748444">Për të përfunduar importimin, mbyll të gjitha dritaret e Firefox.</translation>
 <translation id="6374469231428023295">Provo përsëri</translation>
 <translation id="8725066075913043281">Riprovoni</translation>
-<translation id="4196805003686694274">Dërgo komentet te Gab AI Inc</translation>
+<translation id="4196805003686694274">Dërgo komentet te Fulldive</translation>
 <translation id="3424969259347320884">Përshkruaj çfarë po bëje kur skeda pësoi një ndërprerje aksidentale</translation>
-<translation id="1892630320532151038">Dërgo komentet te Gab AI Inc</translation>
+<translation id="1892630320532151038">Dërgo komentet te Fulldive</translation>
 <translation id="2428510569851653187">Përshkruaj çfarë po bëje kur skeda pësoi një ndërprerje aksidentale</translation>
 <translation id="5659593005791499971">Email</translation>
 <translation id="2982970937345031">Raporto në mënyrë anonime</translation>
 <translation id="6076448957780543068">Përfshi këtë pamje të ekranit</translation>
 <translation id="2865919525181940183">Pamjet e ekranit të programeve që janë aktualisht në ekran</translation>
 <translation id="7052237160939977163">Dërgo të dhënat e gjurmimit të performancës</translation>
-<translation id="5526928694260255286">Bashkëngjit <ph name="BEGIN_LINK"/>Evidencat e Bluetooth-it<ph name="END_LINK"/> (e brendshme për Gab AI Inc)</translation>
+<translation id="5526928694260255286">Bashkëngjit <ph name="BEGIN_LINK"/>Evidencat e Bluetooth-it<ph name="END_LINK"/> (e brendshme për Fulldive)</translation>
 <translation id="3047644958362961983">Ky informacion na ndihmon të kuptojmë më mirë problemin tënd me "Asistentin". Ai ruhet për deri në 90 ditë dhe qasja është e kufizuar vetëm për ekipet përkatëse teknike dhe të komenteve.</translation>
-<translation id="8545590844135745781">Për të diagnostikuar më mirë problemet e Bluetooth-it, përdoruesit e Gab AI Inc mund të përfshijnë evidenca shtesë të Bluetooth-it me raportet e tyre të komenteve. Kur është i zgjedhur ky opsion, raporti yt do të përfshijë evidencat për btsnoop dhe HCI nga sesioni yt aktual, të pastruara për të hequr sa më shumë informacione personalisht të identifikueshme (PII). Qasja te këto evidenca do të jetë e kufizuar për menaxherët e grupit të produkteve të Fulldive OS në Listnr. Evidencat do të hiqen pas 90 ditësh.</translation>
+<translation id="8545590844135745781">Për të diagnostikuar më mirë problemet e Bluetooth-it, përdoruesit e Fulldive mund të përfshijnë evidenca shtesë të Bluetooth-it me raportet e tyre të komenteve. Kur është i zgjedhur ky opsion, raporti yt do të përfshijë evidencat për btsnoop dhe HCI nga sesioni yt aktual, të pastruara për të hequr sa më shumë informacione personalisht të identifikueshme (PII). Qasja te këto evidenca do të jetë e kufizuar për menaxherët e grupit të produkteve të Fulldive OS në Listnr. Evidencat do të hiqen pas 90 ditësh.</translation>
 <translation id="4206323443866416204">Raporti i komenteve</translation>
 <translation id="3681311097828166361">Faleminderit për komentet! Aktualisht je jashtë linje dhe raportimi do të dërgohet më vonë.</translation>
 <translation id="8713570323158206935">Dërgo <ph name="BEGIN_LINK1"/>informacionin e sistemit<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962">Dërgo <ph name="BEGIN_LINK1"/>informacionin<ph name="END_LINK1"/> dhe <ph name="BEGIN_LINK2"/>matjet e sistemit<ph name="END_LINK2"/></translation>
 <translation id="6270770586500173387">Dërgo <ph name="BEGIN_LINK1"/>informacionet e sistemit dhe të aplikacionit<ph name="END_LINK1"/>, si dhe <ph name="BEGIN_LINK2"/>metrikën<ph name="END_LINK2"/></translation>
 <translation id="3894123633473837029">Përfshi historikun e fundit të "Asistentit" përmes Sherlog. Kjo mund të përfshijë identitetin, vendndodhjen tënde dhe informacionet e defekteve në kod. <ph name="BEGIN_LINK"/>Mëso më shumë<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">Skedari do të dërgohet te Gab AI Inc për korrigjimin e gabimeve</translation>
+<translation id="8329196515830093443">Skedari do të dërgohet te Fulldive për korrigjimin e gabimeve</translation>
 <translation id="8227119283605456246">Bashkëngjit skedarin</translation>
 <translation id="5367091008316207019">Po lexon skedarin...</translation>
 <translation id="2554553592469060349">Skedari i zgjedhur është tepër i madh (madhësia maksimale: 3 MB).</translation>
 <translation id="4690091457710545971">&lt;Katër skedarë të krijuar nga firmueri i Intel Wi-Fi: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon.  Tre të parët janë skedarë formati binar që përmbajnë shkarkimet e regjistrit dhe konfirmohen nga Intel se nuk përmbajnë informacione personale apo që mund të identifikojnë pajisjen.  Skedari i fundit është gjurma e ekzekutimit nga firmueri i Intel; është spastruar nga informacionet e mundshme personale apo që mund të identifikojnë pajisjen, por është shumë i madh për t'u shfaqur këtu.  Këta skedarë u krijuan në përgjigje të problemeve të fundit me Wi-Fi e pajisjes tënde, dhe do t'i përcillen Intel për të ndihmuar në diagnostikimin e këtyre problemeve.&gt;</translation>
-<translation id="6972420083546794501">Shko te <ph name="BEGIN_LINK1"/>faqja "Ndihmë ligjore"<ph name="END_LINK1"/> për të kërkuar ndryshime të përmbajtjes për arsye ligjore.  Disa nga informacionet e llogarisë dhe të sistemit mund t'i dërgohen Gab AI Inc.  Informacionet që na jepni do t'i përdorim për zgjidhjen e problemeve teknike për përmirësimin e shërbimeve tona, sipas <ph name="BEGIN_LINK2"/>Politikës së privatësisë<ph name="END_LINK2"/> dhe <ph name="BEGIN_LINK3"/>Kushteve të shërbimit<ph name="END_LINK3"/>.</translation>
+<translation id="6972420083546794501">Shko te <ph name="BEGIN_LINK1"/>faqja "Ndihmë ligjore"<ph name="END_LINK1"/> për të kërkuar ndryshime të përmbajtjes për arsye ligjore.  Disa nga informacionet e llogarisë dhe të sistemit mund t'i dërgohen Fulldive.  Informacionet që na jepni do t'i përdorim për zgjidhjen e problemeve teknike për përmirësimin e shërbimeve tona, sipas <ph name="BEGIN_LINK2"/>Politikës së privatësisë<ph name="END_LINK2"/> dhe <ph name="BEGIN_LINK3"/>Kushteve të shërbimit<ph name="END_LINK3"/>.</translation>
 <translation id="7915471803647590281">Na trego çfarë po ndodh, para se të dërgosh komentin.</translation>
 <translation id="6885771755599377173">Pamja paraprake e informacioneve të sistemit</translation>
 <translation id="1016566241875885511">Informacione shtesë (opsionale)</translation>
 <translation id="8026334261755873520">Pastro të dhënat e shfletimit</translation>
-<translation id="4718442817388594217">Të dhënat e zgjedhura janë hequr nga Fulldive dhe nga pajisjet e sinkronizuara. Llogaria jote e Gab AI Inc mund të ketë forma të tjera të historikut të shfletimit, si kërkimet dhe aktivitetet nga shërbimet e tjera të Gab AI Inc, në <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="4718442817388594217">Të dhënat e zgjedhura janë hequr nga Fulldive dhe nga pajisjet e sinkronizuara. Llogaria jote e Fulldive mund të ketë forma të tjera të historikut të shfletimit, si kërkimet dhe aktivitetet nga shërbimet e tjera të Fulldive, në <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7814200940910057384">Të dhënat e Fulldive u pastruan</translation>
 <translation id="7346909386216857016">Në rregull, kuptova</translation>
 <translation id="8493236660459102203">Mikrofoni:</translation>
@@ -1543,7 +1543,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="284805635805850872">Të hiqet softueri keqdashës?</translation>
 <translation id="489985760463306091">Për të përfunduar heqjen e softuerëve të dëmshëm, rinis kompjuterin</translation>
 <translation id="7598466960084663009">Rinis kompjuterin</translation>
-<translation id="2819091349626575960">Raporto detajet te Gab AI Inc</translation>
+<translation id="2819091349626575960">Raporto detajet te Fulldive</translation>
 <translation id="4099060993766194518">Të restaurohet motori i parazgjedhur i kërkimit?</translation>
 <translation id="138784436342154190">Të restaurohet faqja e parazgjedhur e nisjes?</translation>
 <translation id="5086874064903147617">Të restaurohet faqja bazë e parazgjedhur?</translation>
@@ -1653,10 +1653,10 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="3693415264595406141">Fjalëkalimi:</translation>
 <translation id="9111102763498581341">Shkyç</translation>
 <translation id="2190355936436201913">(bosh)</translation>
-<translation id="9079153198295609735">Dërgo automatikisht te Gab AI Inc statistikat e përdorimit dhe raportet e ndërprerjeve aksidentale</translation>
+<translation id="9079153198295609735">Dërgo automatikisht te Fulldive statistikat e përdorimit dhe raportet e ndërprerjeve aksidentale</translation>
 <translation id="7136984461011502314">Mirë se vjen në <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> është gati për të përfunduar instalimin tënd</translation>
-<translation id="4711067597921221305">Ndihmo në përmirësimin e <ph name="PRODUCT_NAME"/> duke dërguar automatikisht te Gab AI Inc statistika të përdorimit dhe raporte të ndërprerjeve aksidentale</translation>
+<translation id="4711067597921221305">Ndihmo në përmirësimin e <ph name="PRODUCT_NAME"/> duke dërguar automatikisht te Fulldive statistika të përdorimit dhe raporte të ndërprerjeve aksidentale</translation>
 <translation id="5972826969634861500">Nis <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Ndihmo inxhinierët tanë të hetojnë dhe të rregullojnë këtë ndërprerje aksidentale. Rendit hapat e saktë nëse është e mundur. Nuk ka detaje të tepërta!</translation>
 <translation id="5418694430960033386">Fulldive nuk ka më memorie ose procesi për faqen e uebit u ndërpre për disa arsye. Për të vazhduar, ngarkoje përsëri ose shko te një faqe tjetër.</translation>
@@ -1669,7 +1669,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Platforma</translation>
 <translation id="7022562585984256452">Faqja jote kryesore është caktuar.</translation>
-<translation id="8069615408251337349">Printimi në renë kompjuterike i Gab AI Inc</translation>
+<translation id="8069615408251337349">Printimi në renë kompjuterike i Fulldive</translation>
 <translation id="4973307593867026061">Shto printerë</translation>
 <translation id="9052208328806230490">Ke regjistruar printerët e tu me <ph name="CLOUD_PRINT_NAME"/> duke përdorur llogarinë <ph name="EMAIL"/></translation>
 <translation id="3792890930871100565">Shkëput printerët</translation>
@@ -1757,7 +1757,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="8930351635855238750">Cilësimet e reja të kukive do të kenë efekt pas ringarkimit të faqes</translation>
 <translation id="2568774940984945469">Mbajtësi i shiritit të informacionit</translation>
 <translation id="7282992757463864530">Shiriti i informacioneve</translation>
-<translation id="1805077115206898822">Faqeshënuesit e tu, historiku dhe cilësime të tjera do të sinkronizohen në llogarinë tënde të Gab AI Inc.</translation>
+<translation id="1805077115206898822">Faqeshënuesit e tu, historiku dhe cilësime të tjera do të sinkronizohen në llogarinë tënde të Fulldive.</translation>
 <translation id="1974060860693918893">E përparuar</translation>
 <translation id="2445484935443597917">Krijoni një Profil të Ri</translation>
 <translation id="2606246518223360146">Lidh të dhënat</translation>
@@ -1844,7 +1844,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6387674443318562538">Vertikal i ndarë</translation>
 <translation id="1231733316453485619">Të aktivizohet sinkronizimi?</translation>
 <translation id="4736292055110123391">Sinkronizo faqeshënuesit, fjalëkalimet, historikun tënd etj. në të gjitha pajisjet e tua</translation>
-<translation id="5736731321935944068">Gab AI Inc mund ta përdorë historikun tënd për të personalizuar "Kërko me Gab AI Inc", reklamat dhe shërbime të tjera të Gab AI Inc</translation>
+<translation id="5736731321935944068">Fulldive mund ta përdorë historikun tënd për të personalizuar "Kërko me Fulldive", reklamat dhe shërbime të tjera të Fulldive</translation>
 <translation id="4201546031411513170">Mund të zgjedhësh gjithmonë se çfarë do të sinkronizosh te cilësimet.</translation>
 <translation id="2497852260688568942">Sinkronizimi është çaktivizuar nga administratori</translation>
 <translation id="562935524653278697">Administratori yt ka çaktivizuar sinkronizimin e faqeshënuesve, historikut, fjalëkalimeve dhe cilësimeve të tua të tjera.</translation>
@@ -1923,10 +1923,10 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6198102561359457428">Dilni dhe mandej rihyni…</translation>
 <translation id="4634771451598206121">Rihyni…</translation>
 <translation id="7117247127439884114">Identifikohu përsëri...</translation>
-<translation id="4251909665067750757">Identifikohu për të marrë faqeshënuesit, historikun dhe cilësime të tjera në të gjitha pajisjet. Do të identifikohesh gjithashtu në shërbimet e tua të Gab AI Inc.</translation>
+<translation id="4251909665067750757">Identifikohu për të marrë faqeshënuesit, historikun dhe cilësime të tjera në të gjitha pajisjet. Do të identifikohesh gjithashtu në shërbimet e tua të Fulldive.</translation>
 <translation id="2749756011735116528">Identifikohu në <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Sinkronizimi është çaktivizuar nga administratori.</translation>
-<translation id="5462539695964427820">Sinkronizimi është ndaluar nëpërmjet "Panelit të Gab AI Inc".</translation>
+<translation id="5462539695964427820">Sinkronizimi është ndaluar nëpërmjet "Panelit të Fulldive".</translation>
 <translation id="8805140816472474147">Konfirmo cilësimet e sinkronizimit për të nisur sinkronizimin.</translation>
 <translation id="5771816112378578655">Konfigurimi në vazhdim...</translation>
 <translation id="3492788708641132712">Sinkronizimi nuk po funksionon. Provo të identifikohesh sërish.</translation>
@@ -1940,16 +1940,16 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="1877520246462554164">Marrja e kodit të shenjës së vërtetimit dështoi. Dil dhe më pas identifikohu përsëri për të provuar përsëri.</translation>
 <translation id="9100765901046053179">Cilësimet e përparuara</translation>
 <translation id="2731700343119398978">Qëndro në pritje...</translation>
-<translation id="7218743184834293955">Të dhënat janë enkriptuar me frazën tënde të kalimit. Kjo nuk përfshin mënyrat e pagesës dhe adresat nga Gab AI Inc Pay.</translation>
+<translation id="7218743184834293955">Të dhënat janë enkriptuar me frazën tënde të kalimit. Kjo nuk përfshin mënyrat e pagesës dhe adresat nga Fulldive Pay.</translation>
 <translation id="7158251077901880179">Të dhënat janë enkriptuar me frazën tënde të kalimit në datën
-          <ph name="TIME"/>. Kjo nuk përfshin mënyrat e pagesës dhe adresat nga Gab AI Inc Pay.</translation>
-<translation id="1171389789873508468">Të dhënat janë enkriptuar me fjalëkalimin tënd të Gab AI Inc që nga data
-          <ph name="TIME"/>. Kjo nuk përfshin mënyrat e pagesës dhe adresat nga Gab AI Inc Pay.</translation>
+          <ph name="TIME"/>. Kjo nuk përfshin mënyrat e pagesës dhe adresat nga Fulldive Pay.</translation>
+<translation id="1171389789873508468">Të dhënat janë enkriptuar me fjalëkalimin tënd të Fulldive që nga data
+          <ph name="TIME"/>. Kjo nuk përfshin mënyrat e pagesës dhe adresat nga Fulldive Pay.</translation>
 <translation id="2562743677925229011">I paidentifikuar në <ph name="SHORT_PRODUCT_NAME"/></translation>
 <translation id="4027804175521224372">(Ja se çfarë po humb—<ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">identifikohu</translation>
 <translation id="237828693408258535">Të përkthehet kjo faqe?</translation>
-<translation id="4613765529964435709">Dëshiron që Gab AI Inc ta përkthejë këtë faqe gjuha <ph name="SOURCE_LANGUAGE"/> në <ph name="TARGET_LANGUAGE"/>?</translation>
+<translation id="4613765529964435709">Dëshiron që Fulldive ta përkthejë këtë faqe gjuha <ph name="SOURCE_LANGUAGE"/> në <ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="5990386583461751448">Përkthyer</translation>
 <translation id="5659833766619490117">Kjo faqe nuk mund të përkthehej</translation>
 <translation id="969096075394517431">Ndrysho gjuhët</translation>
@@ -2243,7 +2243,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6285120908535925801">{NUM_PRINTER, plural,
          =1 {Shtypës i ri në rrjetin tuaj}
          other {Shtypësa të rinj në rrjetin tuaj}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Shtoje printerin te "Printimi në renë kompjuterike" të Gab AI Inc që të mund të printosh nga çdo vend.}other{Shto # printerë te "Printimi në renë kompjuterike" të Gab AI Inc që të mund të printosh nga çdo vend.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Shtoje printerin te "Printimi në renë kompjuterike" të Fulldive që të mund të printosh nga çdo vend.}other{Shto # printerë te "Printimi në renë kompjuterike" të Fulldive që të mund të printosh nga çdo vend.}}</translation>
 <translation id="409579654357498729">Shtoje te "Printim nëpërmjet resë kompjuterike"</translation>
 <translation id="4628757576491864469">Pajisjet</translation>
 <translation id="6915804003454593391">Përdoruesi:</translation>
@@ -2253,8 +2253,8 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="1895934970388272448">Duhet të konfirmosh regjistrimin në printerin tënd për të përfunduar këtë proces - kontrolloje tani.</translation>
 <translation id="551752069230578406">Printeri po shtohet te llogaria jote. Kjo mund të zgjasë pak...</translation>
 <translation id="2384436799579181135">Ka ndodhur një gabim. Kontrollo printerin dhe provo sërish.</translation>
-<translation id="1327074568633507428">Printeri në "Printo nëpërmjet resë kompjuterike të Gab AI Inc"</translation>
-<translation id="6782994146626179935">Pajisje në "Pajisjet në renë kompjuterike" të Gab AI Inc</translation>
+<translation id="1327074568633507428">Printeri në "Printo nëpërmjet resë kompjuterike të Fulldive"</translation>
+<translation id="6782994146626179935">Pajisje në "Pajisjet në renë kompjuterike" të Fulldive</translation>
 <translation id="7140928199327930795">Nuk ka pajisje të tjera të ofrueshme.</translation>
 <translation id="8213577208796878755">Ofrohet një tjetër pajisje.</translation>
 <translation id="1495486559005647033"><ph name="NUM_PRINTERS"/> pajisje të tjera të ofrueshme.</translation>
@@ -2270,7 +2270,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="715118844758971915">Printerët klasikë</translation>
 <translation id="4263757076580287579">Regjistrimi i printerit është anuluar.</translation>
 <translation id="8152091997436726702">Regjistrimi i printerit e ka kaluar afatin kohor. Për të regjistruar një printer, duhet ta konfirmosh regjistrimin në printer.</translation>
-<translation id="2624930408905606513">Dokumentet <ph name="BEGIN_LINK_HELP"/>i dërgohen Gab AI Inc<ph name="END_LINK_HELP"/> për t'i përgatitur për printim. Shiko, redakto dhe menaxho printerët e tu dhe historikun e printerëve në <ph name="BEGIN_LINK_DASHBOARD"/>Panelin analitik të Printimit të Cloud në Gab AI Inc<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513">Dokumentet <ph name="BEGIN_LINK_HELP"/>i dërgohen Fulldive<ph name="END_LINK_HELP"/> për t'i përgatitur për printim. Shiko, redakto dhe menaxho printerët e tu dhe historikun e printerëve në <ph name="BEGIN_LINK_DASHBOARD"/>Panelin analitik të Printimit të Cloud në Fulldive<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">Kjo skedë po përdor kamerën dhe mikrofonin tënd.</translation>
 <translation id="3578594933904494462">Përmbajtja e kësaj skede po ndahet.</translation>
 <translation id="4449996769074858870">Kjo skedë po lexon audion</translation>
@@ -2397,14 +2397,14 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="7055152154916055070">Ridrejtimi u bllokua:</translation>
 <translation id="6777817260680419853">Ridrejtimi u bllokua</translation>
 <translation id="694592694773692225">Ridrejtimi u bllokua në këtë faqe.</translation>
-<translation id="8945142681652245463">Shfleto me shpejtësi me Gab AI Inc Fulldive</translation>
-<translation id="2618024864038703735">Shfleto në mënyrë të sigurt me Gab AI Inc Fulldive</translation>
+<translation id="8945142681652245463">Shfleto me shpejtësi me Fulldive Fulldive</translation>
+<translation id="2618024864038703735">Shfleto në mënyrë të sigurt me Fulldive Fulldive</translation>
 <translation id="8142180567942285208">Shfleto në mënyrë inteligjente me Fulldive</translation>
 <translation id="8862003515646449717">Kalo te një shfletues i shpejtë</translation>
 <translation id="8438328416656800239">Kalo te një shfletues inteligjent</translation>
 <translation id="491691592645955587">Kalo në një shfletues të sigurt</translation>
 <translation id="683373380308365518">Kalo te një shfletues inteligjent dhe i sigurt</translation>
-<translation id="989239400026154074">Gab AI Inc rekomandon Fulldive</translation>
+<translation id="989239400026154074">Fulldive rekomandon Fulldive</translation>
 <translation id="6676231621615806698">Hap Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> përdor vendndodhjen tënde për të të dhënë përmbajtje lokale. Këtë mund ta ndryshosh te <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Shkarkimet e tua shfaqen këtu</translation>
@@ -2578,7 +2578,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="2878782256107578644">Skanimi është në vazhdim, të hapet tani?</translation>
 <translation id="6098793583803863900">Një skedar i panjohur po skanohet për përmbajtje të rrezikshme.</translation>
 <translation id="7584578941316704630">Do ta skanosh para se ta hapësh?</translation>
-<translation id="4467402456678825062">Skedari i zgjedhur është i panjohur dhe mund të jetë i rrezikshëm. Të dërgohet te "Mbrojtja e përparuar" e Gab AI Inc për skanim?</translation>
+<translation id="4467402456678825062">Skedari i zgjedhur është i panjohur dhe mund të jetë i rrezikshëm. Të dërgohet te "Mbrojtja e përparuar" e Fulldive për skanim?</translation>
 <translation id="2587922766792651800">Skadoi</translation>
 <translation id="4404136731284211429">Skano përsëri</translation>
 <translation id="6428450836711225518">Verifiko numrin e telefonit</translation>
@@ -2586,7 +2586,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6518133107902771759">Verifiko</translation>
 <translation id="4379281552162875326">Të çinstalohet "<ph name="APP_NAME"/>"?</translation>
 <translation id="8812593354822910461">Pastro gjithashtu të dhënat e shfletimit, (<ph name="URL"/>) gjë që mund të të bëjë të dalësh nga <ph name="DOMAIN"/>. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Pastro gjithashtu të dhënat e shfletimit, (<ph name="URL"/>)gjë që mund të të bëjë të dalësh nga Gab AI Inc.com. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Pastro gjithashtu të dhënat e shfletimit, (<ph name="URL"/>)gjë që mund të të bëjë të dalësh nga Fulldive.com. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Mëso më shumë</translation>
 <translation id="2346953515226895098">Shërbimi SODA</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> është vendosur në pauzë</translation>
@@ -2768,7 +2768,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="4144218403971135344">Merr video me cilësi më të mirë dhe kurse kohëzgjatjen e baterisë. Videoja do të luhet vetëm në ekranin që mbështet transmetime.</translation>
 <translation id="236117173274098341">Optimizoje</translation>
 <translation id="8538358978858059843">Të aktivizohet shërbimet e resë kompjuterike për "Transmetimin"?</translation>
-<translation id="3856595552313160385">Përdorimi i Hangouts dhe i Cast rregullohet nga "Politika e privatësisë së Gab AI Inc".</translation>
+<translation id="3856595552313160385">Përdorimi i Hangouts dhe i Cast rregullohet nga "Politika e privatësisë së Fulldive".</translation>
 <translation id="3435896845095436175">Aktivizoje</translation>
 <translation id="3700888195348409686">Po paraqitet (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Shfaq <ph name="DISPLAY_ID"/></translation>
@@ -3018,9 +3018,9 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
      other {<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> llogari të tjera}}</translation>
 <translation id="7434635829372401939">Sinkronizo cilësimet e tua</translation>
 <translation id="1036348656032585052">Çaktivizoje</translation>
-<translation id="3267705913905916810">Aplikacionet dhe cilësimet e tua do të sinkronizohen nëpër të gjitha pajisjet me sistem operativ Fulldive ku je identifikuar me llogarinë tënde të Gab AI Inc. Për opsionet e sinkronizimit të shfletuesit, shko te<ph name="LINK_BEGIN"/>cilësimet e Fulldive<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Aplikacionet dhe cilësimet e tua do të sinkronizohen nëpër të gjitha pajisjet me sistem operativ Fulldive ku je identifikuar me llogarinë tënde të Fulldive. Për opsionet e sinkronizimit të shfletuesit, shko te<ph name="LINK_BEGIN"/>cilësimet e Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Printerët</translation>
-<translation id="8418661265246754237">Llogaritë e Gab AI Inc</translation>
+<translation id="8418661265246754237">Llogaritë e Fulldive</translation>
 <translation id="3953834000574892725">Llogaritë e mia</translation>
 <translation id="6011193465932186973">Gjurma e gishtit</translation>
 <translation id="3707212204259470604">Menaxho kontaktet e tjera</translation>
@@ -3062,16 +3062,16 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="5916664084637901428">Aktiv</translation>
 <translation id="5860033963881614850">Joaktive</translation>
 <translation id="5515923816438946203">Zgjidh se çfarë shikon ti në ekranin tënd</translation>
-<translation id="2187700606737131818">Fotografitë e Gab AI Inc</translation>
+<translation id="2187700606737131818">Fotografitë e Fulldive</translation>
 <translation id="1827738518074806965">Galeri arti</translation>
 <translation id="9137157311132182254">Motor i parapëlqyer kërkimesh</translation>
 <translation id="7423118389528876103">I përdorur nga shfletuesi Fulldive dhe <ph name="DEVICE_TYPE"/> Launcher</translation>
-<translation id="2862205630718215619">Asistenti i Gab AI Inc</translation>
+<translation id="2862205630718215619">Asistenti i Fulldive</translation>
 <translation id="8959699239363253085">Aktiv</translation>
 <translation id="971479617738309149">Joaktiv</translation>
 <translation id="7807067443225230855">Kërkimi dhe "Asistenti"</translation>
 <translation id="1293556467332435079">Kartela</translation>
-<translation id="6474884162850599008">Shkëput llogarinë e "Diskut të Gab AI Inc"</translation>
+<translation id="6474884162850599008">Shkëput llogarinë e "Diskut të Fulldive"</translation>
 <translation id="3653160965917900914">Ndarjet e skedarëve në rrjet</translation>
 <translation id="4906490889887219338">Konfiguro ose menaxho ndarjet e skedarëve në rrjet. <ph name="LINK_BEGIN"/>Mëso më shumë<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Shto një ndarje të skedarit</translation>
@@ -3185,7 +3185,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6902066522699286937">Zë për paraparje</translation>
 <translation id="304747341537320566">Mekanizma të Folure</translation>
 <translation id="2755367719610958252">Menaxho funksionet e qasshmërisë</translation>
-<translation id="1203953622051744249">Menaxho llogaritë ku je identifikuar. Sajtet e uebit, aplikacionet dhe shtesat në Fulldive dhe Gab AI Inc Play mund t'i përdorin këto llogari për të personalizuar përvojën tënde, në varësi të lejeve. <ph name="LINK_BEGIN"/>Mëso më shumë<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Menaxho llogaritë ku je identifikuar. Sajtet e uebit, aplikacionet dhe shtesat në Fulldive dhe Fulldive Play mund t'i përdorin këto llogari për të personalizuar përvojën tënde, në varësi të lejeve. <ph name="LINK_BEGIN"/>Mëso më shumë<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Shto një llogari shkolle ose menaxho llogaritë e fëmijëve këtu. <ph name="LINK_BEGIN"/>Mëso më shumë<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Llogaritë</translation>
 <translation id="6597148444736186483">Për të dalë nga llogaria parësore në këtë pajisje, kliko te koha në ekran. Në menynë që shfaqet, kliko te "Dil".</translation>
@@ -3194,8 +3194,8 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="2923234477033317484">Hiqe këtë llogari</translation>
 <translation id="7665369617277396874">Shto një llogari</translation>
 <translation id="8428271547607112339">Shto llogarinë e shkollës</translation>
-<translation id="4920274951865016604">Administratori yt ka çaktivizuar shtimin e "Llogarive të tjera të Gab AI Inc"</translation>
-<translation id="8845742957886589229">Shtimi i "Llogarive të tjera të Gab AI Inc" është çaktivizuar</translation>
+<translation id="4920274951865016604">Administratori yt ka çaktivizuar shtimin e "Llogarive të tjera të Fulldive"</translation>
+<translation id="8845742957886589229">Shtimi i "Llogarive të tjera të Fulldive" është çaktivizuar</translation>
 <translation id="5021750053540820849">Nuk është përditësuar ende</translation>
 <translation id="3448492834076427715">Përditëso llogarinë</translation>
 <translation id="2458379781610688953">Përditëso llogarinë, <ph name="EMAIL"/></translation>
@@ -3230,7 +3230,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="3661172646479098821">Hëpërhë mbulohen vetëm pajisje Android.</translation>
 <translation id="3201422919974259695">Pajisjet e gatshme USB do të duken këtu.</translation>
 <translation id="2629227353894235473">Zhvillo aplikacione të Android</translation>
-<translation id="1669729672557072907">Për të krijuar dhe testuar aplikacionet e tua, aktivizo "Urën e korrigjimit të Android" (ADB). Ki parasysh se ky veprim lejon instalimin e aplikacioneve të Android që nuk janë verifikuar nga Gab AI Inc dhe për çaktivizimin kërkohet rivendosja e cilësimeve të fabrikës.</translation>
+<translation id="1669729672557072907">Për të krijuar dhe testuar aplikacionet e tua, aktivizo "Urën e korrigjimit të Android" (ADB). Ki parasysh se ky veprim lejon instalimin e aplikacioneve të Android që nuk janë verifikuar nga Fulldive dhe për çaktivizimin kërkohet rivendosja e cilësimeve të fabrikës.</translation>
 <translation id="4638930039313743000">Aktivizo korrigjimin e ADB-së</translation>
 <translation id="1630768113285622200">Rinis dhe vazhdo</translation>
 <translation id="1005333234656240382">Të aktivizohet korrigjimi i ADB-së?</translation>
@@ -3267,9 +3267,9 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="1870629042957780127">Jep qasje te mikrofoni</translation>
 <translation id="1392232653471491344">Kërkohet rinisja e Linux</translation>
 <translation id="1064552680598333868">Ndryshimet në mikrofon do të hyjnë në fuqi kur të riniset Linux herën tjetër.</translation>
-<translation id="2714393097308983682">Dyqani i "Luaj me Gab AI Inc"</translation>
+<translation id="2714393097308983682">Dyqani i "Luaj me Fulldive"</translation>
 <translation id="2966937470348689686">Administroni parapëlqime për Android</translation>
-<translation id="6398715114293939307">Hiq "Dyqanin e Gab AI Inc Play"</translation>
+<translation id="6398715114293939307">Hiq "Dyqanin e Fulldive Play"</translation>
 <translation id="2792290659606763004">Të hiqen aplikacione Android?</translation>
 <translation id="492299503953721473">Hiq aplikacione Android</translation>
 <translation id="7566118625369982896">Administroni lidhje aplikacionesh Play</translation>
@@ -3277,7 +3277,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="5862109781435984885">Shfaq veglat e stilolapsit në raft</translation>
 <translation id="4673442866648850031">Hap veglat e stilolapsit kur hiqet stilolapsi</translation>
 <translation id="4244238649050961491">Gjej më shumë aplikacione të stilolapsit</translation>
-<translation id="668599234725812620">Hap Gab AI Inc Play</translation>
+<translation id="668599234725812620">Hap Fulldive Play</translation>
 <translation id="9116799625073598554">Aplikacioni për mbajtjen e shënimeve</translation>
 <translation id="203574396658008164">Aktivizo mbajtjen e shënimeve nga ekrani i kyçjes</translation>
 <translation id="6238923052227198598">Mbaj shënimin më të fundit në ekranin e kyçjes</translation>
@@ -3423,7 +3423,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> - <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Aktivizo të dhënat celulare</translation>
 <translation id="7378812711085314936">Merr lidhjen e të dhënave</translation>
-<translation id="3483333858382889684">Lejo që kjo pajisje të gjejë pajisjet e tjera me llogarinë tënde të Gab AI Inc që kanë një lidhje të të dhënave celulare</translation>
+<translation id="3483333858382889684">Lejo që kjo pajisje të gjejë pajisjet e tjera me llogarinë tënde të Fulldive që kanë një lidhje të të dhënave celulare</translation>
 <translation id="1572266655485775982">Aktivizo Wi-Fi</translation>
 <translation id="7078120482318506217">Të gjitha rrjetet</translation>
 <translation id="1235458158152011030">Rrjetet e njohura</translation>
@@ -3455,13 +3455,13 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="4421167684395067330">Ka probleme me lidhjen. Kontakto me <ph name="CARRIER_NAME"/> për ndihmë.</translation>
 <translation id="7780252971640011240">Ka probleme me lidhjen. Kontakto me operatorin celular për ndihmë.</translation>
 <translation id="161460670679785907">Telefoni yt nuk mund të zbulohet</translation>
-<translation id="778480864305029524">Për të përdorur "Ndarjen e internetit në çast", aktivizo njoftimet për "Shërbimet e Gab AI Inc Play".</translation>
+<translation id="778480864305029524">Për të përdorur "Ndarjen e internetit në çast", aktivizo njoftimet për "Shërbimet e Fulldive Play".</translation>
 <translation id="7696063401938172191">Në telefonin tënd "<ph name="PHONE_NAME"/>":</translation>
 <translation id="3423463006624419153">Në telefonin tënd "<ph name="PHONE_NAME_1"/>" dhe "<ph name="PHONE_NAME_2"/>":</translation>
 <translation id="6997707937646349884">Në pajisjet e tua:</translation>
 <translation id="7531779363494549572">Shko te Cilësimet &gt; Aplikacionet dhe njoftimet &gt; Njoftimet.</translation>
-<translation id="1819721979226826163">Trokit te Njoftimet e aplikacioneve &gt; Shërbimet e Gab AI Inc Play.</translation>
-<translation id="968000525894980488">Aktivizo shërbimet e Gab AI Inc Play.</translation>
+<translation id="1819721979226826163">Trokit te Njoftimet e aplikacioneve &gt; Shërbimet e Fulldive Play.</translation>
+<translation id="968000525894980488">Aktivizo shërbimet e Fulldive Play.</translation>
 <translation id="2705736684557713153">Lëviz në fund të ekranit dhe aktivizo "Ndarjen e internetit në çast", nëse shfaqet. Nëse nuk shfaqet, je plotësisht gati.</translation>
 <translation id="7240339475467890413">Do të lidhesh me një zonë të re të qasjes në internet?</translation>
 <translation id="6514010653036109809">Pajisja e disponueshme:</translation>
@@ -3576,9 +3576,9 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6555432686520421228">Hiqi të gjitha llogaritë e përdoruesit dhe rivendos pajisjen tënde <ph name="IDS_SHORT_PRODUCT_NAME"/> për ta bërë si të re.</translation>
 <translation id="5470735824776589490">Kërkohet një rinisje para se pajisja jote të mund të rivendoset me Powerwash. <ph name="LINK_BEGIN"/>Mëso më shumë<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Butoni i rivendosjes</translation>
-<translation id="472896694312062378">"Ok Gab AI Inc"</translation>
-<translation id="2339135612812615870">Hap "Asistentin" kur thua "Ok Gab AI Inc".</translation>
-<translation id="3735919318855093557">Hap "Asistentin" kur thua "Ok Gab AI Inc". Për të kursyer bateri, zgjidh "Aktive (Rekomandohet)". "Asistenti" yt do të përgjigjet vetëm kur pajisja jote të jetë e lidhur ose në karikim.</translation>
+<translation id="472896694312062378">"Ok Fulldive"</translation>
+<translation id="2339135612812615870">Hap "Asistentin" kur thua "Ok Fulldive".</translation>
+<translation id="3735919318855093557">Hap "Asistentin" kur thua "Ok Fulldive". Për të kursyer bateri, zgjidh "Aktive (Rekomandohet)". "Asistenti" yt do të përgjigjet vetëm kur pajisja jote të jetë e lidhur ose në karikim.</translation>
 <translation id="5825412242012995131">Aktive (rekomandohet)</translation>
 <translation id="5067399438976153555">Gjithmonë aktiv</translation>
 <translation id="6175644081330715138">Joaktive</translation>
@@ -3587,7 +3587,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="5355099869024327351">Lejo që "Asistenti" të të shfaqë njoftime</translation>
 <translation id="133535873114485416">Hyrja e preferuar</translation>
 <translation id="6233154960150021497">Cakto si parazgjedhje përdorimin e zërit në vend të tastierës</translation>
-<translation id="3908743412684152579">Cilësimet e "Asistentit të Gab AI Inc"</translation>
+<translation id="3908743412684152579">Cilësimet e "Asistentit të Fulldive"</translation>
 <translation id="1048286738600630630">Ekranet</translation>
 <translation id="4184885522552335684">Zvarrite një ekran për ta lëvizur</translation>
 <translation id="4964455510556214366">Sistemimi</translation>
@@ -3641,7 +3641,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6856623341093082836">Konfiguro dhe rregullo saktësinë e ekranit tënd me prekje</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Shkyç vetëm pajisjen</translation>
-<translation id="3300552672525741457">Shkyçe pajisjen dhe identifikohu në "Llogarinë e Gab AI Inc"</translation>
+<translation id="3300552672525741457">Shkyçe pajisjen dhe identifikohu në "Llogarinë e Fulldive"</translation>
 <translation id="4562155214028662640">Shto një gjurmë gishti</translation>
 <translation id="4068776064906523561">Gjurmët e ruajtura të gishtave</translation>
 <translation id="1719312230114180055">Shënim. Gjurma jote e gishtit mund të jetë më pak e sigurt se një fjalëkalim ose një kod PIN i fortë.</translation>
@@ -3706,7 +3706,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6547354035488017500">Liro të paktën 512 MB hapësirë ose pajisja jote nuk do të reagojë më. Për të liruar hapësirën, fshi skedarët nga hapësira ruajtëse e pajisjes.</translation>
 <translation id="6097480669505687979">Nëse nuk liron hapësirë, përdoruesit dhe të dhënat mund të hiqen automatikisht.</translation>
 <translation id="4470957202018033307">Preferencat e hapësirës së jashtme ruajtëse</translation>
-<translation id="1900305421498694955">Aplikacionet nga Gab AI Inc Play mund të kërkojnë qasje të plotë të sistemit të skedarëve për të lexuar dhe për të shkruar te skedarët në pajisjet e jashtme të hapësirës ruajtëse. Skedarët dhe dosjet e krijuara në pajisje janë të dukshme për këdo që përdor diskun e jashtëm. <ph name="LINK_BEGIN"/>Mëso më shumë<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Aplikacionet nga Fulldive Play mund të kërkojnë qasje të plotë të sistemit të skedarëve për të lexuar dhe për të shkruar te skedarët në pajisjet e jashtme të hapësirës ruajtëse. Skedarët dhe dosjet e krijuara në pajisje janë të dukshme për këdo që përdor diskun e jashtëm. <ph name="LINK_BEGIN"/>Mëso më shumë<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">Pajisjet e ofruara do të shfaqen këtu.</translation>
 <translation id="1041263367839475438">Pajisjet që ofrohen</translation>
 <translation id="7479221278376295180">Përmbledhja e përdorimit të hapësirës ruajtëse</translation>
@@ -3734,8 +3734,8 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="8957762313041272117">Titra në çast</translation>
 <translation id="7075426315046750605">"Titrat në çast" zbulojnë të folurën në media dhe krijojnë automatikisht titrat për të gjithë mediat që luhen në Fulldive.</translation>
 <translation id="572155275267014074">Rregullime Android</translation>
-<translation id="7201042526153088083">Instalo aplikacione dhe lojëra nga Gab AI Inc Play në <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Mëso më shumë&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Aplikacionet që ke shkarkuar nga Gab AI Inc Play do të fshihen nga ky Fulldivebook.
+<translation id="7201042526153088083">Instalo aplikacione dhe lojëra nga Fulldive Play në <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Mëso më shumë&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Aplikacionet që ke shkarkuar nga Fulldive Play do të fshihen nga ky Fulldivebook.
       <ph name="LINE_BREAKS1"/>
       Përmbajtja që ke blerë si filmat, shfaqjet televizive, muzika, librat ose blerjet e tjera përmes aplikacionit mund të fshihen po ashtu.
       <ph name="LINE_BREAKS2"/>
@@ -3761,7 +3761,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="1670399744444387456">Elementare</translation>
 <translation id="1763808908432309942">Hapet në skedë të re</translation>
 <translation id="6248988683584659830">Rregullime kërkimi</translation>
-<translation id="883304095704384301">Shko te <ph name="BEGIN_LINK_CHROMIUM"/>ndihma e Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/> nëse nuk gjen dot atë që kërkon</translation>
+<translation id="883304095704384301">Shko te <ph name="BEGIN_LINK_CHROMIUM"/>ndihma e Fulldive Fulldive<ph name="END_LINK_CHROMIUM"/> nëse nuk gjen dot atë që kërkon</translation>
 <translation id="6406708970972405507">Rregullime - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Butoni i nënfaqes</translation>
 <translation id="379509625511193653">Joaktiv</translation>
@@ -3799,9 +3799,9 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="8731851055419582926">U kontrolluan fjalëkalimet</translation>
 <translation id="4248098802131000011">Mbaji fjalëkalimet e tua të sigurta nga nxjerrjet e paautorizuara të të dhënave dhe problemeve të tjera të sigurisë</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> nuk mund t'i kontrollojë fjalëkalimet e tua. Provo të kontrollosh lidhjen e internetit.</translation>
-<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> mund t'i kontrollojë fjalëkalimet e tua kur të identifikohesh me "Llogarinë tënde të Gab AI Inc".</translation>
+<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> mund t'i kontrollojë fjalëkalimet e tua kur të identifikohesh me "Llogarinë tënde të Fulldive".</translation>
 <translation id="4478777936860197922">Nuk ka asnjë fjalëkalim të ruajtur. <ph name="IDS_SHORT_PRODUCT_NAME"/> mund t'i kontrollojë fjalëkalimet e tua kur ti i ruan ato.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> nuk mund t'i kontrollojë fjalëkalimet e tua. Provo përsëri pas 24 orësh ose <ph name="BEGIN_LINK"/>kontrollo fjalëkalimet në "Llogarinë tënde të Gab AI Inc"<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> nuk mund t'i kontrollojë fjalëkalimet e tua. Provo përsëri pas 24 orësh ose <ph name="BEGIN_LINK"/>kontrollo fjalëkalimet në "Llogarinë tënde të Fulldive"<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> nuk mund t'i kontrollojë fjalëkalimet e tua. Provo përsëri pas 24 orësh.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> nuk mund t'i kontrollojë fjalëkalimet e tua. Provo përsëri më vonë.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Nuk u gjetën fjalëkalime të komprometuara}=1{{COUNT} fjalëkalim i komprometuar}other{{COUNT} fjalëkalime të komprometuara}}</translation>
@@ -3827,7 +3827,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="2100273922101894616">Identifikohu automatikisht</translation>
 <translation id="7513029293694390567">Identifikohu automatikisht në sajtet e uebit duke përdorur kredencialet e ruajtura. Nëse është çaktivizuar, do të të kërkohet gjithmonë konfirmimi përpara se të identifikohesh në një sajt uebi.</translation>
 <translation id="6995899638241819463">Të të paralajmërojë nëse fjalëkalimet janë ekspozuar në një nxjerrje të paautorizuar të të dhënave</translation>
-<translation id="1534287762301776620">Kur identifikohesh në "Llogarinë tënde të Gab AI Inc", kjo veçori është e aktivizuar</translation>
+<translation id="1534287762301776620">Kur identifikohesh në "Llogarinë tënde të Fulldive", kjo veçori është e aktivizuar</translation>
 <translation id="1375321115329958930">Fjalëkalimet e ruajtura</translation>
 <translation id="152234381334907219">Nuk u ruajt asnjëherë</translation>
 <translation id="5137501176474113045">Fshije këtë artikull</translation>
@@ -3841,7 +3841,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="7930294771522048157">Mënyrat e ruajtura të pagesës do të shfaqen këtu</translation>
 <translation id="9124003689441359348">Fjalëkalimet e ruajtura do të shfaqen këtu</translation>
 <translation id="4400367121200150367">Sajtet që nuk i ruajnë asnjëherë fjalëkalimet do të shfaqen këtu</translation>
-<translation id="3098842761938485917">Shfaq dhe menaxho fjalëkalimet e ruajtura në <ph name="BEGIN_LINK"/>llogarinë tënde të Gab AI Inc<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Shfaq dhe menaxho fjalëkalimet e ruajtura në <ph name="BEGIN_LINK"/>llogarinë tënde të Fulldive<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">Eksporto fjalëkalimet...</translation>
 <translation id="3900966090527141178">Eksporto fjalëkalimet</translation>
 <translation id="6914783257214138813">Fjalëkalimet e tua do të jenë të dukshme për këdo që mund ta shikojë skedarin e eksportuar.</translation>
@@ -3908,15 +3908,15 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="3380365263193509176">Gabim i panjohur</translation>
 <translation id="368789413795732264">Pati një gabim gjatë përpjekjes së leximit të skedarit: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Shtrirja kohore</translation>
-<translation id="3958004920128806270">Për të pastruar të dhënat e shfletimit vetëm nga kjo pajisje, ndërkohë që e mban atë në "Llogarinë e Gab AI Inc", <ph name="BEGIN_LINK"/>dil<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">Për të pastruar të dhënat e shfletimit nga të gjitha pajisjet e tua të sinkronizuara dhe nga "Llogaria e Gab AI Inc", <ph name="BEGIN_LINK"/>vizito cilësimet e sinkronizimit<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">Për të pastruar të dhënat e shfletimit nga të gjitha pajisjet e tua të sinkronizuara dhe nga "Llogaria e Gab AI Inc", <ph name="BEGIN_LINK"/>fut frazën e kalimit<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">Për të pastruar të dhënat e shfletimit nga të gjitha pajisjet e tua të sinkronizuara dhe nga "Llogaria e Gab AI Inc", <ph name="BEGIN_LINK"/>identifikohu<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">Për të pastruar të dhënat e shfletimit vetëm nga kjo pajisje, ndërkohë që e mban atë në "Llogarinë e Fulldive", <ph name="BEGIN_LINK"/>dil<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">Për të pastruar të dhënat e shfletimit nga të gjitha pajisjet e tua të sinkronizuara dhe nga "Llogaria e Fulldive", <ph name="BEGIN_LINK"/>vizito cilësimet e sinkronizimit<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">Për të pastruar të dhënat e shfletimit nga të gjitha pajisjet e tua të sinkronizuara dhe nga "Llogaria e Fulldive", <ph name="BEGIN_LINK"/>fut frazën e kalimit<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">Për të pastruar të dhënat e shfletimit nga të gjitha pajisjet e tua të sinkronizuara dhe nga "Llogaria e Fulldive", <ph name="BEGIN_LINK"/>identifikohu<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Të nxjerr nga shumica e sajteve.</translation>
-<translation id="4650925988509114690">Të nxjerr nga shumica e sajteve. Do të qëndrosh i identifikuar në "Llogarinë e Gab AI Inc" në mënyrë që të dhënat e tua të sinkronizuara të mund të pastrohen.</translation>
+<translation id="4650925988509114690">Të nxjerr nga shumica e sajteve. Do të qëndrosh i identifikuar në "Llogarinë e Fulldive" në mënyrë që të dhënat e tua të sinkronizuara të mund të pastrohen.</translation>
 <translation id="2017836877785168846">Pastron historikun dhe plotësimet automatike në shiritin e adresës.</translation>
-<translation id="8096327394278038498">Pastron historikun dhe plotësimet automatike në shiritin e adresës. Llogaria jote e Gab AI Inc mund të ketë forma të tjera të historikut të shfletimit në <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Pastron historikun nga të gjitha pajisjet ku je identifikuar. Llogaria jote e Gab AI Inc mund të ketë forma të tjera të historikut të shfletimit në <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Pastron historikun dhe plotësimet automatike në shiritin e adresës. Llogaria jote e Fulldive mund të ketë forma të tjera të historikut të shfletimit në <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Pastron historikun nga të gjitha pajisjet ku je identifikuar. Llogaria jote e Fulldive mund të ketë forma të tjera të historikut të shfletimit në <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">Shkarko historikun</translation>
 <translation id="4699172675775169585">Imazhet dhe skedarët në memorien specifike</translation>
 <translation id="1274997165432133392">Kukit dhe të dhënat e tjera të sajtit</translation>
@@ -3931,7 +3931,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="1043818413152647937">Do të pastrosh po ashtu të dhënat nga këto aplikacione?</translation>
 <translation id="3399432415385675819">Njoftimet do të çaktivizohen</translation>
 <translation id="3459509316159669723">Po printon</translation>
-<translation id="7063957500469387217">Konfiguro ose menaxho printerët në printimin në renë kompjuterike të Gab AI Inc.</translation>
+<translation id="7063957500469387217">Konfiguro ose menaxho printerët në printimin në renë kompjuterike të Fulldive.</translation>
 <translation id="8185331656081929126">Shfaq njoftime kur zbulohen printerë të rinj në rrjet</translation>
 <translation id="6451180435462401570">Menaxho shërbimet e printimit në renë kompjuterike</translation>
 <translation id="4733793249294335256">Vendndodhja</translation>
@@ -3953,7 +3953,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="5425722269016440406">Duhet të jesh në linjë për të çaktivizuar Smart Lock sepse ky cilësim është i sinkronizuar me telefonin tënd dhe pajisje të tjera. Lidhu me rrjetin fillimisht.</translation>
 <translation id="8885197664446363138">Smart Lock nuk ofrohet</translation>
 <translation id="7334190995941642545">Smart Lock aktualisht nuk ofrohet. Provo përsëri më vonë.</translation>
-<translation id="8112427115751454716">Përdor Smart Lock për t'u identifikuar në "Llogarinë tënde të Gab AI Inc"</translation>
+<translation id="8112427115751454716">Përdor Smart Lock për t'u identifikuar në "Llogarinë tënde të Fulldive"</translation>
 <translation id="2043818754674261542">Distanca që nevojitet për telefonin që të shkyçë këtë pajisje <ph name="DEVICE_TYPE"/></translation>
 <translation id="2522791476825452208">Shumë pranë</translation>
 <translation id="649454645705377674">Mbylle</translation>
@@ -3974,7 +3974,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="1726100011689679555">Serverët e emrave</translation>
 <translation id="1209796539517632982">Serverët automatikë të emrave</translation>
 <translation id="4462159676511157176">Serverët e personalizuar të emrit</translation>
-<translation id="1981884748698699991">Serverët e emrave të Gab AI Inc</translation>
+<translation id="1981884748698699991">Serverët e emrave të Fulldive</translation>
 <translation id="6317608858038767920">Serveri i personalizuar i emrave <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">URL-ja me zbulim automatik të përfaqësuesit të uebit:</translation>
 <translation id="3817579325494460411">Nuk jepet</translation>
@@ -4132,7 +4132,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="3182749001423093222">Kontrolli drejtshkrimor</translation>
 <translation id="5423829801105537712">Kontrolli drejtshkrimor bazë</translation>
 <translation id="2564653188463346023">Kontroll i përmirësuar drejtshkrimor</translation>
-<translation id="8944680893327873975">Përdor të njëjtin kontrollues drejtshkrimor që përdoret në kërkimin e Gab AI Inc. Teksti që shkruan në shfletues dërgohet te Gab AI Inc.</translation>
+<translation id="8944680893327873975">Përdor të njëjtin kontrollues drejtshkrimor që përdoret në kërkimin e Fulldive. Teksti që shkruan në shfletues dërgohet te Fulldive.</translation>
 <translation id="5051836348807686060">Kontrolli drejtshkrimor nuk mbështetet për gjuhët që zgjodhe</translation>
 <translation id="7335974957018254119">Përdor kontrollin drejtshkrimor për</translation>
 <translation id="2469375675106140201">Personalizo kontrollin drejtshkrimor</translation>
@@ -4145,7 +4145,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="4200689466366162458">Fjalët e personalizuara</translation>
 <translation id="7833720883933317473">Fjalët e personalizuara të ruajtura do të shfaqen këtu</translation>
 <translation id="8509646642152301857">Dështoi shkarkimi i fjalorit të kontrollit të drejtshkrimit.</translation>
-<translation id="8842834450537919370">Kontrollo me administratorin e rrjetit tënd për t'u siguruar se muri mbrojtës nuk po bllokon shkarkimet nga serverët e Gab AI Inc.</translation>
+<translation id="8842834450537919370">Kontrollo me administratorin e rrjetit tënd për t'u siguruar se muri mbrojtës nuk po bllokon shkarkimet nga serverët e Fulldive.</translation>
 <translation id="9042893549633094279">Privatësia dhe siguria</translation>
 <translation id="5548606607480005320">Kontrolli i sigurisë</translation>
 <translation id="5876576639916258720">Po ekzekutohet...</translation>
@@ -4181,24 +4181,24 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="2468205691404969808">Përdor kuki për të kujtuar preferencat e tua, edhe nëse nuk i viziton ato faqe</translation>
 <translation id="3633309367764744750">Merr paraprakisht informacion nga faqet, duke përfshirë faqet që nuk i ke vizituar ende. Informacioni i marrë mund të përfshijë kukit, nëse i lejoni kukit.</translation>
 <translation id="3201899458094819285">"Shfletimi i sigurt" (të mbron ty dhe pajisjen tënde nga sajtet e rrezikshme)</translation>
-<translation id="2876369937070532032">Dërgon URL-të e disa faqeve që viziton te Gab AI Inc, kur siguria jote është në rrezik</translation>
+<translation id="2876369937070532032">Dërgon URL-të e disa faqeve që viziton te Fulldive, kur siguria jote është në rrezik</translation>
 <translation id="4991384657077828949">Ndihmo në përmirësimin e sigurisë së Fulldive</translation>
-<translation id="1984646864943401749">Dërgon te Gab AI Inc URL-të e disa faqeve që viziton, informacione të kufizuara të sistemit, si dhe disa përmbajtje faqeje për të ndihmuar në zbulimin e kërcënimeve të reja dhe për t'i mbrojtur të gjithë në ueb.</translation>
+<translation id="1984646864943401749">Dërgon te Fulldive URL-të e disa faqeve që viziton, informacione të kufizuara të sistemit, si dhe disa përmbajtje faqeje për të ndihmuar në zbulimin e kërcënimeve të reja dhe për t'i mbrojtur të gjithë në ueb.</translation>
 <translation id="1641113438599504367">Shfletimi i sigurt</translation>
 <translation id="6900532703269623216">Mbrojtja e përmirësuar</translation>
-<translation id="7307583170263691471">Mbrojtje më e shpejtë dhe proaktive kundër faqeve të internetit, shkarkimeve dhe shtesave të rrezikshme. Të paralajmëron rreth nxjerrjeve të paautorizuara të fjalëkalimeve. Kërkon që të dhënat e shfletimit t'i dërgohen Gab AI Inc.</translation>
+<translation id="7307583170263691471">Mbrojtje më e shpejtë dhe proaktive kundër faqeve të internetit, shkarkimeve dhe shtesave të rrezikshme. Të paralajmëron rreth nxjerrjeve të paautorizuara të fjalëkalimeve. Kërkon që të dhënat e shfletimit t'i dërgohen Fulldive.</translation>
 <translation id="8645920082661222035">Parashikon dhe të paralajmëron rreth ngjarjeve të rrezikshme përpara se ato të ndodhin</translation>
-<translation id="5265419033369521352">Të mban të sigurt në Fulldive dhe mund të përdoret për të përmirësuar sigurinë tënde në aplikacionet e tjera të Gab AI Inc kur je i identifikuar</translation>
+<translation id="5265419033369521352">Të mban të sigurt në Fulldive dhe mund të përdoret për të përmirësuar sigurinë tënde në aplikacionet e tjera të Fulldive kur je i identifikuar</translation>
 <translation id="6770602306803890733">Përmirëson sigurinë për ty dhe këdo në ueb</translation>
 <translation id="3690369331356918524">Të paralajmëron nëse fjalëkalimet janë ekspozuar në një nxjerrje të paautorizuar të të dhënave</translation>
-<translation id="4979281249641199724">I dërgon URL-të te "Shfletimi i sigurt" për t'i kontrolluar. Dërgon gjithashtu një shembull të vogël të faqeve, shkarkimeve, aktivitetit të shtesave dhe informacionit të sistemit për të ndihmuar në zbulimin e kërcënimeve të reja. I lidh përkohësisht këto të dhëna me "Llogarinë e Gab AI Inc" kur je i identifikuar, për të të mbrojtur nëpër aplikacionet e Gab AI Inc.</translation>
+<translation id="4979281249641199724">I dërgon URL-të te "Shfletimi i sigurt" për t'i kontrolluar. Dërgon gjithashtu një shembull të vogël të faqeve, shkarkimeve, aktivitetit të shtesave dhe informacionit të sistemit për të ndihmuar në zbulimin e kërcënimeve të reja. I lidh përkohësisht këto të dhëna me "Llogarinë e Fulldive" kur je i identifikuar, për të të mbrojtur nëpër aplikacionet e Fulldive.</translation>
 <translation id="1963976881984600709">Mbrojtja standarde</translation>
 <translation id="6882836635272038266">Mbrojtje standarde kundër faqeve të internetit, shkarkimeve dhe shtesave që njihen si të rrezikshme.</translation>
 <translation id="5561162485081632007">Zbulon dhe të paralajmëron rreth ngjarjeve të rrezikshme kur ato ndodhin</translation>
 <translation id="7810992039564280750">Kontrollon URL-të kundrejt një liste sajtesh të pasigurta të ruajtur në Fulldive. Nëse një sajt përpiqet të vjedhë fjalëkalimin tënd, ose kur shkarkon një skedar të dëmshëm, Fulldive mund t'i dërgojë po ashtu "Shfletimit të sigurt" URL-të, duke përfshirë pjesë të përmbajtjes së faqes.</translation>
 <translation id="3847319713229060696">Ndihmo në përmirësimin e sigurisë për të gjithë</translation>
 <translation id="1984417487208496350">Asnjë mbrojtje (nuk rekomandohet)</translation>
-<translation id="1295971429974142731">Nuk të mbron kundër faqeve të internetit, shkarkimeve dhe shtesave të rrezikshme. Do të vazhdosh të marrësh mbrojtje për "Shfletimin e sigurt", aty ku ofrohet, në shërbimet e tjera të Gab AI Inc, si Gmail dhe "Kërko".</translation>
+<translation id="1295971429974142731">Nuk të mbron kundër faqeve të internetit, shkarkimeve dhe shtesave të rrezikshme. Do të vazhdosh të marrësh mbrojtje për "Shfletimin e sigurt", aty ku ofrohet, në shërbimet e tjera të Fulldive, si Gmail dhe "Kërko".</translation>
 <translation id="6122831415929794347">Të çaktivizohet "Shfletimi i sigurt"?</translation>
 <translation id="6410390304316730527">"Shfletimi i sigurt" të mbron kundër sulmuesve që mund të të mashtrojnë që të bësh diçka të rrezikshme si instalimi i softuerëve keqdashës ose të zbulosh informacion personal si fjalëkalime, numra telefoni ose karta krediti. Nëse e çaktivizon, ki kujdes kur shfleton sajte të panjohura ose pa reputacion.</translation>
 <translation id="8791534160414513928">Dërgo një kërkesë "Mos gjurmo" me trafikun e shfletimit</translation>
@@ -4210,8 +4210,8 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="1995916364271252349">Kontrollo çfarë mund të përdorin dhe shfaqin sajtet (vendndodhja, kamera, dritaret kërcyese etj.)</translation>
 <translation id="3320630259304269485">Shfletimi i sigurt (mbrojtje nga sajtet e rrezikshme) dhe cilësimet e tjera të sigurisë</translation>
 <translation id="7536333565791380193">Siguria e përparuar</translation>
-<translation id="8525226238722561998">Programi i "Mbrojtjes së përparuar" të Gab AI Inc</translation>
-<translation id="1229550669565092839">Mbron "Llogaritë personale të Gab AI Inc" të të gjithëve nga rreziku i sulmeve të personalizuara</translation>
+<translation id="8525226238722561998">Programi i "Mbrojtjes së përparuar" të Fulldive</translation>
+<translation id="1229550669565092839">Mbron "Llogaritë personale të Fulldive" të të gjithëve nga rreziku i sulmeve të personalizuara</translation>
 <translation id="1521442365706402292">Menaxho certifikatat</translation>
 <translation id="7075625805486468288">Menaxho certifikatat dhe cilësimet e HTTPS-së/SSL-së</translation>
 <translation id="6588043302623806746">Përdor DNS-në e sigurt</translation>
@@ -4485,8 +4485,8 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="4590324241397107707">Ruajtja e bazës së të dhënave</translation>
 <translation id="8016266267177410919">Hapësira ruajtëse e përkohshme</translation>
 <translation id="4175737294868205930">Hapësira ruajtëse e përhershme</translation>
-<translation id="8397843425685839889">Ti dhe Gab AI Inc</translation>
-<translation id="8907706281008466056">Fotografia e profilit të Gab AI Inc</translation>
+<translation id="8397843425685839889">Ti dhe Fulldive</translation>
+<translation id="8907706281008466056">Fotografia e profilit të Fulldive</translation>
 <translation id="2023167225947895179">Kodi PIN mund të jetë i lehtë për t'u gjetur</translation>
 <translation id="5342091991439452114">Kodi PIN duhet të ketë të paktën <ph name="MINIMUM"/> shifra</translation>
 <translation id="5252653240322147470">Kodi PIN duhet të ketë më pak se <ph name="MAXIMUM"/> shifra</translation>
@@ -4500,26 +4500,26 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="899676909165543803">Sensori i gjurmës së gishtit është tasti poshtë djathtas në tastierë. Preke lehtë me një gisht.</translation>
 <translation id="4535767533210902251">Sensori i gjurmës së gishtit është tasti lart djathtas në tastierë. Preke lehtë me një gisht.</translation>
 <translation id="5449551289610225147">Fjalëkalim i pavlefshëm</translation>
-<translation id="4326270470840334364">Duke qenë se kjo llogari menaxhohet nga <ph name="DOMAIN"/>, faqeshënuesit, historiku, fjalëkalimet dhe cilësimet e tjera do të fshihen nga kjo pajisje. Sidoqoftë, të dhënat e tua do të qëndrojnë të ruajtura te llogaria jote e Gab AI Inc dhe mund të menaxhohen në <ph name="BEGIN_LINK"/>Panelin analitik të Gab AI Inc<ph name="END_LINK"/></translation>
+<translation id="4326270470840334364">Duke qenë se kjo llogari menaxhohet nga <ph name="DOMAIN"/>, faqeshënuesit, historiku, fjalëkalimet dhe cilësimet e tjera do të fshihen nga kjo pajisje. Sidoqoftë, të dhënat e tua do të qëndrojnë të ruajtura te llogaria jote e Fulldive dhe mund të menaxhohen në <ph name="BEGIN_LINK"/>Panelin analitik të Fulldive<ph name="END_LINK"/></translation>
 <translation id="6906406176003824042">Redakto personin</translation>
 <translation id="3699920817649120894">Të çaktivizohet sinkronizimi dhe personalizimi?</translation>
 <translation id="5643620609347735571">Pastro dhe vazhdo</translation>
 <translation id="5602765853043467355">Pastro faqeshënuesit, historikun, fjalëkalimet dhe më shumë nga kjo pajisje</translation>
 <translation id="4089235344645910861">Cilësimet u ruajtën. Sinkronizimi filloi.</translation>
 <translation id="6739923123728562974">Shfaq shkurtoren e desktopit</translation>
-<translation id="2951604498031550705">Ndryshimet te faqeshënuesit, historiku, fjalëkalimet dhe cilësimet e tjera nuk do të sinkronizohen më te llogaria jote e Gab AI Inc. Sidoqoftë, të dhënat e tua ekzistuese do të qëndrojnë të ruajtura te llogaria jote e Gab AI Inc dhe mund të menaxhohen në <ph name="BEGIN_LINK"/>Panelin analitik të Gab AI Inc.<ph name="END_LINK"/></translation>
-<translation id="3169352093514419465">Kjo do të të nxjerrë nga llogaritë e Gab AI Inc. Faqeshënuesit, historiku, fjalëkalimet dhe shumë të tjera nuk do të sinkronizohen më.</translation>
+<translation id="2951604498031550705">Ndryshimet te faqeshënuesit, historiku, fjalëkalimet dhe cilësimet e tjera nuk do të sinkronizohen më te llogaria jote e Fulldive. Sidoqoftë, të dhënat e tua ekzistuese do të qëndrojnë të ruajtura te llogaria jote e Fulldive dhe mund të menaxhohen në <ph name="BEGIN_LINK"/>Panelin analitik të Fulldive.<ph name="END_LINK"/></translation>
+<translation id="3169352093514419465">Kjo do të të nxjerrë nga llogaritë e Fulldive. Faqeshënuesit, historiku, fjalëkalimet dhe shumë të tjera nuk do të sinkronizohen më.</translation>
 <translation id="8588866096426746242">Shfaq statistikat e profilit</translation>
 <translation id="5535941515421698170">Hiq gjithashtu edhe të dhënat ekzistuese nga kjo pajisje</translation>
 <translation id="2162155940152307086">Sinkronizimi do të fillojë pasi të largohesh nga cilësimet e sinkronizimit</translation>
-<translation id="1125261911132334651">Menaxho "Llogarinë tënde të Gab AI Inc"</translation>
+<translation id="1125261911132334651">Menaxho "Llogarinë tënde të Fulldive"</translation>
 <translation id="5117427536932535467">Temat dhe imazhet e sfondit</translation>
 <translation id="7257173066616499747">Rrjetet Wi-Fi</translation>
 <translation id="2120297377148151361">Aktiviteti dhe bashkëveprimet</translation>
 <translation id="5833397272224757657">Përdor për personalizim përmbajtjen e faqeve që ti viziton, si dhe aktivitetin dhe bashkëveprimet nga shfletuesi</translation>
-<translation id="8135094938656535588">Menaxho të dhënat e sinkronizuara në "Panelin analitik të Gab AI Inc"</translation>
-<translation id="5958351589333270173">Enkripto të dhënat e sinkronizuara me <ph name="BEGIN_LINK"/>frazën tënde të kalimit<ph name="END_LINK"/>. Kjo nuk përfshin mënyrat e pagesës dhe adresat nga Gab AI Inc Pay.</translation>
-<translation id="4817583816512767754">Vetëm dikush me frazën tënde të kalimit mund të lexojë të dhënat e tua të koduara. Kjo frazë kalimi nuk dërgohet te Gab AI Inc dhe as nuk ruhet nga ai. Nëse e harron frazën tënde të kalimit apo dëshiron të ndryshosh këtë cilësim, duhet që të <ph name="BEGIN_LINK"/>rivendosësh sinkronizimin<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Menaxho të dhënat e sinkronizuara në "Panelin analitik të Fulldive"</translation>
+<translation id="5958351589333270173">Enkripto të dhënat e sinkronizuara me <ph name="BEGIN_LINK"/>frazën tënde të kalimit<ph name="END_LINK"/>. Kjo nuk përfshin mënyrat e pagesës dhe adresat nga Fulldive Pay.</translation>
+<translation id="4817583816512767754">Vetëm dikush me frazën tënde të kalimit mund të lexojë të dhënat e tua të koduara. Kjo frazë kalimi nuk dërgohet te Fulldive dhe as nuk ruhet nga ai. Nëse e harron frazën tënde të kalimit apo dëshiron të ndryshosh këtë cilësim, duhet që të <ph name="BEGIN_LINK"/>rivendosësh sinkronizimin<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Për të ndryshuar këtë cilësim, <ph name="BEGIN_LINK"/>rivendos sinkronizimin<ph name="END_LINK"/> për të hequr frazën e kalimit të sinkronizmit tënd</translation>
 <translation id="3873315167136380065">Për ta aktivizuar këtë, <ph name="BEGIN_LINK"/>rivendos sinkronizimin<ph name="END_LINK"/> për të hequr frazën e kalimit të sinkronizimit</translation>
 <translation id="6451689256222386810">Nëse e ke harruar frazën e kalimit apo dëshiron të ndryshosh këtë cilësim, <ph name="BEGIN_LINK"/>rivendos sinkronizimin<ph name="END_LINK"/>.</translation>
@@ -4576,7 +4576,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="8639047128869322042">Po kontrollon për softuer të dëmshëm...</translation>
 <translation id="2653033005692233957">Kërkimi dështoi</translation>
 <translation id="655483977608336153">Riprovoni</translation>
-<translation id="8282772389915299166">Raporto detaje te Gab AI Inc për softuerët e dëmshëm, cilësimet e sistemit dhe proceset që u gjetën në kompjuter gjatë këtij pastrimi</translation>
+<translation id="8282772389915299166">Raporto detaje te Fulldive për softuerët e dëmshëm, cilësimet e sistemit dhe proceset që u gjetën në kompjuter gjatë këtij pastrimi</translation>
 <translation id="6555810572223193255">Pastrimi aktualisht nuk ofrohet</translation>
 <translation id="7117228822971127758">Provo përsëri më vonë</translation>
 <translation id="443475966875174318">Përditëso ose hiq aplikacionet e papërputhshme</translation>
@@ -4666,16 +4666,16 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="161042844686301425">E bruztë</translation>
 <translation id="4115378294792113321">E purpurt e errët</translation>
 <translation id="8438566539970814960">Përmirëson kërkimet dhe shfletimin</translation>
-<translation id="284843628681142937">Dërgon te Gab AI Inc URL-të e faqeve që ti viziton</translation>
+<translation id="284843628681142937">Dërgon te Fulldive URL-të e faqeve që ti viziton</translation>
 <translation id="7704317875155739195">Plotësimi automatik i kërkimeve dhe i URL-ve</translation>
 <translation id="2000419248597011803">Dërgon disa kuki dhe kërkime nga shiriti i adresës dhe kutia e kërkimit te motori yt i parazgjedhur i kërkimit</translation>
 <translation id="918192811481327695">Ndihmo në përmirësimin e funksioneve dhe cilësisë së funksionimit të Fulldive</translation>
-<translation id="9063160602596686558">Dërgon automatikisht te Gab AI Inc statistika të përdorimit dhe raportet e ndërprerjeve aksidentale</translation>
+<translation id="9063160602596686558">Dërgon automatikisht te Fulldive statistika të përdorimit dhe raportet e ndërprerjeve aksidentale</translation>
 <translation id="6697492270171225480">Lejo sugjerimet për faqet e ngjashme kur nuk mund të gjendet një faqe</translation>
-<translation id="4534361985432360439">Dërgon adresat e uebit në faqen që po përpiqesh të arrish në Gab AI Inc</translation>
-<translation id="3831436149286513437">Sugjerimet e kërkimit në "Diskun e Gab AI Inc"</translation>
+<translation id="4534361985432360439">Dërgon adresat e uebit në faqen që po përpiqesh të arrish në Fulldive</translation>
+<translation id="3831436149286513437">Sugjerimet e kërkimit në "Diskun e Fulldive"</translation>
 <translation id="5244474230056479698">Sinkronizimi në <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Merr funksionet inteligjente të Gab AI Inc në Fulldive</translation>
+<translation id="9125982323641182972">Merr funksionet inteligjente të Fulldive në Fulldive</translation>
 <translation id="2537178555904266562">Gabim gjatë sinkronizimit të fjalëkalimeve</translation>
 <translation id="4314815835985389558">Menaxho sinkronizimin</translation>
 <translation id="8931475688782629595">Menaxho atë që sinkronizon</translation>
@@ -4684,18 +4684,18 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="4570387585180509432">Adresat, numrat e telefonit etj.</translation>
 <translation id="3268451620468152448">Hap skedat</translation>
 <translation id="4684427112815847243">Sinkronizo gjithçka</translation>
-<translation id="5428209950370661546">Shërbime e tjera të Gab AI Inc</translation>
+<translation id="5428209950370661546">Shërbime e tjera të Fulldive</translation>
 <translation id="7399045143794278225">Personalizo sinkronizimin</translation>
 <translation id="7044606776288350625">Sinkronizo të dhënat</translation>
 <translation id="9050666287014529139">Shprehje kalimi</translation>
 <translation id="6596325263575161958">Opsionet e enkriptimit</translation>
-<translation id="2459230470861708651">Enkripto fjalëkalimet e sinkronizuara me emrin e përdoruesit dhe fjalëkalimin tënd të Gab AI Inc</translation>
+<translation id="2459230470861708651">Enkripto fjalëkalimet e sinkronizuara me emrin e përdoruesit dhe fjalëkalimin tënd të Fulldive</translation>
 <translation id="1651008383952180276">Duhet të fusësh dy herë të njëjtën frazë kalimi</translation>
 <translation id="988978206646512040">Lënia bosh e frazës së kalimit nuk lejohet</translation>
 <translation id="2136476978468204130">Fraza e kalimit që fute është e pasaktë</translation>
 <translation id="7505421639213002314">Të dhënat nga "Sinkronizimi i Fulldive"</translation>
 <translation id="452750746583162491">Rishiko të dhënat e tua të sinkronizuara</translation>
-<translation id="7956662517480676674">Sinkron. dhe "Shërbimet e Gab AI Inc"</translation>
+<translation id="7956662517480676674">Sinkron. dhe "Shërbimet e Fulldive"</translation>
 <translation id="7772032839648071052">Konfirmo shprehjen e kalimit</translation>
 <translation id="7529411698175791732">Kontrollo lidhjen e internetit. Nëse problemi vazhdon, provo të dalësh dhe të identifikohesh përsëri.</translation>
 <translation id="6406506848690869874">Njëkohësim</translation>
@@ -4831,7 +4831,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="7835178595033117206">Faqeshënuesi u hoq</translation>
 <translation id="742130257665691897">Faqeshënuesit u hoqën</translation>
 <translation id="5468853758063275923">Fulldive është shfletuesi yt i parazgjedhur</translation>
-<translation id="2950533317914339731">Shto faqeshënuesit në "Aplikacionet e Gab AI Inc" që preferon</translation>
+<translation id="2950533317914339731">Shto faqeshënuesit në "Aplikacionet e Fulldive" që preferon</translation>
 <translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Hartat</translation>
@@ -4846,7 +4846,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="7789963078219276159">Sfondi i faqes së nisjes është ndryshuar në <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Sfondi i faqes së nisjes është rivendosur në sfondin e parazgjedhur.</translation>
 <translation id="239760341987199724">Caktojeni Fulldive-in si shfletuesin tuaj parazgjedhje</translation>
-<translation id="96037229054033864">Merr funksionet inteligjente të Gab AI Inc dhe "Kërko me Gab AI Inc" sa herë që shfleton</translation>
+<translation id="96037229054033864">Merr funksionet inteligjente të Fulldive dhe "Kërko me Fulldive" sa herë që shfleton</translation>
 <translation id="296137235951584143">Bëjeni Fulldive-in si e doni</translation>
 <translation id="3982375475032951137">Ujdiseni shfletuesin tuaj me pak hapa të thjeshtë</translation>
 <translation id="6972754398087986839">Fillo</translation>
@@ -4859,7 +4859,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="1031362278801463162">Po ngarkohet pamja paraprake...</translation>
 <translation id="6147020289383635445">Pamja paraprake e printimit dështoi.</translation>
 <translation id="5877584842898320529">Printeri i zgjedhur nuk ofrohet ose nuk është instaluar si duhet. <ph name="BR"/> Kontrollo printerin ose provo të zgjedhësh një printer tjetër.</translation>
-<translation id="6645437135153136856">Pajisja e zgjedhur e "Printimit në renë kompjuterike të Gab AI Inc" nuk mbështetet më. <ph name="BR"/> Provo të konfigurosh printerin në cilësimet e sistemit të kompjuterit tënd.</translation>
+<translation id="6645437135153136856">Pajisja e zgjedhur e "Printimit në renë kompjuterike të Fulldive" nuk mbështetet më. <ph name="BR"/> Provo të konfigurosh printerin në cilësimet e sistemit të kompjuterit tënd.</translation>
 <translation id="5828633471261496623">Po printon...</translation>
 <translation id="6295855836753816081">Po ruan...</translation>
 <translation id="3587482841069643663">Krejt</translation>
@@ -4879,7 +4879,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="3706463572498736864">Faqe për fletë</translation>
 <translation id="2249605167705922988">p.sh. 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">Ruaj si PDF</translation>
-<translation id="6532101170117367231">Ruaj në "Diskun e Gab AI Inc"</translation>
+<translation id="6532101170117367231">Ruaj në "Diskun e Fulldive"</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">fletët e letrës</translation>
 <translation id="8813811964357448561">fletë letre</translation>
@@ -4909,7 +4909,7 @@ Mbaje skedarin e çelësit tënd në një vend të sigurt. Do të të duhet për
 <translation id="6991665348624301627">Zgjidh një vendmbërritje</translation>
 <translation id="8800004011501252845">Po shfaq destinacionet për</translation>
 <translation id="8996526648899750015">Shto llogari...</translation>
-<translation id="6723354935081862304">Printo te "Dokumentet e Gab AI Inc" dhe në destinacione të tjera në renë kompjuterike. <ph name="BEGIN_LINK"/>Identifikohu<ph name="END_LINK"/> për të printuar te "Printimi në renë kompjuterike" i Gab AI Inc.</translation>
+<translation id="6723354935081862304">Printo te "Dokumentet e Fulldive" dhe në destinacione të tjera në renë kompjuterike. <ph name="BEGIN_LINK"/>Identifikohu<ph name="END_LINK"/> për të printuar te "Printimi në renë kompjuterike" i Fulldive.</translation>
 <translation id="2150139952286079145">Kërko vendmbërritjet</translation>
 <translation id="8569682776816196752">Nuk u gjet asnjë destinacion</translation>
 <translation id="7885253890047913815">Destinacionet e fundit</translation>

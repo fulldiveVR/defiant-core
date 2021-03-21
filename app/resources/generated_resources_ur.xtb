@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">تلاش کے کوئی نتائج نہیں ملے</translation>
 <translation id="8967866634928501045">‏دکھانے کے لیے Alt Shift A دبائیں</translation>
 <translation id="998747458861718449">م&amp;عائنہ کریں</translation>
-<translation id="4428301600092811022">‏Gab AI Inc سے تصویر کی تفصیلات حاصل کریں؟</translation>
+<translation id="4428301600092811022">‏Fulldive سے تصویر کی تفصیلات حاصل کریں؟</translation>
 <translation id="741204030948306876">ہاں، میں شامل ہوں</translation>
 <translation id="780301667611848630">نہیں شکریہ</translation>
 <translation id="3943582379552582368">&amp;پیچھے</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">&amp;پیسٹ کریں</translation>
 <translation id="2218515861914035131">سادہ متن کے بطور پیسٹ کریں</translation>
 <translation id="1017280919048282932">لغت میں &amp;شامل کریں</translation>
-<translation id="1732768497619250086">‏Gab AI Inc سے تصویر کی تفصیلات حاصل کریں</translation>
+<translation id="1732768497619250086">‏Fulldive سے تصویر کی تفصیلات حاصل کریں</translation>
 <translation id="7561196759112975576">ہمیشہ</translation>
 <translation id="2241634353105152135">بس ایک بار</translation>
 <translation id="3387614642886316601">املا کی بہتر جانچ استعمال کریں</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">آن کریں</translation>
 <translation id="7658239707568436148">منسوخ کریں</translation>
 <translation id="8915370057835397490">تجویز لوڈ ہو رہی ہے</translation>
-<translation id="6191804255817539692">‏Gab AI Inc کی جانب سے مزید کوئی مشورے نہیں ہیں</translation>
+<translation id="6191804255817539692">‏Fulldive کی جانب سے مزید کوئی مشورے نہیں ہیں</translation>
 <translation id="1901303067676059328">&amp;سبھی کو منتخب کریں</translation>
 <translation id="3797900183766075808">"<ph name="SEARCH_TERMS"/>" کو <ph name="SEARCH_ENGINE"/> میں تلاش کریں</translation>
 <translation id="2721037002783622288">تصویر کیلئے <ph name="SEARCH_ENGINE"/> میں &amp;تلاش کریں</translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">&amp;پیسٹ کریں</translation>
 <translation id="1815083418640426271">سادہ متن کے بطور پیسٹ کریں</translation>
 <translation id="4022426551683927403">لغت میں &amp;شامل کریں</translation>
-<translation id="6849870115130610913">‏Gab AI Inc سے تصویر کی تفصیلات حاصل کریں</translation>
+<translation id="6849870115130610913">‏Fulldive سے تصویر کی تفصیلات حاصل کریں</translation>
 <translation id="372722114124766626">بس ایک بار</translation>
 <translation id="4079140982534148664">املا کی بہتر جانچ استعمال کریں</translation>
 <translation id="7487141338393529395">املا کی بہتر جانچ آن کریں</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/> حساس مواد پر مشتمل ہے۔</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/> حساس مواد پر مشتمل ہے، اور مسدود کر دیا گیا ہے۔</translation>
 <translation id="6651823585377804376">ڈاؤن لوڈ میلوئیر پر مشتمل ہے۔</translation>
-<translation id="6529597483902964581">‏<ph name="FILE_NAME"/> خطرناک ہو سکتا ہے۔ اسکیننگ کے لیے Gab AI Inc کے اعلی تحفظ کو بھیجیں؟</translation>
+<translation id="6529597483902964581">‏<ph name="FILE_NAME"/> خطرناک ہو سکتا ہے۔ اسکیننگ کے لیے Fulldive کے اعلی تحفظ کو بھیجیں؟</translation>
 <translation id="4907161631261076876">یہ فائل عام طور پر ڈاؤن لوڈ نہیں کی جاتی ہے اور یہ خطرناک ہو سکتی ہے۔</translation>
 <translation id="6102043788063419338">اعلی تحفظ نے اس فائل کو مسدود کر دیا ہے۔</translation>
 <translation id="2773802008104670137">اس قسم کی فائل سے آپ کے کمپیوٹر کو نقصان پہنچ سکتا ہے۔</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">ڈاؤن لوڈ منسوخ ہو گیا: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">ڈاؤن لوڈ مکمل ہو گیا: <ph name="FILE_NAME"/>۔</translation>
 <translation id="4110490973560452005">‏ڈاؤن لوڈ مکمل ہو گیا: <ph name="FILE_NAME"/>۔ ڈاؤن لوڈز بار ایریا پر جانے کے لیے Shift+F6 دبائيں۔</translation>
-<translation id="7033965027041115562">‏<ph name="FILE_NAME"/> خطرناک ہو سکتا ہے۔ اسکیننگ کے لیے Gab AI Inc کے اعلی تحفظ کو بھیجیں؟ ڈاؤن لوڈز بار ایریا پر جانے کے لیے Shift+F6 دبائيں۔</translation>
+<translation id="7033965027041115562">‏<ph name="FILE_NAME"/> خطرناک ہو سکتا ہے۔ اسکیننگ کے لیے Fulldive کے اعلی تحفظ کو بھیجیں؟ ڈاؤن لوڈز بار ایریا پر جانے کے لیے Shift+F6 دبائيں۔</translation>
 <translation id="2743387203779672305">کلپ بورڈ پر کاپی کریں</translation>
 <translation id="883911313571074303">تصویر کی تشریح کریں</translation>
 <translation id="6291953229176937411">فائنڈر میں &amp;دکھائیں</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">خارج ہوں</translation>
 <translation id="7376221878517288144">بہر حال پوشیدگی وضع کو بند کریں؟</translation>
 <translation id="973473557718930265">چھوڑیں</translation>
-<translation id="7707599169365957976">‏آپ سسٹم کی کچھ معلومات اور صفحے کا کچھ مواد Gab AI Inc کو بھیج کر محفوظ براؤزنگ کو بہتر بنانے میں مدد کر سکتے ہیں۔</translation>
+<translation id="7707599169365957976">‏آپ سسٹم کی کچھ معلومات اور صفحے کا کچھ مواد Fulldive کو بھیج کر محفوظ براؤزنگ کو بہتر بنانے میں مدد کر سکتے ہیں۔</translation>
 <translation id="4923279099980110923">ہاں، میں مدد کرنا چاہتا ہوں</translation>
 <translation id="2316129865977710310">نہیں، شکریہ</translation>
 <translation id="9169931577761441333"><ph name="APP_NAME"/> کو ہوم اسکرین میں شامل کریں</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">انسٹال کردہ تھیم "<ph name="THEME_NAME"/>"</translation>
 <translation id="2256115617011615191">ابھی دوبارہ شروع کریں</translation>
 <translation id="4545028762441890696">اسے دوبارہ فعال کرنے کے لیے، نئی اجازتیں قبول کریں:</translation>
-<translation id="3009487527589249344">‏Gab AI Inc نے "<ph name="EXTENSION_NAME"/>" پر نقصان دہ کے بطور پرچم لگایا ہے اور انسٹالیشن کو روک دیا گیا ہے</translation>
+<translation id="3009487527589249344">‏Fulldive نے "<ph name="EXTENSION_NAME"/>" پر نقصان دہ کے بطور پرچم لگایا ہے اور انسٹالیشن کو روک دیا گیا ہے</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> کو دور سے شامل کر دیا گیا</translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> غیر فعال ہے</translation>
 <translation id="595959584676692139">اس ایکسٹینشن کا استعمال کرنے کے لیے صفحہ دوبارہ لوڈ کریں</translation>
@@ -970,7 +970,7 @@
 <translation id="3584169441612580296">اپنے کمپیوٹر سے تصاویر، موسیقی اور دیگر میڈیا پڑھیں اور تبدیل کریں</translation>
 <translation id="5457459357461771897">اپنے کمپیوٹر سے تصاویر، موسیقی اور دیگر میڈیا پڑھیں اور حذف کریں</translation>
 <translation id="3270965368676314374">اپنے کمپیوٹر سے تصاویر، موسیقی اور دیگر میڈیا پڑھیں، تبدیل اور حذف کریں</translation>
-<translation id="1285484354230578868">‏اپنے Gab AI Inc اکاؤنٹ میں ڈیٹا اسٹور کریں</translation>
+<translation id="1285484354230578868">‏اپنے Fulldive اکاؤنٹ میں ڈیٹا اسٹور کریں</translation>
 <translation id="378312418865624974">اس کمپیوٹر کیلئے ایک منفرد شناخت کار پڑھیں</translation>
 <translation id="5094721898978802975">تعاون کرنے والی اصل ایپلیکیشنز کے ساتھ مواصلت کریں</translation>
 <translation id="4876895919560854374">اسکرین کو مقفل اور غیر مقفل کریں</translation>
@@ -1181,7 +1181,7 @@
 <translation id="8756969031206844760">پاس ورڈ کو اپ ڈیٹ کریں؟</translation>
 <translation id="8230134520748321204"><ph name="ORIGIN"/> کے لیے پاس ورڈ کو محفوظ کریں؟</translation>
 <translation id="9040661932550800571"><ph name="ORIGIN"/> کے لیے پاس ورڈ کو اپ ڈیٹ کریں؟</translation>
-<translation id="8284000761603848448">‏آپ کے Gab AI Inc اکاؤنٹ میں پاس ورڈز محفوظ ہیں اس لیے آپ انہیں کسی بھی آلہ پر استعمال کر سکتے ہیں</translation>
+<translation id="8284000761603848448">‏آپ کے Fulldive اکاؤنٹ میں پاس ورڈز محفوظ ہیں اس لیے آپ انہیں کسی بھی آلہ پر استعمال کر سکتے ہیں</translation>
 <translation id="8286036467436129157">سائن ان کریں</translation>
 <translation id="8009225694047762179">پاسورڈز کا نظم کریں</translation>
 <translation id="3950820424414687140">سائن ان کریں</translation>
@@ -1189,10 +1189,10 @@
 <translation id="328571385944182268">آپ کے پاس ورڈز محفوظ کریں؟</translation>
 <translation id="3753033997400164841">ایک بار اسٹور کریں۔ ہر جگہ استعمال کریں</translation>
 <translation id="1703331064825191675">اپنے پاس ورڈز کے تعلق سے کبھی فکرمند نہ ہوں</translation>
-<translation id="2341030170677284705">‏پاس ورڈز کو اپنے Gab AI Inc اکاؤنٹ میں بحفاظت محفوظ کریں اور آپ کو انہیں دوبارہ ٹائپ کرنے کی ضرورت نہیں پڑے گی</translation>
-<translation id="3913985461352963178">‏آپ جب بھی اپنے Gab AI Inc اکاؤنٹ میں سائن ان ہوں، اپنے پاس ورڈز تک رسائی حاصل کریں</translation>
-<translation id="4851124464356820177">‏اپنے Gab AI Inc اکاؤنٹ میں پاس ورڈز محفوظ کرنے کیلئے، سائن ان کریں اور مطابقت پذیری آن کریں۔</translation>
-<translation id="3229869963989850535">‏اپنے Gab AI Inc اکاؤنٹ میں پاس ورڈز محفوظ کرنے کیلئے، مطابقت پذیری آن کریں۔</translation>
+<translation id="2341030170677284705">‏پاس ورڈز کو اپنے Fulldive اکاؤنٹ میں بحفاظت محفوظ کریں اور آپ کو انہیں دوبارہ ٹائپ کرنے کی ضرورت نہیں پڑے گی</translation>
+<translation id="3913985461352963178">‏آپ جب بھی اپنے Fulldive اکاؤنٹ میں سائن ان ہوں، اپنے پاس ورڈز تک رسائی حاصل کریں</translation>
+<translation id="4851124464356820177">‏اپنے Fulldive اکاؤنٹ میں پاس ورڈز محفوظ کرنے کیلئے، سائن ان کریں اور مطابقت پذیری آن کریں۔</translation>
+<translation id="3229869963989850535">‏اپنے Fulldive اکاؤنٹ میں پاس ورڈز محفوظ کرنے کیلئے، مطابقت پذیری آن کریں۔</translation>
 <translation id="1056466516655540509"><ph name="MINUTES"/> منٹ پہلے اپ ڈیٹ کیا گیا</translation>
 <translation id="8743864605301774756">اپ ڈیٹ کیا گیا 1 گھنٹہ قبل</translation>
 <translation id="7363117941401515667"><ph name="HOURS"/> گھنٹے پہلے اپ ڈیٹ کیا گیا</translation>
@@ -1296,9 +1296,9 @@
 <translation id="1246905108078336582">کلپ بورڈ سے تجویز ہٹائیں؟</translation>
 <translation id="825238165904109940">‏ہمیشہ مکمل URLs دکھائیں</translation>
 <translation id="3416468988018290825">‏ہمیشہ مکمل URLs دکھائیں</translation>
-<translation id="2129873093718581193">‏Gab AI Inc پر تلاش کریں یا URL ٹائپ کریں</translation>
-<translation id="6363797201514053536">‏Gab AI Inc پر تلاش کریں یا URL ٹائپ کریں</translation>
-<translation id="4888839742663123585">‏Gab AI Inc پر کچھ تلاش کریں</translation>
+<translation id="2129873093718581193">‏Fulldive پر تلاش کریں یا URL ٹائپ کریں</translation>
+<translation id="6363797201514053536">‏Fulldive پر تلاش کریں یا URL ٹائپ کریں</translation>
+<translation id="4888839742663123585">‏Fulldive پر کچھ تلاش کریں</translation>
 <translation id="6078323886959318429">شارٹ کٹ شامل کریں</translation>
 <translation id="6324916366299863871">شارٹ کٹ میں ترمیم کریں</translation>
 <translation id="4405117686468554883">‎*.jpeg, *.jpg, *.png</translation>
@@ -1482,35 +1482,35 @@
 <translation id="6798578729981748444">‏درآمد ختم کرنے کے لئے، تمام Firefox ونڈوز کو بند کریں۔</translation>
 <translation id="6374469231428023295">دوبارہ کوشش کریں</translation>
 <translation id="8725066075913043281">دوبارہ کوشش کریں</translation>
-<translation id="4196805003686694274">‏Gab AI Inc کو تاثرات بھیجیں</translation>
+<translation id="4196805003686694274">‏Fulldive کو تاثرات بھیجیں</translation>
 <translation id="3424969259347320884">بتائیں کہ ٹیب کے ناکام ہونے پر آپ کیا کر رہے تھے</translation>
-<translation id="1892630320532151038">‏Gab AI Inc کو تاثرات بھیجیں</translation>
+<translation id="1892630320532151038">‏Fulldive کو تاثرات بھیجیں</translation>
 <translation id="2428510569851653187">بتائیں کہ ٹیب کے ناکام ہونے پر آپ کیا کر رہے تھے</translation>
 <translation id="5659593005791499971">ای میل</translation>
 <translation id="2982970937345031">گمنام طریقہ سے اطلاع دیں</translation>
 <translation id="6076448957780543068">یہ اسکرین شاٹ شامل کریں</translation>
 <translation id="2865919525181940183">ان پروگرامز کا اسکرین شاٹ جو فی الحال اسکرین پر موجود ہے</translation>
 <translation id="7052237160939977163">کارکردگی کا پتا لگانے کا ڈیٹا بھیجیں</translation>
-<translation id="5526928694260255286">‏<ph name="BEGIN_LINK"/>بلوٹوتھ لاگز<ph name="END_LINK"/> منسلک کریں (Gab AI Inc داخلی)</translation>
+<translation id="5526928694260255286">‏<ph name="BEGIN_LINK"/>بلوٹوتھ لاگز<ph name="END_LINK"/> منسلک کریں (Fulldive داخلی)</translation>
 <translation id="3047644958362961983">اس معلومات سے آپ کی اسسٹنٹ سے متعلق مسئلے کو بہتر طریقے سے سمجھنے میں ہمیں مدد ملتی ہے۔ اسے 90 دنوں تک کیلئے اسٹور کیا جاتا ہے اور اس تک رسائی انجینیئرنگ اور تاثرات کی مناسب ٹیموں تک محدود ہوتی ہے۔</translation>
-<translation id="8545590844135745781">‏بلوٹوتھ کے مسائل کی بہتر تشخیص کرنے کے لئے Gab AI Incrs اپنی تاثراتی رپورٹس کے ساتھ بلوٹوتھ کے اضافی لاگز شامل کر سکتے ہیں- اس اختیار کے منتخب کیے جانے پر آپ کی رپورٹ میں آپ کے موجودہ سیشن سے btsnoop اور HCI لاگز شامل ہوں گے، جن میں سے ممکنہ حد تک PII ہٹا دیا جائے گا- ان لاگز تک رسائی Listnr میں Fulldive OS پروڈکٹ گروپ کے مینیجرز تک محدود ہوگی۔ 90 دن کے بعد لاگز ہٹا دیے جائیں گے۔</translation>
+<translation id="8545590844135745781">‏بلوٹوتھ کے مسائل کی بہتر تشخیص کرنے کے لئے Fulldivers اپنی تاثراتی رپورٹس کے ساتھ بلوٹوتھ کے اضافی لاگز شامل کر سکتے ہیں- اس اختیار کے منتخب کیے جانے پر آپ کی رپورٹ میں آپ کے موجودہ سیشن سے btsnoop اور HCI لاگز شامل ہوں گے، جن میں سے ممکنہ حد تک PII ہٹا دیا جائے گا- ان لاگز تک رسائی Listnr میں Fulldive OS پروڈکٹ گروپ کے مینیجرز تک محدود ہوگی۔ 90 دن کے بعد لاگز ہٹا دیے جائیں گے۔</translation>
 <translation id="4206323443866416204">تاثرات کی رپورٹ</translation>
 <translation id="3681311097828166361">آپ کے تاثرات کا شکریہ۔ آپ ابھی آف لائن ہیں اور آپ کی رپورٹ بعد میں بھیجی جائے گی۔</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>سسٹم کی معلومات<ph name="END_LINK1"/> بھیجیں</translation>
 <translation id="6395423953133416962"><ph name="BEGIN_LINK1"/>سسٹم کی معلومات<ph name="END_LINK1"/> اور <ph name="BEGIN_LINK2"/>میٹرکس<ph name="END_LINK2"/> بھیجیں۔</translation>
 <translation id="6270770586500173387"><ph name="BEGIN_LINK1"/>سسٹم اور ایپ کی معلومات<ph name="END_LINK1"/> اور <ph name="BEGIN_LINK2"/>میٹرکس<ph name="END_LINK2"/> بھیجیں</translation>
 <translation id="3894123633473837029">‏Sherlog کے ذریعے اسسٹنٹ کی حالیہ سرگزشت شامل کریں۔ اس میں آپ کی شناخت، مقام اور ڈیبگ کی معلومات شامل ہو سکتی ہیں۔ <ph name="BEGIN_LINK"/>مزید جانیں<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">‏ڈیبگ کرنے کیلئے فائل Gab AI Inc کو بھیج دی جائے گی</translation>
+<translation id="8329196515830093443">‏ڈیبگ کرنے کیلئے فائل Fulldive کو بھیج دی جائے گی</translation>
 <translation id="8227119283605456246">فائل منسلک کریں</translation>
 <translation id="5367091008316207019">فائل پڑھی جا رہی ہے…</translation>
 <translation id="2554553592469060349">‏منتخب کردہ فائل کافی بڑی ہے (زیادہ سے زیادہ سائز: 3mb)۔</translation>
 <translation id="4690091457710545971">‏&lt;Intel Wi-Fi فرم ویئر کے ذریعے جنریٹ کردہ چار فائلیں: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon۔ پہلی تین رجسٹر ڈمپس کی حامل بائنری فائلیں ہیں، اور ان کی Intel کے ذریعے تصدیق کی جاتی ہے تاکہ ان میں کوئی ذاتی یا آلے کی شناخت کرنے والی معلومات شامل نہ ہو۔ آخری فائل Intel فرم ویئر کی کارروائی کا سراغ ہے، اسے کسی بھی ذاتی یا آلے کی شناخت کرنے والی معلومات سے پاک کر دیا جاتا ہے، لیکن یہ یہاں ڈسپلے کئے جانے کیلئے کافی بڑی ہے۔ ان فائلوں کو آپ کے آلے کے ساتھ پیش آنے والے حالیہ Wi-Fi مسائل کے جواب میں جنریٹ کیا گیا تھا اور ان مسائل کے حل میں مدد کیلئے Intel کے ساتھ ان کا اشتراک کیا جائے گا۔&gt;</translation>
-<translation id="6972420083546794501">‏قانونی وجوہات کی بناء پر، مواد کی تبدیلیوں کی درخواست کرنے کیلئے <ph name="BEGIN_LINK1"/>قانونی مدد کے صفحہ<ph name="END_LINK1"/> پر جائیں۔  کچھ اکاؤنٹ اور سسٹم کی معلومات Gab AI Inc کو بھیجی جا سکتی ہے۔  ہم تکنیکی مسائل حل کرنے اور ہماری سروسز کو بہتر بنانے میں مدد کیلئے، آپ کی طرف سے ہمیں فراہم کردہ معلومات کا استعمال کریں گے جو <ph name="BEGIN_LINK2"/>رازداری کی پالیسی<ph name="END_LINK2"/> اور <ph name="BEGIN_LINK3"/>سروس کی شرائط<ph name="END_LINK3"/> سے مشروط ہوگا۔</translation>
+<translation id="6972420083546794501">‏قانونی وجوہات کی بناء پر، مواد کی تبدیلیوں کی درخواست کرنے کیلئے <ph name="BEGIN_LINK1"/>قانونی مدد کے صفحہ<ph name="END_LINK1"/> پر جائیں۔  کچھ اکاؤنٹ اور سسٹم کی معلومات Fulldive کو بھیجی جا سکتی ہے۔  ہم تکنیکی مسائل حل کرنے اور ہماری سروسز کو بہتر بنانے میں مدد کیلئے، آپ کی طرف سے ہمیں فراہم کردہ معلومات کا استعمال کریں گے جو <ph name="BEGIN_LINK2"/>رازداری کی پالیسی<ph name="END_LINK2"/> اور <ph name="BEGIN_LINK3"/>سروس کی شرائط<ph name="END_LINK3"/> سے مشروط ہوگا۔</translation>
 <translation id="7915471803647590281">براہ کرم تاثرات بھیجنے سے پہلے ہمیں بتائیں کہ کیا ہو رہا ہے</translation>
 <translation id="6885771755599377173">سسٹم کی معلومات کا پیش منظر</translation>
 <translation id="1016566241875885511">اضافی معلومات (اختیاری)</translation>
 <translation id="8026334261755873520">براؤزنگ ڈیٹا صاف کریں</translation>
-<translation id="4718442817388594217">‏Fulldive اور مطابقت پذیر آلات سے منتخب ڈیٹا کو ہٹا دیا گیا ہے۔ ممکن ہے کہ <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> پر آپ کے Gab AI Inc اکاؤنٹ میں دیگر Gab AI Inc سروسز سے تلاش اور سرگرمی جیسی براؤزنگ کی سرگزشت کی دیگر صورتیں موجود ہوں۔</translation>
+<translation id="4718442817388594217">‏Fulldive اور مطابقت پذیر آلات سے منتخب ڈیٹا کو ہٹا دیا گیا ہے۔ ممکن ہے کہ <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> پر آپ کے Fulldive اکاؤنٹ میں دیگر Fulldive سروسز سے تلاش اور سرگرمی جیسی براؤزنگ کی سرگزشت کی دیگر صورتیں موجود ہوں۔</translation>
 <translation id="7814200940910057384">‏Fulldive ڈیٹا صاف کر دیا گیا</translation>
 <translation id="7346909386216857016">ٹھیک ہے، سمجھ آ گئی</translation>
 <translation id="8493236660459102203">مائیکروفون:</translation>
@@ -1533,7 +1533,7 @@
 <translation id="284805635805850872">نقصان دہ سافٹ ویئر کو ہٹائیں؟</translation>
 <translation id="489985760463306091">نقصان دہ سافٹ ویئر کو ہٹانا ختم کرنے کیلئے، اپنے کمپیوٹر کو ری سٹارٹ کریں</translation>
 <translation id="7598466960084663009">کمپیوٹر کو دوبارہ شروع کریں</translation>
-<translation id="2819091349626575960">‏Gab AI Inc کو تفصیلات کی اطلاع دیں</translation>
+<translation id="2819091349626575960">‏Fulldive کو تفصیلات کی اطلاع دیں</translation>
 <translation id="4099060993766194518">ڈیفالٹ سرچ انجن کو بحال کریں؟</translation>
 <translation id="138784436342154190">ڈیفالٹ ابتدائی صفحہ بحال کریں؟</translation>
 <translation id="5086874064903147617">ڈیفالٹ ہوم صفحہ کو بحال کریں؟</translation>
@@ -1643,10 +1643,10 @@
 <translation id="3693415264595406141">پاس ورڈ:</translation>
 <translation id="9111102763498581341">غیر مقفل کریں</translation>
 <translation id="2190355936436201913">(خالی)</translation>
-<translation id="9079153198295609735">‏خود کار طریقے سے Gab AI Inc کو استعمال کے اعداد و شمار اور کریش کی رپورٹیں بھیجیں</translation>
+<translation id="9079153198295609735">‏خود کار طریقے سے Fulldive کو استعمال کے اعداد و شمار اور کریش کی رپورٹیں بھیجیں</translation>
 <translation id="7136984461011502314"><ph name="PRODUCT_NAME"/> میں خوش آمدید</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> آپ کا انسٹالیشن مکمل کرنے کیلئے تیار ہے</translation>
-<translation id="4711067597921221305">‏Gab AI Inc کو استعمال کے اعداد و شمار اور کریش رپورٹس خودکار طور پر بھیج کر <ph name="PRODUCT_NAME"/> کو بہتر بنانے میں مدد کریں</translation>
+<translation id="4711067597921221305">‏Fulldive کو استعمال کے اعداد و شمار اور کریش رپورٹس خودکار طور پر بھیج کر <ph name="PRODUCT_NAME"/> کو بہتر بنانے میں مدد کریں</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/> شروع کریں</translation>
 <translation id="4876273079589074638">ہمارے انجینئروں کو تفتیش اور اس ناکامی کو حل کرنے میں مدد کریں۔ اگر آپ قطعی مراحل کی فہرست بنا سکتے ہیں تو بنائیں۔ کوئی بھی تفصیل بہت چھوٹی نہیں ہے!</translation>
 <translation id="5418694430960033386">‏یا تو Fulldive کی میموری ختم ہوگئی یا کسی دیگر وجہ سے ویب صفحہ کیلئے کارروائی معطل کر دی گئی۔ جاری رکھنے کیلئے دوبارہ لوڈ کریں یا کسی دوسرے صفحہ پر جائیں۔</translation>
@@ -1659,7 +1659,7 @@
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">پلیٹ فارم</translation>
 <translation id="7022562585984256452">آپ کا ہوم صفحہ سیٹ کر دیا گیا ہے۔</translation>
-<translation id="8069615408251337349">‏Gab AI Inc کلاؤڈ پرنٹ</translation>
+<translation id="8069615408251337349">‏Fulldive کلاؤڈ پرنٹ</translation>
 <translation id="4973307593867026061">پرنٹرز شامل کریں</translation>
 <translation id="9052208328806230490">آپ نے اپنے پرنٹرز کو <ph name="CLOUD_PRINT_NAME"/> کے ساتھ اکاؤنٹ <ph name="EMAIL"/> استعمال کر کے رجسٹر کیا ہے</translation>
 <translation id="3792890930871100565">پرنٹرز منقطع کریں</translation>
@@ -1693,7 +1693,7 @@
 <translation id="7063129466199351735">شارٹ کٹس پر کارروائی کی جا رہی ہے…</translation>
 <translation id="8987927404178983737">ماہ</translation>
 <translation id="6015796118275082299">سال</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">سسٹم کا ٹائٹل بار اور بارڈرز استعمال کریں</translation>
 <translation id="3293644607209440645">یہ صفحہ بھیجیں</translation>
 <translation id="1521774566618522728">آج فعال کیا گیا</translation>
@@ -1747,7 +1747,7 @@
 <translation id="8930351635855238750">کوکی کی نئی ترتیبات صفحہ دوبارہ لوڈ ہونے کے بعد نافذ ہوں گی</translation>
 <translation id="2568774940984945469">معلومات بار کنٹینر</translation>
 <translation id="7282992757463864530">معلومات بار</translation>
-<translation id="1805077115206898822">‏آپ کے بُک مارکس، سرگزشت اور دیگر ترتیبات کی آپ کے Gab AI Inc اکاؤنٹ سے مطابقت پذیری کی جائے گی۔</translation>
+<translation id="1805077115206898822">‏آپ کے بُک مارکس، سرگزشت اور دیگر ترتیبات کی آپ کے Fulldive اکاؤنٹ سے مطابقت پذیری کی جائے گی۔</translation>
 <translation id="1974060860693918893">جدید ترین</translation>
 <translation id="2445484935443597917">'نیا پروفائل' بنائیں</translation>
 <translation id="2606246518223360146">ڈیٹا کو لنک کریں</translation>
@@ -1834,7 +1834,7 @@
 <translation id="6387674443318562538">عمودی تقسیم کریں</translation>
 <translation id="1231733316453485619">مطابقت پذیری آن کریں؟</translation>
 <translation id="4736292055110123391">اپنے سبھی آلات پر اپنے بُک مارکس، پاس ورڈز، سرگزشت اور مزید بہت کچھ کی مطابقت پذیری کریں</translation>
-<translation id="5736731321935944068">‏تلاش، اشتہارات اور Gab AI Inc کی دیگر سروسز کو ذاتی نوعیت کا بنانے کے لیے Gab AI Inc آپ کی سرگزشت کا استعمال کر سکتا ہے</translation>
+<translation id="5736731321935944068">‏تلاش، اشتہارات اور Fulldive کی دیگر سروسز کو ذاتی نوعیت کا بنانے کے لیے Fulldive آپ کی سرگزشت کا استعمال کر سکتا ہے</translation>
 <translation id="4201546031411513170">آپ ترتیبات میں کسی بھی وقت اس بات کا انتخاب کر سکتے ہیں کہ کس چیز کی مطابقت پذیری کرنی ہے۔</translation>
 <translation id="2497852260688568942">مطابقت پذیری کو آپ کے منتظم نے غیر فعال کر دیا ہے</translation>
 <translation id="562935524653278697">آپ کے منتظم نے بُک مارکس، سرگزشت، پاس ورڈز اور دیگر ترتیبات کی مطابقت پذیری غیر فعال کر دی ہے۔</translation>
@@ -1913,10 +1913,10 @@
 <translation id="6198102561359457428">سائن آؤٹ ہوں پھر دوبارہ سائن ان کریں…</translation>
 <translation id="4634771451598206121">دوبارہ سائن ان کریں…</translation>
 <translation id="7117247127439884114">دوبارہ سائن ان کریں…</translation>
-<translation id="4251909665067750757">‏اپنے سبھی آلات پر اپنے بُک مارکس، سرگزشت، پاس ورڈز اور دیگر ترتیبات حاصل کرنے کیلئے سائن ان کریں۔ آپ اپنی Gab AI Inc سروسز میں خود بخود سائن ان بھی ہو جائیں گے۔</translation>
+<translation id="4251909665067750757">‏اپنے سبھی آلات پر اپنے بُک مارکس، سرگزشت، پاس ورڈز اور دیگر ترتیبات حاصل کرنے کیلئے سائن ان کریں۔ آپ اپنی Fulldive سروسز میں خود بخود سائن ان بھی ہو جائیں گے۔</translation>
 <translation id="2749756011735116528"><ph name="PRODUCT_NAME"/> میں سائن ان کریں</translation>
 <translation id="2126167708562367080">مطابقت پذیری کو آپ کے منتظم نے غیر فعال کر دیا ہے۔</translation>
-<translation id="5462539695964427820">‏مطابقت پذیری کو Gab AI Inc ڈیش بورڈ کے ذریعے روک دیا گیا ہے۔</translation>
+<translation id="5462539695964427820">‏مطابقت پذیری کو Fulldive ڈیش بورڈ کے ذریعے روک دیا گیا ہے۔</translation>
 <translation id="8805140816472474147">مطابقت پذیری کا آغاز کرنے کیلئے مطابقت پذیری کی ترتیبات کی تصدیق کریں۔</translation>
 <translation id="5771816112378578655">سیٹ اپ جاری ہے…</translation>
 <translation id="3492788708641132712">مطابقت پذیری کام نہیں کر رہی ہے۔ دوبارہ سائن ان کرنے کی کوشش کریں۔</translation>
@@ -1930,16 +1930,16 @@
 <translation id="1877520246462554164">تصدیقی ٹوکن حاصل نہیں ہو سکا۔ براہ کرم سائن آؤٹ کر کے دوبارہ کوشش کرنے کیلئے پھر سے  سائن ان کریں۔</translation>
 <translation id="9100765901046053179">جدید ترین ترتیبات</translation>
 <translation id="2731700343119398978">براہ کرم انتظار کریں…</translation>
-<translation id="7218743184834293955">‏آپ کے پاس فریز کے ساتھ ڈیٹا کی مرموزکاری کی جاتی ہے۔ اس میں Gab AI Inc Pay سے ادائیگی کے طریقے اور پتے شامل نہیں ہوتے ہیں۔</translation>
+<translation id="7218743184834293955">‏آپ کے پاس فریز کے ساتھ ڈیٹا کی مرموزکاری کی جاتی ہے۔ اس میں Fulldive Pay سے ادائیگی کے طریقے اور پتے شامل نہیں ہوتے ہیں۔</translation>
 <translation id="7158251077901880179">‏ڈيٹا کی مرموزکاری بوقت <ph name="TIME"/> آپ کے مطابقت پذیر پاس فریز کے ساتھ کر دی گئی۔
-          اس میں Gab AI Inc Pay سے ادائیگی کے طریقے اور پتے شامل نہیں ہوتے ہیں۔</translation>
-<translation id="1171389789873508468">‏ڈيٹا کی مرموزکاری بوقت <ph name="TIME"/> آپ کے Gab AI Inc پاس فریز کے ساتھ کر دی گئی۔
-          اس میں Gab AI Inc Pay سے ادائیگی کے طریقے اور پتے شامل نہیں ہوتے ہیں۔</translation>
+          اس میں Fulldive Pay سے ادائیگی کے طریقے اور پتے شامل نہیں ہوتے ہیں۔</translation>
+<translation id="1171389789873508468">‏ڈيٹا کی مرموزکاری بوقت <ph name="TIME"/> آپ کے Fulldive پاس فریز کے ساتھ کر دی گئی۔
+          اس میں Fulldive Pay سے ادائیگی کے طریقے اور پتے شامل نہیں ہوتے ہیں۔</translation>
 <translation id="2562743677925229011"><ph name="SHORT_PRODUCT_NAME"/> میں سائن ان نہیں ہیں</translation>
 <translation id="4027804175521224372">(آپ بھول رہے ہیں—<ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">سائن ان کریں</translation>
 <translation id="237828693408258535">اس صفحہ کا ترجمہ کریں؟</translation>
-<translation id="4613765529964435709">‏کیا آپ چاہتے ہیں کہ Gab AI Inc اس صفحہ کا <ph name="SOURCE_LANGUAGE"/> سے <ph name="TARGET_LANGUAGE"/> میں ترجمہ کرے؟</translation>
+<translation id="4613765529964435709">‏کیا آپ چاہتے ہیں کہ Fulldive اس صفحہ کا <ph name="SOURCE_LANGUAGE"/> سے <ph name="TARGET_LANGUAGE"/> میں ترجمہ کرے؟</translation>
 <translation id="5990386583461751448">ترجمہ شدہ</translation>
 <translation id="5659833766619490117">اس صفحہ کا ترجمہ نہیں کیا جا سکا</translation>
 <translation id="969096075394517431">زبانیں تبدیل کریں</translation>
@@ -2118,7 +2118,7 @@
 <translation id="6309510305002439352">مائیکروفون آف ہے</translation>
 <translation id="1322046419516468189">اپنے <ph name="SAVED_PASSWORDS_STORE"/> میں محفوظ کردہ پاسورڈز دیکھیں اور ان کا نظم کریں</translation>
 <translation id="5297082477358294722">پاس ورڈز محفوظ ہیں۔ اپنے <ph name="SAVED_PASSWORDS_STORE"/> میں محفوظ کردہ پاس ورڈز دیکھیں اور ان کا نظم کریں۔</translation>
-<translation id="5713644099811900409">‏Gab AI Inc اکاؤنٹ</translation>
+<translation id="5713644099811900409">‏Fulldive اکاؤنٹ</translation>
 <translation id="3785727820640310185">اس سائٹ کے لیے محفوظ کردہ پاسورڈز</translation>
 <translation id="3404065873681873169">اس سائٹ کے لیے کوئی پاسورڈ محفوظ نہیں ہے</translation>
 <translation id="8470513973197838199"><ph name="ORIGIN"/> کے لیے محفوظ کردہ پاسورڈز</translation>
@@ -2231,7 +2231,7 @@
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{اسکرین #}other{اسکرین #}}</translation>
 <translation id="839736845446313156">رجسٹر کریں</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{آپ کے نیٹ ورک پر نیا پرنٹر}other{آپ کے نیٹ ورک پر نئے پرنٹرز}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{‏پرنٹر کو Gab AI Inc کلاؤڈ پرنٹ میں شامل کریں تاکہ آپ کہیں سے بھی پرنٹ کر سکیں۔}other{‏# پرنٹرز کو Gab AI Inc کلاؤڈ پرنٹ میں شامل کریں تاکہ آپ کہیں سے بھی پرنٹ کر سکیں۔}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{‏پرنٹر کو Fulldive کلاؤڈ پرنٹ میں شامل کریں تاکہ آپ کہیں سے بھی پرنٹ کر سکیں۔}other{‏# پرنٹرز کو Fulldive کلاؤڈ پرنٹ میں شامل کریں تاکہ آپ کہیں سے بھی پرنٹ کر سکیں۔}}</translation>
 <translation id="409579654357498729">کلاؤڈ پرنٹ میں شامل کریں</translation>
 <translation id="4628757576491864469">آلات</translation>
 <translation id="6915804003454593391">صارف:</translation>
@@ -2241,8 +2241,8 @@
 <translation id="1895934970388272448">اس کارروائی کو مکمل کرنے کیلئے آپ کو اپنے پرنٹر پر رجسٹریشن کی توثیق کرنا ضروری ہے - اسے ابھی چیک کریں۔</translation>
 <translation id="551752069230578406">پرنٹر کو آپ کے اکاؤنٹ میں شامل کیا جا رہا ہے - اس میں تھوڑا وقت لگ سکتا ہے…</translation>
 <translation id="2384436799579181135">ایک خرابی پیش آ گئی ہے۔ براہ کرم اپنا پرٹنر چیک کریں اور دوبارہ کوشش کریں۔</translation>
-<translation id="1327074568633507428">‏Gab AI Inc کلاؤڈ پرنٹ پر موجود پرنٹر</translation>
-<translation id="6782994146626179935">‏Gab AI Inc کلاؤڈ آلات پر آلہ</translation>
+<translation id="1327074568633507428">‏Fulldive کلاؤڈ پرنٹ پر موجود پرنٹر</translation>
+<translation id="6782994146626179935">‏Fulldive کلاؤڈ آلات پر آلہ</translation>
 <translation id="7140928199327930795">کوئی دیگر دستیاب آلات نہیں ہیں۔</translation>
 <translation id="8213577208796878755">ایک دوسرا دستیاب آلہ۔</translation>
 <translation id="1495486559005647033"><ph name="NUM_PRINTERS"/> دیگر دستیاب آلات۔</translation>
@@ -2258,7 +2258,7 @@
 <translation id="715118844758971915">کلاسک پرنٹرز</translation>
 <translation id="4263757076580287579">پرنٹر کا رجسٹریشن منسوخ کر دیا گیا ہے۔</translation>
 <translation id="8152091997436726702">پرنٹر رجسٹریشن کا وقت ختم ہوگیا ہے۔ ایک پرنٹر رجسٹر کرنے کیلئے، آپ کو پرنٹر پر رجسٹریشن کی توثیق کرنا ضروری ہے۔</translation>
-<translation id="2624930408905606513">‏پرنٹنگ کیلئے دستاویزات تیار کرنے کیلئے وہ <ph name="BEGIN_LINK_HELP"/>Gab AI Inc کو بھیجے<ph name="END_LINK_HELP"/> جاتے ہیں۔ <ph name="BEGIN_LINK_DASHBOARD"/>Gab AI Inc کلاؤڈ پرنٹ ڈیش بورڈ<ph name="END_LINK_DASHBOARD"/> پر اپنے پرنٹرز اور پرنٹر کی سرگزشت کو دیکھیں، ترمیم کریں اور ان کا نظم کریں۔</translation>
+<translation id="2624930408905606513">‏پرنٹنگ کیلئے دستاویزات تیار کرنے کیلئے وہ <ph name="BEGIN_LINK_HELP"/>Fulldive کو بھیجے<ph name="END_LINK_HELP"/> جاتے ہیں۔ <ph name="BEGIN_LINK_DASHBOARD"/>Fulldive کلاؤڈ پرنٹ ڈیش بورڈ<ph name="END_LINK_DASHBOARD"/> پر اپنے پرنٹرز اور پرنٹر کی سرگزشت کو دیکھیں، ترمیم کریں اور ان کا نظم کریں۔</translation>
 <translation id="3082780749197361769">یہ ٹیب آپ کا کیمرا یا مائیکروفون استعمال کر رہا ہے۔</translation>
 <translation id="3578594933904494462">اس ٹیب کے مواد کا اشتراک کیا جا رہا ہے۔</translation>
 <translation id="4449996769074858870">یہ ٹیب آڈیو کو چلا رہا ہے۔</translation>
@@ -2384,14 +2384,14 @@
 <translation id="7055152154916055070">ری ڈائریکٹ مسدود کیا گیا:</translation>
 <translation id="6777817260680419853">ری ڈائریکٹ مسدود ہے</translation>
 <translation id="694592694773692225">اس صفحے پر ری ڈائریکٹ مسدود ہے۔</translation>
-<translation id="8945142681652245463">‏Gab AI Inc Fulldive کے ساتھ تیزی سے براؤز کریں</translation>
-<translation id="2618024864038703735">‏Gab AI Inc Fulldive کے ساتھ محفوظ طریقے سے براؤز کریں</translation>
+<translation id="8945142681652245463">‏Fulldive Fulldive کے ساتھ تیزی سے براؤز کریں</translation>
+<translation id="2618024864038703735">‏Fulldive Fulldive کے ساتھ محفوظ طریقے سے براؤز کریں</translation>
 <translation id="8142180567942285208">‏Fulldive کے ساتھ اسمارٹ براؤز کا لطف اٹھائیں</translation>
 <translation id="8862003515646449717">تیز براؤزر پر سوئچ کریں</translation>
 <translation id="8438328416656800239">اسمارٹ براؤزر پر سوئچ کریں</translation>
 <translation id="491691592645955587">ایک محفوظ براؤزر پر سوئچ کریں</translation>
 <translation id="683373380308365518">اسمارٹ اور محفوظ براؤزر پر سوئچ کریں</translation>
-<translation id="989239400026154074">‏Gab AI Inc Fulldive کی تجویز کرتا ہے</translation>
+<translation id="989239400026154074">‏Fulldive Fulldive کی تجویز کرتا ہے</translation>
 <translation id="6676231621615806698">‏Fulldive کھولیں</translation>
 <translation id="5250372599208556903">آپ کو مقامی مواد دینے کے لیے <ph name="SEARCH_ENGINE_NAME"/> آپ کے مقام کا استعمال کرتا ہے۔ آپ <ph name="SETTINGS_LINK"/> میں اسے تبدیل کر سکتے ہیں۔</translation>
 <translation id="3737536731758327622">آپ کے ڈاؤن لوڈز یہاں ظاہر ہوتے ہیں</translation>
@@ -2557,7 +2557,7 @@
 <translation id="2878782256107578644">اسکیننگ جاری ہے، ابھی کھولیں؟</translation>
 <translation id="6098793583803863900">خطرناک مواد کیلئے ایک نامعلوم فائل اسکین کی جا رہی ہے۔</translation>
 <translation id="7584578941316704630">کھولنے سے پہلے اسکین کریں؟</translation>
-<translation id="4467402456678825062">‏منتخب کردہ فائل نامعلوم ہے اور یہ خطرناک بھی ہو سکتی ہے۔ اسکیننگ کے لیے Gab AI Inc کے اعلی تحفظ کو بھیجیں؟</translation>
+<translation id="4467402456678825062">‏منتخب کردہ فائل نامعلوم ہے اور یہ خطرناک بھی ہو سکتی ہے۔ اسکیننگ کے لیے Fulldive کے اعلی تحفظ کو بھیجیں؟</translation>
 <translation id="2587922766792651800">وقت ختم ہو گيا</translation>
 <translation id="4404136731284211429">دوبارہ اسکین کریں</translation>
 <translation id="6428450836711225518">اپنے فون نمبر کی توثیق کریں</translation>
@@ -2565,7 +2565,7 @@
 <translation id="6518133107902771759">توثیق کریں</translation>
 <translation id="4379281552162875326">"<ph name="APP_NAME"/>" ان انسٹال کریں؟</translation>
 <translation id="8812593354822910461">براؤزنگ ڈیٹا (<ph name="URL"/>) بھی صاف کریں جس سے آپ <ph name="DOMAIN"/> سے سائن آؤٹ ہو جائیں گے۔ <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">‏براؤزنگ ڈیٹا (<ph name="URL"/>) بھی صاف کریں جس سے آپ Gab AI Inc.com سے سائن آؤٹ ہو سکتے ہیں۔ <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">‏براؤزنگ ڈیٹا (<ph name="URL"/>) بھی صاف کریں جس سے آپ Fulldive.com سے سائن آؤٹ ہو سکتے ہیں۔ <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">مزید جانیں</translation>
 <translation id="2346953515226895098">‏SODA سروس</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> موقوف ہے</translation>
@@ -2721,7 +2721,7 @@
 <translation id="4144218403971135344">‏بہتر معیار کی ویڈیو حاصل کریں اور بیٹری لائف کی بچت کریں۔ ویڈیو صرف آپ کی اس اسکرین پر چلے گی جس پر Cast فعال ہے۔</translation>
 <translation id="236117173274098341">بہتر بنائیں</translation>
 <translation id="8538358978858059843">‏Cast کے لیے کلاؤڈ سروسز کو فعال کریں؟</translation>
-<translation id="3856595552313160385">‏Hangouts اور Cast for Education کا استعمال Gab AI Inc کی رازداری کی پالیسی کے زیر انتظام ہے۔</translation>
+<translation id="3856595552313160385">‏Hangouts اور Cast for Education کا استعمال Fulldive کی رازداری کی پالیسی کے زیر انتظام ہے۔</translation>
 <translation id="3435896845095436175">فعال کریں</translation>
 <translation id="3700888195348409686">(<ph name="PAGE_ORIGIN"/>) پیش کی جا رہی ہے</translation>
 <translation id="5285635972691565180">ڈسپلے <ph name="DISPLAY_ID"/></translation>
@@ -2959,9 +2959,9 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{‏<ph name="EMAIL"/>، ‎+1 مزید اکاؤنٹ}other{‏<ph name="EMAIL"/>، ‎+<ph name="EXTRA_ACCOUNTS"/>‎ مزید اکاؤنٹس}}</translation>
 <translation id="7434635829372401939">اپنی ترتیبات کو مطابقت پذیر بنائیں</translation>
 <translation id="1036348656032585052">آف کریں</translation>
-<translation id="3267705913905916810">‏آپ کی ایپس اور ترتیبات ان تمام Fulldive OS آلات میں مطابقت پذیر ہوں گی جہاں آپ اپنے Gab AI Inc اکاؤنٹ کے ساتھ سائن ان ہیں۔ براؤزر کے مطابقت پذیری کے اختیارات کے ليے <ph name="LINK_BEGIN"/>Fulldive کی ترتیبات<ph name="LINK_END"/> پر جائیں۔</translation>
+<translation id="3267705913905916810">‏آپ کی ایپس اور ترتیبات ان تمام Fulldive OS آلات میں مطابقت پذیر ہوں گی جہاں آپ اپنے Fulldive اکاؤنٹ کے ساتھ سائن ان ہیں۔ براؤزر کے مطابقت پذیری کے اختیارات کے ليے <ph name="LINK_BEGIN"/>Fulldive کی ترتیبات<ph name="LINK_END"/> پر جائیں۔</translation>
 <translation id="6985607387932385770">پرنٹرز</translation>
-<translation id="8418661265246754237">‏Gab AI Inc اکاؤنٹس</translation>
+<translation id="8418661265246754237">‏Fulldive اکاؤنٹس</translation>
 <translation id="3953834000574892725">میرے اکاؤنٹس</translation>
 <translation id="6011193465932186973">فنگر پرنٹ</translation>
 <translation id="3707212204259470604">دوسرے لوگوں کا نظم کریں</translation>
@@ -3003,16 +3003,16 @@
 <translation id="5916664084637901428">آن</translation>
 <translation id="5860033963881614850">آف</translation>
 <translation id="5515923816438946203">اپنی اسکرین پر آپ کیا دیکھنا چاہتے ہیں منتخب کریں</translation>
-<translation id="2187700606737131818">‏Gab AI Inc تصاویر</translation>
+<translation id="2187700606737131818">‏Fulldive تصاویر</translation>
 <translation id="1827738518074806965">آرٹ گیلری</translation>
 <translation id="9137157311132182254">ترجیحی سرچ انجن</translation>
 <translation id="7423118389528876103">‏Fulldive براؤزر اور <ph name="DEVICE_TYPE"/> لانچر کے ذریعے استعمال کردہ</translation>
-<translation id="2862205630718215619">‏Gab AI Inc اسسٹنٹ</translation>
+<translation id="2862205630718215619">‏Fulldive اسسٹنٹ</translation>
 <translation id="8959699239363253085">آن</translation>
 <translation id="971479617738309149">آف</translation>
 <translation id="7807067443225230855">تلاش اور اسسٹنٹ</translation>
 <translation id="1293556467332435079">فائلیں</translation>
-<translation id="6474884162850599008">‏Gab AI Inc Drive اکاؤنٹ منقطع کریں</translation>
+<translation id="6474884162850599008">‏Fulldive Drive اکاؤنٹ منقطع کریں</translation>
 <translation id="3653160965917900914">نیٹ ورک فائل کے اشتراکات</translation>
 <translation id="4906490889887219338">نیٹ ورک فائل کے اشتراکات کو سیٹ اپ کریں یا ان کا نظم کریں۔ <ph name="LINK_BEGIN"/>مزید جانیں<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">فائل کا اشتراک شامل کریں</translation>
@@ -3063,7 +3063,7 @@
 <translation id="5511379779384092781">بہت ہی کم</translation>
 <translation id="2765217105034171413">چھوٹا</translation>
 <translation id="7409549334477097887">بہت ہی زیادہ</translation>
-<translation id="1800308196794859773">‏کسی بھی متنی فیلڈ میں املا کی اجازت دینے کیلئے Gab AI Inc کو اپنی آواز بھیجیں۔</translation>
+<translation id="1800308196794859773">‏کسی بھی متنی فیلڈ میں املا کی اجازت دینے کیلئے Fulldive کو اپنی آواز بھیجیں۔</translation>
 <translation id="8758418656925882523">ڈکٹیشن فعال کریں (ٹائپ کرنے کیلئے بولیں)</translation>
 <translation id="1330145147221172764">آن اسکرین کی بورڈ فعال کریں</translation>
 <translation id="7580671184200851182">سبھی اسپیکرز (مونو آڈیو) کے ذریعے ایک ہی آڈیو چلائیں</translation>
@@ -3126,7 +3126,7 @@
 <translation id="6902066522699286937">پیش منظر کی آواز</translation>
 <translation id="304747341537320566">اسپیچ انجنز</translation>
 <translation id="2755367719610958252">ایکسیسبیلٹی کی خصوصیات کا نظم کریں</translation>
-<translation id="1203953622051744249">‏اپنے سائن ان کردہ اکاؤنٹس کا نظم کریں۔ ویب سائٹس، ایپس اور Fulldive اور Gab AI Inc Play میں ایکسٹینشنز اجازتوں کی بنیاد پر آپ کے تجربہ کو حسب ضرورت بنانے کیلئے ان اکاؤنٹس کا استعمال کر سکتی ہیں۔ <ph name="LINK_BEGIN"/>مزید جانیں<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">‏اپنے سائن ان کردہ اکاؤنٹس کا نظم کریں۔ ویب سائٹس، ایپس اور Fulldive اور Fulldive Play میں ایکسٹینشنز اجازتوں کی بنیاد پر آپ کے تجربہ کو حسب ضرورت بنانے کیلئے ان اکاؤنٹس کا استعمال کر سکتی ہیں۔ <ph name="LINK_BEGIN"/>مزید جانیں<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">یہاں اسکول اکاؤنٹ شامل کریں یا بچوں کے اکاؤنٹس کا نظم کریں۔ <ph name="LINK_BEGIN"/>مزید جانیں<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">اکاؤنٹس</translation>
 <translation id="6597148444736186483">اس آلے پر بنیادی اکاؤنٹ سے سائن آؤٹ کرنے کیلئے، اپنی اسکرین پر وقت پر کلک کریں۔ ظاہر ہونے والے مینو میں، "سائن آؤٹ کریں" پر کلک کریں۔</translation>
@@ -3135,8 +3135,8 @@
 <translation id="2923234477033317484">یہ اکاؤنٹ ہٹائیں</translation>
 <translation id="7665369617277396874">اکاؤنٹ شامل کریں</translation>
 <translation id="8428271547607112339">اسکول اکاؤنٹ شامل کریں</translation>
-<translation id="4920274951865016604">‏آپ کے منتظم نے مزید Gab AI Inc اکاؤنٹس شامل کرنے کا عمل کو غیر فعال کر دیا ہے</translation>
-<translation id="8845742957886589229">‏مزید Gab AI Inc اکاؤنٹس شامل کرنے کا عمل غیر فعال ہے</translation>
+<translation id="4920274951865016604">‏آپ کے منتظم نے مزید Fulldive اکاؤنٹس شامل کرنے کا عمل کو غیر فعال کر دیا ہے</translation>
+<translation id="8845742957886589229">‏مزید Fulldive اکاؤنٹس شامل کرنے کا عمل غیر فعال ہے</translation>
 <translation id="5021750053540820849">ابھی تک اپ ڈیٹ نہیں ہوا ہے</translation>
 <translation id="3448492834076427715">اکاؤنٹ اپ ڈیٹ کریں</translation>
 <translation id="2458379781610688953">اکاؤنٹ اپ ڈیٹ کریں، <ph name="EMAIL"/></translation>
@@ -3171,7 +3171,7 @@
 <translation id="3661172646479098821">‏فی الحال صرف Android آلات تعاون یافتہ ہیں۔</translation>
 <translation id="3201422919974259695">‏دستیاب USB آلات یہاں ظاہر ہوں گے۔</translation>
 <translation id="2629227353894235473">‏Android ایپس ڈیولپ کریں</translation>
-<translation id="1669729672557072907">‏اپنی ایپس کو تخلیق کرنے اور ٹیسٹ کرنے کے لیے، Android ڈیبگ برِج (ADB) کو فعال کریں۔ نوٹ کریں کہ یہ کارروائی ان Android ایپس کو انسٹال کرنے کی اجازت دیتی ہے جن کی تصدیق Gab AI Inc کے ذریعے نہیں کی گئی ہے، اور غیر فعال کرنے کے لیے فیکٹری ری سیٹ کی ضرورت ہوتی ہے۔</translation>
+<translation id="1669729672557072907">‏اپنی ایپس کو تخلیق کرنے اور ٹیسٹ کرنے کے لیے، Android ڈیبگ برِج (ADB) کو فعال کریں۔ نوٹ کریں کہ یہ کارروائی ان Android ایپس کو انسٹال کرنے کی اجازت دیتی ہے جن کی تصدیق Fulldive کے ذریعے نہیں کی گئی ہے، اور غیر فعال کرنے کے لیے فیکٹری ری سیٹ کی ضرورت ہوتی ہے۔</translation>
 <translation id="4638930039313743000">‏ADB ڈیبگنگ فعال کریں</translation>
 <translation id="1630768113285622200">ری سٹارٹ کریں اور جاری رکھیں</translation>
 <translation id="1005333234656240382">‏ADB ڈیبگنگ فعال کریں؟</translation>
@@ -3208,9 +3208,9 @@
 <translation id="1870629042957780127">مائیکروفون تک رسائی دیں</translation>
 <translation id="1392232653471491344">‏Linux کو دوبارہ شروع کرنے کی ضرورت ہے</translation>
 <translation id="1064552680598333868">‏اگلی بار Linux کے ری اسٹارٹ ہونے پر مائیکروفون میں تبدیلیاں لاگو ہوں گی۔</translation>
-<translation id="2714393097308983682">‏Gab AI Inc Play اسٹور</translation>
+<translation id="2714393097308983682">‏Fulldive Play اسٹور</translation>
 <translation id="2966937470348689686">‏Android کی ترجیحات کا نظم کریں</translation>
-<translation id="6398715114293939307">‏Gab AI Inc Play اسٹور ہٹائیں</translation>
+<translation id="6398715114293939307">‏Fulldive Play اسٹور ہٹائیں</translation>
 <translation id="2792290659606763004">‏Android ایپس کو ہٹائیں؟</translation>
 <translation id="492299503953721473">‏Android ایپس ہٹائیں</translation>
 <translation id="7566118625369982896">‏Play ایپ لنکس کا نظم کریں</translation>
@@ -3218,7 +3218,7 @@
 <translation id="5862109781435984885">شیلف میں اسٹائلس ٹولز دکھائیں</translation>
 <translation id="4673442866648850031">اسٹائلس کو ہٹانے کے وقت اسٹائلس ٹولز کھولیں</translation>
 <translation id="4244238649050961491">مزید اسٹائلس ایپس تلاش کریں</translation>
-<translation id="668599234725812620">‏Gab AI Inc Play کھولیں</translation>
+<translation id="668599234725812620">‏Fulldive Play کھولیں</translation>
 <translation id="9116799625073598554">نوٹ لینے والی ایپ</translation>
 <translation id="203574396658008164">مقفل اسکرین سے نوٹ لینا فعال کریں</translation>
 <translation id="6238923052227198598">مقفل اسکرین پر تازہ ترین نوٹ رکھیں</translation>
@@ -3364,7 +3364,7 @@
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> - <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">موبائل ڈیٹا فعال</translation>
 <translation id="7378812711085314936">ڈیٹا کنکشن حاصل کریں</translation>
-<translation id="3483333858382889684">‏اس آلہ کو اپنے Gab AI Inc اکاؤنٹ کے ذریعے ان دیگر آلات کو تلاش کرنے دیں جن کے پاس موبائل ڈیٹا کنکشن ہے</translation>
+<translation id="3483333858382889684">‏اس آلہ کو اپنے Fulldive اکاؤنٹ کے ذریعے ان دیگر آلات کو تلاش کرنے دیں جن کے پاس موبائل ڈیٹا کنکشن ہے</translation>
 <translation id="1572266655485775982">‏Wi-Fi فعال</translation>
 <translation id="7078120482318506217">تمام نیٹ ورکس</translation>
 <translation id="1235458158152011030">معلوم نیٹ ورکس</translation>
@@ -3396,13 +3396,13 @@
 <translation id="4421167684395067330">منسلک ہونے میں پریشانی۔ مدد کے لیے براہ کرم <ph name="CARRIER_NAME"/> سے رابطہ کریں۔</translation>
 <translation id="7780252971640011240">منسلک ہونے میں پریشانی۔ براہ کرم مدد کے لیے اپنے کیریئر سے رابطہ کریں۔</translation>
 <translation id="161460670679785907">آپ کے فون کا پتہ لگانے سے قاصر</translation>
-<translation id="778480864305029524">‏فوری ٹیدرنگ استعمال کرنے کے لیے، اطلاعات برائے Gab AI Inc Play سروسز کو آن کریں۔</translation>
+<translation id="778480864305029524">‏فوری ٹیدرنگ استعمال کرنے کے لیے، اطلاعات برائے Fulldive Play سروسز کو آن کریں۔</translation>
 <translation id="7696063401938172191">آپ کے '<ph name="PHONE_NAME"/>' پر:</translation>
 <translation id="3423463006624419153">اپنے '<ph name="PHONE_NAME_1"/>' اور '<ph name="PHONE_NAME_2"/>' پر:</translation>
 <translation id="6997707937646349884">آپ کے آلات پر:</translation>
 <translation id="7531779363494549572">ترتیبات &gt; ایپس اور اطلاعات &gt; اطلاعات پر جائیں۔</translation>
-<translation id="1819721979226826163">‏ایپ کی اطلاعات &gt; Gab AI Inc Play سروسز پر تھپتھپائيں۔</translation>
-<translation id="968000525894980488">‏Gab AI Inc Play سروسز کو آن کریں۔</translation>
+<translation id="1819721979226826163">‏ایپ کی اطلاعات &gt; Fulldive Play سروسز پر تھپتھپائيں۔</translation>
+<translation id="968000525894980488">‏Fulldive Play سروسز کو آن کریں۔</translation>
 <translation id="2705736684557713153">اسکرین کے نچلے حصے پر اسکرول کریں اور فوری ٹیدرنگ کے ظاہر ہونے پر اسے آن کریں۔ اگر ایسا نہیں ہوتا ہے تو آپ پوری طرح تیار ہیں۔</translation>
 <translation id="7240339475467890413">نئے ہاٹ اسپاٹ سے منسلک کریں؟</translation>
 <translation id="6514010653036109809">دستیاب آلہ:</translation>
@@ -3517,9 +3517,9 @@
 <translation id="6555432686520421228">بالکل نئے کی طرح ہونے کیلئے صارف کے سبھی اکاؤنٹس ہٹائیں اور اپنا <ph name="IDS_SHORT_PRODUCT_NAME"/> دوبارہ ترتیب دیں۔</translation>
 <translation id="5470735824776589490">‏Powerwash کے ساتھ آپ کا آلہ دوبارہ ترتیب دینے سے پہلے ایک ری اسٹارٹ درکار ہے۔ <ph name="LINK_BEGIN"/>مزید جانیں<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">ری سیٹ بٹن</translation>
-<translation id="472896694312062378">"Ok Gab AI Inc"</translation>
-<translation id="2339135612812615870">‏"Ok Gab AI Inc" کہہ کر اپنی اسسٹنٹ تک رسائی حاصل کریں۔</translation>
-<translation id="3735919318855093557">‏"Ok Gab AI Inc" کہہ کر اپنی اسسٹنٹ تک رسائی حاصل کریں۔ بیٹری بچانے کیلئے، "آن" (تجویز کردہ) منتخب کریں۔ آپ کی اسسٹنٹ صرف آپ کا آلہ پلگ ہونے یا چارج ہوتے وقت جواب دے گی۔</translation>
+<translation id="472896694312062378">"Ok Fulldive"</translation>
+<translation id="2339135612812615870">‏"Ok Fulldive" کہہ کر اپنی اسسٹنٹ تک رسائی حاصل کریں۔</translation>
+<translation id="3735919318855093557">‏"Ok Fulldive" کہہ کر اپنی اسسٹنٹ تک رسائی حاصل کریں۔ بیٹری بچانے کیلئے، "آن" (تجویز کردہ) منتخب کریں۔ آپ کی اسسٹنٹ صرف آپ کا آلہ پلگ ہونے یا چارج ہوتے وقت جواب دے گی۔</translation>
 <translation id="5825412242012995131">آن (تجویز کردہ)</translation>
 <translation id="5067399438976153555">ہمیشہ آن رکھیں</translation>
 <translation id="6175644081330715138">آف</translation>
@@ -3528,7 +3528,7 @@
 <translation id="5355099869024327351">'اسسٹنٹ' کو اطلاعات دکھانے کی اجازت دیں</translation>
 <translation id="133535873114485416">ترجیحی ان پٹ</translation>
 <translation id="6233154960150021497">کی بورڈ کی بجائے بطور ڈیفالٹ آواز کا استعمال کریں</translation>
-<translation id="3908743412684152579">‏Gab AI Inc اسسٹنٹ کی ترتیبات</translation>
+<translation id="3908743412684152579">‏Fulldive اسسٹنٹ کی ترتیبات</translation>
 <translation id="1048286738600630630">ڈسپلیز</translation>
 <translation id="4184885522552335684">ڈسپلے کو منتقل کرنے کیلئے گھسیٹیں</translation>
 <translation id="4964455510556214366">انتظام</translation>
@@ -3582,7 +3582,7 @@
 <translation id="6856623341093082836">اپنی ٹچ اسکرین کی درستگی کو ترتیب دیں اور ایڈجسٹ کریں</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">صرف آلہ غیر مقفل کریں</translation>
-<translation id="3300552672525741457">‏آلہ کو غیر مقفل کریں اور Gab AI Inc اکاؤنٹ میں سائن ان کریں</translation>
+<translation id="3300552672525741457">‏آلہ کو غیر مقفل کریں اور Fulldive اکاؤنٹ میں سائن ان کریں</translation>
 <translation id="4562155214028662640">فنگر پرنٹ شامل کریں</translation>
 <translation id="4068776064906523561">محفوظ کردہ فنگر پرنٹس</translation>
 <translation id="1719312230114180055">‏نوٹ: ایک مضبوط پاس ورڈ یا PIN کی نسبت آپ کا فنگر پرنٹ شاید کم محفوظ ہو۔</translation>
@@ -3647,7 +3647,7 @@
 <translation id="6547354035488017500">‏کم از کم ‎512 MB جگہ خالی کریں یا آپ کا آلہ جواب دینا بند کر دے گا۔ جگہ خالی کرنے کیلئے، آلہ کے اسٹوریج سے فائلیں حذف کریں۔</translation>
 <translation id="6097480669505687979">اگر آپ جگہ خالی نہیں کرتے ہیں تو صارفین اور ڈیٹا کو خودکار طور پر ہٹایا جا سکتا ہے۔</translation>
 <translation id="4470957202018033307">خارجی اسٹوریج کی ترجیحات</translation>
-<translation id="1900305421498694955">‏خارجی اسٹوریج آلات پر فائلیں پڑھنے اور لکھنے کیلئے، Gab AI Inc Play کی ایپس کو فائل سسٹم تک مکمل رسائی کی ضرورت پڑ سکتی ہے۔ اس آلے پر تخلیق کردہ فائلیں اور فولڈرز خارجی ڈرائیو استعمال کرنے والے ہر شخص کو دکھائی دیتے ہیں۔ <ph name="LINK_BEGIN"/>مزید جانیں<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">‏خارجی اسٹوریج آلات پر فائلیں پڑھنے اور لکھنے کیلئے، Fulldive Play کی ایپس کو فائل سسٹم تک مکمل رسائی کی ضرورت پڑ سکتی ہے۔ اس آلے پر تخلیق کردہ فائلیں اور فولڈرز خارجی ڈرائیو استعمال کرنے والے ہر شخص کو دکھائی دیتے ہیں۔ <ph name="LINK_BEGIN"/>مزید جانیں<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">دستیاب آلات یہاں دکھائی دیں گے۔</translation>
 <translation id="1041263367839475438">دستیاب آلات</translation>
 <translation id="7479221278376295180">اسٹوریج کے استعمال کا مجموعی جائزہ</translation>
@@ -3671,12 +3671,12 @@
 <translation id="5840822070878669614">‏Fulldive ویب اسٹور کھولیں</translation>
 <translation id="6073903501322152803">ایکسیسبیلٹی کی خصوصیات شامل کریں</translation>
 <translation id="7988355189918024273">ایکسیسبیلٹی کی خصوصیات کو فعال کریں</translation>
-<translation id="5499063270485366718">‏اگر کسی تصویر میں مفید تفصیل موجود نہیں ہے تو Fulldive آپ کے لیے تفصیل فراہم کرنے کی کوشش کرے گا۔ تفصیلات تخلیق کرنے کے لیے، تصاویر Gab AI Inc کو بھیجی جاتی ہیں۔</translation>
+<translation id="5499063270485366718">‏اگر کسی تصویر میں مفید تفصیل موجود نہیں ہے تو Fulldive آپ کے لیے تفصیل فراہم کرنے کی کوشش کرے گا۔ تفصیلات تخلیق کرنے کے لیے، تصاویر Fulldive کو بھیجی جاتی ہیں۔</translation>
 <translation id="8957762313041272117">لائیو کیپشن</translation>
 <translation id="7075426315046750605">‏لائیو کیپشن میڈیا میں اسپیچ کا پتا لگاتا ہے اور خودکار طور پر Fulldive میں چلنے والے سبھی میڈیا کے لیے کیپشنز تخلیق کرتا ہے۔</translation>
 <translation id="572155275267014074">‏Android کی ترتیبات</translation>
-<translation id="7201042526153088083">‏اپنے <ph name="DEVICE_TYPE"/> پر Gab AI Inc Play سے ایپس اور گیمز انسٹال کریں۔ &lt;a target="_blank" href="<ph name="URL"/>"&gt;مزید جانیں&lt;/a&gt;</translation>
-<translation id="8039595758121742506">‏Gab AI Inc Play سے آپ کی ڈاؤن لوڈ کردہ ایپس کو اس Fulldivebook سے حذف کر دیا جائے گا۔
+<translation id="7201042526153088083">‏اپنے <ph name="DEVICE_TYPE"/> پر Fulldive Play سے ایپس اور گیمز انسٹال کریں۔ &lt;a target="_blank" href="<ph name="URL"/>"&gt;مزید جانیں&lt;/a&gt;</translation>
+<translation id="8039595758121742506">‏Fulldive Play سے آپ کی ڈاؤن لوڈ کردہ ایپس کو اس Fulldivebook سے حذف کر دیا جائے گا۔
       <ph name="LINE_BREAKS1"/>
       موویز، ٹی وی شوز، موسیقی، کتابوں جیسا آپ کا خریدا ہوا مواد یا دیگر درون ایپ خریداریوں کو بھی حذف کیا جا سکتا ہے۔
       <ph name="LINE_BREAKS2"/>
@@ -3702,7 +3702,7 @@
 <translation id="1670399744444387456">بنیادی</translation>
 <translation id="1763808908432309942">نئے ٹیب میں کھلتا ہے</translation>
 <translation id="6248988683584659830">تلاش کی ترتیبات</translation>
-<translation id="883304095704384301">‏آپ جو چیز تلاش کر رہے ہیں اگر وہ نہیں مل رہی ہے تو <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive مدد<ph name="END_LINK_CHROMIUM"/> پر جائیں</translation>
+<translation id="883304095704384301">‏آپ جو چیز تلاش کر رہے ہیں اگر وہ نہیں مل رہی ہے تو <ph name="BEGIN_LINK_CHROMIUM"/>Fulldive Fulldive مدد<ph name="END_LINK_CHROMIUM"/> پر جائیں</translation>
 <translation id="6406708970972405507">ترتیبات - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">ذیلی صفحے کا بٹن</translation>
 <translation id="379509625511193653">آف</translation>
@@ -3723,10 +3723,10 @@
 <translation id="451515744433878153">ہٹائیں</translation>
 <translation id="5029568752722684782">کاپی صاف کریں</translation>
 <translation id="2154484045852737596">کارڈ میں ترمیم کریں</translation>
-<translation id="3032188998195902534">‏Gab AI Inc Pay کے ادائیگی کے طریقے شامل کرنے یا ان کا نظم کرنے کے لئے اپنا <ph name="BEGIN_LINK"/>Gab AI Inc اکاؤنٹ<ph name="END_LINK"/> ملاحظہ کریں</translation>
+<translation id="3032188998195902534">‏Fulldive Pay کے ادائیگی کے طریقے شامل کرنے یا ان کا نظم کرنے کے لئے اپنا <ph name="BEGIN_LINK"/>Fulldive اکاؤنٹ<ph name="END_LINK"/> ملاحظہ کریں</translation>
 <translation id="8853586775156634952">یہ کارڈ صرف اس آلہ میں محفوظ کیا جائے گا</translation>
 <translation id="5087580092889165836">کارڈ شامل کریں</translation>
-<translation id="4835914736509775287">‏کارڈز کو اپنے Gab AI Inc اکاؤنٹ میں محفوظ کریں</translation>
+<translation id="4835914736509775287">‏کارڈز کو اپنے Fulldive اکاؤنٹ میں محفوظ کریں</translation>
 <translation id="7255002516883565667">ابھی، آپ کے پاس ایک ایسا کارڈ ہے جسے صرف اس آلہ پر استعمال کیا جا سکتا ہے</translation>
 <translation id="6848388270925200958">ابھی، آپ کے پاس کچھ ایسے کارڈز ہیں جنہیں صرف اس آلہ پر استعمال کیا جا سکتا ہے</translation>
 <translation id="4807098396393229769">کارڈ پر نام</translation>
@@ -3740,9 +3740,9 @@
 <translation id="8731851055419582926">چیک کردہ پاس ورڈز</translation>
 <translation id="4248098802131000011">ڈیٹا کی خلاف ورزیوں اور سیکیورٹی کے دیگر معاملات سے اپنا پاس ورڈ محفوظ رکھیں</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> آپ کے پاس ورڈز چیک نہیں کر سکتا ہے۔ اپنا انٹرنیٹ کنکشن چیک کرنے کی کوشش کریں۔</translation>
-<translation id="802916701582020725">‏جب آپ اپنے Gab AI Inc اکاؤنٹ سے سائن ان ہوتے ہیں تو <ph name="IDS_SHORT_PRODUCT_NAME"/> آپ کے پاس ورڈز کو چیک کر سکتا ہے</translation>
+<translation id="802916701582020725">‏جب آپ اپنے Fulldive اکاؤنٹ سے سائن ان ہوتے ہیں تو <ph name="IDS_SHORT_PRODUCT_NAME"/> آپ کے پاس ورڈز کو چیک کر سکتا ہے</translation>
 <translation id="4478777936860197922">کوئی محفوظ کردہ پاس ورڈ نہیں۔ جب آپ پاس ورڈز کو محفوظ کرتے ہیں تو <ph name="IDS_SHORT_PRODUCT_NAME"/> انہیں چیک کر سکتا ہے۔</translation>
-<translation id="9163925934160713286">‏<ph name="IDS_SHORT_PRODUCT_NAME"/> آپ کے پاس ورڈز چیک نہیں کر سکتا ہے۔ 24 گھنٹے بعد دوبارہ کوشش کریں یا <ph name="BEGIN_LINK"/>اپنے Gab AI Inc اکاؤنٹ میں پاس ورڈز چیک کریں<ph name="END_LINK"/>۔</translation>
+<translation id="9163925934160713286">‏<ph name="IDS_SHORT_PRODUCT_NAME"/> آپ کے پاس ورڈز چیک نہیں کر سکتا ہے۔ 24 گھنٹے بعد دوبارہ کوشش کریں یا <ph name="BEGIN_LINK"/>اپنے Fulldive اکاؤنٹ میں پاس ورڈز چیک کریں<ph name="END_LINK"/>۔</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> آپ کے پاس ورڈز چیک نہیں کر سکتا ہے۔ 24 گھنٹے بعد دوبارہ کوشش کریں۔</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> آپ کے پاس ورڈز چیک نہیں کر سکتا ہے۔ بعد میں دوبارہ کوشش کریں۔</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{کوئی متاثرہ پاس ورڈز نہیں ملے}=1{{COUNT} متاثرہ پاس ورڈ}other{{COUNT} متاثرہ پاس ورڈز}}</translation>
@@ -3768,7 +3768,7 @@
 <translation id="2100273922101894616">خودکار سائن ان</translation>
 <translation id="7513029293694390567">اسٹور کردہ اسناد کا استعمال کر کے ویب سائٹس میں خود کار طور پر سائن ان کریں۔ خصوصیت غیر فعال ہونے پر، ویب سائٹ میں سائن ان کرنے سے پہلے ہر بار آپ سے توثیق کرنے کو کہا جائے گا۔</translation>
 <translation id="6995899638241819463">اگر پاس ورڈز ڈیٹا کی خلاف ورزی میں افشاء ہوتے ہیں تو وارننگ حاصل کریں</translation>
-<translation id="1534287762301776620">‏جب آپ اپنے Gab AI Inc اکاؤنٹ میں سائن ان کرتے ہیں، تو یہ خصوصیت آن ہو جاتی ہے</translation>
+<translation id="1534287762301776620">‏جب آپ اپنے Fulldive اکاؤنٹ میں سائن ان کرتے ہیں، تو یہ خصوصیت آن ہو جاتی ہے</translation>
 <translation id="1375321115329958930">محفوظ کردہ پاس ورڈز</translation>
 <translation id="152234381334907219">کبھی محفوظ نہیں ہوئے</translation>
 <translation id="5137501176474113045">اس آئٹم کو حذف کریں</translation>
@@ -3782,7 +3782,7 @@
 <translation id="7930294771522048157">ادائیگی کے محفوظ کردہ طریقے یہاں ظاہر ہوں گے</translation>
 <translation id="9124003689441359348">محفوظ کردہ پاس ورڈز یہاں ظاہر ہوں گے</translation>
 <translation id="4400367121200150367">جو سائٹس کبھی بھی پاس ورڈز محفوظ نہیں کرتی ہیں وہ یہاں ظاہر ہوں گی</translation>
-<translation id="3098842761938485917">‏اپنے <ph name="BEGIN_LINK"/>Gab AI Inc اکاؤنٹ<ph name="END_LINK"/> میں محفوظ کردہ پاس ورڈز دیکھیں اور ان کا نظم کریں</translation>
+<translation id="3098842761938485917">‏اپنے <ph name="BEGIN_LINK"/>Fulldive اکاؤنٹ<ph name="END_LINK"/> میں محفوظ کردہ پاس ورڈز دیکھیں اور ان کا نظم کریں</translation>
 <translation id="5620655347161642930">پاس ورڈز برآمد کریں...</translation>
 <translation id="3900966090527141178">پاس ورڈز برآمد کریں</translation>
 <translation id="6914783257214138813">آپ کے پاسورڈز کسی بھی ایسے شخص کے لیے مرئی ہوں گے جو برآمد کردہ فائل کو دیکھ سکتا ہے۔</translation>
@@ -3849,15 +3849,15 @@
 <translation id="3380365263193509176">نامعلوم خرابی</translation>
 <translation id="368789413795732264">فائل کو رائٹ کرنے کی کوشش کرتے ہوئے ایک خرابی پیش آ گئی: <ph name="ERROR_TEXT"/>۔</translation>
 <translation id="784934925303690534">وقت کی حد</translation>
-<translation id="3958004920128806270">‏براؤزنگ ڈیٹا کو اپنے Gab AI Inc اکاؤنٹ میں رکھتے ہوئے، صرف اس آلہ سے اسے صاف کرنے کیلئے، <ph name="BEGIN_LINK"/>سائن آؤٹ کریں<ph name="END_LINK"/>۔</translation>
-<translation id="4445433576366924090">‏اپنے سبھی مطابقت پذیر آلات اور اپنے Gab AI Inc اکاؤنٹ سے براؤزنگ ڈیٹا صاف کرنے کیلئے، <ph name="BEGIN_LINK"/>مطابقت پذیری کی ترتیبات ملاحظہ کریں<ph name="END_LINK"/>۔</translation>
-<translation id="563489167344291753">‏اپنے سبھی مطابقت پذیر آلات اور اپنے Gab AI Inc اکاؤنٹ سے براؤزنگ ڈیٹا صاف کرنے کیلئے، <ph name="BEGIN_LINK"/>اپنا پاس فریز درج کریں<ph name="END_LINK"/>۔</translation>
-<translation id="3895809404273995788">‏اپنے سبھی مطابقت پذیر آلات اور اپنے Gab AI Inc اکاؤنٹ سے براؤزنگ ڈیٹا صاف کرنے کیلئے، <ph name="BEGIN_LINK"/>سائن ان کریں<ph name="END_LINK"/>۔</translation>
+<translation id="3958004920128806270">‏براؤزنگ ڈیٹا کو اپنے Fulldive اکاؤنٹ میں رکھتے ہوئے، صرف اس آلہ سے اسے صاف کرنے کیلئے، <ph name="BEGIN_LINK"/>سائن آؤٹ کریں<ph name="END_LINK"/>۔</translation>
+<translation id="4445433576366924090">‏اپنے سبھی مطابقت پذیر آلات اور اپنے Fulldive اکاؤنٹ سے براؤزنگ ڈیٹا صاف کرنے کیلئے، <ph name="BEGIN_LINK"/>مطابقت پذیری کی ترتیبات ملاحظہ کریں<ph name="END_LINK"/>۔</translation>
+<translation id="563489167344291753">‏اپنے سبھی مطابقت پذیر آلات اور اپنے Fulldive اکاؤنٹ سے براؤزنگ ڈیٹا صاف کرنے کیلئے، <ph name="BEGIN_LINK"/>اپنا پاس فریز درج کریں<ph name="END_LINK"/>۔</translation>
+<translation id="3895809404273995788">‏اپنے سبھی مطابقت پذیر آلات اور اپنے Fulldive اکاؤنٹ سے براؤزنگ ڈیٹا صاف کرنے کیلئے، <ph name="BEGIN_LINK"/>سائن ان کریں<ph name="END_LINK"/>۔</translation>
 <translation id="8662811608048051533">اکثر سائٹس سے آپ کو سائن آؤٹ کرتا ہے۔</translation>
-<translation id="4650925988509114690">‏ایسا کرنے پر آپ اکثر سائٹس سے سائن آؤٹ ہو جاتے ہیں۔ آپ اپنے Gab AI Inc اکاؤنٹ میں سائن ان رہیں گے تاکہ آپ کے مطابقت پذیر ڈیٹا کو صاف کیا جا سکے۔</translation>
+<translation id="4650925988509114690">‏ایسا کرنے پر آپ اکثر سائٹس سے سائن آؤٹ ہو جاتے ہیں۔ آپ اپنے Fulldive اکاؤنٹ میں سائن ان رہیں گے تاکہ آپ کے مطابقت پذیر ڈیٹا کو صاف کیا جا سکے۔</translation>
 <translation id="2017836877785168846">پتہ بار کی سرگزشت اور خودکار تکمیلات کو صاف کرتا ہے۔</translation>
-<translation id="8096327394278038498">‏پتہ بار میں موجود سرگزشت اور خودکار تکمیلات کو صاف کر دیتا ہے۔ ممکن ہے کہ <ph name="BEGIN_LINK"/>myactivity.google<ph name="END_LINK"/> پر آپ کے Gab AI Inc اکاؤنٹ میں براؤزنگ کی سرگزشت کی دیگر شکلیں موجود ہوں۔</translation>
-<translation id="8122693181154564064">‏سبھی سائن ان کردہ آلات سے سرگزشت صاف کر دیتا ہے۔ ممکن ہے کہ <ph name="BEGIN_LINK"/>myactivity.google<ph name="END_LINK"/> پر آپ کے Gab AI Inc اکاؤنٹ میں براؤزنگ کی سرگزشت کی دیگر شکلیں موجود ہوں۔</translation>
+<translation id="8096327394278038498">‏پتہ بار میں موجود سرگزشت اور خودکار تکمیلات کو صاف کر دیتا ہے۔ ممکن ہے کہ <ph name="BEGIN_LINK"/>myactivity.google<ph name="END_LINK"/> پر آپ کے Fulldive اکاؤنٹ میں براؤزنگ کی سرگزشت کی دیگر شکلیں موجود ہوں۔</translation>
+<translation id="8122693181154564064">‏سبھی سائن ان کردہ آلات سے سرگزشت صاف کر دیتا ہے۔ ممکن ہے کہ <ph name="BEGIN_LINK"/>myactivity.google<ph name="END_LINK"/> پر آپ کے Fulldive اکاؤنٹ میں براؤزنگ کی سرگزشت کی دیگر شکلیں موجود ہوں۔</translation>
 <translation id="7127980134843952133">ڈاؤن لوڈ کی سرگزشت</translation>
 <translation id="4699172675775169585">کیش کردہ تصاویر اور فائلیں</translation>
 <translation id="1274997165432133392">کوکیز اور دیگر سائٹ کا ڈیٹا</translation>
@@ -3872,7 +3872,7 @@
 <translation id="1043818413152647937">ان ایپس سے بھی ڈیٹا کو صاف کریں؟</translation>
 <translation id="3399432415385675819">معلومات غیر فعال ہو جائیں گي</translation>
 <translation id="3459509316159669723">پرنٹ کیا جا رہا ہے</translation>
-<translation id="7063957500469387217">‏Gab AI Inc کلاؤڈ پرنٹ میں ترتیب دیں یا پرنٹرز کا نظم کریں۔</translation>
+<translation id="7063957500469387217">‏Fulldive کلاؤڈ پرنٹ میں ترتیب دیں یا پرنٹرز کا نظم کریں۔</translation>
 <translation id="8185331656081929126">نیٹ ورک پر نئے پرنٹرز کا پتہ لگنے پر اطلاعات دکھائیں</translation>
 <translation id="6451180435462401570">کلاؤڈ پرنٹ آلات کا نظم کریں</translation>
 <translation id="4733793249294335256">مقام</translation>
@@ -3915,7 +3915,7 @@
 <translation id="1726100011689679555">نام سرورز</translation>
 <translation id="1209796539517632982">خود کار نام سرورز</translation>
 <translation id="4462159676511157176">حسب  ضرورت نام سرورز</translation>
-<translation id="1981884748698699991">‏Gab AI Inc نام سرورز</translation>
+<translation id="1981884748698699991">‏Fulldive نام سرورز</translation>
 <translation id="6317608858038767920">حسب ضرورت نام سرور <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">‏ویب پراکسی خود کار دریافت URL:</translation>
 <translation id="3817579325494460411">فراہم نہیں کیا گیا</translation>
@@ -4073,7 +4073,7 @@
 <translation id="3182749001423093222">املا کی جانچ</translation>
 <translation id="5423829801105537712">املا کی بنیادی جانچ</translation>
 <translation id="2564653188463346023">بہتر کردہ املا کی جانچ</translation>
-<translation id="8944680893327873975">‏اسی املا جانچ کنندہ کا استعمال کرتا ہے جس کا Gab AI Inc تلاش میں استعمال کیا جاتا ہے۔ آپ براؤزر میں جو متن ٹائپ کرتے ہیں وہ Gab AI Inc کو بھیجا جاتا ہے۔</translation>
+<translation id="8944680893327873975">‏اسی املا جانچ کنندہ کا استعمال کرتا ہے جس کا Fulldive تلاش میں استعمال کیا جاتا ہے۔ آپ براؤزر میں جو متن ٹائپ کرتے ہیں وہ Fulldive کو بھیجا جاتا ہے۔</translation>
 <translation id="5051836348807686060">املا کی جانچ آپ کی منتخب زبانوں کے لیے تعاون یافتہ نہیں ہے</translation>
 <translation id="7335974957018254119">درج ذیل کے لیے املا کی جانچ کا استعمال کریں</translation>
 <translation id="2469375675106140201">املا کی جانچ کو حسب ضرورت بنائیں</translation>
@@ -4086,7 +4086,7 @@
 <translation id="4200689466366162458">حسب ضرورت الفاظ</translation>
 <translation id="7833720883933317473">محفوظ کردہ حسب ضرورت الفاظ یہاں ظاہر ہوں گے</translation>
 <translation id="8509646642152301857">املا کی جانچ کی لغت کو ڈاؤن لوڈ کرنا ناکام ہوگیا۔</translation>
-<translation id="8842834450537919370">‏براہ کرم اپنے نیٹ ورک کے منتظم سے چیک کر کے یقینی بنائیں کہ فائر وال Gab AI Inc سرورز سے ڈاؤن لوڈز کو مسدود نہیں کر رہا ہے۔</translation>
+<translation id="8842834450537919370">‏براہ کرم اپنے نیٹ ورک کے منتظم سے چیک کر کے یقینی بنائیں کہ فائر وال Fulldive سرورز سے ڈاؤن لوڈز کو مسدود نہیں کر رہا ہے۔</translation>
 <translation id="9042893549633094279">رازداری اور سیکیورٹی</translation>
 <translation id="5548606607480005320">سیفٹی چیک</translation>
 <translation id="5876576639916258720">چل رہا ہے...</translation>
@@ -4122,24 +4122,24 @@
 <translation id="2468205691404969808">چاہے آپ وہ صفحات ملاحظہ نہ کریں، تب بھی آپ کی ترجیحات یاد رکھنے کے لیے کوکیز استعمال کرتا ہے</translation>
 <translation id="3633309367764744750">صفحات سے پیشگی معلومات بازیافت کرتا ہے، بشمول ایسے صفحات جنہیں آپ نے ابھی تک ملاحظہ نہیں کیا ہے۔ اگر آپ کوکیز کی اجازت دیتے ہیں تو بازیافت کردہ معلومات میں کوکیز شامل ہو سکتی ہیں۔</translation>
 <translation id="3201899458094819285">محفوظ براؤزنگ (آپ اور آپ کے آلہ کی خطرناک سائٹس سے حفاظت کرتی ہے)</translation>
-<translation id="2876369937070532032">‏آپ کو سیکیورٹی کا خطرہ لاحق ہونے پر، Gab AI Inc کو آپ کے ملاحظہ کئے جانے والے چند صفحات کے URLs بھیجتا ہے</translation>
+<translation id="2876369937070532032">‏آپ کو سیکیورٹی کا خطرہ لاحق ہونے پر، Fulldive کو آپ کے ملاحظہ کئے جانے والے چند صفحات کے URLs بھیجتا ہے</translation>
 <translation id="4991384657077828949">‏Fulldive کی سیکیورٹی کو بہتر بنانے میں مدد کریں</translation>
-<translation id="1984646864943401749">‏آپ کے ملاحظہ کئے جانے والے چند صفحات کے URLs، سسٹم کی محدود معلومات اور صفحے کا کچھ مواد Gab AI Inc کو بھیجتا ہے تاکہ نئے خطرات کا پتا لگانے اور ویب پر موجود سبھی کی حفاظت میں مدد مل سکے۔</translation>
+<translation id="1984646864943401749">‏آپ کے ملاحظہ کئے جانے والے چند صفحات کے URLs، سسٹم کی محدود معلومات اور صفحے کا کچھ مواد Fulldive کو بھیجتا ہے تاکہ نئے خطرات کا پتا لگانے اور ویب پر موجود سبھی کی حفاظت میں مدد مل سکے۔</translation>
 <translation id="1641113438599504367">محفوظ براؤزنگ</translation>
 <translation id="6900532703269623216">بہتر کردہ حفاظت</translation>
-<translation id="7307583170263691471">‏ویب سائٹس، ڈاؤن لوڈز اور ایکسٹینشنز سے تیز، فعال حفاظت۔ پاس ورڈز کی خلاف ورزیوں کے بارے میں آپ کو متنبہ کرتا ہے۔ براؤزنگ ڈیٹا کو Gab AI Inc کے پاس بھیجے جانے کی ضرورت ہوتی ہے۔</translation>
+<translation id="7307583170263691471">‏ویب سائٹس، ڈاؤن لوڈز اور ایکسٹینشنز سے تیز، فعال حفاظت۔ پاس ورڈز کی خلاف ورزیوں کے بارے میں آپ کو متنبہ کرتا ہے۔ براؤزنگ ڈیٹا کو Fulldive کے پاس بھیجے جانے کی ضرورت ہوتی ہے۔</translation>
 <translation id="8645920082661222035">خطرناک ایونٹس ہونے سے پہلے ان کی پیشین گوئی کرتی ہے اور آپ کو ان کے بارے میں متنبہ کرتی ہے</translation>
-<translation id="5265419033369521352">‏آپ کے سائن ان ہونے پر آپ کو Fulldive پر محفوظ رکھتا ہے اور دیگر Gab AI Inc ایپس میں آپ کی سیکیورٹی کو بہتر بنانے کے لیے استعمال کیا جا سکتا ہے</translation>
+<translation id="5265419033369521352">‏آپ کے سائن ان ہونے پر آپ کو Fulldive پر محفوظ رکھتا ہے اور دیگر Fulldive ایپس میں آپ کی سیکیورٹی کو بہتر بنانے کے لیے استعمال کیا جا سکتا ہے</translation>
 <translation id="6770602306803890733">آپ کے لیے اور ویب پر سبھی کے لیے سیکیورٹی کو بہتر بناتی ہے</translation>
 <translation id="3690369331356918524">اگر پاس ورڈز ڈیٹا کی خلاف ورزی میں افشاء ہوتے ہیں تو آپ کو متنبہ کرتی ہے</translation>
-<translation id="4979281249641199724">‏چیک کرنے کے لیے URLs کو محفوظ براؤزنگ کو بھیجتا ہے۔ نئے خطرات کا پتہ لگانے میں مدد کے لیے صفحات، ڈاؤن لوڈز، ایکسٹینشن کی سرگرمی اور سسٹم کی معلومات کا چھوٹا سا نمونہ بھی بھیجتا ہے۔ Gab AI Inc ایپس پر آپ کی حفاظت کرنے کے لیے آپ کے سائن ان ہونے پر آپ کے Gab AI Inc اکاؤنٹ سے اس ڈیٹا کو عارضی طور پر لنک کرتا ہے۔</translation>
+<translation id="4979281249641199724">‏چیک کرنے کے لیے URLs کو محفوظ براؤزنگ کو بھیجتا ہے۔ نئے خطرات کا پتہ لگانے میں مدد کے لیے صفحات، ڈاؤن لوڈز، ایکسٹینشن کی سرگرمی اور سسٹم کی معلومات کا چھوٹا سا نمونہ بھی بھیجتا ہے۔ Fulldive ایپس پر آپ کی حفاظت کرنے کے لیے آپ کے سائن ان ہونے پر آپ کے Fulldive اکاؤنٹ سے اس ڈیٹا کو عارضی طور پر لنک کرتا ہے۔</translation>
 <translation id="1963976881984600709">معیاری تحفظ</translation>
 <translation id="6882836635272038266">خطرناک مانی جانے والی ویب سائٹس، ڈاؤن لوڈز اور ایکسٹینشنز سے معیاری حفاظت۔</translation>
 <translation id="5561162485081632007">جب خطرناک ایونٹس ہوتے ہیں تو ان کا پتہ لگا کر آپ کو ان کے بارے میں متنبہ کرتا ہے۔</translation>
 <translation id="7810992039564280750">‏Fulldive میں اسٹور کردہ غیر محفوظ سائٹس کی فہرست کے URLs چیک کرتا ہے۔ اگر کوئی سائٹ آپ کا پاس ورڈ چرانے کی کوشش کرتی ہے یا جب آپ نقصان دہ فائل ڈاؤن لوڈ کرتے ہیں تو Fulldive محفوظ براؤزنگ پر صفحہ کے مواد کے بائٹس سمیت URLs بھیجتا ہے۔</translation>
 <translation id="3847319713229060696">سبھی کے لیے ویب پر سیکیورٹی کو بہتر بنانے میں مدد کریں</translation>
 <translation id="1984417487208496350">کوئی تحفظ نہیں (تجویز نہیں کی جاتی ہے)</translation>
-<translation id="1295971429974142731">‏خطرناک ویب سائٹس، ڈاؤن لوڈز اور ایکسٹینشنز سے آپ کی حفاظت نہیں کرتی ہے۔ آپ کو اب بھی Gmail اور تلاش جیسی Gab AI Inc کی دیگر سروسز میں جہاں بھی دستیاب ہوگا محفوظ براؤزنگ کا تحفظ ملے گا۔</translation>
+<translation id="1295971429974142731">‏خطرناک ویب سائٹس، ڈاؤن لوڈز اور ایکسٹینشنز سے آپ کی حفاظت نہیں کرتی ہے۔ آپ کو اب بھی Gmail اور تلاش جیسی Fulldive کی دیگر سروسز میں جہاں بھی دستیاب ہوگا محفوظ براؤزنگ کا تحفظ ملے گا۔</translation>
 <translation id="6122831415929794347">محفوظ براؤزنگ آن کریں؟</translation>
 <translation id="6410390304316730527">محفوظ براؤزنگ ان حملہ آوروں سے آپ کی حفاظت کرتی ہے جو نقصان دہ سافٹ ویئر انسٹال کرنے یا پاس ورڈز، فون نمبرز یا کریڈٹ کارڈز جیسی ذاتی معلومات افشاء کرنے جیسے کچھ خطرناک کام انجام دینے میں آپ کو پھنسا سکتے ہیں۔ اگر آپ اسے آف کرتے ہیں تو غیر مانوس یا غیر معروف سائٹس کو براؤز کرتے وقت محتاط رہیں۔</translation>
 <translation id="8791534160414513928">اپنے براؤزنگ ٹریفک کے ساتھ ایک "ٹریک نہ کریں" درخواست بھیجیں</translation>
@@ -4151,8 +4151,8 @@
 <translation id="1995916364271252349">سائٹس کون سی معلومات استعمال اور دکھا سکتی ہیں (مقام، کیمرا، پاپ اپس، اور بہت کچھ) کو کنٹرول کرتا ہے</translation>
 <translation id="3320630259304269485">محفوظ براؤزنگ (خطرناک سائٹس سے تحفظ) اور سیکیورٹی کی دیگر ترتیبات</translation>
 <translation id="7536333565791380193">اعلی درجے کی سیکیورٹی</translation>
-<translation id="8525226238722561998">‏Gab AI Inc کا اعلی تحفظ پروگرام</translation>
-<translation id="1229550669565092839">‏ہدف بناکر کیے گئے حملوں کا خطرہ ہونے والے کسی کے بھی ذاتی Gab AI Inc اکاؤنٹس کی حفاظت کرتا ہے</translation>
+<translation id="8525226238722561998">‏Fulldive کا اعلی تحفظ پروگرام</translation>
+<translation id="1229550669565092839">‏ہدف بناکر کیے گئے حملوں کا خطرہ ہونے والے کسی کے بھی ذاتی Fulldive اکاؤنٹس کی حفاظت کرتا ہے</translation>
 <translation id="1521442365706402292">سرٹیفیکیٹس کا نظم کریں</translation>
 <translation id="7075625805486468288">‏HTTPS/SSL سرٹیفکیٹس اور ترتیبات کا نظم کریں</translation>
 <translation id="6588043302623806746">‏محفوظ DNS استعمال کریں</translation>
@@ -4426,8 +4426,8 @@
 <translation id="4590324241397107707">ڈیٹابیس اسٹوریج</translation>
 <translation id="8016266267177410919">عارضی اسٹوریج</translation>
 <translation id="4175737294868205930">مستقل اسٹوریج</translation>
-<translation id="8397843425685839889">‏آپ اور Gab AI Inc</translation>
-<translation id="8907706281008466056">‏Gab AI Inc پروفائل تصویر</translation>
+<translation id="8397843425685839889">‏آپ اور Fulldive</translation>
+<translation id="8907706281008466056">‏Fulldive پروفائل تصویر</translation>
 <translation id="2023167225947895179">‏ممکن ہے کہ PIN کا آسان سے اندازہ لگایا جا سکتا ہو</translation>
 <translation id="5342091991439452114">‏PIN کا کم از کم <ph name="MINIMUM"/> ہندسے کا ہونا ضروری ہے</translation>
 <translation id="5252653240322147470">‏PIN کا <ph name="MAXIMUM"/> ہندسے سے کم ہونا ضروری ہے</translation>
@@ -4441,26 +4441,26 @@
 <translation id="899676909165543803">فنگر پرنٹ سینسر آپ کے کی بورڈ پر سب سے نیچے دائیں ہاتھ کی کلید ہے۔ اسے کسی بھی انگلی سے ہلکے سے ٹچ کریں۔</translation>
 <translation id="4535767533210902251">فنگر پرنٹ سینسر آپ کے کی بورڈ پر سب سے اوپر دائیں ہاتھ کی کلید ہے۔ اسے کسی بھی انگلی سے ہلکے سے ٹچ کریں۔</translation>
 <translation id="5449551289610225147">غلط پاس ورڈ</translation>
-<translation id="4326270470840334364">‏چونکہ یہ اکاؤنٹ <ph name="DOMAIN"/> کے زیر انتظام ہے،  لہذا آپ کے بُک مارکس، سرگزشت، پاس ورڈز اور دیگر ترتیبات کو اس آلہ سے صاف کر دیا جائے گا۔ البتہ آپ کا ڈیٹا آپ کے Gab AI Inc اکاؤنٹ میں اسٹور رہے گا اور اس کا <ph name="BEGIN_LINK"/>Gab AI Inc ڈیش بورڈ<ph name="END_LINK"/> پر نظم کیا جا سکتا ہے۔</translation>
+<translation id="4326270470840334364">‏چونکہ یہ اکاؤنٹ <ph name="DOMAIN"/> کے زیر انتظام ہے،  لہذا آپ کے بُک مارکس، سرگزشت، پاس ورڈز اور دیگر ترتیبات کو اس آلہ سے صاف کر دیا جائے گا۔ البتہ آپ کا ڈیٹا آپ کے Fulldive اکاؤنٹ میں اسٹور رہے گا اور اس کا <ph name="BEGIN_LINK"/>Fulldive ڈیش بورڈ<ph name="END_LINK"/> پر نظم کیا جا سکتا ہے۔</translation>
 <translation id="6906406176003824042">شخص کی ترمیم کریں</translation>
 <translation id="3699920817649120894">مطابقت پذیری اور نوعیت سازی کو آف کریں؟</translation>
 <translation id="5643620609347735571">صاف کریں اور جاری رکھیں</translation>
 <translation id="5602765853043467355">بُک مارکس، سرگزشت، پاس ورڈز وغیرہ اس آلہ سے صاف کريں</translation>
 <translation id="4089235344645910861">ترتیبات محفوظ ہو گئیں۔ مطابقت پذیری شروع ہو گئی۔</translation>
 <translation id="6739923123728562974">ڈیسک ٹاپ شارٹ کٹ دکھائیں</translation>
-<translation id="2951604498031550705">‏آپ کے بُک مارکس، سرگزشت، پاس ورڈز اور دیگر ترتیبات کی تبدیلیوں کی مزید آپ کے Gab AI Inc اکاؤنٹ کے ساتھ مطابقت پذیری نہیں کی جائے گی۔ البتہ آپ کا موجودہ ڈیٹا آپ کے Gab AI Inc اکاؤنٹ میں اسٹور رہے گا اور اس کا <ph name="BEGIN_LINK"/>Gab AI Inc ڈیش بورڈ<ph name="END_LINK"/> پر نظم کیا جا سکتا ہے۔</translation>
+<translation id="2951604498031550705">‏آپ کے بُک مارکس، سرگزشت، پاس ورڈز اور دیگر ترتیبات کی تبدیلیوں کی مزید آپ کے Fulldive اکاؤنٹ کے ساتھ مطابقت پذیری نہیں کی جائے گی۔ البتہ آپ کا موجودہ ڈیٹا آپ کے Fulldive اکاؤنٹ میں اسٹور رہے گا اور اس کا <ph name="BEGIN_LINK"/>Fulldive ڈیش بورڈ<ph name="END_LINK"/> پر نظم کیا جا سکتا ہے۔</translation>
 <translation id="3169352093514419465">اس سے آپ اپنے اکاؤنٹ سے سائن آؤٹ ہو جائیں گے۔ آپ کے بُک مارکس، سرگزشت، پاس ورڈز اور بھی بہت کـچھ کی اب مطابقت پذیری نہیں کی جائے گی۔</translation>
 <translation id="8588866096426746242">پروفائل کے اعداد و شمار دکھائیں</translation>
 <translation id="5535941515421698170">نیز اس آلہ سے اپنا موجودہ ڈیٹا ہٹائیں</translation>
 <translation id="2162155940152307086">آپ کی مطابقت پذیری کی ترتیبات کو چھوڑنے پر مطابقت پذیری شروع ہوگی</translation>
-<translation id="1125261911132334651">‏اپنے Gab AI Inc اکاؤنٹ کا نظم کریں</translation>
+<translation id="1125261911132334651">‏اپنے Fulldive اکاؤنٹ کا نظم کریں</translation>
 <translation id="5117427536932535467">تھیمز اور وال پیپرز</translation>
 <translation id="7257173066616499747">‏Wi-Fi نیٹ ورکس</translation>
 <translation id="2120297377148151361">سرگرمی اور تعاملات</translation>
 <translation id="5833397272224757657">ذاتی نوعیت سازی کے لیے آپ کی ملاحظہ کی جانے والی سائٹوں، نیز براؤزر کی سرگرمی اور تعاملات پر موجود مواد استعمال کرتی ہے</translation>
-<translation id="8135094938656535588">‏Gab AI Inc ڈیش بورڈ پر مطابقت پذیر ڈیٹا کا نظم کریں</translation>
-<translation id="5958351589333270173">‏اپنے ذاتی <ph name="BEGIN_LINK"/>مطابقت پذیر پاس فریز<ph name="END_LINK"/> کے ساتھ مطابقت پذیر کردہ ڈیٹا کی مرموزکاری کریں۔ اس میں Gab AI Inc Pay سے ادائیگی کے طریقے اور پتے شامل نہیں ہوتے ہیں۔</translation>
-<translation id="4817583816512767754">‏صرف وہ شخص جس کے پاس آپ کا پاس فریز ہے آپ کے مرموز کردہ ڈیٹا کو پڑھ سکتا ہے۔ پاس فریز Gab AI Inc کو نہیں بھیجا جاتا یا اس کے ذریعے اسٹور نہیں کیا جاتا ہے۔ اگر آپ اپنا پاس فریز بھول جاتے ہیں یا اس ترتیب کو تبدیل کرنا چاہتے ہیں تو آپ کو <ph name="BEGIN_LINK"/>مطابقت پذیری دوبارہ ترتیب دینے<ph name="END_LINK"/> کی ضرورت ہوگی۔</translation>
+<translation id="8135094938656535588">‏Fulldive ڈیش بورڈ پر مطابقت پذیر ڈیٹا کا نظم کریں</translation>
+<translation id="5958351589333270173">‏اپنے ذاتی <ph name="BEGIN_LINK"/>مطابقت پذیر پاس فریز<ph name="END_LINK"/> کے ساتھ مطابقت پذیر کردہ ڈیٹا کی مرموزکاری کریں۔ اس میں Fulldive Pay سے ادائیگی کے طریقے اور پتے شامل نہیں ہوتے ہیں۔</translation>
+<translation id="4817583816512767754">‏صرف وہ شخص جس کے پاس آپ کا پاس فریز ہے آپ کے مرموز کردہ ڈیٹا کو پڑھ سکتا ہے۔ پاس فریز Fulldive کو نہیں بھیجا جاتا یا اس کے ذریعے اسٹور نہیں کیا جاتا ہے۔ اگر آپ اپنا پاس فریز بھول جاتے ہیں یا اس ترتیب کو تبدیل کرنا چاہتے ہیں تو آپ کو <ph name="BEGIN_LINK"/>مطابقت پذیری دوبارہ ترتیب دینے<ph name="END_LINK"/> کی ضرورت ہوگی۔</translation>
 <translation id="7441736921018636843">اس ترتیب کو تبدیل کرنے کے لیے، اپنی مطابقت پذیری کے پاس فریز کو ہٹانے کے لیے <ph name="BEGIN_LINK"/>مطابقت پذیری کو ری سیٹ کریں<ph name="END_LINK"/></translation>
 <translation id="3873315167136380065">اسے آن کرنے کے لیے، اپنے پاس فریز کو ہٹانے کے لیے <ph name="BEGIN_LINK"/>مطابقت پذیری کو ری سیٹ کریں<ph name="END_LINK"/></translation>
 <translation id="6451689256222386810">اگر آپ اپنا پاس فریز بھول گئے ہیں یا اس ترتیب کو تبدیل کرنا چاہتے ہیں تو <ph name="BEGIN_LINK"/>مطابقت پذیری کو دوبارہ ترتیب دیں<ph name="END_LINK"/>۔</translation>
@@ -4517,7 +4517,7 @@
 <translation id="8639047128869322042">نقصان دہ سافٹ ویئر چیک کیا جا رہا ہے...</translation>
 <translation id="2653033005692233957">تلاش ناکام ہو گئی</translation>
 <translation id="655483977608336153">دوبارہ کوشش کریں</translation>
-<translation id="8282772389915299166">‏اس صفائی کے دوران اپنے کمپیوٹر پر ملنے والے نقصان دہ سافٹ ویئر، سسٹم کی ترتیبات اور کارروائیوں کی تفصیلات کے بارے میں Gab AI Inc کو مطلع کریں</translation>
+<translation id="8282772389915299166">‏اس صفائی کے دوران اپنے کمپیوٹر پر ملنے والے نقصان دہ سافٹ ویئر، سسٹم کی ترتیبات اور کارروائیوں کی تفصیلات کے بارے میں Fulldive کو مطلع کریں</translation>
 <translation id="6555810572223193255">کلین اپ فی الحال دستیاب نہیں ہے</translation>
 <translation id="7117228822971127758">براہ کرم بعد میں دوبارہ کوشش کریں</translation>
 <translation id="443475966875174318">ناموافق ایپلیکیشنز کو اپ ڈیٹ کریں یا ہٹائیں</translation>
@@ -4601,16 +4601,16 @@
 <translation id="161042844686301425">سیان</translation>
 <translation id="4115378294792113321">میجنٹا</translation>
 <translation id="8438566539970814960">تلاشوں اور براؤزنگ کو بہتر بنائیں</translation>
-<translation id="284843628681142937">‏Gab AI Inc کو ان صفحات کے URLs بھیجتی ہے جنہیں آپ ملاحظہ کرتے ہیں</translation>
+<translation id="284843628681142937">‏Fulldive کو ان صفحات کے URLs بھیجتی ہے جنہیں آپ ملاحظہ کرتے ہیں</translation>
 <translation id="7704317875155739195">‏تلاشوں اور URLs کی خودکار تکمیل کریں</translation>
 <translation id="2000419248597011803">پتہ بار اور تلاش خانے سے کچھ کوکیز اور تلاشیاں آپ کے ڈیفالٹ تلاش انجن کو بھیجتا ہے</translation>
 <translation id="918192811481327695">‏Fulldive کی خصوصیات اور کارکردگی کو بہتر بنانے میں مدد کریں</translation>
-<translation id="9063160602596686558">‏Gab AI Inc کو خودکار طور پر استعمال کے اعداد و شمار اور کریش رپورٹس بھیجتا ہے</translation>
+<translation id="9063160602596686558">‏Fulldive کو خودکار طور پر استعمال کے اعداد و شمار اور کریش رپورٹس بھیجتا ہے</translation>
 <translation id="6697492270171225480">صفحہ نہ مل پانے کی صورت میں ملتے جلتے صفحات کے لیے تجاویز دکھائیں</translation>
-<translation id="4534361985432360439">‏Gab AI Inc کو اس صفحے کا ویب پتہ بھیجتا ہے جس تک آپ رسائی حاصل کرنے کی کوشش کر رہے ہیں</translation>
-<translation id="3831436149286513437">‏Gab AI Inc Drive تلاش کی تجاویز</translation>
+<translation id="4534361985432360439">‏Fulldive کو اس صفحے کا ویب پتہ بھیجتا ہے جس تک آپ رسائی حاصل کرنے کی کوشش کر رہے ہیں</translation>
+<translation id="3831436149286513437">‏Fulldive Drive تلاش کی تجاویز</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/> میں مطابقت پذیری کی جا رہی ہے</translation>
-<translation id="9125982323641182972">‏Fulldive میں Gab AI Inc کی اسمارٹ سروسز حاصل کریں</translation>
+<translation id="9125982323641182972">‏Fulldive میں Fulldive کی اسمارٹ سروسز حاصل کریں</translation>
 <translation id="2537178555904266562">پاس ورڈز کی مطابقت پذیری کرنے میں خرابی</translation>
 <translation id="4314815835985389558">مطابقت پذیری کا نظم کريں</translation>
 <translation id="8931475688782629595">جو آپ سِنک کرتے ہیں اس کا نظم کریں</translation>
@@ -4619,18 +4619,18 @@
 <translation id="4570387585180509432">پتے، فون نمبرز اور مزید بہت کچھ</translation>
 <translation id="3268451620468152448">کھلے ٹیبز</translation>
 <translation id="4684427112815847243">ہر چیز کی مطابقت پذیری کریں</translation>
-<translation id="5428209950370661546">‏دیگر Gab AI Inc سروسز</translation>
+<translation id="5428209950370661546">‏دیگر Fulldive سروسز</translation>
 <translation id="7399045143794278225">سنک کرنے کو حسب ضرورت بنائیں</translation>
 <translation id="7044606776288350625">ڈیٹا سنک کریں</translation>
 <translation id="9050666287014529139">پاس فریز</translation>
 <translation id="6596325263575161958">مرموزکاری کے اختیارات</translation>
-<translation id="2459230470861708651">‏مطابقت پذیر پاس ورڈز کو Gab AI Inc کے اپنے صارف نام اور پاس ورڈ کے ساتھ مرموز کریں</translation>
+<translation id="2459230470861708651">‏مطابقت پذیر پاس ورڈز کو Fulldive کے اپنے صارف نام اور پاس ورڈ کے ساتھ مرموز کریں</translation>
 <translation id="1651008383952180276">آپ کو وہی پاس فریز دوبار درج کرنا ہوگا</translation>
 <translation id="988978206646512040">خالی پاس فریز کی اجازت نہیں ہے</translation>
 <translation id="2136476978468204130">آپ کا درج کردہ پاس فریز غلط ہے</translation>
 <translation id="7505421639213002314">‏Fulldive Sync کا ڈیٹا</translation>
 <translation id="452750746583162491">اپنے مطابقت پذیر ڈیٹا کا جائزہ لیں</translation>
-<translation id="7956662517480676674">‏مطابقت پذیری اور Gab AI Inc سروسز</translation>
+<translation id="7956662517480676674">‏مطابقت پذیری اور Fulldive سروسز</translation>
 <translation id="7772032839648071052">پاس فریز کی توثیق کریں</translation>
 <translation id="7529411698175791732">اپنا انٹرنیٹ کنکشن چیک کریں۔ اگر مسئلہ برقرار رہتا ہے تو سائن آؤٹ اور دوبارہ سائن ان کر کے دیکھیں۔</translation>
 <translation id="6406506848690869874">مطابقت پذیر بنائیں</translation>
@@ -4764,7 +4764,7 @@
 <translation id="7835178595033117206">بُک مارک ہٹا دیا گیا</translation>
 <translation id="742130257665691897">بُک مارکس ہٹا دیے گئے</translation>
 <translation id="5468853758063275923">‏Fulldive آپ کا ڈیفالٹ براؤزر ہے</translation>
-<translation id="2950533317914339731">‏اپنی پسندیدہ Gab AI Inc ایپس میں بُک مارکس شامل کریں</translation>
+<translation id="2950533317914339731">‏اپنی پسندیدہ Fulldive ایپس میں بُک مارکس شامل کریں</translation>
 <translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Maps</translation>
@@ -4779,7 +4779,7 @@
 <translation id="7789963078219276159">ابتدائی صفحہ کا پس منظر <ph name="CATEGORY"/> میں تبدیل کر دیا گیا ہے۔</translation>
 <translation id="8771300903067484968">ابتدائی صفحہ کے پس منظر کو ڈیفالٹ پس منظر پر دوبارہ ترتیب دے دیا گیا ہے۔</translation>
 <translation id="239760341987199724">‏Fulldive کو اپنے ڈیفالٹ براؤزر کے بطور سیٹ کریں</translation>
-<translation id="96037229054033864">‏ہر بار براؤز کرتے وقت Gab AI Inc تلاش اور Gab AI Inc اسمارٹس کی سہولت پائیں</translation>
+<translation id="96037229054033864">‏ہر بار براؤز کرتے وقت Fulldive تلاش اور Fulldive اسمارٹس کی سہولت پائیں</translation>
 <translation id="296137235951584143">‏Fulldive کو اپنا ڈیفالٹ براؤزر بنائيں</translation>
 <translation id="3982375475032951137">اپنے براؤزر کو چند آسان مراحل میں سیٹ کریں</translation>
 <translation id="6972754398087986839">شروع کریں</translation>
@@ -4792,7 +4792,7 @@
 <translation id="1031362278801463162">پیش منظر لوڈ کیا جا رہا ہے</translation>
 <translation id="6147020289383635445">پرنٹ کا پیش منظر ناکام ہوگیا۔</translation>
 <translation id="5877584842898320529">منتخب کردہ پرنٹر دستیاب نہیں ہے یا صحیح سے انسٹال نہیں ہوا ہے۔ <ph name="BR"/> اپنا پرنٹر چیک کریں یا دوسرا پرنٹر منتخب کر کے آزمائيں۔</translation>
-<translation id="6645437135153136856">‏منتخب کردہ Gab AI Inc کلاؤڈ پرنٹ آلہ مزید تعاون یافتہ نہیں ہے۔ <ph name="BR"/> اپنے کمپیوٹر کے سسٹم کی ترتیبات میں پرنٹر کو سیٹ کر کے آزمائيں۔</translation>
+<translation id="6645437135153136856">‏منتخب کردہ Fulldive کلاؤڈ پرنٹ آلہ مزید تعاون یافتہ نہیں ہے۔ <ph name="BR"/> اپنے کمپیوٹر کے سسٹم کی ترتیبات میں پرنٹر کو سیٹ کر کے آزمائيں۔</translation>
 <translation id="5828633471261496623">پرنٹ کیا جا رہا ہے…</translation>
 <translation id="6295855836753816081">محفوظ کیا جا رہا ہے…</translation>
 <translation id="3587482841069643663">سبھی</translation>
@@ -4812,7 +4812,7 @@
 <translation id="3706463572498736864">فی شیٹ صفحات</translation>
 <translation id="2249605167705922988">‏مثلاً ‎1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">‏PDF کے بطور محفوظ کریں</translation>
-<translation id="6532101170117367231">‏Gab AI Inc Drive میں محفوظ کریں</translation>
+<translation id="6532101170117367231">‏Fulldive Drive میں محفوظ کریں</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">پیپر کی شیٹس</translation>
 <translation id="8813811964357448561">پیپر کی شیٹ</translation>
@@ -4842,7 +4842,7 @@
 <translation id="6991665348624301627">ایک منزل مقصود منتخب کریں</translation>
 <translation id="8800004011501252845">منزلیں دکھائی جا رہی ہیں برائے</translation>
 <translation id="8996526648899750015">اکاؤنٹ شامل کریں…</translation>
-<translation id="6723354935081862304">‏Gab AI Inc Docs اور دیگر کلاؤڈ منزلوں پر پرنٹ کریں۔ Gab AI Inc کلاؤڈ پرنٹ پر پرنٹ کرنے کیلئے <ph name="BEGIN_LINK"/>سائن ان کریں<ph name="END_LINK"/>۔</translation>
+<translation id="6723354935081862304">‏Fulldive Docs اور دیگر کلاؤڈ منزلوں پر پرنٹ کریں۔ Fulldive کلاؤڈ پرنٹ پر پرنٹ کرنے کیلئے <ph name="BEGIN_LINK"/>سائن ان کریں<ph name="END_LINK"/>۔</translation>
 <translation id="2150139952286079145">منازل مقصود تلاش کریں</translation>
 <translation id="8569682776816196752">کوئی منزلیں نہیں ملیں</translation>
 <translation id="7885253890047913815">حالیہ منزلیں</translation>

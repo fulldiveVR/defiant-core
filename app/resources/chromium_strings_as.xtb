@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Fulldiveৰ ল’গ’</translation>
 <translation id="7339898014177206373">নতুন ৱিণ্ড'</translation>
 <translation id="5516268345616100622">কাৰ্য পৰিচালক - Fulldive</translation>
-<translation id="7918740962659365265">Gab AI Incলৈ ক্ৰেশ্ব ৰিপ‘ৰ্ট আৰু <ph name="UMA_LINK"/> পঠিয়াই Fulldiveক উন্নত কৰাত সহায় কৰক</translation>
+<translation id="7918740962659365265">Fulldiveলৈ ক্ৰেশ্ব ৰিপ‘ৰ্ট আৰু <ph name="UMA_LINK"/> পঠিয়াই Fulldiveক উন্নত কৰাত সহায় কৰক</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - নেটৱর্কত ছাইন ইন - Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldiveএ ইয়াৰ ডেটা ডাইৰেক্টৰী পঢ়িব আৰু তাত লিখিব নোৱাৰে:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">ঐচ্ছিক: স্বয়ংক্ৰিয়ভাৱে Gab AI Incলৈ ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্ব ৰিপ'ৰ্ট পঠিয়াই Fulldiveক উন্নত কৰাত সহায় কৰক।</translation>
+<translation id="8417700129970341035">ঐচ্ছিক: স্বয়ংক্ৰিয়ভাৱে Fulldiveলৈ ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্ব ৰিপ'ৰ্ট পঠিয়াই Fulldiveক উন্নত কৰাত সহায় কৰক।</translation>
 <translation id="1489465648257900784">আপোনাৰ প্ৰ’ফাইল ব্যৱহাৰ কৰিব নোৱাৰি কাৰণ এয়া Fulldiveৰ এক নতুন সংস্কৰণ।
 
 কিছুমান সুবিধা নাথাকিব পাৰে। অনুগ্ৰহ কৰি অন্য কোনো প্ৰ’ফাইল ডাইৰেক্টৰী নির্দিষ্ট কৰক বা Fulldiveৰ নতুন সংস্কৰণ ব্যৱহাৰ কৰক।</translation>
@@ -44,7 +44,7 @@
 
 Fulldiveএ আপোনাৰ ছেটিংসমূহ পুনৰুদ্ধাৰ কৰিব নোৱাৰিলে।</translation>
 <translation id="1477146545787277177">আমি দুঃখিত! Fulldive ক্রেশ্ব হ’ল। পুনৰ লঞ্চ কৰিবনে?</translation>
-<translation id="5785919770853225148">Fulldiveএ এই পাছৱৰ্ডটো আপোনাৰ Gab AI Inc একাউণ্টত ছেভ কৰিব৷ আপুনি ইয়াক মনত ৰাখিব নালাগে৷</translation>
+<translation id="5785919770853225148">Fulldiveএ এই পাছৱৰ্ডটো আপোনাৰ Fulldive একাউণ্টত ছেভ কৰিব৷ আপুনি ইয়াক মনত ৰাখিব নালাগে৷</translation>
 <translation id="8211837073776713955">Fulldiveএ আপোনাৰ পাছৱৰ্ডসমূহ কেতিয়াবা হেক কৰা হৈছিল নেকি আপোনাক জানিবলৈ দিয়ে</translation>
 <translation id="113959764510199339">Fulldiveএ পাছৱর্ডসমূহ দেখুৱাবলৈ চেষ্টা কৰি আছে।</translation>
 <translation id="96347285368592620">Fulldiveএ পাছৱর্ডসমূহ প্ৰতিলিপি কৰিবলৈ চেষ্টা কৰি আছে।</translation>
@@ -85,7 +85,7 @@ Fulldiveএ আপোনাৰ ছেটিংসমূহ পুনৰুদ্
 <translation id="9183662282810237335">যিকোনো প্ৰকাৰে Fulldiveৰ পৰা বাহিৰ হ’বনে?</translation>
 <translation id="3834935463915107022">যিয়েই কি নহ’লেও Fulldive বন্ধ কৰিবনে?</translation>
 <translation id="8797356639448065696">Fulldive নেপথ্য ম’ডত আছে।</translation>
-<translation id="2339258256897053758">Gab AI Inc API চাবিসমূহ নাই। Fulldiveৰ কিছুমান কাৰ্যক্ষতা অক্ষম কৰা হ’ব।</translation>
+<translation id="2339258256897053758">Fulldive API চাবিসমূহ নাই। Fulldiveৰ কিছুমান কাৰ্যক্ষতা অক্ষম কৰা হ’ব।</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> Fulldiveত যোগ কৰা হ’ল</translation>
 <translation id="8516116288943000095">লগতে Fulldive (<ph name="URL"/>)ৰ ডেটাও মচক</translation>
 <translation id="4054452651944170004">Fulldive মেনুত লুকুৱাওক</translation>
@@ -109,8 +109,8 @@ Fulldiveএ আপোনাৰ ছেটিংসমূহ পুনৰুদ্
 <translation id="2925193881330501265">আপুনি Fulldiveত <ph name="USER_EMAIL_ADDRESS"/> হিচাপে ছাইন ইন হৈ আছিল। আকৌ ছাইন ইন কৰিবলৈ অনুগ্ৰহ কৰি সেই একেটা একাউণ্ট ব্যৱহাৰ কৰক।</translation>
 <translation id="847561904663814268">অন্য কোনো লোকে আগতে এই কম্পিউটাৰটোৰ Fulldiveত <ph name="ACCOUNT_EMAIL_LAST"/> হিচাপে ছাইন ইন কৰিছিল। আপোনাৰ তথ্যখিনি পৃথক কৰি ৰাখিবলৈ অনুগ্ৰহ কৰি Fulldiveত এজন নতুন ব্যৱহাৰকাৰী সৃষ্টি কৰক।</translation>
 <translation id="1853997773668795891">আপোনাৰ Fulldive ডেটা এই একাউণ্টটোত যোগ কৰিবনে?</translation>
-<translation id="1326766910007115955">আপুনি এটা পৰিচালিত একাউণ্টৰ জৰিয়তে ছাইন ইন কৰি আছে আৰু আপোনাৰ Fulldive প্ৰ’ফাইলৰ জৰিয়তে ইয়াৰ প্ৰশাসনিক নিয়ন্ত্ৰণ দি আছে। আপোনাৰ এপ্, বুকমার্ক, ইতিহাস, পাছৱর্ড আৰু অন্য ছেটিংসমূহৰ দৰে নিজৰ Fulldive ডেটা স্থায়ীভাৱে <ph name="USER_NAME"/>ৰ সৈতে সংযুক্ত হ’ব। আপুনি Gab AI Inc একাউণ্ট ডেশ্বব’ৰ্ডৰ জৰিয়তে এই ডেটা মচিব পাৰিব কিন্তু আপুনি এই ডেটা অন্য একাউণ্টৰ সৈতে সংলগ্ন কৰিব নোৱাৰিব। <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">আপুনি কোনো পৰিচালিত একাউণ্টৰ জৰিয়তে ছাইন ইন কৰিছে আৰু কোনো প্ৰশাসকক আপোনাৰ Fulldive প্ৰ’ফাইলৰ নিয়ন্ত্ৰণ দিছে৷ আপোনাৰ এপ্, বুকমার্ক, ইতিহাস, পাছৱর্ড আৰু অন্য ছেটিংসমূহৰ দৰে নিজৰ Fulldive ডেটা স্থায়ীভাৱে <ph name="USER_NAME"/>ৰ সৈতে সংযুক্ত হ’ব৷ আপুনি Gab AI Inc একাউণ্ট ডেশ্বব’ৰ্ডৰ জৰিয়তে এই ডেটা মচিব পাৰিব কিন্তু আপুনি এই ডেটা অন্য একাউণ্টৰ সৈতে সংলগ্ন কৰিব নোৱাৰিব৷ আপুনি নিজৰ পূর্বে থকা Fulldive ডেটা পৃথকে ৰাখিবলৈ ঐচ্ছিকভাৱে এটা নতুন প্ৰ’ফাইল সৃষ্টি কৰিব পাৰে৷ <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">আপুনি এটা পৰিচালিত একাউণ্টৰ জৰিয়তে ছাইন ইন কৰি আছে আৰু আপোনাৰ Fulldive প্ৰ’ফাইলৰ জৰিয়তে ইয়াৰ প্ৰশাসনিক নিয়ন্ত্ৰণ দি আছে। আপোনাৰ এপ্, বুকমার্ক, ইতিহাস, পাছৱর্ড আৰু অন্য ছেটিংসমূহৰ দৰে নিজৰ Fulldive ডেটা স্থায়ীভাৱে <ph name="USER_NAME"/>ৰ সৈতে সংযুক্ত হ’ব। আপুনি Fulldive একাউণ্ট ডেশ্বব’ৰ্ডৰ জৰিয়তে এই ডেটা মচিব পাৰিব কিন্তু আপুনি এই ডেটা অন্য একাউণ্টৰ সৈতে সংলগ্ন কৰিব নোৱাৰিব। <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">আপুনি কোনো পৰিচালিত একাউণ্টৰ জৰিয়তে ছাইন ইন কৰিছে আৰু কোনো প্ৰশাসকক আপোনাৰ Fulldive প্ৰ’ফাইলৰ নিয়ন্ত্ৰণ দিছে৷ আপোনাৰ এপ্, বুকমার্ক, ইতিহাস, পাছৱর্ড আৰু অন্য ছেটিংসমূহৰ দৰে নিজৰ Fulldive ডেটা স্থায়ীভাৱে <ph name="USER_NAME"/>ৰ সৈতে সংযুক্ত হ’ব৷ আপুনি Fulldive একাউণ্ট ডেশ্বব’ৰ্ডৰ জৰিয়তে এই ডেটা মচিব পাৰিব কিন্তু আপুনি এই ডেটা অন্য একাউণ্টৰ সৈতে সংলগ্ন কৰিব নোৱাৰিব৷ আপুনি নিজৰ পূর্বে থকা Fulldive ডেটা পৃথকে ৰাখিবলৈ ঐচ্ছিকভাৱে এটা নতুন প্ৰ’ফাইল সৃষ্টি কৰিব পাৰে৷ <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">আপোনাৰ ছিষ্টেমৰ প্ৰশাসকে <ph name="TARGET_URL_HOSTNAME"/> এক্সেছ কৰিবলৈ Fulldiveক এটা বিকল্প ব্ৰাউজাৰ খুলিবলৈ কনফিগাৰ কৰিছে।</translation>
 <translation id="5380963249588143069">আপোনাৰ ছিষ্টেমৰ প্ৰশাসকে Fulldiveক <ph name="TARGET_URL_HOSTNAME"/> এক্সেছ কৰিবলৈ <ph name="ALTERNATIVE_BROWSER_NAME"/> খুলিবলৈ কনফিগাৰ কৰিছে।</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/>এ আগতে Fulldive ব্যৱহাৰ কৰি আছিল</translation>
@@ -134,7 +134,7 @@ Fulldiveএ আপোনাৰ ছেটিংসমূহ পুনৰুদ্
 <translation id="239760341987199724">আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ হিচাপে Fulldiveক ছেট কৰক</translation>
 <translation id="669092380621816981">এই ডিভাইচটোৰ পৰা এই লোকজনৰ ব্ৰাউজিঙৰ ডেটা মচা যাব। ডেটা পুনৰুদ্ধাৰ কৰিবলৈ Fulldiveত <ph name="USER_EMAIL"/> হিচাপে ছাইন ইন কৰক।</translation>
 <translation id="2827121003398607864">Fulldive অধিক উৎকৃষ্ট হৈছে</translation>
-<translation id="7192666605334070839">বর্তমান আপোনাৰ Gab AI Inc একাউণ্টৰ জৰিয়তে আৰু শ্বেয়াৰ কৰা কম্পিউটাৰসমূহ সহজে Fulldive ব্যৱহাৰ কৰিব পৰা যায়।</translation>
+<translation id="7192666605334070839">বর্তমান আপোনাৰ Fulldive একাউণ্টৰ জৰিয়তে আৰু শ্বেয়াৰ কৰা কম্পিউটাৰসমূহ সহজে Fulldive ব্যৱহাৰ কৰিব পৰা যায়।</translation>
 <translation id="4100716194836114130">এইটো আপোনাৰ Fulldive</translation>
 <translation id="3511996232906761537">আপোনাৰ ৱেব, বুকমার্ক আৰু আন Fulldive বস্তুবোৰ ইয়াত থাকে।</translation>
 <translation id="7406627712452599344">অতিথিসকলে কোনো সুবিধা বাদ নিদিয়াকৈ Fulldive ব্যৱহাৰ কৰিব পাৰে।</translation>
@@ -149,9 +149,9 @@ Fulldiveএ আপোনাৰ ছেটিংসমূহ পুনৰুদ্
 <translation id="2871190378186459992">Fulldiveৰ বাবে উৎকৃষ্ট এপ্, গে’ম, এক্সটেনশ্বন আৰু থীমসমূহ বিচাৰক।</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">mDNS ট্ৰেফিকক অনুমতি দিবলৈ Fulldive অন্তৰ্গামী নিয়ম।</translation>
-<translation id="8207657266087451193">যদি কোনো প্ৰতিচ্ছবিত উপযোগী বিৱৰণ নাই তেন্তে Fulldiveএ আপোনাক সেয়া প্ৰদান কৰিবলৈ চেষ্টা কৰিব। বিৱৰণ সৃষ্টি কৰিবলৈ প্ৰতিচ্ছবি Gab AI Incলৈ প্ৰেৰণ কৰা হয়। আপুনি যিকোনো সময়তে ছেটিঙলৈ গৈ ইয়াক অফ কৰিব পাৰে।</translation>
-<translation id="5499063270485366718">যদি কোনো প্ৰতিচ্ছবিত উপযোগী বিৱৰণ নাই তেন্তে Fulldiveএ আপোনাক সেয়া প্ৰদান কৰিবলৈ চেষ্টা কৰিব। বিৱৰণ সৃষ্টি কৰিবলৈ প্ৰতিচ্ছবি Gab AI Incলৈ প্ৰেৰণ কৰা হয়।</translation>
-<translation id="215320507915280336">এইটোৱে Gab AI Inc Searchত ব্যৱহৃত একেটা বানান পৰীক্ষকেই ব্যৱহাৰ কৰে। আপুনি ব্ৰাউজাৰত টাইপ কৰা পাঠ Gab AI Incলৈ পঠিওৱা হয়। আপুনি ছেটিংসমূহ-ত যিকোনো সময়তে এই আচৰণটো সলনি কৰিব পাৰে।</translation>
+<translation id="8207657266087451193">যদি কোনো প্ৰতিচ্ছবিত উপযোগী বিৱৰণ নাই তেন্তে Fulldiveএ আপোনাক সেয়া প্ৰদান কৰিবলৈ চেষ্টা কৰিব। বিৱৰণ সৃষ্টি কৰিবলৈ প্ৰতিচ্ছবি Fulldiveলৈ প্ৰেৰণ কৰা হয়। আপুনি যিকোনো সময়তে ছেটিঙলৈ গৈ ইয়াক অফ কৰিব পাৰে।</translation>
+<translation id="5499063270485366718">যদি কোনো প্ৰতিচ্ছবিত উপযোগী বিৱৰণ নাই তেন্তে Fulldiveএ আপোনাক সেয়া প্ৰদান কৰিবলৈ চেষ্টা কৰিব। বিৱৰণ সৃষ্টি কৰিবলৈ প্ৰতিচ্ছবি Fulldiveলৈ প্ৰেৰণ কৰা হয়।</translation>
+<translation id="215320507915280336">এইটোৱে Fulldive Searchত ব্যৱহৃত একেটা বানান পৰীক্ষকেই ব্যৱহাৰ কৰে। আপুনি ব্ৰাউজাৰত টাইপ কৰা পাঠ Fulldiveলৈ পঠিওৱা হয়। আপুনি ছেটিংসমূহ-ত যিকোনো সময়তে এই আচৰণটো সলনি কৰিব পাৰে।</translation>
 <translation id="1807774211756215222">Fulldiveৰ নতুন &amp;টেবত লিংক খোলক</translation>
 <translation id="4624945300945265642">Fulldive ইন&amp;ক’গনিট’ ৱিণ্ড’ত লিংকটো খোলক</translation>
 <translation id="7863882214613921971">Fulldiveৰ &amp;নতুন টেবত লিংক খোলক</translation>
@@ -205,7 +205,7 @@ Fulldiveএ আপোনাৰ ছেটিংসমূহ পুনৰুদ্
 <translation id="7573289029918943991">আপোনাৰ ডিভাইচটো আপ-টু-ডে’ট হৈ আছেনে নাই সেয়া চাবলৈ <ph name="LINK_BEGIN"/>Fulldive OSৰ ছেটিংসমূহ<ph name="LINK_END"/>লৈ যাওক</translation>
 <translation id="3395323229510056640">Fulldive OSৰ ক্ষেত্ৰত সহায় লাভ কৰক</translation>
 <translation id="38898988211673781">আপুনি Fulldiveৰ পৰা বাহিৰ হোৱা সময়ত কুকীসমূহ আৰু ছাইট ডেটা মচক</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (Fulldiveলৈ প্ৰতিলিপি কৰা হ’ল)</translation>
+<translation id="5253815230176279256">Fulldive Pay (Fulldiveলৈ প্ৰতিলিপি কৰা হ’ল)</translation>
 <translation id="5468853758063275923">Fulldive হৈছে আপোনাৰ ডিফ’ল্ট ব্ৰাউজাৰ</translation>
 <translation id="1775322105159056176">Fulldiveএ ডিফ’ল্ট ব্ৰাউজাৰ নির্ধাৰণ বা ছেট কৰিব নোৱাৰে</translation>
 <translation id="6915252145142862992">এয়া Fulldiveৰ এক গৌণ ইনষ্টলেশ্বন আৰু ইয়াক আপোনাৰ ডিফ’ল্ট ব্ৰাউজাৰ কৰিব নোৱাৰি।</translation>
@@ -213,10 +213,10 @@ Fulldiveএ আপোনাৰ ছেটিংসমূহ পুনৰুদ্
     Fulldive ব্ৰাউজাৰৰ ছেটিংসমূহ<ph name="LINK_END"/>ত চাওক</translation>
 <translation id="5657226924540934362">এই পৃষ্ঠাখনত যদি কোনোটো ছেটিং দেখা পোৱা নাযায়, তেন্তে আপোনাৰ <ph name="LINK_BEGIN"/>
     Fulldive ব্ৰাউজাৰৰ ছেটিংসমূহ<ph name="LINK_END"/>ত চাওক</translation>
-<translation id="2312399718665761438">বানান শুদ্ধ কৰিবলৈ Fulldiveএ আপুনি পাঠ অন্তৰ্ভুক্ত কৰিবলৈ থকা ক্ষেত্ৰসমূহত টাইপ কৰা পাঠখিনি Gab AI Incলৈ পঠিয়ায়</translation>
+<translation id="2312399718665761438">বানান শুদ্ধ কৰিবলৈ Fulldiveএ আপুনি পাঠ অন্তৰ্ভুক্ত কৰিবলৈ থকা ক্ষেত্ৰসমূহত টাইপ কৰা পাঠখিনি Fulldiveলৈ পঠিয়ায়</translation>
 <translation id="8586264863973514035">আপুনি কৰা সলনি কার্যসমূহ প্ৰযোজ্য কৰিবলৈ Fulldive পুনৰ লঞ্চ কৰক</translation>
 <translation id="7021823858304886493">Fulldiveত ছাইন ইন কৰাৰ অনুমতি দিয়ক</translation>
-<translation id="1649714546770135458">আপুনি এইটো অফ কৰি বিভিন্ন Gab AI Inc ছাইট যেনে Gmailত Fulldiveত ছাইন ইন নকৰাকৈ ছাইন ইন কৰিব পাৰে</translation>
+<translation id="1649714546770135458">আপুনি এইটো অফ কৰি বিভিন্ন Fulldive ছাইট যেনে Gmailত Fulldiveত ছাইন ইন নকৰাকৈ ছাইন ইন কৰিব পাৰে</translation>
 <translation id="2796517443093885402">Fulldiveএ আপোনাক ডেটা উলংঘন, ক্ষতিকাৰক এক্সটেনশ্বন তথা আন বহুতৰ পৰা সুৰক্ষিত থকাত সহায় কৰিব পাৰে</translation>
 <translation id="428541510811554120">Fulldiveএ আপডে'টসমূহ পৰীক্ষা কৰিব নোৱাৰে। আপোনাৰ ইণ্টাৰনেট সংযোগ পৰীক্ষা কৰি চাওক।</translation>
 <translation id="2633397153656205379">Fulldive আপডে'ট হোৱা নাই, কিবা ভুল হৈছে। <ph name="BEGIN_LINK"/>Fulldiveৰ আপডে'ট সম্পর্কীয় সমস্যাবোৰ আৰু বিফল হোৱা আপডে'টসমূহ সমাধান কৰক।<ph name="END_LINK"/></translation>

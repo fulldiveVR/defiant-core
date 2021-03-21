@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Fulldive embléma</translation>
 <translation id="7339898014177206373">Új ablak</translation>
 <translation id="5516268345616100622">Feladatkezelő -- Fulldive</translation>
-<translation id="7918740962659365265">Segítse a Fulldive fejlesztését azáltal, hogy elküldi a Gab AI Inc-nak a következőket: hibajelentések és <ph name="UMA_LINK"/></translation>
+<translation id="7918740962659365265">Segítse a Fulldive fejlesztését azáltal, hogy elküldi a Fulldive-nak a következőket: hibajelentések és <ph name="UMA_LINK"/></translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> -- Fulldive</translation>
 <translation id="7830723774663008396">Fulldive – <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – Hálózati bejelentkezés – Fulldive</translation>
@@ -16,7 +16,7 @@
 <translation id="1403270718080126244"><ph name="PAGE_TITLE"/> – Fulldive Béta</translation>
 <translation id="3943696263619956191"><ph name="PAGE_TITLE"/> – Fulldive Dev</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – Fulldive Canary</translation>
-<translation id="8992261409816268381">Gab AI Inc</translation>
+<translation id="8992261409816268381">Fulldive</translation>
 <translation id="8121009781989288430">Copyright <ph name="YEAR"/> – A Fulldive szerzői. Minden jog fenntartva.</translation>
 <translation id="6368958679917195344">A Fulldive OS létrejöttéhez további <ph name="BEGIN_LINK_CROS_OSS"/>nyílt forráskódú szoftverek<ph name="END_LINK_CROS_OSS"/> is hozzájárultak.</translation>
 <translation id="1662639173275167396">A Fulldive OS létrejöttéhez egyéb <ph name="BEGIN_LINK_CROS_OSS"/>nyílt forráskódú szoftverek<ph name="END_LINK_CROS_OSS"/> is hozzájárultak, ahogyan a <ph name="BEGIN_LINK_LINUX_OSS"/>Linux (béta)<ph name="END_LINK_LINUX_OSS"/> létrejöttéhez is.</translation>
@@ -33,14 +33,14 @@
 <translation id="2585240446624043880">A Fulldive nem tudja olvasni és írni az adatkönyvtárát:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Opcionális: Segítsen a Fulldive fejlesztésében azáltal, hogy automatikusan elküldi a használati statisztikákat és hibajelentéseket a Gab AI Inc-nak.</translation>
+<translation id="8417700129970341035">Opcionális: Segítsen a Fulldive fejlesztésében azáltal, hogy automatikusan elküldi a használati statisztikákat és hibajelentéseket a Fulldive-nak.</translation>
 <translation id="1489465648257900784">A profilja nem használható, mert az a Fulldive egy újabb verziójából származik. Előfordulhat, hogy egyes funkciók nem érhetők el. Kérjük, adjon meg egy másik profilmappát, vagy használja a Fulldive újabb verzióját.</translation>
 <translation id="1065672644894730302">A beállításait nem sikerült olvasni. Egyes funkciókat esetleg nem ér el, és a beállításaiban végrehajtott módosításokat nem menti a rendszer.</translation>
 <translation id="3403365884036456766">A beállításait tartalmazó fájl hibás vagy érvénytelen.
 
 A Fulldive nem tudja visszaállítani a beállításait.</translation>
 <translation id="1477146545787277177">Ó! A Fulldive összeomlott. Újraindítja most?</translation>
-<translation id="5785919770853225148">A Fulldive ezt a jelszót Gab AI Inc-fiókjába menti. Nem kell megjegyeznie.</translation>
+<translation id="5785919770853225148">A Fulldive ezt a jelszót Fulldive-fiókjába menti. Nem kell megjegyeznie.</translation>
 <translation id="8211837073776713955">A Fulldive tájékoztatja arról, ha jelszavai illetéktelen kezekbe kerülnek</translation>
 <translation id="113959764510199339">A Fulldive megpróbálja megjeleníteni a jelszavakat.</translation>
 <translation id="96347285368592620">A Fulldive megpróbálkozik a jelszavak másolásával.</translation>
@@ -81,7 +81,7 @@ A Fulldive nem tudja visszaállítani a beállításait.</translation>
 <translation id="9183662282810237335">Biztosan kilép a Fulldiveból?</translation>
 <translation id="3834935463915107022">Biztosan kilép a Fulldiveból?</translation>
 <translation id="8797356639448065696">A Fulldive háttérmódban van.</translation>
-<translation id="2339258256897053758">Hiányoznak Gab AI Inc API-kulcsok. A Fulldive egyes funkciói kikapcsolnak.</translation>
+<translation id="2339258256897053758">Hiányoznak Fulldive API-kulcsok. A Fulldive egyes funkciói kikapcsolnak.</translation>
 <translation id="7861579472672677409">A(z) <ph name="EXTENSION_NAME"/> hozzá lett adva a Fulldivehoz</translation>
 <translation id="8516116288943000095">Az adatokat is törölje a Fulldiveból (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Elrejtés a Fulldive-menüben</translation>
@@ -105,8 +105,8 @@ A Fulldive nem tudja visszaállítani a beállításait.</translation>
 <translation id="2925193881330501265"><ph name="USER_EMAIL_ADDRESS"/> néven volt bejelentkezve a Fulldiveba. Kérjük, ugyanazzal a fiókkal jelentkezzen be újra.</translation>
 <translation id="847561904663814268">Valaki korábban <ph name="ACCOUNT_EMAIL_LAST"/> néven bejelentkezett a Fulldiveba erről a számítógépről. Az adatai elkülönítéséhez hozzon létre új Fulldive-felhasználót.</translation>
 <translation id="1853997773668795891">Társítja Fulldive-adatait ezzel a fiókkal?</translation>
-<translation id="1326766910007115955">Kezelt fiókkal jelentkezik be, és annak adminisztrátora számára hozzáférést biztosít Fulldive-profiljához. Fulldive-adatait – például alkalmazásait, könyvjelzőit, előzményeit, jelszavait és más beállításait – a rendszer véglegesen társítja a(z) <ph name="USER_NAME"/> fiókhoz. Ezen adatokat a Gab AI Inc-fiók Irányítópultján törölheti, de más fiókhoz nem társíthatja őket. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Kezelt fiókkal jelentkezik be, és annak adminisztrátora számára hozzáférést biztosít Fulldive-profiljához. Fulldive-adatait – például alkalmazásait, könyvjelzőit, előzményeit, jelszavait és más beállításait – a rendszer véglegesen társítja a(z) <ph name="USER_NAME"/> fiókhoz. Ezen adatokat a Gab AI Inc-fiók Irányítópultján törölheti, de más fiókhoz nem társíthatja őket. Létrehozhat egy új profilt is meglévő Fulldive-adatainak elkülönített tárolásához. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Kezelt fiókkal jelentkezik be, és annak adminisztrátora számára hozzáférést biztosít Fulldive-profiljához. Fulldive-adatait – például alkalmazásait, könyvjelzőit, előzményeit, jelszavait és más beállításait – a rendszer véglegesen társítja a(z) <ph name="USER_NAME"/> fiókhoz. Ezen adatokat a Fulldive-fiók Irányítópultján törölheti, de más fiókhoz nem társíthatja őket. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Kezelt fiókkal jelentkezik be, és annak adminisztrátora számára hozzáférést biztosít Fulldive-profiljához. Fulldive-adatait – például alkalmazásait, könyvjelzőit, előzményeit, jelszavait és más beállításait – a rendszer véglegesen társítja a(z) <ph name="USER_NAME"/> fiókhoz. Ezen adatokat a Fulldive-fiók Irányítópultján törölheti, de más fiókhoz nem társíthatja őket. Létrehozhat egy új profilt is meglévő Fulldive-adatainak elkülönített tárolásához. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Rendszergazdája úgy állította be a Fulldiveot, hogy másik böngészőt nyisson meg a(z) <ph name="TARGET_URL_HOSTNAME"/> eléréséhez.</translation>
 <translation id="5380963249588143069">Rendszergazdája úgy állította be a Fulldiveot, hogy a(z) <ph name="ALTERNATIVE_BROWSER_NAME"/> böngészőt nyissa meg a(z) <ph name="TARGET_URL_HOSTNAME"/> eléréséhez.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> előzőleg Fulldiveot használt</translation>
@@ -130,7 +130,7 @@ A Fulldive nem tudja visszaállítani a beállításait.</translation>
 <translation id="239760341987199724">A Fulldive beállítása alapértelmezett böngészőként</translation>
 <translation id="669092380621816981">A személy böngészési adatai törlődnek az eszközről. Az adatok visszaállításához jelentkezzen be a Fulldiveba a következő felhasználóként: <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">A Fulldive még jobb lett</translation>
-<translation id="7192666605334070839">Gab AI Inc-fiókjával most még egyszerűbben használhatja a Fulldiveot közösen használt számítógépeken.</translation>
+<translation id="7192666605334070839">Fulldive-fiókjával most még egyszerűbben használhatja a Fulldiveot közösen használt számítógépeken.</translation>
 <translation id="4100716194836114130">Ez az Ön Fulldiveja</translation>
 <translation id="3511996232906761537">Az Ön könyvjelzői, valamint az internetezéssel és a Fulldivemal kapcsolatos egyéb dolgai vannak itt.</translation>
 <translation id="7406627712452599344">A vendégek úgy használhatják a Fulldiveot, hogy nem hagynak hátra semmit.</translation>
@@ -145,9 +145,9 @@ A Fulldive nem tudja visszaállítani a beállításait.</translation>
 <translation id="2871190378186459992">Fedezzen fel nagyszerű alkalmazásokat, játékokat, bővítményeket és témákat a Fulldivehoz.</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">Bejövő szabály a Fulldivehoz az mDNS forgalom engedélyezése céljából.</translation>
-<translation id="8207657266087451193">Ha valamelyik kép nem rendelkezik hasznos leírással, akkor a Fulldive igyekszik leírást adni róla. A Gab AI Inc automatikusan megkapja a leírások létrehozásához szükséges képeket. A funkciót a beállítások között bármikor kikapcsolhatja.</translation>
-<translation id="5499063270485366718">Ha valamelyik kép nem rendelkezik hasznos leírással, akkor a Fulldive igyekszik leírást adni róla. A Gab AI Inc automatikusan megkapja a leírások létrehozásához szükséges képeket.</translation>
-<translation id="215320507915280336">A szolgáltatás ugyanazt a helyesírás-ellenőrzést használja, mint a Gab AI Inc Keresés. A begépelt szöveget a böngésző elküldi a Gab AI Inc-nak. A beállítások között ezt bármikor módosíthatja.</translation>
+<translation id="8207657266087451193">Ha valamelyik kép nem rendelkezik hasznos leírással, akkor a Fulldive igyekszik leírást adni róla. A Fulldive automatikusan megkapja a leírások létrehozásához szükséges képeket. A funkciót a beállítások között bármikor kikapcsolhatja.</translation>
+<translation id="5499063270485366718">Ha valamelyik kép nem rendelkezik hasznos leírással, akkor a Fulldive igyekszik leírást adni róla. A Fulldive automatikusan megkapja a leírások létrehozásához szükséges képeket.</translation>
+<translation id="215320507915280336">A szolgáltatás ugyanazt a helyesírás-ellenőrzést használja, mint a Fulldive Keresés. A begépelt szöveget a böngésző elküldi a Fulldive-nak. A beállítások között ezt bármikor módosíthatja.</translation>
 <translation id="1807774211756215222">Link megnyi&amp;tása új Fulldive-lapon</translation>
 <translation id="4624945300945265642">Link megnyitása Fulldive-inko&amp;gnitóablakban</translation>
 <translation id="7863882214613921971">Link megnyi&amp;tása új Fulldive-lapon</translation>
@@ -201,16 +201,16 @@ A Fulldive nem tudja visszaállítani a beállításait.</translation>
 <translation id="7573289029918943991">Ha szeretné megtekinteni, hogy eszköze naprakész-e, lépjen a <ph name="LINK_BEGIN"/>Fulldive OS beállításaihoz<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Segítség a Fulldive OS használatával kapcsolatban</translation>
 <translation id="38898988211673781">A cookie-k és webhelyadatok törlése a Fulldive bezárásakor</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (a Fulldiveba másolva)</translation>
+<translation id="5253815230176279256">Fulldive Pay (a Fulldiveba másolva)</translation>
 <translation id="5468853758063275923">A Fulldive az alapértelmezett böngésző</translation>
 <translation id="1775322105159056176">A Fulldive problémába ütközött az alapértelmezett böngésző megállapításakor vagy beállításakor</translation>
 <translation id="6915252145142862992">Ez a Fulldive második telepítése, amelyet nem állíthat be az alapértelmezett böngészővé.</translation>
 <translation id="6235873178214143377">Ha valamelyik beállítás nem látható ezen az oldalon, keresse a <ph name="LINK_BEGIN"/>Fulldive böngésző beállításai<ph name="LINK_END"/> között</translation>
 <translation id="5657226924540934362">Ha valamelyik beállítás nem látható ezen az oldalon, keresse a <ph name="LINK_BEGIN"/>Fulldive OS beállításai<ph name="LINK_END"/> között</translation>
-<translation id="2312399718665761438">A nyelvtani hibák javítása érdekében a Fulldive elküldi a szövegmezőkbe gépelt szöveget a Gab AI Inc-nak</translation>
+<translation id="2312399718665761438">A nyelvtani hibák javítása érdekében a Fulldive elküldi a szövegmezőkbe gépelt szöveget a Fulldive-nak</translation>
 <translation id="8586264863973514035">A módosítások alkalmazásához indítsa újra a Fulldiveot</translation>
 <translation id="7021823858304886493">Fulldive-bejelentkezés engedélyezése</translation>
-<translation id="1649714546770135458">A beállítás kikapcsolásával anélkül jelentkezhet be a Gab AI Inc-webhelyekre (pl. Gmail), hogy a Fulldiveba is bejelentkezne</translation>
+<translation id="1649714546770135458">A beállítás kikapcsolásával anélkül jelentkezhet be a Fulldive-webhelyekre (pl. Gmail), hogy a Fulldiveba is bejelentkezne</translation>
 <translation id="2796517443093885402">A Fulldive segíthet az adatvédelmi incidensek, nem biztonságos bővítmények és egyebek elleni védekezésben</translation>
 <translation id="428541510811554120">A Fulldive nem tud frissítéseket keresni. Ellenőrizze az internetkapcsolatot.</translation>
 <translation id="2633397153656205379">Ismeretlen hiba történt, ezért a Fulldive nem frissült. <ph name="BEGIN_LINK"/>A Fulldive frissítési problémáinak megoldása.<ph name="END_LINK"/></translation>

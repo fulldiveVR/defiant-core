@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">Netika atrasts neviens meklēšanas rezultāts.</translation>
 <translation id="8967866634928501045">Lai skatītu saturu, nospiediet Alt+Shift+A.</translation>
 <translation id="998747458861718449">Pārbaudīt</translation>
-<translation id="4428301600092811022">Vai vēlaties iegūt attēlu aprakstus no Gab AI Inc?</translation>
+<translation id="4428301600092811022">Vai vēlaties iegūt attēlu aprakstus no Fulldive?</translation>
 <translation id="741204030948306876">Jā, piekrītu</translation>
 <translation id="780301667611848630">Nē, paldies</translation>
 <translation id="3943582379552582368">Atpakaļ</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">&amp;Ielīmēt</translation>
 <translation id="2218515861914035131">Ielīmēt kā vienkāršu tekstu</translation>
 <translation id="1017280919048282932">&amp;Pievienot vārdnīcai</translation>
-<translation id="1732768497619250086">Iegūt attēlu aprakstus no Gab AI Inc</translation>
+<translation id="1732768497619250086">Iegūt attēlu aprakstus no Fulldive</translation>
 <translation id="7561196759112975576">Vienmēr</translation>
 <translation id="2241634353105152135">Tikai vienreiz</translation>
 <translation id="3387614642886316601">Izmantot uzlaboto pareizrakstības pārbaudi</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">Ieslēgt</translation>
 <translation id="7658239707568436148">Atcelt</translation>
 <translation id="8915370057835397490">Notiek ieteikumu ielāde...</translation>
-<translation id="6191804255817539692">Vairāk ieteikumu no Gab AI Inc nav pieejams</translation>
+<translation id="6191804255817539692">Vairāk ieteikumu no Fulldive nav pieejams</translation>
 <translation id="1901303067676059328">Izvēlēties visus</translation>
 <translation id="3797900183766075808">&amp;Meklēt “<ph name="SEARCH_TERMS"/>” meklētājprogrammā <ph name="SEARCH_ENGINE"/></translation>
 <translation id="2721037002783622288">Meklēt attēlu <ph name="SEARCH_ENGINE"/> tīklā</translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">&amp;Ielīmēt</translation>
 <translation id="1815083418640426271">Ielīmēt kā vienkāršu tekstu</translation>
 <translation id="4022426551683927403">Pievienot vārdnīc&amp;ai</translation>
-<translation id="6849870115130610913">Iegūt attēlu aprakstus no Gab AI Inc</translation>
+<translation id="6849870115130610913">Iegūt attēlu aprakstus no Fulldive</translation>
 <translation id="372722114124766626">Tikai vienreiz</translation>
 <translation id="4079140982534148664">Izmantot uzlaboto pareizrakstības pārbaudi</translation>
 <translation id="7487141338393529395">Uzlabotās pareizrakstības pārbaudes ieslēgšana</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/> ietver sensitīvu saturu.</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/> ietver sensitīvu saturu un tika bloķēts.</translation>
 <translation id="6651823585377804376">Lejupielādētajos failos ir ļaunprātīga programmatūra.</translation>
-<translation id="6529597483902964581">Fails <ph name="FILE_NAME"/>, iespējams, ir bīstams. Vai nosūtīt to pārbaudīšanai Gab AI Inc papildu aizsardzības programmā?</translation>
+<translation id="6529597483902964581">Fails <ph name="FILE_NAME"/>, iespējams, ir bīstams. Vai nosūtīt to pārbaudīšanai Fulldive papildu aizsardzības programmā?</translation>
 <translation id="4907161631261076876">Šis fails parasti netiek lejupielādēts un var būt bīstams.</translation>
 <translation id="6102043788063419338">Šis fails tika bloķēts ar papildu aizsardzības funkcijām.</translation>
 <translation id="2773802008104670137">Šāda veida faili var kaitēt datoram.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Lejupielāde atcelta: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Lejupielāde pabeigta: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Lejupielāde ir pabeigta: <ph name="FILE_NAME"/>. Nospiediet taustiņus Shift+F6, lai pārslēgtos uz lejupielāžu joslas zonu.</translation>
-<translation id="7033965027041115562">Fails “<ph name="FILE_NAME"/>”, iespējams, ir bīstams. Vai nosūtīt to pārbaudīšanai Gab AI Inc papildu aizsardzības programmā? Lai pārslēgtos uz lejupielāžu joslas zonu, nospiediet taustiņu kombināciju Shift+F6.</translation>
+<translation id="7033965027041115562">Fails “<ph name="FILE_NAME"/>”, iespējams, ir bīstams. Vai nosūtīt to pārbaudīšanai Fulldive papildu aizsardzības programmā? Lai pārslēgtos uz lejupielāžu joslas zonu, nospiediet taustiņu kombināciju Shift+F6.</translation>
 <translation id="2743387203779672305">Kopēt starpliktuvē</translation>
 <translation id="883911313571074303">Anotēt attēlu</translation>
 <translation id="6291953229176937411">Rādīt lietojumprogrammā &amp;Finder</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">Iziet</translation>
 <translation id="7376221878517288144">Vai tik un tā aizvērt inkognito režīmu?</translation>
 <translation id="973473557718930265">Iziet</translation>
-<translation id="7707599169365957976">Varat palīdzēt uzlabot Drošo pārlūkošanu, nosūtot noteiktu sistēmas informāciju un lapas saturu Gab AI Inc serveriem.</translation>
+<translation id="7707599169365957976">Varat palīdzēt uzlabot Drošo pārlūkošanu, nosūtot noteiktu sistēmas informāciju un lapas saturu Fulldive serveriem.</translation>
 <translation id="4923279099980110923">Jā, es vēlos palīdzēt</translation>
 <translation id="2316129865977710310">Nē, paldies</translation>
 <translation id="9169931577761441333">Pievienot lietotni <ph name="APP_NAME"/> sākuma ekrānam</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">Instalēts motīvs “<ph name="THEME_NAME"/>”</translation>
 <translation id="2256115617011615191">Restartēt tūlīt</translation>
 <translation id="4545028762441890696">Lai to atkārtoti iespējotu, piekrītiet jaunajām atļaujām:</translation>
-<translation id="3009487527589249344">Gab AI Inc atzīmēja paplašinājumu <ph name="EXTENSION_NAME"/> kā ļaunprātīgu un nepieļāva instalēšanu.</translation>
+<translation id="3009487527589249344">Fulldive atzīmēja paplašinājumu <ph name="EXTENSION_NAME"/> kā ļaunprātīgu un nepieļāva instalēšanu.</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> tika pievienots attāli</translation>
 <translation id="1841705068325380214">“<ph name="EXTENSION_NAME"/>” ir atspējots</translation>
 <translation id="595959584676692139">Lai izmantotu šo paplašinājumu, atkārtoti ielādējiet lapu</translation>
@@ -969,7 +969,7 @@
 <translation id="3584169441612580296">Lasīt fotoattēus, mūziku un citu datorā esošu multivides saturu un mainīt to</translation>
 <translation id="5457459357461771897">Lasīt un dzēst fotoattēlus, mūziku un citu datorā esošu multivides saturu</translation>
 <translation id="3270965368676314374">Lasīt, mainīt un dzēst fotoattēlus, mūziku un citu datorā esošu multivides saturu</translation>
-<translation id="1285484354230578868">Saglabāt datus jūsu Gab AI Inc diska kontā</translation>
+<translation id="1285484354230578868">Saglabāt datus jūsu Fulldive diska kontā</translation>
 <translation id="378312418865624974">Lasīt unikālu šī datora identifikatoru</translation>
 <translation id="5094721898978802975">Sazināties ar iebūvētām lietojumprogrammām, kas sadarbojas</translation>
 <translation id="4876895919560854374">Bloķēt un atbloķēt ekrānu</translation>
@@ -1180,7 +1180,7 @@ Glabājiet atslēgas failu drošā vietā. Tas būs vajadzīgs, lai izveidotu ja
 <translation id="8756969031206844760">Vai atjaunināt paroli?</translation>
 <translation id="8230134520748321204">Vai saglabāt paroli vietnei <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">Vai atjaunināt paroli vietnei <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Paroles tiek saglabātas jūsu Gab AI Inc kontā, lai jūs tās varētu izmantot jebkurā ierīcē.</translation>
+<translation id="8284000761603848448">Paroles tiek saglabātas jūsu Fulldive kontā, lai jūs tās varētu izmantot jebkurā ierīcē.</translation>
 <translation id="8286036467436129157">Pierakstīties</translation>
 <translation id="8009225694047762179">Pārvaldīt paroles</translation>
 <translation id="3950820424414687140">Pierakstīties</translation>
@@ -1188,10 +1188,10 @@ Glabājiet atslēgas failu drošā vietā. Tas būs vajadzīgs, lai izveidotu ja
 <translation id="328571385944182268">Vai saglabāt jūsu paroles?</translation>
 <translation id="3753033997400164841">Saglabājiet vienreiz, izmantojiet it visur</translation>
 <translation id="1703331064825191675">Nekad neraizējieties par parolēm</translation>
-<translation id="2341030170677284705">Droši saglabājiet paroles Gab AI Inc kontā, lai vairs nebūtu tās jāraksta</translation>
-<translation id="3913985461352963178">Piekļūstiet savām parolēm, kad vien esat pierakstījies Gab AI Inc kontā</translation>
-<translation id="4851124464356820177">Lai saglabātu paroles savā Gab AI Inc kontā, pierakstieties un ieslēdziet sinhronizāciju.</translation>
-<translation id="3229869963989850535">Lai saglabātu paroles savā Gab AI Inc kontā, ieslēdziet sinhronizāciju.</translation>
+<translation id="2341030170677284705">Droši saglabājiet paroles Fulldive kontā, lai vairs nebūtu tās jāraksta</translation>
+<translation id="3913985461352963178">Piekļūstiet savām parolēm, kad vien esat pierakstījies Fulldive kontā</translation>
+<translation id="4851124464356820177">Lai saglabātu paroles savā Fulldive kontā, pierakstieties un ieslēdziet sinhronizāciju.</translation>
+<translation id="3229869963989850535">Lai saglabātu paroles savā Fulldive kontā, ieslēdziet sinhronizāciju.</translation>
 <translation id="1056466516655540509">Atjaunināta pirms <ph name="MINUTES"/> min</translation>
 <translation id="8743864605301774756">Atjaunināta pirms 1 h</translation>
 <translation id="7363117941401515667">Atjaunināta pirms <ph name="HOURS"/> h</translation>
@@ -1295,9 +1295,9 @@ Glabājiet atslēgas failu drošā vietā. Tas būs vajadzīgs, lai izveidotu ja
 <translation id="1246905108078336582">Vai noņemt ieteikumu no starpliktuves?</translation>
 <translation id="825238165904109940">Vienmēr rādīt visus vietrāžus URL</translation>
 <translation id="3416468988018290825">Vienmēr rādīt visus vietrāžus URL</translation>
-<translation id="2129873093718581193">Meklējiet Gab AI Inc tīklā vai ierakstiet vietrādi URL</translation>
-<translation id="6363797201514053536">Meklēt Gab AI Inc tīklā vai ievadīt URL</translation>
-<translation id="4888839742663123585">Meklēt Gab AI Inc tīklā</translation>
+<translation id="2129873093718581193">Meklējiet Fulldive tīklā vai ierakstiet vietrādi URL</translation>
+<translation id="6363797201514053536">Meklēt Fulldive tīklā vai ievadīt URL</translation>
+<translation id="4888839742663123585">Meklēt Fulldive tīklā</translation>
 <translation id="6078323886959318429">Pievienot saīsni</translation>
 <translation id="6324916366299863871">Saīsnes rediģēšana</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1481,35 +1481,35 @@ Glabājiet atslēgas failu drošā vietā. Tas būs vajadzīgs, lai izveidotu ja
 <translation id="6798578729981748444">Lai pabeigtu importēšanu, aizveriet visus Firefox logus.</translation>
 <translation id="6374469231428023295">Mēģināt vēlreiz</translation>
 <translation id="8725066075913043281">Mēģiniet vēlreiz</translation>
-<translation id="4196805003686694274">Atsauksmju sūtīšana uzņēmumam Gab AI Inc</translation>
+<translation id="4196805003686694274">Atsauksmju sūtīšana uzņēmumam Fulldive</translation>
 <translation id="3424969259347320884">Norādiet, ko darījāt, kad cilne avarēja</translation>
-<translation id="1892630320532151038">Atsauksmju sūtīšana uzņēmumam Gab AI Inc</translation>
+<translation id="1892630320532151038">Atsauksmju sūtīšana uzņēmumam Fulldive</translation>
 <translation id="2428510569851653187">Norādiet, ko darījāt, kad cilne avarēja</translation>
 <translation id="5659593005791499971">E-pasts</translation>
 <translation id="2982970937345031">Ziņot anonīmi</translation>
 <translation id="6076448957780543068">Ietvert šo ekrānuzņēmumu</translation>
 <translation id="2865919525181940183">Ekrānā pašlaik redzamo programmu ekrānuzņēmums</translation>
 <translation id="7052237160939977163">Sūtīt veiktspējas izsekošanas datus</translation>
-<translation id="5526928694260255286">Pievienot <ph name="BEGIN_LINK"/>Bluetooth žurnālus<ph name="END_LINK"/> (tikai Gab AI Inc darbiniekiem)</translation>
+<translation id="5526928694260255286">Pievienot <ph name="BEGIN_LINK"/>Bluetooth žurnālus<ph name="END_LINK"/> (tikai Fulldive darbiniekiem)</translation>
 <translation id="3047644958362961983">Šī informācija palīdz mums labāk izprast jūsu problēmu ar Asistentu. Tā tiek glabāta līdz 90 dienām, un piekļuve ir pieejama tikai attiecīgajām inženieru un atsauksmju komandām.</translation>
-<translation id="8545590844135745781">Lai precīzāk noteiktu problēmas ar Bluetooth savienojumu, Gab AI Inc darbinieki atsauksmju ziņojumam var pievienot papildu Bluetooth žurnālus. Ja šī opcija ir atzīmēta, ziņojumā būs iekļauti pašreizējās sesijas btsnoop un HCI žurnāli, kuros maksimāli noņemta personu identificējoša informācija. Šiem žurnāliem varēs piekļūt tikai Fulldive OS produktu grupas pārvaldnieki ierīcē Listnr. Žurnāli tiks dzēsti pēc 90 dienām.</translation>
+<translation id="8545590844135745781">Lai precīzāk noteiktu problēmas ar Bluetooth savienojumu, Fulldive darbinieki atsauksmju ziņojumam var pievienot papildu Bluetooth žurnālus. Ja šī opcija ir atzīmēta, ziņojumā būs iekļauti pašreizējās sesijas btsnoop un HCI žurnāli, kuros maksimāli noņemta personu identificējoša informācija. Šiem žurnāliem varēs piekļūt tikai Fulldive OS produktu grupas pārvaldnieki ierīcē Listnr. Žurnāli tiks dzēsti pēc 90 dienām.</translation>
 <translation id="4206323443866416204">Atsauksmju ziņojums</translation>
 <translation id="3681311097828166361">Paldies par atsauksmēm! Pašlaik esat bezsaistē, un jūsu ziņojums tiks nosūtīts vēlāk.</translation>
 <translation id="8713570323158206935">Sūtīt <ph name="BEGIN_LINK1"/>sistēmas informāciju<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962">Sūtīt <ph name="BEGIN_LINK1"/>sistēmas informāciju<ph name="END_LINK1"/> un <ph name="BEGIN_LINK2"/>datus<ph name="END_LINK2"/></translation>
 <translation id="6270770586500173387">Sūtīt <ph name="BEGIN_LINK1"/>sistēmas un lietotņu informāciju<ph name="END_LINK1"/> un <ph name="BEGIN_LINK2"/>metriku<ph name="END_LINK2"/></translation>
 <translation id="3894123633473837029">Iekļaujiet neseno Asistenta vēsturi, izmantojot Sherlog. Šie dati var ietvert Jūsu identitātes, atrašanās vietas un atkļūdošanas informāciju. <ph name="BEGIN_LINK"/> Learn more <ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">Fails tiks nosūtīts Gab AI Inc serveriem atkļūdošanai</translation>
+<translation id="8329196515830093443">Fails tiks nosūtīts Fulldive serveriem atkļūdošanai</translation>
 <translation id="8227119283605456246">Pievienot failu</translation>
 <translation id="5367091008316207019">Notiek faila lasīšana...</translation>
 <translation id="2554553592469060349">Atlasītais fails ir pārāk liels (maksimālais lielums: 3 MB).</translation>
 <translation id="4690091457710545971">&lt;Četri Intel Wi-Fi aparātprogrammatūras ģenerēti faili: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon. Pirmie trīs ir binārie faili, kas ietver reģistra izmetes; Intel apliecina, ka tie neietver personas informāciju vai ierīci identificējošu informāciju. Pēdējais fails ir Intel programmaparatūras izpildes trasējums; no tā ir noņemta personas informācija un ierīci identificējoša informācija, taču to nevar parādīt šeit, jo fails ir pārāk liels. Šie faili tika ģenerēti, reaģējot uz nesenām Wi-Fi problēmām jūsu ierīcē, un tie tiks kopīgoti ar Intel, lai palīdzētu novērst šīs problēmas.&gt;</translation>
-<translation id="6972420083546794501">Lai pieprasītu satura izmaiņas juridisku iemeslu dēļ, dodieties uz <ph name="BEGIN_LINK1"/>juridiskās palīdzības lapu<ph name="END_LINK1"/>. Uzņēmumam Gab AI Inc var tikt nosūtīta noteikta informācija par kontu un sistēmu. Informācija, ko jūs sniedzat mums, lai palīdzētu novērst tehniskas problēmas un uzlabotu mūsu pakalpojumus, tiks izmantota saskaņā ar <ph name="BEGIN_LINK2"/>konfidencialitātes politiku<ph name="END_LINK2"/> un <ph name="BEGIN_LINK3"/>pakalpojumu sniegšanas noteikumiem<ph name="END_LINK3"/>.</translation>
+<translation id="6972420083546794501">Lai pieprasītu satura izmaiņas juridisku iemeslu dēļ, dodieties uz <ph name="BEGIN_LINK1"/>juridiskās palīdzības lapu<ph name="END_LINK1"/>. Uzņēmumam Fulldive var tikt nosūtīta noteikta informācija par kontu un sistēmu. Informācija, ko jūs sniedzat mums, lai palīdzētu novērst tehniskas problēmas un uzlabotu mūsu pakalpojumus, tiks izmantota saskaņā ar <ph name="BEGIN_LINK2"/>konfidencialitātes politiku<ph name="END_LINK2"/> un <ph name="BEGIN_LINK3"/>pakalpojumu sniegšanas noteikumiem<ph name="END_LINK3"/>.</translation>
 <translation id="7915471803647590281">Pirms atsauksmes nosūtīšanas lūdzam jūs pastāstīt, kas notiek.</translation>
 <translation id="6885771755599377173">Sistēmas informācijas priekšskatījums</translation>
 <translation id="1016566241875885511">Papildu informācija (neobligāti)</translation>
 <translation id="8026334261755873520">Notīrīt pārlūkošanas datus</translation>
-<translation id="4718442817388594217">Atlasītie dati ir noņemti no pārlūka Fulldive un sinhronizētajām ierīcēm. Jūsu Gab AI Inc kontam vietnē <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> var būt cita veida pārlūkošanas vēstures dati, piemēram, meklēšanas vaicājumi un darbības citos Gab AI Inc pakalpojumos.</translation>
+<translation id="4718442817388594217">Atlasītie dati ir noņemti no pārlūka Fulldive un sinhronizētajām ierīcēm. Jūsu Fulldive kontam vietnē <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> var būt cita veida pārlūkošanas vēstures dati, piemēram, meklēšanas vaicājumi un darbības citos Fulldive pakalpojumos.</translation>
 <translation id="7814200940910057384">Fulldive dati tika notīrīti</translation>
 <translation id="7346909386216857016">Labi, sapratu</translation>
 <translation id="8493236660459102203">Mikrofons:</translation>
@@ -1532,7 +1532,7 @@ Glabājiet atslēgas failu drošā vietā. Tas būs vajadzīgs, lai izveidotu ja
 <translation id="284805635805850872">Vai noņemt kaitīgo programmatūru?</translation>
 <translation id="489985760463306091">Lai pabeigtu kaitīgās programmatūras noņemšanu, restartējiet datoru.</translation>
 <translation id="7598466960084663009">Restartēt datoru</translation>
-<translation id="2819091349626575960">Nosūtīt informāciju uzņēmumam Gab AI Inc</translation>
+<translation id="2819091349626575960">Nosūtīt informāciju uzņēmumam Fulldive</translation>
 <translation id="4099060993766194518">Vai atjaunot noklusējuma meklētājprogrammu?</translation>
 <translation id="138784436342154190">Vai atjaunot noklusējuma sākumlapu?</translation>
 <translation id="5086874064903147617">Vai atjaunot noklusējuma sākumlapu?</translation>
@@ -1642,10 +1642,10 @@ Glabājiet atslēgas failu drošā vietā. Tas būs vajadzīgs, lai izveidotu ja
 <translation id="3693415264595406141">Parole:</translation>
 <translation id="9111102763498581341">Atbloķēt</translation>
 <translation id="2190355936436201913">(tukšs)</translation>
-<translation id="9079153198295609735">Automātiski sūtīt lietošanas statistiku un avāriju pārskatus uzņēmumam Gab AI Inc</translation>
+<translation id="9079153198295609735">Automātiski sūtīt lietošanas statistiku un avāriju pārskatus uzņēmumam Fulldive</translation>
 <translation id="7136984461011502314">Laipni lūdzam programmā <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> var pabeigt instalēšanu</translation>
-<translation id="4711067597921221305">Palīdziet uzlabot programmu <ph name="PRODUCT_NAME"/>, automātiski nosūtot lietošanas statistiku un avārijas pārskatus uzņēmumam Gab AI Inc</translation>
+<translation id="4711067597921221305">Palīdziet uzlabot programmu <ph name="PRODUCT_NAME"/>, automātiski nosūtot lietošanas statistiku un avārijas pārskatus uzņēmumam Fulldive</translation>
 <translation id="5972826969634861500">Sākt <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Palīdziet mūsu inženieriem izpētīt un novērst šo avāriju. Ja varat, norādiet konkrētas darbības (jo detalizētāk, jo labāk).</translation>
 <translation id="5418694430960033386">Vai nu Fulldive trūkst atmiņas resursu, vai arī tīmekļa lapas darbība tika pārtraukta kāda cita iemesla dēļ. Lai turpinātu, atkārtoti ielādējiet šo lapu vai atveriet citu.</translation>
@@ -1658,7 +1658,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Platforma</translation>
 <translation id="7022562585984256452">Jūsu sākumlapa ir iestatīta.</translation>
-<translation id="8069615408251337349">Gab AI Inc mākoņdruka</translation>
+<translation id="8069615408251337349">Fulldive mākoņdruka</translation>
 <translation id="4973307593867026061">Pievienot printerus</translation>
 <translation id="9052208328806230490">Jūs esat reģistrējis savus printerus ar nosaukumu <ph name="CLOUD_PRINT_NAME"/>, izmantojot kontu <ph name="EMAIL"/></translation>
 <translation id="3792890930871100565">Atvienot printerus</translation>
@@ -1692,7 +1692,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="7063129466199351735">Notiek saīšņu apstrāde...</translation>
 <translation id="8987927404178983737">Mēnesis</translation>
 <translation id="6015796118275082299">Gads</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Izmantot sistēmas virsrakstjoslu un apmales</translation>
 <translation id="3293644607209440645">Sūtīt šo lapu</translation>
 <translation id="1521774566618522728">Aktīvs šodien</translation>
@@ -1746,7 +1746,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="8930351635855238750">Jaunie sīkfailu iestatījumi stāsies spēkā pēc lapas atkārtotas ielādes.</translation>
 <translation id="2568774940984945469">Informācijas joslas konteiners</translation>
 <translation id="7282992757463864530">Informācijas josla</translation>
-<translation id="1805077115206898822">Jūsu grāmatzīmes, vēsture un citi iestatījumi tiks sinhronizēti ar jūsu Gab AI Inc kontu</translation>
+<translation id="1805077115206898822">Jūsu grāmatzīmes, vēsture un citi iestatījumi tiks sinhronizēti ar jūsu Fulldive kontu</translation>
 <translation id="1974060860693918893">Papildu</translation>
 <translation id="2445484935443597917">Izveidot jaunu profilu</translation>
 <translation id="2606246518223360146">Saistīt datus</translation>
@@ -1833,7 +1833,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="6387674443318562538">Vertikāls dalījums</translation>
 <translation id="1231733316453485619">Vai ieslēgt sinhronizāciju?</translation>
 <translation id="4736292055110123391">Sinhronizējiet grāmatzīmes, paroles, vēsturi un citu saturu visās savās ierīcēs</translation>
-<translation id="5736731321935944068">Gab AI Inc var izmantot jūsu vēsturi, lai personalizētu Meklēšanu, reklāmas un citus Gab AI Inc pakalpojumus.</translation>
+<translation id="5736731321935944068">Fulldive var izmantot jūsu vēsturi, lai personalizētu Meklēšanu, reklāmas un citus Fulldive pakalpojumus.</translation>
 <translation id="4201546031411513170">Jūs jebkurā laikā iestatījumos varat izvēlēties, ko sinhronizēt.</translation>
 <translation id="2497852260688568942">Administrators ir atspējojis sinhronizēšanu.</translation>
 <translation id="562935524653278697">Administrators ir atspējojis grāmatzīmju, vēstures, paroļu un citu iestatījumu sinhronizēšanu.</translation>
@@ -1912,10 +1912,10 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="6198102561359457428">Izrakstīties un tad pierakstīties vēlreiz</translation>
 <translation id="4634771451598206121">Pierakstīties vēlreiz...</translation>
 <translation id="7117247127439884114">Pierakstīties vēlreiz...</translation>
-<translation id="4251909665067750757">Pierakstieties, lai lietotu savas grāmatzīmes, vēsturi, paroles un citus iestatījumus visās savās ierīcēs. Turklāt jūs tiksiet automātiski pierakstīts savos Gab AI Inc pakalpojumos.</translation>
+<translation id="4251909665067750757">Pierakstieties, lai lietotu savas grāmatzīmes, vēsturi, paroles un citus iestatījumus visās savās ierīcēs. Turklāt jūs tiksiet automātiski pierakstīts savos Fulldive pakalpojumos.</translation>
 <translation id="2749756011735116528">Pierakstīties produktā <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Administrators ir atspējojis sinhronizēšanu.</translation>
-<translation id="5462539695964427820">Sinhronizācija tika pārtraukta, izmantojot Gab AI Inc informācijas paneli.</translation>
+<translation id="5462539695964427820">Sinhronizācija tika pārtraukta, izmantojot Fulldive informācijas paneli.</translation>
 <translation id="8805140816472474147">Lai sāktu sinhronizēšanu, apstipriniet sinhronizēšanas iestatījumus.</translation>
 <translation id="5771816112378578655">Notiek iestatīšana...</translation>
 <translation id="3492788708641132712">Sinhronizācija nedarbojas. Mēģiniet pierakstīties vēlreiz.</translation>
@@ -1929,16 +1929,16 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="1877520246462554164">Neizdevās iegūt autentifikācijas pilnvaru. Lai mēģinātu vēlreiz, izrakstieties un vēlreiz pierakstieties.</translation>
 <translation id="9100765901046053179">Papildu iestatījumi</translation>
 <translation id="2731700343119398978">Lūdzu, uzgaidiet...</translation>
-<translation id="7218743184834293955">Dati tika šifrēti, izmantojot sinhronizācijas ieejas frāzi. Tajā nav iekļauti maksājumu veidi un adreses no pakalpojuma Gab AI Inc Pay.</translation>
+<translation id="7218743184834293955">Dati tika šifrēti, izmantojot sinhronizācijas ieejas frāzi. Tajā nav iekļauti maksājumu veidi un adreses no pakalpojuma Fulldive Pay.</translation>
 <translation id="7158251077901880179">Dati tika šifrēti, izmantojot sinhronizācijas ieejas frāzi (sinhronizācijas laiks:
-          <ph name="TIME"/>). Tajā nav iekļauti maksājumu veidi un adreses no pakalpojuma Gab AI Inc Pay.</translation>
-<translation id="1171389789873508468">Dati tika šifrēti, izmantojot jūsu Gab AI Inc paroli (sinhronizācijas laiks:
-          <ph name="TIME"/>). Tajā nav iekļauti maksājumu veidi un adreses no pakalpojuma Gab AI Inc Pay.</translation>
+          <ph name="TIME"/>). Tajā nav iekļauti maksājumu veidi un adreses no pakalpojuma Fulldive Pay.</translation>
+<translation id="1171389789873508468">Dati tika šifrēti, izmantojot jūsu Fulldive paroli (sinhronizācijas laiks:
+          <ph name="TIME"/>). Tajā nav iekļauti maksājumu veidi un adreses no pakalpojuma Fulldive Pay.</translation>
 <translation id="2562743677925229011">Nav pierakstījies pakalpojumā <ph name="SHORT_PRODUCT_NAME"/></translation>
 <translation id="4027804175521224372">(Neesat pierakstījies — <ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">pierakstīties</translation>
 <translation id="237828693408258535">Vai tulkot šo lapu?</translation>
-<translation id="4613765529964435709">Vai vēlaties, lai Gab AI Inc tulkotu šo lapu šādā valodu kombinācijā: <ph name="SOURCE_LANGUAGE"/>–<ph name="TARGET_LANGUAGE"/>?</translation>
+<translation id="4613765529964435709">Vai vēlaties, lai Fulldive tulkotu šo lapu šādā valodu kombinācijā: <ph name="SOURCE_LANGUAGE"/>–<ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="5990386583461751448">Tulkojums</translation>
 <translation id="5659833766619490117">Šo lapu nevarēja pārtulkot</translation>
 <translation id="969096075394517431">Mainīt valodas</translation>
@@ -2117,7 +2117,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="6309510305002439352">Mikrofons ir izslēgts</translation>
 <translation id="1322046419516468189">Saglabātās paroles varat skatīt un pārvaldīt šeit: <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Parole ir saglabāta. Skatiet un pārvaldiet saglabātās paroles šeit: <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Gab AI Inc konts</translation>
+<translation id="5713644099811900409">Fulldive konts</translation>
 <translation id="3785727820640310185">Saglabātās paroles šai vietnei</translation>
 <translation id="3404065873681873169">Šai vietnei nav saglabāta neviena parole</translation>
 <translation id="8470513973197838199">Saglabātās paroles vietnei <ph name="ORIGIN"/></translation>
@@ -2230,7 +2230,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{#. ekrāns}zero{#. ekrāns}one{#. ekrāns}other{#. ekrāns}}</translation>
 <translation id="839736845446313156">Reģistrējiet</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{Jauns printeris jūsu tīklā}zero{Jauni printeri jūsu tīklā}one{Jauni printeri jūsu tīklā}other{Jauni printeri jūsu tīklā}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Pievienojiet printeri pakalpojumam Gab AI Inc mākoņdruka, lai varētu drukāt, atrodoties jebkurā vietā.}zero{Pievienojiet # printerus pakalpojumam Gab AI Inc mākoņdruka, lai varētu drukāt, atrodoties jebkurā vietā.}one{Pievienojiet # printeri pakalpojumam Gab AI Inc mākoņdruka, lai varētu drukāt, atrodoties jebkurā vietā.}other{Pievienojiet # printerus pakalpojumam Gab AI Inc mākoņdruka, lai varētu drukāt, atrodoties jebkurā vietā.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Pievienojiet printeri pakalpojumam Fulldive mākoņdruka, lai varētu drukāt, atrodoties jebkurā vietā.}zero{Pievienojiet # printerus pakalpojumam Fulldive mākoņdruka, lai varētu drukāt, atrodoties jebkurā vietā.}one{Pievienojiet # printeri pakalpojumam Fulldive mākoņdruka, lai varētu drukāt, atrodoties jebkurā vietā.}other{Pievienojiet # printerus pakalpojumam Fulldive mākoņdruka, lai varētu drukāt, atrodoties jebkurā vietā.}}</translation>
 <translation id="409579654357498729">Pievienot mākoņdrukai</translation>
 <translation id="4628757576491864469">Ierīces</translation>
 <translation id="6915804003454593391">Lietotājs:</translation>
@@ -2240,8 +2240,8 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="1895934970388272448">Lai pabeigtu procesu, jums ir jāapstiprina reģistrācija savā printerī. Pārbaudiet to tagad!</translation>
 <translation id="551752069230578406">Notiek printera savienošana ar jūsu kontu — tas var ilgt kādu laiku...</translation>
 <translation id="2384436799579181135">Radās kļūda. Lūdzu, pārbaudiet printeri un mēģiniet vēlreiz.</translation>
-<translation id="1327074568633507428">Printeris Gab AI Inc mākoņdrukā</translation>
-<translation id="6782994146626179935">Ierīce Gab AI Inc mākoņa ierīcēs</translation>
+<translation id="1327074568633507428">Printeris Fulldive mākoņdrukā</translation>
+<translation id="6782994146626179935">Ierīce Fulldive mākoņa ierīcēs</translation>
 <translation id="7140928199327930795">Nav citu pieejamu ierīču.</translation>
 <translation id="8213577208796878755">Vēl viena pieejama ierīce.</translation>
 <translation id="1495486559005647033">Vēl <ph name="NUM_PRINTERS"/> pieejamas ierīces.</translation>
@@ -2257,7 +2257,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="715118844758971915">Klasiskie printeri</translation>
 <translation id="4263757076580287579">Printera reģistrācija ir atcelta.</translation>
 <translation id="8152091997436726702">Printera reģistrācijai ir iestājusies noildze. Lai reģistrētu printeri, reģistrācija ir jāapstiprina printerī.</translation>
-<translation id="2624930408905606513">Dokumenti ir <ph name="BEGIN_LINK_HELP"/>nosūtīti Gab AI Inc<ph name="END_LINK_HELP"/>, lai sagatavotu tos drukāšanai. Skatiet, rediģējiet un pārvaldiet savus printerus un printeru vēsturi <ph name="BEGIN_LINK_DASHBOARD"/>Gab AI Inc mākoņdrukas informācijas panelī<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513">Dokumenti ir <ph name="BEGIN_LINK_HELP"/>nosūtīti Fulldive<ph name="END_LINK_HELP"/>, lai sagatavotu tos drukāšanai. Skatiet, rediģējiet un pārvaldiet savus printerus un printeru vēsturi <ph name="BEGIN_LINK_DASHBOARD"/>Fulldive mākoņdrukas informācijas panelī<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">Šī cilne izmanto jūsu kameru vai mikrofonu.</translation>
 <translation id="3578594933904494462">Šīs cilnes saturs tiek kopīgots.</translation>
 <translation id="4449996769074858870">Šī cilne atskaņo audio.</translation>
@@ -2384,14 +2384,14 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="7055152154916055070">Novirzīšana ir bloķēta:</translation>
 <translation id="6777817260680419853">Novirzīšana bloķēta</translation>
 <translation id="694592694773692225">Šajā lapā ir bloķēta novirzīšana.</translation>
-<translation id="8945142681652245463">Ātra pārlūkošana ar Gab AI Inc Fulldive</translation>
-<translation id="2618024864038703735">Droša pārlūkošana ar Gab AI Inc Fulldive</translation>
+<translation id="8945142681652245463">Ātra pārlūkošana ar Fulldive Fulldive</translation>
+<translation id="2618024864038703735">Droša pārlūkošana ar Fulldive Fulldive</translation>
 <translation id="8142180567942285208">Vieda pārlūkošana ar Fulldive</translation>
 <translation id="8862003515646449717">Pāreja uz ātru pārlūku</translation>
 <translation id="8438328416656800239">Pāreja uz viedu pārlūku</translation>
 <translation id="491691592645955587">Pāreja uz drošu pārlūku</translation>
 <translation id="683373380308365518">Pāreja uz viedu un drošu pārlūku</translation>
-<translation id="989239400026154074">Gab AI Inc iesaka pārlūku Fulldive</translation>
+<translation id="989239400026154074">Fulldive iesaka pārlūku Fulldive</translation>
 <translation id="6676231621615806698">Atvērt Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> izmanto jūsu atrašanās vietu, lai piedāvātu vietējo saturu. Varat to mainīt šeit: <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Jūsu lejupielādes ir redzamas šeit.</translation>
@@ -2557,7 +2557,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="2878782256107578644">Notiek skenēšana, vai atvērt tagad?</translation>
 <translation id="6098793583803863900">Nezināms fails tiek skenēts, lai pārliecinātos, ka tajā nav bīstama satura.</translation>
 <translation id="7584578941316704630">Vai skenēt pirms atvēršanas?</translation>
-<translation id="4467402456678825062">Atlasītais fails nav zināms un var būt bīstams. Vai nosūtīt to pārbaudīšanai Gab AI Inc papildu aizsardzības programmā?</translation>
+<translation id="4467402456678825062">Atlasītais fails nav zināms un var būt bīstams. Vai nosūtīt to pārbaudīšanai Fulldive papildu aizsardzības programmā?</translation>
 <translation id="2587922766792651800">Noildze</translation>
 <translation id="4404136731284211429">Meklēt vēlreiz</translation>
 <translation id="6428450836711225518">Verificējiet savu tālruņa numuru</translation>
@@ -2565,7 +2565,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="6518133107902771759">Pārbaudīt</translation>
 <translation id="4379281552162875326">Vai atinstalēt lietotni <ph name="APP_NAME"/>?</translation>
 <translation id="8812593354822910461">Arī notīrīt pārlūkošanas datus (<ph name="URL"/>). Tādējādi tiksiet izrakstīts no vietnes <ph name="DOMAIN"/>. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Arī notīrīt pārlūkošanas datus (<ph name="URL"/>). Tādējādi varat tikt izrakstīts no vietnes Gab AI Inc.com. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Arī notīrīt pārlūkošanas datus (<ph name="URL"/>). Tādējādi varat tikt izrakstīts no vietnes Fulldive.com. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Uzziniet vairāk</translation>
 <translation id="2346953515226895098">SODA pakalpojums</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> darbība ir apturēta</translation>
@@ -2727,7 +2727,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="4144218403971135344">Iegūstiet labāku videoklipu kvalitāti un paildziniet akumulatora darbības laiku. Videoklipi tiks atskaņoti tikai Cast iespējotā ekrānā.</translation>
 <translation id="236117173274098341">Optimizēt</translation>
 <translation id="8538358978858059843">Vai iespējot apraidi mākoņa pakalpojumos?</translation>
-<translation id="3856595552313160385">Uz funkcijas Hangouts un paplašinājuma Cast for Education izmantošanu attiecas Gab AI Inc konfidencialitātes politika.</translation>
+<translation id="3856595552313160385">Uz funkcijas Hangouts un paplašinājuma Cast for Education izmantošanu attiecas Fulldive konfidencialitātes politika.</translation>
 <translation id="3435896845095436175">Iespējot</translation>
 <translation id="3700888195348409686">Notiek prezentēšana (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Displejs <ph name="DISPLAY_ID"/></translation>
@@ -2971,9 +2971,9 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, vēl vismaz 1 konts}zero{<ph name="EMAIL"/>, vēl vismaz <ph name="EXTRA_ACCOUNTS"/> konti}one{<ph name="EMAIL"/>, vēl vismaz <ph name="EXTRA_ACCOUNTS"/> konts}other{<ph name="EMAIL"/>, vēl vismaz <ph name="EXTRA_ACCOUNTS"/> konti}}</translation>
 <translation id="7434635829372401939">Iestatījumu sinhronizācija</translation>
 <translation id="1036348656032585052">Izslēgt</translation>
-<translation id="3267705913905916810">Jūsu lietotnes un iestatījumi tiks sinhronizēti visās Fulldive OS ierīcēs, kurās esat pierakstījies, izmantojot savu Gab AI Inc kontu. Lai skatītu pārlūkprogrammas sinhronizācijas opcijas, dodieties uz <ph name="LINK_BEGIN"/>Fulldive iestatījumi<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Jūsu lietotnes un iestatījumi tiks sinhronizēti visās Fulldive OS ierīcēs, kurās esat pierakstījies, izmantojot savu Fulldive kontu. Lai skatītu pārlūkprogrammas sinhronizācijas opcijas, dodieties uz <ph name="LINK_BEGIN"/>Fulldive iestatījumi<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Printeri</translation>
-<translation id="8418661265246754237">Gab AI Inc konti</translation>
+<translation id="8418661265246754237">Fulldive konti</translation>
 <translation id="3953834000574892725">Mani konti</translation>
 <translation id="6011193465932186973">Pirksta nospiedums</translation>
 <translation id="3707212204259470604">Pārvaldīt citus profilus</translation>
@@ -3015,16 +3015,16 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="5916664084637901428">Iesl.</translation>
 <translation id="5860033963881614850">Izslēgts</translation>
 <translation id="5515923816438946203">Izvēlieties ekrānā redzamo saturu</translation>
-<translation id="2187700606737131818">Gab AI Inc fotoattēli</translation>
+<translation id="2187700606737131818">Fulldive fotoattēli</translation>
 <translation id="1827738518074806965">Mākslas galerija</translation>
 <translation id="9137157311132182254">Vēlamā meklētājprogramma</translation>
 <translation id="7423118389528876103">Tiek izmantota pārlūkprogrammā Fulldive un <ph name="DEVICE_TYPE"/> palaidējā</translation>
-<translation id="2862205630718215619">Gab AI Inc asistents</translation>
+<translation id="2862205630718215619">Fulldive asistents</translation>
 <translation id="8959699239363253085">Iesl.</translation>
 <translation id="971479617738309149">Izsl.</translation>
 <translation id="7807067443225230855">Meklēšana un Asistents</translation>
 <translation id="1293556467332435079">Faili</translation>
-<translation id="6474884162850599008">Atspējot Gab AI Inc diska kontu</translation>
+<translation id="6474884162850599008">Atspējot Fulldive diska kontu</translation>
 <translation id="3653160965917900914">Tīkla failu kopīgošana</translation>
 <translation id="4906490889887219338">Iestatiet vai pārvaldiet tīkla failu kopīgošanas ierīces. <ph name="LINK_BEGIN"/>Uzzināt vairāk<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Pievienot failu kopīgošanu</translation>
@@ -3075,7 +3075,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="5511379779384092781">Ļoti zems</translation>
 <translation id="2765217105034171413">Mazs</translation>
 <translation id="7409549334477097887">Īpaši augsts</translation>
-<translation id="1800308196794859773">Nosūtiet savus balss datus Gab AI Inc serveriem, lai atļautu diktēšanu jebkurā teksta laukā.</translation>
+<translation id="1800308196794859773">Nosūtiet savus balss datus Fulldive serveriem, lai atļautu diktēšanu jebkurā teksta laukā.</translation>
 <translation id="8758418656925882523">Iespējot diktēšanu (rakstīšanu, izmantojot balss ievadi)</translation>
 <translation id="1330145147221172764">Iespējot ekrāna tastatūru</translation>
 <translation id="7580671184200851182">Atskaņot to pašu audio saturu visos skaļruņos (mono audio)</translation>
@@ -3138,7 +3138,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="6902066522699286937">Balss priekšskatīšanai</translation>
 <translation id="304747341537320566">Runas programmas</translation>
 <translation id="2755367719610958252">Pārvaldīt pieejamības funkcijas</translation>
-<translation id="1203953622051744249">Pārvaldiet savus kontus, kuros esat pierakstījies. Atkarībā no atļaujām Fulldive un Gab AI Inc Play vietnes, lietotnes un paplašinājumi var izmantot šos kontus, lai pielāgotu jūsu pieredzi. <ph name="LINK_BEGIN"/>Uzziniet vairāk<ph name="LINK_END"/>.</translation>
+<translation id="1203953622051744249">Pārvaldiet savus kontus, kuros esat pierakstījies. Atkarībā no atļaujām Fulldive un Fulldive Play vietnes, lietotnes un paplašinājumi var izmantot šos kontus, lai pielāgotu jūsu pieredzi. <ph name="LINK_BEGIN"/>Uzziniet vairāk<ph name="LINK_END"/>.</translation>
 <translation id="762068974690945752">Šeit varat pievienot mācību iestādes kontu vai pārvaldīt bērna kontus. <ph name="LINK_BEGIN"/>Uzziniet vairāk<ph name="LINK_END"/>.</translation>
 <translation id="1987317783729300807">Konti</translation>
 <translation id="6597148444736186483">Lai izrakstītos no primārā konta šajā ierīcē, noklikšķiniet ekrānā uz laika. Parādītajā izvēlnē noklikšķiniet uz “Izrakstīties”.</translation>
@@ -3147,8 +3147,8 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="2923234477033317484">Noņemt šo kontu</translation>
 <translation id="7665369617277396874">Pievienot kontu</translation>
 <translation id="8428271547607112339">Pievienot skolas kontu</translation>
-<translation id="4920274951865016604">Administrators ir atspējojis citu Gab AI Inc kontu pievienošanu.</translation>
-<translation id="8845742957886589229">Citu Gab AI Inc kontu pievienošana ir atspējota</translation>
+<translation id="4920274951865016604">Administrators ir atspējojis citu Fulldive kontu pievienošanu.</translation>
+<translation id="8845742957886589229">Citu Fulldive kontu pievienošana ir atspējota</translation>
 <translation id="5021750053540820849">Vēl nav atjaunināts</translation>
 <translation id="3448492834076427715">Atjaunināt kontu</translation>
 <translation id="2458379781610688953">Atjaunināt kontu (<ph name="EMAIL"/>)</translation>
@@ -3183,7 +3183,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="3661172646479098821">Pašlaik tiek atbalstītas tikai Android ierīces.</translation>
 <translation id="3201422919974259695">Šeit tiks rādītas pieejamās USB ierīces.</translation>
 <translation id="2629227353894235473">Android lietotņu izstrāde</translation>
-<translation id="1669729672557072907">Lai veidotu un testētu lietotnes, iespējojiet Android atkļūdošanas tiltu (ADB). Ņemiet vērā, ka šī darbība ļauj instalēt Android lietotnes, ko uzņēmums Gab AI Inc nav verificējis, un rīka atspējošanai ir nepieciešams atjaunot rūpnīcas iestatījumus.</translation>
+<translation id="1669729672557072907">Lai veidotu un testētu lietotnes, iespējojiet Android atkļūdošanas tiltu (ADB). Ņemiet vērā, ka šī darbība ļauj instalēt Android lietotnes, ko uzņēmums Fulldive nav verificējis, un rīka atspējošanai ir nepieciešams atjaunot rūpnīcas iestatījumus.</translation>
 <translation id="4638930039313743000">Vai iespējot ADB atkļūdošanu</translation>
 <translation id="1630768113285622200">Restartēt un turpināt</translation>
 <translation id="1005333234656240382">Vai iespējot ADB atkļūdošanu?</translation>
@@ -3220,9 +3220,9 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="1870629042957780127">Piekļuves piešķiršana mikrofonam</translation>
 <translation id="1392232653471491344">Nepieciešama Linux restartēšana</translation>
 <translation id="1064552680598333868">Mikrofonam iestatītās izmaiņas tiks lietotas pēc nākamās Linux restartēšanas reizes.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play veikals</translation>
+<translation id="2714393097308983682">Fulldive Play veikals</translation>
 <translation id="2966937470348689686">Pārvaldīt Android preferences</translation>
-<translation id="6398715114293939307">Noņemt Gab AI Inc Play veikalu</translation>
+<translation id="6398715114293939307">Noņemt Fulldive Play veikalu</translation>
 <translation id="2792290659606763004">Vai noņemt Android lietotnes?</translation>
 <translation id="492299503953721473">Noņemt Android lietotnes</translation>
 <translation id="7566118625369982896">Pārvaldīt Play lietotņu saites</translation>
@@ -3230,7 +3230,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="5862109781435984885">Rādīt skārienekrāna pildspalvas rīkus plauktā</translation>
 <translation id="4673442866648850031">Skārienekrāna pildspalvas rīki tiek atvērti, kad skārienekrāna pildspalva ir noņemta.</translation>
 <translation id="4244238649050961491">Atrast citas skārienekrāna pildspalvas lietotnes</translation>
-<translation id="668599234725812620">Atvērt pakalpojumu Gab AI Inc Play</translation>
+<translation id="668599234725812620">Atvērt pakalpojumu Fulldive Play</translation>
 <translation id="9116799625073598554">Piezīmju pierakstīšanas lietotne</translation>
 <translation id="203574396658008164">Iespējot piezīmju pierakstīšanu bloķēšanas ekrānā</translation>
 <translation id="6238923052227198598">Paturēt pēdējo piezīmi bloķēšanas ekrānā</translation>
@@ -3376,7 +3376,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> — <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Iespējot mobilos datus</translation>
 <translation id="7378812711085314936">Izmantot datu savienojumu</translation>
-<translation id="3483333858382889684">Ļaut šai ierīcei atrast citas ierīces, kurām ir mobilo datu savienojums un kurās esat pierakstījies savā Gab AI Inc kontā.</translation>
+<translation id="3483333858382889684">Ļaut šai ierīcei atrast citas ierīces, kurām ir mobilo datu savienojums un kurās esat pierakstījies savā Fulldive kontā.</translation>
 <translation id="1572266655485775982">Iespējot Wi-Fi</translation>
 <translation id="7078120482318506217">Visi tīkli</translation>
 <translation id="1235458158152011030">Zināmie tīkli</translation>
@@ -3408,13 +3408,13 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="4421167684395067330">Neizdevās izveidot savienojumu. Lai saņemtu palīdzību, lūdzu, sazinieties ar mobilo sakaru operatoru <ph name="CARRIER_NAME"/>.</translation>
 <translation id="7780252971640011240">Neizdevās izveidot savienojumu. Lai saņemtu palīdzību, lūdzu, sazinieties ar mobilo sakaru operatoru.</translation>
 <translation id="161460670679785907">Nevar noteikt jūsu tālruni.</translation>
-<translation id="778480864305029524">Lai izmantotu tūlītējo piesaisti, ieslēdziet Gab AI Inc Play pakalpojumu paziņojumus.</translation>
+<translation id="778480864305029524">Lai izmantotu tūlītējo piesaisti, ieslēdziet Fulldive Play pakalpojumu paziņojumus.</translation>
 <translation id="7696063401938172191">Jūsu tālrunī “<ph name="PHONE_NAME"/>”:</translation>
 <translation id="3423463006624419153">Jūsu tālruņos “<ph name="PHONE_NAME_1"/>” un “<ph name="PHONE_NAME_2"/>”:</translation>
 <translation id="6997707937646349884">Jūsu ierīcēs:</translation>
 <translation id="7531779363494549572">Pārejiet uz sadaļu Iestatījumi &gt; Lietotnes un paziņojumi &gt; Paziņojumi.</translation>
-<translation id="1819721979226826163">Pieskarieties vienumam Lietotņu paziņojumi &gt; Gab AI Inc Play pakalpojumi.</translation>
-<translation id="968000525894980488">Ieslēdziet Gab AI Inc Play pakalpojumus.</translation>
+<translation id="1819721979226826163">Pieskarieties vienumam Lietotņu paziņojumi &gt; Fulldive Play pakalpojumi.</translation>
+<translation id="968000525894980488">Ieslēdziet Fulldive Play pakalpojumus.</translation>
 <translation id="2705736684557713153">Ritiniet līdz ekrāna apakšdaļai un ieslēdziet opciju “Tūlītējā piesaiste”, ja tā ir redzama. Ja šī opcija nav redzama, šis paziņojumu kanāls jau ir ieslēgts.</translation>
 <translation id="7240339475467890413">Vai izveidot savienojumu ar jaunu tīklāju?</translation>
 <translation id="6514010653036109809">Pieejamā ierīce:</translation>
@@ -3529,9 +3529,9 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="6555432686520421228">Noņemiet visus lietotāju kontus un atiestatiet savu <ph name="IDS_SHORT_PRODUCT_NAME"/> ierīci, lai izmantotu sākotnējos rūpnīcas iestatījumus.</translation>
 <translation id="5470735824776589490">Lai ierīces atiestatīšanai izmantotu funkciju Powerwash, ierīci ir nepieciešams restartēt. <ph name="LINK_BEGIN"/>Uzzināt vairāk<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Poga Atiestatīt</translation>
-<translation id="472896694312062378">“Ok Gab AI Inc”</translation>
-<translation id="2339135612812615870">Piekļūt Asistentam, kad sakāt: “Ok Gab AI Inc.”</translation>
-<translation id="3735919318855093557">Piekļūt Asistentam, kad sakāt: “Ok Gab AI Inc.” Lai taupītu akumulatora enerģiju, izvēlieties vienumu “Ieslēgts (ieteicams)”. Asistents reaģēs tikai tad, kad ierīce būs pievienota strāvas avotam vai kad tiks veikta tās uzlāde.</translation>
+<translation id="472896694312062378">“Ok Fulldive”</translation>
+<translation id="2339135612812615870">Piekļūt Asistentam, kad sakāt: “Ok Fulldive.”</translation>
+<translation id="3735919318855093557">Piekļūt Asistentam, kad sakāt: “Ok Fulldive.” Lai taupītu akumulatora enerģiju, izvēlieties vienumu “Ieslēgts (ieteicams)”. Asistents reaģēs tikai tad, kad ierīce būs pievienota strāvas avotam vai kad tiks veikta tās uzlāde.</translation>
 <translation id="5825412242012995131">Ieslēgts (ieteicams)</translation>
 <translation id="5067399438976153555">Vienmēr iespējots</translation>
 <translation id="6175644081330715138">Izslēgts</translation>
@@ -3540,7 +3540,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="5355099869024327351">Ļaut Asistentam rādīt jums paziņojumus</translation>
 <translation id="133535873114485416">Vēlamā ievade</translation>
 <translation id="6233154960150021497">Kā noklusējumu iestatiet balss izmantošanu tastatūras vietā</translation>
-<translation id="3908743412684152579">Gab AI Inc asistenta iestatījumi</translation>
+<translation id="3908743412684152579">Fulldive asistenta iestatījumi</translation>
 <translation id="1048286738600630630">Displeji</translation>
 <translation id="4184885522552335684">Velciet, lai pārvietotu displeju.</translation>
 <translation id="4964455510556214366">Izkārtojums</translation>
@@ -3594,7 +3594,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="6856623341093082836">Iestatīt un pielāgot skārienekrāna precizitāti</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Atbloķēt tikai ierīci</translation>
-<translation id="3300552672525741457">Atbloķēt ierīci un pierakstīties Gab AI Inc kontā</translation>
+<translation id="3300552672525741457">Atbloķēt ierīci un pierakstīties Fulldive kontā</translation>
 <translation id="4562155214028662640">Pievienot pirksta nospiedumu</translation>
 <translation id="4068776064906523561">Saglabātie pirkstu nospiedumi</translation>
 <translation id="1719312230114180055">Piezīme. Jūsu pirksta nospiedums var būt mazāk drošs nekā sarežģīta parole vai PIN.</translation>
@@ -3659,7 +3659,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="6547354035488017500">Atbrīvojiet vismaz 512 MB vietas ierīcē, pretējā gadījumā tā nereaģēs. Lai atbrīvotu vietu, izdzēsiet failus no ierīces krātuves.</translation>
 <translation id="6097480669505687979">Ja netiks atbrīvota vieta, lietotāji un dati var tikt automātiski noņemti.</translation>
 <translation id="4470957202018033307">Ārējās atmiņas preferences</translation>
-<translation id="1900305421498694955">Dažreiz veikalā Gab AI Inc Play iegādātajām lietotnēm ir nepieciešama pilnīga piekļuve failu sistēmai, lai varētu lasīt un rakstīt failus ārējās krātuves ierīcēs. Ierīcē izveidotie faili un mapes ir redzamas visiem, kas lieto ārējo disku. <ph name="LINK_BEGIN"/>Uzziniet vairāk<ph name="LINK_END"/>.</translation>
+<translation id="1900305421498694955">Dažreiz veikalā Fulldive Play iegādātajām lietotnēm ir nepieciešama pilnīga piekļuve failu sistēmai, lai varētu lasīt un rakstīt failus ārējās krātuves ierīcēs. Ierīcē izveidotie faili un mapes ir redzamas visiem, kas lieto ārējo disku. <ph name="LINK_BEGIN"/>Uzziniet vairāk<ph name="LINK_END"/>.</translation>
 <translation id="6775163072363532304">Šeit tiks parādītas pieejamās ierīces.</translation>
 <translation id="1041263367839475438">Pieejamās ierīces</translation>
 <translation id="7479221278376295180">Krātuves lietojuma kopsavilkums</translation>
@@ -3683,12 +3683,12 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="5840822070878669614">Atveriet interneta veikalu</translation>
 <translation id="6073903501322152803">Pievienot pieejamības funkcijas</translation>
 <translation id="7988355189918024273">Iespējot pieejamības funkcijas</translation>
-<translation id="5499063270485366718">Ja attēlam nav vērtīga apraksta, pārlūks Fulldive mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Gab AI Inc.</translation>
+<translation id="5499063270485366718">Ja attēlam nav vērtīga apraksta, pārlūks Fulldive mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Fulldive.</translation>
 <translation id="8957762313041272117">Subtitri reāllaikā</translation>
 <translation id="7075426315046750605">Izmantojot funkciju Subtitri reāllaikā, var noteikt multivides saturā ietverto runu un automātiski ģenerēt parakstus visam multivides saturam, kas tiek atskaņots pārlūkprogrammā Fulldive.</translation>
 <translation id="572155275267014074">Android iestatījumi</translation>
-<translation id="7201042526153088083">Instalējiet lietotnes un spēles no pakalpojuma Gab AI Inc Play <ph name="DEVICE_TYPE"/> ierīcē. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Uzzināt vairāk&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Pakalpojumā Gab AI Inc Play lejupielādētās lietotnes tiks dzēstas no šī Fulldivebook datora.
+<translation id="7201042526153088083">Instalējiet lietotnes un spēles no pakalpojuma Fulldive Play <ph name="DEVICE_TYPE"/> ierīcē. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Uzzināt vairāk&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Pakalpojumā Fulldive Play lejupielādētās lietotnes tiks dzēstas no šī Fulldivebook datora.
       <ph name="LINE_BREAKS1"/>
       Jūsu iegādātais saturs, piemēram, filmas, TV pārraides, mūzika, grāmatas vai citi lietotnē veiktie pirkumi arī var tikt izdzēsti.
       <ph name="LINE_BREAKS2"/>
@@ -3714,7 +3714,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="1670399744444387456">Pamata</translation>
 <translation id="1763808908432309942">Tiks atvērta jaunā cilnē</translation>
 <translation id="6248988683584659830">Meklēt iestatījumus</translation>
-<translation id="883304095704384301">Ja nevarat atrast meklēto saturu, pārejiet uz <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive palīdzību<ph name="END_LINK_CHROMIUM"/></translation>
+<translation id="883304095704384301">Ja nevarat atrast meklēto saturu, pārejiet uz <ph name="BEGIN_LINK_CHROMIUM"/>Fulldive Fulldive palīdzību<ph name="END_LINK_CHROMIUM"/></translation>
 <translation id="6406708970972405507">Iestatījumi — <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Apakšlapas poga</translation>
 <translation id="379509625511193653">Izslēgts</translation>
@@ -3735,10 +3735,10 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="451515744433878153">Noņemt</translation>
 <translation id="5029568752722684782">Dzēst kopiju</translation>
 <translation id="2154484045852737596">Kartes informācijas rediģēšana</translation>
-<translation id="3032188998195902534">Lai pievienotu vai pārvaldītu Gab AI Inc Pay maksājumu veidus, apmeklējiet savu <ph name="BEGIN_LINK"/>Gab AI Inc kontu<ph name="END_LINK"/></translation>
+<translation id="3032188998195902534">Lai pievienotu vai pārvaldītu Fulldive Pay maksājumu veidus, apmeklējiet savu <ph name="BEGIN_LINK"/>Fulldive kontu<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">Šīs kartes dati tiks saglabāti tikai šajā ierīcē</translation>
 <translation id="5087580092889165836">Pievienot karti</translation>
-<translation id="4835914736509775287">Karšu saglabāšana Gab AI Inc kontā</translation>
+<translation id="4835914736509775287">Karšu saglabāšana Fulldive kontā</translation>
 <translation id="7255002516883565667">Pašlaik vienu no savām kartēm varat izmantot tikai šajā ierīcē</translation>
 <translation id="6848388270925200958">Pašlaik dažas no savām kartēm varat izmantot tikai šajā ierīcē</translation>
 <translation id="4807098396393229769">Vārds uz kartes</translation>
@@ -3752,9 +3752,9 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="8731851055419582926">Pārbaudītas paroles</translation>
 <translation id="4248098802131000011">Aizsargājiet savas paroles pret datu pārkāpumiem un citām drošības problēmām.</translation>
 <translation id="7829528495815477379">Pārlūkprogrammā <ph name="IDS_SHORT_PRODUCT_NAME"/> nevar pārbaudīt jūsu paroles. Pārbaudiet interneta savienojumu.</translation>
-<translation id="802916701582020725">Pārlūkprogrammā <ph name="IDS_SHORT_PRODUCT_NAME"/> var pārbaudīt jūsu paroles, ja esat pierakstījies savā Gab AI Inc kontā.</translation>
+<translation id="802916701582020725">Pārlūkprogrammā <ph name="IDS_SHORT_PRODUCT_NAME"/> var pārbaudīt jūsu paroles, ja esat pierakstījies savā Fulldive kontā.</translation>
 <translation id="4478777936860197922">Nav saglabātu paroļu. Pārlūkprogrammā <ph name="IDS_SHORT_PRODUCT_NAME"/> var pārbaudīt jūsu paroles, ja jūs tās saglabājat.</translation>
-<translation id="9163925934160713286">Pārlūkprogrammā <ph name="IDS_SHORT_PRODUCT_NAME"/> nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām vai <ph name="BEGIN_LINK"/>pārbaudiet paroles savā Gab AI Inc kontā<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286">Pārlūkprogrammā <ph name="IDS_SHORT_PRODUCT_NAME"/> nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām vai <ph name="BEGIN_LINK"/>pārbaudiet paroles savā Fulldive kontā<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174">Pārlūkprogrammā <ph name="IDS_SHORT_PRODUCT_NAME"/> nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām.</translation>
 <translation id="3975884715086515476">Pārlūkprogrammā <ph name="IDS_SHORT_PRODUCT_NAME"/> nevar pārbaudīt jūsu paroles. Vēlāk mēģiniet vēlreiz.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Netika atrasta neviena uzlauzta parole}=1{{COUNT} uzlauzta parole}zero{{COUNT} uzlauztas paroles}one{{COUNT} uzlauzta parole}other{{COUNT} uzlauztas paroles}}</translation>
@@ -3780,7 +3780,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="2100273922101894616">Automātiski pierakstīties</translation>
 <translation id="7513029293694390567">Automātiski pierakstieties vietnēs, izmantojot saglabātos akreditācijas datus. Ja funkcija ir atspējota, apstiprināšana būs jāveic ikreiz, kad pierakstīsieties vietnē.</translation>
 <translation id="6995899638241819463">Brīdināt, ja paroles tiek atklātas datu noplūdes dēļ</translation>
-<translation id="1534287762301776620">Kad pierakstāties savā Gab AI Inc kontā, šī funkcija ir ieslēgta.</translation>
+<translation id="1534287762301776620">Kad pierakstāties savā Fulldive kontā, šī funkcija ir ieslēgta.</translation>
 <translation id="1375321115329958930">Saglabātās paroles</translation>
 <translation id="152234381334907219">Jaunākie saglabātie</translation>
 <translation id="5137501176474113045">Dzēst šo vienumu</translation>
@@ -3794,7 +3794,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="7930294771522048157">Šeit tiks parādīti saglabātie maksājumu veidi.</translation>
 <translation id="9124003689441359348">Šeit tiks parādītas saglabātās paroles.</translation>
 <translation id="4400367121200150367">Šeit tiks parādītas vietnes, kurās nekad netiek saglabātas paroles.</translation>
-<translation id="3098842761938485917">Skatiet un pārvaldiet saglabātās paroles savā <ph name="BEGIN_LINK"/>Gab AI Inc kontā<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Skatiet un pārvaldiet saglabātās paroles savā <ph name="BEGIN_LINK"/>Fulldive kontā<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">Eksportēt paroles...</translation>
 <translation id="3900966090527141178">Paroļu eksportēšana</translation>
 <translation id="6914783257214138813">Jūsu paroles būs redzamas ikvienam, kas var skatīt eksportēto failu.</translation>
@@ -3861,15 +3861,15 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="3380365263193509176">Nezināma kļūda</translation>
 <translation id="368789413795732264">Mēģinot rakstīt failu, radās kļūda: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Laika periods</translation>
-<translation id="3958004920128806270">Lai notīrītu pārlūkošanas datus tikai no šīs ierīces un paturētu tos savā Gab AI Inc kontā, <ph name="BEGIN_LINK"/>izrakstieties<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">Lai notīrītu pārlūkošanas datus no visām savām sinhronizētajām ierīcēm un Gab AI Inc konta, <ph name="BEGIN_LINK"/>pārejiet uz sinhronizācijas iestatījumiem<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">Lai notīrītu pārlūkošanas datus no visām savām sinhronizētajām ierīcēm un Gab AI Inc konta, <ph name="BEGIN_LINK"/>ievadiet ieejas frāzi<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">Lai notīrītu pārlūkošanas datus no visām savām sinhronizētajām ierīcēm un Gab AI Inc konta, <ph name="BEGIN_LINK"/>pierakstieties<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">Lai notīrītu pārlūkošanas datus tikai no šīs ierīces un paturētu tos savā Fulldive kontā, <ph name="BEGIN_LINK"/>izrakstieties<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">Lai notīrītu pārlūkošanas datus no visām savām sinhronizētajām ierīcēm un Fulldive konta, <ph name="BEGIN_LINK"/>pārejiet uz sinhronizācijas iestatījumiem<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">Lai notīrītu pārlūkošanas datus no visām savām sinhronizētajām ierīcēm un Fulldive konta, <ph name="BEGIN_LINK"/>ievadiet ieejas frāzi<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">Lai notīrītu pārlūkošanas datus no visām savām sinhronizētajām ierīcēm un Fulldive konta, <ph name="BEGIN_LINK"/>pierakstieties<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Jūs tiksiet izrakstīts no lielākās daļas vietņu.</translation>
-<translation id="4650925988509114690">Jūs tiksiet izrakstīts no lielākās daļas vietņu. Jūs paliksiet pierakstījies Gab AI Inc kontā, lai varētu notīrīt sinhronizētos datus.</translation>
+<translation id="4650925988509114690">Jūs tiksiet izrakstīts no lielākās daļas vietņu. Jūs paliksiet pierakstījies Fulldive kontā, lai varētu notīrīt sinhronizētos datus.</translation>
 <translation id="2017836877785168846">Notīra vēsturi un automātiskās pabeigšanas ierakstus adreses joslā.</translation>
-<translation id="8096327394278038498">Notīra vēsturi un automātiskās pabeigšanas datus adreses joslā. Jūsu Gab AI Inc kontam var būt cita veida pārlūkošanas vēstures dati vietnē <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Notīra vēsturi no visām ierīcēm, kurās esat pierakstījies. Jūsu Gab AI Inc kontam vietnē <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> var būt citu veidu pārlūkošanas vēstures dati.</translation>
+<translation id="8096327394278038498">Notīra vēsturi un automātiskās pabeigšanas datus adreses joslā. Jūsu Fulldive kontam var būt cita veida pārlūkošanas vēstures dati vietnē <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Notīra vēsturi no visām ierīcēm, kurās esat pierakstījies. Jūsu Fulldive kontam vietnē <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> var būt citu veidu pārlūkošanas vēstures dati.</translation>
 <translation id="7127980134843952133">Lejupielādes vēsture</translation>
 <translation id="4699172675775169585">Kešatmiņā ievietotie attēli un faili</translation>
 <translation id="1274997165432133392">Sīkfaili un citi vietņu dati</translation>
@@ -3884,7 +3884,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="1043818413152647937">Vai notīrīt datus arī no šīm lietotnēm?</translation>
 <translation id="3399432415385675819">Paziņojumi tiks atspējoti</translation>
 <translation id="3459509316159669723">Drukāšana</translation>
-<translation id="7063957500469387217">Iestatīt vai pārvaldīt printerus Gab AI Inc mākoņdrukā.</translation>
+<translation id="7063957500469387217">Iestatīt vai pārvaldīt printerus Fulldive mākoņdrukā.</translation>
 <translation id="8185331656081929126">Rādīt paziņojumus, kad tīklā tiek atrasti jauni printeri</translation>
 <translation id="6451180435462401570">Pārvaldīt mākoņdrukas ierīces</translation>
 <translation id="4733793249294335256">Atrašanās vieta</translation>
@@ -3906,7 +3906,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="5425722269016440406">Lai izslēgtu Smart Lock, jums ir jābūt tiešsaistē, jo šis iestatījums ir sinhronizēts ar jūsu tālruni un citām ierīcēm. Lūdzu, vispirms izveidojiet savienojumu ar tīklu.</translation>
 <translation id="8885197664446363138">Smart Lock nav pieejams</translation>
 <translation id="7334190995941642545">Sistēma Smart Lock pašlaik nav pieejama. Lūdzu, vēlāk mēģiniet vēlreiz.</translation>
-<translation id="8112427115751454716">Izmantot Smart Lock, lai pierakstītos Gab AI Inc kontā</translation>
+<translation id="8112427115751454716">Izmantot Smart Lock, lai pierakstītos Fulldive kontā</translation>
 <translation id="2043818754674261542">Attālums, kurā tālrunis var atbloķēt šo ierīci (<ph name="DEVICE_TYPE"/>)</translation>
 <translation id="2522791476825452208">Ļoti tuvu</translation>
 <translation id="649454645705377674">Aizvērt</translation>
@@ -3927,7 +3927,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="1726100011689679555">Nosaukumu serveri</translation>
 <translation id="1209796539517632982">Automātiski nosaukumu serveri</translation>
 <translation id="4462159676511157176">Pielāgoti nosaukumu serveri</translation>
-<translation id="1981884748698699991">Gab AI Inc nosaukumu serveri</translation>
+<translation id="1981884748698699991">Fulldive nosaukumu serveri</translation>
 <translation id="6317608858038767920">Pielāgots nosaukuma serveris <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">Tīmekļa starpniekservera automātiskās atklāšanas URL:</translation>
 <translation id="3817579325494460411">Nav norādīts</translation>
@@ -4085,7 +4085,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="3182749001423093222">Pareizrakstības pārbaude</translation>
 <translation id="5423829801105537712">Vienkāršs pareizrakstības pārbaudītājs</translation>
 <translation id="2564653188463346023">Uzlabota pareizrakstības pārbaude</translation>
-<translation id="8944680893327873975">Tiek izmantots tas pats pareizrakstības pārbaudītājs, kas tiek izmantots Gab AI Inc meklēšanā. Pārlūkā ievadītais teksts tiek nosūtīts Gab AI Inc serveriem.</translation>
+<translation id="8944680893327873975">Tiek izmantots tas pats pareizrakstības pārbaudītājs, kas tiek izmantots Fulldive meklēšanā. Pārlūkā ievadītais teksts tiek nosūtīts Fulldive serveriem.</translation>
 <translation id="5051836348807686060">Pareizrakstības pārbaude netiek atbalstīta atlasītajās valodās</translation>
 <translation id="7335974957018254119">Izmantot pareizrakstības pārbaudītāju šīm valodām:</translation>
 <translation id="2469375675106140201">Pielāgot pareizrakstības pārbaudītāju</translation>
@@ -4098,7 +4098,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="4200689466366162458">Pielāgotie vārdi</translation>
 <translation id="7833720883933317473">Šeit tiks parādīti saglabātie pielāgotie vārdi.</translation>
 <translation id="8509646642152301857">Pareizrakstības pārbaudes vārdnīcas lejupielāde neizdevās.</translation>
-<translation id="8842834450537919370">Lūdzu, sazinieties ar savu tīkla administratoru, lai pārliecinātos, vai ugunsmūris nebloķē lejupielādes no Gab AI Inc serveriem.</translation>
+<translation id="8842834450537919370">Lūdzu, sazinieties ar savu tīkla administratoru, lai pārliecinātos, vai ugunsmūris nebloķē lejupielādes no Fulldive serveriem.</translation>
 <translation id="9042893549633094279">Konfidencialitāte un drošība</translation>
 <translation id="5548606607480005320">Drošības pārbaude</translation>
 <translation id="5876576639916258720">Darbojas...</translation>
@@ -4134,24 +4134,24 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="2468205691404969808">Izmanto sīkfailus, lai iegaumētu jūsu preferences, pat ja neapmeklējāt šīs lapas</translation>
 <translation id="3633309367764744750">Tiek pirmsielādēta informācija no lapām, tostarp no lapām, kuras vēl neesat apmeklējis. Pirmsielādētajā informācijā var būt ietverti sīkfaili, ja esat atļāvis tos izmantot.</translation>
 <translation id="3201899458094819285">Droša pārlūkošana (aizsargā jūs un ierīci pret bīstamām vietnēm)</translation>
-<translation id="2876369937070532032">Nosūta Gab AI Inc serveriem dažu apmeklēto lapu vietrāžus URL, ja jūsu drošība ir apdraudēta</translation>
+<translation id="2876369937070532032">Nosūta Fulldive serveriem dažu apmeklēto lapu vietrāžus URL, ja jūsu drošība ir apdraudēta</translation>
 <translation id="4991384657077828949">Palīdzēt uzlabot Fulldive drošību</translation>
-<translation id="1984646864943401749">Tiek nosūtīti dažu apmeklēto lapu vietrāži URL, ierobežota sistēmas informācija un noteiktu lapu saturs Gab AI Inc serveriem, lai palīdzētu atklāt jaunus apdraudējumus un aizsargāt visus tīmekļa lietotājus.</translation>
+<translation id="1984646864943401749">Tiek nosūtīti dažu apmeklēto lapu vietrāži URL, ierobežota sistēmas informācija un noteiktu lapu saturs Fulldive serveriem, lai palīdzētu atklāt jaunus apdraudējumus un aizsargāt visus tīmekļa lietotājus.</translation>
 <translation id="1641113438599504367">Droša pārlūkošana</translation>
 <translation id="6900532703269623216">Uzlabota aizsardzība</translation>
-<translation id="7307583170263691471">Ātrāka, aktīva aizsardzība pret bīstamām tīmekļa vietnēm, lejupielādēm un paplašinājumiem. Jūs saņemat brīdinājumus par paroļu pārkāpumiem. Pārlūkošanas dati ir jāsūta uzņēmumam Gab AI Inc.</translation>
+<translation id="7307583170263691471">Ātrāka, aktīva aizsardzība pret bīstamām tīmekļa vietnēm, lejupielādēm un paplašinājumiem. Jūs saņemat brīdinājumus par paroļu pārkāpumiem. Pārlūkošanas dati ir jāsūta uzņēmumam Fulldive.</translation>
 <translation id="8645920082661222035">Tiek prognozēti bīstami notikumi, un jau iepriekš tiek parādīti brīdinājumi.</translation>
-<translation id="5265419033369521352">Tiek nodrošināta jūsu aizsardzība pārlūkprogrammā Fulldive. Šis režīms var tikt izmantots jūsu drošības uzlabošanai citās Gab AI Inc lietotnēs, kad esat pierakstījies.</translation>
+<translation id="5265419033369521352">Tiek nodrošināta jūsu aizsardzība pārlūkprogrammā Fulldive. Šis režīms var tikt izmantots jūsu drošības uzlabošanai citās Fulldive lietotnēs, kad esat pierakstījies.</translation>
 <translation id="6770602306803890733">Tiek nodrošināta gan jūsu, gan visu pārējo tīmekļa lietotāju aizsardzība.</translation>
 <translation id="3690369331356918524">Tiek parādīts brīdinājums, ja paroles ir atklātas datu noplūdes dēļ.</translation>
-<translation id="4979281249641199724">Vietrāži URL tiek sūtīti uz funkciju Droša pārlūkošana, lai tos pārbaudītu. Lai palīdzētu atklāt jaunus draudus, tiek nosūtīti arī nelieli datu paraugi, kas ietver lapas, lejupielādes, paplašinājumu aktivitāti un sistēmas informāciju. Lai aizsargātu jūs dažādās Gab AI Inc lietotnēs, šie dati tiek īslaicīgi saistīti ar jūsu Gab AI Inc kontu, kamēr esat pierakstījies.</translation>
+<translation id="4979281249641199724">Vietrāži URL tiek sūtīti uz funkciju Droša pārlūkošana, lai tos pārbaudītu. Lai palīdzētu atklāt jaunus draudus, tiek nosūtīti arī nelieli datu paraugi, kas ietver lapas, lejupielādes, paplašinājumu aktivitāti un sistēmas informāciju. Lai aizsargātu jūs dažādās Fulldive lietotnēs, šie dati tiek īslaicīgi saistīti ar jūsu Fulldive kontu, kamēr esat pierakstījies.</translation>
 <translation id="1963976881984600709">Standarta aizsardzība</translation>
 <translation id="6882836635272038266">Standarta aizsardzība pret zināmām bīstamām tīmekļa vietnēm, lejupielādēm un paplašinājumiem.</translation>
 <translation id="5561162485081632007">Kad atgadās bīstami notikumi, tie tiek noteikti un jūs saņemat brīdinājumus.</translation>
 <translation id="7810992039564280750">Vietrāži URL tiek pārbaudīti, salīdzinot ar nedrošu vietņu sarakstu, kas glabājas pārlūkprogrammā Fulldive. Ja kādā vietnē tiek mēģināts nozagt jūsu paroli vai ja jūs lejupielādējat kaitīgu failu, Fulldive var nosūtīt attiecīgo URL un lapas satura fragmentus uz funkciju Droša pārlūkošana.</translation>
 <translation id="3847319713229060696">Palīdzēt uzlabot drošību tīmeklī visiem lietotājiem</translation>
 <translation id="1984417487208496350">Bez aizsardzības (nav ieteicams)</translation>
-<translation id="1295971429974142731">Netiek nodrošināta aizsardzība pret bīstamām vietnēm, lejupielādēm un paplašinājumiem. Jūs joprojām saņemsiet drošas pārlūkošanas aizsardzību, ja tā ir pieejama, citos Gab AI Inc pakalpojumos, piemēram, Gmail un Meklēšana.</translation>
+<translation id="1295971429974142731">Netiek nodrošināta aizsardzība pret bīstamām vietnēm, lejupielādēm un paplašinājumiem. Jūs joprojām saņemsiet drošas pārlūkošanas aizsardzību, ja tā ir pieejama, citos Fulldive pakalpojumos, piemēram, Gmail un Meklēšana.</translation>
 <translation id="6122831415929794347">Vai vēlaties izslēgt drošu pārlūkošanu?</translation>
 <translation id="6410390304316730527">Izmantojot drošu pārlūkošanu, jūs iegūstat aizsardzību pret uzbrucējiem, kuri varētu mudināt jūs veikt bīstamas darbības, piemēram, instalēt ļaunprātīgu programmatūru vai atklāt personas informāciju — paroles, tālruņa numurus, kredītkaršu datus u.tml. Ja izslēgsiet drošu pārlūkošanu, ievērojiet piesardzību, pārlūkojot nepazīstamas vietnes vai vietnes ar sliktu reputāciju.</translation>
 <translation id="8791534160414513928">Sūtīt pieprasījumu “Nesekot” savā pārlūkošanas datplūsmā</translation>
@@ -4163,8 +4163,8 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="1995916364271252349">Tiek kontrolēts, kādu informāciju vietnes var izmantot un rādīt (piekļuve atrašanās vietai un kamerai, atļauja rādīt uznirstošos logus u.c.).</translation>
 <translation id="3320630259304269485">Droša pārlūkošana (aizsardzība pret bīstamām vietnēm) un citi drošības iestatījumi.</translation>
 <translation id="7536333565791380193">Papildu drošība</translation>
-<translation id="8525226238722561998">Gab AI Inc papildu aizsardzības programma</translation>
-<translation id="1229550669565092839">Aizsargā jebkuru personīgo Gab AI Inc kontu pret mērķtiecīga uzbrukuma risku</translation>
+<translation id="8525226238722561998">Fulldive papildu aizsardzības programma</translation>
+<translation id="1229550669565092839">Aizsargā jebkuru personīgo Fulldive kontu pret mērķtiecīga uzbrukuma risku</translation>
 <translation id="1521442365706402292">Pārvaldīt sertifikātus</translation>
 <translation id="7075625805486468288">Pārvaldīt HTTPS/SSL sertifikātus un iestatījumus</translation>
 <translation id="6588043302623806746">Lietot drošu DNS serveri</translation>
@@ -4438,7 +4438,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="4590324241397107707">Datu bāzes krātuve</translation>
 <translation id="8016266267177410919">Pagaidu krātuve</translation>
 <translation id="4175737294868205930">Pastāvīga krātuve</translation>
-<translation id="8397843425685839889">Jūs un Gab AI Inc</translation>
+<translation id="8397843425685839889">Jūs un Fulldive</translation>
 <translation id="8907706281008466056">Fulldive profila fotoattēls</translation>
 <translation id="2023167225947895179">PIN var viegli uzminēt.</translation>
 <translation id="5342091991439452114">PIN kodā ir jābūt vismaz <ph name="MINIMUM"/> cipariem.</translation>
@@ -4453,26 +4453,26 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="899676909165543803">Pirksta nospieduma sensors atrodas tastatūras apakšējā labajā stūrī. Viegli pieskarieties tam ar jebkuru pirkstu.</translation>
 <translation id="4535767533210902251">Pirkstu nospiedumu sensors atrodas tastatūras augšējā labajā stūrī. Viegli pieskarieties tam ar jebkuru pirkstu.</translation>
 <translation id="5449551289610225147">Parole nav derīga.</translation>
-<translation id="4326270470840334364">Tā kā šo kontu pārvalda <ph name="DOMAIN"/>, jūsu grāmatzīmes, vēsture, paroles un citi iestatījumi tiks dzēsti no šīs ierīces. Tomēr jūsu dati joprojām tiks glabāti jūsu Gab AI Inc kontā un tos var pārvaldīt <ph name="BEGIN_LINK"/>Gab AI Inc informācijas panelī<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">Tā kā šo kontu pārvalda <ph name="DOMAIN"/>, jūsu grāmatzīmes, vēsture, paroles un citi iestatījumi tiks dzēsti no šīs ierīces. Tomēr jūsu dati joprojām tiks glabāti jūsu Fulldive kontā un tos var pārvaldīt <ph name="BEGIN_LINK"/>Fulldive informācijas panelī<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">Rediģēt profilu</translation>
 <translation id="3699920817649120894">Vai izslēgt sinhronizēšanu un personalizēšanu?</translation>
 <translation id="5643620609347735571">Notīrīt un turpināt</translation>
 <translation id="5602765853043467355">Notīrīt grāmatzīmes, vēsturi, paroles un citu saturu šajā ierīcē</translation>
 <translation id="4089235344645910861">Iestatījumi saglabāti. Sākta sinhronizācija.</translation>
 <translation id="6739923123728562974">Rādīt darbvirsmas saīsni</translation>
-<translation id="2951604498031550705">Jūsu grāmatzīmju, vēstures, paroļu un citu iestatījumu dati vairs netiks sinhronizēti jūsu Gab AI Inc kontā. Tomēr jūsu esošie dati joprojām tiks glabāti jūsu Gab AI Inc kontā un tos var pārvaldīt <ph name="BEGIN_LINK"/>Gab AI Inc informācijas panelī<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">Tādējādi tiksiet izrakstīsiet no sava Gab AI Inc konta. Jūsu grāmatzīmes, vēsture, paroles, kā arī cita informācija vairs netiks sinhronizēta.</translation>
+<translation id="2951604498031550705">Jūsu grāmatzīmju, vēstures, paroļu un citu iestatījumu dati vairs netiks sinhronizēti jūsu Fulldive kontā. Tomēr jūsu esošie dati joprojām tiks glabāti jūsu Fulldive kontā un tos var pārvaldīt <ph name="BEGIN_LINK"/>Fulldive informācijas panelī<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">Tādējādi tiksiet izrakstīsiet no sava Fulldive konta. Jūsu grāmatzīmes, vēsture, paroles, kā arī cita informācija vairs netiks sinhronizēta.</translation>
 <translation id="8588866096426746242">Rādīt profila statistiku</translation>
 <translation id="5535941515421698170">Noņemt no šīs ierīces arī jūsu esošos datus</translation>
 <translation id="2162155940152307086">Sinhronizācija tiks sākta, tiklīdz aizvērsiet sinhronizācijas iestatījumus.</translation>
-<translation id="1125261911132334651">Gab AI Inc konta pārvaldība</translation>
+<translation id="1125261911132334651">Fulldive konta pārvaldība</translation>
 <translation id="5117427536932535467">Motīvi un fona tapetes</translation>
 <translation id="7257173066616499747">Wi-Fi tīkli</translation>
 <translation id="2120297377148151361">Darbības un mijiedarbības</translation>
 <translation id="5833397272224757657">Personalizācijai izmanto jūsu apmeklēto vietņu saturu, kā arī darbības un mijiedarbības pārlūkā.</translation>
-<translation id="8135094938656535588">Pārvaldīt sinhronizētos datus Gab AI Inc informācijas panelī</translation>
-<translation id="5958351589333270173">Šifrējiet sinhronizētos datus, izmantojot savu <ph name="BEGIN_LINK"/>sinhronizācijas ieejas frāzi<ph name="END_LINK"/>. Tajā nav iekļauti maksājumu veidi un adreses no pakalpojuma Gab AI Inc Pay.</translation>
-<translation id="4817583816512767754">Jūsu šifrētos datus var lasīt tikai personas, kurām ir zināma jūsu ieejas frāze. Ieejas frāze netiek sūtīta Gab AI Inc serveriem un netiek tajos glabāta. Ja aizmirsīsiet ieejas frāzi vai vēlēsieties mainīt šo iestatījumu, jums būs <ph name="BEGIN_LINK"/>jāatiestata sinhronizācija<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Pārvaldīt sinhronizētos datus Fulldive informācijas panelī</translation>
+<translation id="5958351589333270173">Šifrējiet sinhronizētos datus, izmantojot savu <ph name="BEGIN_LINK"/>sinhronizācijas ieejas frāzi<ph name="END_LINK"/>. Tajā nav iekļauti maksājumu veidi un adreses no pakalpojuma Fulldive Pay.</translation>
+<translation id="4817583816512767754">Jūsu šifrētos datus var lasīt tikai personas, kurām ir zināma jūsu ieejas frāze. Ieejas frāze netiek sūtīta Fulldive serveriem un netiek tajos glabāta. Ja aizmirsīsiet ieejas frāzi vai vēlēsieties mainīt šo iestatījumu, jums būs <ph name="BEGIN_LINK"/>jāatiestata sinhronizācija<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Lai mainītu šo iestatījumu, <ph name="BEGIN_LINK"/>atiestatiet sinhronizāciju<ph name="END_LINK"/>, lai noņemtu sinhronizācijas ieejas frāzi.</translation>
 <translation id="3873315167136380065">Lai ieslēgtu šo funkciju un noņemtu sinhronizēšanas ieejas frāzi, <ph name="BEGIN_LINK"/>atiestatiet sinhronizāciju<ph name="END_LINK"/>.</translation>
 <translation id="6451689256222386810">Ja esat aizmirsis ieejas frāzi vai vēlaties mainīt šo iestatījumu, <ph name="BEGIN_LINK"/>atiestatiet sinhronizāciju<ph name="END_LINK"/>.</translation>
@@ -4529,7 +4529,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="8639047128869322042">Notiek kaitīgas programmatūras meklēšana...</translation>
 <translation id="2653033005692233957">Meklēšana neizdevās</translation>
 <translation id="655483977608336153">Mēģināt vēlreiz</translation>
-<translation id="8282772389915299166">Ziņojiet uzņēmumam Gab AI Inc par kaitīgu programmatūru, sistēmas iestatījumiem un procesiem, ko atradām jūsu datorā šīs tīrīšanas laikā.</translation>
+<translation id="8282772389915299166">Ziņojiet uzņēmumam Fulldive par kaitīgu programmatūru, sistēmas iestatījumiem un procesiem, ko atradām jūsu datorā šīs tīrīšanas laikā.</translation>
 <translation id="6555810572223193255">Tīrīšana pašlaik nav pieejama</translation>
 <translation id="7117228822971127758">Lūdzu, vēlāk mēģiniet vēlreiz.</translation>
 <translation id="443475966875174318">Nesaderīgu lietojumprogrammu atjaunināšana vai noņemšana</translation>
@@ -4613,16 +4613,16 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="161042844686301425">Ciānzila</translation>
 <translation id="4115378294792113321">Fuksīnsarkana</translation>
 <translation id="8438566539970814960">Uzlabot meklēšanu un pārlūkošanu</translation>
-<translation id="284843628681142937">Nosūta Gab AI Inc serveriem apmeklēto lapu vietrāžus URL</translation>
+<translation id="284843628681142937">Nosūta Fulldive serveriem apmeklēto lapu vietrāžus URL</translation>
 <translation id="7704317875155739195">Automātiski pabeigt meklēšanas vaicājumus un vietrāžus URL</translation>
 <translation id="2000419248597011803">Nosūta dažus sīkfailus un meklēšanas vaicājumus no adreses joslas un meklēšanas lodziņa uz jūsu noklusējuma meklētājprogrammu.</translation>
 <translation id="918192811481327695">Palīdzēt uzlabot Fulldive funkcijas un veiktspēju</translation>
-<translation id="9063160602596686558">Automātiski sūtīt lietojuma statistiku un avāriju pārskatus Gab AI Inc serveriem</translation>
+<translation id="9063160602596686558">Automātiski sūtīt lietojuma statistiku un avāriju pārskatus Fulldive serveriem</translation>
 <translation id="6697492270171225480">Ja lapu neizdotas atrast, rāda ieteikumus par līdzīgām lapām</translation>
-<translation id="4534361985432360439">Sūta Gab AI Inc serveriem tās lapas tīmekļa adresi, kuru mēģināt sasniegt.</translation>
-<translation id="3831436149286513437">Uz Gab AI Inc diska datiem balstītie meklēšanas ieteikumi</translation>
+<translation id="4534361985432360439">Sūta Fulldive serveriem tās lapas tīmekļa adresi, kuru mēģināt sasniegt.</translation>
+<translation id="3831436149286513437">Uz Fulldive diska datiem balstītie meklēšanas ieteikumi</translation>
 <translation id="5244474230056479698">Sinhronizēšana ar <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Gab AI Inc viedās tehnoloģijas pārlūkā Fulldive</translation>
+<translation id="9125982323641182972">Fulldive viedās tehnoloģijas pārlūkā Fulldive</translation>
 <translation id="2537178555904266562">Sinhronizējot paroles, radās kūda</translation>
 <translation id="4314815835985389558">Sinhronizācijas pārvaldība</translation>
 <translation id="8931475688782629595">Sinhronizējamo datu pārvaldība</translation>
@@ -4631,18 +4631,18 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="4570387585180509432">Adreses, tālruņa numurus un citus datus</translation>
 <translation id="3268451620468152448">Atvērtās cilnes</translation>
 <translation id="4684427112815847243">Sinhronizēt visu</translation>
-<translation id="5428209950370661546">Citi Gab AI Inc pakalpojumi</translation>
+<translation id="5428209950370661546">Citi Fulldive pakalpojumi</translation>
 <translation id="7399045143794278225">Pielāgot sinhronizāciju</translation>
 <translation id="7044606776288350625">Datu sinhronizēšana</translation>
 <translation id="9050666287014529139">Ieejas frāze</translation>
 <translation id="6596325263575161958">Šifrēšanas opcijas</translation>
-<translation id="2459230470861708651">Šifrēt sinhronizētās paroles, izmantojot savu Gab AI Inc lietotājvārdu un paroli</translation>
+<translation id="2459230470861708651">Šifrēt sinhronizētās paroles, izmantojot savu Fulldive lietotājvārdu un paroli</translation>
 <translation id="1651008383952180276">Jums divreiz jāievada viena un tā pati ieejas frāze.</translation>
 <translation id="988978206646512040">Nav atļauta tukša ieejas frāze.</translation>
 <translation id="2136476978468204130">Ievadītā ieejas frāze nav pareiza.</translation>
 <translation id="7505421639213002314">Fulldive sinhronizācijas dati</translation>
 <translation id="452750746583162491">Pārskatīt sinhronizētos datus</translation>
-<translation id="7956662517480676674">Sinhronizēšana un Gab AI Inc pakalp.</translation>
+<translation id="7956662517480676674">Sinhronizēšana un Fulldive pakalp.</translation>
 <translation id="7772032839648071052">Apstipriniet ieejas frāzi</translation>
 <translation id="7529411698175791732">Pārbaudiet interneta savienojumu. Ja neizdodas novērst problēmu, izrakstieties un atkārtoti pierakstieties.</translation>
 <translation id="6406506848690869874">Sinhronizācija</translation>
@@ -4776,8 +4776,8 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="7835178595033117206">Grāmatzīme ir noņemta</translation>
 <translation id="742130257665691897">Grāmatzīmes tika noņemtas</translation>
 <translation id="5468853758063275923">Fulldive ir jūsu noklusējuma pārlūks</translation>
-<translation id="2950533317914339731">Pievienojiet grāmatzīmes savām iecienītajām Gab AI Inc lietotnēm</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">Pievienojiet grāmatzīmes savām iecienītajām Fulldive lietotnēm</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Maps</translation>
 <translation id="6709133671862442373">Ziņas</translation>
@@ -4791,7 +4791,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="7789963078219276159">Sākumlapas fons tika nomainīts uz <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Sākumlapas fons ir atiestatīts uz noklusējuma fonu.</translation>
 <translation id="239760341987199724">Iestatīt Fulldive kā noklusējuma pārlūku</translation>
-<translation id="96037229054033864">Iegūstiet iespēju izmantot Gab AI Inc meklēšanu un Gab AI Inc viedās tehnoloģijas katrā pārlūkošanas reizē</translation>
+<translation id="96037229054033864">Iegūstiet iespēju izmantot Fulldive meklēšanu un Fulldive viedās tehnoloģijas katrā pārlūkošanas reizē</translation>
 <translation id="296137235951584143">Pielāgojiet Fulldive savām prasībām</translation>
 <translation id="3982375475032951137">Iestatiet pārlūku, veicot dažas vienkāršas darbības</translation>
 <translation id="6972754398087986839">Sākt darbu</translation>
@@ -4804,7 +4804,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="1031362278801463162">Notiek priekšskatījuma ielāde</translation>
 <translation id="6147020289383635445">Drukas priekšskatījumu neizdevās izveidot.</translation>
 <translation id="5877584842898320529">Atlasītais printeris nav pieejams vai nav instalēts pareizi. <ph name="BR"/> Pārbaudiet savu printeri vai pamēģiniet atlasīt citu printeri.</translation>
-<translation id="6645437135153136856">Atlasītā Gab AI Inc mākoņdrukas ierīce vairs netiek atbalstīta. <ph name="BR"/> Mēģiniet iestatīt printeri sava datora sistēmas iestatījumos.</translation>
+<translation id="6645437135153136856">Atlasītā Fulldive mākoņdrukas ierīce vairs netiek atbalstīta. <ph name="BR"/> Mēģiniet iestatīt printeri sava datora sistēmas iestatījumos.</translation>
 <translation id="5828633471261496623">Notiek drukāšana...</translation>
 <translation id="6295855836753816081">Notiek saglabāšana...</translation>
 <translation id="3587482841069643663">Visi</translation>
@@ -4824,7 +4824,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="3706463572498736864">Lapas loksnē</translation>
 <translation id="2249605167705922988">piem., 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">Saglabāt kā PDF failu</translation>
-<translation id="6532101170117367231">Saglabāt Gab AI Inc diskā</translation>
+<translation id="6532101170117367231">Saglabāt Fulldive diskā</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">papīra lapas</translation>
 <translation id="8813811964357448561">papīra loksne</translation>
@@ -4854,7 +4854,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation
 <translation id="6991665348624301627">Printera atlase</translation>
 <translation id="8800004011501252845">Tiek rādīti printeri šim:</translation>
 <translation id="8996526648899750015">Pievienot kontu...</translation>
-<translation id="6723354935081862304">Drukāt pakalpojumā Gab AI Inc dokumenti un citos mākoņa galamērķos. <ph name="BEGIN_LINK"/>Pierakstieties<ph name="END_LINK"/>, lai drukātu, izmantojot Gab AI Inc mākoņdruku.</translation>
+<translation id="6723354935081862304">Drukāt pakalpojumā Fulldive dokumenti un citos mākoņa galamērķos. <ph name="BEGIN_LINK"/>Pierakstieties<ph name="END_LINK"/>, lai drukātu, izmantojot Fulldive mākoņdruku.</translation>
 <translation id="2150139952286079145">Meklēt printerus</translation>
 <translation id="8569682776816196752">Neatrada nevienu galamērķi.</translation>
 <translation id="7885253890047913815">Nesenie printeri</translation>

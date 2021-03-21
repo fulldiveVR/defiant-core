@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">Otsingutulemusi ei leitud</translation>
 <translation id="8967866634928501045">Kuvamiseks vajutage klahvi Alt + tõstuklahvi + klahvi A</translation>
 <translation id="998747458861718449">I&amp;nspekteeri</translation>
-<translation id="4428301600092811022">Kas hankida Gab AI Inc'ist piltide kirjeldused?</translation>
+<translation id="4428301600092811022">Kas hankida Fulldive'ist piltide kirjeldused?</translation>
 <translation id="741204030948306876">Jah, sobib</translation>
 <translation id="780301667611848630">Ei, aitäh</translation>
 <translation id="3943582379552582368">&amp;Tagasi</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">&amp;Kleebi</translation>
 <translation id="2218515861914035131">Kleebib lihttekstina</translation>
 <translation id="1017280919048282932">&amp;Lisa sõnaraamat</translation>
-<translation id="1732768497619250086">Gab AI Inc'ist piltide kirjelduste hankimine</translation>
+<translation id="1732768497619250086">Fulldive'ist piltide kirjelduste hankimine</translation>
 <translation id="7561196759112975576">Alati</translation>
 <translation id="2241634353105152135">Ainult ühe korra</translation>
 <translation id="3387614642886316601">Kasuta täiustatud õigekirjakontrolli</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">Lülita sisse</translation>
 <translation id="7658239707568436148">Tühista</translation>
 <translation id="8915370057835397490">Soovituste laadimine</translation>
-<translation id="6191804255817539692">Gab AI Inc'ilt ei ole rohkem soovitusi</translation>
+<translation id="6191804255817539692">Fulldive'ilt ei ole rohkem soovitusi</translation>
 <translation id="1901303067676059328">Vali &amp;kõik</translation>
 <translation id="3797900183766075808">&amp;Otsi otsingumootoriga <ph name="SEARCH_ENGINE"/> terminit „<ph name="SEARCH_TERMS"/>”</translation>
 <translation id="2721037002783622288">&amp;Otsi teenusest <ph name="SEARCH_ENGINE"/> kujutist</translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">&amp;Kleebi</translation>
 <translation id="1815083418640426271">Kleebi lihttekstina</translation>
 <translation id="4022426551683927403">&amp;Lisa sõnaraamatule</translation>
-<translation id="6849870115130610913">Gab AI Inc'ist piltide kirjelduste hankimine</translation>
+<translation id="6849870115130610913">Fulldive'ist piltide kirjelduste hankimine</translation>
 <translation id="372722114124766626">Ainult üks kord</translation>
 <translation id="4079140982534148664">Kasuta täiustatud õigekirjakontrolli</translation>
 <translation id="7487141338393529395">Lülita sisse täiustatud õigekirjakontroll</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/> sisaldab tundlikku sisu.</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/> sisaldab tundlikku sisu ja see on blokeeritud.</translation>
 <translation id="6651823585377804376">Allalaaditud fail sisaldab pahavara.</translation>
-<translation id="6529597483902964581"><ph name="FILE_NAME"/> võib olla ohtlik. Kas saata skannimiseks Gab AI Inc'i täiustatud kaitse programmile?</translation>
+<translation id="6529597483902964581"><ph name="FILE_NAME"/> võib olla ohtlik. Kas saata skannimiseks Fulldive'i täiustatud kaitse programmile?</translation>
 <translation id="4907161631261076876">Seda faili ei laadita tavaliselt alla ja see võib olla ohtlik.</translation>
 <translation id="6102043788063419338">Täiustatud kaitse blokeeris selle faili.</translation>
 <translation id="2773802008104670137">Seda tüüpi fail võib teie arvutit kahjustada.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Allalaadimine on tühistatud: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Allalaadimine on lõpule viidud: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Allalaadimine on lõpule viidud: <ph name="FILE_NAME"/>. Allalaadimiste riba valikute vahel vahetamiseks vajutage klahvikombinatsiooni Tõstuklahv + F6.</translation>
-<translation id="7033965027041115562"><ph name="FILE_NAME"/> võib olla ohtlik. Kas saata skannimiseks Gab AI Inc'i täiustatud kaitse programmile? Allalaadimiste riba valikute vahel vahetamiseks vajutage klahvikombinatsiooni Tõstuklahv + F6.</translation>
+<translation id="7033965027041115562"><ph name="FILE_NAME"/> võib olla ohtlik. Kas saata skannimiseks Fulldive'i täiustatud kaitse programmile? Allalaadimiste riba valikute vahel vahetamiseks vajutage klahvikombinatsiooni Tõstuklahv + F6.</translation>
 <translation id="2743387203779672305">Kopeeri lõikelauale</translation>
 <translation id="883911313571074303">Lisa kujutisele märkused</translation>
 <translation id="6291953229176937411">&amp;Näita otsijas</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">Välju</translation>
 <translation id="7376221878517288144">Kas sulgeda siiski privaatne režiim?</translation>
 <translation id="973473557718930265">Välju</translation>
-<translation id="7707599169365957976">Võite aidata ohutut sirvimist täiustada, saates Gab AI Inc'ile süsteemiteavet ja lehesisu.</translation>
+<translation id="7707599169365957976">Võite aidata ohutut sirvimist täiustada, saates Fulldive'ile süsteemiteavet ja lehesisu.</translation>
 <translation id="4923279099980110923">Jah, soovin aidata</translation>
 <translation id="2316129865977710310">Ei, aitäh</translation>
 <translation id="9169931577761441333">Lisa <ph name="APP_NAME"/> avaekraanile</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">Teema „<ph name="THEME_NAME"/>“ installitud</translation>
 <translation id="2256115617011615191">Taaskäivita kohe</translation>
 <translation id="4545028762441890696">Uuesti lubamiseks nõustuge uute lubadega:</translation>
-<translation id="3009487527589249344">Gab AI Inc märgistas laienduse „<ph name="EXTENSION_NAME"/>” pahatahtlikuks ja installimine blokeeriti</translation>
+<translation id="3009487527589249344">Fulldive märgistas laienduse „<ph name="EXTENSION_NAME"/>” pahatahtlikuks ja installimine blokeeriti</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> lisati kaugühenduse kaudu</translation>
 <translation id="1841705068325380214">Laiendus <ph name="EXTENSION_NAME"/> on keelatud</translation>
 <translation id="595959584676692139">Selle laiendi kasutamiseks laadige leht uuesti</translation>
@@ -970,7 +970,7 @@
 <translation id="3584169441612580296">Arvutis olevate fotode, muusika ja muu meedia lugemine ja muutmine</translation>
 <translation id="5457459357461771897">Arvutis olevate fotode, muusika ja muu meedia lugemine ja kustutamine</translation>
 <translation id="3270965368676314374">Arvutis olevate fotode, muusika ja muu meedia lugemine, muutmine ja kustutamine</translation>
-<translation id="1285484354230578868">Salvestage andmed oma Gab AI Inc Drive'i kontole</translation>
+<translation id="1285484354230578868">Salvestage andmed oma Fulldive Drive'i kontole</translation>
 <translation id="378312418865624974">Arvuti ainuidentifikaatori lugemine</translation>
 <translation id="5094721898978802975">Side koostööd tegevate omarakendustega</translation>
 <translation id="4876895919560854374">Ekraani lukustamine ja avamine</translation>
@@ -1181,7 +1181,7 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="8756969031206844760">Kas värskendada parooli?</translation>
 <translation id="8230134520748321204">Kas salvestada saidi <ph name="ORIGIN"/> parool?</translation>
 <translation id="9040661932550800571">Kas värskendada saidi <ph name="ORIGIN"/> parooli?</translation>
-<translation id="8284000761603848448">Paroolid salvestatakse teie Gab AI Inc'i kontole, et saaksite neid kasutada mis tahes seadmes</translation>
+<translation id="8284000761603848448">Paroolid salvestatakse teie Fulldive'i kontole, et saaksite neid kasutada mis tahes seadmes</translation>
 <translation id="8286036467436129157">Logi sisse</translation>
 <translation id="8009225694047762179">Halda paroole</translation>
 <translation id="3950820424414687140">Sisselogimine</translation>
@@ -1189,10 +1189,10 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="328571385944182268">Kas salvestada teie paroolid?</translation>
 <translation id="3753033997400164841">Salvestage üks kord. Kasutage kõikjal.</translation>
 <translation id="1703331064825191675">Te ei pea kunagi oma paroolide pärast muretsema</translation>
-<translation id="2341030170677284705">Salvestage paroolid turvaliselt oma Gab AI Inc'i kontole ja te ei pea neid enam kunagi sisestama</translation>
-<translation id="3913985461352963178">Pääsete oma paroolidele juurde alati, kui olete oma Gab AI Inc'i kontole sisse logitud</translation>
-<translation id="4851124464356820177">Paroolide salvestamiseks oma Gab AI Inc'i kontole logige sisse ja lülitage sünkroonimine sisse.</translation>
-<translation id="3229869963989850535">Paroolide salvestamiseks oma Gab AI Inc'i kontole lülitage sisse sünkroonimine.</translation>
+<translation id="2341030170677284705">Salvestage paroolid turvaliselt oma Fulldive'i kontole ja te ei pea neid enam kunagi sisestama</translation>
+<translation id="3913985461352963178">Pääsete oma paroolidele juurde alati, kui olete oma Fulldive'i kontole sisse logitud</translation>
+<translation id="4851124464356820177">Paroolide salvestamiseks oma Fulldive'i kontole logige sisse ja lülitage sünkroonimine sisse.</translation>
+<translation id="3229869963989850535">Paroolide salvestamiseks oma Fulldive'i kontole lülitage sisse sünkroonimine.</translation>
 <translation id="1056466516655540509">Värskendatud <ph name="MINUTES"/> minutit tagasi</translation>
 <translation id="8743864605301774756">Värskendatud 1 tund tagasi</translation>
 <translation id="7363117941401515667">Värskendatud <ph name="HOURS"/> tundi tagasi</translation>
@@ -1296,9 +1296,9 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="1246905108078336582">Kas eemaldada soovitus lõikelaualt?</translation>
 <translation id="825238165904109940">Kuva alati täielikud URL-id</translation>
 <translation id="3416468988018290825">Kuva alati täielikud URL-id</translation>
-<translation id="2129873093718581193">Otsige Gab AI Inc'ist või sisestage URL</translation>
-<translation id="6363797201514053536">Otsige Gab AI Inc'ist või sisestage URL</translation>
-<translation id="4888839742663123585">Otsige Gab AI Inc'ist</translation>
+<translation id="2129873093718581193">Otsige Fulldive'ist või sisestage URL</translation>
+<translation id="6363797201514053536">Otsige Fulldive'ist või sisestage URL</translation>
+<translation id="4888839742663123585">Otsige Fulldive'ist</translation>
 <translation id="6078323886959318429">Otsetee lisamine</translation>
 <translation id="6324916366299863871">Otsetee muutmine</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1482,35 +1482,35 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="6798578729981748444">Importimise lõpetamiseks sulgege kõik Firefoxi aknad.</translation>
 <translation id="6374469231428023295">Proovi uuesti</translation>
 <translation id="8725066075913043281">Proovi uuesti</translation>
-<translation id="4196805003686694274">Gab AI Inc’ile tagasiside saatmine</translation>
+<translation id="4196805003686694274">Fulldive’ile tagasiside saatmine</translation>
 <translation id="3424969259347320884">Kirjeldage, mida te vahelehe kokkujooksmise ajal tegite</translation>
-<translation id="1892630320532151038">Gab AI Inc’ile tagasiside saatmine</translation>
+<translation id="1892630320532151038">Fulldive’ile tagasiside saatmine</translation>
 <translation id="2428510569851653187">Kirjeldage, mida te vahelehe kokkujooksmise ajal tegite</translation>
 <translation id="5659593005791499971">Meil</translation>
 <translation id="2982970937345031">Anonüümselt teavitamine</translation>
 <translation id="6076448957780543068">Lisa see ekraanipilt</translation>
 <translation id="2865919525181940183">Ekraanipilt programmidest, mis on praegu ekraanil kuvatud</translation>
 <translation id="7052237160939977163">Saada toimivuse jälgimise andmeid</translation>
-<translation id="5526928694260255286">Manusta <ph name="BEGIN_LINK"/>Bluetoothi logid<ph name="END_LINK"/> (Gab AI Inc'ile sisemiseks kasutamiseks)</translation>
+<translation id="5526928694260255286">Manusta <ph name="BEGIN_LINK"/>Bluetoothi logid<ph name="END_LINK"/> (Fulldive'ile sisemiseks kasutamiseks)</translation>
 <translation id="3047644958362961983">See teave aitab meil teie assistendiga seotud probleemi paremini mõista. See talletatakse kuni 90 päevaks ning sellele pääsevad juurde ainult asjakohased inseneri- ja tagasisidetiimid.</translation>
-<translation id="8545590844135745781">Bluetoothi probleemide paremaks diagnoosimiseks võivad Gab AI Inc'i kasutajad tagasiside aruannetesse lisada täiendavad Bluetoothi logid. Kui see valik on märgitud, hõlmab teie aruanne teie praeguse seansi btsnoopi ja HCI logisid, millest on eemaldataud võimalikult palju isikut tuvastavat teavet. Nendele logidele pääsevad juurde ainult Fulldive OS-i tootegrupi haldurid teenuses Listnr. Logid kustutatakse lõplikult 90 päeva pärast.</translation>
+<translation id="8545590844135745781">Bluetoothi probleemide paremaks diagnoosimiseks võivad Fulldive'i kasutajad tagasiside aruannetesse lisada täiendavad Bluetoothi logid. Kui see valik on märgitud, hõlmab teie aruanne teie praeguse seansi btsnoopi ja HCI logisid, millest on eemaldataud võimalikult palju isikut tuvastavat teavet. Nendele logidele pääsevad juurde ainult Fulldive OS-i tootegrupi haldurid teenuses Listnr. Logid kustutatakse lõplikult 90 päeva pärast.</translation>
 <translation id="4206323443866416204">Tagasisidearuanne</translation>
 <translation id="3681311097828166361">Täname teid tagasiside eest. Te pole praegu võrguga ühendatud ja aruanne saadetakse hiljem.</translation>
 <translation id="8713570323158206935">Saada <ph name="BEGIN_LINK1"/>süsteemiteave<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962">Saada <ph name="BEGIN_LINK1"/>süsteemiteave<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>mõõdikud<ph name="END_LINK2"/></translation>
 <translation id="6270770586500173387">Saada <ph name="BEGIN_LINK1"/>süsteemi ja rakenduste teavet<ph name="END_LINK1"/> ning <ph name="BEGIN_LINK2"/>mõõdikuid<ph name="END_LINK2"/></translation>
 <translation id="3894123633473837029">Assistendi hiljutise ajaloo kaasamine Sherlogi kaudu. See võib hõlmata teie identiteeti, asukohta ja silumisteavet. <ph name="BEGIN_LINK"/>Lisateave<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">Fail saadetakse silumiseks Gab AI Inc'ile</translation>
+<translation id="8329196515830093443">Fail saadetakse silumiseks Fulldive'ile</translation>
 <translation id="8227119283605456246">Manusta fail</translation>
 <translation id="5367091008316207019">Faili lugemine ...</translation>
 <translation id="2554553592469060349">Valitud fail on liiga suur (max suurus on 3 MB).</translation>
 <translation id="4690091457710545971">&lt;Inteli WiFi püsivara lõi neli faili: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon. Esimesed kolm on binaarfailid, mis sisaldavad registritõmmiseid, ja Intel kinnitab, et need ei hõlma isiklikke andmeid ega seadme tuvastamist võimaldavat teavet. Viimane fail on Inteli püsivara käivitusjälg, kust on eemaldatud kõik isiklikud ja seadme andmed, ent fail on siin kuvamiseks liiga suur. Need failid loodi seadmes hiljuti esinenud WiFi probleemide tõttu ning neid jagatakse Inteliga, et hõlbustada probleemide veaotsingut.&gt;</translation>
-<translation id="6972420083546794501">Sisu muutmiseks juriidilistel põhjustel minge <ph name="BEGIN_LINK1"/>juriidilise abi lehele<ph name="END_LINK1"/>. Gab AI Inc'ile võidakse saata teatud konto- ja süsteemiteavet. Kasutame teie antud teavet tehniliste probleemide lahendamiseks ja oma teenuste parandamiseks. Teabe kasutamisel kehtivad meie <ph name="BEGIN_LINK2"/>privaatsuseeskirjad<ph name="END_LINK2"/> ja <ph name="BEGIN_LINK3"/>teenusetingimused<ph name="END_LINK3"/>.</translation>
+<translation id="6972420083546794501">Sisu muutmiseks juriidilistel põhjustel minge <ph name="BEGIN_LINK1"/>juriidilise abi lehele<ph name="END_LINK1"/>. Fulldive'ile võidakse saata teatud konto- ja süsteemiteavet. Kasutame teie antud teavet tehniliste probleemide lahendamiseks ja oma teenuste parandamiseks. Teabe kasutamisel kehtivad meie <ph name="BEGIN_LINK2"/>privaatsuseeskirjad<ph name="END_LINK2"/> ja <ph name="BEGIN_LINK3"/>teenusetingimused<ph name="END_LINK3"/>.</translation>
 <translation id="7915471803647590281">Teatage meile enne tagasiside saatmist, mis toimub.</translation>
 <translation id="6885771755599377173">Süsteemiteabe eelvaade</translation>
 <translation id="1016566241875885511">Lisateave (valikuline)</translation>
 <translation id="8026334261755873520">Sirvimisandmete kustutamine</translation>
-<translation id="4718442817388594217">Valitud andmed eemaldati Fulldive'ist ja sünkroonitud seadmetest. Aadressil <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> võib teie Gab AI Inc'i kontol olla muus vormis sirvimisajalugu, nt otsingud ja muudes Gab AI Inc'i teenustes toimunud tegevused.</translation>
+<translation id="4718442817388594217">Valitud andmed eemaldati Fulldive'ist ja sünkroonitud seadmetest. Aadressil <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> võib teie Fulldive'i kontol olla muus vormis sirvimisajalugu, nt otsingud ja muudes Fulldive'i teenustes toimunud tegevused.</translation>
 <translation id="7814200940910057384">Fulldive'i andmed kustutati</translation>
 <translation id="7346909386216857016">Selge, sain aru</translation>
 <translation id="8493236660459102203">Mikrofon:</translation>
@@ -1533,7 +1533,7 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="284805635805850872">Kas eemaldada kahjulik tarkvara?</translation>
 <translation id="489985760463306091">Kahjuliku tarkvara eemaldamise lõpuleviimiseks taaskäivitage arvuti</translation>
 <translation id="7598466960084663009">Taaskäivita arvuti</translation>
-<translation id="2819091349626575960">Teavita üksikasjadest Gab AI Inc'it</translation>
+<translation id="2819091349626575960">Teavita üksikasjadest Fulldive'it</translation>
 <translation id="4099060993766194518">Kas taastada vaikeotsingumootor?</translation>
 <translation id="138784436342154190">Kas taastada käivitamisel avatav vaikeleht?</translation>
 <translation id="5086874064903147617">Kas taastada vaikeavaleht?</translation>
@@ -1643,10 +1643,10 @@ Hoidke oma võtmefail kindlas kohas. Teil läheb seda oma laiendi uute versiooni
 <translation id="3693415264595406141">Parool:</translation>
 <translation id="9111102763498581341">Ava lukk</translation>
 <translation id="2190355936436201913">(tühi)</translation>
-<translation id="9079153198295609735">Saada kasutusstatistika ja krahhiaruanded automaatselt Gab AI Inc'ile</translation>
+<translation id="9079153198295609735">Saada kasutusstatistika ja krahhiaruanded automaatselt Fulldive'ile</translation>
 <translation id="7136984461011502314">Tere tulemast rakendusse <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> oma valmis teie installi lõpuni viima</translation>
-<translation id="4711067597921221305">Aidake muuta rakendus <ph name="PRODUCT_NAME"/> paremaks, saates Gab AI Inc'ile automaatselt kasutusstatistikat ja veaaruandeid</translation>
+<translation id="4711067597921221305">Aidake muuta rakendus <ph name="PRODUCT_NAME"/> paremaks, saates Fulldive'ile automaatselt kasutusstatistikat ja veaaruandeid</translation>
 <translation id="5972826969634861500">Käivita <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Aidake meie inseneridel seda kokkujooksmist uurida ja see parandada. Võimaluse korral loetlege täpselt tehtud toimingud. Ükski pisiasi pole liiga väike!</translation>
 <translation id="5418694430960033386">Fulldive'i mälu sai otsa või veebilehe protsess lõpetati muul põhjusel. Jätkamiseks laadige uuesti või minge muule lehele.</translation>
@@ -1659,7 +1659,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Platvorm</translation>
 <translation id="7022562585984256452">Teie avaleht on määratud.</translation>
-<translation id="8069615408251337349">Gab AI Inc'i pilvprintimine</translation>
+<translation id="8069615408251337349">Fulldive'i pilvprintimine</translation>
 <translation id="4973307593867026061">Lisa printereid</translation>
 <translation id="9052208328806230490">Olete oma printerid registreerinud rakenduse <ph name="CLOUD_PRINT_NAME"/> abil kontot <ph name="EMAIL"/> kasutades</translation>
 <translation id="3792890930871100565">Eemalda printereid</translation>
@@ -1693,7 +1693,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="7063129466199351735">Otseteede töötlemine ...</translation>
 <translation id="8987927404178983737">kuu</translation>
 <translation id="6015796118275082299">Aasta</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Kasutage süsteemi pealkirjariba ja ääriseid</translation>
 <translation id="3293644607209440645">Saada leht</translation>
 <translation id="1521774566618522728">Aktiivne täna</translation>
@@ -1747,7 +1747,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="8930351635855238750">Uued küpsiste seaded rakenduvad pärast lehe uuesti laadimist</translation>
 <translation id="2568774940984945469">Teaberiba ümbris</translation>
 <translation id="7282992757463864530">Teaberiba</translation>
-<translation id="1805077115206898822">Teie järjehoidjaid, ajalugu ja muud seaded sünkroonitakse Gab AI Inc'i kontoga.</translation>
+<translation id="1805077115206898822">Teie järjehoidjaid, ajalugu ja muud seaded sünkroonitakse Fulldive'i kontoga.</translation>
 <translation id="1974060860693918893">Täpsemad</translation>
 <translation id="2445484935443597917">Loo uus profiil</translation>
 <translation id="2606246518223360146">Lingi andmed</translation>
@@ -1834,7 +1834,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6387674443318562538">Vertikaalne poolitamine</translation>
 <translation id="1231733316453485619">Kas lülitada sünkroonimine sisse?</translation>
 <translation id="4736292055110123391">Järjehoidjate, paroolide, ajalugu ja muu sünkroonimine kõigis teie seadmetes</translation>
-<translation id="5736731321935944068">Gab AI Inc võib kasutada teie ajalugu otsingu, reklaamide ja muude Gab AI Inc'i teenuste isikupärastamiseks</translation>
+<translation id="5736731321935944068">Fulldive võib kasutada teie ajalugu otsingu, reklaamide ja muude Fulldive'i teenuste isikupärastamiseks</translation>
 <translation id="4201546031411513170">Jaotises Seaded saate igal ajal valida, mida sünkroonida.</translation>
 <translation id="2497852260688568942">Administraator on sünkroonimise keelanud</translation>
 <translation id="562935524653278697">Teie administraator on järjehoidjate, ajaloo, paroolide ja muude seadete sünkroonimise keelanud.</translation>
@@ -1913,10 +1913,10 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6198102561359457428">Logige välja ja uuesti sisse ...</translation>
 <translation id="4634771451598206121">Logi uuesti sisse ...</translation>
 <translation id="7117247127439884114">Logi uuesti sisse ...</translation>
-<translation id="4251909665067750757">Logige sisse, et teie järjehoidjad, ajalugu, paroolid ja muud seaded oleksid kõikides seadmetes saadaval. Teid logitakse ka automaatselt sisse Gab AI Inc'i teenustesse.</translation>
+<translation id="4251909665067750757">Logige sisse, et teie järjehoidjad, ajalugu, paroolid ja muud seaded oleksid kõikides seadmetes saadaval. Teid logitakse ka automaatselt sisse Fulldive'i teenustesse.</translation>
 <translation id="2749756011735116528">Logi sisse teenusesse <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Administraator on sünkroonimise keelanud.</translation>
-<translation id="5462539695964427820">Sünkroonimine on Gab AI Inc Dashboardi kaudu peatatud.</translation>
+<translation id="5462539695964427820">Sünkroonimine on Fulldive Dashboardi kaudu peatatud.</translation>
 <translation id="8805140816472474147">Sünkroonimise alustamiseks kinnitage sünkroonimisseaded.</translation>
 <translation id="5771816112378578655">Seadistus käimas...</translation>
 <translation id="3492788708641132712">Sünkroonimine ei tööta. Proovige uuesti sisse logida.</translation>
@@ -1930,16 +1930,16 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1877520246462554164">Autentimismärgi hankimine ebaõnnestus. Uuesti proovimiseks logige välja ja seejärel uuesti sisse.</translation>
 <translation id="9100765901046053179">Täpsemad seaded</translation>
 <translation id="2731700343119398978">Oodake ...</translation>
-<translation id="7218743184834293955">Andmed on krüpteeritud teie sünkroonimisparooliga. See ei hõlma Gab AI Inc Pay makseviise ja aadresse.</translation>
+<translation id="7218743184834293955">Andmed on krüpteeritud teie sünkroonimisparooliga. See ei hõlma Fulldive Pay makseviise ja aadresse.</translation>
 <translation id="7158251077901880179">Andmed krüpteeriti teie sünkroonimisparooliga
-          <ph name="TIME"/>. See ei hõlma Gab AI Inc Pay makseviise ja aadresse.</translation>
-<translation id="1171389789873508468">Andmed krüpteeriti teie Gab AI Inc'i parooliga
-          <ph name="TIME"/>. See ei hõlma Gab AI Inc Pay makseviise ja aadresse.</translation>
+          <ph name="TIME"/>. See ei hõlma Fulldive Pay makseviise ja aadresse.</translation>
+<translation id="1171389789873508468">Andmed krüpteeriti teie Fulldive'i parooliga
+          <ph name="TIME"/>. See ei hõlma Fulldive Pay makseviise ja aadresse.</translation>
 <translation id="2562743677925229011">Pole teenusesse <ph name="SHORT_PRODUCT_NAME"/> sisse logitud</translation>
 <translation id="4027804175521224372">(Jääte heast ilma – <ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">logi sisse</translation>
 <translation id="237828693408258535">Kas tõlkida see leht?</translation>
-<translation id="4613765529964435709">Kas soovite lasta Gab AI Inc'il selle lehe tõlkida <ph name="SOURCE_LANGUAGE"/> keelest <ph name="TARGET_LANGUAGE"/> keelde?</translation>
+<translation id="4613765529964435709">Kas soovite lasta Fulldive'il selle lehe tõlkida <ph name="SOURCE_LANGUAGE"/> keelest <ph name="TARGET_LANGUAGE"/> keelde?</translation>
 <translation id="5990386583461751448">Tõlgitud</translation>
 <translation id="5659833766619490117">Seda lehte ei õnnestunud tõlkida.</translation>
 <translation id="969096075394517431">Keelte vahetamine</translation>
@@ -2118,7 +2118,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6309510305002439352">Mikrofon on välja lülitatud</translation>
 <translation id="1322046419516468189">Vaadake ja hallake oma salvestatud paroole siin: <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Parool salvestati. Vaadake ja hallake salvestatud paroole siin: <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Gab AI Inc'i konto</translation>
+<translation id="5713644099811900409">Fulldive'i konto</translation>
 <translation id="3785727820640310185">Selle saidi jaoks salvestatud paroolid</translation>
 <translation id="3404065873681873169">Selle saidi jaoks ei ole salvestatud ühtki parooli</translation>
 <translation id="8470513973197838199">Salvestatud paroolid – <ph name="ORIGIN"/></translation>
@@ -2231,7 +2231,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{#. ekraan}other{#. ekraan}}</translation>
 <translation id="839736845446313156">Registreerumine</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{Teie võrgus on uus printer}other{Teie võrgus on uued printerid}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Lisage printer teenusesse Gab AI Inc'i pilvprintimine, et saaksite printida kõikjal.}other{Lisage # printerit teenusesse Gab AI Inc'i pilvprintimine, et saaksite printida kõikjal.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Lisage printer teenusesse Fulldive'i pilvprintimine, et saaksite printida kõikjal.}other{Lisage # printerit teenusesse Fulldive'i pilvprintimine, et saaksite printida kõikjal.}}</translation>
 <translation id="409579654357498729">Lisa pilvprintimisse</translation>
 <translation id="4628757576491864469">Seadmed</translation>
 <translation id="6915804003454593391">Kasutaja:</translation>
@@ -2241,8 +2241,8 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1895934970388272448">Protsessi lõpetamiseks peate kinnitama registreerimise oma printeris. Vaadake kohe.</translation>
 <translation id="551752069230578406">Printeri lisamine teie kontole – see võib võtta natuke aega ...</translation>
 <translation id="2384436799579181135">Ilmnes viga. Kontrollige printerit ja proovige uuesti.</translation>
-<translation id="1327074568633507428">Printer Gab AI Inc'i pilvprintimises</translation>
-<translation id="6782994146626179935">Seade Gab AI Inc'i pilvseadmetes</translation>
+<translation id="1327074568633507428">Printer Fulldive'i pilvprintimises</translation>
+<translation id="6782994146626179935">Seade Fulldive'i pilvseadmetes</translation>
 <translation id="7140928199327930795">Saadaval pole ühtegi muud seadet.</translation>
 <translation id="8213577208796878755">Saadaval on veel üks rakendus.</translation>
 <translation id="1495486559005647033">Saadaval on veel <ph name="NUM_PRINTERS"/> seadet.</translation>
@@ -2258,7 +2258,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="715118844758971915">Tavaprinterid</translation>
 <translation id="4263757076580287579">Printeri registreerimine on tühistatud.</translation>
 <translation id="8152091997436726702">Printeri registreerimine on aegunud. Printeri registreerimiseks peate registreerimise printeris kinnitama.</translation>
-<translation id="2624930408905606513">Dokumendid <ph name="BEGIN_LINK_HELP"/>saadetakse Gab AI Inc'ile<ph name="END_LINK_HELP"/>, et need printimiseks ette valmistada. <ph name="BEGIN_LINK_DASHBOARD"/>Gab AI Inc'i pilvprintimise juhtpaneelil<ph name="END_LINK_DASHBOARD"/> saate printereid vaadata, muuta ja hallata.</translation>
+<translation id="2624930408905606513">Dokumendid <ph name="BEGIN_LINK_HELP"/>saadetakse Fulldive'ile<ph name="END_LINK_HELP"/>, et need printimiseks ette valmistada. <ph name="BEGIN_LINK_DASHBOARD"/>Fulldive'i pilvprintimise juhtpaneelil<ph name="END_LINK_DASHBOARD"/> saate printereid vaadata, muuta ja hallata.</translation>
 <translation id="3082780749197361769">See vahekaart kasutab teie kaamerat või mikrofoni.</translation>
 <translation id="3578594933904494462">Selle vahekaardi sisu jagatakse.</translation>
 <translation id="4449996769074858870">See vahekaart esitab heli.</translation>
@@ -2385,14 +2385,14 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="7055152154916055070">Ümbersuunamine blokeeriti:</translation>
 <translation id="6777817260680419853">Ümbersuunamine blokeeriti</translation>
 <translation id="694592694773692225">Ümbersuunamine on sellel lehel blokeeritud.</translation>
-<translation id="8945142681652245463">Gab AI Inc Fulldive'iga sirvite kiirelt</translation>
-<translation id="2618024864038703735">Sirvige Gab AI Inc Fulldive'iga ohutult</translation>
+<translation id="8945142681652245463">Fulldive Fulldive'iga sirvite kiirelt</translation>
+<translation id="2618024864038703735">Sirvige Fulldive Fulldive'iga ohutult</translation>
 <translation id="8142180567942285208">Fulldive'iga sirvite nutikalt</translation>
 <translation id="8862003515646449717">Minge üle kiirele brauserile</translation>
 <translation id="8438328416656800239">Minge üle nutikale brauserile</translation>
 <translation id="491691592645955587">Minge üle turvalisele brauserile</translation>
 <translation id="683373380308365518">Minge üle nutikale ja turvalisele brauserile</translation>
-<translation id="989239400026154074">Gab AI Inc soovitab Fulldive'i</translation>
+<translation id="989239400026154074">Fulldive soovitab Fulldive'i</translation>
 <translation id="6676231621615806698">Ava Fulldive</translation>
 <translation id="5250372599208556903">Otsingumootor <ph name="SEARCH_ENGINE_NAME"/> kasutab teile kohaliku sisu pakkumiseks teie asukohta. Seda saate muuta menüüs <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Teie allalaadimised kuvatakse siin</translation>
@@ -2558,7 +2558,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="2878782256107578644">Skannimine on pooleli. Kas avada kohe?</translation>
 <translation id="6098793583803863900">Tundmatut faili kontrollitakse ohtliku sisu suhtes.</translation>
 <translation id="7584578941316704630">Kas skannida enne avamist?</translation>
-<translation id="4467402456678825062">Valitud fail on tundmatu ja võib olla ohtlik. Kas saata skannimiseks Gab AI Inc'i täiustatud kaitse programmile?</translation>
+<translation id="4467402456678825062">Valitud fail on tundmatu ja võib olla ohtlik. Kas saata skannimiseks Fulldive'i täiustatud kaitse programmile?</translation>
 <translation id="2587922766792651800">Ajalõpp</translation>
 <translation id="4404136731284211429">Skanni uuesti</translation>
 <translation id="6428450836711225518">Kinnitage oma telefoninumber</translation>
@@ -2566,7 +2566,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6518133107902771759">Kinnita</translation>
 <translation id="4379281552162875326">Kas desinstallida „<ph name="APP_NAME"/>”?</translation>
 <translation id="8812593354822910461">Kustutage ka sirvimisandmed (<ph name="URL"/>). See võib teid saidilt <ph name="DOMAIN"/> välja logida. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Kustutage ka sirvimisandmed (<ph name="URL"/>). See võib teid saidilt Gab AI Inc.com välja logida. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Kustutage ka sirvimisandmed (<ph name="URL"/>). See võib teid saidilt Fulldive.com välja logida. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Lisateave</translation>
 <translation id="2346953515226895098">SODA teenus</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> on peatatud</translation>
@@ -2728,7 +2728,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="4144218403971135344">Vaadake parema kvaliteediga videoid ja säästke aku tööiga. Videot esitatakse ainult Casti toega ekraanikuval.</translation>
 <translation id="236117173274098341">Optimeeri</translation>
 <translation id="8538358978858059843">Kas lubada ülekandmise jaoks pilveteenused?</translation>
-<translation id="3856595552313160385">Hangoutsi ja Cast for Educationi kasutamisel kehtivad Gab AI Inc'i privaatsuseeskirjad.</translation>
+<translation id="3856595552313160385">Hangoutsi ja Cast for Educationi kasutamisel kehtivad Fulldive'i privaatsuseeskirjad.</translation>
 <translation id="3435896845095436175">Luba</translation>
 <translation id="3700888195348409686">Esitlemine (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Kuva <ph name="DISPLAY_ID"/></translation>
@@ -2972,9 +2972,9 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, veel 1 konto}other{<ph name="EMAIL"/>, veel <ph name="EXTRA_ACCOUNTS"/> kontot}}</translation>
 <translation id="7434635829372401939">Seadete sünkroonimine</translation>
 <translation id="1036348656032585052">Lülita välja</translation>
-<translation id="3267705913905916810">Teie rakendused ja seaded sünkroonitakse kõigis Fulldive OS-i seadmetes, kuhu olete oma Gab AI Inc'i kontoga sisse logitud. Brauseri sünkroonimisvalikute nägemiseks avage <ph name="LINK_BEGIN"/>Fulldive'i seaded<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Teie rakendused ja seaded sünkroonitakse kõigis Fulldive OS-i seadmetes, kuhu olete oma Fulldive'i kontoga sisse logitud. Brauseri sünkroonimisvalikute nägemiseks avage <ph name="LINK_BEGIN"/>Fulldive'i seaded<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Printerid</translation>
-<translation id="8418661265246754237">Gab AI Inc'i kontod</translation>
+<translation id="8418661265246754237">Fulldive'i kontod</translation>
 <translation id="3953834000574892725">Minu kontod</translation>
 <translation id="6011193465932186973">Sõrmejälg</translation>
 <translation id="3707212204259470604">Halda teisi profiile</translation>
@@ -3016,16 +3016,16 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5916664084637901428">Sees</translation>
 <translation id="5860033963881614850">Väljas</translation>
 <translation id="5515923816438946203">Valige, mida oma ekraanikuval näete</translation>
-<translation id="2187700606737131818">Gab AI Inc Photos</translation>
+<translation id="2187700606737131818">Fulldive Photos</translation>
 <translation id="1827738518074806965">Kunstigalerii</translation>
 <translation id="9137157311132182254">Eelistatud otsingumootor</translation>
 <translation id="7423118389528876103">Seda kasutab Fulldive'i brauser ja seadme <ph name="DEVICE_TYPE"/> käivitaja</translation>
-<translation id="2862205630718215619">Gab AI Inc'i assistent</translation>
+<translation id="2862205630718215619">Fulldive'i assistent</translation>
 <translation id="8959699239363253085">Sees</translation>
 <translation id="971479617738309149">Väljas</translation>
 <translation id="7807067443225230855">Otsing ja assistent</translation>
 <translation id="1293556467332435079">Failid</translation>
-<translation id="6474884162850599008">Gab AI Inc Drive'i konto ühenduse katkestamine</translation>
+<translation id="6474884162850599008">Fulldive Drive'i konto ühenduse katkestamine</translation>
 <translation id="3653160965917900914">Failide võrguhoidlad</translation>
 <translation id="4906490889887219338">Seadistage või hallake failide võrguhoidlaid. <ph name="LINK_BEGIN"/>Lisateave<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Lisa failide võrguhoidla</translation>
@@ -3076,7 +3076,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5511379779384092781">Üliväike</translation>
 <translation id="2765217105034171413">Väike</translation>
 <translation id="7409549334477097887">Väga suur</translation>
-<translation id="1800308196794859773">Saatke oma hääl Gab AI Inc'ile, et lubada dikteerimine kõigil tekstiväljadel.</translation>
+<translation id="1800308196794859773">Saatke oma hääl Fulldive'ile, et lubada dikteerimine kõigil tekstiväljadel.</translation>
 <translation id="8758418656925882523">Dikteerimise lubamine (kõnelemine sisestamiseks)</translation>
 <translation id="1330145147221172764">Luba ekraanil kuvatav klaviatuur</translation>
 <translation id="7580671184200851182">Esita sama heli kõigist kõlaritest (monoheli)</translation>
@@ -3139,7 +3139,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6902066522699286937">Eelvaate hääl</translation>
 <translation id="304747341537320566">Kõnesünteesimootorid</translation>
 <translation id="2755367719610958252">Juurdepääsetavuse funktsioonide haldamine</translation>
-<translation id="1203953622051744249">Hallake oma sisselogitud kontosid. Veebisaidid, rakendused ja laiendused Fulldive’is ning Gab AI Inc Plays võivad olenevalt lubadest kasutada neid kontosid teie kasutuskogemuse isikupärastamiseks. <ph name="LINK_BEGIN"/>Lisateave<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Hallake oma sisselogitud kontosid. Veebisaidid, rakendused ja laiendused Fulldive’is ning Fulldive Plays võivad olenevalt lubadest kasutada neid kontosid teie kasutuskogemuse isikupärastamiseks. <ph name="LINK_BEGIN"/>Lisateave<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Lisage koolikonto või hallake lapse kontosid siin. <ph name="LINK_BEGIN"/>Lisateave<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Kontod</translation>
 <translation id="6597148444736186483">Selles seadmes peamiselt kontolt väljalogimiseks klõpsake ekraanikuval kellaajal. Klõpsake kuvatavas menüüs käsul „Logi välja”.</translation>
@@ -3148,8 +3148,8 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="2923234477033317484">Eemalda see konto</translation>
 <translation id="7665369617277396874">Konto lisamine</translation>
 <translation id="8428271547607112339">Lisa koolikonto</translation>
-<translation id="4920274951865016604">Teie administraator keelas Gab AI Inc'i kontode lisamise</translation>
-<translation id="8845742957886589229">Gab AI Inc'i kontode lisamine on keelatud</translation>
+<translation id="4920274951865016604">Teie administraator keelas Fulldive'i kontode lisamise</translation>
+<translation id="8845742957886589229">Fulldive'i kontode lisamine on keelatud</translation>
 <translation id="5021750053540820849">Pole veel üles laaditud</translation>
 <translation id="3448492834076427715">Värskenda kontot</translation>
 <translation id="2458379781610688953">Konto <ph name="EMAIL"/> värskendamine</translation>
@@ -3184,7 +3184,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="3661172646479098821">Praegu toetatakse ainult Android-seadmeid.</translation>
 <translation id="3201422919974259695">Siin kuvatakse saadaolevad USB-seadmed.</translation>
 <translation id="2629227353894235473">Androidi rakenduste arendamine</translation>
-<translation id="1669729672557072907">Rakenduste loomiseks ja testimiseks lubage Android Debug Bridge (ADB). Pange tähele, et see toiming võimaldab selliste Androidi rakenduste installimist, mida Gab AI Inc pole kontrollinud, ja tööriista keelamiseks on nõutav tehaseseadetele lähtestamine.</translation>
+<translation id="1669729672557072907">Rakenduste loomiseks ja testimiseks lubage Android Debug Bridge (ADB). Pange tähele, et see toiming võimaldab selliste Androidi rakenduste installimist, mida Fulldive pole kontrollinud, ja tööriista keelamiseks on nõutav tehaseseadetele lähtestamine.</translation>
 <translation id="4638930039313743000">Luba ADB silumine</translation>
 <translation id="1630768113285622200">Taaskäivita ja jätka</translation>
 <translation id="1005333234656240382">Kas lubada ADB silumine?</translation>
@@ -3221,9 +3221,9 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1870629042957780127">Juurdepääsu andmine mikrofonile</translation>
 <translation id="1392232653471491344">Nõutav on Linuxi taaskäivitamine</translation>
 <translation id="1064552680598333868">Teie mikrofoni seadete muudatused jõustuvad pärast Linuxi taaskäivitamist.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play pood</translation>
+<translation id="2714393097308983682">Fulldive Play pood</translation>
 <translation id="2966937470348689686">Androidi eelistuste haldamine</translation>
-<translation id="6398715114293939307">Gab AI Inc Play poe eemaldamine</translation>
+<translation id="6398715114293939307">Fulldive Play poe eemaldamine</translation>
 <translation id="2792290659606763004">Kas soovite Androidi rakendused eemaldada?</translation>
 <translation id="492299503953721473">Eemalda Androidi rakendused</translation>
 <translation id="7566118625369982896">Play rakenduse linkide haldamine</translation>
@@ -3231,7 +3231,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5862109781435984885">Kuva riiulis elektronpliiatsi tööriistad</translation>
 <translation id="4673442866648850031">Ava elektronpliiatsi tööriistad, kui elektronpliiats eemaldatakse</translation>
 <translation id="4244238649050961491">Otsi rohkem elektronpliiatsi rakendusi</translation>
-<translation id="668599234725812620">Ava Gab AI Inc Play</translation>
+<translation id="668599234725812620">Ava Fulldive Play</translation>
 <translation id="9116799625073598554">Märkmete tegemise rakendus</translation>
 <translation id="203574396658008164">Luba lukustuskuval märkmete tegemine</translation>
 <translation id="6238923052227198598">Säilita viimane märge lukustuskuval</translation>
@@ -3377,7 +3377,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> – <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Luba mobiilne andmeside</translation>
 <translation id="7378812711085314936">Andmesideühenduse hankimine</translation>
-<translation id="3483333858382889684">Lubage sellel seadmel leida teisi seadmeid, mis on Gab AI Inc'i kontoga seotud ja millel on mobiilne andmesideühendus.</translation>
+<translation id="3483333858382889684">Lubage sellel seadmel leida teisi seadmeid, mis on Fulldive'i kontoga seotud ja millel on mobiilne andmesideühendus.</translation>
 <translation id="1572266655485775982">WiFi lubamine</translation>
 <translation id="7078120482318506217">Kõik võrgud</translation>
 <translation id="1235458158152011030">Teadaolevad võrgud</translation>
@@ -3409,13 +3409,13 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="4421167684395067330">Ühenduse loomisel ilmnes probleem. Abi saamiseks võtke ühendust operaatoriga <ph name="CARRIER_NAME"/>.</translation>
 <translation id="7780252971640011240">Ühenduse loomisel ilmnes probleem. Pöörduge abi saamiseks operaatori poole.</translation>
 <translation id="161460670679785907">Teie telefoni ei saa tuvastada</translation>
-<translation id="778480864305029524">Automaatse jagamise kasutamiseks lülitage Gab AI Inc Play teenuste märguanded sisse.</translation>
+<translation id="778480864305029524">Automaatse jagamise kasutamiseks lülitage Fulldive Play teenuste märguanded sisse.</translation>
 <translation id="7696063401938172191">Teie seadmes <ph name="PHONE_NAME"/>:</translation>
 <translation id="3423463006624419153">Teie seadmetes <ph name="PHONE_NAME_1"/> ja <ph name="PHONE_NAME_2"/>:</translation>
 <translation id="6997707937646349884">Teie seadmetes:</translation>
 <translation id="7531779363494549572">Avage jaotis Seaded &gt; Rakendused ja märguanded &gt; Märguanded.</translation>
-<translation id="1819721979226826163">Puudutage valikuid Rakenduse märguanded &gt; Gab AI Inc Play teenused.</translation>
-<translation id="968000525894980488">Lülitage sisse Gab AI Inc Play teenused.</translation>
+<translation id="1819721979226826163">Puudutage valikuid Rakenduse märguanded &gt; Fulldive Play teenused.</translation>
+<translation id="968000525894980488">Lülitage sisse Fulldive Play teenused.</translation>
 <translation id="2705736684557713153">Kerige ekraani alaossa ja lülitage sisse automaatne jagamine, kui see kuvatakse. Muidu ei ole teil vaja rohkem midagi teha.</translation>
 <translation id="7240339475467890413">Kas luua ühendus uue levialaga?</translation>
 <translation id="6514010653036109809">Saadaolev seade:</translation>
@@ -3530,9 +3530,9 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6555432686520421228">Eemaldage kõik kasutajakontod ja lähtestage seade <ph name="IDS_SHORT_PRODUCT_NAME"/>, et taas nullist alustada.</translation>
 <translation id="5470735824776589490">Seade tuleb taaskäivitada, enne kui saate selle Powerwashiga lähtestada. <ph name="LINK_BEGIN"/>Lisateave<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Nupp Lähtesta</translation>
-<translation id="472896694312062378">„Ok Gab AI Inc”</translation>
-<translation id="2339135612812615870">Pääsete oma assistendile juurde, öeldes lihtsalt „Ok Gab AI Inc”.</translation>
-<translation id="3735919318855093557">Pääsete oma assistendile juurde, öeldes lihtsalt „Ok Gab AI Inc”. Aku säästmiseks tehke valik „Sees (soovitatav)”. Teie assistent vastab ainult siis, kui seade on ühendatud vooluvõrku või seda laetakse.</translation>
+<translation id="472896694312062378">„Ok Fulldive”</translation>
+<translation id="2339135612812615870">Pääsete oma assistendile juurde, öeldes lihtsalt „Ok Fulldive”.</translation>
+<translation id="3735919318855093557">Pääsete oma assistendile juurde, öeldes lihtsalt „Ok Fulldive”. Aku säästmiseks tehke valik „Sees (soovitatav)”. Teie assistent vastab ainult siis, kui seade on ühendatud vooluvõrku või seda laetakse.</translation>
 <translation id="5825412242012995131">Sees (soovitatav)</translation>
 <translation id="5067399438976153555">Alati sees</translation>
 <translation id="6175644081330715138">Väljas</translation>
@@ -3541,7 +3541,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5355099869024327351">Luba assistendil märguandeid esitada</translation>
 <translation id="133535873114485416">Eelistatud sisend</translation>
 <translation id="6233154960150021497">Kasuta vaikimisi häält, mitte klaviatuuri</translation>
-<translation id="3908743412684152579">Gab AI Inc'i assistendi seaded</translation>
+<translation id="3908743412684152579">Fulldive'i assistendi seaded</translation>
 <translation id="1048286738600630630">Ekraanid</translation>
 <translation id="4184885522552335684">Lohistage ekraani liigutamiseks</translation>
 <translation id="4964455510556214366">Asetus</translation>
@@ -3595,7 +3595,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6856623341093082836">Seadistage puuteekraan ja kohandage selle täpsust</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Ava ainult seade</translation>
-<translation id="3300552672525741457">Avage seade ja logige oma Gab AI Inc'i kontole sisse</translation>
+<translation id="3300552672525741457">Avage seade ja logige oma Fulldive'i kontole sisse</translation>
 <translation id="4562155214028662640">Lisa sõrmejälg</translation>
 <translation id="4068776064906523561">Salvestatud sõrmejäljed</translation>
 <translation id="1719312230114180055">Märkus. Sõrmejälg võib olla vähem turvaline kui tugev parool või PIN-kood.</translation>
@@ -3660,7 +3660,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6547354035488017500">Vabastage vähemalt 512 MB kettaruumi, muidu seade ei reageeri. Kettaruumi vabastamiseks kustutage seadme salvestusruumist faile.</translation>
 <translation id="6097480669505687979">Kui te kettaruumi ei vabasta, võidakse kasutajad ja andmed automaatselt eemaldada.</translation>
 <translation id="4470957202018033307">Välise salvestusruumi eelistused</translation>
-<translation id="1900305421498694955">Gab AI Inc Playst pärinevad rakendused võivad vajada täielikku juurdepääsu failisüsteemile, et välistelt salvestusseadmetelt faile lugeda ja neid sinna kirjutada. Selles seadmes loodud failid ja kaustad on nähtavad kõigile, kes välist ketast kasutavad. <ph name="LINK_BEGIN"/>Lisateave<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Fulldive Playst pärinevad rakendused võivad vajada täielikku juurdepääsu failisüsteemile, et välistelt salvestusseadmetelt faile lugeda ja neid sinna kirjutada. Selles seadmes loodud failid ja kaustad on nähtavad kõigile, kes välist ketast kasutavad. <ph name="LINK_BEGIN"/>Lisateave<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">Saadaolevad seadmed kuvatakse siin.</translation>
 <translation id="1041263367839475438">Saadaolevad seadmed</translation>
 <translation id="7479221278376295180">Salvestusruumi kasutuse ülevaade</translation>
@@ -3684,12 +3684,12 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5840822070878669614">Ava veebipood</translation>
 <translation id="6073903501322152803">Juurdepääsetavuse funktsioonide lisamine</translation>
 <translation id="7988355189918024273">Luba juurdepääsetavuse funktsioonid</translation>
-<translation id="5499063270485366718">Kui pildil puudub kasulik kirjeldus, üritab Fulldive selle ise luua. Kirjelduste loomiseks saadetakse pildid Gab AI Inc'ile.</translation>
+<translation id="5499063270485366718">Kui pildil puudub kasulik kirjeldus, üritab Fulldive selle ise luua. Kirjelduste loomiseks saadetakse pildid Fulldive'ile.</translation>
 <translation id="8957762313041272117">Reaalajas subtiitrid</translation>
 <translation id="7075426315046750605">Funktsioon Reaalajas subtiitrid tuvastab Fulldive'is esitatavas meedias sisalduva kõne ja loob automaatselt subtiitrid.</translation>
 <translation id="572155275267014074">Androidi seaded</translation>
-<translation id="7201042526153088083">Installige rakendused ja mängud Gab AI Inc Playst oma seadmesse <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Lisateave&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Gab AI Inc Playst alla laaditud rakendused kustutatakse sellest Fulldivebookist.
+<translation id="7201042526153088083">Installige rakendused ja mängud Fulldive Playst oma seadmesse <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Lisateave&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Fulldive Playst alla laaditud rakendused kustutatakse sellest Fulldivebookist.
       <ph name="LINE_BREAKS1"/>
       Teie ostetud sisu (nt filmid, telesaated, muusika, raamatud või muud rakendusesisesed ostud) võidakse samuti kustutada.
       <ph name="LINE_BREAKS2"/>
@@ -3715,7 +3715,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1670399744444387456">Põhiseaded</translation>
 <translation id="1763808908432309942">Avaneb uuel vahekaardil</translation>
 <translation id="6248988683584659830">Otsinguseaded</translation>
-<translation id="883304095704384301">Kui te ei leia otsitavat, avage <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldive'i abi<ph name="END_LINK_CHROMIUM"/></translation>
+<translation id="883304095704384301">Kui te ei leia otsitavat, avage <ph name="BEGIN_LINK_CHROMIUM"/>Fulldive Fulldive'i abi<ph name="END_LINK_CHROMIUM"/></translation>
 <translation id="6406708970972405507">Seaded – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Alamlehe nupp</translation>
 <translation id="379509625511193653">Väljas</translation>
@@ -3736,10 +3736,10 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="451515744433878153">Eemalda</translation>
 <translation id="5029568752722684782">Kustuta koopia</translation>
 <translation id="2154484045852737596">Kaardi muutmine</translation>
-<translation id="3032188998195902534">Gab AI Inc Pay makseviiside lisamiseks või haldamiseks minge oma <ph name="BEGIN_LINK"/>Gab AI Inc'i kontole<ph name="END_LINK"/></translation>
+<translation id="3032188998195902534">Fulldive Pay makseviiside lisamiseks või haldamiseks minge oma <ph name="BEGIN_LINK"/>Fulldive'i kontole<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">Kaart salvestatakse ainult sellesse seadmesse</translation>
 <translation id="5087580092889165836">Lisa kaart</translation>
-<translation id="4835914736509775287">Salvestage kaardid oma Gab AI Inc'i kontole</translation>
+<translation id="4835914736509775287">Salvestage kaardid oma Fulldive'i kontole</translation>
 <translation id="7255002516883565667">Praegu on teil üks kaart, mida saab kasutada ainult selles seadmes</translation>
 <translation id="6848388270925200958">Praegu on teil kaarte, mida saab kasutada ainult selles seadmes</translation>
 <translation id="4807098396393229769">Kaardil olev nimi</translation>
@@ -3753,9 +3753,9 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="8731851055419582926">Kontrollitud paroolid</translation>
 <translation id="4248098802131000011">Tagage oma paroolide turvalisus, et vältida andmetega seotud rikkumisi ja muid turvaprobleeme</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> ei saa teie paroole kontrollida. Kontrollige internetiühendust.</translation>
-<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> saab teie paroole kontrollida siis, kui logite sisse oma Gab AI Inc'i kontoga</translation>
+<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> saab teie paroole kontrollida siis, kui logite sisse oma Fulldive'i kontoga</translation>
 <translation id="4478777936860197922">Salvestatud paroole ei ole. <ph name="IDS_SHORT_PRODUCT_NAME"/> saab teie paroole kontrollida, kui olete need salvestanud.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> ei saa teie paroole kontrollida. Proovige uuesti 24 tunni pärast või <ph name="BEGIN_LINK"/>kontrollige oma Gab AI Inc'i kontol paroole<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> ei saa teie paroole kontrollida. Proovige uuesti 24 tunni pärast või <ph name="BEGIN_LINK"/>kontrollige oma Fulldive'i kontol paroole<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> ei saa teie paroole kontrollida. Proovige uuesti 24 tunni pärast.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> ei saa teie paroole kontrollida. Proovige hiljem uuesti.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Ohustatud paroole ei leitud}=1{{COUNT} parool on ohus}other{{COUNT} parooli on ohus}}</translation>
@@ -3781,7 +3781,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="2100273922101894616">Automaatne sisselogimine</translation>
 <translation id="7513029293694390567">Teid logitakse salvestatud mandaadiga veebisaitidele automaatselt sisse. Kui see on keelatud, palutakse teilt iga kord enne veebisaidile sisselogimist kinnitust.</translation>
 <translation id="6995899638241819463">Hoiata mind, kui paroolid andmetega seotud rikkumise käigus avalikustatakse</translation>
-<translation id="1534287762301776620">Kui logite oma Gab AI Inc'i kontole sisse, lülitatakse see funktsioon sisse</translation>
+<translation id="1534287762301776620">Kui logite oma Fulldive'i kontole sisse, lülitatakse see funktsioon sisse</translation>
 <translation id="1375321115329958930">Salvestatud paroolid</translation>
 <translation id="152234381334907219">Ei ole kunagi salvestatud</translation>
 <translation id="5137501176474113045">Kustuta see üksus</translation>
@@ -3795,7 +3795,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="7930294771522048157">Salvestatud makseviisid kuvatakse siin</translation>
 <translation id="9124003689441359348">Salvestatud paroolid kuvatakse siin</translation>
 <translation id="4400367121200150367">Siin kuvatakse saidid, millel paroole kunagi ei salvestata</translation>
-<translation id="3098842761938485917">Vaadake ja hallake salvestatud paroole oma <ph name="BEGIN_LINK"/>Gab AI Inc'i kontol<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Vaadake ja hallake salvestatud paroole oma <ph name="BEGIN_LINK"/>Fulldive'i kontol<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">Paroolide eksportimine …</translation>
 <translation id="3900966090527141178">Paroolide eksportimine</translation>
 <translation id="6914783257214138813">Teie paroolid on nähtavad kõigile, kes saavad vaadata eksporditud faili.</translation>
@@ -3862,15 +3862,15 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="3380365263193509176">Tundmatu viga</translation>
 <translation id="368789413795732264">Ilmnes viga, kui proovisite kirjutada faili: <ph name="ERROR_TEXT"/></translation>
 <translation id="784934925303690534">Ajavahemik</translation>
-<translation id="3958004920128806270">Sirvimisandmete kustutamiseks ainult sellest seadmest ja nende säilitamiseks teie Gab AI Inc'i kontol <ph name="BEGIN_LINK"/>logige välja<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">Sirvimisandmete kustutamiseks kõigist sünkroonitud seadmetest ja oma Gab AI Inc'i kontolt <ph name="BEGIN_LINK"/>avage sünkroonimisseaded<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">Sirvimisandmete kustutamiseks kõigist sünkroonitud seadmetest ja oma Gab AI Inc'i kontolt <ph name="BEGIN_LINK"/>sisestage oma parool<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">Sirvimisandmete kustutamiseks kõigist sünkroonitud seadmetest ja oma Gab AI Inc'i kontolt <ph name="BEGIN_LINK"/>logige sisse<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">Sirvimisandmete kustutamiseks ainult sellest seadmest ja nende säilitamiseks teie Fulldive'i kontol <ph name="BEGIN_LINK"/>logige välja<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">Sirvimisandmete kustutamiseks kõigist sünkroonitud seadmetest ja oma Fulldive'i kontolt <ph name="BEGIN_LINK"/>avage sünkroonimisseaded<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">Sirvimisandmete kustutamiseks kõigist sünkroonitud seadmetest ja oma Fulldive'i kontolt <ph name="BEGIN_LINK"/>sisestage oma parool<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">Sirvimisandmete kustutamiseks kõigist sünkroonitud seadmetest ja oma Fulldive'i kontolt <ph name="BEGIN_LINK"/>logige sisse<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Logib teid enamikult saitidelt välja.</translation>
-<translation id="4650925988509114690">Teid logitakse enamikult saitidelt välja. Jääte oma Gab AI Inc'i kontole sisselogituks, et teie sünkroonitud andmed saaks kustutada.</translation>
+<translation id="4650925988509114690">Teid logitakse enamikult saitidelt välja. Jääte oma Fulldive'i kontole sisselogituks, et teie sünkroonitud andmed saaks kustutada.</translation>
 <translation id="2017836877785168846">Kustutab aadressiribalt ajaloo ja automaatse täitmise teabe.</translation>
-<translation id="8096327394278038498">Kustutab aadressiribalt ajaloo ja automaatse täitmise andmed. Aadressil <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> võib teie Gab AI Inc'i kontol olla muus vormis sirvimisajalugu.</translation>
-<translation id="8122693181154564064">Kustutab ajaloo kõigist sisselogitud seadmetest. Aadressil <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> võib teie Gab AI Inc'i kontol olla muus vormis sirvimisajalugu.</translation>
+<translation id="8096327394278038498">Kustutab aadressiribalt ajaloo ja automaatse täitmise andmed. Aadressil <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> võib teie Fulldive'i kontol olla muus vormis sirvimisajalugu.</translation>
+<translation id="8122693181154564064">Kustutab ajaloo kõigist sisselogitud seadmetest. Aadressil <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> võib teie Fulldive'i kontol olla muus vormis sirvimisajalugu.</translation>
 <translation id="7127980134843952133">Allalaadimiste ajalugu</translation>
 <translation id="4699172675775169585">Vahemällu salvestatud kujutised ja failid</translation>
 <translation id="1274997165432133392">Küpsised ja muud saidi andmed</translation>
@@ -3885,7 +3885,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1043818413152647937">Kas kustutada andmed ka nendest rakendustest?</translation>
 <translation id="3399432415385675819">Märguanded keelatakse</translation>
 <translation id="3459509316159669723">Printimine</translation>
-<translation id="7063957500469387217">Gab AI Inc'i pilvprintimises printerite seadistamine või haldamine.</translation>
+<translation id="7063957500469387217">Fulldive'i pilvprintimises printerite seadistamine või haldamine.</translation>
 <translation id="8185331656081929126">Kuva märguanne, kui võrgus tuvastatakse mõni uus printer</translation>
 <translation id="6451180435462401570">Pilvprintimise seadmete haldamine</translation>
 <translation id="4733793249294335256">Asukoht</translation>
@@ -3907,7 +3907,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5425722269016440406">Smart Locki väljalülitamiseks peab teil olema võrguühendus, kuna see seade on sünkroonitud teie telefoni ja muude seadmetega. Looge esmalt ühendus võrguga.</translation>
 <translation id="8885197664446363138">Smart Lock pole saadaval</translation>
 <translation id="7334190995941642545">Smart Lock ei ole praegu saadaval. Proovige hiljem uuesti.</translation>
-<translation id="8112427115751454716">Kasutage oma Gab AI Inc'i kontole sisselogimiseks funktsiooni Smart Lock</translation>
+<translation id="8112427115751454716">Kasutage oma Fulldive'i kontole sisselogimiseks funktsiooni Smart Lock</translation>
 <translation id="2043818754674261542">Seadme <ph name="DEVICE_TYPE"/> telefoniga avamiseks vajalik vahemaa</translation>
 <translation id="2522791476825452208">Väga lähedal</translation>
 <translation id="649454645705377674">Sule</translation>
@@ -3928,7 +3928,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1726100011689679555">Nimeserverid</translation>
 <translation id="1209796539517632982">Automaatsed nimeserverid</translation>
 <translation id="4462159676511157176">Kohandatud nimeserverid</translation>
-<translation id="1981884748698699991">Gab AI Inc'i nimeserverid</translation>
+<translation id="1981884748698699991">Fulldive'i nimeserverid</translation>
 <translation id="6317608858038767920">Kohandatud nimeserveri <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">Veebipõhise puhverserveri automaattuvastamise URL:</translation>
 <translation id="3817579325494460411">Puudub</translation>
@@ -4086,7 +4086,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="3182749001423093222">Õigekirjakontroll</translation>
 <translation id="5423829801105537712">Lihtne õigekirjakontroll</translation>
 <translation id="2564653188463346023">Täiustatud õigekirjakontroll</translation>
-<translation id="8944680893327873975">Kasutab sama õigekirjakontrolli, mida kasutatakse Gab AI Inc'i otsingus. Brauseris sisestatav tekst saadetakse Gab AI Inc'ile.</translation>
+<translation id="8944680893327873975">Kasutab sama õigekirjakontrolli, mida kasutatakse Fulldive'i otsingus. Brauseris sisestatav tekst saadetakse Fulldive'ile.</translation>
 <translation id="5051836348807686060">Õigekirjakontrolli teie valitud keelte puhul ei toetata</translation>
 <translation id="7335974957018254119">Kasuta õigekirjakontrolli:</translation>
 <translation id="2469375675106140201">Õigekirjakontrolli kohandamine</translation>
@@ -4099,7 +4099,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="4200689466366162458">Kohandatud sõnad</translation>
 <translation id="7833720883933317473">Salvestatud kohandatud sõnad kuvatakse siin</translation>
 <translation id="8509646642152301857">Õigekirjakontrolli sõnastiku allalaadimine ebaõnnestus.</translation>
-<translation id="8842834450537919370">Paluge oma võrguadministraatoril tagada, et tulemüür ei blokeeriks allalaaditavaid faile Gab AI Inc'i serveritest.</translation>
+<translation id="8842834450537919370">Paluge oma võrguadministraatoril tagada, et tulemüür ei blokeeriks allalaaditavaid faile Fulldive'i serveritest.</translation>
 <translation id="9042893549633094279">Privaatsus ja turvalisus</translation>
 <translation id="5548606607480005320">Ohutuskontroll</translation>
 <translation id="5876576639916258720">Käitamine …</translation>
@@ -4122,10 +4122,10 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1928696683969751773">Värskendused</translation>
 <translation id="4794810983896241342">Värskendusi haldab <ph name="BEGIN_LINK"/>administraator<ph name="END_LINK"/></translation>
 <translation id="6371486244597785139">{NUM_PASSWORDS,plural, =1{Muuda parooli}other{Muuda paroole}}</translation>
-<translation id="2119461801241504254">Gab AI Inc'i ohutu sirvimine on sisse lülitatud ning kaitseb teid ohtlike saitide ja allalaadimiste eest</translation>
-<translation id="6741063444351041466"><ph name="BEGIN_LINK"/>Administraator<ph name="END_LINK"/> lülitas Gab AI Inc'i ohutu sirvimise välja</translation>
-<translation id="5107443654503185812">Laiendus lülitas Gab AI Inc'i ohutu sirvimise välja</translation>
-<translation id="5935656526031444304">Gab AI Inc'i ohutu sirvimise haldamine</translation>
+<translation id="2119461801241504254">Fulldive'i ohutu sirvimine on sisse lülitatud ning kaitseb teid ohtlike saitide ja allalaadimiste eest</translation>
+<translation id="6741063444351041466"><ph name="BEGIN_LINK"/>Administraator<ph name="END_LINK"/> lülitas Fulldive'i ohutu sirvimise välja</translation>
+<translation id="5107443654503185812">Laiendus lülitas Fulldive'i ohutu sirvimise välja</translation>
+<translation id="5935656526031444304">Fulldive'i ohutu sirvimise haldamine</translation>
 <translation id="956500788634395331">Olete potentsiaalselt ohtlike laienduste eest kaitstud</translation>
 <translation id="3099836255427453137">{NUM_EXTENSIONS,plural, =1{1 potentsiaalselt ohtlik laiendus on välja lülitatud. Võite selle ka eemaldada.}other{{NUM_EXTENSIONS} potentsiaalselt ohtlikku laiendust on välja lülitatud. Võite need ka eemaldada.}}</translation>
 <translation id="5979156418378918004">{NUM_EXTENSIONS,plural, =1{Lülitasite 1 potentsiaalselt ohtliku laienduse uuesti sisse}other{Lülitasite {NUM_EXTENSIONS} potentsiaalselt ohtlikku laiendust uuesti sisse}}</translation>
@@ -4135,26 +4135,26 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="2468205691404969808">Kasutage küpsisefaile, et oma eelistusi meeles pidada, isegi kui te neid lehti ei külasta</translation>
 <translation id="3633309367764744750">Hangib lehtedelt (sh nendelt, mida te pole veel külastanud) teavet ette. Hangitud teave võib hõlmata küpsisefaile, kui olete need lubanud.</translation>
 <translation id="3201899458094819285">Ohutu sirvimine (kaitseb teid ja teie seadet ohtlike saitide eest)</translation>
-<translation id="2876369937070532032">Saadab mõnede teie külastatud lehtede URL-id Gab AI Inc'ile, kui teie turvalisus ohtu satub</translation>
+<translation id="2876369937070532032">Saadab mõnede teie külastatud lehtede URL-id Fulldive'ile, kui teie turvalisus ohtu satub</translation>
 <translation id="4991384657077828949">Aidake Fulldive'i turvalisust täiustada</translation>
-<translation id="1984646864943401749">Saadab mõne teie külastatud lehe URL-i, piiratud süsteemiteabe ja mõne lehe sisu Gab AI Inc'ile, et aidata avastada uusi ohte ja veebis kõiki kaitsta.</translation>
+<translation id="1984646864943401749">Saadab mõne teie külastatud lehe URL-i, piiratud süsteemiteabe ja mõne lehe sisu Fulldive'ile, et aidata avastada uusi ohte ja veebis kõiki kaitsta.</translation>
 <translation id="1641113438599504367">Ohutu sirvimine</translation>
 <translation id="6900532703269623216">Parem kaitse</translation>
-<translation id="7307583170263691471">Kiirem ennetav kaitse ohtlike veebisaitide, allalaadimiste ja laienduste vastu. Hoiatab teid parooliga seotud rikkumistest. Selleks peab sirvimisandmete Gab AI Inc'ile saatmine olema lubatud.</translation>
+<translation id="7307583170263691471">Kiirem ennetav kaitse ohtlike veebisaitide, allalaadimiste ja laienduste vastu. Hoiatab teid parooliga seotud rikkumistest. Selleks peab sirvimisandmete Fulldive'ile saatmine olema lubatud.</translation>
 <translation id="8645920082661222035">Ennustab ohtlikke sündmusi ja hoiatab teid</translation>
-<translation id="5265419033369521352">Kaitseb teid Fulldive'is ja seda võidakse kasutada teie turvalisuse suurendamiseks muudes Gab AI Inc'i rakendustes, kui olete sisse logitud</translation>
+<translation id="5265419033369521352">Kaitseb teid Fulldive'is ja seda võidakse kasutada teie turvalisuse suurendamiseks muudes Fulldive'i rakendustes, kui olete sisse logitud</translation>
 <translation id="6770602306803890733">Täiendab turvalisust teie ja kõigi teiste veebikasutajate jaoks</translation>
 <translation id="3690369331356918524">Hoiatab teid, kui paroolid andmetega seotud rikkumise käigus avalikustatakse</translation>
-<translation id="4979281249641199724">Saadab URL-id kontrollimiseks teenusesse Gab AI Inc'i ohutu sirvimine. Saadab ka lehtede, allalaadimiste, laienduste tegevuse ja süsteemi teabe näidiseid, et aidata uusi ohte tuvastada. Kui olete sisse logitud, lingitakse andmed ajutiselt teie Gab AI Inc'i kontoga, et kaitsta teid kõigis Gab AI Inc'i rakendustes.</translation>
+<translation id="4979281249641199724">Saadab URL-id kontrollimiseks teenusesse Fulldive'i ohutu sirvimine. Saadab ka lehtede, allalaadimiste, laienduste tegevuse ja süsteemi teabe näidiseid, et aidata uusi ohte tuvastada. Kui olete sisse logitud, lingitakse andmed ajutiselt teie Fulldive'i kontoga, et kaitsta teid kõigis Fulldive'i rakendustes.</translation>
 <translation id="1963976881984600709">Standardne kaitse</translation>
 <translation id="6882836635272038266">Standardne kaitse teadaolevalt ohtlike veebisaitide, allalaadimiste ja laienduste vastu.</translation>
 <translation id="5561162485081632007">Tuvastab ohtlikke sündmusi ja hoiatab teid enne, kui need juhtuvad</translation>
-<translation id="7810992039564280750">Kontrollib URL-e Fulldive'i talletatud ohtlike saitide loendi alusel. Kui sait üritab teie parooli varastada või laadite alla kahjuliku faili, võib Fulldive saata URL-id ja lehe sisu osad teenusesse Gab AI Inc'i ohutu sirvimine.</translation>
+<translation id="7810992039564280750">Kontrollib URL-e Fulldive'i talletatud ohtlike saitide loendi alusel. Kui sait üritab teie parooli varastada või laadite alla kahjuliku faili, võib Fulldive saata URL-id ja lehe sisu osad teenusesse Fulldive'i ohutu sirvimine.</translation>
 <translation id="3847319713229060696">Aidake veebi kõigi jaoks turvalisemaks muuta</translation>
 <translation id="1984417487208496350">Kaitseta (ei ole soovitatav)</translation>
-<translation id="1295971429974142731">Ei kaitse teid ohtlike veebisaitide, allalaadimiste ega laienduste eest. Gab AI Inc'i ohutu sirvimine kaitseb teid siiski muudes Gab AI Inc'i teenustes, kus see saadaval on (nt Gmail ja Otsing).</translation>
-<translation id="6122831415929794347">Kas lülitada Gab AI Inc'i ohutu sirvimine välja?</translation>
-<translation id="6410390304316730527">Gab AI Inc'i ohutu sirvimine kaitseb teid ründajate eest, kes võivad teid meelitada ohtlikele tegevustele, nagu pahatahtliku tarkvara installimine või isiklike andmete (nt paroolid, telefoninumbrid või krediitkaarditeave) avaldamine. Kui lülitate selle välja, olge võõraste või halva mainega saitide külastamisel ettevaatlik.</translation>
+<translation id="1295971429974142731">Ei kaitse teid ohtlike veebisaitide, allalaadimiste ega laienduste eest. Fulldive'i ohutu sirvimine kaitseb teid siiski muudes Fulldive'i teenustes, kus see saadaval on (nt Gmail ja Otsing).</translation>
+<translation id="6122831415929794347">Kas lülitada Fulldive'i ohutu sirvimine välja?</translation>
+<translation id="6410390304316730527">Fulldive'i ohutu sirvimine kaitseb teid ründajate eest, kes võivad teid meelitada ohtlikele tegevustele, nagu pahatahtliku tarkvara installimine või isiklike andmete (nt paroolid, telefoninumbrid või krediitkaarditeave) avaldamine. Kui lülitate selle välja, olge võõraste või halva mainega saitide külastamisel ettevaatlik.</translation>
 <translation id="8791534160414513928">Saada sirvimisliiklusega taotlus „Ära jälgi”</translation>
 <translation id="5299109548848736476">Ära jälgi</translation>
 <translation id="5282733140964383898">Valiku „Ära jälgi” lubamine tähendab, et päring lisatakse teie sirvimisliiklusse. Selle toimimine oleneb sellest, kas veebisait reageerib päringule ja kuidas päringut tõlgendatakse. Näiteks võivad mõned veebisaidid päringule reageerida nii, et näitavad teile reklaame, mis ei paikne teie külastatud muudel veebisaitidel. Paljud veebisaidid siiski koguvad ning kasutavad teie sirvimisandmeid, näiteks turvalisuse täiustamiseks, sisu, teenuste, reklaamide ja soovituste pakkumiseks oma veebisaitidel ning statistikaaruande loomiseks. <ph name="BEGIN_LINK"/>Lisateave<ph name="END_LINK"/></translation>
@@ -4162,10 +4162,10 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="5557991081552967863">Hoia WiFi unerežiimis sisselülitatuna</translation>
 <translation id="8327676037044516220">Load ja sisu seaded</translation>
 <translation id="1995916364271252349">Juhib, millist teavet saavad saidid kasutada ja kuvada (asukoht, kaamera, hüpikaknad ja muu)</translation>
-<translation id="3320630259304269485">Gab AI Inc'i ohutu sirvimine (kaitse ohtlike saitide eest) ja muud turvaseaded</translation>
+<translation id="3320630259304269485">Fulldive'i ohutu sirvimine (kaitse ohtlike saitide eest) ja muud turvaseaded</translation>
 <translation id="7536333565791380193">Täiustatud turvalisus</translation>
-<translation id="8525226238722561998">Gab AI Inc'i täiustatud kaitse programm</translation>
-<translation id="1229550669565092839">Kaitseb nende isiklikke Gab AI Inc'i kontosid, keda ähvardab sihitud rünnakute oht.</translation>
+<translation id="8525226238722561998">Fulldive'i täiustatud kaitse programm</translation>
+<translation id="1229550669565092839">Kaitseb nende isiklikke Fulldive'i kontosid, keda ähvardab sihitud rünnakute oht.</translation>
 <translation id="1521442365706402292">Halda serte</translation>
 <translation id="7075625805486468288">HTTPS-/SSL-sertifikaatide ja seadete haldamine</translation>
 <translation id="6588043302623806746">Kasuta turvalist DNS-i</translation>
@@ -4439,7 +4439,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="4590324241397107707">Andmebaasi talletusruum</translation>
 <translation id="8016266267177410919">Ajutine salvestusruum</translation>
 <translation id="4175737294868205930">Püsiv salvestusruum</translation>
-<translation id="8397843425685839889">Teie ja Gab AI Inc</translation>
+<translation id="8397843425685839889">Teie ja Fulldive</translation>
 <translation id="8907706281008466056">Fulldive’i profiilifoto</translation>
 <translation id="2023167225947895179">PIN-koodi võib olla lihtne ära arvata</translation>
 <translation id="5342091991439452114">PIN-kood peab olema vähemalt <ph name="MINIMUM"/> numbrit</translation>
@@ -4454,26 +4454,26 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="899676909165543803">Sõrmejäljeandur on teie klaviatuuri paremal all olev klahv. Puudutage seda õrnalt mis tahes sõrmega.</translation>
 <translation id="4535767533210902251">Sõrmejäljeandur on teie klaviatuuri paremal ülal olev klahv. Puudutage seda õrnalt mis tahes sõrmega.</translation>
 <translation id="5449551289610225147">Vale parool</translation>
-<translation id="4326270470840334364">Kuna seda kontot haldab domeen <ph name="DOMAIN"/>, kustutatakse sellest seadmest teie järjehoidjad, ajalugu, paroolid ja muud seaded. Teie andmed jäävad teie Gab AI Inc'i kontole siiski alles ja neid saab hallata <ph name="BEGIN_LINK"/>Gab AI Inc'i juhtpaneelil<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">Kuna seda kontot haldab domeen <ph name="DOMAIN"/>, kustutatakse sellest seadmest teie järjehoidjad, ajalugu, paroolid ja muud seaded. Teie andmed jäävad teie Fulldive'i kontole siiski alles ja neid saab hallata <ph name="BEGIN_LINK"/>Fulldive'i juhtpaneelil<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">Muuda profiili</translation>
 <translation id="3699920817649120894">Kas lülitada sünkroonimine ja isikupärastamine välja?</translation>
 <translation id="5643620609347735571">Kustuta ja jätka</translation>
 <translation id="5602765853043467355">Kustuta sellest seadmest järjehoidjad, ajalugu, paroolid ja muu</translation>
 <translation id="4089235344645910861">Seaded on salvestatud. Sünkroonimine algas.</translation>
 <translation id="6739923123728562974">Kuva töölaua otsetee</translation>
-<translation id="2951604498031550705">Teie järjehoidjate, ajaloo, paroolide ja muude seadete muudatusi ei sünkroonita enam teie Gab AI Inc'i kontoga. Teie olemasolevad andmed jäävad aga teie Gab AI Inc'i kontole alles ja neid saab hallata <ph name="BEGIN_LINK"/>Gab AI Inc'i juhtpaneelil<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">See logib teid teie Gab AI Inc'i kontodelt välja. Teie järjehoidjaid, ajalugu, paroole ja muud ei sünkroonita enam.</translation>
+<translation id="2951604498031550705">Teie järjehoidjate, ajaloo, paroolide ja muude seadete muudatusi ei sünkroonita enam teie Fulldive'i kontoga. Teie olemasolevad andmed jäävad aga teie Fulldive'i kontole alles ja neid saab hallata <ph name="BEGIN_LINK"/>Fulldive'i juhtpaneelil<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">See logib teid teie Fulldive'i kontodelt välja. Teie järjehoidjaid, ajalugu, paroole ja muud ei sünkroonita enam.</translation>
 <translation id="8588866096426746242">Kuva profiili statistika</translation>
 <translation id="5535941515421698170">Eemaldage sellest seadmest ka oma olemasolevad andmed</translation>
 <translation id="2162155940152307086">Sünkroonimine algab, kui sünkroonimisseadetest väljute</translation>
-<translation id="1125261911132334651">Gab AI Inc'i konto haldamine</translation>
+<translation id="1125261911132334651">Fulldive'i konto haldamine</translation>
 <translation id="5117427536932535467">Teemad ja taustapildid</translation>
 <translation id="7257173066616499747">WiFi-võrgud</translation>
 <translation id="2120297377148151361">Tegevused ja interaktsioonid</translation>
 <translation id="5833397272224757657">Kasutab isikupärastamiseks teie külastatavate saitide sisu ning brauseri tegevusi ja interaktsioone</translation>
-<translation id="8135094938656535588">Sünkroonitud andmete haldamine teenuses Gab AI Inc Dashboard</translation>
-<translation id="5958351589333270173">Krüpteerige sünkroonitud andmed <ph name="BEGIN_LINK"/>sünkroonimisparooliga<ph name="END_LINK"/>. See ei hõlma Gab AI Inc Pay makseviise ja aadresse.</translation>
-<translation id="4817583816512767754">Teie krüpteeritud andmeid saavad lugeda vaid need, kes teavad teie parooli – seda ei saadeta Gab AI Inc'ile ja Gab AI Inc ei talleta seda. Kui unustate parooli või soovite seda seadet muuta, tuleb teil <ph name="BEGIN_LINK"/>sünkroonimine lähtestada<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Sünkroonitud andmete haldamine teenuses Fulldive Dashboard</translation>
+<translation id="5958351589333270173">Krüpteerige sünkroonitud andmed <ph name="BEGIN_LINK"/>sünkroonimisparooliga<ph name="END_LINK"/>. See ei hõlma Fulldive Pay makseviise ja aadresse.</translation>
+<translation id="4817583816512767754">Teie krüpteeritud andmeid saavad lugeda vaid need, kes teavad teie parooli – seda ei saadeta Fulldive'ile ja Fulldive ei talleta seda. Kui unustate parooli või soovite seda seadet muuta, tuleb teil <ph name="BEGIN_LINK"/>sünkroonimine lähtestada<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Seade muutmiseks <ph name="BEGIN_LINK"/>lähtestage sünkroonimine<ph name="END_LINK"/>, et sünkroonimisparool eemaldada</translation>
 <translation id="3873315167136380065">Selle sisselülitamiseks <ph name="BEGIN_LINK"/>lähtestage sünkroonimine<ph name="END_LINK"/>, et eemaldada oma sünkroonimisparool</translation>
 <translation id="6451689256222386810">Kui unustasite parooli või soovite seda seadet muuta, <ph name="BEGIN_LINK"/>lähtestage sünkroonimine<ph name="END_LINK"/>.</translation>
@@ -4530,7 +4530,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="8639047128869322042">Ohtliku tarkvara otsimine …</translation>
 <translation id="2653033005692233957">Otsing ebaõnnestus</translation>
 <translation id="655483977608336153">Proovi uuesti</translation>
-<translation id="8282772389915299166">Edastage Gab AI Inc'ile puhastuse ajal arvutist leitud kahjuliku tarkvara, süsteemiseadete ja protsesside üksikasjad</translation>
+<translation id="8282772389915299166">Edastage Fulldive'ile puhastuse ajal arvutist leitud kahjuliku tarkvara, süsteemiseadete ja protsesside üksikasjad</translation>
 <translation id="6555810572223193255">Puhastamine ei ole praegu saadaval</translation>
 <translation id="7117228822971127758">Proovige hiljem uuesti</translation>
 <translation id="443475966875174318">Ühildumatute rakenduste värskendamine või eemaldamine</translation>
@@ -4614,16 +4614,16 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="161042844686301425">Tsüaan</translation>
 <translation id="4115378294792113321">Magenta</translation>
 <translation id="8438566539970814960">Otsingute ja sirvimise paremaks muutmine</translation>
-<translation id="284843628681142937">Saadab Gab AI Inc'ile teie külastatud lehtede URL-id</translation>
+<translation id="284843628681142937">Saadab Fulldive'ile teie külastatud lehtede URL-id</translation>
 <translation id="7704317875155739195">Otsingute ja URL-ide automaatne täitmine</translation>
 <translation id="2000419248597011803">Saadab teie vaikeotsingumootorile mõned küpsisefailid ja otsingud teie aadressiribalt ning otsingukastist</translation>
 <translation id="918192811481327695">Aidake täiustada Fulldive'i funktsioone ja toimivust</translation>
-<translation id="9063160602596686558">Gab AI Inc'ile saadetakse automaatselt kasutusstatistikat ja krahhiaruandeid</translation>
+<translation id="9063160602596686558">Fulldive'ile saadetakse automaatselt kasutusstatistikat ja krahhiaruandeid</translation>
 <translation id="6697492270171225480">Kui lehte ei leita, kuvatakse sarnaste lehtede soovitusi</translation>
-<translation id="4534361985432360439">Saadab Gab AI Inc'ile teie soovitud lehe veebiaadressi.</translation>
-<translation id="3831436149286513437">Gab AI Inc Drive'i otsingusoovitused</translation>
+<translation id="4534361985432360439">Saadab Fulldive'ile teie soovitud lehe veebiaadressi.</translation>
+<translation id="3831436149286513437">Fulldive Drive'i otsingusoovitused</translation>
 <translation id="5244474230056479698">Sünkroonimine aadressiga <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Gab AI Inc'i nutikus Fulldive'is</translation>
+<translation id="9125982323641182972">Fulldive'i nutikus Fulldive'is</translation>
 <translation id="2537178555904266562">Viga paroolide sünkroonimisel</translation>
 <translation id="4314815835985389558">Sünkroonimise haldamine</translation>
 <translation id="8931475688782629595">Hallake, mida sünkroonite</translation>
@@ -4632,18 +4632,18 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="4570387585180509432">Aadressid, telefoninumbrid ja muu</translation>
 <translation id="3268451620468152448">Avatud vahelehed</translation>
 <translation id="4684427112815847243">Sünkrooni kõik</translation>
-<translation id="5428209950370661546">Muud Gab AI Inc'i teenused</translation>
+<translation id="5428209950370661546">Muud Fulldive'i teenused</translation>
 <translation id="7399045143794278225">Kohanda sünkroonimist</translation>
 <translation id="7044606776288350625">Andmete sünkroonimine</translation>
 <translation id="9050666287014529139">Parool</translation>
 <translation id="6596325263575161958">Krüpteerimise valikud</translation>
-<translation id="2459230470861708651">Krüpteeri sünkroonitud paroolid minu Gab AI Inc'i kasutajanime ja parooliga</translation>
+<translation id="2459230470861708651">Krüpteeri sünkroonitud paroolid minu Fulldive'i kasutajanime ja parooliga</translation>
 <translation id="1651008383952180276">Peate sisestama sama parooli kaks korda</translation>
 <translation id="988978206646512040">Tühi parool ei ole lubatud</translation>
 <translation id="2136476978468204130">Sisestatud parool on vale</translation>
 <translation id="7505421639213002314">Fulldive'i sünkroonimise teave</translation>
 <translation id="452750746583162491">Vaadake oma sünkroonitud andmed üle</translation>
-<translation id="7956662517480676674">Sünkroonimine ja Gab AI Inc'i teen.</translation>
+<translation id="7956662517480676674">Sünkroonimine ja Fulldive'i teen.</translation>
 <translation id="7772032839648071052">Kinnitage parool</translation>
 <translation id="7529411698175791732">Kontrollige oma Interneti-ühendust. Probleemi jätkumisel logige välja ja uuesti sisse.</translation>
 <translation id="6406506848690869874">Sünkroonimine</translation>
@@ -4777,8 +4777,8 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="7835178595033117206">Järjehoidja on eemaldatud</translation>
 <translation id="742130257665691897">Järjehoidjad on eemaldatud</translation>
 <translation id="5468853758063275923">Fulldive on teie vaikebrauser</translation>
-<translation id="2950533317914339731">Lisage oma Gab AI Inc'i lemmikrakenduste järjehoidjad</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">Lisage oma Fulldive'i lemmikrakenduste järjehoidjad</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Maps</translation>
 <translation id="6709133671862442373">Uudised</translation>
@@ -4792,7 +4792,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="7789963078219276159">Avalehe taustaks määrati <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Avalehe taust lähtestati vaiketaustale.</translation>
 <translation id="239760341987199724">Määra Fulldive vaikebrauseriks</translation>
-<translation id="96037229054033864">Gab AI Inc'i otsing ja teadmised on sirvides alati käepärast</translation>
+<translation id="96037229054033864">Fulldive'i otsing ja teadmised on sirvides alati käepärast</translation>
 <translation id="296137235951584143">Isikupärastage Fulldive'i</translation>
 <translation id="3982375475032951137">Seadistage brauser vaid mõne lihtsa sammuga</translation>
 <translation id="6972754398087986839">Alustamine</translation>
@@ -4805,7 +4805,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="1031362278801463162">Eelvaate laadimine</translation>
 <translation id="6147020289383635445">Prindi eelvaade nurjus.</translation>
 <translation id="5877584842898320529">Valitud printer pole saadaval või pole õigesti installitud. <ph name="BR"/> Kontrollige printerit või valige teine printer.</translation>
-<translation id="6645437135153136856">Valitud Gab AI Inc'i pilvprintimise seadet enam ei toetata. <ph name="BR"/> Proovige printer seadistada oma arvuti süsteemiseadetes.</translation>
+<translation id="6645437135153136856">Valitud Fulldive'i pilvprintimise seadet enam ei toetata. <ph name="BR"/> Proovige printer seadistada oma arvuti süsteemiseadetes.</translation>
 <translation id="5828633471261496623">Printimine ...</translation>
 <translation id="6295855836753816081">Salvestamine ...</translation>
 <translation id="3587482841069643663">Kõik</translation>
@@ -4825,7 +4825,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="3706463572498736864">Lehekülgi lehe kohta</translation>
 <translation id="2249605167705922988">nt 1–5, 8, 11–13</translation>
 <translation id="5746169159649715125">Salvesta PDF-ina</translation>
-<translation id="6532101170117367231">Salvesta rakendusse Gab AI Inc Drive</translation>
+<translation id="6532101170117367231">Salvesta rakendusse Fulldive Drive</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">paberilehed</translation>
 <translation id="8813811964357448561">paberileht</translation>
@@ -4855,7 +4855,7 @@ kasutades juhtpaneeli funktsiooni <ph name="CONTROL_PANEL_APPLET_NAME"/>.
 <translation id="6991665348624301627">Valige sihtkoht</translation>
 <translation id="8800004011501252845">Sihtkohad aadressile</translation>
 <translation id="8996526648899750015">Konto lisamine ...</translation>
-<translation id="6723354935081862304">Prindib Gab AI Inc Docsi ja muudesse pilvesihtkohadesse. Gab AI Inc'i pilvprintimise teenuse kaudu printimiseks <ph name="BEGIN_LINK"/>logige sisse<ph name="END_LINK"/>.</translation>
+<translation id="6723354935081862304">Prindib Fulldive Docsi ja muudesse pilvesihtkohadesse. Fulldive'i pilvprintimise teenuse kaudu printimiseks <ph name="BEGIN_LINK"/>logige sisse<ph name="END_LINK"/>.</translation>
 <translation id="2150139952286079145">Otsige sihtkohti</translation>
 <translation id="8569682776816196752">Sihtkohti ei leitud</translation>
 <translation id="7885253890047913815">Hiljutised sihtkohad</translation>

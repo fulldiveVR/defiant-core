@@ -7,7 +7,7 @@
 <translation id="4847979153841887006">Fulldive-logo</translation>
 <translation id="7339898014177206373">Nuwe venster</translation>
 <translation id="5516268345616100622">Taakbestuurder – Fulldive</translation>
-<translation id="7918740962659365265">Help om Fulldive beter te maak deur omvalverslae en <ph name="UMA_LINK"/> na Gab AI Inc te stuur</translation>
+<translation id="7918740962659365265">Help om Fulldive beter te maak deur omvalverslae en <ph name="UMA_LINK"/> na Fulldive te stuur</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> – Fulldive</translation>
 <translation id="7830723774663008396">Fulldive – <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – Netwerkaanmelding – Fulldive</translation>
@@ -33,7 +33,7 @@
 <translation id="2585240446624043880">Fulldive kan nie sy datagids lees of daarheen skryf nie:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Opsioneel: Help om Fulldive te verbeter deur gebruikstatistiek en omvalverslae outomaties na Gab AI Inc te stuur.</translation>
+<translation id="8417700129970341035">Opsioneel: Help om Fulldive te verbeter deur gebruikstatistiek en omvalverslae outomaties na Fulldive te stuur.</translation>
 <translation id="1489465648257900784">Jou profiel kan nie gebruik word nie want dit is van 'n nuwer weergawe van Fulldive af.
 
 Sommige kenmerke sal dalk nie beskikbaar wees nie. Spesifiseer 'n ander profielgids of gebruik 'n nuwer weergawe van Fulldive.</translation>
@@ -44,7 +44,7 @@ Sommige kenmerke kan dalk nie beskikbaar wees nie en veranderings aan voorkeure 
 
 Fulldive kan nie jou instellings herwin nie.</translation>
 <translation id="1477146545787277177">Sjoe! Fulldive het omgeval. Wil jy nou herbegin?</translation>
-<translation id="5785919770853225148">Fulldive sal hierdie wagwoord in jou Gab AI Inc-rekening stoor. Jy sal dit nie hoef te onthou nie.</translation>
+<translation id="5785919770853225148">Fulldive sal hierdie wagwoord in jou Fulldive-rekening stoor. Jy sal dit nie hoef te onthou nie.</translation>
 <translation id="8211837073776713955">Fulldive sal jou laat weet as jou wagwoorde gekompromitteer is</translation>
 <translation id="113959764510199339">Fulldive probeer tans om wagwoorde te wys.</translation>
 <translation id="96347285368592620">Fulldive probeer tans om wagwoorde te kopieer.</translation>
@@ -85,7 +85,7 @@ Fulldive kan nie jou instellings herwin nie.</translation>
 <translation id="9183662282810237335">Verlaat Fulldive in elk geval?</translation>
 <translation id="3834935463915107022">Verlaat Fulldive in elk geval?</translation>
 <translation id="8797356639448065696">Fulldive is in agtergrondmodus.</translation>
-<translation id="2339258256897053758">Gab AI Inc API-sleutels ontbreek. Sommige funksies van Fulldive sal gedeaktiveer word.</translation>
+<translation id="2339258256897053758">Fulldive API-sleutels ontbreek. Sommige funksies van Fulldive sal gedeaktiveer word.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> is by Fulldive gevoeg</translation>
 <translation id="8516116288943000095">Vee data ook uit Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Versteek in Fulldive-kieslys</translation>
@@ -109,8 +109,8 @@ Fulldive kan nie jou instellings herwin nie.</translation>
 <translation id="2925193881330501265">Jy was as <ph name="USER_EMAIL_ADDRESS"/> by Fulldive aangemeld. Gebruik asseblief dieselfde rekening om weer aan te meld.</translation>
 <translation id="847561904663814268">Iemand het voorheen op hierdie rekenaar as <ph name="ACCOUNT_EMAIL_LAST"/> by Fulldive aangemeld. Skep asseblief 'n nuwe Fulldive-gebruiker om jou inligting apart te hou.</translation>
 <translation id="1853997773668795891">Koppel jou Fulldive-data aan hierdie rekening?</translation>
-<translation id="1326766910007115955">Jy meld tans met 'n bestuurde rekening aan en gee sy administrateur beheer oor jou Fulldive-profiel. Jou Fulldive-data, soos jou programme, boekmerke, geskiedenis, wagwoorde en ander instellings, sal permanent aan <ph name="USER_NAME"/> gekoppel word. Jy sal hierdie data via die Gab AI Inc-rekening se kontroleskerm kan uitvee, maar jy sal nie hierdie data met 'n ander rekening kan assosieer nie. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Jy meld tans met 'n bestuurde rekening aan en gee sy administrateur beheer oor jou Fulldive-profiel. Jou Fulldive-data, soos jou programme, boekmerke, geskiedenis, wagwoorde en ander instellings sal permanent aan <ph name="USER_NAME"/> gekoppel word. Jy sal hierdie data via die Gab AI Inc-rekening se kontroleskerm kan uitvee, maar jy sal nie hierdie data met 'n ander rekening kan assosieer nie. Jy het die opsie om 'n nuwe profiel te skep om jou bestaande Fulldive-data apart te hou. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Jy meld tans met 'n bestuurde rekening aan en gee sy administrateur beheer oor jou Fulldive-profiel. Jou Fulldive-data, soos jou programme, boekmerke, geskiedenis, wagwoorde en ander instellings, sal permanent aan <ph name="USER_NAME"/> gekoppel word. Jy sal hierdie data via die Fulldive-rekening se kontroleskerm kan uitvee, maar jy sal nie hierdie data met 'n ander rekening kan assosieer nie. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Jy meld tans met 'n bestuurde rekening aan en gee sy administrateur beheer oor jou Fulldive-profiel. Jou Fulldive-data, soos jou programme, boekmerke, geskiedenis, wagwoorde en ander instellings sal permanent aan <ph name="USER_NAME"/> gekoppel word. Jy sal hierdie data via die Fulldive-rekening se kontroleskerm kan uitvee, maar jy sal nie hierdie data met 'n ander rekening kan assosieer nie. Jy het die opsie om 'n nuwe profiel te skep om jou bestaande Fulldive-data apart te hou. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Jou stelseladministrateur het Fulldive opgestel om 'n alternatiewe blaaier oop te maak om na <ph name="TARGET_URL_HOSTNAME"/> toe te gaan.</translation>
 <translation id="5380963249588143069">Jou stelseladministrateur het Fulldive opgestel om <ph name="ALTERNATIVE_BROWSER_NAME"/> oop te maak om by <ph name="TARGET_URL_HOSTNAME"/> in te gaan.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> het voorheen Fulldive gebruik</translation>
@@ -134,7 +134,7 @@ Fulldive kan nie jou instellings herwin nie.</translation>
 <translation id="239760341987199724">Stel Fulldive as jou verstekblaaier</translation>
 <translation id="669092380621816981">Hierdie persoon se blaaierdata sal van hierdie toestel af uitgevee word. Meld as <ph name="USER_EMAIL"/> by Fulldive aan om die data te herwin.</translation>
 <translation id="2827121003398607864">Fulldive het pas beter geword</translation>
-<translation id="7192666605334070839">Nou is dit makliker om Fulldive met jou Gab AI Inc-rekening en op gedeelde rekenaars te gebruik.</translation>
+<translation id="7192666605334070839">Nou is dit makliker om Fulldive met jou Fulldive-rekening en op gedeelde rekenaars te gebruik.</translation>
 <translation id="4100716194836114130">Dit is jou Fulldive</translation>
 <translation id="3511996232906761537">Jou web, boekmerke en ander Fulldive-goed woon hier.</translation>
 <translation id="7406627712452599344">Gaste kan Fulldive gebruik sonder om iets agter te laat.</translation>
@@ -149,9 +149,9 @@ Fulldive kan nie jou instellings herwin nie.</translation>
 <translation id="2871190378186459992">Ontdek wonderlike programme, speletjies, uitbreidings en temas vir Fulldive.</translation>
 <translation id="3350544518197210895">Fulldive (mDNS-In)</translation>
 <translation id="1912973375560256099">Inkomende reël vir Fulldive om mDNS-verkeer toe te laat.</translation>
-<translation id="8207657266087451193">As 'n prent nie 'n nuttige beskrywing het nie, sal Fulldive probeer om een vir jou te verskaf. Prente word na Gab AI Inc toe gestuur om beskrywings te skep. Jy kan dit enige tyd in instellings afskakel.</translation>
-<translation id="5499063270485366718">As 'n prent nie 'n nuttige beskrywing het nie, sal Fulldive probeer om een vir jou te verskaf. Prente word na Gab AI Inc toe gestuur om beskrywings te skep.</translation>
-<translation id="215320507915280336">Dit gebruik dieselfde speltoetser wat in Gab AI Inc-soektog gebruik word. Teks wat jy in die blaaier tik, word na Gab AI Inc toe gestuur. Jy kan altyd hierdie gedrag in instellings verander.</translation>
+<translation id="8207657266087451193">As 'n prent nie 'n nuttige beskrywing het nie, sal Fulldive probeer om een vir jou te verskaf. Prente word na Fulldive toe gestuur om beskrywings te skep. Jy kan dit enige tyd in instellings afskakel.</translation>
+<translation id="5499063270485366718">As 'n prent nie 'n nuttige beskrywing het nie, sal Fulldive probeer om een vir jou te verskaf. Prente word na Fulldive toe gestuur om beskrywings te skep.</translation>
+<translation id="215320507915280336">Dit gebruik dieselfde speltoetser wat in Fulldive-soektog gebruik word. Teks wat jy in die blaaier tik, word na Fulldive toe gestuur. Jy kan altyd hierdie gedrag in instellings verander.</translation>
 <translation id="1807774211756215222">Maak skakel in 'n nuwe Fulldive-oortjie oop</translation>
 <translation id="4624945300945265642">Maak skakel in 'n incognitovenster in Fulldive oop</translation>
 <translation id="7863882214613921971">Maak skakel in 'n nuwe Fulldive-oortjie oop</translation>
@@ -205,7 +205,7 @@ Fulldive kan nie jou instellings herwin nie.</translation>
 <translation id="7573289029918943991">Gaan na <ph name="LINK_BEGIN"/>Fulldive OS-instellings<ph name="LINK_END"/> om te sien of jou toestel op datum is</translation>
 <translation id="3395323229510056640">Kry hulp met Fulldive-bedryfstelsel</translation>
 <translation id="38898988211673781">Vee webkoekies en werfdata uit wanneer jy Fulldive verlaat</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (na Fulldive gekopieer)</translation>
+<translation id="5253815230176279256">Fulldive Pay (na Fulldive gekopieer)</translation>
 <translation id="5468853758063275923">Fulldive is jou verstekblaaier</translation>
 <translation id="1775322105159056176">Fulldive kan nie die verstekblaaier bepaal of stel nie</translation>
 <translation id="6915252145142862992">Dit is 'n sekondêre installering van Fulldive en kan nie jou verstekblaaier gemaak word nie.</translation>
@@ -213,10 +213,10 @@ Fulldive kan nie jou instellings herwin nie.</translation>
       Fulldive-blaaierinstellings<ph name="LINK_END"/> kyk</translation>
 <translation id="5657226924540934362">As 'n instelling nie op hierdie bIadsy verskyn nie, moet jy in jou <ph name="LINK_BEGIN"/>
       Fulldive-bedryfstelselinstellings<ph name="LINK_END"/> kyk</translation>
-<translation id="2312399718665761438">Fulldive stuur die teks wat jy in teksvelde intik na Gab AI Inc toe om spelfoute reg te maak</translation>
+<translation id="2312399718665761438">Fulldive stuur die teks wat jy in teksvelde intik na Fulldive toe om spelfoute reg te maak</translation>
 <translation id="8586264863973514035">Herbegin Fulldive om jou veranderinge toe te pas</translation>
 <translation id="7021823858304886493">Laat Fulldive-aanmelding toe</translation>
-<translation id="1649714546770135458">Deur dit af te skakel, kan jy by Gab AI Inc-werwe soos Gmail aanmeld sonder om by Fulldive aan te meld</translation>
+<translation id="1649714546770135458">Deur dit af te skakel, kan jy by Fulldive-werwe soos Gmail aanmeld sonder om by Fulldive aan te meld</translation>
 <translation id="2796517443093885402">Fulldive kan help om jou teen dataskendings, slegte uitbreidings, en meer te beskerm</translation>
 <translation id="428541510811554120">Fulldive kan nie nagaan of daar opdaterings is nie. Probeer om jou internetverbinding na te gaan.</translation>
 <translation id="2633397153656205379">Fulldive het nie opgedateer nie; iets het skeefgeloop. <ph name="BEGIN_LINK"/>Stel Fulldive-opdateringprobleme en mislukte opdaterings reg.<ph name="END_LINK"/></translation>

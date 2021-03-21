@@ -25,7 +25,7 @@
 <translation id="4881695831933465202">Otvori</translation>
 <translation id="6710213216561001401">Nazad</translation>
 <translation id="1201402288615127009">Naprijed</translation>
-<translation id="5713644099811900409">Gab AI Inc račun</translation>
+<translation id="5713644099811900409">Fulldive račun</translation>
 <translation id="3157931365184549694">Vrati</translation>
 <translation id="5040262127954254034">Privatnost</translation>
 <translation id="2359808026110333948">Nastavi</translation>
@@ -40,7 +40,7 @@
 <translation id="1581080074034554886">CVC</translation>
 <translation id="9065203028668620118">Uredi</translation>
 <translation id="5029568752722684782">Obriši kopiju</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="2709516037105925701">Automatsko popunjavanje</translation>
 <translation id="370665806235115550">Učitavanje...</translation>
 <translation id="6945221475159498467">Odaberi</translation>
@@ -199,8 +199,8 @@
 <translation id="6910240653697687763">Web lokacija <ph name="URL"/> želi u potpunosti kontrolirati vaše MIDI uređaje</translation>
 <translation id="503498442187459473"><ph name="HOST"/> želi koristiti vašu kameru i mikrofon</translation>
 <translation id="8282947398454257691">Znati jedinstveni identifikator uređaja</translation>
-<translation id="8329449853370113380">URL <ph name="URL"/> želi reproducirati zaštićeni sadržaj. Gab AI Inc će potvrditi identitet vašeg uređaja.</translation>
-<translation id="2650609753175229582">URL <ph name="URL"/> želi reproducirati zaštićeni sadržaj. Identitet vašeg uređaja će potvrditi Gab AI Inc i ova web lokacija mu može pristupiti.</translation>
+<translation id="8329449853370113380">URL <ph name="URL"/> želi reproducirati zaštićeni sadržaj. Fulldive će potvrditi identitet vašeg uređaja.</translation>
+<translation id="2650609753175229582">URL <ph name="URL"/> želi reproducirati zaštićeni sadržaj. Identitet vašeg uređaja će potvrditi Fulldive i ova web lokacija mu može pristupiti.</translation>
 <translation id="3016780570757425217">Poznavanje vaše lokacije</translation>
 <translation id="7221855153210829124">Prikaži obavještenja</translation>
 <translation id="8606726445206553943">Koristite MIDI uređaje</translation>

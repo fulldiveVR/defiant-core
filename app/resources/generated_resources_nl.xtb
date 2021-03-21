@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">Geen zoekresultaten gevonden</translation>
 <translation id="8967866634928501045">Druk op Alt+Shift+A om weer te geven</translation>
 <translation id="998747458861718449">I&amp;nspecteren</translation>
-<translation id="4428301600092811022">Afbeeldingsbeschrijvingen ophalen van Gab AI Inc?</translation>
+<translation id="4428301600092811022">Afbeeldingsbeschrijvingen ophalen van Fulldive?</translation>
 <translation id="741204030948306876">Ja, inschakelen</translation>
 <translation id="780301667611848630">Nee, bedankt</translation>
 <translation id="3943582379552582368">&amp;Vorige</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">&amp;Plakken</translation>
 <translation id="2218515861914035131">Plakken als tekst zonder opmaak</translation>
 <translation id="1017280919048282932">Toevoegen &amp;aan woordenboek</translation>
-<translation id="1732768497619250086">Afbeeldingsbeschrijvingen ophalen van Gab AI Inc</translation>
+<translation id="1732768497619250086">Afbeeldingsbeschrijvingen ophalen van Fulldive</translation>
 <translation id="7561196759112975576">Altijd</translation>
 <translation id="2241634353105152135">Slechts één keer</translation>
 <translation id="3387614642886316601">Verbeterde spellingcontrole gebruiken</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">Inschakelen</translation>
 <translation id="7658239707568436148">Annuleren</translation>
 <translation id="8915370057835397490">Suggestie wordt geladen</translation>
-<translation id="6191804255817539692">Geen verdere suggesties van Gab AI Inc</translation>
+<translation id="6191804255817539692">Geen verdere suggesties van Fulldive</translation>
 <translation id="1901303067676059328">&amp;Alles selecteren</translation>
 <translation id="3797900183766075808"><ph name="SEARCH_ENGINE"/> door&amp;zoeken op '<ph name="SEARCH_TERMS"/>'</translation>
 <translation id="2721037002783622288">Afbeelding &amp;zoeken in <ph name="SEARCH_ENGINE"/></translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">&amp;Plakken</translation>
 <translation id="1815083418640426271">Plakken als tekst zonder opmaak</translation>
 <translation id="4022426551683927403">Toevoegen &amp;aan woordenboek</translation>
-<translation id="6849870115130610913">Afbeeldingsbeschrijvingen ophalen van Gab AI Inc</translation>
+<translation id="6849870115130610913">Afbeeldingsbeschrijvingen ophalen van Fulldive</translation>
 <translation id="372722114124766626">Eenmalig</translation>
 <translation id="4079140982534148664">Verbeterde spellingcontrole gebruiken</translation>
 <translation id="7487141338393529395">Verbeterde spellingcontrole inschakelen</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/> bevat gevoelige content.</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/> bevat gevoelige content en is geblokkeerd.</translation>
 <translation id="6651823585377804376">Download bevat malware.</translation>
-<translation id="6529597483902964581"><ph name="FILE_NAME"/> is misschien gevaarlijk. Wil je het bestand naar 'Geavanceerde beveiliging' van Gab AI Inc sturen zodat het kan worden gescand?</translation>
+<translation id="6529597483902964581"><ph name="FILE_NAME"/> is misschien gevaarlijk. Wil je het bestand naar 'Geavanceerde beveiliging' van Fulldive sturen zodat het kan worden gescand?</translation>
 <translation id="4907161631261076876">Dit bestand wordt niet vaak gedownload en kan gevaarlijk zijn.</translation>
 <translation id="6102043788063419338">Dit bestand is geblokkeerd door Geavanceerde beveiliging.</translation>
 <translation id="2773802008104670137">Dit type bestand kan je computer beschadigen.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Download geannuleerd: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Download voltooid: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Download voltooid: <ph name="FILE_NAME"/>. Druk op Shift+F6 om naar het gedeelte met de downloadbalk te gaan.</translation>
-<translation id="7033965027041115562"><ph name="FILE_NAME"/> is misschien gevaarlijk. Wil je het bestand naar 'Geavanceerde beveiliging' van Gab AI Inc sturen zodat het kan worden gescand? Druk op Shift+F6 om naar het gedeelte met de downloadbalk te gaan.</translation>
+<translation id="7033965027041115562"><ph name="FILE_NAME"/> is misschien gevaarlijk. Wil je het bestand naar 'Geavanceerde beveiliging' van Fulldive sturen zodat het kan worden gescand? Druk op Shift+F6 om naar het gedeelte met de downloadbalk te gaan.</translation>
 <translation id="2743387203779672305">Kopiëren naar klembord</translation>
 <translation id="883911313571074303">Afbeelding annoteren</translation>
 <translation id="6291953229176937411">&amp;Toon in Finder</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">Sluiten</translation>
 <translation id="7376221878517288144">Wilt u de privémodus toch afsluiten?</translation>
 <translation id="973473557718930265">Sluiten</translation>
-<translation id="7707599169365957976">Je kunt helpen Safe Browsing te verbeteren door bepaalde systeeminformatie en paginacontent naar Gab AI Inc te verzenden.</translation>
+<translation id="7707599169365957976">Je kunt helpen Safe Browsing te verbeteren door bepaalde systeeminformatie en paginacontent naar Fulldive te verzenden.</translation>
 <translation id="4923279099980110923">Ja, ik wil helpen</translation>
 <translation id="2316129865977710310">Nee, bedankt</translation>
 <translation id="9169931577761441333"><ph name="APP_NAME"/> toevoegen aan startscherm</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">Geïnstalleerd thema: '<ph name="THEME_NAME"/>'</translation>
 <translation id="2256115617011615191">Nu opnieuw starten</translation>
 <translation id="4545028762441890696">Accepteer de nieuwe rechten om de extensie weer in te schakelen:</translation>
-<translation id="3009487527589249344">Gab AI Inc heeft <ph name="EXTENSION_NAME"/> als schadelijk gemarkeerd en de installatie is geblokkeerd</translation>
+<translation id="3009487527589249344">Fulldive heeft <ph name="EXTENSION_NAME"/> als schadelijk gemarkeerd en de installatie is geblokkeerd</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> is op afstand toegevoegd</translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> is uitgeschakeld</translation>
 <translation id="595959584676692139">Laad de pagina opnieuw om deze extensie te gebruiken</translation>
@@ -969,7 +969,7 @@
 <translation id="3584169441612580296">Foto's, muziek en andere media van je computer lezen en wijzigen</translation>
 <translation id="5457459357461771897">Foto's, muziek en andere media van je computer lezen en verwijderen</translation>
 <translation id="3270965368676314374">Foto's, muziek en andere media van je computer lezen, wijzigen en verwijderen</translation>
-<translation id="1285484354230578868">Gegevens opslaan in je Gab AI Inc Drive-account</translation>
+<translation id="1285484354230578868">Gegevens opslaan in je Fulldive Drive-account</translation>
 <translation id="378312418865624974">Een unieke ID voor deze computer lezen</translation>
 <translation id="5094721898978802975">Communiceren met samenwerkende legitieme apps</translation>
 <translation id="4876895919560854374">Het scherm vergrendelen en ontgrendelen</translation>
@@ -1180,7 +1180,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8756969031206844760">Wachtwoord updaten?</translation>
 <translation id="8230134520748321204">Wachtwoord opslaan voor <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">Wachtwoord updaten voor <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Wachtwoorden worden in je Gab AI Inc-account opgeslagen, zodat je deze op elk apparaat kunt gebruiken</translation>
+<translation id="8284000761603848448">Wachtwoorden worden in je Fulldive-account opgeslagen, zodat je deze op elk apparaat kunt gebruiken</translation>
 <translation id="8286036467436129157">Inloggen</translation>
 <translation id="8009225694047762179">Wachtwoorden beheren</translation>
 <translation id="3950820424414687140">Inloggen</translation>
@@ -1188,10 +1188,10 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="328571385944182268">Je wachtwoorden opslaan?</translation>
 <translation id="3753033997400164841">Eén keer opslaan, Overal gebruiken</translation>
 <translation id="1703331064825191675">Maak je nooit meer zorgen over je wachtwoorden</translation>
-<translation id="2341030170677284705">Sla wachtwoorden veilig op in je Gab AI Inc-account, zodat je ze nooit meer hoeft in te voeren.</translation>
-<translation id="3913985461352963178">Toegang tot je wachtwoorden telkens wanneer je bent ingelogd op je Gab AI Inc-account</translation>
-<translation id="4851124464356820177">Log in en schakel synchronisatie in om wachtwoorden op te slaan in je Gab AI Inc-account.</translation>
-<translation id="3229869963989850535">Schakel synchronisatie in om wachtwoorden op te slaan op je Gab AI Inc-account.</translation>
+<translation id="2341030170677284705">Sla wachtwoorden veilig op in je Fulldive-account, zodat je ze nooit meer hoeft in te voeren.</translation>
+<translation id="3913985461352963178">Toegang tot je wachtwoorden telkens wanneer je bent ingelogd op je Fulldive-account</translation>
+<translation id="4851124464356820177">Log in en schakel synchronisatie in om wachtwoorden op te slaan in je Fulldive-account.</translation>
+<translation id="3229869963989850535">Schakel synchronisatie in om wachtwoorden op te slaan op je Fulldive-account.</translation>
 <translation id="1056466516655540509"><ph name="MINUTES"/> min geleden geüpdatet</translation>
 <translation id="8743864605301774756">1 uur geleden geüpdatet</translation>
 <translation id="7363117941401515667"><ph name="HOURS"/> uur geleden geüpdatet</translation>
@@ -1295,9 +1295,9 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1246905108078336582">Suggestie verwijderen van klembord?</translation>
 <translation id="825238165904109940">Altijd volledige URL's weergeven</translation>
 <translation id="3416468988018290825">Altijd volledige URL's weergeven</translation>
-<translation id="2129873093718581193">Zoek op Gab AI Inc of typ een URL</translation>
-<translation id="6363797201514053536">Zoek op Gab AI Inc of typ een URL</translation>
-<translation id="4888839742663123585">Zoeken op Gab AI Inc</translation>
+<translation id="2129873093718581193">Zoek op Fulldive of typ een URL</translation>
+<translation id="6363797201514053536">Zoek op Fulldive of typ een URL</translation>
+<translation id="4888839742663123585">Zoeken op Fulldive</translation>
 <translation id="6078323886959318429">Snelle link toevoegen</translation>
 <translation id="6324916366299863871">Snelkoppeling bewerken</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1481,35 +1481,35 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6798578729981748444">Sluit alle Firefox-vensters om het importeren te voltooien.</translation>
 <translation id="6374469231428023295">Opnieuw proberen</translation>
 <translation id="8725066075913043281">Probeer het opnieuw.</translation>
-<translation id="4196805003686694274">Feedback sturen naar Gab AI Inc</translation>
+<translation id="4196805003686694274">Feedback sturen naar Fulldive</translation>
 <translation id="3424969259347320884">Beschrijf wat je aan het doen was toen het tabblad crashte</translation>
-<translation id="1892630320532151038">Feedback sturen naar Gab AI Inc</translation>
+<translation id="1892630320532151038">Feedback sturen naar Fulldive</translation>
 <translation id="2428510569851653187">Beschrijf wat je aan het doen was toen het tabblad crashte</translation>
 <translation id="5659593005791499971">E-mailadres</translation>
 <translation id="2982970937345031">Anoniem melden</translation>
 <translation id="6076448957780543068">Dit screenshot opnemen</translation>
 <translation id="2865919525181940183">Screenshot van programma's die momenteel op het scherm staan</translation>
 <translation id="7052237160939977163">Gegevens over het bijhouden van prestaties verzenden</translation>
-<translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth-logboeken<ph name="END_LINK"/> toevoegen (voor intern Gab AI Inc-gebruik)</translation>
+<translation id="5526928694260255286"><ph name="BEGIN_LINK"/>Bluetooth-logboeken<ph name="END_LINK"/> toevoegen (voor intern Fulldive-gebruik)</translation>
 <translation id="3047644958362961983">Deze informatie biedt ons meer inzicht in je probleem met de Assistent. De informatie wordt maximaal negentig dagen opgeslagen en de toegang is beperkt tot de toepasselijke technische en feedbackteams.</translation>
-<translation id="8545590844135745781">Gab AI Incrs kunnen aanvullende Bluetooth-logboeken toevoegen aan hun feedbackrapporten om Bluetooth-problemen beter te analyseren. Als deze optie is aangevinkt, bevat je rapport btsnoop- en HCI-logboeken van je huidige sessie die zijn opgeschoond om zo veel mogelijk PII te verwijderen. Toegang tot deze logboeken is beperkt tot beheerders van de productgroep Fulldive OS in Listnr. Logboeken worden na negentig dagen verwijderd.</translation>
+<translation id="8545590844135745781">Fulldivers kunnen aanvullende Bluetooth-logboeken toevoegen aan hun feedbackrapporten om Bluetooth-problemen beter te analyseren. Als deze optie is aangevinkt, bevat je rapport btsnoop- en HCI-logboeken van je huidige sessie die zijn opgeschoond om zo veel mogelijk PII te verwijderen. Toegang tot deze logboeken is beperkt tot beheerders van de productgroep Fulldive OS in Listnr. Logboeken worden na negentig dagen verwijderd.</translation>
 <translation id="4206323443866416204">Feedbackrapport</translation>
 <translation id="3681311097828166361">Bedankt voor je feedback. Je bent nu offline en je rapport wordt later verzonden.</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>Systeemgegevens<ph name="END_LINK1"/> verzenden</translation>
 <translation id="6395423953133416962"><ph name="BEGIN_LINK1"/>Systeeminformatie<ph name="END_LINK1"/> en <ph name="BEGIN_LINK2"/>statistische gegevens<ph name="END_LINK2"/> verzenden</translation>
 <translation id="6270770586500173387"><ph name="BEGIN_LINK1"/>Systeem- en app-gegevens<ph name="END_LINK1"/> en <ph name="BEGIN_LINK2"/>statistieken<ph name="END_LINK2"/> verzenden</translation>
 <translation id="3894123633473837029">Ook de recente Assistent-geschiedenis opnemen via Sherlog. Deze geschiedenis kan je identiteit, locatie en foutopsporingsinformatie omvatten. <ph name="BEGIN_LINK"/>Meer informatie<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">Bestanden worden naar Gab AI Inc gestuurd voor foutopsporing</translation>
+<translation id="8329196515830093443">Bestanden worden naar Fulldive gestuurd voor foutopsporing</translation>
 <translation id="8227119283605456246">Bestand bijvoegen</translation>
 <translation id="5367091008316207019">Bestand lezen...</translation>
 <translation id="2554553592469060349">Het geselecteerde bestand is te groot (max. grootte: 3 MB).</translation>
 <translation id="4690091457710545971">&lt;Vier bestanden gegenereerd door wifi-firmware van Intel: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon. De eerste drie zijn binaire bestanden met registerdumps. Hiervan wordt door Intel verzekerd dat deze geen persoonlijke of apparaatidentificerende gegevens bevatten. Het laatste bestand is een bestand waarin uitvoering wordt bijgehouden. Alle persoonlijke of apparaatidentificerende gegevens zijn uit dit bestand verwijderd, maar het is te groot om hier weer te geven. Deze bestanden zijn gegenereerd als reactie op recente wifi-problemen met je apparaat en worden gedeeld met Intel om deze problemen op te lossen.&gt;</translation>
-<translation id="6972420083546794501">Ga naar de <ph name="BEGIN_LINK1"/>pagina voor juridische hulp<ph name="END_LINK1"/> om contentwijzigingen uit juridische overwegingen aan te vragen. Bepaalde account- en systeemgegevens kunnen naar Gab AI Inc worden verzonden. We gebruiken de door jou verstrekte informatie om technische problemen op te lossen en onze services te verbeteren, in overeenstemming met het <ph name="BEGIN_LINK2"/>privacybeleid<ph name="END_LINK2"/> en de <ph name="BEGIN_LINK3"/>servicevoorwaarden<ph name="END_LINK3"/>.</translation>
+<translation id="6972420083546794501">Ga naar de <ph name="BEGIN_LINK1"/>pagina voor juridische hulp<ph name="END_LINK1"/> om contentwijzigingen uit juridische overwegingen aan te vragen. Bepaalde account- en systeemgegevens kunnen naar Fulldive worden verzonden. We gebruiken de door jou verstrekte informatie om technische problemen op te lossen en onze services te verbeteren, in overeenstemming met het <ph name="BEGIN_LINK2"/>privacybeleid<ph name="END_LINK2"/> en de <ph name="BEGIN_LINK3"/>servicevoorwaarden<ph name="END_LINK3"/>.</translation>
 <translation id="7915471803647590281">Vertel ons wat er aan de hand is voordat je de feedback verzendt.</translation>
 <translation id="6885771755599377173">Voorbeeld van systeeminformatie</translation>
 <translation id="1016566241875885511">Aanvullende informatie (optioneel)</translation>
 <translation id="8026334261755873520">Browsegegevens wissen</translation>
-<translation id="4718442817388594217">De geselecteerde gegevens zijn verwijderd uit Fulldive en van gesynchroniseerde apparaten. Voor je Gab AI Inc-account kunnen andere vormen van browsegeschiedenis (zoals zoekopdrachten en activiteit uit andere Gab AI Inc-services) beschikbaar zijn via <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="4718442817388594217">De geselecteerde gegevens zijn verwijderd uit Fulldive en van gesynchroniseerde apparaten. Voor je Fulldive-account kunnen andere vormen van browsegeschiedenis (zoals zoekopdrachten en activiteit uit andere Fulldive-services) beschikbaar zijn via <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7814200940910057384">Fulldive-gegevens gewist</translation>
 <translation id="7346909386216857016">OK, begrepen</translation>
 <translation id="8493236660459102203">Microfoon:</translation>
@@ -1532,7 +1532,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="284805635805850872">Schadelijke software verwijderen?</translation>
 <translation id="489985760463306091">Start je computer opnieuw op om de verwijdering van schadelijke software te voltooien</translation>
 <translation id="7598466960084663009">Computer opnieuw opstarten</translation>
-<translation id="2819091349626575960">Details melden aan Gab AI Inc</translation>
+<translation id="2819091349626575960">Details melden aan Fulldive</translation>
 <translation id="4099060993766194518">Standaardzoekmachine herstellen?</translation>
 <translation id="138784436342154190">Standaardstartpagina herstellen?</translation>
 <translation id="5086874064903147617">Standaard thuispagina herstellen?</translation>
@@ -1642,10 +1642,10 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="3693415264595406141">Wachtwoord:</translation>
 <translation id="9111102763498581341">Ontgrendelen</translation>
 <translation id="2190355936436201913">(leeg)</translation>
-<translation id="9079153198295609735">Automatisch gebruiksstatistieken en crashrapporten naar Gab AI Inc verzenden</translation>
+<translation id="9079153198295609735">Automatisch gebruiksstatistieken en crashrapporten naar Fulldive verzenden</translation>
 <translation id="7136984461011502314">Welkom bij <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> is gereed voor het voltooien van je installatie.</translation>
-<translation id="4711067597921221305">Help <ph name="PRODUCT_NAME"/> beter te maken door automatisch gebruiksstatistieken en crashmeldingen naar Gab AI Inc te verzenden</translation>
+<translation id="4711067597921221305">Help <ph name="PRODUCT_NAME"/> beter te maken door automatisch gebruiksstatistieken en crashmeldingen naar Fulldive te verzenden</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/> starten</translation>
 <translation id="4876273079589074638">Help onze engineers om deze crash te onderzoeken en op te lossen. Vermeld indien mogelijk je exacte stappen: elk detail is het vermelden waard.</translation>
 <translation id="5418694430960033386">Fulldive beschikt over onvoldoende geheugen of het webpaginaproces is om een andere reden beëindigd. Laad de pagina opnieuw of ga naar een andere pagina om door te gaan.</translation>
@@ -1658,7 +1658,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Platform</translation>
 <translation id="7022562585984256452">Je homepage is ingesteld.</translation>
-<translation id="8069615408251337349">Gab AI Inc Cloudprinter</translation>
+<translation id="8069615408251337349">Fulldive Cloudprinter</translation>
 <translation id="4973307593867026061">Printers toevoegen</translation>
 <translation id="9052208328806230490">Je hebt met het account <ph name="EMAIL"/> je printers geregistreerd bij <ph name="CLOUD_PRINT_NAME"/></translation>
 <translation id="3792890930871100565">Printers ontkoppelen</translation>
@@ -1692,7 +1692,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="7063129466199351735">Snelle links verwerken...</translation>
 <translation id="8987927404178983737">Maand</translation>
 <translation id="6015796118275082299">Jaar</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Titelbalk en kaders van systeem gebruiken</translation>
 <translation id="3293644607209440645">Deze pagina verzenden</translation>
 <translation id="1521774566618522728">Vandaag actief</translation>
@@ -1746,7 +1746,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8930351635855238750">De nieuwe cookie-instellingen worden van kracht nadat de pagina opnieuw is geladen</translation>
 <translation id="2568774940984945469">Container voor infobalk</translation>
 <translation id="7282992757463864530">Infobalk</translation>
-<translation id="1805077115206898822">Je bladwijzers, geschiedenis en andere instellingen worden gesynchroniseerd met je Gab AI Inc-account</translation>
+<translation id="1805077115206898822">Je bladwijzers, geschiedenis en andere instellingen worden gesynchroniseerd met je Fulldive-account</translation>
 <translation id="1974060860693918893">Geavanceerd</translation>
 <translation id="2445484935443597917">Een nieuw profiel maken</translation>
 <translation id="2606246518223360146">Gegevens linken</translation>
@@ -1833,7 +1833,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6387674443318562538">Verticaal splitsen</translation>
 <translation id="1231733316453485619">Synchronisatie inschakelen?</translation>
 <translation id="4736292055110123391">Je bladwijzers, wachtwoorden, geschiedenis en meer synchroniseren op al je apparaten</translation>
-<translation id="5736731321935944068">Gab AI Inc kan je geschiedenis gebruiken om Gab AI Inc Zoeken, advertenties en andere Gab AI Inc-services te personaliseren</translation>
+<translation id="5736731321935944068">Fulldive kan je geschiedenis gebruiken om Fulldive Zoeken, advertenties en andere Fulldive-services te personaliseren</translation>
 <translation id="4201546031411513170">Je kunt altijd in de instellingen bepalen wat je wilt synchroniseren.</translation>
 <translation id="2497852260688568942">Synchronisatie is uitgeschakeld door je beheerder</translation>
 <translation id="562935524653278697">Je beheerder heeft de synchronisatie van je bladwijzers, geschiedenis, wachtwoorden en andere instellingen uitgeschakeld.</translation>
@@ -1912,10 +1912,10 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6198102561359457428">Log uit en log daarna weer in...</translation>
 <translation id="4634771451598206121">Opnieuw inloggen...</translation>
 <translation id="7117247127439884114">Opnieuw inloggen...</translation>
-<translation id="4251909665067750757">Log in om je bladwijzers, geschiedenis, wachtwoorden en andere instellingen op te halen op al je apparaten. Je wordt ook automatisch ingelogd bij je Gab AI Inc-services.</translation>
+<translation id="4251909665067750757">Log in om je bladwijzers, geschiedenis, wachtwoorden en andere instellingen op te halen op al je apparaten. Je wordt ook automatisch ingelogd bij je Fulldive-services.</translation>
 <translation id="2749756011735116528">Inloggen op <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Synchronisatie is uitgeschakeld door je beheerder.</translation>
-<translation id="5462539695964427820">Synchronisatie is gestopt via het Gab AI Inc Dashboard.</translation>
+<translation id="5462539695964427820">Synchronisatie is gestopt via het Fulldive Dashboard.</translation>
 <translation id="8805140816472474147">Bevestig de synchronisatie-instellingen om de synchronisatie te starten.</translation>
 <translation id="5771816112378578655">Instellen wordt uitgevoerd...</translation>
 <translation id="3492788708641132712">Synchronisatie werkt niet. Probeer opnieuw in te loggen.</translation>
@@ -1929,16 +1929,16 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1877520246462554164">Ophalen van verificatietoken is mislukt. Log uit en weer in om het opnieuw te proberen.</translation>
 <translation id="9100765901046053179">Geavanceerde instellingen</translation>
 <translation id="2731700343119398978">Even geduld...</translation>
-<translation id="7218743184834293955">De gegevens zijn versleuteld met je wachtwoordzin voor synchronisatie. Hieronder vallen geen betaalmethoden en adressen van Gab AI Inc Pay.</translation>
+<translation id="7218743184834293955">De gegevens zijn versleuteld met je wachtwoordzin voor synchronisatie. Hieronder vallen geen betaalmethoden en adressen van Fulldive Pay.</translation>
 <translation id="7158251077901880179">De gegevens zijn op <ph name="TIME"/> versleuteld met je wachtwoordzin voor synchronisatie.
-          Hieronder vallen geen betaalmethoden en adressen van Gab AI Inc Pay.</translation>
-<translation id="1171389789873508468">Je gegevens zijn vanaf <ph name="TIME"/> versleuteld met je Gab AI Inc-wachtwoord.
-          Hieronder vallen geen betaalmethoden en adressen van Gab AI Inc Pay.</translation>
+          Hieronder vallen geen betaalmethoden en adressen van Fulldive Pay.</translation>
+<translation id="1171389789873508468">Je gegevens zijn vanaf <ph name="TIME"/> versleuteld met je Fulldive-wachtwoord.
+          Hieronder vallen geen betaalmethoden en adressen van Fulldive Pay.</translation>
 <translation id="2562743677925229011">Niet ingelogd bij <ph name="SHORT_PRODUCT_NAME"/></translation>
 <translation id="4027804175521224372">(Dit kan handiger: <ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">inloggen</translation>
 <translation id="237828693408258535">Deze pagina vertalen?</translation>
-<translation id="4613765529964435709">Wil je dat Gab AI Inc deze pagina vertaalt van het <ph name="SOURCE_LANGUAGE"/> naar het <ph name="TARGET_LANGUAGE"/>?</translation>
+<translation id="4613765529964435709">Wil je dat Fulldive deze pagina vertaalt van het <ph name="SOURCE_LANGUAGE"/> naar het <ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="5990386583461751448">Vertaald</translation>
 <translation id="5659833766619490117">Deze pagina kan niet worden vertaald</translation>
 <translation id="969096075394517431">Talen wijzigen</translation>
@@ -2117,7 +2117,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6309510305002439352">Microfoon is uitgeschakeld</translation>
 <translation id="1322046419516468189">Bekijk en beheer opgeslagen wachtwoorden in je <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Het wachtwoord is opgeslagen. Bekijk en beheer opgeslagen wachtwoorden in je <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Gab AI Inc-account</translation>
+<translation id="5713644099811900409">Fulldive-account</translation>
 <translation id="3785727820640310185">Opgeslagen wachtwoorden voor deze site</translation>
 <translation id="3404065873681873169">Geen wachtwoorden opgeslagen voor deze site</translation>
 <translation id="8470513973197838199">Opgeslagen wachtwoorden voor <ph name="ORIGIN"/></translation>
@@ -2231,7 +2231,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{Scherm #}other{Scherm #}}</translation>
 <translation id="839736845446313156">Registreren</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{Nieuwe printer in je netwerk}other{Nieuwe printers in je netwerk}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Voeg de printer toe aan Gab AI Inc Cloudprinter zodat je overal kunt afdrukken.}other{Voeg # printers toe aan Gab AI Inc Cloudprinter zodat je overal kunt afdrukken.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Voeg de printer toe aan Fulldive Cloudprinter zodat je overal kunt afdrukken.}other{Voeg # printers toe aan Fulldive Cloudprinter zodat je overal kunt afdrukken.}}</translation>
 <translation id="409579654357498729">Toevoegen aan Cloudprinter</translation>
 <translation id="4628757576491864469">Apparaten</translation>
 <translation id="6915804003454593391">Gebruiker:</translation>
@@ -2241,8 +2241,8 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1895934970388272448">Je moet de registratie op je printer bevestigen om dit proces te voltooien. Controleer dit nu.</translation>
 <translation id="551752069230578406">De printer wordt toegevoegd aan je account. Dit kan even duren…</translation>
 <translation id="2384436799579181135">Er is een fout opgetreden. Controleer je printer en probeer het opnieuw.</translation>
-<translation id="1327074568633507428">Printer op Gab AI Inc Cloudprinter</translation>
-<translation id="6782994146626179935">Apparaat op Gab AI Inc Cloud-apparaten</translation>
+<translation id="1327074568633507428">Printer op Fulldive Cloudprinter</translation>
+<translation id="6782994146626179935">Apparaat op Fulldive Cloud-apparaten</translation>
 <translation id="7140928199327930795">Geen andere beschikbare apparaten.</translation>
 <translation id="8213577208796878755">Eén ander beschikbaar apparaat.</translation>
 <translation id="1495486559005647033"><ph name="NUM_PRINTERS"/> andere beschikbare apparaten.</translation>
@@ -2258,7 +2258,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="715118844758971915">Klassieke printers</translation>
 <translation id="4263757076580287579">Printerregistratie is geannuleerd.</translation>
 <translation id="8152091997436726702">Er is een time-out opgetreden tijdens de printerregistratie. Als je een printer wilt registreren, moet je de registratie op de printer bevestigen.</translation>
-<translation id="2624930408905606513">Documenten worden <ph name="BEGIN_LINK_HELP"/>naar Gab AI Inc verzonden<ph name="END_LINK_HELP"/> om de afdruktaak voor te bereiden. Bekijk, bewerk en beheer je printers en printergeschiedenis via het <ph name="BEGIN_LINK_DASHBOARD"/>dashboard van Gab AI Inc Cloudprinter<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513">Documenten worden <ph name="BEGIN_LINK_HELP"/>naar Fulldive verzonden<ph name="END_LINK_HELP"/> om de afdruktaak voor te bereiden. Bekijk, bewerk en beheer je printers en printergeschiedenis via het <ph name="BEGIN_LINK_DASHBOARD"/>dashboard van Fulldive Cloudprinter<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">Dit tabblad maakt gebruik van je camera of microfoon.</translation>
 <translation id="3578594933904494462">De content van dit tabblad wordt gedeeld.</translation>
 <translation id="4449996769074858870">Op dit tabblad wordt audio afgespeeld.</translation>
@@ -2385,14 +2385,14 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="7055152154916055070">Omleiding geblokkeerd:</translation>
 <translation id="6777817260680419853">Omleiding geblokkeerd</translation>
 <translation id="694592694773692225">Omleiding geblokkeerd op deze pagina.</translation>
-<translation id="8945142681652245463">Snel browsen met Gab AI Inc Fulldive</translation>
-<translation id="2618024864038703735">Beveiligd browsen met Gab AI Inc Fulldive</translation>
+<translation id="8945142681652245463">Snel browsen met Fulldive Fulldive</translation>
+<translation id="2618024864038703735">Beveiligd browsen met Fulldive Fulldive</translation>
 <translation id="8142180567942285208">Slim browsen met Fulldive</translation>
 <translation id="8862003515646449717">Overschakelen naar een snelle browser</translation>
 <translation id="8438328416656800239">Overschakelen naar een slimme browser</translation>
 <translation id="491691592645955587">Overschakelen naar een beveiligde browser</translation>
 <translation id="683373380308365518">Overschakelen naar een slimme, beveiligde browser</translation>
-<translation id="989239400026154074">Gab AI Inc beveelt Fulldive aan</translation>
+<translation id="989239400026154074">Fulldive beveelt Fulldive aan</translation>
 <translation id="6676231621615806698">Fulldive openen</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> gebruikt je locatie om lokale content te leveren. Je kunt dit wijzigen in <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Je downloads worden hier weergegeven</translation>
@@ -2558,7 +2558,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="2878782256107578644">Bezig met scannen, nu openen?</translation>
 <translation id="6098793583803863900">Er wordt een onbekend bestand gescand op gevaarlijke content.</translation>
 <translation id="7584578941316704630">Scannen vóór openen?</translation>
-<translation id="4467402456678825062">Het geselecteerde bestand is onbekend en kan gevaarlijk zijn. Wil je het bestand naar 'Geavanceerde beveiliging' van Gab AI Inc sturen zodat het kan worden gescand?</translation>
+<translation id="4467402456678825062">Het geselecteerde bestand is onbekend en kan gevaarlijk zijn. Wil je het bestand naar 'Geavanceerde beveiliging' van Fulldive sturen zodat het kan worden gescand?</translation>
 <translation id="2587922766792651800">Time-out</translation>
 <translation id="4404136731284211429">Opnieuw scannen</translation>
 <translation id="6428450836711225518">Je telefoonnummer verifiëren</translation>
@@ -2566,7 +2566,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6518133107902771759">Verifieer</translation>
 <translation id="4379281552162875326">'<ph name="APP_NAME"/>' verwijderen?</translation>
 <translation id="8812593354822910461">Ook browsergegevens wissen (<ph name="URL"/>). Als je dit doet, word je uitgelogd bij <ph name="DOMAIN"/>. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Ook browsergegevens wissen (<ph name="URL"/>). Als je dit doet, kun je worden uitgelogd bij Gab AI Inc.com. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Ook browsergegevens wissen (<ph name="URL"/>). Als je dit doet, kun je worden uitgelogd bij Fulldive.com. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Meer informatie</translation>
 <translation id="2346953515226895098">SODA-service</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> is onderbroken</translation>
@@ -2728,7 +2728,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4144218403971135344">Ontvang video van betere kwaliteit en spaar de batterij. De video wordt alleen afgespeeld op je scherm dat werkt met Cast.</translation>
 <translation id="236117173274098341">Optimaliseren</translation>
 <translation id="8538358978858059843">Cloudservices inschakelen voor Cast?</translation>
-<translation id="3856595552313160385">Het gebruik van Hangouts en Cast for Education valt onder het privacybeleid van Gab AI Inc.</translation>
+<translation id="3856595552313160385">Het gebruik van Hangouts en Cast for Education valt onder het privacybeleid van Fulldive.</translation>
 <translation id="3435896845095436175">Inschakelen</translation>
 <translation id="3700888195348409686">Gepresenteerd (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Scherm <ph name="DISPLAY_ID"/></translation>
@@ -2972,9 +2972,9 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, +1 ander account}other{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> andere accounts}}</translation>
 <translation id="7434635829372401939">Je instellingen synchroniseren</translation>
 <translation id="1036348656032585052">Uitschakelen</translation>
-<translation id="3267705913905916810">Je apps en instellingen worden gesynchroniseerd voor alle Fulldive OS-apparaten waarop je bent ingelogd met je Gab AI Inc-account. Ga naar de <ph name="LINK_BEGIN"/>Fulldive-instellingen<ph name="LINK_END"/> voor opties voor browsersynchronisatie.</translation>
+<translation id="3267705913905916810">Je apps en instellingen worden gesynchroniseerd voor alle Fulldive OS-apparaten waarop je bent ingelogd met je Fulldive-account. Ga naar de <ph name="LINK_BEGIN"/>Fulldive-instellingen<ph name="LINK_END"/> voor opties voor browsersynchronisatie.</translation>
 <translation id="6985607387932385770">Printers</translation>
-<translation id="8418661265246754237">Gab AI Inc-accounts</translation>
+<translation id="8418661265246754237">Fulldive-accounts</translation>
 <translation id="3953834000574892725">Mijn accounts</translation>
 <translation id="6011193465932186973">Vingerafdruk</translation>
 <translation id="3707212204259470604">Beheer andere profielen</translation>
@@ -3016,16 +3016,16 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5916664084637901428">Aan</translation>
 <translation id="5860033963881614850">Uit</translation>
 <translation id="5515923816438946203">Kiezen wat er op je scherm wordt weergegeven</translation>
-<translation id="2187700606737131818">Gab AI Inc Foto's</translation>
+<translation id="2187700606737131818">Fulldive Foto's</translation>
 <translation id="1827738518074806965">Kunstgalerie</translation>
 <translation id="9137157311132182254">Voorkeurszoekmachine</translation>
 <translation id="7423118389528876103">Gebruikt door Fulldive-browser en <ph name="DEVICE_TYPE"/>-launcher</translation>
-<translation id="2862205630718215619">Gab AI Inc Assistent</translation>
+<translation id="2862205630718215619">Fulldive Assistent</translation>
 <translation id="8959699239363253085">Aan</translation>
 <translation id="971479617738309149">Uit</translation>
-<translation id="7807067443225230855">Gab AI Inc Zoeken en Gab AI Inc Assistent</translation>
+<translation id="7807067443225230855">Fulldive Zoeken en Fulldive Assistent</translation>
 <translation id="1293556467332435079">Bestanden</translation>
-<translation id="6474884162850599008">Gab AI Inc Drive-account ontkoppelen</translation>
+<translation id="6474884162850599008">Fulldive Drive-account ontkoppelen</translation>
 <translation id="3653160965917900914">Fileshares via netwerk</translation>
 <translation id="4906490889887219338">Fileshares via netwerk instellen of beheren. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Fileshare toevoegen</translation>
@@ -3076,7 +3076,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5511379779384092781">Extra klein</translation>
 <translation id="2765217105034171413">Klein</translation>
 <translation id="7409549334477097887">Extra groot</translation>
-<translation id="1800308196794859773">Verzend je stem naar Gab AI Inc zodat je kunt dicteren in tekstvelden.</translation>
+<translation id="1800308196794859773">Verzend je stem naar Fulldive zodat je kunt dicteren in tekstvelden.</translation>
 <translation id="8758418656925882523">Dicteren inschakelen (spreken om te typen)</translation>
 <translation id="1330145147221172764">Schermtoetsenbord inschakelen</translation>
 <translation id="7580671184200851182">Dezelfde audio afspelen via alle speakers (mono-audio)</translation>
@@ -3139,7 +3139,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6902066522699286937">Stem om als voorbeeld te beluisteren</translation>
 <translation id="304747341537320566">Spraakengines</translation>
 <translation id="2755367719610958252">Toegankelijkheidsfuncties beheren</translation>
-<translation id="1203953622051744249">Beheer je ingelogde accounts. Websites, apps en extensies in Fulldive en Gab AI Inc Play kunnen deze accounts gebruiken om de functionaliteit te personaliseren, afhankelijk van de rechten. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Beheer je ingelogde accounts. Websites, apps en extensies in Fulldive en Fulldive Play kunnen deze accounts gebruiken om de functionaliteit te personaliseren, afhankelijk van de rechten. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Je kunt hier een schoolaccount toevoegen of accounts van kinderen beheren. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Accounts</translation>
 <translation id="6597148444736186483">Als je wilt uitloggen van het primaire account op dit apparaat, klik je op de tijd op het scherm. Klik op Uitloggen in het menu dat wordt weergegeven.</translation>
@@ -3148,8 +3148,8 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="2923234477033317484">Dit account verwijderen</translation>
 <translation id="7665369617277396874">Account toevoegen</translation>
 <translation id="8428271547607112339">Schoolaccount toevoegen</translation>
-<translation id="4920274951865016604">Je beheerder heeft het toevoegen van meer Gab AI Inc-accounts uitgeschakeld</translation>
-<translation id="8845742957886589229">Het toevoegen van meer Gab AI Inc-accounts is uitgeschakeld</translation>
+<translation id="4920274951865016604">Je beheerder heeft het toevoegen van meer Fulldive-accounts uitgeschakeld</translation>
+<translation id="8845742957886589229">Het toevoegen van meer Fulldive-accounts is uitgeschakeld</translation>
 <translation id="5021750053540820849">Nog niet geüpdatet</translation>
 <translation id="3448492834076427715">Account updaten</translation>
 <translation id="2458379781610688953">Account updaten, <ph name="EMAIL"/></translation>
@@ -3184,7 +3184,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="3661172646479098821">Momenteel worden alleen Android-apparaten ondersteund.</translation>
 <translation id="3201422919974259695">Hier worden de beschikbare USB-apparaten weergegeven.</translation>
 <translation id="2629227353894235473">Android-apps ontwikkelen</translation>
-<translation id="1669729672557072907">Schakel Android Debug Bridge (ADB) in om je apps te maken en te testen. Let op: Met deze actie sta je toe dat Android-apps worden geïnstalleerd die niet door Gab AI Inc zijn geverifieerd. Als je deze functie wilt uitschakelen, moet je apparaat worden teruggezet op de fabrieksinstellingen.</translation>
+<translation id="1669729672557072907">Schakel Android Debug Bridge (ADB) in om je apps te maken en te testen. Let op: Met deze actie sta je toe dat Android-apps worden geïnstalleerd die niet door Fulldive zijn geverifieerd. Als je deze functie wilt uitschakelen, moet je apparaat worden teruggezet op de fabrieksinstellingen.</translation>
 <translation id="4638930039313743000">ADB-foutopsporing inschakelen</translation>
 <translation id="1630768113285622200">Opnieuw opstarten en doorgaan</translation>
 <translation id="1005333234656240382">ADB-foutopsporing inschakelen?</translation>
@@ -3221,9 +3221,9 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1870629042957780127">Toegang geven tot microfoon</translation>
 <translation id="1392232653471491344">Linux moet opnieuw worden opgestart</translation>
 <translation id="1064552680598333868">Microfoonwijzigingen worden van kracht als Lixus opnieuw wordt opgestart.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play Store</translation>
+<translation id="2714393097308983682">Fulldive Play Store</translation>
 <translation id="2966937470348689686">Android-voorkeuren beheren</translation>
-<translation id="6398715114293939307">Gab AI Inc Play Store verwijderen</translation>
+<translation id="6398715114293939307">Fulldive Play Store verwijderen</translation>
 <translation id="2792290659606763004">Android-apps verwijderen?</translation>
 <translation id="492299503953721473">Android-apps verwijderen</translation>
 <translation id="7566118625369982896">Play-app-links beheren</translation>
@@ -3231,7 +3231,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5862109781435984885">Stylustools op de plank weergeven</translation>
 <translation id="4673442866648850031">Stylustools openen wanneer de stylus wordt verwijderd</translation>
 <translation id="4244238649050961491">Meer stylus-apps zoeken</translation>
-<translation id="668599234725812620">Gab AI Inc Play openen</translation>
+<translation id="668599234725812620">Fulldive Play openen</translation>
 <translation id="9116799625073598554">Notitie-app</translation>
 <translation id="203574396658008164">Notities maken vanaf inlogscherm inschakelen</translation>
 <translation id="6238923052227198598">Laatste notitie op vergrendelingsscherm laten staan</translation>
@@ -3377,7 +3377,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> - <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Mobiele data inschakelen</translation>
 <translation id="7378812711085314936">Dataverbinding ophalen</translation>
-<translation id="3483333858382889684">Dit apparaat toestaan andere apparaten met je Gab AI Inc-account te vinden die een mobiele internetverbinding hebben</translation>
+<translation id="3483333858382889684">Dit apparaat toestaan andere apparaten met je Fulldive-account te vinden die een mobiele internetverbinding hebben</translation>
 <translation id="1572266655485775982">Wifi inschakelen</translation>
 <translation id="7078120482318506217">Alle netwerken</translation>
 <translation id="1235458158152011030">Bekende netwerken</translation>
@@ -3409,13 +3409,13 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4421167684395067330">Probleem bij het maken van verbinding. Neem contact op met <ph name="CARRIER_NAME"/> voor hulp.</translation>
 <translation id="7780252971640011240">Probleem bij het maken van verbinding. Neem contact op met je provider voor hulp.</translation>
 <translation id="161460670679785907">Je telefoon kan niet worden gedetecteerd</translation>
-<translation id="778480864305029524">Schakel meldingen voor Gab AI Inc Play-services in om instant-tethering te gebruiken.</translation>
+<translation id="778480864305029524">Schakel meldingen voor Fulldive Play-services in om instant-tethering te gebruiken.</translation>
 <translation id="7696063401938172191">Op je '<ph name="PHONE_NAME"/>':</translation>
 <translation id="3423463006624419153">Op je '<ph name="PHONE_NAME_1"/>' en je '<ph name="PHONE_NAME_2"/>':</translation>
 <translation id="6997707937646349884">Op je apparaten:</translation>
 <translation id="7531779363494549572">Ga naar Instellingen &gt; Apps en meldingen &gt; Meldingen.</translation>
-<translation id="1819721979226826163">Tik op App-meldingen &gt; Gab AI Inc Play-services.</translation>
-<translation id="968000525894980488">Schakel Gab AI Inc Play-services in.</translation>
+<translation id="1819721979226826163">Tik op App-meldingen &gt; Fulldive Play-services.</translation>
+<translation id="968000525894980488">Schakel Fulldive Play-services in.</translation>
 <translation id="2705736684557713153">Scroll naar de onderkant van het scherm en schakel instant-tethering in als deze optie wordt weergegeven. Als de optie niet wordt weergegeven, ben je helemaal klaar.</translation>
 <translation id="7240339475467890413">Verbinding maken met nieuwe hotspot?</translation>
 <translation id="6514010653036109809">Beschikbaar apparaat:</translation>
@@ -3530,9 +3530,9 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6555432686520421228">Alle gebruikersaccounts verwijderen en je <ph name="IDS_SHORT_PRODUCT_NAME"/>-apparaat opnieuw instellen.</translation>
 <translation id="5470735824776589490">Opnieuw starten is vereist voordat je apparaat opnieuw kan worden ingesteld met Powerwash. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Resetknop</translation>
-<translation id="472896694312062378">'Oké Gab AI Inc'</translation>
-<translation id="2339135612812615870">Activeer je Assistent als je 'Oké Gab AI Inc' zegt.</translation>
-<translation id="3735919318855093557">Activeer je Assistent als je 'Oké Gab AI Inc' zegt. Als je batterijlading wilt besparen, kies je 'Aan (aanbevolen)'. De Assistent reageert dan alleen als je apparaat is aangesloten op een voedingsbron of wordt opgeladen.</translation>
+<translation id="472896694312062378">'Oké Fulldive'</translation>
+<translation id="2339135612812615870">Activeer je Assistent als je 'Oké Fulldive' zegt.</translation>
+<translation id="3735919318855093557">Activeer je Assistent als je 'Oké Fulldive' zegt. Als je batterijlading wilt besparen, kies je 'Aan (aanbevolen)'. De Assistent reageert dan alleen als je apparaat is aangesloten op een voedingsbron of wordt opgeladen.</translation>
 <translation id="5825412242012995131">Aan (aanbevolen)</translation>
 <translation id="5067399438976153555">Altijd ingeschakeld</translation>
 <translation id="6175644081330715138">Uit</translation>
@@ -3541,7 +3541,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5355099869024327351">Hiermee kan de Assistent meldingen aan jou weergeven</translation>
 <translation id="133535873114485416">Voorkeursinvoer</translation>
 <translation id="6233154960150021497">Standaard spraak in plaats van toetsenbord gebruiken</translation>
-<translation id="3908743412684152579">Instellingen van de Gab AI Inc Assistent</translation>
+<translation id="3908743412684152579">Instellingen van de Fulldive Assistent</translation>
 <translation id="1048286738600630630">Schermen</translation>
 <translation id="4184885522552335684">Slepen om een scherm te verplaatsen</translation>
 <translation id="4964455510556214366">Indeling</translation>
@@ -3595,7 +3595,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6856623341093082836">De nauwkeurigheid van het touchscreen instellen en aanpassen</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Alleen apparaat ontgrendelen</translation>
-<translation id="3300552672525741457">Apparaat ontgrendelen en inloggen op Gab AI Inc-account</translation>
+<translation id="3300552672525741457">Apparaat ontgrendelen en inloggen op Fulldive-account</translation>
 <translation id="4562155214028662640">Vingerafdruk toevoegen</translation>
 <translation id="4068776064906523561">Opgeslagen vingerafdrukken</translation>
 <translation id="1719312230114180055">Opmerking: Je vingerafdruk is mogelijk minder beveiligd dan een sterk wachtwoord of sterke pincode.</translation>
@@ -3660,7 +3660,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6547354035488017500">Je moet minimaal 512 MB aan ruimte vrijmaken om ervoor te zorgen dat het apparaat blijft reageren. Verwijder bestanden uit de opslag van het apparaat om ruimte vrij te maken.</translation>
 <translation id="6097480669505687979">Als je geen ruimte vrijmaakt, kunnen gebruikers en gegevens automatisch worden verwijderd.</translation>
 <translation id="4470957202018033307">Voorkeuren voor externe opslag</translation>
-<translation id="1900305421498694955">Apps uit Gab AI Inc Play hebben mogelijk toegang nodig tot het volledige bestandssysteem om bestanden te lezen en schrijven op externe opslagapparaten. Bestanden en mappen die zijn gemaakt op het apparaat, zijn zichtbaar voor iedereen die de externe schijf gebruikt. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Apps uit Fulldive Play hebben mogelijk toegang nodig tot het volledige bestandssysteem om bestanden te lezen en schrijven op externe opslagapparaten. Bestanden en mappen die zijn gemaakt op het apparaat, zijn zichtbaar voor iedereen die de externe schijf gebruikt. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">Beschikbare apparaten worden hier weergegeven.</translation>
 <translation id="1041263367839475438">Beschikbare apparaten</translation>
 <translation id="7479221278376295180">Gebruikersoverzicht van opslagruimte</translation>
@@ -3684,12 +3684,12 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5840822070878669614">Open Webwinkel</translation>
 <translation id="6073903501322152803">Toegankelijkheidsfuncties toevoegen</translation>
 <translation id="7988355189918024273">Functies voor toegankelijkheid inschakelen</translation>
-<translation id="5499063270485366718">Als een afbeelding geen nuttige beschrijving bevat, probeert Fulldive je er een te geven. Afbeeldingen worden naar Gab AI Inc verzonden om beschrijvingen te maken.</translation>
+<translation id="5499063270485366718">Als een afbeelding geen nuttige beschrijving bevat, probeert Fulldive je er een te geven. Afbeeldingen worden naar Fulldive verzonden om beschrijvingen te maken.</translation>
 <translation id="8957762313041272117">Live ondertiteling</translation>
 <translation id="7075426315046750605">'Live ondertiteling' detecteert spraak in media en genereert automatisch een ondertiteling voor alle media die wordt afgespeeld in Fulldive.</translation>
 <translation id="572155275267014074">Android-instellingen</translation>
-<translation id="7201042526153088083">Apps en games van Gab AI Inc Play installeren op je <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Meer informatie&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Apps die je hebt gedownload via Gab AI Inc Play, worden verwijderd van deze Fulldivebook.
+<translation id="7201042526153088083">Apps en games van Fulldive Play installeren op je <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Meer informatie&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Apps die je hebt gedownload via Fulldive Play, worden verwijderd van deze Fulldivebook.
       <ph name="LINE_BREAKS1"/>
       De content die je hebt gekocht (zoals films, tv-programma's, muziek, boeken of andere in-app-aankopen), kan ook worden verwijderd.
       <ph name="LINE_BREAKS2"/>
@@ -3715,7 +3715,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1670399744444387456">Basis</translation>
 <translation id="1763808908432309942">Wordt op een nieuw tabblad geopend</translation>
 <translation id="6248988683584659830">Zoekinstellingen</translation>
-<translation id="883304095704384301">Ga naar de <ph name="BEGIN_LINK_CHROMIUM"/>Help van Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/> als je niet kunt vinden wat je zoekt</translation>
+<translation id="883304095704384301">Ga naar de <ph name="BEGIN_LINK_CHROMIUM"/>Help van Fulldive Fulldive<ph name="END_LINK_CHROMIUM"/> als je niet kunt vinden wat je zoekt</translation>
 <translation id="6406708970972405507">Instellingen: <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Knop voor subpagina</translation>
 <translation id="379509625511193653">Uit</translation>
@@ -3736,10 +3736,10 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="451515744433878153">Verwijderen</translation>
 <translation id="5029568752722684782">Kopie wissen</translation>
 <translation id="2154484045852737596">Pas bewerken</translation>
-<translation id="3032188998195902534">Ga voor het toevoegen of beheren van Gab AI Inc Pay-betaalmethoden naar je <ph name="BEGIN_LINK"/>Gab AI Inc-account<ph name="END_LINK"/></translation>
+<translation id="3032188998195902534">Ga voor het toevoegen of beheren van Fulldive Pay-betaalmethoden naar je <ph name="BEGIN_LINK"/>Fulldive-account<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">Deze kaart wordt alleen op dit apparaat opgeslagen</translation>
 <translation id="5087580092889165836">Kaart toevoegen</translation>
-<translation id="4835914736509775287">Kaarten opslaan in je Gab AI Inc-account</translation>
+<translation id="4835914736509775287">Kaarten opslaan in je Fulldive-account</translation>
 <translation id="7255002516883565667">Je hebt momenteel één kaart die alleen op dit apparaat kan worden gebruikt</translation>
 <translation id="6848388270925200958">Je hebt momenteel enkele kaarten die alleen op dit apparaat kunnen worden gebruikt</translation>
 <translation id="4807098396393229769">Naam op pas</translation>
@@ -3753,9 +3753,9 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8731851055419582926">Gecheckte wachtwoorden</translation>
 <translation id="4248098802131000011">Bescherm je wachtwoorden tegen gegevenslekken en andere beveiligingsproblemen</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> kan je wachtwoorden niet checken. Check de internetverbinding.</translation>
-<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> kan je wachtwoorden checken als je inlogt met je Gab AI Inc-account.</translation>
+<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> kan je wachtwoorden checken als je inlogt met je Fulldive-account.</translation>
 <translation id="4478777936860197922">Geen opgeslagen wachtwoorden. <ph name="IDS_SHORT_PRODUCT_NAME"/> kan je wachtwoorden checken als je deze hebt opgeslagen.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> kan je wachtwoorden niet checken. Probeer het over 24 uur opnieuw of <ph name="BEGIN_LINK"/>check de wachtwoorden in je Gab AI Inc-account<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> kan je wachtwoorden niet checken. Probeer het over 24 uur opnieuw of <ph name="BEGIN_LINK"/>check de wachtwoorden in je Fulldive-account<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> kan je wachtwoorden niet checken. Probeer het over 24 uur opnieuw.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> kan je wachtwoorden niet checken. Probeer het opnieuw.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Geen gehackte wachtwoorden gevonden}=1{{COUNT} gehackt wachtwoord}other{{COUNT} gehackte wachtwoorden}}</translation>
@@ -3781,7 +3781,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="2100273922101894616">Automatisch inloggen</translation>
 <translation id="7513029293694390567">Automatisch inloggen bij websites met de opgeslagen gegevens. Als de functie is uitgeschakeld, wordt elke keer om bevestiging gevraagd voordat je inlogt bij een website.</translation>
 <translation id="6995899638241819463">Waarschuwen als je wachtwoorden zijn gelekt bij een gegevenslek</translation>
-<translation id="1534287762301776620">Als je inlogt op je Gab AI Inc-account, wordt deze functie ingeschakeld</translation>
+<translation id="1534287762301776620">Als je inlogt op je Fulldive-account, wordt deze functie ingeschakeld</translation>
 <translation id="1375321115329958930">Opgeslagen wachtwoorden</translation>
 <translation id="152234381334907219">Nooit opgeslagen</translation>
 <translation id="5137501176474113045">Dit item verwijderen</translation>
@@ -3795,7 +3795,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="7930294771522048157">Opgeslagen betaalmethoden worden hier weergegeven</translation>
 <translation id="9124003689441359348">Opgeslagen wachtwoorden worden hier weergegeven</translation>
 <translation id="4400367121200150367">Sites die nooit wachtwoorden opslaan, worden hier weergegeven</translation>
-<translation id="3098842761938485917">Bekijk en beheer opgeslagen wachtwoorden in je <ph name="BEGIN_LINK"/>Gab AI Inc-account<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Bekijk en beheer opgeslagen wachtwoorden in je <ph name="BEGIN_LINK"/>Fulldive-account<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">Wachtwoorden exporteren...</translation>
 <translation id="3900966090527141178">Wachtwoorden exporteren</translation>
 <translation id="6914783257214138813">Je wachtwoorden zijn zichtbaar voor iedereen die het geëxporteerde bestand kan bekijken.</translation>
@@ -3862,15 +3862,15 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="3380365263193509176">Onbekende fout</translation>
 <translation id="368789413795732264">Er is een fout opgetreden bij het genereren van het bestand: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Periode</translation>
-<translation id="3958004920128806270">Als je browsergegevens alleen van dit apparaat wilt wissen, maar ze wilt behouden in je Gab AI Inc-account, <ph name="BEGIN_LINK"/>log je uit<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">Als je browsergegevens wilt wissen van al je gesynchroniseerde apparaten en je Gab AI Inc-account, <ph name="BEGIN_LINK"/>ga je naar synchronisatie-instellingen<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">Als je browsergegevens wilt wissen van al je gesynchroniseerde apparaten en je Gab AI Inc-account, <ph name="BEGIN_LINK"/>geef je je wachtwoordzin op<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">Als je browsergegevens wilt wissen van al je gesynchroniseerde apparaten en je Gab AI Inc-account, <ph name="BEGIN_LINK"/>log je in<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">Als je browsergegevens alleen van dit apparaat wilt wissen, maar ze wilt behouden in je Fulldive-account, <ph name="BEGIN_LINK"/>log je uit<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">Als je browsergegevens wilt wissen van al je gesynchroniseerde apparaten en je Fulldive-account, <ph name="BEGIN_LINK"/>ga je naar synchronisatie-instellingen<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">Als je browsergegevens wilt wissen van al je gesynchroniseerde apparaten en je Fulldive-account, <ph name="BEGIN_LINK"/>geef je je wachtwoordzin op<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">Als je browsergegevens wilt wissen van al je gesynchroniseerde apparaten en je Fulldive-account, <ph name="BEGIN_LINK"/>log je in<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Hiermee word je uitgelogd uit de meeste sites.</translation>
-<translation id="4650925988509114690">Hiermee word je uitgelogd bij de meeste sites. Je blijft ingelogd op je Gab AI Inc-account zodat je gesynchroniseerde gegevens kunnen worden gewist.</translation>
+<translation id="4650925988509114690">Hiermee word je uitgelogd bij de meeste sites. Je blijft ingelogd op je Fulldive-account zodat je gesynchroniseerde gegevens kunnen worden gewist.</translation>
 <translation id="2017836877785168846">Wist de geschiedenis en automatische aanvullingen in de adresbalk.</translation>
-<translation id="8096327394278038498">Hiermee worden de geschiedenis en automatische aanvullingen voor de adresbalk gewist. Er kunnen andere vormen van browsegeschiedenis zijn opgeslagen voor je Gab AI Inc-account op <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Hiermee wordt de geschiedenis van alle ingelogde apparaten gewist. Er kunnen andere vormen van browsegeschiedenis zijn opgeslagen voor je Gab AI Inc-account op <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Hiermee worden de geschiedenis en automatische aanvullingen voor de adresbalk gewist. Er kunnen andere vormen van browsegeschiedenis zijn opgeslagen voor je Fulldive-account op <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Hiermee wordt de geschiedenis van alle ingelogde apparaten gewist. Er kunnen andere vormen van browsegeschiedenis zijn opgeslagen voor je Fulldive-account op <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">Downloadgeschiedenis</translation>
 <translation id="4699172675775169585">Gecachte afbeeldingen en bestanden</translation>
 <translation id="1274997165432133392">Cookies en andere sitegegevens</translation>
@@ -3885,7 +3885,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1043818413152647937">Ook gegevens van deze apps wissen?</translation>
 <translation id="3399432415385675819">Meldingen worden uitgeschakeld</translation>
 <translation id="3459509316159669723">Afdrukken</translation>
-<translation id="7063957500469387217">Printer in Gab AI Inc Cloudprinter instellen of beheren.</translation>
+<translation id="7063957500469387217">Printer in Fulldive Cloudprinter instellen of beheren.</translation>
 <translation id="8185331656081929126">Meldingen weergeven wanneer er nieuwe printers in het netwerk worden gedetecteerd</translation>
 <translation id="6451180435462401570">Cloudprinter-apparaten beheren</translation>
 <translation id="4733793249294335256">Locatie</translation>
@@ -3907,7 +3907,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="5425722269016440406">Je moet online zijn om Smart Lock uit te schakelen, omdat deze instelling wordt gesynchroniseerd met je telefoon en andere apparaten. Maak eerst verbinding met een netwerk.</translation>
 <translation id="8885197664446363138">Smart Lock is niet beschikbaar</translation>
 <translation id="7334190995941642545">Smart Lock is momenteel niet beschikbaar. Probeer het later opnieuw.</translation>
-<translation id="8112427115751454716">Gebruik Smart Lock om in te loggen op je Gab AI Inc-account</translation>
+<translation id="8112427115751454716">Gebruik Smart Lock om in te loggen op je Fulldive-account</translation>
 <translation id="2043818754674261542">Afstand die nodig is om deze <ph name="DEVICE_TYPE"/> te ontgrendelen met de telefoon</translation>
 <translation id="2522791476825452208">Heel dichtbij</translation>
 <translation id="649454645705377674">Sluiten</translation>
@@ -3928,7 +3928,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1726100011689679555">Naamservers</translation>
 <translation id="1209796539517632982">Automatische naamservers</translation>
 <translation id="4462159676511157176">Aangepaste naamservers</translation>
-<translation id="1981884748698699991">Gab AI Inc-naamservers</translation>
+<translation id="1981884748698699991">Fulldive-naamservers</translation>
 <translation id="6317608858038767920">Aangepaste naamserver <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">URL voor WPAD:</translation>
 <translation id="3817579325494460411">Niet opgegeven</translation>
@@ -4086,7 +4086,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="3182749001423093222">Spellingcontrole</translation>
 <translation id="5423829801105537712">Standaard spellingcontrole</translation>
 <translation id="2564653188463346023">Uitgebreide spellingcontrole</translation>
-<translation id="8944680893327873975">Gebruikt dezelfde spellingcontrole als voor Gab AI Inc Zoeken. In de browser ingevoerde tekst wordt naar Gab AI Inc gestuurd.</translation>
+<translation id="8944680893327873975">Gebruikt dezelfde spellingcontrole als voor Fulldive Zoeken. In de browser ingevoerde tekst wordt naar Fulldive gestuurd.</translation>
 <translation id="5051836348807686060">De spellingcontrole wordt niet ondersteund voor de talen die je hebt geselecteerd</translation>
 <translation id="7335974957018254119">Spellingcontrole gebruiken voor</translation>
 <translation id="2469375675106140201">Spellingcontrole aanpassen</translation>
@@ -4099,7 +4099,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4200689466366162458">Aangepaste woorden</translation>
 <translation id="7833720883933317473">Opgeslagen aangepaste woorden worden hier weergegeven</translation>
 <translation id="8509646642152301857">Downloaden van woordenboek voor spellingcontrole is mislukt.</translation>
-<translation id="8842834450537919370">Neem contact op met je netwerkbeheerder om ervoor te zorgen dat downloads van Gab AI Inc-servers niet door de firewall worden geblokkeerd.</translation>
+<translation id="8842834450537919370">Neem contact op met je netwerkbeheerder om ervoor te zorgen dat downloads van Fulldive-servers niet door de firewall worden geblokkeerd.</translation>
 <translation id="9042893549633094279">Privacy en beveiliging</translation>
 <translation id="5548606607480005320">Veiligheidscheck</translation>
 <translation id="5876576639916258720">Uitvoeren…</translation>
@@ -4135,17 +4135,17 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="2468205691404969808">Maakt gebruik van cookies om je voorkeuren te onthouden, zelfs als je deze pagina's niet bezoekt</translation>
 <translation id="3633309367764744750">Haalt vooraf informatie op van pagina's, inclusief pagina's die je nog niet hebt bezocht. Opgehaalde informatie kan cookies bevatten, als je cookies toestaat.</translation>
 <translation id="3201899458094819285">Safe Browsing (hiermee worden jij en je apparaat beschermd tegen gevaarlijke sites)</translation>
-<translation id="2876369937070532032">Verzendt URL's van bepaalde pagina's die je bezoekt naar Gab AI Inc wanneer je beveiliging risico loopt</translation>
+<translation id="2876369937070532032">Verzendt URL's van bepaalde pagina's die je bezoekt naar Fulldive wanneer je beveiliging risico loopt</translation>
 <translation id="4991384657077828949">Help de beveiliging van Fulldive te verbeteren</translation>
-<translation id="1984646864943401749">Stuurt URL's van sommige pagina's die je bezoekt, beperkte systeeminformatie en bepaalde paginacontent naar Gab AI Inc om nieuwe dreigingen te ontdekken en iedereen op internet te beschermen.</translation>
+<translation id="1984646864943401749">Stuurt URL's van sommige pagina's die je bezoekt, beperkte systeeminformatie en bepaalde paginacontent naar Fulldive om nieuwe dreigingen te ontdekken en iedereen op internet te beschermen.</translation>
 <translation id="1641113438599504367">Safe Browsing</translation>
 <translation id="6900532703269623216">Verbeterde beveiliging</translation>
-<translation id="7307583170263691471">Snellere, proactieve beveiliging tegen gevaarlijke websites, downloads en extensies. Stuurt een waarschuwing over wachtwoordlekken. Vereist dat browsegegevens naar Gab AI Inc worden verstuurd.</translation>
+<translation id="7307583170263691471">Snellere, proactieve beveiliging tegen gevaarlijke websites, downloads en extensies. Stuurt een waarschuwing over wachtwoordlekken. Vereist dat browsegegevens naar Fulldive worden verstuurd.</translation>
 <translation id="8645920082661222035">Voorspelt en waarschuwt je over gevaarlijke gebeurtenissen voordat deze plaatsvinden</translation>
-<translation id="5265419033369521352">Beschermt je op Fulldive en kan worden gebruikt om de beveiliging in andere Gab AI Inc-apps te verbeteren als je bent ingelogd</translation>
+<translation id="5265419033369521352">Beschermt je op Fulldive en kan worden gebruikt om de beveiliging in andere Fulldive-apps te verbeteren als je bent ingelogd</translation>
 <translation id="6770602306803890733">Verbetert de beveiliging voor jou en alle andere internetgebruikers</translation>
 <translation id="3690369331356918524">Waarschuwt als je wachtwoorden zijn gelekt bij een gegevenslek</translation>
-<translation id="4979281249641199724">Stuurt URL's naar Safe Browsing om deze te controleren. Stuurt ook een klein gedeelte pagina's, downloads, extensie-activiteit en systeeminformatie om nieuwe dreigingen te kunnen detecteren. Koppelt deze gegevens tijdelijk aan je Gab AI Inc-account als je bent ingelogd om je te beschermen binnen de Gab AI Inc-apps.</translation>
+<translation id="4979281249641199724">Stuurt URL's naar Safe Browsing om deze te controleren. Stuurt ook een klein gedeelte pagina's, downloads, extensie-activiteit en systeeminformatie om nieuwe dreigingen te kunnen detecteren. Koppelt deze gegevens tijdelijk aan je Fulldive-account als je bent ingelogd om je te beschermen binnen de Fulldive-apps.</translation>
 <translation id="1963976881984600709">Standaardbeveiliging</translation>
 <translation id="6882836635272038266">Standaardbeveiliging tegen websites, downloads en extensies die als gevaarlijk zijn bestempeld.</translation>
 <translation id="5561162485081632007">Detecteert en waarschuwt je over gevaarlijke gebeurtenissen als deze plaatsvinden</translation>
@@ -4164,8 +4164,8 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1995916364271252349">Beheert welke informatie sites mogen gebruiken en weergeven (locatie, camera, pop-ups en meer)</translation>
 <translation id="3320630259304269485">Safe Browsing (bescherming tegen gevaarlijke sites) en andere beveiligingsinstellingen</translation>
 <translation id="7536333565791380193">Geavanceerde beveiliging</translation>
-<translation id="8525226238722561998">Het Gab AI Inc-programma 'Geavanceerde beveiliging'</translation>
-<translation id="1229550669565092839">Beschermt de persoonlijke Gab AI Inc-accounts van iedereen die risico loopt op gerichte aanvallen</translation>
+<translation id="8525226238722561998">Het Fulldive-programma 'Geavanceerde beveiliging'</translation>
+<translation id="1229550669565092839">Beschermt de persoonlijke Fulldive-accounts van iedereen die risico loopt op gerichte aanvallen</translation>
 <translation id="1521442365706402292">Certificaten beheren</translation>
 <translation id="7075625805486468288">HTTPS/SSL-certificaten en -instellingen beheren</translation>
 <translation id="6588043302623806746">Beveiligde DNS gebruiken</translation>
@@ -4439,7 +4439,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4590324241397107707">Opslag in database</translation>
 <translation id="8016266267177410919">Tijdelijke opslag</translation>
 <translation id="4175737294868205930">Permanente opslag</translation>
-<translation id="8397843425685839889">Jij en Gab AI Inc</translation>
+<translation id="8397843425685839889">Jij en Fulldive</translation>
 <translation id="8907706281008466056">Fulldive-profielfoto</translation>
 <translation id="2023167225947895179">De pincode is mogelijk makkelijk te raden</translation>
 <translation id="5342091991439452114">Pincode moet minimaal <ph name="MINIMUM"/> cijfers bevatten</translation>
@@ -4454,30 +4454,30 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="899676909165543803">De vingerafdruksensor is de toets rechtsonder op je toetsenbord. Raak deze kort aan met een vinger.</translation>
 <translation id="4535767533210902251">De vingerafdruksensor is de toets rechtsboven op je toetsenbord. Raak deze kort aan met een vinger.</translation>
 <translation id="5449551289610225147">Ongeldig wachtwoord</translation>
-<translation id="4326270470840334364">Omdat dit account wordt beheerd door <ph name="DOMAIN"/>, worden je bladwijzers, geschiedenis, wachtwoorden en andere instellingen gewist van dit apparaat. Je gegevens blijven opgeslagen in je Gab AI Inc-account en kunnen worden beheerd via <ph name="BEGIN_LINK"/>Gab AI Inc Dashboard<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">Omdat dit account wordt beheerd door <ph name="DOMAIN"/>, worden je bladwijzers, geschiedenis, wachtwoorden en andere instellingen gewist van dit apparaat. Je gegevens blijven opgeslagen in je Fulldive-account en kunnen worden beheerd via <ph name="BEGIN_LINK"/>Fulldive Dashboard<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">Wijzig profiel</translation>
 <translation id="3699920817649120894">Synchronisatie en personalisatie uitschakelen?</translation>
 <translation id="5643620609347735571">Wissen en doorgaan</translation>
 <translation id="5602765853043467355">Bladwijzers, geschiedenis, wachtwoorden en meer wissen van dit apparaat</translation>
 <translation id="4089235344645910861">Instellingen opgeslagen. Synchronisatie gestart.</translation>
 <translation id="6739923123728562974">Bureaubladsnelkoppeling weergeven</translation>
-<translation id="2951604498031550705">Wijzigingen in je bladwijzers, geschiedenis, wachtwoorden en andere instellingen worden niet meer gesynchroniseerd met je Gab AI Inc-account. Je bestaande gegevens blijven echter opgeslagen in je Gab AI Inc-account en kunnen worden beheerd via <ph name="BEGIN_LINK"/>Gab AI Inc Dashboard<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">Hiermee word je uitgelogd van je Gab AI Inc-accounts. Onder meer je bladwijzers, geschiedenis en wachtwoorden worden niet meer gesynchroniseerd.</translation>
+<translation id="2951604498031550705">Wijzigingen in je bladwijzers, geschiedenis, wachtwoorden en andere instellingen worden niet meer gesynchroniseerd met je Fulldive-account. Je bestaande gegevens blijven echter opgeslagen in je Fulldive-account en kunnen worden beheerd via <ph name="BEGIN_LINK"/>Fulldive Dashboard<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">Hiermee word je uitgelogd van je Fulldive-accounts. Onder meer je bladwijzers, geschiedenis en wachtwoorden worden niet meer gesynchroniseerd.</translation>
 <translation id="8588866096426746242">Profielstatistieken weergeven</translation>
 <translation id="5535941515421698170">Ook je bestaande gegevens verwijderen van dit apparaat</translation>
 <translation id="2162155940152307086">De synchronisatie wordt gestart wanneer je de synchronisatie-instellingen verlaat</translation>
-<translation id="1125261911132334651">Je Gab AI Inc-account beheren</translation>
+<translation id="1125261911132334651">Je Fulldive-account beheren</translation>
 <translation id="5117427536932535467">Thema's en achtergronden</translation>
 <translation id="7257173066616499747">Wifi-netwerken</translation>
 <translation id="2120297377148151361">Activiteit en interacties</translation>
 <translation id="5833397272224757657">Maakt gebruik van content op sites die je bezoekt en browseractiviteit en -interactie voor personalisatie</translation>
-<translation id="8135094938656535588">Gesynchroniseerde gegevens beheren in Gab AI Inc Dashboard</translation>
-<translation id="5958351589333270173">Gesynchroniseerde gegevens versleutelen met je eigen <ph name="BEGIN_LINK"/>wachtwoordzin voor synchronisatie<ph name="END_LINK"/>. Hieronder vallen geen betaalmethoden en adressen van Gab AI Inc Pay.</translation>
-<translation id="4817583816512767754">Alleen iemand met je wachtwoordzin kan je versleutelde gegevens lezen. De wachtwoordzin wordt niet verzonden naar of opgeslagen door Gab AI Inc. Als je je wachtwoordzin vergeet of deze instelling wilt wijzigen, moet je de <ph name="BEGIN_LINK"/>synchronisatie resetten<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Gesynchroniseerde gegevens beheren in Fulldive Dashboard</translation>
+<translation id="5958351589333270173">Gesynchroniseerde gegevens versleutelen met je eigen <ph name="BEGIN_LINK"/>wachtwoordzin voor synchronisatie<ph name="END_LINK"/>. Hieronder vallen geen betaalmethoden en adressen van Fulldive Pay.</translation>
+<translation id="4817583816512767754">Alleen iemand met je wachtwoordzin kan je versleutelde gegevens lezen. De wachtwoordzin wordt niet verzonden naar of opgeslagen door Fulldive. Als je je wachtwoordzin vergeet of deze instelling wilt wijzigen, moet je de <ph name="BEGIN_LINK"/>synchronisatie resetten<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Als je deze instelling wilt wijzigen, moet je de <ph name="BEGIN_LINK"/>synchronisatie resetten<ph name="END_LINK"/> om de wachtwoordzin voor synchronisatie te verwijderen</translation>
 <translation id="3873315167136380065">Als je dit wilt inschakelen, <ph name="BEGIN_LINK"/>reset je de synchronisatie<ph name="END_LINK"/> om de wachtwoordzin voor synchronisatie te verwijderen</translation>
 <translation id="6451689256222386810">Als je je wachtwoordzin bent vergeten of deze instelling wilt wijzigen, <ph name="BEGIN_LINK"/>stel je de synchronisatie opnieuw in<ph name="END_LINK"/>.</translation>
-<translation id="4882831918239250449">Beheren hoe je browsegeschiedenis wordt gebruikt om Gab AI Inc Zoeken, advertenties en meer te personaliseren</translation>
+<translation id="4882831918239250449">Beheren hoe je browsegeschiedenis wordt gebruikt om Fulldive Zoeken, advertenties en meer te personaliseren</translation>
 <translation id="3958088479270651626">Bladwijzers en instellingen importeren</translation>
 <translation id="2192505247865591433">Van:</translation>
 <translation id="3031557471081358569">Selecteer items die je wilt importeren:</translation>
@@ -4530,7 +4530,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8639047128869322042">Controleren op schadelijke software...</translation>
 <translation id="2653033005692233957">Zoeken is mislukt</translation>
 <translation id="655483977608336153">Opnieuw</translation>
-<translation id="8282772389915299166">Gegevens aan Gab AI Inc melden over schadelijke software, systeeminstellingen en processen die op je computer zijn aangetroffen tijdens deze opschoonbewerking</translation>
+<translation id="8282772389915299166">Gegevens aan Fulldive melden over schadelijke software, systeeminstellingen en processen die op je computer zijn aangetroffen tijdens deze opschoonbewerking</translation>
 <translation id="6555810572223193255">Opschonen is momenteel niet beschikbaar</translation>
 <translation id="7117228822971127758">Probeer het later opnieuw</translation>
 <translation id="443475966875174318">Ongeschikte apps updaten en verwijderen</translation>
@@ -4614,16 +4614,16 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="161042844686301425">Cyaan</translation>
 <translation id="4115378294792113321">Magenta</translation>
 <translation id="8438566539970814960">Zoekopdrachten en browsefunctionaliteit verbeteren</translation>
-<translation id="284843628681142937">Hiermee worden de URL's van pagina's die je bezoekt, verzonden naar Gab AI Inc</translation>
+<translation id="284843628681142937">Hiermee worden de URL's van pagina's die je bezoekt, verzonden naar Fulldive</translation>
 <translation id="7704317875155739195">Zoekopdrachten en URL's automatisch aanvullen</translation>
 <translation id="2000419248597011803">Hiermee worden bepaalde cookies en de zoekopdrachten in de adresbalk en in het zoekvak verzonden naar je standaard zoekmachine</translation>
 <translation id="918192811481327695">Help de functies en prestaties van Fulldive verbeteren</translation>
-<translation id="9063160602596686558">Hiermee worden automatisch gebruiksstatistieken en crashrapporten naar Gab AI Inc verzonden</translation>
+<translation id="9063160602596686558">Hiermee worden automatisch gebruiksstatistieken en crashrapporten naar Fulldive verzonden</translation>
 <translation id="6697492270171225480">Suggesties voor vergelijkbare pagina's weergeven wanneer een pagina niet wordt gevonden</translation>
-<translation id="4534361985432360439">Hiermee wordt het webadres van de pagina die je probeert te openen, verzonden naar Gab AI Inc</translation>
-<translation id="3831436149286513437">Zoeksuggesties voor Gab AI Inc Drive</translation>
+<translation id="4534361985432360439">Hiermee wordt het webadres van de pagina die je probeert te openen, verzonden naar Fulldive</translation>
+<translation id="3831436149286513437">Zoeksuggesties voor Fulldive Drive</translation>
 <translation id="5244474230056479698">Synchroniseren met <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Gab AI Inc-functies in Fulldive</translation>
+<translation id="9125982323641182972">Fulldive-functies in Fulldive</translation>
 <translation id="2537178555904266562">Fout bij synchroniseren van wachtwoorden</translation>
 <translation id="4314815835985389558">Synchronisatie beheren</translation>
 <translation id="8931475688782629595">Beheren wat je synchroniseert</translation>
@@ -4632,18 +4632,18 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="4570387585180509432">Adressen, telefoonnummers en meer</translation>
 <translation id="3268451620468152448">Geopende tabbladen</translation>
 <translation id="4684427112815847243">Alles synchroniseren</translation>
-<translation id="5428209950370661546">Andere Gab AI Inc-services</translation>
+<translation id="5428209950370661546">Andere Fulldive-services</translation>
 <translation id="7399045143794278225">Synchronisatie aanpassen</translation>
 <translation id="7044606776288350625">Gegevens synchroniseren</translation>
 <translation id="9050666287014529139">Wachtwoordzin</translation>
 <translation id="6596325263575161958">Opties voor encryptie</translation>
-<translation id="2459230470861708651">Gesynchroniseerde wachtwoorden versleutelen met je Gab AI Inc-gebruikersnaam en -wachtwoord</translation>
+<translation id="2459230470861708651">Gesynchroniseerde wachtwoorden versleutelen met je Fulldive-gebruikersnaam en -wachtwoord</translation>
 <translation id="1651008383952180276">Je moet twee keer dezelfde wachtwoordzin opgeven</translation>
 <translation id="988978206646512040">Een lege wachtwoordzin is niet toegestaan</translation>
 <translation id="2136476978468204130">De opgegeven wachtwoordzin is onjuist</translation>
 <translation id="7505421639213002314">Gegevens van Fulldive-synchronisatie</translation>
 <translation id="452750746583162491">Je gesynchroniseerde gegevens controleren</translation>
-<translation id="7956662517480676674">Synchronisatie &amp; Gab AI Inc-services</translation>
+<translation id="7956662517480676674">Synchronisatie &amp; Fulldive-services</translation>
 <translation id="7772032839648071052">Bevestig de wachtwoordzin</translation>
 <translation id="7529411698175791732">Controleer de internetverbinding. Als het probleem blijft optreden, log je uit en weer in.</translation>
 <translation id="6406506848690869874">Sync</translation>
@@ -4777,8 +4777,8 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="7835178595033117206">Bladwijzer verwijderd</translation>
 <translation id="742130257665691897">Bladwijzers verwijderd</translation>
 <translation id="5468853758063275923">Fulldive is je standaardbrowser</translation>
-<translation id="2950533317914339731">Voeg bladwijzers toe voor je favoriete Gab AI Inc-apps</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">Voeg bladwijzers toe voor je favoriete Fulldive-apps</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Maps</translation>
 <translation id="6709133671862442373">Nieuws</translation>
@@ -4792,7 +4792,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="7789963078219276159">Achtergrond van startpagina is gewijzigd in <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">De achtergrond van de startpagina is gereset naar de standaardachtergrond.</translation>
 <translation id="239760341987199724">Fulldive instellen als je standaardbrowser</translation>
-<translation id="96037229054033864">Gab AI Inc Zoeken en slimme Gab AI Inc-functies standaard instellen voor browsen</translation>
+<translation id="96037229054033864">Fulldive Zoeken en slimme Fulldive-functies standaard instellen voor browsen</translation>
 <translation id="296137235951584143">Personaliseer Fulldive voor jou</translation>
 <translation id="3982375475032951137">Stel je browser in een paar eenvoudige stappen in</translation>
 <translation id="6972754398087986839">Get Started</translation>
@@ -4805,7 +4805,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="1031362278801463162">Voorbeeld wordt geladen</translation>
 <translation id="6147020289383635445">Kan afdrukvoorbeeld niet weergeven.</translation>
 <translation id="5877584842898320529">De geselecteerde printer is niet beschikbaar of niet correct geïnstalleerd.<ph name="BR"/>Controleer de printer of probeer een andere printer te selecteren.</translation>
-<translation id="6645437135153136856">Het geselecteerde Gab AI Inc Cloudprinter-apparaat wordt niet meer ondersteund.<ph name="BR"/>Stel de printer in via de systeeminstellingen van je computer.</translation>
+<translation id="6645437135153136856">Het geselecteerde Fulldive Cloudprinter-apparaat wordt niet meer ondersteund.<ph name="BR"/>Stel de printer in via de systeeminstellingen van je computer.</translation>
 <translation id="5828633471261496623">Bezig met afdrukken....</translation>
 <translation id="6295855836753816081">Opslaan...</translation>
 <translation id="3587482841069643663">Alles</translation>
@@ -4825,7 +4825,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="3706463572498736864">Pagina's per blad</translation>
 <translation id="2249605167705922988">bijv. 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">Opslaan als pdf</translation>
-<translation id="6532101170117367231">Opslaan in Gab AI Inc Drive</translation>
+<translation id="6532101170117367231">Opslaan in Fulldive Drive</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">vellen papier</translation>
 <translation id="8813811964357448561">vel papier</translation>
@@ -4855,7 +4855,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="6991665348624301627">Een bestemming selecteren</translation>
 <translation id="8800004011501252845">Bestemmingen weergeven voor</translation>
 <translation id="8996526648899750015">Account toevoegen…</translation>
-<translation id="6723354935081862304">Afdrukken naar Gab AI Inc Documenten en andere cloudbestemmingen. <ph name="BEGIN_LINK"/>Inloggen<ph name="END_LINK"/> om af te drukken naar Gab AI Inc Cloudprinter.</translation>
+<translation id="6723354935081862304">Afdrukken naar Fulldive Documenten en andere cloudbestemmingen. <ph name="BEGIN_LINK"/>Inloggen<ph name="END_LINK"/> om af te drukken naar Fulldive Cloudprinter.</translation>
 <translation id="2150139952286079145">Bestemmingen zoeken</translation>
 <translation id="8569682776816196752">Geen bestemmingen gevonden</translation>
 <translation id="7885253890047913815">Recente bestemmingen</translation>

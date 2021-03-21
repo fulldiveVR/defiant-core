@@ -23,31 +23,31 @@
 <translation id="3749259744154402564">不支持</translation>
 <translation id="629730747756840877">帐号</translation>
 <translation id="82609232232243542">登录 Fulldive</translation>
-<translation id="7956662517480676674">同步功能和 Gab AI Inc 服务</translation>
-<translation id="5294439808117722387">您正在自定义您的“同步功能和 Gab AI Inc 服务”设置。要完成开启同步功能的操作，请点按屏幕底部附近的“确认”按钮。转到上一层级</translation>
+<translation id="7956662517480676674">同步功能和 Fulldive 服务</translation>
+<translation id="5294439808117722387">您正在自定义您的“同步功能和 Fulldive 服务”设置。要完成开启同步功能的操作，请点按屏幕底部附近的“确认”按钮。转到上一层级</translation>
 <translation id="2096012225669085171">在所有设备上保持同步并进行个性化设置</translation>
 <translation id="1692118695553449118">同步功能已开启</translation>
 <translation id="5514904542973294328">已被此设备的管理员停用</translation>
-<translation id="6447211988989208781">Gab AI Inc 活动控件</translation>
-<translation id="4882831918239250449">控制 Gab AI Inc 如何利用您的浏览记录为您提供个性化的搜索、广告和其他服务</translation>
-<translation id="7431991332293347422">控制 Gab AI Inc 如何利用您的浏览记录为您提供个性化的 Gab AI Inc 搜索和其他 Gab AI Inc 服务</translation>
+<translation id="6447211988989208781">Fulldive 活动控件</translation>
+<translation id="4882831918239250449">控制 Fulldive 如何利用您的浏览记录为您提供个性化的搜索、广告和其他服务</translation>
+<translation id="7431991332293347422">控制 Fulldive 如何利用您的浏览记录为您提供个性化的 Fulldive 搜索和其他 Fulldive 服务</translation>
 <translation id="6303969859164067831">退出帐号并关闭同步功能</translation>
-<translation id="1125261911132334651">管理您的 Gab AI Inc 帐号</translation>
+<translation id="1125261911132334651">管理您的 Fulldive 帐号</translation>
 <translation id="6406506848690869874">同步</translation>
 <translation id="714362445477979774">同步 Fulldive 数据</translation>
 <translation id="4314815835985389558">管理同步数据</translation>
-<translation id="5428209950370661546">其他 Gab AI Inc 服务</translation>
+<translation id="5428209950370661546">其他 Fulldive 服务</translation>
 <translation id="7704317875155739195">自动填充搜索字词和网址</translation>
 <translation id="2000419248597011803">将一些 Cookie 以及地址栏和搜索框中的搜索字词发送给您的默认搜索引擎</translation>
 <translation id="7981313251711023384">预加载网页，以便实现更快速的浏览和搜索</translation>
 <translation id="1821253160463689938">使用 Cookie 记住您的偏好设置（即使您不访问这些网页）</translation>
 <translation id="6697492270171225480">找不到相应网页时，显示有关类似网页的建议</translation>
-<translation id="8109318360573330108">将您尝试访问的网页的网址发送给 Gab AI Inc</translation>
+<translation id="8109318360573330108">将您尝试访问的网页的网址发送给 Fulldive</translation>
 <translation id="8438566539970814960">改善搜索和浏览体验</translation>
-<translation id="284843628681142937">将您所访问的网页的网址发送给 Gab AI Inc</translation>
-<translation id="7222718784508482526">若想了解更多与隐私、安全和数据收集相关的设置，请参阅<ph name="BEGIN_LINK"/>同步功能和 Gab AI Inc 服务<ph name="END_LINK"/></translation>
+<translation id="284843628681142937">将您所访问的网页的网址发送给 Fulldive</translation>
+<translation id="7222718784508482526">若想了解更多与隐私、安全和数据收集相关的设置，请参阅<ph name="BEGIN_LINK"/>同步功能和 Fulldive 服务<ph name="END_LINK"/></translation>
 <translation id="918192811481327695">帮助我们改进 Fulldive 的功能和性能</translation>
-<translation id="9063160602596686558">自动将使用情况统计信息和崩溃报告发送至 Gab AI Inc</translation>
+<translation id="9063160602596686558">自动将使用情况统计信息和崩溃报告发送至 Fulldive</translation>
 <translation id="4824958205181053313">取消同步？</translation>
 <translation id="3058498974290601450">您随时可在“设置”中开启同步功能</translation>
 <translation id="3143515551205905069">取消同步</translation>
@@ -86,9 +86,9 @@
 <translation id="2100273922101894616">自动登录</translation>
 <translation id="363596933471559332">使用存储的凭据自动登录网站。当该功能处于停用状态时，您每次都要通过验证才能登录网站。</translation>
 <translation id="6995899638241819463">在密码遭遇数据泄露时，向您发出警告</translation>
-<translation id="1534287762301776620">当您登录自己的 Gab AI Inc 帐号后，系统即会启用此功能</translation>
+<translation id="1534287762301776620">当您登录自己的 Fulldive 帐号后，系统即会启用此功能</translation>
 <translation id="10614374240317010">一律不保存</translation>
-<translation id="3098842761938485917">查看和管理您的 <ph name="BEGIN_LINK"/>Gab AI Inc 帐号<ph name="END_LINK"/>中保存的密码</translation>
+<translation id="3098842761938485917">查看和管理您的 <ph name="BEGIN_LINK"/>Fulldive 帐号<ph name="END_LINK"/>中保存的密码</translation>
 <translation id="8988028529677883095">使用手机作为安全密钥</translation>
 <translation id="8562452229998620586">已保存的密码将显示在这里。</translation>
 <translation id="1303339473099049190">找不到该密码。请检查拼写，然后重试。</translation>
@@ -116,7 +116,7 @@
 <translation id="6914783257214138813">所有能查看此导出文件的人员都能看到您的密码。</translation>
 <translation id="2321086116217818302">正在准备密码…</translation>
 <translation id="8445448999790540984">无法导出密码</translation>
-<translation id="5139940364318403933">了解如何使用 Gab AI Inc 云端硬盘</translation>
+<translation id="5139940364318403933">了解如何使用 Fulldive 云端硬盘</translation>
 <translation id="729975465115245577">您的设备上没有可以存储密码文件的应用。</translation>
 <translation id="7682724950699840886">请尝试按以下提示操作：确保您的设备上有足够的空间，然后重新尝试导出。</translation>
 <translation id="1129510026454351943">错误详情：<ph name="ERROR_DESCRIPTION"/></translation>
@@ -140,17 +140,17 @@
 <translation id="6381421346744604172">调暗网站颜色</translation>
 <translation id="5040262127954254034">隐私设置</translation>
 <translation id="4991384657077828949">帮助我们改善 Fulldive 安全性</translation>
-<translation id="1943176487615318915">为了检测危险应用和网站，Fulldive 会将您所访问的部分网页的网址、有限的系统信息以及部分网页内容发送给 Gab AI Inc</translation>
+<translation id="1943176487615318915">为了检测危险应用和网站，Fulldive 会将您所访问的部分网页的网址、有限的系统信息以及部分网页内容发送给 Fulldive</translation>
 <translation id="3201899458094819285">安全浏览（保护您和您的设备不受危险网站的侵害）</translation>
-<translation id="2876369937070532032">当您面临安全风险时，将您所访问的部分网页的网址发送给 Gab AI Inc</translation>
+<translation id="2876369937070532032">当您面临安全风险时，将您所访问的部分网页的网址发送给 Fulldive</translation>
 <translation id="3738139272394829648">触摸搜索</translation>
-<translation id="4749189475009528195">无需离开所在页面，便可了解网站上的主题。“触摸搜索”功能会将被触摸的字词及上下文一起发送给 Gab AI Inc 搜索，后者随即会据此返回相应的定义、图片、搜索结果及其他详情。
+<translation id="4749189475009528195">无需离开所在页面，便可了解网站上的主题。“触摸搜索”功能会将被触摸的字词及上下文一起发送给 Fulldive 搜索，后者随即会据此返回相应的定义、图片、搜索结果及其他详情。
 
 点按任意字词即可进行搜索。要优化您的搜索，请轻触并按住相应区域以多选或少选一些字词。要修改您的搜索，请打开面板，点按图标打开新标签页，然后在搜索框中做出更改。</translation>
-<translation id="934250516944040460">无需离开所在页面，便可了解网站上的主题。“触摸搜索”功能会将被触摸的字词及上下文一起发送给 Gab AI Inc 搜索，后者随即会据此返回相应的定义、图片、搜索结果及其他详情。
+<translation id="934250516944040460">无需离开所在页面，便可了解网站上的主题。“触摸搜索”功能会将被触摸的字词及上下文一起发送给 Fulldive 搜索，后者随即会据此返回相应的定义、图片、搜索结果及其他详情。
 
 轻触并按住任意字词即可进行搜索。要优化您的搜索，请多选或少选一些字词。要修改您的搜索，请打开面板，点按图标打开新标签页，然后在搜索框中做出更改。</translation>
-<translation id="6209156474097347789">“触摸搜索”会将所选字词和当前页面（作为上下文）一起发送给 Gab AI Inc 搜索。您可以在<ph name="BEGIN_LINK"/>设置<ph name="END_LINK"/>中停用此功能。</translation>
+<translation id="6209156474097347789">“触摸搜索”会将所选字词和当前页面（作为上下文）一起发送给 Fulldive 搜索。您可以在<ph name="BEGIN_LINK"/>设置<ph name="END_LINK"/>中停用此功能。</translation>
 <translation id="5039804452771397117">允许</translation>
 <translation id="780301667611848630">不用了，谢谢</translation>
 <translation id="1406000523432664303">“不跟踪”</translation>
@@ -163,15 +163,15 @@
 <translation id="7814200940910057384">已清除 Fulldive 数据</translation>
 <translation id="1664855196866195614">所选数据已从 Fulldive 和同步的设备中移除。
 
-不过，您的 Gab AI Inc 帐号在 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 上可能还有其他形式的浏览记录（例如，在其他 Gab AI Inc 服务中的搜索记录和活动记录）。</translation>
+不过，您的 Fulldive 帐号在 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 上可能还有其他形式的浏览记录（例如，在其他 Fulldive 服务中的搜索记录和活动记录）。</translation>
 <translation id="4699172675775169585">缓存的图片和文件</translation>
 <translation id="2496180316473517155">浏览记录</translation>
 <translation id="2546283357679194313">Cookie 和网站数据</translation>
 <translation id="8662811608048051533">您会从大多数网站退出。</translation>
-<translation id="8218628800671693884">您会从大多数网站退出，但不会退出自己的 Gab AI Inc 帐号。</translation>
+<translation id="8218628800671693884">您会从大多数网站退出，但不会退出自己的 Fulldive 帐号。</translation>
 <translation id="2017836877785168846">清除历史记录和地址栏中的自动填充项。</translation>
-<translation id="8096327394278038498">清除历史记录和地址栏中的自动填充项。您的 Gab AI Inc 帐号在 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 上可能有其他形式的浏览记录。</translation>
-<translation id="8122693181154564064">清除所有登录过的设备上的历史记录。您的 Gab AI Inc 帐号在 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 上可能有其他形式的浏览记录。</translation>
+<translation id="8096327394278038498">清除历史记录和地址栏中的自动填充项。您的 Fulldive 帐号在 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 上可能有其他形式的浏览记录。</translation>
+<translation id="8122693181154564064">清除所有登录过的设备上的历史记录。您的 Fulldive 帐号在 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 上可能有其他形式的浏览记录。</translation>
 <translation id="5869522115854928033">已保存的密码</translation>
 <translation id="6865313869410766144">自动填充表单数据</translation>
 <translation id="7562080006725997899">正在清除浏览数据</translation>
@@ -188,7 +188,7 @@
 <translation id="6643016212128521049">清除</translation>
 <translation id="7641339528570811325">清除浏览数据…</translation>
 <translation id="1670399744444387456">基本</translation>
-<translation id="3245261285041759672">您的 Gab AI Inc 帐号在 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 上可能有其他形式的浏览记录。</translation>
+<translation id="3245261285041759672">您的 Fulldive 帐号在 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 上可能有其他形式的浏览记录。</translation>
 <translation id="7274013316676448362">禁止访问的网站</translation>
 <translation id="2534155362429831547">删除了 <ph name="NUMBER_OF_ITEMS"/> 项</translation>
 <translation id="6981982820502123353">无障碍</translation>
@@ -358,13 +358,13 @@
 <translation id="3658159451045945436">这项重置操作会清空流量节省情况历史记录，包括曾访问过的网站的列表。</translation>
 <translation id="5939518447894949180">重置</translation>
 <translation id="3295530008794733555">浏览速度更快。耗用的流量更少。</translation>
-<translation id="7340390500800578919">在精简模式下，Fulldive 可更快速地加载网页，并可节省多达 60% 的流量。为了优化您访问的网页，Fulldive 会将您的网络流量数据发送给 Gab AI Inc。<ph name="BEGIN_LINK"/>了解详情<ph name="END_LINK"/></translation>
+<translation id="7340390500800578919">在精简模式下，Fulldive 可更快速地加载网页，并可节省多达 60% 的流量。为了优化您访问的网页，Fulldive 会将您的网络流量数据发送给 Fulldive。<ph name="BEGIN_LINK"/>了解详情<ph name="END_LINK"/></translation>
 <translation id="4538018662093857852">开启精简模式</translation>
 <translation id="4493497663118223949">精简模式已开启</translation>
 <translation id="7559975015014302720">精简模式已关闭</translation>
 <translation id="7606077192958116810">精简模式已开启。在“设置”中管理此模式。</translation>
 <translation id="4714588616299687897">最多可为您节省 60% 的数据流量</translation>
-<translation id="1006927014032731288">Gab AI Inc 服务器会优化您访问的网页。</translation>
+<translation id="1006927014032731288">Fulldive 服务器会优化您访问的网页。</translation>
 <translation id="3257320067425202300">Fulldive 已为您保存的数据量：<ph name="MEGABYTES"/> MB</translation>
 <translation id="5813223329348543512">Fulldive 已为您保存的数据量：<ph name="GIGABYTES"/> GB</translation>
 <translation id="8266862848225348053">下载内容保存位置</translation>
@@ -393,13 +393,13 @@
 <translation id="3334729583274622784">更改文件扩展名？</translation>
 <translation id="107147699690128016">如果您更改文件扩展名，此文件可能会在另一应用中打开并对您的设备造成危害。</translation>
 <translation id="8541922081612557424">关于 Fulldive</translation>
-<translation id="5311273890481188673">版权所有 <ph name="YEAR"/> Gab AI Inc LLC. 保留所有权利。</translation>
+<translation id="5311273890481188673">版权所有 <ph name="YEAR"/> Fulldive LLC. 保留所有权利。</translation>
 <translation id="1416550906796893042">应用版本</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/>（上次更新时间：<ph name="TIME_SINCE_UPDATE"/>）</translation>
 <translation id="7596558890252710462">操作系统</translation>
 <translation id="3968054912784331254">此版本的 Android 不再支持 Fulldive 更新</translation>
 <translation id="7665369617277396874">添加帐号</translation>
-<translation id="649070405679044769">已使用以下帐号登录 Gab AI Inc：</translation>
+<translation id="649070405679044769">已使用以下帐号登录 Fulldive：</translation>
 <translation id="6234515504547364178">退出 Fulldive</translation>
 <translation id="5324858694974489420">家长设置</translation>
 <translation id="8920114477895755567">正在等待获取家长的详细信息。</translation>
@@ -424,14 +424,14 @@
 <translation id="2968755619301702150">证书查看器</translation>
 <translation id="1360432990279830238">退出帐号并关闭同步功能？</translation>
 <translation id="8581481290581777242">从这部设备中清除您的 Fulldive 数据？</translation>
-<translation id="1318865768845061710">您的书签、历史记录、密码和其他 Fulldive 数据将不再同步到您的 Gab AI Inc 帐号中</translation>
+<translation id="1318865768845061710">您的书签、历史记录、密码和其他 Fulldive 数据将不再同步到您的 Fulldive 帐号中</translation>
 <translation id="3325020657155065477">同时从此设备中清除您的 Fulldive 数据</translation>
-<translation id="6136448902816743006">您将要退出由 <ph name="DOMAIN_NAME"/> 管理的帐号，因此您的 Fulldive 数据将会从这部设备中删除，但仍会保留在您的 Gab AI Inc 帐号中。</translation>
-<translation id="1853026300647876496">正在连接到 Gab AI Inc，请稍等片刻…</translation>
+<translation id="6136448902816743006">您将要退出由 <ph name="DOMAIN_NAME"/> 管理的帐号，因此您的 Fulldive 数据将会从这部设备中删除，但仍会保留在您的 Fulldive 帐号中。</translation>
+<translation id="1853026300647876496">正在连接到 Fulldive，请稍等片刻…</translation>
 <translation id="2328985652426384049">无法登录</translation>
-<translation id="7723158744459952869">Gab AI Inc 的响应速度太慢</translation>
+<translation id="7723158744459952869">Fulldive 的响应速度太慢</translation>
 <translation id="4572422548854449519">请登录受管理的帐号</translation>
-<translation id="2689656545739939160">您正要登录由 <ph name="MANAGED_DOMAIN"/> 管理的帐号，并要授权其管理员控制您的 Fulldive 数据。您的数据将与此帐号永久关联。退出 Fulldive 后，您的数据将从这台设备上删除，但仍会保留在您的 Gab AI Inc 帐号中。</translation>
+<translation id="2689656545739939160">您正要登录由 <ph name="MANAGED_DOMAIN"/> 管理的帐号，并要授权其管理员控制您的 Fulldive 数据。您的数据将与此帐号永久关联。退出 Fulldive 后，您的数据将从这台设备上删除，但仍会保留在您的 Fulldive 帐号中。</translation>
 <translation id="1749561566933687563">同步您的书签</translation>
 <translation id="4242533952199664413">打开“设置”</translation>
 <translation id="1111673857033749125">您在其他设备上保存的书签将列在此处。</translation>
@@ -445,21 +445,21 @@
 <translation id="8820817407110198400">书签</translation>
 <translation id="1644574205037202324">历史记录</translation>
 <translation id="17513872634828108">目前打开的标签页</translation>
-<translation id="1320169905922104972">Gab AI Inc Pay 中存储的信用卡和地址信息</translation>
+<translation id="1320169905922104972">Fulldive Pay 中存储的信用卡和地址信息</translation>
 <translation id="6337234675334993532">加密</translation>
 <translation id="6698801883190606802">管理已同步的数据</translation>
-<translation id="3598578758776312506">使用 Gab AI Inc 凭据加密密码</translation>
-<translation id="7810580217418711046">自 <ph name="TIME"/>起，使用 Gab AI Inc 密码加密已同步的数据</translation>
+<translation id="3598578758776312506">使用 Fulldive 凭据加密密码</translation>
+<translation id="7810580217418711046">自 <ph name="TIME"/>起，使用 Fulldive 密码加密已同步的数据</translation>
 <translation id="8461694314515752532">使用您自己的同步密码加密已同步的数据</translation>
 <translation id="2996291259634659425">创建密码</translation>
-<translation id="5713644099811900409">Gab AI Inc 帐号</translation>
-<translation id="8997474919031554666">密码加密不包括 Gab AI Inc Pay 中的付款方式和地址。只有知道您密码的人才能读取您的已加密数据。系统不会将该密码发送给 Gab AI Inc，Gab AI Inc 也不会存储该密码。如果您忘记了密码或想更改此设置，则需重置同步设置。<ph name="BEGIN_LINK"/>了解详情<ph name="END_LINK"/></translation>
+<translation id="5713644099811900409">Fulldive 帐号</translation>
+<translation id="8997474919031554666">密码加密不包括 Fulldive Pay 中的付款方式和地址。只有知道您密码的人才能读取您的已加密数据。系统不会将该密码发送给 Fulldive，Fulldive 也不会存储该密码。如果您忘记了密码或想更改此设置，则需重置同步设置。<ph name="BEGIN_LINK"/>了解详情<ph name="END_LINK"/></translation>
 <translation id="9050666287014529139">密码</translation>
 <translation id="7772032839648071052">确认密码</translation>
 <translation id="5304593522240415983">此字段不能为空</translation>
 <translation id="321773570071367578">如果您忘记了密码或想更改此设置，请<ph name="BEGIN_LINK"/>重置同步设置<ph name="END_LINK"/></translation>
 <translation id="3029704984691124060">密码不匹配</translation>
-<translation id="5149495116300586333">密码加密不包括 Gab AI Inc Pay 中的付款方式和地址。
+<translation id="5149495116300586333">密码加密不包括 Fulldive Pay 中的付款方式和地址。
 
 要更改此设置，请<ph name="BEGIN_LINK"/>重置同步设置<ph name="END_LINK"/></translation>
 <translation id="7638584964844754484">密码不正确</translation>
@@ -575,7 +575,7 @@
 <translation id="6649642165559792194">预览图片<ph name="BEGIN_NEW"/>新<ph name="END_NEW"/></translation>
 <translation id="3269093882174072735">加载图片</translation>
 <translation id="6671495933530132209">复制图片</translation>
-<translation id="3845332215609790146">使用 Gab AI Inc 智能镜头进行搜索<ph name="BEGIN_NEW"/>新功能<ph name="END_NEW"/></translation>
+<translation id="3845332215609790146">使用 Fulldive 智能镜头进行搜索<ph name="BEGIN_NEW"/>新功能<ph name="END_NEW"/></translation>
 <translation id="5578795271662203820">在<ph name="SEARCH_ENGINE"/>中搜索此图片</translation>
 <translation id="3384347053049321195">分享图片</translation>
 <translation id="5833984609253377421">分享链接</translation>
@@ -584,7 +584,7 @@
 <translation id="7975379999046275268">预览网页<ph name="BEGIN_NEW"/>新<ph name="END_NEW"/></translation>
 <translation id="2012973609889389923">网站加载速度很快</translation>
 <translation id="6112702117600201073">正在刷新页面</translation>
-<translation id="6990079615885386641">从 Gab AI Inc Play 商店下载应用：<ph name="APP_ACTION"/></translation>
+<translation id="6990079615885386641">从 Fulldive Play 商店下载应用：<ph name="APP_ACTION"/></translation>
 <translation id="2414886740292270097">深色调</translation>
 <translation id="1807246157184219062">浅色调</translation>
 <translation id="4056223980640387499">棕色调</translation>
@@ -610,9 +610,9 @@
 <translation id="164269334534774161">您目前浏览的是此网页的离线副本（创建时间：<ph name="CREATION_TIME"/>）</translation>
 <translation id="4594952190837476234">此离线网页是在 <ph name="CREATION_TIME"/>创建的，可能与在线版本有所不同。</translation>
 <translation id="8840953339110955557">此网页可能与在线版本有所不同。</translation>
-<translation id="6405300764336705484">此内容来自 <ph name="DOMAIN_NAME"/>（由 Gab AI Inc 提供）。</translation>
+<translation id="6405300764336705484">此内容来自 <ph name="DOMAIN_NAME"/>（由 Fulldive 提供）。</translation>
 <translation id="1006017844123154345">在线打开</translation>
-<translation id="3326636747541519688">由 Gab AI Inc 提供的精简版网页</translation>
+<translation id="3326636747541519688">由 Fulldive 提供的精简版网页</translation>
 <translation id="7149158118503947153">从 <ph name="DOMAIN_NAME"/> <ph name="BEGIN_LINK"/>加载原始网页<ph name="END_LINK"/></translation>
 <translation id="7475192538862203634">如果您频繁遇到此问题，请尝试按这些<ph name="BEGIN_LINK"/>建议<ph name="END_LINK"/>操作。</translation>
 <translation id="8748850008226585750">内容已隐藏</translation>
@@ -711,18 +711,18 @@
 <translation id="3244271242291266297">MM</translation>
 <translation id="605721222689873409">YY</translation>
 <translation id="724102042129299115">Fulldive 首次运行体验</translation>
-<translation id="7766792282581704663">使用 Fulldive 即表示您同意接受 <ph name="BEGIN_LINK1"/>Gab AI Inc 服务条款<ph name="END_LINK1"/>以及 <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive 和 Fulldive 操作系统附加服务条款<ph name="END_LINK2"/>。</translation>
-<translation id="4301045550182524767">使用 Fulldive 即表示您同意接受 <ph name="BEGIN_LINK1"/>Gab AI Inc 服务条款<ph name="END_LINK1"/>以及 <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive 和 Fulldive 操作系统附加服务条款<ph name="END_LINK2"/>。<ph name="BEGIN_LINK3"/>针对通过 Family Link 管理的 Gab AI Inc 帐号的隐私权声明<ph name="END_LINK3"/>也适用。</translation>
-<translation id="4993481112200507346"><ph name="APP_NAME"/>将在 Fulldive 中打开。继续操作即表示您同意接受 <ph name="BEGIN_LINK1"/>Gab AI Inc 服务条款<ph name="END_LINK1"/>以及 <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive 和 Fulldive 操作系统附加服务条款<ph name="END_LINK2"/>。</translation>
-<translation id="8725391159384120485"><ph name="APP_NAME"/>将在 Fulldive 中打开。继续操作即表示您同意接受 <ph name="BEGIN_LINK1"/>Gab AI Inc 服务条款<ph name="END_LINK1"/>以及 <ph name="BEGIN_LINK2"/>Gab AI Inc Fulldive 和 Fulldive 操作系统附加服务条款<ph name="END_LINK2"/>。<ph name="BEGIN_LINK3"/>针对通过 Family Link 管理的 Gab AI Inc 帐号的隐私权声明<ph name="END_LINK3"/>也适用。</translation>
-<translation id="673197144963363525">将使用情况统计信息和崩溃报告发送给 Gab AI Inc，帮助我们完善 Fulldive。</translation>
+<translation id="7766792282581704663">使用 Fulldive 即表示您同意接受 <ph name="BEGIN_LINK1"/>Fulldive 服务条款<ph name="END_LINK1"/>以及 <ph name="BEGIN_LINK2"/>Fulldive Fulldive 和 Fulldive 操作系统附加服务条款<ph name="END_LINK2"/>。</translation>
+<translation id="4301045550182524767">使用 Fulldive 即表示您同意接受 <ph name="BEGIN_LINK1"/>Fulldive 服务条款<ph name="END_LINK1"/>以及 <ph name="BEGIN_LINK2"/>Fulldive Fulldive 和 Fulldive 操作系统附加服务条款<ph name="END_LINK2"/>。<ph name="BEGIN_LINK3"/>针对通过 Family Link 管理的 Fulldive 帐号的隐私权声明<ph name="END_LINK3"/>也适用。</translation>
+<translation id="4993481112200507346"><ph name="APP_NAME"/>将在 Fulldive 中打开。继续操作即表示您同意接受 <ph name="BEGIN_LINK1"/>Fulldive 服务条款<ph name="END_LINK1"/>以及 <ph name="BEGIN_LINK2"/>Fulldive Fulldive 和 Fulldive 操作系统附加服务条款<ph name="END_LINK2"/>。</translation>
+<translation id="8725391159384120485"><ph name="APP_NAME"/>将在 Fulldive 中打开。继续操作即表示您同意接受 <ph name="BEGIN_LINK1"/>Fulldive 服务条款<ph name="END_LINK1"/>以及 <ph name="BEGIN_LINK2"/>Fulldive Fulldive 和 Fulldive 操作系统附加服务条款<ph name="END_LINK2"/>。<ph name="BEGIN_LINK3"/>针对通过 Family Link 管理的 Fulldive 帐号的隐私权声明<ph name="END_LINK3"/>也适用。</translation>
+<translation id="673197144963363525">将使用情况统计信息和崩溃报告发送给 Fulldive，帮助我们完善 Fulldive。</translation>
 <translation id="3518985090088779359">接受并继续</translation>
 <translation id="7207456302801184289">欢迎使用 Fulldive</translation>
-<translation id="7189372733857464326">正在等待 Gab AI Inc Play 服务完成更新</translation>
+<translation id="7189372733857464326">正在等待 Fulldive Play 服务完成更新</translation>
 <translation id="1231733316453485619">开启同步功能？</translation>
 <translation id="5132942445612118989">将您的密码、历史记录等信息同步到所有设备上</translation>
-<translation id="5736731321935944068">Gab AI Inc 可能会利用您的历史记录为您提供个性化的 Gab AI Inc 搜索、广告和其他 Gab AI Inc 服务</translation>
-<translation id="4013614219085422040">Gab AI Inc 可能会利用您的历史记录为您提供个性化的 Gab AI Inc 搜索和其他 Gab AI Inc 服务</translation>
+<translation id="5736731321935944068">Fulldive 可能会利用您的历史记录为您提供个性化的 Fulldive 搜索、广告和其他 Fulldive 服务</translation>
+<translation id="4013614219085422040">Fulldive 可能会利用您的历史记录为您提供个性化的 Fulldive 搜索和其他 Fulldive 服务</translation>
 <translation id="5581519193887989363">您始终可在<ph name="BEGIN_LINK1"/>设置<ph name="END_LINK1"/>中选择要同步的内容。</translation>
 <translation id="741204030948306876">立即启用</translation>
 <translation id="2410754283952462441">选择帐号</translation>
@@ -730,8 +730,8 @@
 <translation id="6210748933810148297">不是 <ph name="EMAIL"/>？</translation>
 <translation id="8109613176066109935">要将您的书签同步到您的所有设备上，请开启同步功能</translation>
 <translation id="2818669890320396765">要将您的书签同步到您的所有设备上，请登录您的帐号并开启同步功能</translation>
-<translation id="6003646045106347985">要获取 Gab AI Inc 推荐的个性化内容，请开启同步功能</translation>
-<translation id="8494430740943879273">要获取 Gab AI Inc 推荐的个性化内容，请登录您的帐号并开启同步功能</translation>
+<translation id="6003646045106347985">要获取 Fulldive 推荐的个性化内容，请开启同步功能</translation>
+<translation id="8494430740943879273">要获取 Fulldive 推荐的个性化内容，请登录您的帐号并开启同步功能</translation>
 <translation id="5862731021271217234">要访问您在其他设备上打开的标签页，请开启同步功能</translation>
 <translation id="3568688522516854065">要访问您在其他设备上的标签页，请登录您的帐号并开启同步功能</translation>
 <translation id="1208340532756947324">要在您的所有设备上保持同步并进行个性化设置，请开启同步功能</translation>
@@ -751,7 +751,7 @@
 <translation id="5423934151118863508">您最常访问的网页将列在此处</translation>
 <translation id="6127379762771434464">该项已移除</translation>
 <translation id="4605958867780575332">以下项已移除：<ph name="ITEM_TITLE"/></translation>
-<translation id="1996480094660735607">Gab AI Inc 涂鸦：<ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">Fulldive 涂鸦：<ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="7851858861565204677">来自其他设备的同步</translation>
 <translation id="4738836084190194332">上次同步时间：<ph name="WHEN"/></translation>
 <translation id="4583164079174244168">{MINUTES,plural, =1{# 分钟前}other{# 分钟前}}</translation>
@@ -778,7 +778,7 @@
 <translation id="1171770572613082465">点按“热门网站”按钮可查看热门网站</translation>
 <translation id="5233638681132016545">打开新的标签页</translation>
 <translation id="6336451774241870485">新的私有标签页</translation>
-<translation id="4521874409998847950">来自 <ph name="PUBLISHER_ORIGIN"/> - <ph name="BEGIN_DEEMPHASIZED"/>由 Gab AI Inc 提供<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950">来自 <ph name="PUBLISHER_ORIGIN"/> - <ph name="BEGIN_DEEMPHASIZED"/>由 Fulldive 提供<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="2587052924345400782">新版本已推出</translation>
 <translation id="4058091506841967397">Fulldive 无法更新</translation>
 <translation id="6316139424528454185">Android 版本不受支持</translation>
@@ -914,7 +914,7 @@
 <translation id="8427875596167638501">预览标签页已在下半屏中打开</translation>
 <translation id="9102803872260866941">预览标签页已打开</translation>
 <translation id="2942036813789421260">预览标签页已关闭</translation>
-<translation id="6355102470683871794">Gab AI Inc <ph name="APP_NAME"/> 存储数据</translation>
+<translation id="6355102470683871794">Fulldive <ph name="APP_NAME"/> 存储数据</translation>
 <translation id="3822502789641063741">要清除网站存储数据吗？</translation>
 <translation id="9205995714227143200">Fulldive 认为不重要的网站（例如未保存任何设置的网站或您不常访问的网站）存储的数据</translation>
 <translation id="3997476611815694295">不重要网站的存储数据</translation>
@@ -955,9 +955,9 @@
 <translation id="5489227211564503167">已播时长为 <ph name="ELAPSED_TIME"/>，总时长为 <ph name="TOTAL_TIME"/>。</translation>
 <translation id="6560414384669816528">改用搜狗搜索</translation>
 <translation id="5406914950576900927">在中国，Fulldive 可以使用<ph name="BEGIN_BOLD"/>搜狗<ph name="END_BOLD"/>作为搜索引擎。如果需要，您可以在<ph name="BEGIN_LINK"/>设置<ph name="END_LINK"/>中进行更改。</translation>
-<translation id="6456271171669383967">继续使用 Gab AI Inc</translation>
+<translation id="6456271171669383967">继续使用 Fulldive</translation>
 <translation id="4384468725000734951">目前使用的搜索引擎是搜狗</translation>
-<translation id="6103327872225198548">目前使用的搜索引擎是 Gab AI Inc</translation>
+<translation id="6103327872225198548">目前使用的搜索引擎是 Fulldive</translation>
 <translation id="9133703968756164531"><ph name="ITEM_NAME"/> (<ph name="ITEM_ID"/>)</translation>
 <translation id="919933208285147476">此应用正在 Fulldive 中运行</translation>
 <translation id="6143689084714664628">正在 Fulldive 中运行</translation>
@@ -989,7 +989,7 @@
 <translation id="123724288017357924">重新加载当前网页（忽略缓存的内容）</translation>
 <translation id="305870044889644984">在新标签页中打开 Fulldive 帮助中心</translation>
 <translation id="3166827708714933426">标签页和窗口快捷键</translation>
-<translation id="3169981355900570544">Gab AI Inc Fulldive 功能快捷键</translation>
+<translation id="3169981355900570544">Fulldive Fulldive 功能快捷键</translation>
 <translation id="4558311620361989323">网页快捷键</translation>
 <translation id="1908301351964700579">Fulldive 仍在准备 VR。请稍等片刻再重启 Fulldive。</translation>
 <translation id="8970887620466824814">出了点问题。</translation>
@@ -1018,9 +1018,9 @@
 <translation id="3341058695485821946">查看您已节省多少数据流量</translation>
 <translation id="3157842584138209013">通过“更多选项”按钮查看您已节省多少数据流量</translation>
 <translation id="8218622182176210845">管理您的帐号</translation>
-<translation id="8090895580117672212">要管理您的 Gab AI Inc 帐号，请点按“管理帐号”按钮</translation>
-<translation id="8856898588039823173">由 Gab AI Inc 提供的精简版网页。点按即可加载原始网页。</translation>
-<translation id="8134317863207426198">由 Gab AI Inc 提供的精简版网页。点按“加载原始网页”按钮即可加载原始网页。</translation>
+<translation id="8090895580117672212">要管理您的 Fulldive 帐号，请点按“管理帐号”按钮</translation>
+<translation id="8856898588039823173">由 Fulldive 提供的精简版网页。点按即可加载原始网页。</translation>
+<translation id="8134317863207426198">由 Fulldive 提供的精简版网页。点按“加载原始网页”按钮即可加载原始网页。</translation>
 <translation id="4961107849584082341">将此页面翻译成任何语言</translation>
 <translation id="569536719314091526">通过“更多选项”按钮将此页面翻译成任何语言</translation>
 <translation id="1397811292916898096">使用 <ph name="PRODUCT_NAME"/> 进行搜索</translation>
@@ -1079,11 +1079,11 @@
 <translation id="5805364706385912897">此网页占用的内存过多，因此 Fulldive 已将其暂停。</translation>
 <translation id="5138664332909611586">此网页占用的内存过多，因此 Fulldive 移除了部分内容。</translation>
 <translation id="9137013805542155359">显示原始网页</translation>
-<translation id="6361779936989026201">Fulldive 中的 Gab AI Inc 助理</translation>
-<translation id="7291387454912369099">使用 Fulldive 中的 Gab AI Inc 助理结帐</translation>
-<translation id="9037412730408024068">为了帮助您执行各种操作，Gab AI Inc 将会收到您使用 Gab AI Inc 助理时所在网站的网址和内容，以及您通过 Gab AI Inc 助理提交的信息</translation>
+<translation id="6361779936989026201">Fulldive 中的 Fulldive 助理</translation>
+<translation id="7291387454912369099">使用 Fulldive 中的 Fulldive 助理结帐</translation>
+<translation id="9037412730408024068">为了帮助您执行各种操作，Fulldive 将会收到您使用 Fulldive 助理时所在网站的网址和内容，以及您通过 Fulldive 助理提交的信息</translation>
 <translation id="4565206163201411670">在“数字健康”应用中显示您的 Fulldive 活动记录？</translation>
-<translation id="9055113864158719823">您可以查看自己在 Fulldive 中访问的网站并为这些网站设置计时器。\n\nGab AI Inc 会获取这些设有计时器的网站的相关信息以及您对这些网站的访问时长。这些信息会被用于改进“数字健康”应用。</translation>
+<translation id="9055113864158719823">您可以查看自己在 Fulldive 中访问的网站并为这些网站设置计时器。\n\nFulldive 会获取这些设有计时器的网站的相关信息以及您对这些网站的访问时长。这些信息会被用于改进“数字健康”应用。</translation>
 <translation id="4596514158372210596">从“数字健康”应用中移除您的 Fulldive 活动记录</translation>
 <translation id="1174893863889683998">从“数字健康”应用中移除您的 Fulldive 活动记录？</translation>
 <translation id="708829030563435351">您在 Fulldive 中访问的网站不会显示。所有网站计时器都会被删除。</translation>
@@ -1111,7 +1111,7 @@
 <translation id="7173114856073700355">打开“设置”</translation>
 <translation id="1311657260431405215">此二维码不是网址：<ph name="QRCODEVALUE"/></translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
-<translation id="7339921667754113786">Gab AI Inc 通知平台</translation>
+<translation id="7339921667754113786">Fulldive 通知平台</translation>
 <translation id="8516012719330875537">图片编辑器</translation>
 <translation id="8926666909099850184">此设备的 NFC 功能处于关闭状态。请在 <ph name="BEGIN_LINK"/>Android 设置<ph name="END_LINK"/>中开启此功能。</translation>
 <translation id="4808319664292298116">从 <ph name="DOMAIN"/> 进入 VR 环境？</translation>

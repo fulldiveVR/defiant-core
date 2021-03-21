@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">সন্ধানৰ কোনো ফলাফল পোৱা নগ'ল</translation>
 <translation id="8967866634928501045">দেখুৱাবলৈ Alt Shift A টিপক</translation>
 <translation id="998747458861718449">প&amp;ৰীক্ষা কৰক</translation>
-<translation id="4428301600092811022">Gab AI Incৰ পৰা প্ৰতিচ্ছবিৰ বিৱৰণ পালেনে?</translation>
+<translation id="4428301600092811022">Fulldiveৰ পৰা প্ৰতিচ্ছবিৰ বিৱৰণ পালেনে?</translation>
 <translation id="741204030948306876">হয়, মই সন্মত</translation>
 <translation id="780301667611848630">নালাগে, ধন্যবাদ</translation>
 <translation id="3943582379552582368">&amp;উভতি যাওক</translation>
@@ -97,14 +97,14 @@
 <translation id="5233736638227740678">&amp;পেষ্ট কৰক</translation>
 <translation id="2218515861914035131">নিকা পাঠ হিচাপে পে’ষ্ট কৰক</translation>
 <translation id="1017280919048282932">অভিধানত &amp;যোগ কৰক</translation>
-<translation id="1732768497619250086">Gab AI Incৰ পৰা প্ৰতিচ্ছবিৰ বিৱৰণ পাওক</translation>
+<translation id="1732768497619250086">Fulldiveৰ পৰা প্ৰতিচ্ছবিৰ বিৱৰণ পাওক</translation>
 <translation id="2241634353105152135">মাত্ৰ এবাৰ</translation>
 <translation id="3387614642886316601">উন্নত বানান পৰীক্ষক ব্যৱহাৰ কৰক</translation>
 <translation id="6992554835374084304">উন্নত বানান পৰীক্ষক অন কৰক</translation>
 <translation id="5860491529813859533">অন কৰক</translation>
 <translation id="7658239707568436148">বাতিল কৰক</translation>
 <translation id="8915370057835397490">পৰামর্শ ল'ড কৰি থকা হৈছে</translation>
-<translation id="6191804255817539692">Gab AI Incৰ পৰা আৰু কোনো প্ৰস্তাৱ নাই</translation>
+<translation id="6191804255817539692">Fulldiveৰ পৰা আৰু কোনো প্ৰস্তাৱ নাই</translation>
 <translation id="1901303067676059328">&amp;সকলো বাছনি কৰক</translation>
 <translation id="3797900183766075808">“<ph name="SEARCH_TERMS"/>”ৰ বাবে <ph name="SEARCH_ENGINE"/>ত &amp;সন্ধান কৰক</translation>
 <translation id="2721037002783622288">আৰু <ph name="SEARCH_ENGINE"/>ত প্ৰতিচ্ছবিৰ সন্ধান কৰক</translation>
@@ -152,7 +152,7 @@
 <translation id="9033857511263905942">&amp;পেষ্ট কৰক</translation>
 <translation id="1815083418640426271">নিকা পাঠ হিচাপে পে’ষ্ট কৰক</translation>
 <translation id="4022426551683927403">&amp;অভিধানত যোগ কৰক</translation>
-<translation id="6849870115130610913">Gab AI Incৰ পৰা প্ৰতিচ্ছবিৰ বিৱৰণ পাওক</translation>
+<translation id="6849870115130610913">Fulldiveৰ পৰা প্ৰতিচ্ছবিৰ বিৱৰণ পাওক</translation>
 <translation id="372722114124766626">মাত্ৰ এবাৰ</translation>
 <translation id="4079140982534148664">উন্নত বানান পৰীক্ষক ব্যৱহাৰ কৰক</translation>
 <translation id="7487141338393529395">উন্নত বানান পৰীক্ষক অন কৰক</translation>
@@ -345,7 +345,7 @@
 <translation id="8855501062415172277"><ph name="FILE_NAME"/>ত সংবেদনশীল সমল আছে।</translation>
 <translation id="1061745542578250838"><ph name="FILE_NAME"/>ত সংবেদনশীল সমল আছে আৰু সেয়া অৱৰোধ কৰা হৈছে।</translation>
 <translation id="6651823585377804376">ডাউনল’ডটোত মালৱেৰ আছে।</translation>
-<translation id="6529597483902964581"><ph name="FILE_NAME"/> বিপজ্জনক হ’ব পাৰে। স্কেন কৰিবলৈ Gab AI Incৰ সুৰক্ষা সম্পৰ্কীয় উন্নত সুবিধাটোলৈ পঠিয়াবনে?</translation>
+<translation id="6529597483902964581"><ph name="FILE_NAME"/> বিপজ্জনক হ’ব পাৰে। স্কেন কৰিবলৈ Fulldiveৰ সুৰক্ষা সম্পৰ্কীয় উন্নত সুবিধাটোলৈ পঠিয়াবনে?</translation>
 <translation id="4907161631261076876">এই ফাইলটো সাধাৰণতে ডাউনল’ড কৰা নহয় আৰু ই ক্ষতিকাৰক হ’ব পাৰে।</translation>
 <translation id="6102043788063419338">এই ফাইলটো উন্নত সুৰক্ষাৰ দ্বাৰা সুৰক্ষিত নীতিয়ে অৱৰোধ কৰিছে।</translation>
 <translation id="2773802008104670137">এনে ধৰণৰ ফাইলে আপোনাৰ কম্পিউটাৰৰ ক্ষতি সাধন কৰিব পাৰে।</translation>
@@ -402,7 +402,7 @@
 <translation id="6577284282025554716">ডাউনল’ড বাতিল কৰা হৈছে: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">ডাউনল’ড সম্পূর্ণ হ’ল: <ph name="FILE_NAME"/>।</translation>
 <translation id="4110490973560452005">ডাউনল’ড সম্পূৰ্ণ হ’ল: <ph name="FILE_NAME"/>। ডাউনল’ড বাৰৰ ক্ষেত্ৰলৈ যাবলৈ Shift+F6 টিপক।</translation>
-<translation id="7033965027041115562"><ph name="FILE_NAME"/> বিপজ্জনক হ’ব পাৰে। স্কেন কৰিবলৈ Gab AI Incৰ সুৰক্ষা সম্পৰ্কীয় উন্নত সুবিধাটোলৈ পঠিয়াবনে? ডাউনল’ড বাৰৰ ক্ষেত্ৰলৈ যাবলৈ শ্বিফ্ট+F6 টিপক।</translation>
+<translation id="7033965027041115562"><ph name="FILE_NAME"/> বিপজ্জনক হ’ব পাৰে। স্কেন কৰিবলৈ Fulldiveৰ সুৰক্ষা সম্পৰ্কীয় উন্নত সুবিধাটোলৈ পঠিয়াবনে? ডাউনল’ড বাৰৰ ক্ষেত্ৰলৈ যাবলৈ শ্বিফ্ট+F6 টিপক।</translation>
 <translation id="2743387203779672305">ক্লিপব'ৰ্ডত প্ৰতিলিপি কৰক</translation>
 <translation id="883911313571074303">এন'টেট প্ৰতিচ্ছবি</translation>
 <translation id="6291953229176937411">&amp;Finderত দেখুৱাওক</translation>
@@ -446,7 +446,7 @@
 <translation id="9148058034647219655">বাহিৰ হওক</translation>
 <translation id="7376221878517288144">যিয়েই কি নহ’লেও ইনক’গনিট’ ম’ডৰ বন্ধ কৰিবনে?</translation>
 <translation id="973473557718930265">বাহিৰ হওক</translation>
-<translation id="7707599169365957976">আপুনি Gab AI Incলৈ ছিষ্টেমৰ কিছু তথ্য আৰু পৃষ্ঠাৰ সমল পঠিয়াই সুৰক্ষিত ব্ৰাউজিং উন্নত কৰাত সহায় কৰিব পাৰে।</translation>
+<translation id="7707599169365957976">আপুনি Fulldiveলৈ ছিষ্টেমৰ কিছু তথ্য আৰু পৃষ্ঠাৰ সমল পঠিয়াই সুৰক্ষিত ব্ৰাউজিং উন্নত কৰাত সহায় কৰিব পাৰে।</translation>
 <translation id="4923279099980110923">হয়, মই সহায় কৰিব বিচাৰোঁ</translation>
 <translation id="2316129865977710310">নালাগে, ধন্যবাদ</translation>
 <translation id="9169931577761441333"><ph name="APP_NAME"/>ক গৃহ স্ক্ৰীণত যোগ কৰক</translation>
@@ -829,7 +829,7 @@
 <translation id="1545775234664667895">ইনষ্টল কৰা থীম "<ph name="THEME_NAME"/>"</translation>
 <translation id="2256115617011615191">এতিয়াই ৰিষ্টার্ট কৰক</translation>
 <translation id="4545028762441890696">এইটো পুনৰ সক্ষম কৰিবলৈ নতুন অনুমতিবোৰ গ্ৰহণ কৰক:</translation>
-<translation id="3009487527589249344">Gab AI Incএ "<ph name="EXTENSION_NAME"/>"ক ক্ষতিকাৰক হিচাপে চিহ্নিত কৰিছে আৰু ইনষ্টলেশ্বন প্ৰক্ৰিয়াক বাধা প্ৰদান কৰিছে</translation>
+<translation id="3009487527589249344">Fulldiveএ "<ph name="EXTENSION_NAME"/>"ক ক্ষতিকাৰক হিচাপে চিহ্নিত কৰিছে আৰু ইনষ্টলেশ্বন প্ৰক্ৰিয়াক বাধা প্ৰদান কৰিছে</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/> দূৰৰ পৰা যোগ কৰা হৈছে</translation>
 <translation id="1841705068325380214"><ph name="EXTENSION_NAME"/> অক্ষম কৰা আছে</translation>
 <translation id="595959584676692139">এই এক্সটেনশ্বনটো ব্যৱহাৰ কৰিবলৈ পৃষ্ঠাটো পুনৰ ল'ড কৰক</translation>
@@ -969,7 +969,7 @@
 <translation id="3584169441612580296">আপোনাৰ কম্পিউটাৰৰ ফট’, সংগীত আৰু অন্য মিডিয়া পঢ়ক তথা সলনি কৰক</translation>
 <translation id="5457459357461771897">আপোনাৰ কম্পিউটাৰৰ পৰা ফট’, সংগীত আৰু অন্য মিডিয়া পঢ়ক আৰু মচক</translation>
 <translation id="3270965368676314374">আপোনাৰ কম্পিউটাৰৰ পৰা ফট’, সংগীত আৰু অন্য মিডিয়া পঢ়ক, সলনি কৰক আৰু মচক</translation>
-<translation id="1285484354230578868">আপোনাৰ Gab AI Inc Drive একাউণ্টত ডেটা ষ্ট’ৰ কৰক</translation>
+<translation id="1285484354230578868">আপোনাৰ Fulldive Drive একাউণ্টত ডেটা ষ্ট’ৰ কৰক</translation>
 <translation id="378312418865624974">এই কম্পিউটাৰটোৰ অদ্বিতীয় পৰিচায়কটো পঢ়িব পাৰে</translation>
 <translation id="5094721898978802975">সহযোগ কৰা স্থানীয় এপ্লিকেশ্বনৰ সৈতে যোগাযোগ কৰক</translation>
 <translation id="4876895919560854374">স্ক্ৰীণ লক আৰু আনলক কৰে</translation>
@@ -1179,7 +1179,7 @@
 <translation id="8756969031206844760">পাছৱৰ্ড আপডে’ট কৰিবনে?</translation>
 <translation id="8230134520748321204"><ph name="ORIGIN"/>ৰ বাবে পাছৱর্ড ছেভ কৰিবনে?</translation>
 <translation id="9040661932550800571"><ph name="ORIGIN"/>ৰ পাছৱৰ্ড আপডে’ট কৰিবনে?</translation>
-<translation id="8284000761603848448">আপুনি সকলো ডিভাইচতে ব্যৱহাৰ কৰিব পৰাকৈ নিজৰ Gab AI Inc একাউণ্টত পাছৱর্ডসমূহ ছেভ কৰা হয়</translation>
+<translation id="8284000761603848448">আপুনি সকলো ডিভাইচতে ব্যৱহাৰ কৰিব পৰাকৈ নিজৰ Fulldive একাউণ্টত পাছৱর্ডসমূহ ছেভ কৰা হয়</translation>
 <translation id="8286036467436129157">ছাইন ইন কৰক</translation>
 <translation id="8009225694047762179">পাছৱৰ্ড পৰিচালনা কৰক</translation>
 <translation id="3950820424414687140">ছাইন ইন কৰক</translation>
@@ -1187,10 +1187,10 @@
 <translation id="328571385944182268">আপোনাৰ পাছৱৰ্ডসমূহ ছেভ কৰিবনে?</translation>
 <translation id="3753033997400164841">এবাৰ ষ্ট’ৰ কৰক। সকলোতে ব্যৱহাৰ কৰক</translation>
 <translation id="1703331064825191675">আপোনাৰ পাছৱৰ্ডসমূহক লৈ কেতিয়াও চিন্তিত নহ’ব</translation>
-<translation id="2341030170677284705">পাছৱৰ্ডসমূহ আপোনাৰ Gab AI Inc একাউণ্টত সুৰক্ষিতভাৱে ছেভ কৰক আৰু আপুনি সেইবোৰ কেতিয়াও পুনৰ টাইপ কৰিবলগীয়া নহয়</translation>
-<translation id="3913985461352963178">আপুনি আপোনাৰ Gab AI Inc একাউণ্টত ছাইন ইন হৈ থাকিলে নিজৰ পাছৱৰ্ডসমূহ এক্সেছ কৰক</translation>
-<translation id="4851124464356820177">আপোনাৰ Gab AI Inc একাউণ্টটোত পাছৱৰ্ডসমূহ ছেভ কৰিবলৈ ছাইন ইন কৰি ছিংক কৰা সুবিধাটো অন কৰক।</translation>
-<translation id="3229869963989850535">আপোনাৰ Gab AI Inc একাউণ্টটোত পাছৱৰ্ডবোৰ ছেভ কৰিবলৈ ছিংক অন কৰক।</translation>
+<translation id="2341030170677284705">পাছৱৰ্ডসমূহ আপোনাৰ Fulldive একাউণ্টত সুৰক্ষিতভাৱে ছেভ কৰক আৰু আপুনি সেইবোৰ কেতিয়াও পুনৰ টাইপ কৰিবলগীয়া নহয়</translation>
+<translation id="3913985461352963178">আপুনি আপোনাৰ Fulldive একাউণ্টত ছাইন ইন হৈ থাকিলে নিজৰ পাছৱৰ্ডসমূহ এক্সেছ কৰক</translation>
+<translation id="4851124464356820177">আপোনাৰ Fulldive একাউণ্টটোত পাছৱৰ্ডসমূহ ছেভ কৰিবলৈ ছাইন ইন কৰি ছিংক কৰা সুবিধাটো অন কৰক।</translation>
+<translation id="3229869963989850535">আপোনাৰ Fulldive একাউণ্টটোত পাছৱৰ্ডবোৰ ছেভ কৰিবলৈ ছিংক অন কৰক।</translation>
 <translation id="1056466516655540509"><ph name="MINUTES"/> মিনিট পূৰ্বে আপডে’ট কৰা হৈছে</translation>
 <translation id="8743864605301774756">১ ঘণ্টা আগত আপডে’ট কৰা হ’ল</translation>
 <translation id="7363117941401515667"><ph name="HOURS"/> ঘণ্টাৰ পূর্বে আপডে’ট কৰা হৈছে</translation>
@@ -1294,9 +1294,9 @@
 <translation id="1246905108078336582">ক্লিপব’ৰ্ডৰ পৰা পৰামৰ্শ আঁতৰাবনে?</translation>
 <translation id="825238165904109940">সদায় সম্পূর্ণ URLসমূহ দেখুৱাওক</translation>
 <translation id="3416468988018290825">সদায় সম্পূর্ণ URLসমূহ দেখুৱাওক</translation>
-<translation id="2129873093718581193">Gab AI Incত সন্ধান কৰক বা URL টাইপ কৰক</translation>
-<translation id="6363797201514053536">Gab AI Incত সন্ধান কৰক বা এটা URL টাইপ কৰক</translation>
-<translation id="4888839742663123585">Gab AI Incত সন্ধান কৰক</translation>
+<translation id="2129873093718581193">Fulldiveত সন্ধান কৰক বা URL টাইপ কৰক</translation>
+<translation id="6363797201514053536">Fulldiveত সন্ধান কৰক বা এটা URL টাইপ কৰক</translation>
+<translation id="4888839742663123585">Fulldiveত সন্ধান কৰক</translation>
 <translation id="6078323886959318429">শ্বর্টকাট যোগ কৰক</translation>
 <translation id="6324916366299863871">শ্বৰ্টকাট সম্পাদনা কৰক</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1479,35 +1479,35 @@
 <translation id="6798578729981748444">আমদানি সম্পূর্ণ কৰিবলৈ Firefoxৰ সকলো ৱিণ্ড’ বন্ধ কৰক।</translation>
 <translation id="6374469231428023295">আকৌ চেষ্টা কৰক</translation>
 <translation id="8725066075913043281">আকৌ চেষ্টা কৰক</translation>
-<translation id="4196805003686694274">Gab AI Incলৈ মতামত পঠিয়াওক</translation>
+<translation id="4196805003686694274">Fulldiveলৈ মতামত পঠিয়াওক</translation>
 <translation id="3424969259347320884">টেবটো ক্ৰেশ্ব হওঁতে আপুনি কি কৰি আছিল সেয়া বৰ্ণনা কৰক</translation>
-<translation id="1892630320532151038">Gab AI Incলৈ মতামত পঠিয়াওক</translation>
+<translation id="1892630320532151038">Fulldiveলৈ মতামত পঠিয়াওক</translation>
 <translation id="2428510569851653187">টেবটো ক্রেশ্ব হোৱাৰ সময়ত আপুনি কি কৰি আছিল সেয়া বর্ণনা কৰক</translation>
 <translation id="5659593005791499971">ইমেইল</translation>
 <translation id="2982970937345031">নামবিহীনভাৱে অভিযোগ কৰক</translation>
 <translation id="6076448957780543068">এই স্ক্ৰীণশ্বটটো অন্তর্ভুক্ত কৰক</translation>
 <translation id="2865919525181940183">স্ক্রীনখনত বৰ্তমান থকা প্ৰ’গ্ৰামসমূহৰ স্ক্ৰীনশ্বট</translation>
 <translation id="7052237160939977163">কাৰ্যদক্ষতাৰ ট্রে'চ ডেটা পঠিয়াওক</translation>
-<translation id="5526928694260255286"><ph name="BEGIN_LINK"/>ব্লুটুথ লগ<ph name="END_LINK"/> (Gab AI Inc অভ্যন্তৰীণ) সংলগ্ন কৰক</translation>
+<translation id="5526928694260255286"><ph name="BEGIN_LINK"/>ব্লুটুথ লগ<ph name="END_LINK"/> (Fulldive অভ্যন্তৰীণ) সংলগ্ন কৰক</translation>
 <translation id="3047644958362961983">এই তথ্যখিনিয়ে আমাক আপোনাৰ Assistantৰ সমস্যা ভালকৈ বুজি পোৱাত সহায় কৰে। ইয়াক ৯০ দিন পৰ্যন্ত ষ্ট’ৰ কৰি ৰখা হয় আৰু ইয়াৰ এক্সেছ সঠিক অভিযান্ত্রিক আৰু মতামতৰ সৈতে জড়িত দলতে সীমিত।</translation>
-<translation id="8545590844135745781">ব্লুটুথৰ সমস্যাসমূহ ভালকৈ ধৰা পেলাবলৈ Gab AI Incrসকলে অতিৰিক্ত ব্লুটুথ লগ তেওঁলোকৰ মতামতৰ সৈতে অন্তৰ্ভুক্ত কৰিব পাৰে। যেতিয়া এই বিকল্পটো চ্চেক কৰি ৰখা হয় তেতিয়া আপোনাৰ ৰিপ‘ৰ্টত বৰ্তমানৰ ছেশ্বনৰ পৰা btsnoop আৰু HCI লগ অন্তৰ্ভুক্ত কৰা হ‘ব, যিবিলাক যিমান সম্ভৱ সিমান PII আঁতৰাবলৈ ছেনিটাইজ কৰা হয়। এই লগবিলাকলৈ এক্সেছ Listnrত Fulldive OS প্ৰ‘ডাক্ট গোটৰ পৰিচালকসকলৰ মাজতে সীমাবদ্ধ থাকিব। লগবিলাক ৯০ দিনৰ পিছত পৰিষ্কাৰ কৰা হ‘ব।</translation>
+<translation id="8545590844135745781">ব্লুটুথৰ সমস্যাসমূহ ভালকৈ ধৰা পেলাবলৈ Fulldiverসকলে অতিৰিক্ত ব্লুটুথ লগ তেওঁলোকৰ মতামতৰ সৈতে অন্তৰ্ভুক্ত কৰিব পাৰে। যেতিয়া এই বিকল্পটো চ্চেক কৰি ৰখা হয় তেতিয়া আপোনাৰ ৰিপ‘ৰ্টত বৰ্তমানৰ ছেশ্বনৰ পৰা btsnoop আৰু HCI লগ অন্তৰ্ভুক্ত কৰা হ‘ব, যিবিলাক যিমান সম্ভৱ সিমান PII আঁতৰাবলৈ ছেনিটাইজ কৰা হয়। এই লগবিলাকলৈ এক্সেছ Listnrত Fulldive OS প্ৰ‘ডাক্ট গোটৰ পৰিচালকসকলৰ মাজতে সীমাবদ্ধ থাকিব। লগবিলাক ৯০ দিনৰ পিছত পৰিষ্কাৰ কৰা হ‘ব।</translation>
 <translation id="4206323443866416204">মতামতৰ ৰিপ’র্ট</translation>
 <translation id="3681311097828166361">আপোনাৰ মতামতৰ বাবে ধন্যবাদ। আপুনি এতিয়া অফলাইন আছে, আপোনাৰ ৰিপ’ৰ্টৰ পাছত পঠিওৱা হ’ব।</translation>
 <translation id="8713570323158206935"><ph name="BEGIN_LINK1"/>ছিষ্টেমৰ তথ্য<ph name="END_LINK1"/> পঠিয়াওক</translation>
 <translation id="6395423953133416962"><ph name="BEGIN_LINK1"/>ছিষ্টেমৰ তথ্য<ph name="END_LINK1"/> আৰু <ph name="BEGIN_LINK2"/>মেট্ৰিক্স<ph name="END_LINK2"/> পঠিয়াওক</translation>
 <translation id="6270770586500173387"><ph name="BEGIN_LINK1"/>ছিষ্টেম আৰু এপৰ তথ্য<ph name="END_LINK1"/> আৰু <ph name="BEGIN_LINK2"/>মেট্ৰিক্স<ph name="END_LINK2"/> পঠিয়াওক</translation>
 <translation id="3894123633473837029">Sherlogৰ জৰিয়তে শেহতীয়া Assistant ইতিহাস অন্তৰ্ভুক্ত কৰক। ইয়াত আপোনাৰ পৰিচয়, অৱস্থান আৰু ডিবাগ তথ্য অন্তৰ্ভুক্ত কৰা হ’ব পাৰে। <ph name="BEGIN_LINK"/>অধিক জানক<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">ডিবাগ কৰাৰ বাবে Gab AI Inc লৈ ফাইল পঠিওৱা হ’ব</translation>
+<translation id="8329196515830093443">ডিবাগ কৰাৰ বাবে Fulldive লৈ ফাইল পঠিওৱা হ’ব</translation>
 <translation id="8227119283605456246">ফাইল সংলগ্ন কৰক</translation>
 <translation id="5367091008316207019">ফাইলটো পঢ়ি থকা হৈছে..</translation>
 <translation id="2554553592469060349">বাছনি কৰা ফাইলটোৰ আকাৰ অত্যন্ত ডাঙৰ (সর্বাধিক আকাৰ: ৩এম.বি.)</translation>
 <translation id="4690091457710545971">&lt;Intel ৱাই ফাই ফাৰ্মৱেৰে চাৰিটা ফাইল সৃষ্টি কৰিছে: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon.  প্ৰথম তিনিটা হৈছে ৰেজিষ্টাৰ ডাম্প থকা বাইনেৰী ফাইল আৰু Intelএ নিশ্চিত কৰে যাতে এইবোৰত কোনো ব্যক্তিগত বা ডিভাইচ চিনাক্ত কৰিব পৰা তথ্য নাথাকে।  অন্তিমটো ফাইল Intel ফাৰ্মৱেৰৰ এক পৰিচালনাৰ ট্ৰেচ ইয়াৰ পৰা সকলো ব্যক্তিগত বা ডিভাইচ চিনাক্ত কৰিব পৰা তথ্য আঁতৰোৱা হৈছে কিন্তু ইয়াত দেখুৱাবলৈ ইয়াৰ আকাৰ অতি ডাঙৰ।  এই ফাইলবোৰ আপোনাৰ ডিভাইচৰ শেহতীয়া ৱাই ফাইৰ সম্পৰ্কীয় সমস্যাৰ বিষয়ে সৃষ্টি কৰা হৈছিল আৰু সেই সমস্যাৰ সমাধানাৰ বাবে এই ফাইলবোৰ Intelৰ সৈতে শ্বেয়াৰ কৰা হ’ব।&gt;</translation>
-<translation id="6972420083546794501">আইনী কাৰণৰ বাবে সমলৰ পৰিৱৰ্তন কৰিবলৈ <ph name="BEGIN_LINK1"/>আইন সম্পৰ্কীয় সহায়ক পৃষ্ঠা<ph name="END_LINK1"/>লৈ যাওক।  কিছু একাউণ্ট আৰু ছিষ্টেম তথ্য Gab AI Incলৈ পঠিওৱা হ’ব পাৰে।  আপুনি আমাক জনোৱা তথ্যখিনি আমি কাৰিকৰী সমস্যাসমূহ সমাধান কৰিবলৈ আৰু আমাৰ সেৱা উন্নত কৰিবলৈ <ph name="BEGIN_LINK2"/>গোপনীয়তা নীতি<ph name="END_LINK2"/> আৰু <ph name="BEGIN_LINK3"/>সেৱাৰ চৰ্তাৱলী<ph name="END_LINK3"/> অনুযায়ী ব্যৱহাৰ কৰিম।</translation>
+<translation id="6972420083546794501">আইনী কাৰণৰ বাবে সমলৰ পৰিৱৰ্তন কৰিবলৈ <ph name="BEGIN_LINK1"/>আইন সম্পৰ্কীয় সহায়ক পৃষ্ঠা<ph name="END_LINK1"/>লৈ যাওক।  কিছু একাউণ্ট আৰু ছিষ্টেম তথ্য Fulldiveলৈ পঠিওৱা হ’ব পাৰে।  আপুনি আমাক জনোৱা তথ্যখিনি আমি কাৰিকৰী সমস্যাসমূহ সমাধান কৰিবলৈ আৰু আমাৰ সেৱা উন্নত কৰিবলৈ <ph name="BEGIN_LINK2"/>গোপনীয়তা নীতি<ph name="END_LINK2"/> আৰু <ph name="BEGIN_LINK3"/>সেৱাৰ চৰ্তাৱলী<ph name="END_LINK3"/> অনুযায়ী ব্যৱহাৰ কৰিম।</translation>
 <translation id="7915471803647590281">অনুগ্ৰহ কৰি প্ৰতিক্ৰিয়া পঠিওৱাৰ আগতে কি সংঘটিত হৈছে সেয়া আমাক জনাওক৷</translation>
 <translation id="6885771755599377173">ছিষ্টেমৰ তথ্যৰ পূর্বদর্শন</translation>
 <translation id="1016566241875885511">অতিৰিক্ত তথ্য (ঐচ্ছিক)</translation>
 <translation id="8026334261755873520">ব্ৰাউজিং ডেটা মচক</translation>
-<translation id="4718442817388594217">বাছনি কৰা ডেটাখিনি Fulldive আৰু ছিংক কৰি থোৱা ডিভাইচসমূহৰ পৰা আঁতৰোৱা হৈছে। আপোনাৰ Gab AI Inc একাউণ্টৰ <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>ত Gab AI Incৰ অন্য সেৱাত কৰা সন্ধান আৰু অন্যান্য কাৰ্যকলাপৰ দৰে ব্ৰাউজিঙৰ ইতিহাস থাকিব পাৰে।</translation>
+<translation id="4718442817388594217">বাছনি কৰা ডেটাখিনি Fulldive আৰু ছিংক কৰি থোৱা ডিভাইচসমূহৰ পৰা আঁতৰোৱা হৈছে। আপোনাৰ Fulldive একাউণ্টৰ <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>ত Fulldiveৰ অন্য সেৱাত কৰা সন্ধান আৰু অন্যান্য কাৰ্যকলাপৰ দৰে ব্ৰাউজিঙৰ ইতিহাস থাকিব পাৰে।</translation>
 <translation id="7814200940910057384">মচা Fulldive ডেটা</translation>
 <translation id="7346909386216857016">ঠিক আছে, বুজি পালোঁ</translation>
 <translation id="8493236660459102203">মাইক্ৰ'ফ'ন:</translation>
@@ -1530,7 +1530,7 @@
 <translation id="284805635805850872">ক্ষতিকাৰক ছফ্টৱেৰ আঁতৰাবনে?</translation>
 <translation id="489985760463306091">ক্ষতিকাৰক ছফ্টৱেৰ আঁতৰাবলৈ আপোনাৰ কম্পিউটাৰটো ৰিষ্টাৰ্ট কৰক।</translation>
 <translation id="7598466960084663009">কম্পিউটাৰ ৰিষ্টার্ট কৰক</translation>
-<translation id="2819091349626575960">Gab AI Incলৈ সবিশেষৰ ৰিপর্ট পঠিয়াওক</translation>
+<translation id="2819091349626575960">Fulldiveলৈ সবিশেষৰ ৰিপর্ট পঠিয়াওক</translation>
 <translation id="4099060993766194518">সন্ধানৰ ডিফ’ল্ট ইঞ্জিন পুনঃস্থাপন কৰিবনে?</translation>
 <translation id="138784436342154190">আৰম্ভণিতে খোল খোৱা ডিফ’ল্ট পৃষ্ঠাটো পুনঃস্থাপন কৰিবনে?</translation>
 <translation id="5086874064903147617">ডিফ’ল্ট গৃহপৃষ্ঠাটো পুনঃস্থাপন কৰিবনে?</translation>
@@ -1639,10 +1639,10 @@
 <translation id="3693415264595406141">পাছৱৰ্ড:</translation>
 <translation id="9111102763498581341">আনলক</translation>
 <translation id="2190355936436201913">(খালী)</translation>
-<translation id="9079153198295609735">স্বয়ংক্ৰিয়ভাৱে Gab AI Incলৈ ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্ব ৰিপ’ৰ্ট পঠিয়াওক</translation>
+<translation id="9079153198295609735">স্বয়ংক্ৰিয়ভাৱে Fulldiveলৈ ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্ব ৰিপ’ৰ্ট পঠিয়াওক</translation>
 <translation id="7136984461011502314"><ph name="PRODUCT_NAME"/> লৈ স্বাগতম</translation>
 <translation id="1867780286110144690">আপোনাৰ ইনষ্টলেশ্বন সম্পূৰ্ণ কৰিবলৈ <ph name="PRODUCT_NAME"/> সাজু আছে</translation>
-<translation id="4711067597921221305">Gab AI Incলৈ ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্বৰ অভিযোগ স্বয়ংক্ৰিয়ভাৱে পঠিয়াই <ph name="PRODUCT_NAME"/>ক অধিক উন্নত কৰাত সহায় কৰক</translation>
+<translation id="4711067597921221305">Fulldiveলৈ ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্বৰ অভিযোগ স্বয়ংক্ৰিয়ভাৱে পঠিয়াই <ph name="PRODUCT_NAME"/>ক অধিক উন্নত কৰাত সহায় কৰক</translation>
 <translation id="5972826969634861500"><ph name="PRODUCT_NAME"/> আৰম্ভ কৰক</translation>
 <translation id="4876273079589074638">আমাৰ অভিযন্তাই এই ক্ৰেশ্ব অনুসন্ধান আৰু সমাধান কৰাত সহায় কৰক। যদি আপুনি পাৰে সঠিক পদক্ষেপৰ সূচী প্ৰস্তুত কৰক। কোনো বিৱৰণ চুটি নহয়!</translation>
 <translation id="5418694430960033386">হয়তো Fulldiveত মেম’ৰী শেষ হৈছে বা ৱেবপৃষ্ঠাটোৰ প্ৰক্ৰিয়া আন কিবা কাৰণত বন্ধ হৈছে।  অব্যাহত ৰাখিবলৈ পৃষ্ঠাটো পুনৰ ল’ড কৰক বা অন্য পৃষ্ঠালৈ যাওক।</translation>
@@ -1654,7 +1654,7 @@
 <translation id="6280912520669706465">এআৰচি</translation>
 <translation id="4728558894243024398">প্লেটফ’ৰ্ম</translation>
 <translation id="7022562585984256452">আপোনাৰ গৃহ পৃষ্ঠা ছেট কৰা হৈছে।</translation>
-<translation id="8069615408251337349">Gab AI Inc ক্লাউড প্ৰিণ্ট</translation>
+<translation id="8069615408251337349">Fulldive ক্লাউড প্ৰিণ্ট</translation>
 <translation id="4973307593867026061">প্ৰিণ্টাৰ যোগ কৰক</translation>
 <translation id="9052208328806230490">আপুনি নিজৰ প্ৰিণ্টাৰসমূহ <ph name="EMAIL"/> একাউণ্টটো ব্যৱহাৰ কৰি <ph name="CLOUD_PRINT_NAME"/>ত পঞ্জীয়ন কৰিছে</translation>
 <translation id="3792890930871100565">প্ৰিণ্টাৰৰ সংযোগ বিচ্ছিন্ন কৰক</translation>
@@ -1688,7 +1688,7 @@
 <translation id="7063129466199351735">শ্বৰ্টকাটসমূহৰ ওপৰত কাম কৰি থকা হৈছে...</translation>
 <translation id="8987927404178983737">মাহ</translation>
 <translation id="6015796118275082299">বছৰ</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">ছিষ্টেমৰ শিৰোনামৰ বাৰ আৰু সীমাৰেখা ব্যৱহাৰ কৰক</translation>
 <translation id="3293644607209440645">এই পৃষ্ঠাটো পঠিয়াওক</translation>
 <translation id="1521774566618522728">আজি সক্ৰিয় হৈছে</translation>
@@ -1741,7 +1741,7 @@
 <translation id="8930351635855238750">পৃষ্ঠাটো পুনৰ ল'ড কৰাৰ পিছতহে নতুন কুকিৰ ছেটিংসমূহ কাৰ্যকৰী হব</translation>
 <translation id="2568774940984945469">ইনফ’বাৰ কণ্টেইনাৰ</translation>
 <translation id="7282992757463864530">ইনফ’বাৰ</translation>
-<translation id="1805077115206898822">আপোনাৰ বুকমাৰ্ক, ব্ৰাউজিঙৰ ইতিহাস, পাছৱর্ড আৰু অন্য ছেটিংসমূহ আপোনাৰ Gab AI Inc একাউণ্টত ছিংক কৰা হ’ব।</translation>
+<translation id="1805077115206898822">আপোনাৰ বুকমাৰ্ক, ব্ৰাউজিঙৰ ইতিহাস, পাছৱর্ড আৰু অন্য ছেটিংসমূহ আপোনাৰ Fulldive একাউণ্টত ছিংক কৰা হ’ব।</translation>
 <translation id="1974060860693918893">উন্নত</translation>
 <translation id="2445484935443597917">এটা নতুন প্ৰ’ফাইল সৃষ্টি কৰক</translation>
 <translation id="2606246518223360146">ডেটা লিংক কৰক</translation>
@@ -1828,7 +1828,7 @@
 <translation id="6387674443318562538">উলম্বভাৱে বিভাজন কৰক</translation>
 <translation id="1231733316453485619">ছিংক অন কৰিবনে?</translation>
 <translation id="4736292055110123391">আপোনাৰ সকলো ডিভাইচত নিজৰ বুকমার্ক, পাছৱর্ড, ইতিহাস আৰু অধিক সমল ছিংক কৰক</translation>
-<translation id="5736731321935944068">Gab AI Incএ Search, বিজ্ঞাপন আৰু অন্য Gab AI Inc সেৱা ব্যক্তিকৃত কৰিবলৈ আপোনাৰ ব্ৰাউজিঙৰ ইতিহাস ব্যৱহাৰ কৰিব পাৰে</translation>
+<translation id="5736731321935944068">Fulldiveএ Search, বিজ্ঞাপন আৰু অন্য Fulldive সেৱা ব্যক্তিকৃত কৰিবলৈ আপোনাৰ ব্ৰাউজিঙৰ ইতিহাস ব্যৱহাৰ কৰিব পাৰে</translation>
 <translation id="4201546031411513170">আপুনি কি ছিংক কৰিব লাগে সেয়া ছেটিংসমূহ-লৈ গৈ যেতিয়াই মন যায় তেতিয়াই সলনি কৰিব পাৰে।</translation>
 <translation id="2497852260688568942">আপোনাৰ প্ৰশাসকে ছিংক অক্ষম কৰিছে</translation>
 <translation id="562935524653278697">আপোনাৰ প্ৰশাসকে আপোনাৰ বুকমার্ক, ইতিহাস, পাছৱর্ড আৰু অন্য ছেটিংসমূহ ছিংক কৰা সুবিধাটো অক্ষম কৰিছে।</translation>
@@ -1907,10 +1907,10 @@
 <translation id="6198102561359457428">ছাইন আউট কৰি পুনৰ ছাইন ইন কৰক…</translation>
 <translation id="4634771451598206121">আকৌ ছাইন ইন কৰক…</translation>
 <translation id="7117247127439884114">আকৌ ছাইন ইন কৰক...</translation>
-<translation id="4251909665067750757">আপোনাৰ সকলো ডিভাইচত বুকমাৰ্ক, ইতিহাস, পাছৱৰ্ড আৰু অন্য ছেটিংসমূহ পাবৰ বাবে ছাইন ইন কৰক। আপোনাকো স্বয়ংক্ৰিয়ভাৱে আপোনাৰ Gab AI Inc সেৱাসমূহলৈ ছাইন ইন কৰোঁৱা হ’ব।</translation>
+<translation id="4251909665067750757">আপোনাৰ সকলো ডিভাইচত বুকমাৰ্ক, ইতিহাস, পাছৱৰ্ড আৰু অন্য ছেটিংসমূহ পাবৰ বাবে ছাইন ইন কৰক। আপোনাকো স্বয়ংক্ৰিয়ভাৱে আপোনাৰ Fulldive সেৱাসমূহলৈ ছাইন ইন কৰোঁৱা হ’ব।</translation>
 <translation id="2749756011735116528"><ph name="PRODUCT_NAME"/>ত ছাইন ইন কৰক</translation>
 <translation id="2126167708562367080">আপোনাৰ প্ৰশাসকে ছিংক অক্ষম কৰিছে।</translation>
-<translation id="5462539695964427820">Gab AI Inc Dashboardৰ জৰিয়তে ছিংক বন্ধ কৰা হৈছে।</translation>
+<translation id="5462539695964427820">Fulldive Dashboardৰ জৰিয়তে ছিংক বন্ধ কৰা হৈছে।</translation>
 <translation id="8805140816472474147">ছিংক আৰম্ভ কৰিবলৈ ছিংক ছেটিংসমূহ নিশ্চিত কৰক।</translation>
 <translation id="5771816112378578655">ছেট আপ কৰা প্ৰক্ৰিয়া চলি আছে...</translation>
 <translation id="3492788708641132712">ছিংক কৰা সুবিধাটোৱে কাম কৰা নাই। পুনৰ ছাইন ইন কৰি চেষ্টা কৰক।</translation>
@@ -1924,16 +1924,16 @@
 <translation id="1877520246462554164">বিশ্বাসযোগ্যতা প্ৰমাণীকৰণৰ টকেন পাব পৰা নগ’ল। আকৌ চেষ্টা কৰিবলৈ এবাৰ ছাইন আউট কৰি পুনৰ ছাইন ইন কৰক।</translation>
 <translation id="9100765901046053179">উন্নত ছেটিংসমূহ</translation>
 <translation id="2731700343119398978">অনুগ্রহ কৰি অপেক্ষা কৰক...</translation>
-<translation id="7218743184834293955">আপোনাৰ ছিংক পাছফ্ৰেজৰ জৰিয়তে ডেটা এনক্ৰিপ্ট কৰা হৈছে। ইয়াত Gab AI Inc Payৰ পৰিশোধ পদ্ধতি আৰু ঠিকনাসমূহ অন্তর্ভুক্ত নহয়।</translation>
+<translation id="7218743184834293955">আপোনাৰ ছিংক পাছফ্ৰেজৰ জৰিয়তে ডেটা এনক্ৰিপ্ট কৰা হৈছে। ইয়াত Fulldive Payৰ পৰিশোধ পদ্ধতি আৰু ঠিকনাসমূহ অন্তর্ভুক্ত নহয়।</translation>
 <translation id="7158251077901880179">আপোনাৰ ছিংক পাছফ্ৰেজৰ সৈতে
-          <ph name="TIME"/>ত ডেটা এনক্ৰিপ্ট কৰা হৈছে। ইয়াত Gab AI Inc Payৰ পৰিশোধ পদ্ধতি আৰু ঠিকনাবোৰ অন্তৰ্ভুক্ত নহয়।</translation>
-<translation id="1171389789873508468">এই ডেটা আপোনাৰ Gab AI Inc পাছৱৰ্ডৰ সৈতে 
-          <ph name="TIME"/>লৈকে এনক্ৰিপ্ট কৰা আছিল। ইয়াত Gab AI Inc Payৰ পৰিশোধ পদ্ধতি আৰু ঠিকনাবোৰ অন্তৰ্ভুক্ত নহয়।</translation>
+          <ph name="TIME"/>ত ডেটা এনক্ৰিপ্ট কৰা হৈছে। ইয়াত Fulldive Payৰ পৰিশোধ পদ্ধতি আৰু ঠিকনাবোৰ অন্তৰ্ভুক্ত নহয়।</translation>
+<translation id="1171389789873508468">এই ডেটা আপোনাৰ Fulldive পাছৱৰ্ডৰ সৈতে 
+          <ph name="TIME"/>লৈকে এনক্ৰিপ্ট কৰা আছিল। ইয়াত Fulldive Payৰ পৰিশোধ পদ্ধতি আৰু ঠিকনাবোৰ অন্তৰ্ভুক্ত নহয়।</translation>
 <translation id="2562743677925229011"><ph name="SHORT_PRODUCT_NAME"/>ত ছাইন ইন কৰি থোৱা নাই</translation>
 <translation id="4027804175521224372">(আপুনি বহুতো সুবিধাৰ পৰা বঞ্চিৎ হৈ আছে—<ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">ছাইন ইন কৰক</translation>
 <translation id="237828693408258535">এই পৃষ্ঠাটো অনুবাদ কৰিবনে?</translation>
-<translation id="4613765529964435709">আপুনি Gab AI Incএ এই পৃষ্ঠাটো <ph name="SOURCE_LANGUAGE"/>ৰ পৰা <ph name="TARGET_LANGUAGE"/>লৈ অনুবাদ কৰাটো বিচাৰেনে?</translation>
+<translation id="4613765529964435709">আপুনি Fulldiveএ এই পৃষ্ঠাটো <ph name="SOURCE_LANGUAGE"/>ৰ পৰা <ph name="TARGET_LANGUAGE"/>লৈ অনুবাদ কৰাটো বিচাৰেনে?</translation>
 <translation id="5990386583461751448">অনুবাদিত</translation>
 <translation id="5659833766619490117">এই পৃষ্ঠাটো অনুবাদ কৰিব পৰা নগ’ল</translation>
 <translation id="969096075394517431">ভাষা সলনি কৰক</translation>
@@ -2110,7 +2110,7 @@
 <translation id="6309510305002439352">মাইক্ৰ'ফ'ন অফ কৰা হ'ল</translation>
 <translation id="1322046419516468189">আপোনাৰ <ph name="SAVED_PASSWORDS_STORE"/>ত ছেভ কৰি থোৱা পাছৱর্ডসমূহ চাওক আৰু পৰিচালনা কৰক</translation>
 <translation id="5297082477358294722">পাছৱৰ্ড ছেভ কৰা হ'ল। আপোনাৰ <ph name="SAVED_PASSWORDS_STORE"/>ত ছেভ হৈ থকা পাছৱৰ্ড চাওক আৰু পৰিচালনা কৰক।</translation>
-<translation id="5713644099811900409">Gab AI Inc একাউণ্ট</translation>
+<translation id="5713644099811900409">Fulldive একাউণ্ট</translation>
 <translation id="3785727820640310185">এই ছাইটটোৰ বাবে ছেভ কৰি থোৱা পাছৱৰ্ড</translation>
 <translation id="3404065873681873169">এই ছাইটটোৰ বাবে কোনো পাছৱৰ্ড ছেভ কৰি থোৱা নাই</translation>
 <translation id="8470513973197838199"><ph name="ORIGIN"/>ৰ বাবে ছেভ কৰি থোৱা পাছৱৰ্ড</translation>
@@ -2223,7 +2223,7 @@
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{স্ক্ৰীণ #}one{স্ক্ৰীণ #}other{স্ক্ৰীণ #}}</translation>
 <translation id="839736845446313156">পঞ্জীয়ন কৰক</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{আপোনাৰ নেটৱর্কত দেখুওৱা নতুন প্ৰিণ্টাৰ}one{আপোনাৰ নেটৱর্কত দেখুওৱা নতুন প্ৰিণ্টাৰসমূহ}other{আপোনাৰ নেটৱর্কত দেখুওৱা নতুন প্ৰিণ্টাৰসমূহ}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{আপুনি যিকোনো ঠাইৰে পৰা প্ৰিণ্ট কৰিবলৈ Gab AI Inc ক্লাউড প্ৰিণ্টত প্ৰিণ্টাৰটো যোগ কৰক।}one{আপুনি যিকোনো ঠাইৰে পৰা প্ৰিণ্ট কৰিবলৈ Gab AI Inc ক্লাউড প্ৰিণ্টত #টা প্ৰিণ্টাৰ যোগ কৰক।}other{আপুনি যিকোনো ঠাইৰে পৰা প্ৰিণ্ট কৰিবলৈ Gab AI Inc ক্লাউড প্ৰিণ্টত #টা প্ৰিণ্টাৰ যোগ কৰক।}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{আপুনি যিকোনো ঠাইৰে পৰা প্ৰিণ্ট কৰিবলৈ Fulldive ক্লাউড প্ৰিণ্টত প্ৰিণ্টাৰটো যোগ কৰক।}one{আপুনি যিকোনো ঠাইৰে পৰা প্ৰিণ্ট কৰিবলৈ Fulldive ক্লাউড প্ৰিণ্টত #টা প্ৰিণ্টাৰ যোগ কৰক।}other{আপুনি যিকোনো ঠাইৰে পৰা প্ৰিণ্ট কৰিবলৈ Fulldive ক্লাউড প্ৰিণ্টত #টা প্ৰিণ্টাৰ যোগ কৰক।}}</translation>
 <translation id="409579654357498729">Cloud Printত যোগ কৰক</translation>
 <translation id="4628757576491864469">ডিভাইচ</translation>
 <translation id="6915804003454593391">ব্যৱহাৰকাৰী:</translation>
@@ -2233,7 +2233,7 @@
 <translation id="1895934970388272448">আপোনাৰ প্ৰক্ৰিয়া সম্পূৰ্ণ কৰিবলৈ আপুনি নিজৰ প্ৰিণ্টাৰত পঞ্জীয়ন কৰাটো নিশ্চিত কৰিব লাগিব - এতিয়াই পৰীক্ষা কৰক।</translation>
 <translation id="551752069230578406">প্ৰিণ্টাৰটো আপোনাৰ একাউণ্টত যোগ কৰি থকা হৈছে - ইয়াৰ বাবে কিছু সময় লাগিব পাৰে...</translation>
 <translation id="2384436799579181135">কোনো আঁসোৱাহ হৈছে। আপোনাৰ প্ৰিণ্টাৰ পৰীক্ষা কৰি পুনৰ চেষ্টা কৰক।</translation>
-<translation id="1327074568633507428">Gab AI Inc ক্লাউড প্ৰিণ্টত প্ৰিণ্টাৰ</translation>
+<translation id="1327074568633507428">Fulldive ক্লাউড প্ৰিণ্টত প্ৰিণ্টাৰ</translation>
 <translation id="6782994146626179935">ক্লাউড ডিভাইচত ডিভাইচ</translation>
 <translation id="7140928199327930795">উপলব্ধ অন্য ডিভাইচ নহয়।</translation>
 <translation id="8213577208796878755">অন্য কোনো উপলব্ধ ডিভাইচ।</translation>
@@ -2250,7 +2250,7 @@
 <translation id="715118844758971915">ক্লাছিক প্ৰিণ্টাৰ</translation>
 <translation id="4263757076580287579">প্ৰিণ্টাৰৰ পঞ্জীয়ন বাতিল কৰা হৈছে।</translation>
 <translation id="8152091997436726702">প্ৰিণ্টাৰ পঞ্জীয়নৰ সময় উকলিল। কোনো প্ৰিণ্টাৰ পঞ্জীয়ন কৰিবলৈ আপুনি প্ৰিণ্টাৰটোত পঞ্জীয়ন নিশ্চিত কৰিব লাগিব।</translation>
-<translation id="2624930408905606513">নথিসমূহ প্ৰিণ্ট কৰিবলৈ সাজু কৰাবলৈ <ph name="BEGIN_LINK_HELP"/>Gab AI Incলৈ পঠিওৱা হৈছে<ph name="END_LINK_HELP"/>। আপোনাৰ প্ৰিণ্টাৰ আৰু প্ৰিণ্টাৰৰ ইতিহাস <ph name="BEGIN_LINK_DASHBOARD"/>Gab AI Inc Cloud Print ডেশ্বব’ৰ্ড<ph name="END_LINK_DASHBOARD"/>ত চাওক, সম্পাদনা তথা পৰিচালনা কৰক।</translation>
+<translation id="2624930408905606513">নথিসমূহ প্ৰিণ্ট কৰিবলৈ সাজু কৰাবলৈ <ph name="BEGIN_LINK_HELP"/>Fulldiveলৈ পঠিওৱা হৈছে<ph name="END_LINK_HELP"/>। আপোনাৰ প্ৰিণ্টাৰ আৰু প্ৰিণ্টাৰৰ ইতিহাস <ph name="BEGIN_LINK_DASHBOARD"/>Fulldive Cloud Print ডেশ্বব’ৰ্ড<ph name="END_LINK_DASHBOARD"/>ত চাওক, সম্পাদনা তথা পৰিচালনা কৰক।</translation>
 <translation id="3082780749197361769">এই টেবে আপোনাৰ কেমেৰা আৰু মাইক্ৰ’ফ’ন ব্যৱহাৰ কৰি আছে।</translation>
 <translation id="3578594933904494462">এই টেবটোৰ সমল শ্বেয়াৰ কৰি থকা হৈছে।</translation>
 <translation id="4449996769074858870">এই টেবটোৱে অডিঅ' প্লে' কৰি আছে।</translation>
@@ -2376,14 +2376,14 @@
 <translation id="7055152154916055070">পুনৰ নির্দেশ কৰাটো অৱৰোধ কৰা হৈছে</translation>
 <translation id="6777817260680419853">পুনৰ নির্দেশ কৰাটো অৱৰোধ কৰা হৈছে</translation>
 <translation id="694592694773692225">এই পৃষ্ঠাটোত ৰিডাইৰেক্টৰ সুবিধা অৱৰোধ কৰা আছে।</translation>
-<translation id="8945142681652245463">Gab AI Inc Fulldive ব্যৱহাৰ কৰি দ্ৰুতভাৱে ব্ৰাউজ কৰক</translation>
-<translation id="2618024864038703735">Gab AI Inc Fulldiveৰ সহায়ত সুৰক্ষিতভাৱে ব্ৰাউজ কৰক</translation>
+<translation id="8945142681652245463">Fulldive Fulldive ব্যৱহাৰ কৰি দ্ৰুতভাৱে ব্ৰাউজ কৰক</translation>
+<translation id="2618024864038703735">Fulldive Fulldiveৰ সহায়ত সুৰক্ষিতভাৱে ব্ৰাউজ কৰক</translation>
 <translation id="8142180567942285208">Fulldiveৰ জৰিয়তে স্মার্ট পদ্ধতিৰে ব্ৰাউজ কৰক</translation>
 <translation id="8862003515646449717">কোনো দ্ৰুত ব্ৰাউজাৰ ব্যৱহাৰ কৰক</translation>
 <translation id="8438328416656800239">কোনো স্মাৰ্ট ব্ৰাউজাৰ ব্যৱহাৰ কৰক</translation>
 <translation id="491691592645955587">কোনো সুৰক্ষিত ব্ৰাউজাৰলৈ সলনি কৰক</translation>
 <translation id="683373380308365518">স্মার্ট আৰু সুৰক্ষিত ব্ৰাউজাৰ ব্যৱহাৰ কৰক</translation>
-<translation id="989239400026154074">Gab AI Incএ Fulldive ব্যৱহাৰৰ চুপাৰিছ কৰে</translation>
+<translation id="989239400026154074">Fulldiveএ Fulldive ব্যৱহাৰৰ চুপাৰিছ কৰে</translation>
 <translation id="6676231621615806698">Fulldive খোলক</translation>
 <translation id="5250372599208556903">আপোনাক <ph name="SEARCH_ENGINE_NAME"/>এ স্থানীয় সমল প্ৰদান কৰিবলৈ আপোনাৰ অৱস্থান ব্যৱহাৰ কৰে। আপুনি <ph name="SETTINGS_LINK"/>ত এয়া সলনি কৰিব পাৰে।</translation>
 <translation id="3737536731758327622">আপুনি কৰা ডাউনল'ডসমূহ ইয়াত প্ৰদর্শিত হ'ব</translation>
@@ -2549,7 +2549,7 @@
 <translation id="2878782256107578644">স্কেন কৰা প্ৰক্ৰিয়া চলি আছে, এতিয়া খুলিবনে?</translation>
 <translation id="6098793583803863900">এটা অজ্ঞাত ফাইল বিপজ্জনক সমলৰ বাবে স্কেন কৰি থকা হৈছে।</translation>
 <translation id="7584578941316704630">খোলাৰ আগতে স্কেন কৰিবনে?</translation>
-<translation id="4467402456678825062">বাছনি কৰা ফাইলটো অজ্ঞাত আৰু ই বিপজ্জনক হ’ব পাৰে। স্কেন কৰিবলৈ Gab AI Incৰ সুৰক্ষা সম্পৰ্কীয় উন্নত সুবিধাটোলৈ পঠিয়াবনে?</translation>
+<translation id="4467402456678825062">বাছনি কৰা ফাইলটো অজ্ঞাত আৰু ই বিপজ্জনক হ’ব পাৰে। স্কেন কৰিবলৈ Fulldiveৰ সুৰক্ষা সম্পৰ্কীয় উন্নত সুবিধাটোলৈ পঠিয়াবনে?</translation>
 <translation id="2587922766792651800">সময় উকলিছে</translation>
 <translation id="4404136731284211429">পুনৰ স্কেন কৰক</translation>
 <translation id="6428450836711225518">আপোনাৰ ফ’ন নম্বৰটো সত্যাপন কৰক</translation>
@@ -2557,7 +2557,7 @@
 <translation id="6518133107902771759">সত্যাপন কৰক</translation>
 <translation id="4379281552162875326">"<ph name="APP_NAME"/>"ক আনইনষ্টল কৰিবনে?</translation>
 <translation id="8812593354822910461">লগতে ব্ৰাউজিঙৰ ডেটাও (<ph name="URL"/>) মচক যিয়ে আপোনাক <ph name="DOMAIN"/>ৰ পৰা ছাইন আউট কৰাব। <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">লগতে ব্ৰাউজিঙৰ ডেটাও (<ph name="URL"/>) মচক যিয়ে আপোনাক Gab AI Inc.comৰ পৰা ছাইন আউট কৰাব পাৰে। <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">লগতে ব্ৰাউজিঙৰ ডেটাও (<ph name="URL"/>) মচক যিয়ে আপোনাক Fulldive.comৰ পৰা ছাইন আউট কৰাব পাৰে। <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">অধিক জানক</translation>
 <translation id="2346953515226895098">SODA সেৱা</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> পজ কৰা হৈছে</translation>
@@ -2713,7 +2713,7 @@
 <translation id="4144218403971135344">উন্নত মানৰ ভিডিঅ’ পাওক আৰু বেটাৰীৰ খৰচ ৰাহি কৰক। আপোনাৰ কাষ্ট কৰিব পৰা সুবিধাটো সক্ষম কৰি থোৱা স্ক্ৰীণতহে ভিডিঅ’ প্লে’ হ’ব।</translation>
 <translation id="236117173274098341">অপ্টিমাইজ কৰক</translation>
 <translation id="8538358978858059843">কাষ্টৰ বাবে ক্লাউড সেৱা সক্ষম কৰিবনে?</translation>
-<translation id="3856595552313160385">Hangouts আৰু শিক্ষাৰ বাবে কাষ্ট কৰা সুবিধাটোৰ ব্যৱহাৰ Gab AI Incৰ গোপনীয়তা নীতিয়ে পৰিচালনা কৰে।</translation>
+<translation id="3856595552313160385">Hangouts আৰু শিক্ষাৰ বাবে কাষ্ট কৰা সুবিধাটোৰ ব্যৱহাৰ Fulldiveৰ গোপনীয়তা নীতিয়ে পৰিচালনা কৰে।</translation>
 <translation id="3435896845095436175">সক্ষম কৰক</translation>
 <translation id="3700888195348409686">উপস্থাপন কৰি আছে (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180"><ph name="DISPLAY_ID"/> প্ৰদৰ্শন কৰক</translation>
@@ -2951,9 +2951,9 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, লগতে আৰু ১টা একাউণ্ট}one{<ph name="EMAIL"/>, লগতে আৰু <ph name="EXTRA_ACCOUNTS"/>টা একাউণ্ট}other{<ph name="EMAIL"/>, লগতে আৰু <ph name="EXTRA_ACCOUNTS"/>টা একাউণ্ট}}</translation>
 <translation id="7434635829372401939">আপোনাৰ ছেটিংসমূহ ছিংক কৰক</translation>
 <translation id="1036348656032585052">অফ কৰক</translation>
-<translation id="3267705913905916810">আপোনাৰ এপ্‌ আৰু ছেটিংসমূহ সেই সকলো Fulldive OS ডিভাইচত ছিংক কৰা হ’ব য’ত আপুনি নিজৰ Gab AI Inc একাউণ্টেৰে ছাইন ইন কৰি থৈছে। ব্ৰাউজাৰ ছিংক কৰাৰ বিকল্পসমূহৰ বাবে <ph name="LINK_BEGIN"/>Fulldiveৰ ছেটিংসমূহ<ph name="LINK_END"/>লৈ যাওক।</translation>
+<translation id="3267705913905916810">আপোনাৰ এপ্‌ আৰু ছেটিংসমূহ সেই সকলো Fulldive OS ডিভাইচত ছিংক কৰা হ’ব য’ত আপুনি নিজৰ Fulldive একাউণ্টেৰে ছাইন ইন কৰি থৈছে। ব্ৰাউজাৰ ছিংক কৰাৰ বিকল্পসমূহৰ বাবে <ph name="LINK_BEGIN"/>Fulldiveৰ ছেটিংসমূহ<ph name="LINK_END"/>লৈ যাওক।</translation>
 <translation id="6985607387932385770">প্ৰিণ্টাৰ</translation>
-<translation id="8418661265246754237">Gab AI Inc একাউণ্টসমূহ</translation>
+<translation id="8418661265246754237">Fulldive একাউণ্টসমূহ</translation>
 <translation id="3953834000574892725">মোৰ একাউণ্টসমূহ</translation>
 <translation id="6011193465932186973">ফিংগাৰপ্ৰিণ্ট</translation>
 <translation id="3707212204259470604">অন্য লোকসকলক পৰিচালনা কৰক</translation>
@@ -2995,16 +2995,16 @@
 <translation id="5916664084637901428">অন আছে</translation>
 <translation id="5860033963881614850">অফ আছে</translation>
 <translation id="5515923816438946203">আপুনি আপোনাৰ স্ক্ৰীনত কি দেখা পায় সেয়া বাছনি কৰক</translation>
-<translation id="2187700606737131818">Gab AI Inc Photos</translation>
+<translation id="2187700606737131818">Fulldive Photos</translation>
 <translation id="1827738518074806965">আর্ট গেলাৰী</translation>
 <translation id="9137157311132182254">অগ্ৰাধিকাৰপ্ৰাপ্ত সন্ধান ইঞ্জিন</translation>
 <translation id="7423118389528876103">Fulldive ব্ৰাউজাৰ আৰু <ph name="DEVICE_TYPE"/> লঞ্চাৰে ব্যৱহাৰ কৰে</translation>
-<translation id="2862205630718215619">Gab AI Inc Assistant</translation>
+<translation id="2862205630718215619">Fulldive Assistant</translation>
 <translation id="8959699239363253085">অন</translation>
 <translation id="971479617738309149">অফ</translation>
 <translation id="7807067443225230855">Search আৰু Assistant</translation>
 <translation id="1293556467332435079">Files</translation>
-<translation id="6474884162850599008">Gab AI Inc Drive একাউণ্ট সংযোগৰ পৰা আঁতৰাওক</translation>
+<translation id="6474884162850599008">Fulldive Drive একাউণ্ট সংযোগৰ পৰা আঁতৰাওক</translation>
 <translation id="3653160965917900914">নেটৱর্ক ফাইল শ্বেয়াৰ</translation>
 <translation id="4906490889887219338">নেটৱৰ্কৰ ফাইল শ্বেয়াৰ কৰা সুবিধাটো ছেট আপ অথবা পৰিচালনা কৰক। <ph name="LINK_BEGIN"/>অধিক জানক<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">ফাইল শ্বেয়াৰ কৰা সুবিধাটো যোগ কৰক</translation>
@@ -3055,7 +3055,7 @@
 <translation id="5511379779384092781">অতিৰিক্তভাৱে সৰু</translation>
 <translation id="2765217105034171413">সৰু</translation>
 <translation id="7409549334477097887">অতিৰিক্তভাৱে ডাঙৰ</translation>
-<translation id="1800308196794859773">সকলো পাঠৰ ক্ষেত্ৰত Gab AI Incএ চিনাক্তকৰণৰ অনুমতি দিবলৈ Gab AI Incলৈ আপোনাৰ কণ্ঠস্বৰ পঠিয়াওক।</translation>
+<translation id="1800308196794859773">সকলো পাঠৰ ক্ষেত্ৰত Fulldiveএ চিনাক্তকৰণৰ অনুমতি দিবলৈ Fulldiveলৈ আপোনাৰ কণ্ঠস্বৰ পঠিয়াওক।</translation>
 <translation id="8758418656925882523">কণ্ঠধ্বনি ব্যৱহাৰ কৰি টাইপ কৰা সেৱাটো সক্ষম কৰক (টাইপ কৰিবলৈ কওক)</translation>
 <translation id="1330145147221172764">অন স্ক্ৰীণ কীব’র্ড সক্ষম কৰক</translation>
 <translation id="7580671184200851182">একেটা অডিঅ’ সকলো স্পীকাৰতে প্লে’ কৰক (ম’ন’ অডিঅ’)</translation>
@@ -3118,7 +3118,7 @@
 <translation id="6902066522699286937">পূৰ্বদৰ্শনৰ বাবে কণ্ঠস্বৰ</translation>
 <translation id="304747341537320566">কথন ইঞ্জিন</translation>
 <translation id="2755367719610958252">সাধ্য সুবিধাসমূহ পৰিচালনা কৰক</translation>
-<translation id="1203953622051744249">আপুনি ছাইন ইন কৰি থোৱা একাউণ্টসমূহ পৰিচালনা কৰক। Fulldive আৰু Gab AI Inc Playৰ ৱেবছাইট, এপ্‌ আৰু এক্সটেনশ্বনসমূহে অনুমতি সাপেক্ষে আপোনাৰ অভিজ্ঞতা কাষ্টমাইজ কৰিবলৈ এই একাউণ্টসমূহ ব্যৱহাৰ কৰিব পাৰে। <ph name="LINK_BEGIN"/>অধিক জানক<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">আপুনি ছাইন ইন কৰি থোৱা একাউণ্টসমূহ পৰিচালনা কৰক। Fulldive আৰু Fulldive Playৰ ৱেবছাইট, এপ্‌ আৰু এক্সটেনশ্বনসমূহে অনুমতি সাপেক্ষে আপোনাৰ অভিজ্ঞতা কাষ্টমাইজ কৰিবলৈ এই একাউণ্টসমূহ ব্যৱহাৰ কৰিব পাৰে। <ph name="LINK_BEGIN"/>অধিক জানক<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">এটা বিদ্যালয়ৰ একাউণ্ট যোগ দিয়ক অথবা শিশুৰ একাউণ্টসমূহ ইয়াত পৰিচালনা কৰক। <ph name="LINK_BEGIN"/>অধিক জানক<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">একাউণ্টসমূহ</translation>
 <translation id="6597148444736186483">এই ডিভাইচটোৰ প্ৰাথমিক একাউণ্টটোৰ পৰা ছাইন আউট কৰিবলৈ আপোনাৰ স্ক্রীণত থকা সময়ত ক্লিক কৰক। তাত ওলোৱা মেনুখনৰ "ছাইন আউট কৰক"ত ক্লিক কৰক।</translation>
@@ -3127,8 +3127,8 @@
 <translation id="2923234477033317484">এই একাউণ্টটো আঁতৰাওক</translation>
 <translation id="7665369617277396874">একাউণ্ট যোগ কৰক</translation>
 <translation id="8428271547607112339">বিদ্যালয় একাউণ্ট যোগ দিয়ক</translation>
-<translation id="4920274951865016604">আপোনাৰ প্ৰশাসকে অধিক Gab AI Inc একাউণ্ট যোগ কৰা সুবিধাটো অক্ষম কৰিছে</translation>
-<translation id="8845742957886589229">অধিক Gab AI Inc একাউণ্ট যোগ কৰা সুবিধাটো অক্ষম কৰা হৈছে</translation>
+<translation id="4920274951865016604">আপোনাৰ প্ৰশাসকে অধিক Fulldive একাউণ্ট যোগ কৰা সুবিধাটো অক্ষম কৰিছে</translation>
+<translation id="8845742957886589229">অধিক Fulldive একাউণ্ট যোগ কৰা সুবিধাটো অক্ষম কৰা হৈছে</translation>
 <translation id="5021750053540820849">এই পর্যন্ত আপডে'ট কৰা নাই</translation>
 <translation id="3448492834076427715">একাউণ্ট আপডে'ট কৰক</translation>
 <translation id="2458379781610688953">একাউণ্ট আপডে'ট কৰক, <ph name="EMAIL"/></translation>
@@ -3163,7 +3163,7 @@
 <translation id="3661172646479098821">বৰ্তমান কেৱল Android ডিভাইচসমূহহে সমৰ্থিত।</translation>
 <translation id="3201422919974259695">উপলব্ধ ইউএছবি ডিভাইচসমূহ ইয়াত দেখা পোৱা যাব।</translation>
 <translation id="2629227353894235473">Android এপ্‌সমূহ বিকাশ কৰক</translation>
-<translation id="1669729672557072907">আপোনাৰ এপ্‌সমূহ সৃষ্টি আৰু পৰীক্ষা কৰিবলৈ Android Debug Bridge (ADB) সক্ষম কৰক। মন কৰক যে এই কাৰ্যটোৱে Gab AI Incএ সত্যাপন নকৰা Android এপ্‌সমূহ ইনষ্টল কৰিবলৈ অনুমতি দিয়ে আৰু ইয়াক অক্ষম কৰিবলৈ ফেক্টৰী ৰিছেট কৰাৰ আৱশ্যক।</translation>
+<translation id="1669729672557072907">আপোনাৰ এপ্‌সমূহ সৃষ্টি আৰু পৰীক্ষা কৰিবলৈ Android Debug Bridge (ADB) সক্ষম কৰক। মন কৰক যে এই কাৰ্যটোৱে Fulldiveএ সত্যাপন নকৰা Android এপ্‌সমূহ ইনষ্টল কৰিবলৈ অনুমতি দিয়ে আৰু ইয়াক অক্ষম কৰিবলৈ ফেক্টৰী ৰিছেট কৰাৰ আৱশ্যক।</translation>
 <translation id="4638930039313743000">ADB ডিবাগিং সক্ষম কৰক</translation>
 <translation id="1630768113285622200">ৰিষ্টাৰ্ট কৰক আৰু অব্যাহত ৰাখক</translation>
 <translation id="1005333234656240382">ADB ডিবাগিং সক্ষম কৰিবনে?</translation>
@@ -3200,9 +3200,9 @@
 <translation id="1870629042957780127">মাইক্ৰ’ফ’নলৈ এক্সেছ দিয়ক</translation>
 <translation id="1392232653471491344">Linux ৰিষ্টাৰ্ট কৰা প্ৰয়োজন</translation>
 <translation id="1064552680598333868">পাছৰবাৰ Linux ৰিষ্টাৰ্ট কৰিলে মাইক্ৰ’ফ’নত কৰা সালসলনিবোৰ কাৰ্যকৰী হ’ব।</translation>
-<translation id="2714393097308983682">Gab AI Inc Play Store</translation>
+<translation id="2714393097308983682">Fulldive Play Store</translation>
 <translation id="2966937470348689686">Android বিষয়ক অগ্ৰাধিকাৰ পৰিচালনা কৰক</translation>
-<translation id="6398715114293939307">Gab AI Inc Play Store আঁতৰাওক</translation>
+<translation id="6398715114293939307">Fulldive Play Store আঁতৰাওক</translation>
 <translation id="2792290659606763004">Android এপ্‌ আঁতৰাবনে?</translation>
 <translation id="492299503953721473">Android এপ্‌বোৰ আঁতৰাওক</translation>
 <translation id="7566118625369982896">Play এপ্ লিংকসমূহ পৰিচালনা কৰক।</translation>
@@ -3210,7 +3210,7 @@
 <translation id="5862109781435984885">শ্বেল্‌ফত ষ্টাইলাছ সঁজুলি দেখুৱাওক</translation>
 <translation id="4673442866648850031">ষ্টাইলাছ আঁতৰালে ষ্টাইলাছ সঁজুলিসমূহ খোলক</translation>
 <translation id="4244238649050961491">অধিক ষ্টাইলাছ এপ্‌ বিচাৰি পাওক</translation>
-<translation id="668599234725812620">Gab AI Inc Play খোলক</translation>
+<translation id="668599234725812620">Fulldive Play খোলক</translation>
 <translation id="9116799625073598554">টোকা লোৱা এপ্‌</translation>
 <translation id="203574396658008164">লক স্ক্ৰীণৰ পৰা টোকা লোৱাৰ সুবিধা সক্ষম কৰক</translation>
 <translation id="6238923052227198598">শেহতীয়া টোকাটো লক স্ক্ৰীণত ৰাখক</translation>
@@ -3355,7 +3355,7 @@
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> - <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">ম'বাইল ডেটা সক্ষম</translation>
 <translation id="7378812711085314936">ডেটা সংযোগ লওক</translation>
-<translation id="3483333858382889684">এই ডিভাইচটোক আপোনাৰ Gab AI Inc একাউণ্ট থকা ম’বাইল ডেটা সংযোগ উপলব্ধ অন্য ডিভাইচবোৰ এই ডিভাইচক বিচাৰি পাবলৈ দিয়ক</translation>
+<translation id="3483333858382889684">এই ডিভাইচটোক আপোনাৰ Fulldive একাউণ্ট থকা ম’বাইল ডেটা সংযোগ উপলব্ধ অন্য ডিভাইচবোৰ এই ডিভাইচক বিচাৰি পাবলৈ দিয়ক</translation>
 <translation id="1572266655485775982">ৱাই-ফাই সক্ষম/অক্ষম ট‘গল</translation>
 <translation id="7078120482318506217">সকলো নেটৱৰ্ক</translation>
 <translation id="1235458158152011030">চিনাকী নেটৱর্ক</translation>
@@ -3387,13 +3387,13 @@
 <translation id="4421167684395067330">সংযোগ কৰোঁতে সমস্যাৰ সৃষ্টি হৈছে। অনুগ্ৰহ কৰি সহায়ৰ বাবে <ph name="CARRIER_NAME"/>ৰ সৈতে যোগাযোগ কৰক।</translation>
 <translation id="7780252971640011240">সংযোগ কৰোঁতে সমস্যাৰ সৃষ্টি হৈছে। অনুগ্ৰহ কৰি সহায়ৰ বাবে আপোনাৰ বাহকৰ সৈতে যোগাযোগ কৰক।</translation>
 <translation id="161460670679785907">আপোনাৰ ফ’ন চিনাক্ত কৰিবলৈ সক্ষম নহ’ল</translation>
-<translation id="778480864305029524">তাৎক্ষণিক টেথাৰিং ব্যৱহাৰ কৰিবলৈ Gab AI Inc Play সেৱাৰ জাননী অন কৰক।</translation>
+<translation id="778480864305029524">তাৎক্ষণিক টেথাৰিং ব্যৱহাৰ কৰিবলৈ Fulldive Play সেৱাৰ জাননী অন কৰক।</translation>
 <translation id="7696063401938172191">আপোনাৰ '<ph name="PHONE_NAME"/>'ত:</translation>
 <translation id="3423463006624419153">আপোনাৰ '<ph name="PHONE_NAME_1"/>' আৰু '<ph name="PHONE_NAME_2"/>'ত:</translation>
 <translation id="6997707937646349884">আপোনাৰ ডিভাইচসমূহত:</translation>
 <translation id="7531779363494549572">ছেটিংসমূহ &gt; এপ্ আৰু জাননী &gt; জাননী-লৈ যাওক</translation>
-<translation id="1819721979226826163">এপৰ জাননী &gt; Gab AI Inc Play সেৱা-ত টিপক।</translation>
-<translation id="968000525894980488">Gab AI Inc Play সেৱাসমূহ অন কৰক।</translation>
+<translation id="1819721979226826163">এপৰ জাননী &gt; Fulldive Play সেৱা-ত টিপক।</translation>
+<translation id="968000525894980488">Fulldive Play সেৱাসমূহ অন কৰক।</translation>
 <translation id="2705736684557713153">তাৎক্ষণিক টেথাৰিং কৰাৰ সুবিধাটো প্ৰদর্শিত হ’লে স্ক্ৰীণৰ তলৰ অংশলৈ স্ক্ৰ’ল কৰি এই সুবিধাটো অন কৰক। যদি এইটো প্ৰদর্শিত হোৱা নাই তেন্তে আপুনি সাজু আছে।</translation>
 <translation id="7240339475467890413">নতুন হটস্পটৰ সৈতে সংযোগ হ'ব বিচাৰেনে?</translation>
 <translation id="6514010653036109809">উপলব্ধ ডিভাইচ:</translation>
@@ -3508,9 +3508,9 @@
 <translation id="6555432686520421228">সকলো ব্যৱহাৰকাৰী একাউণ্ট আঁতৰাওক আৰু আপোনাৰ <ph name="IDS_SHORT_PRODUCT_NAME"/> ডিভাইচটো নতুন ডিভাইচৰ দৰে হোৱাকৈ ৰিছেট কৰক।</translation>
 <translation id="5470735824776589490">পাৱাৰৱাশ্বৰ জৰিয়তে আপোনাৰ ডিভাইচটো ৰিছেট কৰিব পৰাৰ পূর্বে এবাৰ ৰিষ্টার্ট কৰাৰ আৱশ্যক। <ph name="LINK_BEGIN"/>অধিক জানক<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">ৰিছেট বুটাম</translation>
-<translation id="472896694312062378">"Ok Gab AI Inc"</translation>
-<translation id="2339135612812615870">"Ok Gab AI Inc" বুলি কৈ আপোনাৰ Assistant এক্সেছ কৰক।</translation>
-<translation id="3735919318855093557">"Ok Gab AI Inc" বুলি কৈ আপোনাৰ Assistant এক্সেছ কৰক। বেটাৰী ৰাহি কৰিবলৈ “অন (চুপাৰিছ কৰা)” বাছনি কৰক। আপোনাৰ ডিভাইচটো প্লাগ ইন অথবা চাৰ্জ হৈ থাকিলেহে আপোনাৰ Assistantএ সঁহাৰি জনাব।</translation>
+<translation id="472896694312062378">"Ok Fulldive"</translation>
+<translation id="2339135612812615870">"Ok Fulldive" বুলি কৈ আপোনাৰ Assistant এক্সেছ কৰক।</translation>
+<translation id="3735919318855093557">"Ok Fulldive" বুলি কৈ আপোনাৰ Assistant এক্সেছ কৰক। বেটাৰী ৰাহি কৰিবলৈ “অন (চুপাৰিছ কৰা)” বাছনি কৰক। আপোনাৰ ডিভাইচটো প্লাগ ইন অথবা চাৰ্জ হৈ থাকিলেহে আপোনাৰ Assistantএ সঁহাৰি জনাব।</translation>
 <translation id="5825412242012995131">অন কৰক (আমি চুপাৰিছ কৰোঁ)</translation>
 <translation id="5067399438976153555">সদায় অন</translation>
 <translation id="6175644081330715138">অফ আছে</translation>
@@ -3519,7 +3519,7 @@
 <translation id="5355099869024327351">আপোনাৰ জাননীসমূহ প্ৰদর্শন কৰিবলৈ Assistantক অনুমতি দিয়ক</translation>
 <translation id="133535873114485416">পচন্দৰ ইনপুট</translation>
 <translation id="6233154960150021497">ডিফ'ল্ট হৈছে কীব'ৰ্ডৰ পৰিৱৰ্তে কণ্ঠধ্বনিৰ ব্যৱহাৰ কৰা</translation>
-<translation id="3908743412684152579">Gab AI Inc Assistantৰ ছেটিংসমূহ</translation>
+<translation id="3908743412684152579">Fulldive Assistantৰ ছেটিংসমূহ</translation>
 <translation id="1048286738600630630">দেখুৱায়</translation>
 <translation id="4184885522552335684">কোনো ডিছপ্লে’ স্থানান্তৰ কৰিবলৈ টানক</translation>
 <translation id="4964455510556214366">সজ্জা</translation>
@@ -3573,7 +3573,7 @@
 <translation id="6856623341093082836">ছেট আপ কৰক আৰু আপোনাৰ টাচ্চ্‌স্ক্রীণৰ সঠিকতা মিলাওক</translation>
 <translation id="5065775832226780415">স্মাৰ্ট লক</translation>
 <translation id="2433836460518180625">কেৱল ডিভাইচহে আনলক কৰক</translation>
-<translation id="3300552672525741457">ডিভাইচটো আনলক কৰি Gab AI Inc একাউণ্টত ছাইন ইন কৰক</translation>
+<translation id="3300552672525741457">ডিভাইচটো আনলক কৰি Fulldive একাউণ্টত ছাইন ইন কৰক</translation>
 <translation id="4562155214028662640">ফিংগাৰপ্ৰিণ্ট যোগ কৰক</translation>
 <translation id="4068776064906523561">ছেভ কৰি থোৱা ফিংগাৰপ্ৰিণ্ট</translation>
 <translation id="1719312230114180055">টোকা: এটা জটিল আৰ্হি বা পিনতকৈ আপোনাৰ ফিংগাৰপ্ৰিণ্টটো কম সুৰক্ষিত হ’ব পাৰে।</translation>
@@ -3637,7 +3637,7 @@
 <translation id="6547354035488017500">অতিকমেও ৫১২ এম.বি. ঠাই খালী কৰক নহ'লে আপোনাৰ ডিভাইচটোৱে সমর্থন কৰিব নোৱাৰা হ'ব। খালী ঠাই উলিয়াবলৈ ডিভাইচৰ ষ্ট'ৰেজৰ পৰা ফাইল মচক।</translation>
 <translation id="6097480669505687979">যদি আপুনি ঠাই খালী নকৰে, ব্যৱহাৰকাৰী আৰু ডেটা হয়তো স্বয়ংক্ৰিয়ভাৱে আঁতৰোৱা হ’ব পাৰে।</translation>
 <translation id="4470957202018033307">বাহ্যিক ষ্ট’ৰেজৰ অগ্ৰাধিকাৰসমূহ</translation>
-<translation id="1900305421498694955">Gab AI Inc Playৰ এপ্‌সমূহক বাহ্যিক ষ্ট’ৰেজ ডিভাইচসমূহত থকা ফাইলসমূহ পঢ়িবলৈ আৰু লিখিবলৈ সম্পূৰ্ণ ফাইল ছিষ্টেমৰ এক্সেছ প্ৰয়োজন হ’ব পাৰে। ডিভাইচটোত সৃষ্টি কৰা ফাইল আৰু ফ’ল্ডাৰসমূহ বাহ্যিক ড্ৰাইভটো ব্যৱহাৰ কৰা সকলোৰে বাবে দৃশ্যমান। <ph name="LINK_BEGIN"/>অধিক জানক<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Fulldive Playৰ এপ্‌সমূহক বাহ্যিক ষ্ট’ৰেজ ডিভাইচসমূহত থকা ফাইলসমূহ পঢ়িবলৈ আৰু লিখিবলৈ সম্পূৰ্ণ ফাইল ছিষ্টেমৰ এক্সেছ প্ৰয়োজন হ’ব পাৰে। ডিভাইচটোত সৃষ্টি কৰা ফাইল আৰু ফ’ল্ডাৰসমূহ বাহ্যিক ড্ৰাইভটো ব্যৱহাৰ কৰা সকলোৰে বাবে দৃশ্যমান। <ph name="LINK_BEGIN"/>অধিক জানক<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">উপলব্ধ ডিভাইচসমূহ ইয়াত দেখা যাব।</translation>
 <translation id="1041263367839475438">উপলব্ধ ডিভাইচসমূ্হ</translation>
 <translation id="7479221278376295180">ষ্ট’ৰেজ ব্যৱহাৰৰ অৱলোকন</translation>
@@ -3661,12 +3661,12 @@
 <translation id="5840822070878669614">Fulldive Web Store খোলক</translation>
 <translation id="6073903501322152803">সাধ্য সুবিধাসমূহ যোগ কৰক</translation>
 <translation id="7988355189918024273">সাধ্য সুবিধাবোৰ সক্ষম কৰক</translation>
-<translation id="5499063270485366718">যদি কোনো প্ৰতিচ্ছবিত উপযোগী বিৱৰণ নাই তেন্তে Fulldiveএ আপোনাক সেয়া প্ৰদান কৰিবলৈ চেষ্টা কৰিব। বিৱৰণ সৃষ্টি কৰিবলৈ প্ৰতিচ্ছবি Gab AI Incলৈ প্ৰেৰণ কৰা হয়।</translation>
+<translation id="5499063270485366718">যদি কোনো প্ৰতিচ্ছবিত উপযোগী বিৱৰণ নাই তেন্তে Fulldiveএ আপোনাক সেয়া প্ৰদান কৰিবলৈ চেষ্টা কৰিব। বিৱৰণ সৃষ্টি কৰিবলৈ প্ৰতিচ্ছবি Fulldiveলৈ প্ৰেৰণ কৰা হয়।</translation>
 <translation id="8957762313041272117">লাইভ কেপশ্বন</translation>
 <translation id="7075426315046750605">লাইভ কেপশ্বনৰ সুবিধাটোৱে মিডিয়াত থকা কণ্ঠধ্বনি চিনাক্ত কৰে আৰু Fulldiveত প্লে' কৰা সকলো মিডিয়াৰ বাবে স্বয়ংক্ৰিয়ভাৱে কেপশ্বনসমূহ সৃষ্টি কৰে।</translation>
 <translation id="572155275267014074">Android ছেটিংসমূহ</translation>
-<translation id="7201042526153088083">আপোনাৰ <ph name="DEVICE_TYPE"/>ত Gab AI Inc Playৰ পৰা এপ্‌ আৰু গে’মসমূহ ইনষ্টল কৰক। &lt;a target="_blank" href="<ph name="URL"/>"&gt;অধিক জানক&lt;/a&gt;</translation>
-<translation id="8039595758121742506">আপুনি Gab AI Inc Playৰ পৰা ডাউনল’ড কৰা এপ্‌সমূহ এই Fulldivebookৰ পৰা মচা হ’ব।
+<translation id="7201042526153088083">আপোনাৰ <ph name="DEVICE_TYPE"/>ত Fulldive Playৰ পৰা এপ্‌ আৰু গে’মসমূহ ইনষ্টল কৰক। &lt;a target="_blank" href="<ph name="URL"/>"&gt;অধিক জানক&lt;/a&gt;</translation>
+<translation id="8039595758121742506">আপুনি Fulldive Playৰ পৰা ডাউনল’ড কৰা এপ্‌সমূহ এই Fulldivebookৰ পৰা মচা হ’ব।
       <ph name="LINE_BREAKS1"/>
       আপুনি ক্ৰয় কৰা সমল যেনে চলচিত্ৰ, টিভিৰ অনুষ্ঠান, সংগীত, কিতাপ বা অন্য এপৰ ভিতৰত ক্ৰয় কৰিব পৰা বস্তুও মচা হ’ব পাৰে।
       <ph name="LINE_BREAKS2"/>
@@ -3692,7 +3692,7 @@
 <translation id="1670399744444387456">প্ৰাথমিক</translation>
 <translation id="1763808908432309942">নতুন টেবত খোলে</translation>
 <translation id="6248988683584659830">সন্ধান সম্পৰ্কীয় ছেটিংসমূহ</translation>
-<translation id="883304095704384301">আপুনি বিচাৰি থকা সমল পোৱা নাই যদি <ph name="BEGIN_LINK_CHROMIUM"/>Gab AI Inc Fulldiveৰ সহায়<ph name="END_LINK_CHROMIUM"/>লৈ যাওক</translation>
+<translation id="883304095704384301">আপুনি বিচাৰি থকা সমল পোৱা নাই যদি <ph name="BEGIN_LINK_CHROMIUM"/>Fulldive Fulldiveৰ সহায়<ph name="END_LINK_CHROMIUM"/>লৈ যাওক</translation>
 <translation id="6406708970972405507">ছেটিংসমূহ - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">উপ-পৃষ্ঠাৰ বুটাম</translation>
 <translation id="379509625511193653">অফ আছে</translation>
@@ -3713,10 +3713,10 @@
 <translation id="451515744433878153">আঁতৰ কৰক</translation>
 <translation id="5029568752722684782">প্ৰতিলিপিটো মচক</translation>
 <translation id="2154484045852737596">কাৰ্ড সম্পাদনা কৰক</translation>
-<translation id="3032188998195902534">Gab AI Inc Pay পৰিশোধ পদ্ধতি যোগ কৰিবলৈ বা পৰিচালনা কৰিবলৈ আপোনাৰ <ph name="BEGIN_LINK"/>Gab AI Inc একাউণ্ট<ph name="END_LINK"/>-লৈ যাওক</translation>
+<translation id="3032188998195902534">Fulldive Pay পৰিশোধ পদ্ধতি যোগ কৰিবলৈ বা পৰিচালনা কৰিবলৈ আপোনাৰ <ph name="BEGIN_LINK"/>Fulldive একাউণ্ট<ph name="END_LINK"/>-লৈ যাওক</translation>
 <translation id="8853586775156634952">এই কাৰ্ডখন কেৱল এই ডিভাইচটোতহে ছেভ কৰা হ'ব</translation>
 <translation id="5087580092889165836">কাৰ্ড যোগ কৰক</translation>
-<translation id="4835914736509775287">কাৰ্ডসমূহ আপোনাৰ Gab AI Inc Accountত ছেভ কৰক</translation>
+<translation id="4835914736509775287">কাৰ্ডসমূহ আপোনাৰ Fulldive Accountত ছেভ কৰক</translation>
 <translation id="7255002516883565667">এই মুহূৰ্তত আপোনাৰ লগত এখন কাৰ্ডহে আছে যিখন কেৱল এই ডিভাইচটোতহে ব্যৱহাৰ কৰিব পাৰি</translation>
 <translation id="6848388270925200958">এই মুহূৰ্তত আপোনাৰ লগত কেইখনমান কাৰ্ড আছে যিবোৰ কেৱল এই ডিভাইচটোতহে ব্যৱহাৰ কৰিব পাৰি</translation>
 <translation id="4807098396393229769">কার্ডত থকা নাম</translation>
@@ -3730,9 +3730,9 @@
 <translation id="8731851055419582926">পৰীক্ষা কৰা পাছৱর্ডসমূহ</translation>
 <translation id="4248098802131000011">আপোনাৰ পাছৱর্ডসমূহক ডেটা উলংঘন আৰু অন্য সুৰক্ষা সম্পর্কীয় সমস্যাসমূহৰ পৰা নিৰাপদে ৰাখক</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/>এ আপোনাৰ পাছৱর্ডসমূহ পৰীক্ষা কৰিব নোৱাৰে। আপোনাৰ ইণ্টাৰনেট সংযোগ পৰীক্ষা কৰি চাওক।</translation>
-<translation id="802916701582020725">আপুনি নিজৰ Gab AI Inc একাউণ্টটোৰ জৰিয়তে ছাইন ইন কৰিলে <ph name="IDS_SHORT_PRODUCT_NAME"/>এ আপোনাৰ পাছৱর্ডসমূহ পৰীক্ষা কৰিব পাৰে</translation>
+<translation id="802916701582020725">আপুনি নিজৰ Fulldive একাউণ্টটোৰ জৰিয়তে ছাইন ইন কৰিলে <ph name="IDS_SHORT_PRODUCT_NAME"/>এ আপোনাৰ পাছৱর্ডসমূহ পৰীক্ষা কৰিব পাৰে</translation>
 <translation id="4478777936860197922">ছেভ কৰা কোনো পাছৱৰ্ড নাই। আপুনি নিজৰ পাছৱর্ডসমূহ ছেভ কৰিলে <ph name="IDS_SHORT_PRODUCT_NAME"/>এ সেইবোৰ পৰীক্ষা কৰিব পাৰে।</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/>এ আপোনাৰ পাছৱর্ডসমূহ পৰীক্ষা কৰিব নোৱাৰে। ২৪ ঘণ্টাৰ পাছত পুনৰ চেষ্টা কৰক অথবা <ph name="BEGIN_LINK"/>আপোনাৰ Gab AI Inc একাউণ্টত পাছৱর্ডসমূহ পৰীক্ষা কৰক<ph name="END_LINK"/>।</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/>এ আপোনাৰ পাছৱর্ডসমূহ পৰীক্ষা কৰিব নোৱাৰে। ২৪ ঘণ্টাৰ পাছত পুনৰ চেষ্টা কৰক অথবা <ph name="BEGIN_LINK"/>আপোনাৰ Fulldive একাউণ্টত পাছৱর্ডসমূহ পৰীক্ষা কৰক<ph name="END_LINK"/>।</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/>এ আপোনাৰ পাছৱর্ডসমূহ পৰীক্ষা কৰিব নোৱাৰে। ২৪ ঘণ্টাৰ পাছত পুনৰ চেষ্টা কৰক।</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/>এ আপোনাৰ পাছৱর্ডসমূহ পৰীক্ষা কৰিব নোৱাৰে। পাছত পুনৰ চেষ্টা কৰক।</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{কোনো হেক হোৱা পাছৱর্ড পোৱা নাই}=1{{COUNT} টা হেক হোৱা পাছৱৰ্ড}one{{COUNT} টা হেক হোৱা পাছৱৰ্ড}other{{COUNT} টা হেক হোৱা পাছৱৰ্ড}}</translation>
@@ -3758,7 +3758,7 @@
 <translation id="2100273922101894616">স্বয়ংক্ৰিয়ভাৱে ছাইন ইন কৰক</translation>
 <translation id="7513029293694390567">ষ্ট’ৰ কৰি থোৱা ক্ৰিডেনশ্বিয়েল ব্যৱহাৰ কৰি ৱেবছাইটত স্বয়ংক্রিয়ভাৱে ছাইন ইন কৰক। যদি অক্ষম কৰি ৰখা হয় তেন্তে প্ৰতিবাৰ কোনো ৱেবছাইটত ছাইন ইন কৰাৰ সময়ত আপোনাক নিশ্চিত কৰিবলৈ কোৱা হ’ব।</translation>
 <translation id="6995899638241819463">ডেটা উলংঘনৰ ফলত পাছৱৰ্ডসমূহ ফাদিল হ’লে আপোনাক সকীয়নি দিয়ে</translation>
-<translation id="1534287762301776620">আপুনি Gab AI Inc একাউণ্টত ছাইন ইন কৰিলে এই সুবিধাটো অন কৰা হয়</translation>
+<translation id="1534287762301776620">আপুনি Fulldive একাউণ্টত ছাইন ইন কৰিলে এই সুবিধাটো অন কৰা হয়</translation>
 <translation id="1375321115329958930">ছেভ কৰি থোৱা পাছৱৰ্ড</translation>
 <translation id="152234381334907219">কেতিয়াও ছেভ কৰা নহয়</translation>
 <translation id="5137501176474113045">এই বস্তুটো মচক</translation>
@@ -3772,7 +3772,7 @@
 <translation id="7930294771522048157">ছেভ কৰি থোৱা পৰিশোধ পদ্ধতিসমূহ ইয়াত দেখা পোৱা যাব</translation>
 <translation id="9124003689441359348">ছেভ কৰি থোৱা পাছৱৰ্ডসমূহ ইয়াত দেখা যাব</translation>
 <translation id="4400367121200150367">কেতিয়াও পাছৱর্ডসমূহ ছেভ নকৰা ছাইটসমূহ ইয়াত প্ৰদর্শিত হ’ব</translation>
-<translation id="3098842761938485917">আপোনাৰ <ph name="BEGIN_LINK"/>Gab AI Inc Account<ph name="END_LINK"/>ত ছেভ কৰি থোৱা পাছৱর্ডসমূহ চাওক আৰু পৰিচালনা কৰক</translation>
+<translation id="3098842761938485917">আপোনাৰ <ph name="BEGIN_LINK"/>Fulldive Account<ph name="END_LINK"/>ত ছেভ কৰি থোৱা পাছৱর্ডসমূহ চাওক আৰু পৰিচালনা কৰক</translation>
 <translation id="5620655347161642930">পাছৱর্ড ৰপ্তানি কৰক…</translation>
 <translation id="3900966090527141178">পাছৱর্ডসমূহ ৰপ্তানি কৰক</translation>
 <translation id="6914783257214138813">ৰপ্তানি কৰা ফাইল দেখা পোৱা যিকোনো লোকে আপোনাৰ পাছৱৰ্ড দেখা পাব।</translation>
@@ -3838,15 +3838,15 @@
 <translation id="3380365263193509176">অজ্ঞাত আসোঁৱাহ</translation>
 <translation id="368789413795732264">ফাইলটো পঢ়িবলৈ চেষ্টা কৰোঁতে কিবা আসোঁৱাহ হৈছে: <ph name="ERROR_TEXT"/>।</translation>
 <translation id="784934925303690534">সময় অৱধি</translation>
-<translation id="3958004920128806270">আপোনাৰ Gab AI Inc একাউণ্টত ব্ৰাউজিং ডেটা ৰাখি কেৱল এই ডিভাইচৰ পৰা সেই ডেটা মচিবলৈ <ph name="BEGIN_LINK"/>ছাইন আউট কৰক<ph name="END_LINK"/>।</translation>
-<translation id="4445433576366924090">আপুনি ছিংক কৰি ৰখা সকলো ডিভাইচ আৰু Gab AI Inc একাউণ্টৰ পৰা ব্ৰাউজিঙৰ ডেটা মচিবলৈ <ph name="BEGIN_LINK"/>ছিংক ছেটিংসমূহলৈ যাওক<ph name="END_LINK"/>।</translation>
-<translation id="563489167344291753">আপুনি ছিংক কৰি ৰখা সকলো ডিভাইচ আৰু আপোনাৰ Gab AI Inc একাউণ্টৰ পৰা ব্ৰাউজ কৰা ডেটা মচিবলৈ <ph name="BEGIN_LINK"/>আপোনাৰ পাছফ্ৰেজ দিয়ক<ph name="END_LINK"/>।</translation>
-<translation id="3895809404273995788">আপোনাৰ ছিংক হৈ থকা সকলো ডিভাইচ আৰু নিজৰ Gab AI Inc একাউণ্টৰ পৰা ব্ৰাউজিঙৰ ডেটা মচিবলৈ <ph name="BEGIN_LINK"/>ছাইন ইন কৰক<ph name="END_LINK"/>।</translation>
+<translation id="3958004920128806270">আপোনাৰ Fulldive একাউণ্টত ব্ৰাউজিং ডেটা ৰাখি কেৱল এই ডিভাইচৰ পৰা সেই ডেটা মচিবলৈ <ph name="BEGIN_LINK"/>ছাইন আউট কৰক<ph name="END_LINK"/>।</translation>
+<translation id="4445433576366924090">আপুনি ছিংক কৰি ৰখা সকলো ডিভাইচ আৰু Fulldive একাউণ্টৰ পৰা ব্ৰাউজিঙৰ ডেটা মচিবলৈ <ph name="BEGIN_LINK"/>ছিংক ছেটিংসমূহলৈ যাওক<ph name="END_LINK"/>।</translation>
+<translation id="563489167344291753">আপুনি ছিংক কৰি ৰখা সকলো ডিভাইচ আৰু আপোনাৰ Fulldive একাউণ্টৰ পৰা ব্ৰাউজ কৰা ডেটা মচিবলৈ <ph name="BEGIN_LINK"/>আপোনাৰ পাছফ্ৰেজ দিয়ক<ph name="END_LINK"/>।</translation>
+<translation id="3895809404273995788">আপোনাৰ ছিংক হৈ থকা সকলো ডিভাইচ আৰু নিজৰ Fulldive একাউণ্টৰ পৰা ব্ৰাউজিঙৰ ডেটা মচিবলৈ <ph name="BEGIN_LINK"/>ছাইন ইন কৰক<ph name="END_LINK"/>।</translation>
 <translation id="8662811608048051533">অধিকাংশ ছাইটৰ পৰা আপোনাক ছাইন আউট কৰায়।</translation>
-<translation id="4650925988509114690">অধিকাংশ ছাইটৰ পৰাই আপোনাক ছাইন আউট কৰায়। আপোনাৰ ছিংক কৰা ডেটা মচিবলৈ আপুনি নিজৰ Gab AI Inc একাউণ্টত ছাইন ইন কৰি ৰাখিব।</translation>
+<translation id="4650925988509114690">অধিকাংশ ছাইটৰ পৰাই আপোনাক ছাইন আউট কৰায়। আপোনাৰ ছিংক কৰা ডেটা মচিবলৈ আপুনি নিজৰ Fulldive একাউণ্টত ছাইন ইন কৰি ৰাখিব।</translation>
 <translation id="2017836877785168846">ঠিকনাৰ বাৰত ইতিহাস আৰু স্বয়ংক্ৰিয়ভাৱে পুৰ হোৱা তথ্য মচে।</translation>
-<translation id="8096327394278038498">ঠিকনাৰ বাৰত ইতিহাস আৰু স্বয়ংক্ৰিয়ভাৱে পুৰ হোৱা তথ্য মচে। <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>ত আপোনাৰ Gab AI Inc একাউণ্টৰ অন্য প্ৰকাৰৰ ব্ৰাউজিং ইতিহাস থাকিব পাৰে।</translation>
-<translation id="8122693181154564064">সকলো ছাইন ইন হৈ থকা ডিভাইচৰ পৰা ইতিহাস মচে। <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>ত আপোনাৰ Gab AI Inc একাউণ্টৰ অন্য প্ৰকাৰৰ ব্ৰাউজিং ইতিহাস থাকিব পাৰে।</translation>
+<translation id="8096327394278038498">ঠিকনাৰ বাৰত ইতিহাস আৰু স্বয়ংক্ৰিয়ভাৱে পুৰ হোৱা তথ্য মচে। <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>ত আপোনাৰ Fulldive একাউণ্টৰ অন্য প্ৰকাৰৰ ব্ৰাউজিং ইতিহাস থাকিব পাৰে।</translation>
+<translation id="8122693181154564064">সকলো ছাইন ইন হৈ থকা ডিভাইচৰ পৰা ইতিহাস মচে। <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>ত আপোনাৰ Fulldive একাউণ্টৰ অন্য প্ৰকাৰৰ ব্ৰাউজিং ইতিহাস থাকিব পাৰে।</translation>
 <translation id="7127980134843952133">ডাউনল’ডৰ ইতিহাস</translation>
 <translation id="4699172675775169585">কেশ্ব প্ৰতিচ্ছবি আৰু ফাইল</translation>
 <translation id="1274997165432133392">কুকি আৰু অন্য ছাইট ডেটা</translation>
@@ -3861,7 +3861,7 @@
 <translation id="1043818413152647937">লগতে এই এপ্‌সমূহৰ পৰা ডেটা মচিবনে?</translation>
 <translation id="3399432415385675819">জাননী অক্ষম কৰা হ’ব</translation>
 <translation id="3459509316159669723">প্ৰিণ্টিং</translation>
-<translation id="7063957500469387217">Gab AI Inc Cloud Printত প্ৰিণ্টাৰবোৰ ছেট আপ কৰক বা পৰিচালনা কৰক।</translation>
+<translation id="7063957500469387217">Fulldive Cloud Printত প্ৰিণ্টাৰবোৰ ছেট আপ কৰক বা পৰিচালনা কৰক।</translation>
 <translation id="8185331656081929126">নেটৱৰ্কটোত নতুন প্ৰিণ্টাৰ ধৰা পৰিলে জাননী দেখুৱাওক</translation>
 <translation id="6451180435462401570">ক্লাউড প্ৰিণ্ট ডিভাইচ পৰিচালনা কৰক</translation>
 <translation id="4733793249294335256">অৱস্থান</translation>
@@ -3883,7 +3883,7 @@
 <translation id="5425722269016440406">Smart Lock অফ কৰিবলৈ হ’লে আপুনি অনলাইন হ’বই লাগিব কাৰণ এই ছেটিংটো আপোনাৰ ফ’নৰ সৈতে আৰু অন্য ডিভাইচৰ সৈতে ছিংক কৰা আছে। অনুগ্ৰহ কৰি প্ৰথমতে এটা নেটৱৰ্কৰ সৈতে সংযোগ কৰক।</translation>
 <translation id="8885197664446363138">স্মাৰ্ট লক উপলব্ধ নহয়</translation>
 <translation id="7334190995941642545">স্মাৰ্ট লক বৰ্তমান উপলব্ধ নহয়। অনুগ্ৰহ কৰি পাছত পুনৰ চেষ্টা কৰক।</translation>
-<translation id="8112427115751454716">আপোনাৰ Gab AI Inc একাউণ্টত ছাইন ইন কৰিবলৈ স্মাৰ্ট লক ব্যৱহাৰ কৰক</translation>
+<translation id="8112427115751454716">আপোনাৰ Fulldive একাউণ্টত ছাইন ইন কৰিবলৈ স্মাৰ্ট লক ব্যৱহাৰ কৰক</translation>
 <translation id="2043818754674261542"><ph name="DEVICE_TYPE"/>ক আনলক কৰিবলৈ ফ’নটো থাকিব লগা দূৰত্ব</translation>
 <translation id="2522791476825452208">অতিকে ওচৰত</translation>
 <translation id="649454645705377674">বন্ধ কৰক</translation>
@@ -3904,7 +3904,7 @@
 <translation id="1726100011689679555">নাম সম্পর্কীয় ছার্ভাৰ</translation>
 <translation id="1209796539517632982">স্বয়ংক্ৰিয় নাম ছার্ভাৰ</translation>
 <translation id="4462159676511157176">কাষ্টম নাম ছার্ভাৰ</translation>
-<translation id="1981884748698699991">Gab AI Incৰ নাম সম্পর্কীয় ছার্ভাৰ</translation>
+<translation id="1981884748698699991">Fulldiveৰ নাম সম্পর্কীয় ছার্ভাৰ</translation>
 <translation id="6317608858038767920">কাষ্টম নে’মছার্ভাৰ <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">ৱেব প্ৰক্সি স্বয়ংক্ৰিয় আৱিস্কাৰৰ URL:</translation>
 <translation id="3817579325494460411">প্ৰদান কৰা হোৱা নাই</translation>
@@ -4062,7 +4062,7 @@
 <translation id="3182749001423093222">বানান পৰীক্ষা</translation>
 <translation id="5423829801105537712">সাধাৰণ বানান পৰীক্ষা</translation>
 <translation id="2564653188463346023">বানান পৰীক্ষা কৰা সুবিধাটো উন্নত কৰা হৈছে</translation>
-<translation id="8944680893327873975">Gab AI Inc Searchত ব্যৱহৃত একেটা বানান পৰীক্ষক ব্যৱহাৰ কৰে। আপুনি ব্ৰাউজাৰত টাইপ কৰা পাঠ Gab AI Incলৈ পঠিওৱা হয়।</translation>
+<translation id="8944680893327873975">Fulldive Searchত ব্যৱহৃত একেটা বানান পৰীক্ষক ব্যৱহাৰ কৰে। আপুনি ব্ৰাউজাৰত টাইপ কৰা পাঠ Fulldiveলৈ পঠিওৱা হয়।</translation>
 <translation id="5051836348807686060">আপুনি বাছনি কৰা ভাষাৰ ক্ষেত্ৰত বানান পৰীক্ষক সমৰ্থিত নহয়</translation>
 <translation id="7335974957018254119">ইয়াৰ বাবে বানান পৰীক্ষণ সুবিধা ব্যৱহাৰ কৰক</translation>
 <translation id="2469375675106140201">বানান পৰীক্ষক কাষ্ট'মাইজ কৰক</translation>
@@ -4075,7 +4075,7 @@
 <translation id="4200689466366162458">কাষ্টম শব্দ</translation>
 <translation id="7833720883933317473">ছেভ কৰি থোৱা কাষ্টম শব্দ ইয়াত ওলাব</translation>
 <translation id="8509646642152301857">বানান পৰীক্ষা কৰা অভিধান ডাউনল’ড কৰিব পৰা নগ’ল।</translation>
-<translation id="8842834450537919370">ফায়াৰৱাল-এ যাতে Gab AI Inc ছাৰ্ভাৰৰ পৰা ডাউনল’ড অৱৰোধ কৰি থোৱা নাই সেয়া নিশ্চিত কৰিবলৈ আপোনাৰ নেটৱৰ্ক প্ৰশাসকৰ সৈতে যোগাযোগ কৰক।</translation>
+<translation id="8842834450537919370">ফায়াৰৱাল-এ যাতে Fulldive ছাৰ্ভাৰৰ পৰা ডাউনল’ড অৱৰোধ কৰি থোৱা নাই সেয়া নিশ্চিত কৰিবলৈ আপোনাৰ নেটৱৰ্ক প্ৰশাসকৰ সৈতে যোগাযোগ কৰক।</translation>
 <translation id="9042893549633094279">গোপনীয়তা আৰু সুৰক্ষা</translation>
 <translation id="5548606607480005320">সুৰক্ষা পৰীক্ষা</translation>
 <translation id="5876576639916258720">চলি আছে...</translation>
@@ -4111,24 +4111,24 @@
 <translation id="2468205691404969808">আপুনি সেই পৃষ্ঠাবোৰলৈ নগ'লেও আপোনাৰ পচন্দসমূহ মনত ৰাখিবলৈ কুকি ব্যৱহাৰ কৰে</translation>
 <translation id="3633309367764744750">পৃষ্ঠাসমূহৰ পৰা আগতীয়াকৈ তথ্য আহৰণ কৰক, য’ত আপুনি এই পৰ্যন্ত নোচোৱা পৃষ্ঠাও অন্তৰ্ভুক্ত। আহৰণ কৰা তথ্যত কুকিও থাকিব পাৰে, যদিহে আপুনি কুকিৰ অনুমতি দিয়ে।</translation>
 <translation id="3201899458094819285">সুৰক্ষিত ব্ৰাউজিং (আপোনাৰ ডিভাইচটোক বিপজ্জনক ছাইটৰ পৰা সুৰক্ষা প্ৰদান কৰে)</translation>
-<translation id="2876369937070532032">আপোনাৰ সুৰক্ষা বিপদাপন্ন হ'লে আপুনি চোৱা কিছুমান পৃষ্ঠাৰ URLসমূহ Gab AI Incলৈ পঠিয়ায়</translation>
+<translation id="2876369937070532032">আপোনাৰ সুৰক্ষা বিপদাপন্ন হ'লে আপুনি চোৱা কিছুমান পৃষ্ঠাৰ URLসমূহ Fulldiveলৈ পঠিয়ায়</translation>
 <translation id="4991384657077828949">Fulldiveৰ সুৰক্ষা উন্নত কৰাত সহায় কৰক</translation>
-<translation id="1984646864943401749">নতুন ভাবুকিবোৰ বিচাৰি পোৱাত আৰু ৱেবত থকা সকলোকে সুৰক্ষিত কৰাত সহায় কৰিবলৈ আপুনি চোৱা কিছুমান পৃষ্ঠাৰ URLসমূহ, সীমিত ছিষ্টেমৰ তথ্য আৰু কিছুমান পৃষ্ঠাৰ সমল Gab AI Incলৈ পঠিয়ায়।</translation>
+<translation id="1984646864943401749">নতুন ভাবুকিবোৰ বিচাৰি পোৱাত আৰু ৱেবত থকা সকলোকে সুৰক্ষিত কৰাত সহায় কৰিবলৈ আপুনি চোৱা কিছুমান পৃষ্ঠাৰ URLসমূহ, সীমিত ছিষ্টেমৰ তথ্য আৰু কিছুমান পৃষ্ঠাৰ সমল Fulldiveলৈ পঠিয়ায়।</translation>
 <translation id="1641113438599504367">সুৰক্ষিত ব্ৰাউজিং</translation>
 <translation id="6900532703269623216">বৰ্ধিত সুৰক্ষা</translation>
-<translation id="7307583170263691471">ক্ষতিকাৰক হিচাপে জনাজাত ৱেবছাইট, ডাউনল'ড আৰু এক্সটেনশ্বনসমূহৰ পৰা ক্ষিপ্ৰ, আগতীয়া সুৰক্ষা। পাছৱর্ড ফাদিল হোৱা সম্পর্কে আপোনাক সকীয়নি দিয়ে। Gab AI Incলৈ পঠিয়াবলৈ ব্ৰাউজিং ডেটাৰ আৱশ্যক হয়।</translation>
+<translation id="7307583170263691471">ক্ষতিকাৰক হিচাপে জনাজাত ৱেবছাইট, ডাউনল'ড আৰু এক্সটেনশ্বনসমূহৰ পৰা ক্ষিপ্ৰ, আগতীয়া সুৰক্ষা। পাছৱর্ড ফাদিল হোৱা সম্পর্কে আপোনাক সকীয়নি দিয়ে। Fulldiveলৈ পঠিয়াবলৈ ব্ৰাউজিং ডেটাৰ আৱশ্যক হয়।</translation>
 <translation id="8645920082661222035">বিপজ্জনক ঘটনাবোৰৰ সম্পর্কে অনুমান কৰে আৰু সেইবোৰ ঘটাৰ পূর্বে আপোনাক সকীয়নি দিয়ে</translation>
-<translation id="5265419033369521352">আপোনাক Fulldiveত সুৰক্ষিত কৰি ৰাখে আৰু আপুনি ছাইন ইন হৈ থকা সময়ত অন্য Gab AI Inc এপ্‌সমূহত আপোনাৰ সুৰক্ষা উন্নত কৰিবলৈ ব্যৱহাৰ কৰিব পাৰে</translation>
+<translation id="5265419033369521352">আপোনাক Fulldiveত সুৰক্ষিত কৰি ৰাখে আৰু আপুনি ছাইন ইন হৈ থকা সময়ত অন্য Fulldive এপ্‌সমূহত আপোনাৰ সুৰক্ষা উন্নত কৰিবলৈ ব্যৱহাৰ কৰিব পাৰে</translation>
 <translation id="6770602306803890733">আপোনাৰ লগতে ৱেবত থকা প্ৰত্যেকজনৰ বাবে সুৰক্ষা উন্নত কৰে</translation>
 <translation id="3690369331356918524">কোনো ডেটা উলংঘনৰ ফলত পাছৱৰ্ডসমূহ ফাদিল হ’লে আপোনাক সকীয়নি দিয়ে</translation>
-<translation id="4979281249641199724">URLসমূহ পৰীক্ষা কৰিবলৈ সুৰক্ষিত ব্ৰাউজিঙলৈ পঠিয়ায়। নতুন ভাবুকিবোৰ বিচাৰি পোৱাত সহায় কৰিবলৈ পৃষ্ঠাসমূহৰ এটা সৰু আর্হি, ডাউনল'ডসমূহ, এক্সটেনশ্বনৰ কার্যকলাপ আৰু ছিষ্টেমৰ তথ্যও পঠিয়ায়। আপুনি ছাইন ইন হৈ থকা অৱস্থাত আপোনাক সমগ্ৰ Gab AI Inc এপ্‌সমূহত সুৰক্ষা প্ৰদান কৰিবলৈ এই ডেটাখিনি অস্থায়ীভাৱে আপোনাৰ Gab AI Inc একাউণ্টৰ সৈতে লিংক কৰে।</translation>
+<translation id="4979281249641199724">URLসমূহ পৰীক্ষা কৰিবলৈ সুৰক্ষিত ব্ৰাউজিঙলৈ পঠিয়ায়। নতুন ভাবুকিবোৰ বিচাৰি পোৱাত সহায় কৰিবলৈ পৃষ্ঠাসমূহৰ এটা সৰু আর্হি, ডাউনল'ডসমূহ, এক্সটেনশ্বনৰ কার্যকলাপ আৰু ছিষ্টেমৰ তথ্যও পঠিয়ায়। আপুনি ছাইন ইন হৈ থকা অৱস্থাত আপোনাক সমগ্ৰ Fulldive এপ্‌সমূহত সুৰক্ষা প্ৰদান কৰিবলৈ এই ডেটাখিনি অস্থায়ীভাৱে আপোনাৰ Fulldive একাউণ্টৰ সৈতে লিংক কৰে।</translation>
 <translation id="1963976881984600709">মানক সুৰক্ষা</translation>
 <translation id="6882836635272038266">ক্ষতিকাৰক হিচাপে জনাজাত ৱেবছাইট, ডাউনল'ড আৰু এক্সটেনশ্বনসমূহৰ পৰা উন্নত সুৰক্ষা।</translation>
 <translation id="5561162485081632007">বিপজ্জনক ঘটনাবোৰ চিনাক্ত কৰে আৰু সেইবোৰ ঘটাৰ সময়ত আপোনাক সকীয়নি দিয়ে</translation>
 <translation id="7810992039564280750">Fulldiveত ষ্ট'ৰ কৰি ৰখা অসুৰক্ষিত ছাইটসমূহৰ এখন সূচীৰ সৈতে URLসমূহ পৰীক্ষা কৰে। যদি কোনোবা ছাইটে আপোনাৰ পাছৱর্ড চুৰি কৰিবলৈ চেষ্টা কৰে অথবা আপুনি কোনো ক্ষতিকাৰক ফাইল ডাউনল'ড কৰাৰ সময়ত Fulldiveএ পৃষ্ঠাৰ সমলৰ বিটসমূহকে ধৰি URLসমূহ সুৰক্ষিত ব্ৰাউজিঙলৈ পঠিয়াব পাৰে।</translation>
 <translation id="3847319713229060696">প্ৰত্যেকজন বাবে ৱেবত সুৰক্ষা উন্নত কৰাত সহায় কৰক</translation>
 <translation id="1984417487208496350">কোনো সুৰক্ষা নাই (চুপাৰিছ কৰা নহয়)</translation>
-<translation id="1295971429974142731">আপোনাক বিপজ্জনক ৱেবছাইট, ডাউনল’ড অথবা এক্সটেনশ্বনসমূহৰ পৰা সুৰক্ষা প্ৰদান নকৰে। Gmail আৰু Searchৰ দৰে অন্য Gab AI Inc সেৱাসমূহ, য’ত সুৰক্ষিত ব্ৰাউজিঙৰ সুবিধাটো উপলব্ধ, সেইবিলাকত আপুনি তথাপি এই সুবিধাটো পাব।</translation>
+<translation id="1295971429974142731">আপোনাক বিপজ্জনক ৱেবছাইট, ডাউনল’ড অথবা এক্সটেনশ্বনসমূহৰ পৰা সুৰক্ষা প্ৰদান নকৰে। Gmail আৰু Searchৰ দৰে অন্য Fulldive সেৱাসমূহ, য’ত সুৰক্ষিত ব্ৰাউজিঙৰ সুবিধাটো উপলব্ধ, সেইবিলাকত আপুনি তথাপি এই সুবিধাটো পাব।</translation>
 <translation id="6122831415929794347">সুৰক্ষিত ব্ৰাউজিং অফ কৰিবনে?</translation>
 <translation id="6410390304316730527">সুৰক্ষিত ব্ৰাউজিঙে আপোনাক এনে আক্ৰমণকাৰীসকলৰ পৰা সুৰক্ষা প্ৰদান কৰে, যিসকলে আপোনাৰ দ্বাৰা কিছুমান বিপজ্জনক কাম কৰাবলৈ চেষ্টা কৰিব পাৰে, যেনে কোনো ছফ্টৱেৰ ইনষ্টল কৰোৱা অথবা আপোনাৰ ব্যক্তিগত তথ্য (উদাহৰণস্বৰূপে, পাছৱর্ড, ফ’ন নম্বৰ অথবা ক্ৰেডিট কার্ড) ফাদিল কৰা। আপুনি যদি এইটো বন্ধ কৰি ৰাখে তেন্তে আপুনি অচিনাকী অথবা অখ্যাত ছাইটসমূহ ব্ৰাউজ কৰাৰ সময়ত সাবধান হওক।</translation>
 <translation id="8791534160414513928">আপোনাৰ ব্ৰাউজিং ট্ৰেফিকৰ জৰিয়তে "ট্ৰেক নকৰিব" বুলি অনুৰোধ পঠিয়াওক</translation>
@@ -4140,8 +4140,8 @@
 <translation id="1995916364271252349">ছাইটসমূহে কি তথ্য ব্যৱহাৰ কৰিব আৰু দেখুৱাব পাৰে সেয়া নিয়ন্ত্ৰণ কৰে (অৱস্থান, কেমেৰা, পপ-আপ আৰু বহুতো)</translation>
 <translation id="3320630259304269485">সুৰক্ষিত ব্ৰাউজিং (বিপজ্জনক ছাইটসমূহৰ পৰা সুৰক্ষা) আৰু অন্য সুৰক্ষা সম্পর্কীয় ছেটিংসমূহ</translation>
 <translation id="7536333565791380193">উচ্চখাপৰ সুৰক্ষা</translation>
-<translation id="8525226238722561998">Gab AI Incৰ সুৰক্ষা সম্পৰ্কীয় উন্নত সুবিধাৰ প্ৰ’গ্ৰাম</translation>
-<translation id="1229550669565092839">উদ্দেশ্য কৰি কৰা আক্ৰমণৰ বিপদাশংকা থকা যিকোনো লোকৰ ব্যক্তিগত Gab AI Inc একাউণ্টসমূহক ৰক্ষণাবেক্ষণ দিয়ে</translation>
+<translation id="8525226238722561998">Fulldiveৰ সুৰক্ষা সম্পৰ্কীয় উন্নত সুবিধাৰ প্ৰ’গ্ৰাম</translation>
+<translation id="1229550669565092839">উদ্দেশ্য কৰি কৰা আক্ৰমণৰ বিপদাশংকা থকা যিকোনো লোকৰ ব্যক্তিগত Fulldive একাউণ্টসমূহক ৰক্ষণাবেক্ষণ দিয়ে</translation>
 <translation id="1521442365706402292">প্ৰমাণপত্ৰ পৰিচালনা কৰক</translation>
 <translation id="7075625805486468288">HTTPS/SSL প্ৰমাণপত্ৰ আৰু ছেটিংসমূহ পৰিচালনা কৰক</translation>
 <translation id="6588043302623806746">সুৰক্ষিত DNS ব্যৱহাৰ কৰক</translation>
@@ -4414,8 +4414,8 @@
 <translation id="4590324241397107707">ডেটাবেছৰ সঞ্চয়াগাৰ</translation>
 <translation id="8016266267177410919">অস্থায়ী ষ্ট’ৰেজ</translation>
 <translation id="4175737294868205930">স্থিৰ ষ্ট’ৰেজ</translation>
-<translation id="8397843425685839889">আপুনি আৰু Gab AI Inc</translation>
-<translation id="8907706281008466056">Gab AI Inc প্ৰ’ফাইলৰ চিত্ৰ</translation>
+<translation id="8397843425685839889">আপুনি আৰু Fulldive</translation>
+<translation id="8907706281008466056">Fulldive প্ৰ’ফাইলৰ চিত্ৰ</translation>
 <translation id="2023167225947895179">পিনটো অনুমান কৰাত সহজ হ'ব পাৰে</translation>
 <translation id="5342091991439452114">পিনটোত অতি কমেও <ph name="MINIMUM"/>টা অংক থাকিব লাগিব</translation>
 <translation id="5252653240322147470">পিনটো <ph name="MAXIMUM"/>তকৈ কম অংকৰ হ’বই লাগিব</translation>
@@ -4429,26 +4429,26 @@
 <translation id="899676909165543803">আপোনাৰ কীব’ৰ্ডৰ একেবাৰে তলৰ সোঁফালৰ কীটো হৈছে ফিংগাৰপ্ৰিণ্ট ছেন্সৰ। যিকোনো এটা আঙুলিৰে এইটো লাহেকৈ স্পর্শ কৰক।</translation>
 <translation id="4535767533210902251">ফিংগাৰপ্ৰিণ্ট ছেন্সৰটো আপোনাৰ কীব’ৰ্ডৰ একেবাৰে ওপৰৰ সোঁফালৰ কী-ত আছে। যিকোনো এটা আঙুলিৰে এইটো লাহেকৈ স্পর্শ কৰক।</translation>
 <translation id="5449551289610225147">অমান্য পাছৱৰ্ড</translation>
-<translation id="4326270470840334364">এই একাউণ্টটো <ph name="DOMAIN"/>এ পৰিচালনা কৰে বাবে আপোনাৰ বুকমাৰ্ক, ব্ৰাউজিঙৰ ইতিহাস, পাছৱৰ্ড আৰু অন্য ছেটিংসমূহ এই ডিভাইচটোৰ পৰা মচা হ’ব। তথাপিও, আপোনাৰ ডেটাখিনি আপোনাৰ Gab AI Inc একাউণ্টত ষ্ট’ৰ হৈ থাকিব আৰু সেইখিনি <ph name="BEGIN_LINK"/>Gab AI Inc Dashboard<ph name="END_LINK"/>ত পৰিচালনা কৰিব পাৰি।</translation>
+<translation id="4326270470840334364">এই একাউণ্টটো <ph name="DOMAIN"/>এ পৰিচালনা কৰে বাবে আপোনাৰ বুকমাৰ্ক, ব্ৰাউজিঙৰ ইতিহাস, পাছৱৰ্ড আৰু অন্য ছেটিংসমূহ এই ডিভাইচটোৰ পৰা মচা হ’ব। তথাপিও, আপোনাৰ ডেটাখিনি আপোনাৰ Fulldive একাউণ্টত ষ্ট’ৰ হৈ থাকিব আৰু সেইখিনি <ph name="BEGIN_LINK"/>Fulldive Dashboard<ph name="END_LINK"/>ত পৰিচালনা কৰিব পাৰি।</translation>
 <translation id="6906406176003824042">প্ৰ’ফাইল সম্পাদনা কৰক</translation>
 <translation id="3699920817649120894">ছিংক আৰু ব্যক্তিগতকৰণ অফ কৰিবনে?</translation>
 <translation id="5643620609347735571">মচক আৰু অব্যাহত ৰাখক</translation>
 <translation id="5602765853043467355">এই ডিভাইচৰ পৰা বুকমার্ক, ইতিহাস, পাছৱর্ড আৰু অধিক তথ্য মচক</translation>
 <translation id="4089235344645910861">ছেটিংসমূহ ছেভ কৰা হ’ল। ছিংক কৰা আৰম্ভ হ’ল।</translation>
 <translation id="6739923123728562974">ডেস্কটপ শ্বৰ্টকাট দেখুৱাওক</translation>
-<translation id="2951604498031550705">আপোনাৰ বুকমাৰ্ক, ব্ৰাউজিঙৰ ইতিহাস, পাছৱর্ড আৰু অন্য ছেটিঙত কৰা সালসলনিসমূহ এতিয়া আৰু আপোনাৰ Gab AI Inc একাউণ্টত ছিংক কৰা নহ'ব। তথাপিও, আপোনাৰ ইতিমধ্যে থকা ডেটাখিনি আপোনাৰ Gab AI Inc একাউণ্টত ষ্ট'ৰ হৈ থাকিব আৰু সেইখিনি <ph name="BEGIN_LINK"/>Gab AI Inc Dashboard<ph name="END_LINK"/>ত পৰিচালনা কৰিব পাৰি।</translation>
-<translation id="3169352093514419465">এই কার্যয়ে আপোনাক নিজৰ Gab AI Inc একাউণ্টৰ পৰা ছাইন আউট কৰাব। আপোনাৰ বুকমাৰ্ক, ইতিহাস, পাছৱর্ড তথা অধিক সমল আৰু ছিংক কৰা নহয়।</translation>
+<translation id="2951604498031550705">আপোনাৰ বুকমাৰ্ক, ব্ৰাউজিঙৰ ইতিহাস, পাছৱর্ড আৰু অন্য ছেটিঙত কৰা সালসলনিসমূহ এতিয়া আৰু আপোনাৰ Fulldive একাউণ্টত ছিংক কৰা নহ'ব। তথাপিও, আপোনাৰ ইতিমধ্যে থকা ডেটাখিনি আপোনাৰ Fulldive একাউণ্টত ষ্ট'ৰ হৈ থাকিব আৰু সেইখিনি <ph name="BEGIN_LINK"/>Fulldive Dashboard<ph name="END_LINK"/>ত পৰিচালনা কৰিব পাৰি।</translation>
+<translation id="3169352093514419465">এই কার্যয়ে আপোনাক নিজৰ Fulldive একাউণ্টৰ পৰা ছাইন আউট কৰাব। আপোনাৰ বুকমাৰ্ক, ইতিহাস, পাছৱর্ড তথা অধিক সমল আৰু ছিংক কৰা নহয়।</translation>
 <translation id="8588866096426746242">প্ৰ’ফাইল পৰিসংখ্যা দেখুৱাওক</translation>
 <translation id="5535941515421698170">এই ডিভাইচটোৰ পৰা আপোনাৰ পূর্বে থকা ডেটাও মচি পেলাওক</translation>
 <translation id="2162155940152307086">আপুনি ছিংকৰ ছেটিংসমূহৰ পৰা আঁতৰি যোৱাৰ লগে লগে ছিংক আৰম্ভ হ‘ব</translation>
-<translation id="1125261911132334651">আপোনাৰ Gab AI Inc একাউণ্ট পৰিচালনা কৰক</translation>
+<translation id="1125261911132334651">আপোনাৰ Fulldive একাউণ্ট পৰিচালনা কৰক</translation>
 <translation id="5117427536932535467">থিম আৰু ৱালপেপাৰ</translation>
 <translation id="7257173066616499747">ৱাই-ফাই নেটৱৰ্কসমূহ</translation>
 <translation id="2120297377148151361">কার্যকলাপ আৰু ভাৱ-বিনিময়</translation>
 <translation id="5833397272224757657">ব্যক্তিগতকৰণ কৰিবলৈ আপুনি চোৱা ছাইটৰ সমল, ব্ৰাউজাৰৰ কার্যকলাপ আৰু ভাব-বিনিময়সমূহ ব্যৱহাৰ কৰে</translation>
-<translation id="8135094938656535588">Gab AI Inc Dashboardত ছিংক কৰা ডেটা পৰিচালনা কৰক</translation>
-<translation id="5958351589333270173">আপোনাৰ নিজৰ <ph name="BEGIN_LINK"/>ছিংক পাছফ্ৰেজ<ph name="END_LINK"/>ৰ সৈতে ছিংক কৰা ডেটা এনক্ৰিপ্ট কৰক। ইয়াত Gab AI Inc Payৰ পৰিশোধ পদ্ধতি আৰু ঠিকনাসমূহ অন্তর্ভুক্ত নহয়।</translation>
-<translation id="4817583816512767754">আপোনাৰ পাছফ্ৰেজ জনা কোনোবাইহে আপুনি এনক্ৰিপ্ট কৰি থোৱা ডেটা পঢ়িব পাৰে। পাছফ্ৰেজটো ক’লৈকো পঠিওৱা নহয় আৰু সেইটোGab AI Incত সঞ্চিত নাথাকে। আপুনি যদি নিজৰ পাছফ্ৰেজটো পাহৰে বা এই ছেটিংটো সলাব বিচাৰে, <ph name="BEGIN_LINK"/>ছিংক ৰিছেট<ph name="END_LINK"/> কৰিব লাগিব।</translation>
+<translation id="8135094938656535588">Fulldive Dashboardত ছিংক কৰা ডেটা পৰিচালনা কৰক</translation>
+<translation id="5958351589333270173">আপোনাৰ নিজৰ <ph name="BEGIN_LINK"/>ছিংক পাছফ্ৰেজ<ph name="END_LINK"/>ৰ সৈতে ছিংক কৰা ডেটা এনক্ৰিপ্ট কৰক। ইয়াত Fulldive Payৰ পৰিশোধ পদ্ধতি আৰু ঠিকনাসমূহ অন্তর্ভুক্ত নহয়।</translation>
+<translation id="4817583816512767754">আপোনাৰ পাছফ্ৰেজ জনা কোনোবাইহে আপুনি এনক্ৰিপ্ট কৰি থোৱা ডেটা পঢ়িব পাৰে। পাছফ্ৰেজটো ক’লৈকো পঠিওৱা নহয় আৰু সেইটোFulldiveত সঞ্চিত নাথাকে। আপুনি যদি নিজৰ পাছফ্ৰেজটো পাহৰে বা এই ছেটিংটো সলাব বিচাৰে, <ph name="BEGIN_LINK"/>ছিংক ৰিছেট<ph name="END_LINK"/> কৰিব লাগিব।</translation>
 <translation id="7441736921018636843">এই ছেটিং সলনি কৰিবলৈ, ছিংক পাছফ্ৰেজ আঁতৰবলৈ <ph name="BEGIN_LINK"/>ছিংক ৰিছেট কৰক<ph name="END_LINK"/></translation>
 <translation id="3873315167136380065">এইটো অন কৰিবলৈ, আপোনাৰ ছিংক পাছফ্ৰে’জ আঁতৰাবলৈ <ph name="BEGIN_LINK"/>ছিংক ৰিছেট<ph name="END_LINK"/> কৰক</translation>
 <translation id="6451689256222386810">আপুনি যদি নিজৰ পাছফ্রেজটো পাহৰিছে বা এই ছেটিংটো সলনি কৰিব বিচাৰিছে, <ph name="BEGIN_LINK"/>ছিংক কৰাটো ৰিছেট কৰক<ph name="END_LINK"/>।</translation>
@@ -4505,7 +4505,7 @@
 <translation id="8639047128869322042">ক্ষতিকাৰক ছফ্টৱেৰৰ সন্ধান কৰি থকা হৈছে...</translation>
 <translation id="2653033005692233957">সন্ধান কৰিব পৰা নগ'ল</translation>
 <translation id="655483977608336153">পুনৰ চেষ্টা কৰক</translation>
-<translation id="8282772389915299166">ক্লিনআপৰ প্ৰক্ৰিয়া চলাওঁতে আপোনাৰ কম্পিউটাৰত যিবোৰ ক্ষতিকাৰক ছফ্টৱেৰ, ছিষ্টেমৰ ছেটিং আৰু প্ৰক্ৰিয়া পোৱা গৈছিল সেইবোৰৰ বিষয়ে Gab AI Incক বিতংকৈ অভিযোগ দিয়ক</translation>
+<translation id="8282772389915299166">ক্লিনআপৰ প্ৰক্ৰিয়া চলাওঁতে আপোনাৰ কম্পিউটাৰত যিবোৰ ক্ষতিকাৰক ছফ্টৱেৰ, ছিষ্টেমৰ ছেটিং আৰু প্ৰক্ৰিয়া পোৱা গৈছিল সেইবোৰৰ বিষয়ে Fulldiveক বিতংকৈ অভিযোগ দিয়ক</translation>
 <translation id="6555810572223193255">বর্তমান মচিব নোৱাৰি</translation>
 <translation id="7117228822971127758">অনুগ্ৰহ কৰি পিছত পুনৰ চেষ্টা কৰক</translation>
 <translation id="443475966875174318">অমিল এপ্লিকেশ্বনসমূহ আপডে’ট কৰক বা আঁতৰাওক</translation>
@@ -4589,15 +4589,15 @@
 <translation id="161042844686301425">চাইয়ান</translation>
 <translation id="4115378294792113321">মেজেণ্টা</translation>
 <translation id="8438566539970814960">সন্ধান আৰু ব্ৰাউজিং উন্নত কৰক</translation>
-<translation id="284843628681142937">আপুনি চোৱা পৃষ্ঠাসমূহৰ URL Gab AI Incলৈ পঠিওৱা হয়</translation>
+<translation id="284843628681142937">আপুনি চোৱা পৃষ্ঠাসমূহৰ URL Fulldiveলৈ পঠিওৱা হয়</translation>
 <translation id="7704317875155739195">স্বয়ংক্রিয়ভাৱে সম্পূৰ্ণ হোৱা সন্ধান আৰু URL</translation>
 <translation id="2000419248597011803">আপোনাৰ ডিফ’ল্ট সন্ধান ইঞ্জিনলৈ ঠিকনা বাৰ আৰু সন্ধান বাকছৰ পৰা কিছুমান কুকি আৰু সন্ধান পঠিয়ায়</translation>
 <translation id="918192811481327695">Fulldiveৰ সুবিধা আৰু প্ৰদৰ্শন উন্নত কৰাত সহায় কৰক</translation>
-<translation id="9063160602596686558">Gab AI Incলৈ স্বয়ংক্ৰিয়ভাৱে ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্ব ৰিপ’ৰ্ট পঠিয়াই</translation>
-<translation id="4534361985432360439">আপুনি খুলিবলৈ চেষ্টা কৰি থকা পৃষ্ঠাটোৰ ৱেব ঠিকনাটো Gab AI Incলৈ পঠিয়ায়</translation>
-<translation id="3831436149286513437">Gab AI Inc Driveৰ সন্ধানৰ পৰামৰ্শ</translation>
+<translation id="9063160602596686558">Fulldiveলৈ স্বয়ংক্ৰিয়ভাৱে ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্ব ৰিপ’ৰ্ট পঠিয়াই</translation>
+<translation id="4534361985432360439">আপুনি খুলিবলৈ চেষ্টা কৰি থকা পৃষ্ঠাটোৰ ৱেব ঠিকনাটো Fulldiveলৈ পঠিয়ায়</translation>
+<translation id="3831436149286513437">Fulldive Driveৰ সন্ধানৰ পৰামৰ্শ</translation>
 <translation id="5244474230056479698"><ph name="EMAIL"/>ত ছিংক কৰি থকা হৈছে</translation>
-<translation id="9125982323641182972">Fulldiveত Gab AI Incৰ সেৱা পাওক</translation>
+<translation id="9125982323641182972">Fulldiveত Fulldiveৰ সেৱা পাওক</translation>
 <translation id="2537178555904266562">পাছৱৰ্ডসমূহ ছিংক কৰাত আসোঁৱাহ হৈছে</translation>
 <translation id="4314815835985389558">ছিংক পৰিচালনা কৰক</translation>
 <translation id="8931475688782629595">আপুনি যি ছিংক কৰে সেয়া পৰিচালনা কৰক</translation>
@@ -4606,18 +4606,18 @@
 <translation id="4570387585180509432">ঠিকনা, ফ’ন নম্বৰ আৰু বহুতো</translation>
 <translation id="3268451620468152448">খুলি ৰখা টেব</translation>
 <translation id="4684427112815847243">সকলো ছিংক কৰক</translation>
-<translation id="5428209950370661546">অন্য Gab AI Inc সেৱা</translation>
+<translation id="5428209950370661546">অন্য Fulldive সেৱা</translation>
 <translation id="7399045143794278225">ছিংক কাষ্ট’মাইজ কৰক</translation>
 <translation id="7044606776288350625">ছিংক ডেটা</translation>
 <translation id="9050666287014529139">পাছফ্ৰেজ</translation>
 <translation id="6596325263575161958">এনক্ৰিপশ্বনৰ বিকল্প</translation>
-<translation id="2459230470861708651">আপোনাৰ Gab AI Inc ব্যৱহাৰকাৰীৰ নাম আৰু পাছৱৰ্ড ব্যৱহাৰ কৰি আপোনাৰ ছিংক কৰা পাছৱৰ্ডসমূহ এনক্ৰিপ্ট কৰক।</translation>
+<translation id="2459230470861708651">আপোনাৰ Fulldive ব্যৱহাৰকাৰীৰ নাম আৰু পাছৱৰ্ড ব্যৱহাৰ কৰি আপোনাৰ ছিংক কৰা পাছৱৰ্ডসমূহ এনক্ৰিপ্ট কৰক।</translation>
 <translation id="1651008383952180276">আপুনি একেটা পাছফ্ৰেজ দুবাৰ দিবই লাগিব</translation>
 <translation id="988978206646512040">খালী পাছফ্ৰেজৰ অনুমতি নাই</translation>
 <translation id="2136476978468204130">আপুনি দিয়া পাছফ্রেজটো ভুল</translation>
 <translation id="7505421639213002314">Fulldive ছিংকৰ ডেটা</translation>
 <translation id="452750746583162491">আপোনাৰ ছিংক কৰা ডেটা পর্যালোচনা কৰক</translation>
-<translation id="7956662517480676674">ছিংক আৰু Gab AI Inc সেৱা</translation>
+<translation id="7956662517480676674">ছিংক আৰু Fulldive সেৱা</translation>
 <translation id="7772032839648071052">পাছফ্ৰেজ নিশ্চিত কৰক</translation>
 <translation id="7529411698175791732">আপোনাৰ ইণ্টাৰনেট সংযোগ পৰীক্ষা কৰক। তথাপিও যদি সমস্যাটো থাকেই, ছাইন আউট কৰি পুনৰ ছাইন ইন কৰি চাওক।</translation>
 <translation id="6406506848690869874">ছিংক কৰক</translation>
@@ -4751,8 +4751,8 @@
 <translation id="7835178595033117206">বুকমাৰ্ক আঁতৰোৱা হ’ল</translation>
 <translation id="742130257665691897">বুকমাৰ্ক মচা হ’ল</translation>
 <translation id="5468853758063275923">Fulldive হৈছে আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ</translation>
-<translation id="2950533317914339731">আপোনাৰ প্ৰিয় Gab AI Inc Appsত বুকমাৰ্ক যোগ কৰক</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">আপোনাৰ প্ৰিয় Fulldive Appsত বুকমাৰ্ক যোগ কৰক</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Maps</translation>
 <translation id="6709133671862442373">বাতৰি</translation>
@@ -4766,7 +4766,7 @@
 <translation id="7789963078219276159">আৰম্ভণিৰ পৃষ্ঠাৰ নেপথ্য <ph name="CATEGORY"/>লৈ সলনি কৰা হ’ল।</translation>
 <translation id="8771300903067484968">আৰম্ভণিৰ পৃষ্ঠাৰ নেপথ্য ডিফ’ল্ট নেপথ্যলৈ ৰিছেট কৰা হ’ল।</translation>
 <translation id="239760341987199724">Fulldiveক আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ হিচাপে ছেট কৰক</translation>
-<translation id="96037229054033864">আপুনি প্ৰতিবাৰে ব্ৰাউজ কৰোঁতে Gab AI Inc Search আৰু Gab AI Inc স্মাৰ্টৰ সহায় পাওক</translation>
+<translation id="96037229054033864">আপুনি প্ৰতিবাৰে ব্ৰাউজ কৰোঁতে Fulldive Search আৰু Fulldive স্মাৰ্টৰ সহায় পাওক</translation>
 <translation id="296137235951584143">আপোনাৰ ডিভাইচত Fulldiveৰ ছেট আপ কৰক</translation>
 <translation id="3982375475032951137">কেইটামান সহজ পদক্ষেপৰ দ্বাৰা আপোনাৰ ব্ৰাউজাৰ ছেট আপ কৰক</translation>
 <translation id="6972754398087986839">আৰম্ভ কৰক</translation>
@@ -4779,7 +4779,7 @@
 <translation id="1031362278801463162">পূৰ্বদৰ্শন ল’ড কৰি থকা হৈছে</translation>
 <translation id="6147020289383635445">প্ৰিণ্টাৰ পূর্বদর্শন কৰিব পৰা নগ'ল।</translation>
 <translation id="5877584842898320529">বাছনি কৰা প্ৰিণ্টাৰটো উপলব্ধ নহয় বা ভালদৰে ইনষ্টল কৰা হোৱা নাই। <ph name="BR"/> আপোনাৰ প্ৰিণ্টাৰটো পৰীক্ষা কৰক বা অন্য এটা প্ৰিণ্টাৰ বাছনি কৰি চাওক।</translation>
-<translation id="6645437135153136856">বাছনি কৰা Gab AI Inc Cloud Print ডিভাইচ এতিয়া আৰু সমৰ্থন কৰা নহয়। <ph name="BR"/> আপোনাৰ কম্পিউটাৰৰ ছেটিঙত গৈ প্রিণ্টাৰটো ছেট আপ কৰি চাওক।</translation>
+<translation id="6645437135153136856">বাছনি কৰা Fulldive Cloud Print ডিভাইচ এতিয়া আৰু সমৰ্থন কৰা নহয়। <ph name="BR"/> আপোনাৰ কম্পিউটাৰৰ ছেটিঙত গৈ প্রিণ্টাৰটো ছেট আপ কৰি চাওক।</translation>
 <translation id="5828633471261496623">প্ৰিণ্ট কৰি থকা হৈছে...</translation>
 <translation id="6295855836753816081">ছেভ কৰি থকা হৈছে...</translation>
 <translation id="3587482841069643663">সকলো</translation>
@@ -4799,7 +4799,7 @@
 <translation id="3706463572498736864">প্ৰতি পৃষ্ঠাত থকা শ্বীট</translation>
 <translation id="2249605167705922988">যেনে: ১—৫, ৮, ১১—১৩</translation>
 <translation id="5746169159649715125">PDF হিচাপে ছেভ কৰক</translation>
-<translation id="6532101170117367231">Gab AI Inc Driveত ছেভ কৰক</translation>
+<translation id="6532101170117367231">Fulldive Driveত ছেভ কৰক</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">কাগজৰ সংখ্যা</translation>
 <translation id="8813811964357448561">কাগজৰ সংখ্যা</translation>
@@ -4829,7 +4829,7 @@
 <translation id="6991665348624301627">কোনো গন্তব্যস্থান বাছনি কৰক</translation>
 <translation id="8800004011501252845">ইয়াৰ লক্ষ্যস্থান দেখুৱাই থকা হৈছে</translation>
 <translation id="8996526648899750015">একাউণ্ট যোগ কৰক...</translation>
-<translation id="6723354935081862304">Gab AI Inc Docs আৰু অন্য ক্লাউড গন্তব্যস্থানত প্ৰিণ্ট কৰক। Gab AI Inc Cloud Printত প্ৰিণ্ট কৰিবলৈ <ph name="BEGIN_LINK"/>ছাইন ইন কৰক<ph name="END_LINK"/>।</translation>
+<translation id="6723354935081862304">Fulldive Docs আৰু অন্য ক্লাউড গন্তব্যস্থানত প্ৰিণ্ট কৰক। Fulldive Cloud Printত প্ৰিণ্ট কৰিবলৈ <ph name="BEGIN_LINK"/>ছাইন ইন কৰক<ph name="END_LINK"/>।</translation>
 <translation id="2150139952286079145">লক্ষ্যস্থান সন্ধান কৰক</translation>
 <translation id="8569682776816196752">কোনো গন্তব্যস্থান নাই</translation>
 <translation id="7885253890047913815">শেহতীয়া গন্তব্যস্থানবোৰ</translation>

@@ -10,7 +10,7 @@
 <translation id="4847979153841887006">Fulldive-logo</translation>
 <translation id="7339898014177206373">Uusi ikkuna</translation>
 <translation id="5516268345616100622">Tehtävänhallinta - Fulldive</translation>
-<translation id="7918740962659365265">Auta parantamaan Fulldiveia lähettämällä kaatumisilmoitukset ja <ph name="UMA_LINK"/> Gab AI Inclle</translation>
+<translation id="7918740962659365265">Auta parantamaan Fulldiveia lähettämällä kaatumisilmoitukset ja <ph name="UMA_LINK"/> Fulldivelle</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive – <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – Kirjautuminen verkkoon – Fulldive</translation>
@@ -36,7 +36,7 @@
 <translation id="2585240446624043880">Fulldive ei voi lukea tietohakemistoaan ja kirjoittaa siihen:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Valinnainen: Lähetä Gab AI Inclle automaattisesti käyttötilastoja ja virheraportteja Fulldiven kehittämiseksi.</translation>
+<translation id="8417700129970341035">Valinnainen: Lähetä Fulldivelle automaattisesti käyttötilastoja ja virheraportteja Fulldiven kehittämiseksi.</translation>
 <translation id="1489465648257900784">Profiiliasi ei voi käyttää, sillä se on peräisin Fulldiven uudemmasta versiosta.
 
 Kaikki ominaisuudet eivät ehkä ole käytettävissä. Määritä jokin muu profiilihakemisto tai käytä Fulldiven uudempaa versiota.</translation>
@@ -45,7 +45,7 @@ Kaikki ominaisuudet eivät ehkä ole käytettävissä. Määritä jokin muu prof
 
 Fulldive ei voi palauttaa asetuksiasi.</translation>
 <translation id="1477146545787277177">Hups! Fulldive kaatui. Käynnistetäänkö uudelleen?</translation>
-<translation id="5785919770853225148">Fulldive tallentaa tämän salasanan Gab AI Inc -tilillesi. Sinun ei tarvitse muistaa sitä.</translation>
+<translation id="5785919770853225148">Fulldive tallentaa tämän salasanan Fulldive -tilillesi. Sinun ei tarvitse muistaa sitä.</translation>
 <translation id="8211837073776713955">Fulldive ilmoittaa sinulle, jos salasanasi ovat vaarantuneet</translation>
 <translation id="113959764510199339">Fulldive yrittää näyttää salasanat.</translation>
 <translation id="96347285368592620">Fulldive yrittää kopioida salasanoja.</translation>
@@ -86,7 +86,7 @@ Fulldive ei voi palauttaa asetuksiasi.</translation>
 <translation id="9183662282810237335">Suljetaanko Fulldive silti?</translation>
 <translation id="3834935463915107022">Suljetaanko Fulldive silti?</translation>
 <translation id="8797356639448065696">Fulldive on käynnissä taustalla</translation>
-<translation id="2339258256897053758">Gab AI Incn sovellusliittymän avaimet puuttuvat. Jotkin Fulldiven toiminnoista poistetaan käytöstä.</translation>
+<translation id="2339258256897053758">Fulldiven sovellusliittymän avaimet puuttuvat. Jotkin Fulldiven toiminnoista poistetaan käytöstä.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> on lisätty Fulldiveiin</translation>
 <translation id="8516116288943000095">Poista data myös Fulldiveista (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Piilota Fulldive-valikossa</translation>
@@ -110,8 +110,8 @@ Fulldive ei voi palauttaa asetuksiasi.</translation>
 <translation id="2925193881330501265">Fulldiveiin kirjautunut käyttäjä: <ph name="USER_EMAIL_ADDRESS"/>. Kirjaudu uudelleen sisään samalla tilillä.</translation>
 <translation id="847561904663814268">Joku on jo kirjautunut tällä tietokoneella Fulldiveiin käyttäjätilillä <ph name="ACCOUNT_EMAIL_LAST"/>. Luo uusi Fulldive-käyttäjä, jos haluat pitää tiedot erillään.</translation>
 <translation id="1853997773668795891">Linkitetäänkö Fulldive-tiedot tähän tiliin?</translation>
-<translation id="1326766910007115955">Olet kirjautumassa sisään hallinnoidulla tilillä ja antamassa tilin järjestelmänvalvojalle oikeuden hallita Fulldive-profiiliasi. Fulldive-tietosi, kuten sovelluksesi, kirjanmerkkisi, historiasi, salasanasi ja muut asetuksesi, yhdistetään pysyvästi käyttäjätiliin <ph name="USER_NAME"/>. Voit poistaa nämä tiedot Gab AI Inc-tilien Hallintapaneelissa, mutta et voi liittää tietoja toiseen tiliin. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Olet kirjautumassa sisään hallinnoidulla tilillä ja antamassa tilin järjestelmänvalvojalle oikeuden hallita Fulldive-profiiliasi. Fulldive-tietosi, kuten sovelluksesi, kirjanmerkkisi, historiasi, salasanasi ja muut asetuksesi, yhdistetään pysyvästi käyttäjätiliin <ph name="USER_NAME"/>. Voit poistaa nämä tiedot Gab AI Inc-tilien Hallintapaneelissa, mutta et voi liittää tietoja toiseen tiliin. Halutessasi voit luoda uuden profiilin, jolloin aiemmat Fulldive-tietosi pysyvät erillään. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Olet kirjautumassa sisään hallinnoidulla tilillä ja antamassa tilin järjestelmänvalvojalle oikeuden hallita Fulldive-profiiliasi. Fulldive-tietosi, kuten sovelluksesi, kirjanmerkkisi, historiasi, salasanasi ja muut asetuksesi, yhdistetään pysyvästi käyttäjätiliin <ph name="USER_NAME"/>. Voit poistaa nämä tiedot Fulldive-tilien Hallintapaneelissa, mutta et voi liittää tietoja toiseen tiliin. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Olet kirjautumassa sisään hallinnoidulla tilillä ja antamassa tilin järjestelmänvalvojalle oikeuden hallita Fulldive-profiiliasi. Fulldive-tietosi, kuten sovelluksesi, kirjanmerkkisi, historiasi, salasanasi ja muut asetuksesi, yhdistetään pysyvästi käyttäjätiliin <ph name="USER_NAME"/>. Voit poistaa nämä tiedot Fulldive-tilien Hallintapaneelissa, mutta et voi liittää tietoja toiseen tiliin. Halutessasi voit luoda uuden profiilin, jolloin aiemmat Fulldive-tietosi pysyvät erillään. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Järjestelmänvalvojasi on määrittänyt Fulldiven avaamaan toisen selaimen, jolla <ph name="TARGET_URL_HOSTNAME"/> avataan.</translation>
 <translation id="5380963249588143069">Järjestelmänvalvojasi on määrittänyt Fulldivein avaamaan osoitteen <ph name="TARGET_URL_HOSTNAME"/> selaimella <ph name="ALTERNATIVE_BROWSER_NAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> käytti aiemmin Fulldiveia</translation>
@@ -135,7 +135,7 @@ Fulldive ei voi palauttaa asetuksiasi.</translation>
 <translation id="239760341987199724">Aseta Fulldive oletusselaimeksi</translation>
 <translation id="669092380621816981">Käyttäjän selaustiedot poistetaan tältä laitteelta. Jos haluat palauttaa tiedot myöhemmin, kirjaudu Fulldiveiin käyttäjänä <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Fulldive on nyt entistä parempi</translation>
-<translation id="7192666605334070839">Nyt voit helpommin käyttää Fulldiveia Gab AI Inc-tililläsi ja jaetuilla tietokoneilla.</translation>
+<translation id="7192666605334070839">Nyt voit helpommin käyttää Fulldiveia Fulldive-tililläsi ja jaetuilla tietokoneilla.</translation>
 <translation id="4100716194836114130">Tämä on oma Fulldivesi</translation>
 <translation id="3511996232906761537">Tämä on verkkosi, kirjanmerkkiesi ja muun Fulldive-sisältösi koti.</translation>
 <translation id="7406627712452599344">Vierailijat voivat käyttää Fulldiveia jälkiä jättämättä.</translation>
@@ -156,9 +156,9 @@ Fulldive ei voi palauttaa asetuksiasi.</translation>
 <translation id="7272074097076644710">Fulldive Betan saapuvien yhteyksien sääntö mDNS-liikenteen sallimiseksi.</translation>
 <translation id="4991512282053949769">Fulldive Nightlyn saapuvien yhteyksien sääntö mDNS-liikenteen sallimiseksi.</translation>
 <translation id="3856641371299712128">Fulldive Kehittäjän saapuvien yhteyksien sääntö mDNS-liikenteen sallimiseksi.</translation>
-<translation id="8207657266087451193">Jos kuvalla ei ole hyödyllistä kuvausta, Fulldive yrittää luoda sellaisen. Kuvat lähetetään Gab AI Inclle kuvausten luomista varten. Voit milloin tahansa poistaa tämän käytöstä asetuksissa.</translation>
-<translation id="5499063270485366718">Jos kuvalla ei ole hyödyllistä kuvausta, Fulldive yrittää luoda sellaisen. Kuvat lähetetään Gab AI Inclle kuvausten luomista varten.</translation>
-<translation id="215320507915280336">Tämä käyttää samaa oikeinkirjoituksen tarkistusta kuin Gab AI Inc Haku. Selaimeen kirjoittamasi teksti lähetetään Gab AI Inclle. Voit muuttaa tätä milloin tahansa asetuksista.</translation>
+<translation id="8207657266087451193">Jos kuvalla ei ole hyödyllistä kuvausta, Fulldive yrittää luoda sellaisen. Kuvat lähetetään Fulldivelle kuvausten luomista varten. Voit milloin tahansa poistaa tämän käytöstä asetuksissa.</translation>
+<translation id="5499063270485366718">Jos kuvalla ei ole hyödyllistä kuvausta, Fulldive yrittää luoda sellaisen. Kuvat lähetetään Fulldivelle kuvausten luomista varten.</translation>
+<translation id="215320507915280336">Tämä käyttää samaa oikeinkirjoituksen tarkistusta kuin Fulldive Haku. Selaimeen kirjoittamasi teksti lähetetään Fulldivelle. Voit muuttaa tätä milloin tahansa asetuksista.</translation>
 <translation id="1807774211756215222">Avaa linkki uudella Fulldivein välilehdellä</translation>
 <translation id="4624945300945265642">Avaa linkki Fulldivein inco&amp;gnito-ikkunassa</translation>
 <translation id="7863882214613921971">Avaa linkki uudella Fulldivein välilehdellä</translation>
@@ -212,7 +212,7 @@ Fulldive ei voi palauttaa asetuksiasi.</translation>
 <translation id="7573289029918943991">Tarkista <ph name="LINK_BEGIN"/>Fulldive-käyttöjärjestelmän asetuksista<ph name="LINK_END"/>, onko laitteesi ajan tasalla</translation>
 <translation id="3395323229510056640">Ohjeita Fulldive-käyttöjärjestelmän käyttöön</translation>
 <translation id="38898988211673781">Tyhjennä evästeet ja sivustodata, kun suljet Fulldivein</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (kopioitu Fulldiveen)</translation>
+<translation id="5253815230176279256">Fulldive Pay (kopioitu Fulldiveen)</translation>
 <translation id="5468853758063275923">Fulldive on oletusselaimesi.</translation>
 <translation id="1775322105159056176">Fulldive ei voi tunnistaa tai asettaa oletusselainta.</translation>
 <translation id="6915252145142862992">Tämä on Fulldivein toissijainen asennus, eikä sitä voi asettaa oletusselaimeksi.</translation>
@@ -220,10 +220,10 @@ Fulldive ei voi palauttaa asetuksiasi.</translation>
     Fulldivein selainasetuksiin<ph name="LINK_END"/>.</translation>
 <translation id="5657226924540934362">Jos asetus ei näy tällä sivulla, siirry <ph name="LINK_BEGIN"/>
     Fulldive-käyttöjärjestelmän asetuksiin<ph name="LINK_END"/>.</translation>
-<translation id="2312399718665761438">Fulldive lähettää kenttiin kirjoittamasi tekstin Gab AI Inclle oikeinkirjoitusvirheiden korjaamiseksi.</translation>
+<translation id="2312399718665761438">Fulldive lähettää kenttiin kirjoittamasi tekstin Fulldivelle oikeinkirjoitusvirheiden korjaamiseksi.</translation>
 <translation id="8586264863973514035">Ota muutokset käyttöön käynnistämällä Fulldive uudelleen</translation>
 <translation id="7021823858304886493">Salli Fulldive-kirjautuminen</translation>
-<translation id="1649714546770135458">Poistamalla tämän käytöstä voit kirjautua Gab AI Inc -sivustoille, esim. Gmailiin, kirjautumatta Fulldiveen.</translation>
+<translation id="1649714546770135458">Poistamalla tämän käytöstä voit kirjautua Fulldive -sivustoille, esim. Gmailiin, kirjautumatta Fulldiveen.</translation>
 <translation id="2796517443093885402">Fulldive voi auttaa suojaamaan sinua tietosuojaloukkauksilta, haitallisilta laajennuksilta ja muilta</translation>
 <translation id="428541510811554120">Fulldive ei voi tarkistaa päivityksiä. Tarkista internetyhteytesi.</translation>
 <translation id="2633397153656205379">Fulldiveia ei päivitetty, vaan jotain meni pieleen. <ph name="BEGIN_LINK"/>Korjaa Fulldivein päivitysongelmat ja epäonnistuneet päivitykset<ph name="END_LINK"/>.</translation>

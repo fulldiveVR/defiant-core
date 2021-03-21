@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">Walang nakitang resulta ng paghahanap</translation>
 <translation id="8967866634928501045">Pindutin ang Alt Shift A upang ipakita</translation>
 <translation id="998747458861718449">Surii&amp;n</translation>
-<translation id="4428301600092811022">Kumuha ng mga paglalarawan ng larawan mula sa Gab AI Inc?</translation>
+<translation id="4428301600092811022">Kumuha ng mga paglalarawan ng larawan mula sa Fulldive?</translation>
 <translation id="741204030948306876">Oo, sali ako</translation>
 <translation id="780301667611848630">Hindi salamat</translation>
 <translation id="3943582379552582368">&amp;Bumalik</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">I-&amp;paste</translation>
 <translation id="2218515861914035131">I-paste bilang plain text</translation>
 <translation id="1017280919048282932">&amp;Idagdag sa talahulugan</translation>
-<translation id="1732768497619250086">Kumuha ng mga paglalarawan ng larawan mula sa Gab AI Inc</translation>
+<translation id="1732768497619250086">Kumuha ng mga paglalarawan ng larawan mula sa Fulldive</translation>
 <translation id="7561196759112975576">Palagi</translation>
 <translation id="2241634353105152135">Isang beses lang</translation>
 <translation id="3387614642886316601">Gumamit ng pinahusay na pang-check ng pagbabaybay</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">I-on</translation>
 <translation id="7658239707568436148">Kanselahin</translation>
 <translation id="8915370057835397490">Nilo-load ang suhestiyon</translation>
-<translation id="6191804255817539692">Wala nang mga suhestiyon mula sa Gab AI Inc</translation>
+<translation id="6191804255817539692">Wala nang mga suhestiyon mula sa Fulldive</translation>
 <translation id="1901303067676059328">Piliin ang &amp;lahat</translation>
 <translation id="3797900183766075808">&amp;Maghanap sa <ph name="SEARCH_ENGINE"/> ng “<ph name="SEARCH_TERMS"/>”</translation>
 <translation id="2721037002783622288">&amp;Maghanap sa <ph name="SEARCH_ENGINE"/> para sa larawan</translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">I-&amp;paste</translation>
 <translation id="1815083418640426271">I-paste Bilang Plain Text</translation>
 <translation id="4022426551683927403">&amp;Idagdag sa Diksyunaryo</translation>
-<translation id="6849870115130610913">Kumuha ng Mga Paglalarawan ng Larawan mula sa Gab AI Inc</translation>
+<translation id="6849870115130610913">Kumuha ng Mga Paglalarawan ng Larawan mula sa Fulldive</translation>
 <translation id="372722114124766626">Isang Beses Lang</translation>
 <translation id="4079140982534148664">Gumamit ng Pinahusay na Pang-check ng Pagbabaybay</translation>
 <translation id="7487141338393529395">I-on ang Pinahusay na Pang-check ng Pagbabaybay</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277">Naglalaman ang <ph name="FILE_NAME"/> ng sensitibong content.</translation>
 <translation id="1061745542578250838">Naglalaman ang <ph name="FILE_NAME"/> ng sensitibong content, at na-block ito.</translation>
 <translation id="6651823585377804376">May malware ang download.</translation>
-<translation id="6529597483902964581">Posibleng mapanganib ang <ph name="FILE_NAME"/>. Ipadala sa Advanced na Proteksyon ng Gab AI Inc para ma-scan?</translation>
+<translation id="6529597483902964581">Posibleng mapanganib ang <ph name="FILE_NAME"/>. Ipadala sa Advanced na Proteksyon ng Fulldive para ma-scan?</translation>
 <translation id="4907161631261076876">Hindi karaniwang dina-download ang app na ito at maaaring mapanganib.</translation>
 <translation id="6102043788063419338">Na-block ng Advanced Protection ang file na ito.</translation>
 <translation id="2773802008104670137">Maaaring maapektuhan ng ganitong uri ng file ang iyong computer.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Nakansela ang pag-download: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Tapos na ang pag-download: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Na-download na: <ph name="FILE_NAME"/>. Pindutin ang Shift+F6 para mag-cycle sa lugar ng bar ng mga download.</translation>
-<translation id="7033965027041115562">Posibleng mapanganib ang <ph name="FILE_NAME"/>. Ipadala sa Advanced na Proteksyon ng Gab AI Inc para ma-scan? Pindutin ang Shift+F6 para mag-cycle sa lugar ng bar ng mga download.</translation>
+<translation id="7033965027041115562">Posibleng mapanganib ang <ph name="FILE_NAME"/>. Ipadala sa Advanced na Proteksyon ng Fulldive para ma-scan? Pindutin ang Shift+F6 para mag-cycle sa lugar ng bar ng mga download.</translation>
 <translation id="2743387203779672305">Kopyahin sa clipboard</translation>
 <translation id="883911313571074303">I-annotate ang larawan</translation>
 <translation id="6291953229176937411">&amp;Show in Finder</translation>
@@ -447,7 +447,7 @@
 <translation id="9148058034647219655">Lumabas</translation>
 <translation id="7376221878517288144">Umalis pa rin sa private mode?</translation>
 <translation id="973473557718930265">Isara</translation>
-<translation id="7707599169365957976">Makakatulong ka sa pagpapahusay ng Ligtas na Pag-browse sa pamamagitan ng pagpapadala ng ilang impormasyon ng system at content ng page sa Gab AI Inc.</translation>
+<translation id="7707599169365957976">Makakatulong ka sa pagpapahusay ng Ligtas na Pag-browse sa pamamagitan ng pagpapadala ng ilang impormasyon ng system at content ng page sa Fulldive.</translation>
 <translation id="4923279099980110923">Oo, gusto kong makatulong</translation>
 <translation id="2316129865977710310">Hindi, salamat</translation>
 <translation id="9169931577761441333">Idagdag ang <ph name="APP_NAME"/> sa Home screen</translation>
@@ -830,7 +830,7 @@
 <translation id="1545775234664667895">Naka-install na temang "<ph name="THEME_NAME"/>"</translation>
 <translation id="2256115617011615191">I-restart ngayon</translation>
 <translation id="4545028762441890696">Upang muli itong i-enable, tanggapin ang mga bagong pahintulot:</translation>
-<translation id="3009487527589249344">Na-flag ng Gab AI Inc ang "<ph name="EXTENSION_NAME"/>" bilang nakakahamak at pinigilan ang pag-install</translation>
+<translation id="3009487527589249344">Na-flag ng Fulldive ang "<ph name="EXTENSION_NAME"/>" bilang nakakahamak at pinigilan ang pag-install</translation>
 <translation id="6790497603648687708">Naidagdag mula sa malayo ang <ph name="EXTENSION_NAME"/></translation>
 <translation id="1841705068325380214">Naka-disable ang <ph name="EXTENSION_NAME"/></translation>
 <translation id="595959584676692139">I-reload ang page para magamit ang extension na ito</translation>
@@ -970,7 +970,7 @@
 <translation id="3584169441612580296">Basahin at baguhin ang mga larawan, musika at iba pang media sa iyong computer</translation>
 <translation id="5457459357461771897">Basahin at i-delete ang mga larawan, musika at iba pang media sa iyong computer</translation>
 <translation id="3270965368676314374">Basahin, baguhin at i-delete ang mga larawan, musika at iba pang media sa iyong computer</translation>
-<translation id="1285484354230578868">Mag-imbak ng data sa iyong Gab AI Inc Drive account</translation>
+<translation id="1285484354230578868">Mag-imbak ng data sa iyong Fulldive Drive account</translation>
 <translation id="378312418865624974">Magbasa ng natatanging identifier para sa computer na ito</translation>
 <translation id="5094721898978802975">Makipag-ugnay sa mga nakikipagtulungang native na application</translation>
 <translation id="4876895919560854374">I-lock at i-unlock ang screen</translation>
@@ -1181,7 +1181,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="8756969031206844760">I-update ang password?</translation>
 <translation id="8230134520748321204">I-save ang password para sa <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">I-update ang password para sa <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Sine-save ang mga password sa iyong Gab AI Inc Account para magamit mo ang mga ito sa anumang device</translation>
+<translation id="8284000761603848448">Sine-save ang mga password sa iyong Fulldive Account para magamit mo ang mga ito sa anumang device</translation>
 <translation id="8286036467436129157">Mag-sign In</translation>
 <translation id="8009225694047762179">Pamahalaan ang Mga Password</translation>
 <translation id="3950820424414687140">Mag-sign in</translation>
@@ -1189,10 +1189,10 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="328571385944182268">I-save ang iyong mga password?</translation>
 <translation id="3753033997400164841">I-store nang isang beses. Gamitin kahit saan</translation>
 <translation id="1703331064825191675">Huwag nang mag-alala sa iyong mga password</translation>
-<translation id="2341030170677284705">I-save ang mga password nang secure sa iyong Gab AI Inc Account, at hindi mo na kakailanganin pang i-type muli ang mga ito</translation>
-<translation id="3913985461352963178">I-access ang iyong mga password kapag naka-sign in ka sa Gab AI Inc Account mo</translation>
-<translation id="4851124464356820177">Para mag-save ng mga password sa iyong Gab AI Inc Account, mag-sign in at i-on ang pag-sync.</translation>
-<translation id="3229869963989850535">Para mag-save ng mga password sa iyong Gab AI Inc Account, i-on ang pag-sync.</translation>
+<translation id="2341030170677284705">I-save ang mga password nang secure sa iyong Fulldive Account, at hindi mo na kakailanganin pang i-type muli ang mga ito</translation>
+<translation id="3913985461352963178">I-access ang iyong mga password kapag naka-sign in ka sa Fulldive Account mo</translation>
+<translation id="4851124464356820177">Para mag-save ng mga password sa iyong Fulldive Account, mag-sign in at i-on ang pag-sync.</translation>
+<translation id="3229869963989850535">Para mag-save ng mga password sa iyong Fulldive Account, i-on ang pag-sync.</translation>
 <translation id="1056466516655540509">Na-update <ph name="MINUTES"/> (na) minuto ang nakalipas</translation>
 <translation id="8743864605301774756">Na-update 1 oras ang nakalipas</translation>
 <translation id="7363117941401515667">Na-update <ph name="HOURS"/> (na) oras ang nakalipas</translation>
@@ -1296,9 +1296,9 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="1246905108078336582">Alisin ang suhestyon mula sa clipboard?</translation>
 <translation id="825238165904109940">Palaging Ipakita ang Mga Buong URL</translation>
 <translation id="3416468988018290825">Palaging ipakita ang mga buong URL</translation>
-<translation id="2129873093718581193">Hanapin sa Gab AI Inc o i-type ang URL</translation>
-<translation id="6363797201514053536">Maghanap sa Gab AI Inc o mag-type ng URL</translation>
-<translation id="4888839742663123585">Maghanap sa Gab AI Inc</translation>
+<translation id="2129873093718581193">Hanapin sa Fulldive o i-type ang URL</translation>
+<translation id="6363797201514053536">Maghanap sa Fulldive o mag-type ng URL</translation>
+<translation id="4888839742663123585">Maghanap sa Fulldive</translation>
 <translation id="6078323886959318429">Magdagdag ng shortcut</translation>
 <translation id="6324916366299863871">I-edit ang shortcut</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, at *.png</translation>
@@ -1482,35 +1482,35 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6798578729981748444">Upang tapusin ang pag-import, isara ang lahat ng Firefox window.</translation>
 <translation id="6374469231428023295">Subukang Muli</translation>
 <translation id="8725066075913043281">Subukang muli</translation>
-<translation id="4196805003686694274">Magpadala ng Feedback sa Gab AI Inc</translation>
+<translation id="4196805003686694274">Magpadala ng Feedback sa Fulldive</translation>
 <translation id="3424969259347320884">Ilarawan Ang Ginagawa Mo Noong Nag-crash Ang Tab</translation>
-<translation id="1892630320532151038">Magpadala ng feedback sa Gab AI Inc</translation>
+<translation id="1892630320532151038">Magpadala ng feedback sa Fulldive</translation>
 <translation id="2428510569851653187">Ilarawan ang ginagawa mo noong nag-crash ang tab</translation>
 <translation id="5659593005791499971">Email</translation>
 <translation id="2982970937345031">Mag-ulat nang anonymous</translation>
 <translation id="6076448957780543068">Isama ang screenshot na ito</translation>
 <translation id="2865919525181940183">Screenshot ng mga programang kasalukuyang nasa screen</translation>
 <translation id="7052237160939977163">Ipadala ang data ng pagte-trace sa pagganap</translation>
-<translation id="5526928694260255286">Mag-attach ng <ph name="BEGIN_LINK"/>Mga Log ng Bluetooth<ph name="END_LINK"/> (Gab AI Inc internal)</translation>
+<translation id="5526928694260255286">Mag-attach ng <ph name="BEGIN_LINK"/>Mga Log ng Bluetooth<ph name="END_LINK"/> (Fulldive internal)</translation>
 <translation id="3047644958362961983">Nakakatulong sa amin ang impormasyong ito na maunawaan nang mas mabuti ang iyong isyu sa Assistant. Iso-store ito sa loob ng hanggang 90 araw at paghihigpitan ang access sa mga naaangkop na engineering at feedback team.</translation>
-<translation id="8545590844135745781">Para mas mahusay na ma-diagnose ang mga isyu sa Bluetooth, maaaring magsama ang mga Gab AI Incr ng karagdagang mga log ng Bluetooth sa kanilang mga ulat ng feedback. Kapag naka-check ang opsyong ito, maisasama sa iyong ulat ang mga log ng btsnoop at HCI mula sa kasalukuyan mong session, na nalinis para maalis ang lahat ng PII na maaaring alisin. Paghihigpitan ang access sa mga log na ito sa mga manager ng grupo ng produkto ng Fulldive OS sa Listnr. Ipu-purge ang mga log pagkatapos ng 90 araw.</translation>
+<translation id="8545590844135745781">Para mas mahusay na ma-diagnose ang mga isyu sa Bluetooth, maaaring magsama ang mga Fulldiver ng karagdagang mga log ng Bluetooth sa kanilang mga ulat ng feedback. Kapag naka-check ang opsyong ito, maisasama sa iyong ulat ang mga log ng btsnoop at HCI mula sa kasalukuyan mong session, na nalinis para maalis ang lahat ng PII na maaaring alisin. Paghihigpitan ang access sa mga log na ito sa mga manager ng grupo ng produkto ng Fulldive OS sa Listnr. Ipu-purge ang mga log pagkatapos ng 90 araw.</translation>
 <translation id="4206323443866416204">Ulat ng Feedback</translation>
 <translation id="3681311097828166361">Salamat sa iyong feedback. Offline ka na ngayon, at ipapadala ang iyong ulat sa ibang pagkakataon.</translation>
 <translation id="8713570323158206935">Ipadala ang <ph name="BEGIN_LINK1"/>impormasyon ng system<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962">Ipadala ang <ph name="BEGIN_LINK1"/>impormasyon ng system<ph name="END_LINK1"/> at <ph name="BEGIN_LINK2"/>mga sukatan<ph name="END_LINK2"/></translation>
 <translation id="6270770586500173387">Ipadala ang <ph name="BEGIN_LINK1"/>impormasyon ng system at app<ph name="END_LINK1"/>, at <ph name="BEGIN_LINK2"/>mga sukatan<ph name="END_LINK2"/></translation>
 <translation id="3894123633473837029">Isama ang kamakailang history ng Assistant sa pamamagitan ng Sherlog. Puwedeng kasama rito ang iyong pagkakakilanlan, lokasyon, at impormasyon sa pag-debug. <ph name="BEGIN_LINK"/>Matuto pa<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">Ipapadala ang file sa Gab AI Inc para sa pagde-debug</translation>
+<translation id="8329196515830093443">Ipapadala ang file sa Fulldive para sa pagde-debug</translation>
 <translation id="8227119283605456246">Mag-attach ng file</translation>
 <translation id="5367091008316207019">Binabasa ang file..</translation>
 <translation id="2554553592469060349">Masyadong malaki ang napiling file (max na laki: 3mb).</translation>
 <translation id="4690091457710545971">&lt;Apat na file na ginawa ng Intel Wi-Fi firmware: csr.lst, fh_regs.lst, radio_reg.lst, monitor.lst.sysmon.  Ang unang tatlo ay mga binary file na may mga dump sa pagpaparehistro at iginiit ng Intel na walang personal na impormasyon o impormasyong nakakapagpakilala sa device.  Ang panghuling file ay isang execution trace mula sa Intel firmware; tinanggalan ito ng anumang personal na impormasyon o impormasyong nakakapagpakilala sa device, ngunit masyado itong malaki para maipakita rito.  Nagawa ang mga file na ito bilang tugon sa mga kamakailang naging problema sa Wi-Fi sa iyong device, at ibabahagi ito sa Intel para makatulong sa pag-troubleshoot ng mga problemang ito.&gt;</translation>
-<translation id="6972420083546794501">Pumunta sa <ph name="BEGIN_LINK1"/>page ng Legal na Tulong<ph name="END_LINK1"/> para humiling ng mga pagbabago sa content nang may mga legal na dahilan.  Maaaring ipadala sa Gab AI Inc ang ilang impormasyon ng account at system.  Gagamitin namin ang impormasyong ibibigay mo sa amin para makatulong sa pagtugon ng mga teknikal na isyu at para mapahusay ang aming mga serbisyo, na napapailalim sa aming <ph name="BEGIN_LINK2"/>Patakaran sa Privacy<ph name="END_LINK2"/> at <ph name="BEGIN_LINK3"/>Mga Tuntunin ng Serbisyo<ph name="END_LINK3"/>.</translation>
+<translation id="6972420083546794501">Pumunta sa <ph name="BEGIN_LINK1"/>page ng Legal na Tulong<ph name="END_LINK1"/> para humiling ng mga pagbabago sa content nang may mga legal na dahilan.  Maaaring ipadala sa Fulldive ang ilang impormasyon ng account at system.  Gagamitin namin ang impormasyong ibibigay mo sa amin para makatulong sa pagtugon ng mga teknikal na isyu at para mapahusay ang aming mga serbisyo, na napapailalim sa aming <ph name="BEGIN_LINK2"/>Patakaran sa Privacy<ph name="END_LINK2"/> at <ph name="BEGIN_LINK3"/>Mga Tuntunin ng Serbisyo<ph name="END_LINK3"/>.</translation>
 <translation id="7915471803647590281">Mangyaring sabihin sa amin kung ano ang nangyayari bago ang pagpapadala ng feedback.</translation>
 <translation id="6885771755599377173">Preview ng Impormasyon ng System</translation>
 <translation id="1016566241875885511">Karagdagang impormasyon (opsyonal)</translation>
 <translation id="8026334261755873520">I-clear ang data ng pagba-browse</translation>
-<translation id="4718442817388594217">Inalis sa Fulldive at sa mga naka-sync na device ang napiling data. Maaaring may iba pang anyo ng history ng pag-browse ang iyong Gab AI Inc Account tulad ng mga paghahanap at aktibidad mula sa iba pang serbisyo ng Gab AI Inc sa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="4718442817388594217">Inalis sa Fulldive at sa mga naka-sync na device ang napiling data. Maaaring may iba pang anyo ng history ng pag-browse ang iyong Fulldive Account tulad ng mga paghahanap at aktibidad mula sa iba pang serbisyo ng Fulldive sa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7814200940910057384">Na-clear ang data ng Fulldive</translation>
 <translation id="7346909386216857016">Ok, nakuha ko</translation>
 <translation id="8493236660459102203">Mikropono:</translation>
@@ -1533,7 +1533,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="284805635805850872">Alisin ang mapaminsalang software?</translation>
 <translation id="489985760463306091">Upang tapusin ang pag-aalis ng mapaminsalang software, i-restart ang iyong computer</translation>
 <translation id="7598466960084663009">I-restart ang computer</translation>
-<translation id="2819091349626575960">Iulat ang mga detalye sa Gab AI Inc</translation>
+<translation id="2819091349626575960">Iulat ang mga detalye sa Fulldive</translation>
 <translation id="4099060993766194518">I-restore ang default na search engine?</translation>
 <translation id="138784436342154190">I-restore ang default na page sa pagsisimula?</translation>
 <translation id="5086874064903147617">I-restore ang default na homepage?</translation>
@@ -1643,10 +1643,10 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="3693415264595406141">Password:</translation>
 <translation id="9111102763498581341">I-unlock</translation>
 <translation id="2190355936436201913">(walang laman)</translation>
-<translation id="9079153198295609735">Awtomatikong ipadala ang mga istatistika ng paggamit at mga ulat ng pag-crash sa Gab AI Inc</translation>
+<translation id="9079153198295609735">Awtomatikong ipadala ang mga istatistika ng paggamit at mga ulat ng pag-crash sa Fulldive</translation>
 <translation id="7136984461011502314">Maligayang Pagdating sa <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690">Ang <ph name="PRODUCT_NAME"/> ay handa nang kumpletuhin ang iyong pag-install</translation>
-<translation id="4711067597921221305">Tulungan ang <ph name="PRODUCT_NAME"/> na maging mas mahusay sa pamamagitan ng awtomatikong pagpapadala ng mga istatistika ng paggamit at mga crash report sa Gab AI Inc</translation>
+<translation id="4711067597921221305">Tulungan ang <ph name="PRODUCT_NAME"/> na maging mas mahusay sa pamamagitan ng awtomatikong pagpapadala ng mga istatistika ng paggamit at mga crash report sa Fulldive</translation>
 <translation id="5972826969634861500">Simulan ang <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Tulungan ang aming mga engineer na siyasatin at ayusin ang pag-crash na ito. Maglista ng mga eksaktong hakbang kung maaari. Walang detalye ang masasayang!</translation>
 <translation id="5418694430960033386">Naubusan ng memorya ang Fulldive o winakasan ang proseso para sa webpage dahil sa ilang kadahilanan. Upang magpatuloy, mag-reload o pumunta sa isa pang pahina.</translation>
@@ -1659,7 +1659,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Platform</translation>
 <translation id="7022562585984256452">Naitakda na ang iyong home page.</translation>
-<translation id="8069615408251337349">Gab AI Inc Cloud Print</translation>
+<translation id="8069615408251337349">Fulldive Cloud Print</translation>
 <translation id="4973307593867026061">Magdagdag ng mga printer</translation>
 <translation id="9052208328806230490">Inirehistro mo ang iyong mga printer sa <ph name="CLOUD_PRINT_NAME"/> gamit ang account na <ph name="EMAIL"/></translation>
 <translation id="3792890930871100565">Idiskonekta ang mga printer</translation>
@@ -1693,7 +1693,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="7063129466199351735">Kasalukuyang pinoproseso ang mga shortcut...</translation>
 <translation id="8987927404178983737">Buwan</translation>
 <translation id="6015796118275082299">Taon</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Gumamit ng system title bar at mga hangganan</translation>
 <translation id="3293644607209440645">Ipadala ang page na ito</translation>
 <translation id="1521774566618522728">Aktibo ngayong araw</translation>
@@ -1747,7 +1747,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="8930351635855238750">Magkakabisa ang mga bagong setting ng cookie pagkatapos i-reload ang page</translation>
 <translation id="2568774940984945469">Infobar Container</translation>
 <translation id="7282992757463864530">Infobar</translation>
-<translation id="1805077115206898822">Isi-sync ang iyong mga bookmark, kasaysayan, at iba pang mga setting sa iyong Gab AI Inc Account.</translation>
+<translation id="1805077115206898822">Isi-sync ang iyong mga bookmark, kasaysayan, at iba pang mga setting sa iyong Fulldive Account.</translation>
 <translation id="1974060860693918893">Advanced</translation>
 <translation id="2445484935443597917">Gumawa ng Bagong Profile</translation>
 <translation id="2606246518223360146">I-link ang Data</translation>
@@ -1834,7 +1834,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6387674443318562538">I-split nang Patayo</translation>
 <translation id="1231733316453485619">I-on ang pag-sync?</translation>
 <translation id="4736292055110123391">I-sync ang iyong mga bookmark, password, history, at higit pa sa lahat ng device mo</translation>
-<translation id="5736731321935944068">Maaaring gamitin ng Gab AI Inc ang iyong history para i-personalize ang Search, mga ad, at iba pang serbisyo ng Gab AI Inc</translation>
+<translation id="5736731321935944068">Maaaring gamitin ng Fulldive ang iyong history para i-personalize ang Search, mga ad, at iba pang serbisyo ng Fulldive</translation>
 <translation id="4201546031411513170">Mapipili mo kung ano ang isi-sync anumang oras sa mga setting.</translation>
 <translation id="2497852260688568942">Na-disable ng iyong administrator ang pag-sync</translation>
 <translation id="562935524653278697">Na-disable ng administrator mo ang pag-sync ng iyong mga bookmark, history, password at iba pang mga setting.</translation>
@@ -1913,10 +1913,10 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6198102561359457428">Mag-sign out pagkatapos ay mag-sign in muli...</translation>
 <translation id="4634771451598206121">Muling mag-sign in...</translation>
 <translation id="7117247127439884114">Muling Mag-sign in...</translation>
-<translation id="4251909665067750757">Mag-sign in upang makuha ang iyong mga bookmark, history, password at iba pang mga setting sa lahat ng iyong device. Awtomatiko ka ring masa-sign in sa iyong mga serbisyo ng Gab AI Inc.</translation>
+<translation id="4251909665067750757">Mag-sign in upang makuha ang iyong mga bookmark, history, password at iba pang mga setting sa lahat ng iyong device. Awtomatiko ka ring masa-sign in sa iyong mga serbisyo ng Fulldive.</translation>
 <translation id="2749756011735116528">Mag-sign in sa <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Na-disable ng iyong administrator ang pag-sync.</translation>
-<translation id="5462539695964427820">Inihinto ang pag-sync sa pamamagitan ng Gab AI Inc Dashboard.</translation>
+<translation id="5462539695964427820">Inihinto ang pag-sync sa pamamagitan ng Fulldive Dashboard.</translation>
 <translation id="8805140816472474147">Kumpirmahin ang mga setting ng pag-sync upang simulan ang pag-sync.</translation>
 <translation id="5771816112378578655">Kasalukuyang Nag-se-setup...</translation>
 <translation id="3492788708641132712">Hindi gumagana ang pag-sync. Subukang mag-sign in muli.</translation>
@@ -1930,16 +1930,16 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="1877520246462554164">Hindi nakuha ang token sa pag-authenticate. Mag-sign out at muling mag-sign in upang subukang muli.</translation>
 <translation id="9100765901046053179">Advanced na mga setting</translation>
 <translation id="2731700343119398978">Mangyaring maghintay...</translation>
-<translation id="7218743184834293955">Ine-encrypt ang data gamit ang iyong passphrase sa pag-sync. Hindi kasama rito ang mga paraan ng pagbabayad at address mula sa Gab AI Inc Pay.</translation>
+<translation id="7218743184834293955">Ine-encrypt ang data gamit ang iyong passphrase sa pag-sync. Hindi kasama rito ang mga paraan ng pagbabayad at address mula sa Fulldive Pay.</translation>
 <translation id="7158251077901880179">Na-encrypt ang data gamit ang iyong passphrase sa pag-sync noong
-          <ph name="TIME"/>. Hindi kasama rito ang mga paraan ng pagbabayad at address mula sa Gab AI Inc Pay.</translation>
-<translation id="1171389789873508468">Na-encrypt ang data gamit ang iyong password sa Gab AI Inc simula noong
-          <ph name="TIME"/>. Hindi kasama rito ang mga paraan ng pagbabayad at address mula sa Gab AI Inc Pay.</translation>
+          <ph name="TIME"/>. Hindi kasama rito ang mga paraan ng pagbabayad at address mula sa Fulldive Pay.</translation>
+<translation id="1171389789873508468">Na-encrypt ang data gamit ang iyong password sa Fulldive simula noong
+          <ph name="TIME"/>. Hindi kasama rito ang mga paraan ng pagbabayad at address mula sa Fulldive Pay.</translation>
 <translation id="2562743677925229011">Hindi naka-sign in sa <ph name="SHORT_PRODUCT_NAME"/></translation>
 <translation id="4027804175521224372">(Hindi ka nakakakuha—<ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">mag-sign in</translation>
 <translation id="237828693408258535">I-translate ang page na ito?</translation>
-<translation id="4613765529964435709">Gusto mo bang i-translate ng Gab AI Inc ang page na ito mula sa <ph name="SOURCE_LANGUAGE"/> patungo sa <ph name="TARGET_LANGUAGE"/>?</translation>
+<translation id="4613765529964435709">Gusto mo bang i-translate ng Fulldive ang page na ito mula sa <ph name="SOURCE_LANGUAGE"/> patungo sa <ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="5990386583461751448">Naisalin</translation>
 <translation id="5659833766619490117">Hindi maisalin ang page na ito</translation>
 <translation id="969096075394517431">Palitan ang mga wika</translation>
@@ -2118,7 +2118,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6309510305002439352">Naka-off ang mikropono</translation>
 <translation id="1322046419516468189">Tingnan at pamahalaan ang mga naka-save na password sa iyong <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Na-save ang password. Tingnan at pamahalaan ang mga naka-save na password sa iyong <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Gab AI Inc Account</translation>
+<translation id="5713644099811900409">Fulldive Account</translation>
 <translation id="3785727820640310185">Mga naka-save na password para sa site na ito</translation>
 <translation id="3404065873681873169">Walang naka-save na password para sa site na ito</translation>
 <translation id="8470513973197838199">Mga naka-save na password para sa <ph name="ORIGIN"/></translation>
@@ -2231,7 +2231,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{Screen #}one{Screen #}other{Screen #}}</translation>
 <translation id="839736845446313156">Magparehistro</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{Bagong printer sa iyong network}one{Mga bagong printer sa iyong network}other{Mga bagong printer sa iyong network}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Idagdag ang printer sa Gab AI Inc Cloud Print nang sa gayon ay makakapag-print ka kahit saan.}one{Idagdag ang # printer sa Gab AI Inc Cloud Print nang sa gayon ay makakapag-print ka kahit saan.}other{Idagdag ang # na printer sa Gab AI Inc Cloud Print nang sa gayon ay makakapag-print ka kahit saan.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Idagdag ang printer sa Fulldive Cloud Print nang sa gayon ay makakapag-print ka kahit saan.}one{Idagdag ang # printer sa Fulldive Cloud Print nang sa gayon ay makakapag-print ka kahit saan.}other{Idagdag ang # na printer sa Fulldive Cloud Print nang sa gayon ay makakapag-print ka kahit saan.}}</translation>
 <translation id="409579654357498729">Idagdag sa Cloud Print</translation>
 <translation id="4628757576491864469">Mga Device</translation>
 <translation id="6915804003454593391">User:</translation>
@@ -2241,8 +2241,8 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="1895934970388272448">Dapat mong kumpirmahin ang pagpaparehistro sa iyong printer upang tapusin ang prosesong ito - tingnan ito ngayon.</translation>
 <translation id="551752069230578406">Idinaragdag ang printer sa iyong account - maaari itong tumagal ng ilang sandali...</translation>
 <translation id="2384436799579181135">Nagka-error. Pakisuri ang iyong printer at subukang muli.</translation>
-<translation id="1327074568633507428">Printer sa Gab AI Inc Cloud Print</translation>
-<translation id="6782994146626179935">Device sa Mga Gab AI Inc Cloud Device</translation>
+<translation id="1327074568633507428">Printer sa Fulldive Cloud Print</translation>
+<translation id="6782994146626179935">Device sa Mga Fulldive Cloud Device</translation>
 <translation id="7140928199327930795">Walang ibang available na mga device.</translation>
 <translation id="8213577208796878755">Isang iba pang available na device.</translation>
 <translation id="1495486559005647033"><ph name="NUM_PRINTERS"/> (na) iba pang available na device.</translation>
@@ -2258,7 +2258,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="715118844758971915">Mga classic na printer</translation>
 <translation id="4263757076580287579">Nakansela ang pagpaparehistro ng printer.</translation>
 <translation id="8152091997436726702">Nag-time out ang pagpaparehistro sa printer. Upang irehistro ang isang printer, kailangan mong kumpirmahin ang pagpaparehistro sa printer.</translation>
-<translation id="2624930408905606513"><ph name="BEGIN_LINK_HELP"/>Ipapadala sa Gab AI Inc<ph name="END_LINK_HELP"/> ang mga dokumento para ihanda ang mga ito sa pag-print. Tingnan, i-edit, at pamahalaan ang iyong mga printer at history ng printer sa <ph name="BEGIN_LINK_DASHBOARD"/>dashboard ng Gab AI Inc Cloud Print<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513"><ph name="BEGIN_LINK_HELP"/>Ipapadala sa Fulldive<ph name="END_LINK_HELP"/> ang mga dokumento para ihanda ang mga ito sa pag-print. Tingnan, i-edit, at pamahalaan ang iyong mga printer at history ng printer sa <ph name="BEGIN_LINK_DASHBOARD"/>dashboard ng Fulldive Cloud Print<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">Ginagamit ng tab na ito ang iyong camera o mikropono.</translation>
 <translation id="3578594933904494462">Ibinabahagi ang nilalaman ng tab na ito.</translation>
 <translation id="4449996769074858870">Nagpe-play ng audio ang tab na ito.</translation>
@@ -2385,14 +2385,14 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="7055152154916055070">Na-block ang pag-redirect:</translation>
 <translation id="6777817260680419853">Na-block ang pag-redirect</translation>
 <translation id="694592694773692225">Na-block ang pag-redirect sa page na ito.</translation>
-<translation id="8945142681652245463">Mag-browse nang mabilis gamit ang Gab AI Inc Fulldive</translation>
-<translation id="2618024864038703735">Mag-browse nang ligtas gamit ang Gab AI Inc Fulldive</translation>
+<translation id="8945142681652245463">Mag-browse nang mabilis gamit ang Fulldive Fulldive</translation>
+<translation id="2618024864038703735">Mag-browse nang ligtas gamit ang Fulldive Fulldive</translation>
 <translation id="8142180567942285208">Mag-browse nang mahusay gamit ang Fulldive</translation>
 <translation id="8862003515646449717">Lumipat sa isang mabilis na browser</translation>
 <translation id="8438328416656800239">Lumipat sa isang mahusay na browser</translation>
 <translation id="491691592645955587">Lumipat sa isang ligtas na browser</translation>
 <translation id="683373380308365518">Lumipat sa isang mahusay at ligtas na browser</translation>
-<translation id="989239400026154074">Inirerekomenda ng Gab AI Inc ang Fulldive</translation>
+<translation id="989239400026154074">Inirerekomenda ng Fulldive ang Fulldive</translation>
 <translation id="6676231621615806698">Buksan ang Fulldive</translation>
 <translation id="5250372599208556903">Ginagamit ng <ph name="SEARCH_ENGINE_NAME"/> ang iyong lokasyon upang mabigyan ka ng lokal na content. Maaari mo itong baguhin sa <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Lalabas dito ang iyong mga download</translation>
@@ -2558,7 +2558,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="2878782256107578644">Kasalukuyang nagsa-scan, buksan ngayon?</translation>
 <translation id="6098793583803863900">Sina-scan ang isang hindi kilalang file para matukoy kung may mapanganib na content.</translation>
 <translation id="7584578941316704630">I-scan bago buksan?</translation>
-<translation id="4467402456678825062">Hindi kilala ang napiling file at posibleng mapanganib ito. Ipadala sa Advanced na Proteksyon ng Gab AI Inc para ma-scan?</translation>
+<translation id="4467402456678825062">Hindi kilala ang napiling file at posibleng mapanganib ito. Ipadala sa Advanced na Proteksyon ng Fulldive para ma-scan?</translation>
 <translation id="2587922766792651800">Nag-time out</translation>
 <translation id="4404136731284211429">I-scan ulit</translation>
 <translation id="6428450836711225518">I-verify ang iyong numero ng telepono</translation>
@@ -2566,7 +2566,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6518133107902771759">I-verify</translation>
 <translation id="4379281552162875326">I-uninstall ang "<ph name="APP_NAME"/>"?</translation>
 <translation id="8812593354822910461">I-clear din ang data mula sa pag-browse (<ph name="URL"/>) na posibleng mag-sign out sa iyo sa <ph name="DOMAIN"/>. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">I-clear din ang data mula sa pag-browse (<ph name="URL"/>) na posibleng mag-sign out sa iyo sa Gab AI Inc.com. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">I-clear din ang data mula sa pag-browse (<ph name="URL"/>) na posibleng mag-sign out sa iyo sa Fulldive.com. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Matuto pa</translation>
 <translation id="2346953515226895098">Serbisyo ng SODA</translation>
 <translation id="7516981202574715431">Naka-pause ang <ph name="APP_NAME"/></translation>
@@ -2728,7 +2728,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="4144218403971135344">Magkaroon ng mas magandang kalidad na video at makatipid ng baterya. Magpe-play lang ang video sa iyong screen na may naka-enable na Cast.</translation>
 <translation id="236117173274098341">I-optimize</translation>
 <translation id="8538358978858059843">I-enable ang mga serbisyo ng cloud para sa Cast?</translation>
-<translation id="3856595552313160385">Ang paggamit ng Hangouts at Cast for Education ay nasasaklawan ng Patakaran sa Privacy ng Gab AI Inc.</translation>
+<translation id="3856595552313160385">Ang paggamit ng Hangouts at Cast for Education ay nasasaklawan ng Patakaran sa Privacy ng Fulldive.</translation>
 <translation id="3435896845095436175">I-enable</translation>
 <translation id="3700888195348409686">Ipinapakita (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Display <ph name="DISPLAY_ID"/></translation>
@@ -2972,9 +2972,9 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/>, +1 pang account}one{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> pang account}other{<ph name="EMAIL"/>, +<ph name="EXTRA_ACCOUNTS"/> pang account}}</translation>
 <translation id="7434635829372401939">I-sync ang iyong mga setting</translation>
 <translation id="1036348656032585052">I-off</translation>
-<translation id="3267705913905916810">Magsi-sync ang iyong mga app at setting sa lahat ng Fulldive OS device kung saan ka naka-sign in gamit ang Gab AI Inc account mo. Para sa mga opsyon sa pag-sync ng browser, pumunta sa<ph name="LINK_BEGIN"/>mga setting ng Fulldive<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Magsi-sync ang iyong mga app at setting sa lahat ng Fulldive OS device kung saan ka naka-sign in gamit ang Fulldive account mo. Para sa mga opsyon sa pag-sync ng browser, pumunta sa<ph name="LINK_BEGIN"/>mga setting ng Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Mga Printer</translation>
-<translation id="8418661265246754237">Mga Gab AI Inc Account</translation>
+<translation id="8418661265246754237">Mga Fulldive Account</translation>
 <translation id="3953834000574892725">Aking mga account</translation>
 <translation id="6011193465932186973">Fingerprint</translation>
 <translation id="3707212204259470604">Pamahalaan ang iba pang profile</translation>
@@ -3016,16 +3016,16 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="5916664084637901428">Naka-on</translation>
 <translation id="5860033963881614850">Naka-off</translation>
 <translation id="5515923816438946203">Piliin kung ano ang nakikita mo sa iyong screen</translation>
-<translation id="2187700606737131818">Gab AI Inc Photos</translation>
+<translation id="2187700606737131818">Fulldive Photos</translation>
 <translation id="1827738518074806965">Art gallery</translation>
 <translation id="9137157311132182254">Gustong search engine</translation>
 <translation id="7423118389528876103">Ginagamit ng Fulldive browser at Launcher ng <ph name="DEVICE_TYPE"/></translation>
-<translation id="2862205630718215619">Gab AI Inc Assistant</translation>
+<translation id="2862205630718215619">Fulldive Assistant</translation>
 <translation id="8959699239363253085">Naka-on</translation>
 <translation id="971479617738309149">I-off</translation>
 <translation id="7807067443225230855">Paghahanap at Assistant</translation>
 <translation id="1293556467332435079">Mga File</translation>
-<translation id="6474884162850599008">Alisin sa pagkakakonekta ang Gab AI Inc Drive account</translation>
+<translation id="6474884162850599008">Alisin sa pagkakakonekta ang Fulldive Drive account</translation>
 <translation id="3653160965917900914">Mga file share ng network</translation>
 <translation id="4906490889887219338">Mag-set up o mamahala ng mga file share ng network. <ph name="LINK_BEGIN"/>Matuto pa<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Magdagdag ng file share</translation>
@@ -3076,7 +3076,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="5511379779384092781">Sobrang liit</translation>
 <translation id="2765217105034171413">Maliit</translation>
 <translation id="7409549334477097887">Sobrang laki</translation>
-<translation id="1800308196794859773">Ipinapadala ang iyong boses sa Gab AI Inc para mabigyang-daan ang dictation sa anumang field ng text.</translation>
+<translation id="1800308196794859773">Ipinapadala ang iyong boses sa Fulldive para mabigyang-daan ang dictation sa anumang field ng text.</translation>
 <translation id="8758418656925882523">I-enable ang pagdidikta (magsalita para mag-type)</translation>
 <translation id="1330145147221172764">I-enable ang on-screen na keyboard</translation>
 <translation id="7580671184200851182">I-play ang parehong audio sa lahat ng speaker (mono audio)</translation>
@@ -3139,7 +3139,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6902066522699286937">Boses na ipi-preview</translation>
 <translation id="304747341537320566">Mga Engine sa Pagsasalita</translation>
 <translation id="2755367719610958252">Pamahalaan ang mga feature sa accessibility</translation>
-<translation id="1203953622051744249">Pamahalaan ang iyong mga naka-sign in na account. Puwedeng gamitin ng mga website, app, at extension sa Fulldive at Gab AI Inc Play ang mga account na ito para i-customize ang iyong karanasan, depende sa mga pahintulot. <ph name="LINK_BEGIN"/>Matuto pa<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Pamahalaan ang iyong mga naka-sign in na account. Puwedeng gamitin ng mga website, app, at extension sa Fulldive at Fulldive Play ang mga account na ito para i-customize ang iyong karanasan, depende sa mga pahintulot. <ph name="LINK_BEGIN"/>Matuto pa<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Magdagdag ng pampaaralang account o pamahalaan ang mga child account dito. <ph name="LINK_BEGIN"/>Matuto pa<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Mga Account</translation>
 <translation id="6597148444736186483">Para mag-sign out sa pangunahing account sa device na ito, i-click ang oras sa iyong screen. Sa lalabas na menu, i-click ang "Mag-sign out."</translation>
@@ -3148,8 +3148,8 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="2923234477033317484">Alisin ang account na ito</translation>
 <translation id="7665369617277396874">Magdagdag ng account</translation>
 <translation id="8428271547607112339">Magdagdag ng pampaaralang account</translation>
-<translation id="4920274951865016604">Na-disable ng iyong administrator ang pagdaragdag ng higit pang Gab AI Inc Account</translation>
-<translation id="8845742957886589229">Naka-disable ang pagdaragdag ng higit pang Gab AI Inc Account</translation>
+<translation id="4920274951865016604">Na-disable ng iyong administrator ang pagdaragdag ng higit pang Fulldive Account</translation>
+<translation id="8845742957886589229">Naka-disable ang pagdaragdag ng higit pang Fulldive Account</translation>
 <translation id="5021750053540820849">Hindi pa na-update</translation>
 <translation id="3448492834076427715">I-update ang account</translation>
 <translation id="2458379781610688953">I-update ang account, <ph name="EMAIL"/></translation>
@@ -3184,7 +3184,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="3661172646479098821">Ang mga Android device lang ang kasalukuyang sinusuportahan.</translation>
 <translation id="3201422919974259695">Lalabas dito ang mga available na USB device.</translation>
 <translation id="2629227353894235473">Mag-develop ng mga Android app</translation>
-<translation id="1669729672557072907">Para gumawa at subukan ang iyong mga app, i-enable ang Android Debug Bridge (ADB). Tandaang binibigyang-daan ng pagkilos na ito ang pag-install ng mga Android app na hindi pa na-verify ng Gab AI Inc, at nangangailangan ito ng factory reset para ma-disable.</translation>
+<translation id="1669729672557072907">Para gumawa at subukan ang iyong mga app, i-enable ang Android Debug Bridge (ADB). Tandaang binibigyang-daan ng pagkilos na ito ang pag-install ng mga Android app na hindi pa na-verify ng Fulldive, at nangangailangan ito ng factory reset para ma-disable.</translation>
 <translation id="4638930039313743000">I-enable ang pag-debug ng ADB</translation>
 <translation id="1630768113285622200">Mag-restart at magpatuloy</translation>
 <translation id="1005333234656240382">I-enable ang pag-debug ng ADB?</translation>
@@ -3221,9 +3221,9 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="1870629042957780127">Magbigay ng access sa mikropono</translation>
 <translation id="1392232653471491344">Kinakailangang i-restart ang Linux</translation>
 <translation id="1064552680598333868">Magkakabisa ang mga pagbabago sa mikropono kapag na-restart na ulit ang Linux.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play Store</translation>
+<translation id="2714393097308983682">Fulldive Play Store</translation>
 <translation id="2966937470348689686">Pamahalaan ang mga kagustuhan sa Android</translation>
-<translation id="6398715114293939307">Alisin ang Gab AI Inc Play Store</translation>
+<translation id="6398715114293939307">Alisin ang Fulldive Play Store</translation>
 <translation id="2792290659606763004">Alisin ang mga Android app?</translation>
 <translation id="492299503953721473">Alisin ang mga Android app</translation>
 <translation id="7566118625369982896">Pamahalaan ang mga link ng app sa Play</translation>
@@ -3231,7 +3231,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="5862109781435984885">Ipakita ang mga stylus tool sa shelf</translation>
 <translation id="4673442866648850031">Buksan ang mga stylus tool kapag inalis ang stylus</translation>
 <translation id="4244238649050961491">Maghanap ng higit pang app ng stylus</translation>
-<translation id="668599234725812620">Buksan ang Gab AI Inc Play</translation>
+<translation id="668599234725812620">Buksan ang Fulldive Play</translation>
 <translation id="9116799625073598554">App sa pagsusulat ng tala</translation>
 <translation id="203574396658008164">I-enable ang pagtatala mula sa lock screen</translation>
 <translation id="6238923052227198598">Panatilihin ang pinakabagong tala sa lock screen</translation>
@@ -3377,7 +3377,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> - <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Pag-enable sa mobile data</translation>
 <translation id="7378812711085314936">Kumuha ng koneksyon ng data</translation>
-<translation id="3483333858382889684">Hayaan ang device na ito na humanap ng iba pang device sa iyong Gab AI Inc Account na may koneksyon sa mobile data</translation>
+<translation id="3483333858382889684">Hayaan ang device na ito na humanap ng iba pang device sa iyong Fulldive Account na may koneksyon sa mobile data</translation>
 <translation id="1572266655485775982">I-enable ang Wi-Fi</translation>
 <translation id="7078120482318506217">Lahat ng network</translation>
 <translation id="1235458158152011030">Mga kilalang network</translation>
@@ -3409,13 +3409,13 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="4421167684395067330">Nagkakaproblema sa pagkonekta. Makipag-ugnayan sa <ph name="CARRIER_NAME"/> para sa tulong.</translation>
 <translation id="7780252971640011240">Nagkakaproblema sa pagkonekta. Makipag-ugnayan sa iyong carrier para sa tulong.</translation>
 <translation id="161460670679785907">Hindi makita ang iyong telepono</translation>
-<translation id="778480864305029524">Upang magamit ang Instant na Pag-tether, i-on ang mga notification para sa Mga Serbisyo ng Gab AI Inc Play.</translation>
+<translation id="778480864305029524">Upang magamit ang Instant na Pag-tether, i-on ang mga notification para sa Mga Serbisyo ng Fulldive Play.</translation>
 <translation id="7696063401938172191">Sa iyong '<ph name="PHONE_NAME"/>':</translation>
 <translation id="3423463006624419153">Sa iyong '<ph name="PHONE_NAME_1"/>' at '<ph name="PHONE_NAME_2"/>':</translation>
 <translation id="6997707937646349884">Sa iyong mga device:</translation>
 <translation id="7531779363494549572">Pumunta sa Mga Setting &gt; Mga app at notification &gt; Mga Notification.</translation>
-<translation id="1819721979226826163">I-tap ang Mga notification ng app &gt; Mga serbisyo ng Gab AI Inc Play.</translation>
-<translation id="968000525894980488">I-on ang mga serbisyo ng Gab AI Inc Play.</translation>
+<translation id="1819721979226826163">I-tap ang Mga notification ng app &gt; Mga serbisyo ng Fulldive Play.</translation>
+<translation id="968000525894980488">I-on ang mga serbisyo ng Fulldive Play.</translation>
 <translation id="2705736684557713153">Mag-scroll sa ibaba ng screen at i-on ang Instant na Pag-tether, kung lalabas ito. Kung hindi, handa na ang lahat.</translation>
 <translation id="7240339475467890413">Kumonekta sa bagong hotspot?</translation>
 <translation id="6514010653036109809">Available na device:</translation>
@@ -3530,9 +3530,9 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6555432686520421228">Alisin ang lahat ng account ng user at i-reset ang iyong <ph name="IDS_SHORT_PRODUCT_NAME"/> na device upang maging parang bago.</translation>
 <translation id="5470735824776589490">Kinakailangang mag-restart bago ma-reset ang iyong device gamit ang Powerwash. <ph name="LINK_BEGIN"/>Matuto pa<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Button na I-reset</translation>
-<translation id="472896694312062378">Ok Gab AI Inc</translation>
-<translation id="2339135612812615870">I-access ang iyong Assistant kapag sinabi mong "Ok Gab AI Inc."</translation>
-<translation id="3735919318855093557">I-access ang iyong Assistant kapag sinabi mong "Ok Gab AI Inc." Para makatipid ng baterya, piliin ang “Naka-on (Inirerekomenda.)” Sasagot lang ang iyong Assistant kapag naka-plug in o nagcha-charge ang device mo.</translation>
+<translation id="472896694312062378">Ok Fulldive</translation>
+<translation id="2339135612812615870">I-access ang iyong Assistant kapag sinabi mong "Ok Fulldive."</translation>
+<translation id="3735919318855093557">I-access ang iyong Assistant kapag sinabi mong "Ok Fulldive." Para makatipid ng baterya, piliin ang “Naka-on (Inirerekomenda.)” Sasagot lang ang iyong Assistant kapag naka-plug in o nagcha-charge ang device mo.</translation>
 <translation id="5825412242012995131">Naka-on (inirerekomenda)</translation>
 <translation id="5067399438976153555">Palaging naka-on</translation>
 <translation id="6175644081330715138">Naka-off</translation>
@@ -3541,7 +3541,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="5355099869024327351">Payagan ang Assistant na magpakita sa iyo ng mga notification</translation>
 <translation id="133535873114485416">Gustong input</translation>
 <translation id="6233154960150021497">Default na gumamit ng boses sa halip na keyboard</translation>
-<translation id="3908743412684152579">Mga setting ng Gab AI Inc Assistant</translation>
+<translation id="3908743412684152579">Mga setting ng Fulldive Assistant</translation>
 <translation id="1048286738600630630">Mga Display</translation>
 <translation id="4184885522552335684">I-drag upang ilipat ang isang display</translation>
 <translation id="4964455510556214366">Kaayusan</translation>
@@ -3595,7 +3595,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6856623341093082836">I-set up at isaayos ang katumpakan ng iyong touchscreen</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">I-unlock lang ang device</translation>
-<translation id="3300552672525741457">I-unlock ang device at mag-sign in sa Gab AI Inc Account</translation>
+<translation id="3300552672525741457">I-unlock ang device at mag-sign in sa Fulldive Account</translation>
 <translation id="4562155214028662640">Magdagdag ng Fingerprint</translation>
 <translation id="4068776064906523561">Mga naka-save na fingerprint</translation>
 <translation id="1719312230114180055">Tandaan: Maaaring hindi gaanong ligtas ang iyong fingerprint kaysa sa isang mahirap hulaang password o PIN.</translation>
@@ -3660,7 +3660,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6547354035488017500">Magbakante ng hindi bababa sa 512 MB ng espasyo ng iyong device, kung hindi ay hindi gagana nang maayos ang iyong device. Upang magbakante ng espasyo, mag-delete ng mga file mula sa storage ng device.</translation>
 <translation id="6097480669505687979">Kung hindi ka magbabakante ng espasyo, maaaring awtomatikong alisin ang mga user at data.</translation>
 <translation id="4470957202018033307">Mga kagustuhan sa external na storage</translation>
-<translation id="1900305421498694955">Puwedeng mangailangan ang mga app mula sa Gab AI Inc Play ng kumpletong access sa system ng file para mag-read at mag-write ng mga file sa mga external na storage device. Nakikita ng sinumang gumagamit ng external na drive ang mga file at folder na ginawa sa device. <ph name="LINK_BEGIN"/>Matuto pa<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Puwedeng mangailangan ang mga app mula sa Fulldive Play ng kumpletong access sa system ng file para mag-read at mag-write ng mga file sa mga external na storage device. Nakikita ng sinumang gumagamit ng external na drive ang mga file at folder na ginawa sa device. <ph name="LINK_BEGIN"/>Matuto pa<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">Lalabas dito ang mga available na device.</translation>
 <translation id="1041263367839475438">Mga available na device</translation>
 <translation id="7479221278376295180">Overview ng Paggamit ng Storage</translation>
@@ -3684,12 +3684,12 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="5840822070878669614">Buksan ang Web Store</translation>
 <translation id="6073903501322152803">Magdagdag ng mga feature ng pagiging naa-access</translation>
 <translation id="7988355189918024273">Paganahin ang mga tampok sa pagiging maa-access</translation>
-<translation id="5499063270485366718">Kung hindi sapat ang deskripsyon ng isang larawan, susubukan ng Fulldive na ayusin ito para sa iyo. Para gumawa ng mga deskripsyon, ipinapadala ang mga larawan sa Gab AI Inc.</translation>
+<translation id="5499063270485366718">Kung hindi sapat ang deskripsyon ng isang larawan, susubukan ng Fulldive na ayusin ito para sa iyo. Para gumawa ng mga deskripsyon, ipinapadala ang mga larawan sa Fulldive.</translation>
 <translation id="8957762313041272117">Instant Caption</translation>
 <translation id="7075426315046750605">Nagde-detect ng speech sa media ang instant caption at awtomatiko itong bumubuo ng mga caption para sa lahat ng media na nagpe-play sa Fulldive.</translation>
 <translation id="572155275267014074">Mga setting ng Android</translation>
-<translation id="7201042526153088083">Mag-install ng mga app at laro mula sa Gab AI Inc Play sa iyong <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Matuto pa&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Made-delete mula sa Fulldivebook na ito ang mga app na na-download mo mula sa Gab AI Inc Play.
+<translation id="7201042526153088083">Mag-install ng mga app at laro mula sa Fulldive Play sa iyong <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Matuto pa&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Made-delete mula sa Fulldivebook na ito ang mga app na na-download mo mula sa Fulldive Play.
       <ph name="LINE_BREAKS1"/>
       Maaari ding ma-delete ang content na binili mo gaya ng mga pelikula, palabas sa TV, musika, aklat o iba pang in-app na pagbili.
       <ph name="LINE_BREAKS2"/>
@@ -3715,7 +3715,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="1670399744444387456">Pangunahin</translation>
 <translation id="1763808908432309942">Magbubukas sa bagong tab</translation>
 <translation id="6248988683584659830">Mga setting ng paghahanap</translation>
-<translation id="883304095704384301">Pumunta sa <ph name="BEGIN_LINK_CHROMIUM"/>tulong ng Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/> kung hindi mo makita ang hinahanap mo</translation>
+<translation id="883304095704384301">Pumunta sa <ph name="BEGIN_LINK_CHROMIUM"/>tulong ng Fulldive Fulldive<ph name="END_LINK_CHROMIUM"/> kung hindi mo makita ang hinahanap mo</translation>
 <translation id="6406708970972405507">Mga Setting - <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Button ng subpage</translation>
 <translation id="379509625511193653">Naka-off</translation>
@@ -3736,10 +3736,10 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="451515744433878153">Alisin</translation>
 <translation id="5029568752722684782">I-clear ang kopya</translation>
 <translation id="2154484045852737596">I-edit ang card</translation>
-<translation id="3032188998195902534">Para magdagdag o mamahala ng mga paraan ng pagbabayad sa Gab AI Inc Pay, bisitahin ang iyong <ph name="BEGIN_LINK"/>Gab AI Inc Account<ph name="END_LINK"/></translation>
+<translation id="3032188998195902534">Para magdagdag o mamahala ng mga paraan ng pagbabayad sa Fulldive Pay, bisitahin ang iyong <ph name="BEGIN_LINK"/>Fulldive Account<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">Sa device lang na ito ise-save ang card na ito</translation>
 <translation id="5087580092889165836">Magdagdag ng card</translation>
-<translation id="4835914736509775287">I-save ang mga card sa iyong Gab AI Inc Account</translation>
+<translation id="4835914736509775287">I-save ang mga card sa iyong Fulldive Account</translation>
 <translation id="7255002516883565667">Sa ngayon, may isa kang card na magagamit lang sa device na ito</translation>
 <translation id="6848388270925200958">Sa ngayon, mayroon kang ilang card na magagamit lang sa device na ito</translation>
 <translation id="4807098396393229769">Pangalang makikita sa card</translation>
@@ -3753,9 +3753,9 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="8731851055419582926">Nasuri ang mga password</translation>
 <translation id="4248098802131000011">Panatilihing ligtas ang iyong mga password mula sa mga paglabag sa data breaches at iba pang isyu sa seguridad</translation>
 <translation id="7829528495815477379">Hindi masuri ng <ph name="IDS_SHORT_PRODUCT_NAME"/> ang iyong mga password. Subukang tingnan ang iyong koneksyon sa internet.</translation>
-<translation id="802916701582020725">Magagawang suriin ng <ph name="IDS_SHORT_PRODUCT_NAME"/> ang iyong mga password kapag nag-sign in ka gamit ang Gab AI Inc Account mo</translation>
+<translation id="802916701582020725">Magagawang suriin ng <ph name="IDS_SHORT_PRODUCT_NAME"/> ang iyong mga password kapag nag-sign in ka gamit ang Fulldive Account mo</translation>
 <translation id="4478777936860197922">Walang naka-save na password. Masusuri ng <ph name="IDS_SHORT_PRODUCT_NAME"/> ang iyong mga password kapag na-save mo ang mga ito.</translation>
-<translation id="9163925934160713286">Hindi masuri ng <ph name="IDS_SHORT_PRODUCT_NAME"/> ang iyong mga password. Subukan ulit pagkalipas ng 24 na oras o <ph name="BEGIN_LINK"/>suriin ang mga password sa iyong Gab AI Inc Account<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286">Hindi masuri ng <ph name="IDS_SHORT_PRODUCT_NAME"/> ang iyong mga password. Subukan ulit pagkalipas ng 24 na oras o <ph name="BEGIN_LINK"/>suriin ang mga password sa iyong Fulldive Account<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174">Hindi masuri ng <ph name="IDS_SHORT_PRODUCT_NAME"/> ang iyong mga password. Subukan ulit pagkalipas ng 24 na oras.</translation>
 <translation id="3975884715086515476">Hindi masuri ng <ph name="IDS_SHORT_PRODUCT_NAME"/> ang iyong mga password. Subukan ulit sa ibang pagkakataon.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Walang nakitang nakompromisong password}=1{{COUNT} nakompromisong password}one{{COUNT} nakompromisong password}other{{COUNT} na nakompromisong password}}</translation>
@@ -3781,7 +3781,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="2100273922101894616">Awtomatikong Mag-sign in</translation>
 <translation id="7513029293694390567">Awtomatikong mag-sign in sa mga website gamit ang mga naka-store na kredensyal. Kung naka-disable, hihingan ka ng kumpirmasyon sa bawat pagkakataon bago ka mag-sign in sa isang website.</translation>
 <translation id="6995899638241819463">Balaan ka kung ma-expose ang mga password sa isang paglabag sa data</translation>
-<translation id="1534287762301776620">Kapag nag-sign in ka sa iyong Gab AI Inc Account, mao-on ang feature na ito</translation>
+<translation id="1534287762301776620">Kapag nag-sign in ka sa iyong Fulldive Account, mao-on ang feature na ito</translation>
 <translation id="1375321115329958930">Mga Naka-save na Password</translation>
 <translation id="152234381334907219">Hindi Kailanman Na-save</translation>
 <translation id="5137501176474113045">Tanggalin ang item na ito</translation>
@@ -3795,7 +3795,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="7930294771522048157">Lalabas dito ang mga naka-save na paraan ng pagbabayad</translation>
 <translation id="9124003689441359348">Lalabas dito ang mga na-save na password</translation>
 <translation id="4400367121200150367">Lalabas dito ang mga site na hindi kailanman nagse-save ng mga password</translation>
-<translation id="3098842761938485917">Tingnan at pamahalaan ang mga naka-save na password sa iyong <ph name="BEGIN_LINK"/>Gab AI Inc Account<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Tingnan at pamahalaan ang mga naka-save na password sa iyong <ph name="BEGIN_LINK"/>Fulldive Account<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">I-export ang mga password...</translation>
 <translation id="3900966090527141178">I-export ang mga password</translation>
 <translation id="6914783257214138813">Makikita ng sinumang makakatingin sa na-export na file ang iyong mga password.</translation>
@@ -3862,15 +3862,15 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="3380365263193509176">Hindi kilalang error</translation>
 <translation id="368789413795732264">Nagkaroon ng error habang sinusubukang isulat ang file: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Sakop na oras</translation>
-<translation id="3958004920128806270">Para i-clear ang data mula sa pag-browse sa device lang na ito, habang pinapanatili ito sa iyong Gab AI Inc Account, <ph name="BEGIN_LINK"/>mag-sign out<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">Para i-clear ang data mula sa pag-browse sa lahat ng iyong naka-sync na device at sa Gab AI Inc Account mo, <ph name="BEGIN_LINK"/>bisitahin ang mga setting ng pag-sync<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">Para i-clear ang data mula sa pag-browse sa lahat ng iyong naka-sync na device at sa Gab AI Inc Account mo, <ph name="BEGIN_LINK"/>ilagay ang iyong passphrase<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">Para i-clear ang data mula sa pag-browse sa lahat ng iyong naka-sync na device at sa Gab AI Inc Account mo, <ph name="BEGIN_LINK"/>mag-sign in<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">Para i-clear ang data mula sa pag-browse sa device lang na ito, habang pinapanatili ito sa iyong Fulldive Account, <ph name="BEGIN_LINK"/>mag-sign out<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">Para i-clear ang data mula sa pag-browse sa lahat ng iyong naka-sync na device at sa Fulldive Account mo, <ph name="BEGIN_LINK"/>bisitahin ang mga setting ng pag-sync<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">Para i-clear ang data mula sa pag-browse sa lahat ng iyong naka-sync na device at sa Fulldive Account mo, <ph name="BEGIN_LINK"/>ilagay ang iyong passphrase<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">Para i-clear ang data mula sa pag-browse sa lahat ng iyong naka-sync na device at sa Fulldive Account mo, <ph name="BEGIN_LINK"/>mag-sign in<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Nagsa-sign out sa iyo sa karamihan ng site.</translation>
-<translation id="4650925988509114690">Sina-sign out ka sa karamihan ng mga site. Hindi ka masa-sign out sa iyong Gab AI Inc Account kaya maki-clear ang naka-sync mong data.</translation>
+<translation id="4650925988509114690">Sina-sign out ka sa karamihan ng mga site. Hindi ka masa-sign out sa iyong Fulldive Account kaya maki-clear ang naka-sync mong data.</translation>
 <translation id="2017836877785168846">Kini-clear ang history at mga awtomatikong pagkumpleto sa address bar.</translation>
-<translation id="8096327394278038498">Kini-clear ang history at mga autocompletion sa address bar. Maaaring may iba pang anyo ng history ng pag-browse ang iyong Gab AI Inc Account sa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Kini-clear ang history sa lahat ng naka-sign in na device. Maaaring may iba pang anyo ng history ng pag-browse ang iyong Gab AI Inc Account sa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Kini-clear ang history at mga autocompletion sa address bar. Maaaring may iba pang anyo ng history ng pag-browse ang iyong Fulldive Account sa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Kini-clear ang history sa lahat ng naka-sign in na device. Maaaring may iba pang anyo ng history ng pag-browse ang iyong Fulldive Account sa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">Kasaysayan ng pag-download</translation>
 <translation id="4699172675775169585">Mga naka-cache na larawan at file</translation>
 <translation id="1274997165432133392">Cookies at iba pang data ng site</translation>
@@ -3885,7 +3885,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="1043818413152647937">I-clear din ang data mula sa mga app na ito?</translation>
 <translation id="3399432415385675819">Madi-disable ang mga notification</translation>
 <translation id="3459509316159669723">Pagpi-print</translation>
-<translation id="7063957500469387217">I-set up o pamahalaan ang mga printer sa Gab AI Inc Cloud Print.</translation>
+<translation id="7063957500469387217">I-set up o pamahalaan ang mga printer sa Fulldive Cloud Print.</translation>
 <translation id="8185331656081929126">Magpakita ng mga notification kapag may nakitang mga bagong printer sa network</translation>
 <translation id="6451180435462401570">Pamahalaan ang mga Cloud Print device</translation>
 <translation id="4733793249294335256">Lokasyon</translation>
@@ -3907,7 +3907,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="5425722269016440406">Online ka dapat upang i-off ang Smart Lock dahil naka-sync ang setting na ito sa iyong telepono at iba pang mga device. Mangyaring kumonekta muna sa isang network.</translation>
 <translation id="8885197664446363138">Hindi available ang Smart Lock</translation>
 <translation id="7334190995941642545">Kasalukuyang hindi available ang Smart Lock. Pakisubukang muli sa ibang pagkakataon.</translation>
-<translation id="8112427115751454716">Gamitin ang Smart Lock para mag-sign in sa iyong Gab AI Inc Account</translation>
+<translation id="8112427115751454716">Gamitin ang Smart Lock para mag-sign in sa iyong Fulldive Account</translation>
 <translation id="2043818754674261542">Kailangang distansya ng telepono upang ma-unlock ang <ph name="DEVICE_TYPE"/> na ito</translation>
 <translation id="2522791476825452208">Napakalapit</translation>
 <translation id="649454645705377674">Isara</translation>
@@ -3928,7 +3928,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="1726100011689679555">Mga name server</translation>
 <translation id="1209796539517632982">Mga awtomatikong server ng pangalan</translation>
 <translation id="4462159676511157176">Custom na mga server ng pangalan</translation>
-<translation id="1981884748698699991">Mga server ng pangalan ng Gab AI Inc</translation>
+<translation id="1981884748698699991">Mga server ng pangalan ng Fulldive</translation>
 <translation id="6317608858038767920">Custom na nameserver na <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">URL ng Web Proxy Auto Discovery:</translation>
 <translation id="3817579325494460411">Hindi naibigay</translation>
@@ -4086,7 +4086,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="3182749001423093222">Pang-check ng pagbabaybay</translation>
 <translation id="5423829801105537712">Pangunahing spell check</translation>
 <translation id="2564653188463346023">Pinahusay na pang-check ng pagbabaybay</translation>
-<translation id="8944680893327873975">Ginagamit ang parehong spell checker na ginagamit sa paghahanap sa Gab AI Inc. Ipapadala sa Gab AI Inc ang text na tina-type mo.</translation>
+<translation id="8944680893327873975">Ginagamit ang parehong spell checker na ginagamit sa paghahanap sa Fulldive. Ipapadala sa Fulldive ang text na tina-type mo.</translation>
 <translation id="5051836348807686060">Hindi sinusuportahan ang spellcheck para sa mga pinili mong wika</translation>
 <translation id="7335974957018254119">Gumamit ng pang-check ng pagbabaybay para sa</translation>
 <translation id="2469375675106140201">I-customize ang spell check</translation>
@@ -4099,7 +4099,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="4200689466366162458">Mga custom na salita</translation>
 <translation id="7833720883933317473">Lalabas dito ang mga na-save na custom na salita</translation>
 <translation id="8509646642152301857">Nabigo ang pag-download ng diksyunaryo ng pang-check ng pagbabaybay.</translation>
-<translation id="8842834450537919370">Pakisuri sa administrator ng iyong network upang matiyak na hindi bina-block ng firewall ang mga pag-download mula sa mga server ng Gab AI Inc.</translation>
+<translation id="8842834450537919370">Pakisuri sa administrator ng iyong network upang matiyak na hindi bina-block ng firewall ang mga pag-download mula sa mga server ng Fulldive.</translation>
 <translation id="9042893549633094279">Privacy at seguridad</translation>
 <translation id="5548606607480005320">Pag-check sa kaligtasan</translation>
 <translation id="5876576639916258720">Tumatakbo...</translation>
@@ -4135,24 +4135,24 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="2468205691404969808">Gumamit ng mga cookie para matandaan ang iyong mga kagustuhan kahit na hindi mo binibisita ang mga page na iyon</translation>
 <translation id="3633309367764744750">Paunang nagfe-fetch ng impormasyon mula sa mga page, kabilang ang mga page na hindi mo pa nabibisita. Posibleng kasama sa impormasyong fine-fetch ang cookies, kung pinapayagan mo ang cookies.</translation>
 <translation id="3201899458094819285">Ligtas na Pag-browse (pinoprotektahan ka at ang iyong device mula sa mga mapanganib na site)</translation>
-<translation id="2876369937070532032">Ipadala ang mga URL ng ilang page na binibisita mo sa Gab AI Inc kapag nanganganib ang iyong seguridad</translation>
+<translation id="2876369937070532032">Ipadala ang mga URL ng ilang page na binibisita mo sa Fulldive kapag nanganganib ang iyong seguridad</translation>
 <translation id="4991384657077828949">Tulungang paigtingin ang seguridad ng Fulldive</translation>
-<translation id="1984646864943401749">Nagpapadala ng mga URL ng ilang page na binibisita mo, limitadong impormasyon ng system, at ilang content ng page sa Gab AI Inc, para makatulong na tumuklas ng mga bagong banta at protektahan ang lahat ng nasa web.</translation>
+<translation id="1984646864943401749">Nagpapadala ng mga URL ng ilang page na binibisita mo, limitadong impormasyon ng system, at ilang content ng page sa Fulldive, para makatulong na tumuklas ng mga bagong banta at protektahan ang lahat ng nasa web.</translation>
 <translation id="1641113438599504367">Ligtas na Pagba-browse</translation>
 <translation id="6900532703269623216">Enhanced protection</translation>
-<translation id="7307583170263691471">Mas mabilis at proactive na proteksyon laban sa mga mapanganib na website, download, at extension. Binibigyan ka ng babala tungkol sa mga paglabag sa password. Kinakailangang magpadala ng data mula sa pag-browse sa Gab AI Inc.</translation>
+<translation id="7307583170263691471">Mas mabilis at proactive na proteksyon laban sa mga mapanganib na website, download, at extension. Binibigyan ka ng babala tungkol sa mga paglabag sa password. Kinakailangang magpadala ng data mula sa pag-browse sa Fulldive.</translation>
 <translation id="8645920082661222035">Hinuhulaan ang mga mapanganib na event at binabalaan ka tungkol sa mga ito bago mangyari ang mga ito</translation>
-<translation id="5265419033369521352">Pinapanatili kang ligtas sa Fulldive at puwedeng gamitin para paigtingin ang iyong seguridad sa iba pang Gab AI Inc app kapag naka-sign in ka</translation>
+<translation id="5265419033369521352">Pinapanatili kang ligtas sa Fulldive at puwedeng gamitin para paigtingin ang iyong seguridad sa iba pang Fulldive app kapag naka-sign in ka</translation>
 <translation id="6770602306803890733">Pinapahusay ang seguridad para sa iyo at sa lahat ng taong nasa web</translation>
 <translation id="3690369331356918524">Babalaan ka kung mae-expose ang mga password sa isang paglabag sa data</translation>
-<translation id="4979281249641199724">Nagpapadala ng mga URL sa Ligtas na Pag-browse para masuri ang mga ito. Nagpapadala rin ng maliit na sample ng mga page, download, aktibidad ng extension, at impormasyon ng system para makatulong na tumuklas ng mga bagong banta. Pansamantalang nili-link ang data na ito sa iyong Gab AI Inc Account kapag naka-sign in ka, para protektahan ka sa lahat ng Gab AI Inc app.</translation>
+<translation id="4979281249641199724">Nagpapadala ng mga URL sa Ligtas na Pag-browse para masuri ang mga ito. Nagpapadala rin ng maliit na sample ng mga page, download, aktibidad ng extension, at impormasyon ng system para makatulong na tumuklas ng mga bagong banta. Pansamantalang nili-link ang data na ito sa iyong Fulldive Account kapag naka-sign in ka, para protektahan ka sa lahat ng Fulldive app.</translation>
 <translation id="1963976881984600709">Standard protection</translation>
 <translation id="6882836635272038266">Karaniwang proteksyon laban sa mga website, download, at extension na kilalang mapanganib.</translation>
 <translation id="5561162485081632007">Nagde-detect ng mga mapanganib na event at nagbibigay sa iyo ng babala tungkol sa mga ito kapag nangyari ang mga ito</translation>
 <translation id="7810992039564280750">Sinusuri ang mga URL sa pamamagitan ng listahan ng mga hindi ligtas na site na naka-store sa Fulldive. Kung susubukan ng site na nakawin ang iyong password, o kapag nag-download ka ng mapaminsalang file, posible ring magpadala ang Fulldive sa Ligtas na Pag-browse ng mga URL, kabilang ang ilang content ng page</translation>
 <translation id="3847319713229060696">Tumulong na pahusayin ang seguridad sa web para sa lahat</translation>
 <translation id="1984417487208496350">Walang proteksyon (hindi inirerekomenda)</translation>
-<translation id="1295971429974142731">Hindi ka pinoprotektahan laban sa mga mapanganib na website, download, at extension. Magkakaroon ka pa rin ng proteksyon ng Ligtas na Pag-browse, kung available, sa iba pang serbisyo ng Gab AI Inc, tulad ng Gmail at Search.</translation>
+<translation id="1295971429974142731">Hindi ka pinoprotektahan laban sa mga mapanganib na website, download, at extension. Magkakaroon ka pa rin ng proteksyon ng Ligtas na Pag-browse, kung available, sa iba pang serbisyo ng Fulldive, tulad ng Gmail at Search.</translation>
 <translation id="6122831415929794347">I-off ang Ligtas na Pag-browse?</translation>
 <translation id="6410390304316730527">Pinoprotektahan ka ng Ligtas na Pag-browse laban sa mga attacker na posibleng manlinlang sa iyong gumawa ng anumang mapanganib na bagay tulad ng pag-install ng nakakapinsalang software o paghahayag ng personal na impormasyon tulad ng mga password, numero ng telepono, o credit card. Kung io-off mo ito, maging maingat kapag nagba-browse sa mga hindi pamilyar o hindi mapagkakatiwalaang site.</translation>
 <translation id="8791534160414513928">Magpadala ng kahilingang ‘Huwag Subaybayan’ kasama ng iyong trapiko ng pagba-browse</translation>
@@ -4164,8 +4164,8 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="1995916364271252349">Kinokontrol ang impormasyong puwedeng gamitin at ipakita ng mga site (lokasyon, camera, mga pop-up, at higit pa)</translation>
 <translation id="3320630259304269485">Ligtas na Pag-browse (proteksyon mula sa mga mapanganib na site) at iba pang setting ng seguridad</translation>
 <translation id="7536333565791380193">Advanced na seguridad</translation>
-<translation id="8525226238722561998">Programa ng Advanced na Proteksyon ng Gab AI Inc</translation>
-<translation id="1229550669565092839">Iniingatan ang mga personal na Gab AI Inc Account ng sinumang nanganganib sa mga naka-target na pag-atake</translation>
+<translation id="8525226238722561998">Programa ng Advanced na Proteksyon ng Fulldive</translation>
+<translation id="1229550669565092839">Iniingatan ang mga personal na Fulldive Account ng sinumang nanganganib sa mga naka-target na pag-atake</translation>
 <translation id="1521442365706402292">Pamahalaan ang mga sertipiko</translation>
 <translation id="7075625805486468288">Pamahalaan ang mga certificate at setting ng HTTPS/SSL</translation>
 <translation id="6588043302623806746">Gamitin ang secure na DNS</translation>
@@ -4439,7 +4439,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="4590324241397107707">Storage ng database</translation>
 <translation id="8016266267177410919">Pansamantalang storage</translation>
 <translation id="4175737294868205930">Matagalang storage</translation>
-<translation id="8397843425685839889">Ikaw at ang Gab AI Inc</translation>
+<translation id="8397843425685839889">Ikaw at ang Fulldive</translation>
 <translation id="8907706281008466056">Larawan sa profile sa Fulldive</translation>
 <translation id="2023167225947895179">Maaaring mahulaan agad ang PIN na ito</translation>
 <translation id="5342091991439452114">Hindi dapat bababa sa <ph name="MINIMUM"/> (na) digit ang PIN</translation>
@@ -4454,26 +4454,26 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="899676909165543803">Ang sensor para sa fingerprint ay ang key sa kanang bahagi sa ibaba ng iyong keyboard. Pindutin ito nang magaan gamit ang alinmang daliri.</translation>
 <translation id="4535767533210902251">Ang sensor para sa fingerprint ay ang key sa kanang bahagi sa itaas ng iyong keyboard. Pindutin ito nang magaan gamit ang alinmang daliri.</translation>
 <translation id="5449551289610225147">Di-wastong password</translation>
-<translation id="4326270470840334364">Dahil pinamamahalaan ng <ph name="DOMAIN"/> ang account na ito, iki-clear sa device na ito ang iyong mga bookmark, history, password at iba pang mga setting. Gayunpaman, mananatiling nakaimbak ang data mo sa iyong Gab AI Inc Account at mapamamahalaan ito sa <ph name="BEGIN_LINK"/>Gab AI Inc Dashboard<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">Dahil pinamamahalaan ng <ph name="DOMAIN"/> ang account na ito, iki-clear sa device na ito ang iyong mga bookmark, history, password at iba pang mga setting. Gayunpaman, mananatiling nakaimbak ang data mo sa iyong Fulldive Account at mapamamahalaan ito sa <ph name="BEGIN_LINK"/>Fulldive Dashboard<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">I-edit ang profile</translation>
 <translation id="3699920817649120894">I-off ang pag-sync at pag-personalize?</translation>
 <translation id="5643620609347735571">I-clear at magpatuloy</translation>
 <translation id="5602765853043467355">I-clear ang mga bookmark, history, mga password, at higit pa sa device na ito</translation>
 <translation id="4089235344645910861">Na-save ang mga setting. Nasimulan ang pag-sync.</translation>
 <translation id="6739923123728562974">Ipakita ang desktop shortcut</translation>
-<translation id="2951604498031550705">Hindi na isi-sync sa Gab AI Inc Account mo ang mga pagbabago sa iyong mga bookmark, history, password at iba pang mga setting. Gayunpaman, mananatiling nakaimbak sa Gab AI Inc Account mo ang iyong kasalukuyang data at mapamamahalaan ito sa <ph name="BEGIN_LINK"/>Gab AI Inc Dashboard<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">Dahil dito, masa-sign out ka sa iyong mga Gab AI Inc Account. Hindi na masi-sync ang iyong mga bookmark, history, mga password, at higit pa.</translation>
+<translation id="2951604498031550705">Hindi na isi-sync sa Fulldive Account mo ang mga pagbabago sa iyong mga bookmark, history, password at iba pang mga setting. Gayunpaman, mananatiling nakaimbak sa Fulldive Account mo ang iyong kasalukuyang data at mapamamahalaan ito sa <ph name="BEGIN_LINK"/>Fulldive Dashboard<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">Dahil dito, masa-sign out ka sa iyong mga Fulldive Account. Hindi na masi-sync ang iyong mga bookmark, history, mga password, at higit pa.</translation>
 <translation id="8588866096426746242">Ipakita ang mga istatistika ng profile</translation>
 <translation id="5535941515421698170">Alisin din ang iyong kasalukuyang data sa device na ito</translation>
 <translation id="2162155940152307086">Magsisimula ang pag-sync sa sandaling umalis ka sa mga setting ng pag-sync</translation>
-<translation id="1125261911132334651">Pamahalaan ang iyong Gab AI Inc Account</translation>
+<translation id="1125261911132334651">Pamahalaan ang iyong Fulldive Account</translation>
 <translation id="5117427536932535467">Mga Tema at Wallpaper</translation>
 <translation id="7257173066616499747">Mga Wi-Fi network</translation>
 <translation id="2120297377148151361">Aktibidad at mga pakikipag-ugnayan</translation>
 <translation id="5833397272224757657">Ginagamit ang content sa mga site na binibisita mo at ang aktibidad at mga pakikipag-ugnayan sa browser para sa pag-personalize</translation>
-<translation id="8135094938656535588">Pamahalaan ang naka-sync na data sa Gab AI Inc Dashboard</translation>
-<translation id="5958351589333270173">I-encrypt ang naka-sync na data gamit ang iyong sariling <ph name="BEGIN_LINK"/>passphrase sa pag-sync<ph name="END_LINK"/>. Hindi kasama rito ang mga paraan ng pagbabayad at address mula sa Gab AI Inc Pay.</translation>
-<translation id="4817583816512767754">Ang taong may alam ng passphrase mo lang ang makakabasa sa iyong naka-encrypt na data. Hindi ipinapadala sa o iniimbak ng Gab AI Inc ang passphrase. Kung makalimutan mo ang iyong passphrase o gusto mong baguhin ang setting na ito, kakailanganin mong <ph name="BEGIN_LINK"/>i-reset ang pag-sync<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Pamahalaan ang naka-sync na data sa Fulldive Dashboard</translation>
+<translation id="5958351589333270173">I-encrypt ang naka-sync na data gamit ang iyong sariling <ph name="BEGIN_LINK"/>passphrase sa pag-sync<ph name="END_LINK"/>. Hindi kasama rito ang mga paraan ng pagbabayad at address mula sa Fulldive Pay.</translation>
+<translation id="4817583816512767754">Ang taong may alam ng passphrase mo lang ang makakabasa sa iyong naka-encrypt na data. Hindi ipinapadala sa o iniimbak ng Fulldive ang passphrase. Kung makalimutan mo ang iyong passphrase o gusto mong baguhin ang setting na ito, kakailanganin mong <ph name="BEGIN_LINK"/>i-reset ang pag-sync<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Para baguhin ang setting na ito, <ph name="BEGIN_LINK"/>i-reset ang pag-sync<ph name="END_LINK"/> para alisin ang iyong passphrase sa pag-sync</translation>
 <translation id="3873315167136380065">Para i-on ito, <ph name="BEGIN_LINK"/>i-reset ang pag-sync<ph name="END_LINK"/> para alisin ang iyong passphrase sa pag-sync</translation>
 <translation id="6451689256222386810">Kung nakalimutan mo ang iyong passphrase o gusto mong baguhin ang setting na ito, <ph name="BEGIN_LINK"/>i-reset ang pag-sync<ph name="END_LINK"/>.</translation>
@@ -4530,7 +4530,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="8639047128869322042">Tinitingnan kung may mapaminsalang software...</translation>
 <translation id="2653033005692233957">Hindi nahanap</translation>
 <translation id="655483977608336153">Subukang muli</translation>
-<translation id="8282772389915299166">Mag-ulat ng mga detalye sa Gab AI Inc tungkol sa mapaminsalang software, setting ng system, at prosesong nahanap sa iyong computer sa panahon ng paglilinis na ito</translation>
+<translation id="8282772389915299166">Mag-ulat ng mga detalye sa Fulldive tungkol sa mapaminsalang software, setting ng system, at prosesong nahanap sa iyong computer sa panahon ng paglilinis na ito</translation>
 <translation id="6555810572223193255">Hindi available sa kasalukuyan ang pag-clean up</translation>
 <translation id="7117228822971127758">Pakisubukang muli sa ibang pagkakataon</translation>
 <translation id="443475966875174318">I-update o alisin ang mga hindi compatible na application</translation>
@@ -4614,16 +4614,16 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="161042844686301425">Cyan</translation>
 <translation id="4115378294792113321">Magenta</translation>
 <translation id="8438566539970814960">Mas pahusayin ang mga paghahanap at pag-browse</translation>
-<translation id="284843628681142937">Ipinapadala sa Gab AI Inc ang mga URL ng mga page na binibisita mo</translation>
+<translation id="284843628681142937">Ipinapadala sa Fulldive ang mga URL ng mga page na binibisita mo</translation>
 <translation id="7704317875155739195">Awtomatikong kumpletuhin ang mga paghahanap at URL</translation>
 <translation id="2000419248597011803">Nagpapadala ng ilang cookies at paghahanap mula sa address bar at box para sa paghahanap sa iyong default na search engine</translation>
 <translation id="918192811481327695">Tumulong sa pagpapahusay sa mga feature at performance ng Fulldive</translation>
-<translation id="9063160602596686558">Awtomatikong nagpapadala sa Gab AI Inc ng mga istatistika ng paggamit at ulat ng pag-crash</translation>
+<translation id="9063160602596686558">Awtomatikong nagpapadala sa Fulldive ng mga istatistika ng paggamit at ulat ng pag-crash</translation>
 <translation id="6697492270171225480">Magpakita ng mga mungkahi para sa mga katulad na page kapag hindi mahanap ang isang page</translation>
-<translation id="4534361985432360439">Ipinapadala sa Gab AI Inc ang address ng web ng page na sinusubukan mong puntahan</translation>
-<translation id="3831436149286513437">Mga suhestyon sa paghahanap sa Gab AI Inc Drive</translation>
+<translation id="4534361985432360439">Ipinapadala sa Fulldive ang address ng web ng page na sinusubukan mong puntahan</translation>
+<translation id="3831436149286513437">Mga suhestyon sa paghahanap sa Fulldive Drive</translation>
 <translation id="5244474230056479698">Sini-sync sa <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Magkaroon ng mga smart na feature ng Gab AI Inc sa Fulldive</translation>
+<translation id="9125982323641182972">Magkaroon ng mga smart na feature ng Fulldive sa Fulldive</translation>
 <translation id="2537178555904266562">Nagka-error sa pag-sync ng mga password</translation>
 <translation id="4314815835985389558">Pamahalaan ang pag-sync</translation>
 <translation id="8931475688782629595">Pamahalaan ang sini-sync mo</translation>
@@ -4632,18 +4632,18 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="4570387585180509432">Mga address, numero ng telepono, at higit pa</translation>
 <translation id="3268451620468152448">Mga Bukas na Tab</translation>
 <translation id="4684427112815847243">I-sync lahat</translation>
-<translation id="5428209950370661546">Iba pang serbisyo ng Gab AI Inc</translation>
+<translation id="5428209950370661546">Iba pang serbisyo ng Fulldive</translation>
 <translation id="7399045143794278225">I-customize ang pag-sync</translation>
 <translation id="7044606776288350625">I-sync ang data</translation>
 <translation id="9050666287014529139">Passphrase</translation>
 <translation id="6596325263575161958">Mga pagpipilian sa pag-encrypt</translation>
-<translation id="2459230470861708651">I-encrypt ang mga naka-sync na password sa iyong username at password sa Gab AI Inc</translation>
+<translation id="2459230470861708651">I-encrypt ang mga naka-sync na password sa iyong username at password sa Fulldive</translation>
 <translation id="1651008383952180276">Dapat mong ilagay ang katulad na passphrase nang dalawang beses</translation>
 <translation id="988978206646512040">Hindi pinapayagan ang passphrase na walang laman</translation>
 <translation id="2136476978468204130">Mali ang inilagay mong passphrase</translation>
 <translation id="7505421639213002314">Data mula sa Fulldive sync</translation>
 <translation id="452750746583162491">Suriin ang iyong naka-sync na data</translation>
-<translation id="7956662517480676674">Sync at mga serbisyo ng Gab AI Inc</translation>
+<translation id="7956662517480676674">Sync at mga serbisyo ng Fulldive</translation>
 <translation id="7772032839648071052">Kumpirmahin ang passphrase</translation>
 <translation id="7529411698175791732">Suriin ang iyong koneksyon sa internet. Kung magpapatuloy ang problema, subukang mag-sign out at muling mag-sign in.</translation>
 <translation id="6406506848690869874">Mag-sync</translation>
@@ -4777,8 +4777,8 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="7835178595033117206">Inalis ang bookmark</translation>
 <translation id="742130257665691897">Naalis ang mga bookmark</translation>
 <translation id="5468853758063275923">Ang Fulldive ay ang default mong browser</translation>
-<translation id="2950533317914339731">Magdagdag ng mga bookmark sa iyong paboritong Gab AI Inc Apps</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">Magdagdag ng mga bookmark sa iyong paboritong Fulldive Apps</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Maps</translation>
 <translation id="6709133671862442373">Balita</translation>
@@ -4792,7 +4792,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="7789963078219276159">Napalitan ng <ph name="CATEGORY"/> ang background ng start page.</translation>
 <translation id="8771300903067484968">Na-reset sa default na background ang background ng start page.</translation>
 <translation id="239760341987199724">Itakda ang Fulldive bilang iyong default na browser</translation>
-<translation id="96037229054033864">Makakuha ng Gab AI Inc Search at Gab AI Inc smarts sa tuwing magba-browse ka</translation>
+<translation id="96037229054033864">Makakuha ng Fulldive Search at Fulldive smarts sa tuwing magba-browse ka</translation>
 <translation id="296137235951584143">Gawing iyo ang Fulldive</translation>
 <translation id="3982375475032951137">I-set up ang iyong browser gamit ang ilang simpleng hakbang</translation>
 <translation id="6972754398087986839">Magsimula</translation>
@@ -4805,7 +4805,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="1031362278801463162">Preview ng paglo-load</translation>
 <translation id="6147020289383635445">Nabigo ang preview ng pag-print.</translation>
 <translation id="5877584842898320529">Hindi available o hindi naka-install nang tama ang napiling printer. <ph name="BR"/> Suriin ang iyong printer o subukang pumili ng ibang printer.</translation>
-<translation id="6645437135153136856">Hindi na sinusuportahan ang Gab AI Inc Cloud Print device. <ph name="BR"/> Subukang i-set up ang printer sa mga setting ng system ng iyong computer.</translation>
+<translation id="6645437135153136856">Hindi na sinusuportahan ang Fulldive Cloud Print device. <ph name="BR"/> Subukang i-set up ang printer sa mga setting ng system ng iyong computer.</translation>
 <translation id="5828633471261496623">Nagpi-print...</translation>
 <translation id="6295855836753816081">Sine-save...</translation>
 <translation id="3587482841069643663">Lahat</translation>
@@ -4825,7 +4825,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="3706463572498736864">Mga page sa bawat sheet</translation>
 <translation id="2249605167705922988">hal. 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">I-save bilang PDF</translation>
-<translation id="6532101170117367231">I-save sa Gab AI Inc Drive</translation>
+<translation id="6532101170117367231">I-save sa Fulldive Drive</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/><ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">mga sheet ng papel</translation>
 <translation id="8813811964357448561">piraso ng papel</translation>
@@ -4855,7 +4855,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="6991665348624301627">Pumili ng patutunguhan</translation>
 <translation id="8800004011501252845">Nagpapakita ng mga patutunguhan para sa</translation>
 <translation id="8996526648899750015">Magdagdag ng account...</translation>
-<translation id="6723354935081862304">Mag-print sa Gab AI Inc Docs at iba pang mga patutunguhan sa cloud. <ph name="BEGIN_LINK"/>Mag-sign in<ph name="END_LINK"/> upang mag-print sa Gab AI Inc Cloud Print.</translation>
+<translation id="6723354935081862304">Mag-print sa Fulldive Docs at iba pang mga patutunguhan sa cloud. <ph name="BEGIN_LINK"/>Mag-sign in<ph name="END_LINK"/> upang mag-print sa Fulldive Cloud Print.</translation>
 <translation id="2150139952286079145">Maghanap ng mga patutunguhan</translation>
 <translation id="8569682776816196752">Walang nahanap na mga destinasyon</translation>
 <translation id="7885253890047913815">Mga Kamakailang Patutunguhan</translation>

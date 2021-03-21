@@ -43,7 +43,7 @@
 <translation id="3303855915957856445">Няма намерени резултати от търсенето</translation>
 <translation id="8967866634928501045">За показване натиснете Alt Shift A</translation>
 <translation id="998747458861718449">И&amp;нспектиране</translation>
-<translation id="4428301600092811022">Да се изтеглят ли от Gab AI Inc описания за изображенията?</translation>
+<translation id="4428301600092811022">Да се изтеглят ли от Fulldive описания за изображенията?</translation>
 <translation id="741204030948306876">Да, ще участвам</translation>
 <translation id="780301667611848630">Не, благодаря</translation>
 <translation id="3943582379552582368">&amp;Назад</translation>
@@ -97,7 +97,7 @@
 <translation id="5233736638227740678">&amp;Поставяне</translation>
 <translation id="2218515861914035131">Поставяне като неформатиран текст</translation>
 <translation id="1017280919048282932">&amp;Добавяне в речника</translation>
-<translation id="1732768497619250086">Изтегляне от Gab AI Inc на описания за изображенията</translation>
+<translation id="1732768497619250086">Изтегляне от Fulldive на описания за изображенията</translation>
 <translation id="7561196759112975576">Винаги</translation>
 <translation id="2241634353105152135">Само веднъж</translation>
 <translation id="3387614642886316601">Използване на подобрената проверка на правописа</translation>
@@ -105,7 +105,7 @@
 <translation id="5860491529813859533">Включване</translation>
 <translation id="7658239707568436148">Отказ</translation>
 <translation id="8915370057835397490">Предложението се зарежда</translation>
-<translation id="6191804255817539692">Няма повече предложения от Gab AI Inc</translation>
+<translation id="6191804255817539692">Няма повече предложения от Fulldive</translation>
 <translation id="1901303067676059328">&amp;Избиране на всички</translation>
 <translation id="3797900183766075808">&amp;Търсене на „<ph name="SEARCH_TERMS"/>“ със: <ph name="SEARCH_ENGINE"/></translation>
 <translation id="2721037002783622288">&amp;Търсене на изображението чрез <ph name="SEARCH_ENGINE"/></translation>
@@ -153,7 +153,7 @@
 <translation id="9033857511263905942">&amp;Поставяне</translation>
 <translation id="1815083418640426271">Поставяне като неформатиран текст</translation>
 <translation id="4022426551683927403">&amp;Добавяне в речника</translation>
-<translation id="6849870115130610913">Изтегляне от Gab AI Inc на описания за изображенията</translation>
+<translation id="6849870115130610913">Изтегляне от Fulldive на описания за изображенията</translation>
 <translation id="372722114124766626">Само веднъж</translation>
 <translation id="4079140982534148664">Използване на подобрената проверка на правописа</translation>
 <translation id="7487141338393529395">Включване на подобрената проверка на правописа</translation>
@@ -346,7 +346,7 @@
 <translation id="8855501062415172277">Файлът „<ph name="FILE_NAME"/>“ съдържа поверителна информация.</translation>
 <translation id="1061745542578250838">Файлът „<ph name="FILE_NAME"/>“ съдържа поверителна информация и бе блокиран.</translation>
 <translation id="6651823585377804376">Изтегленият файл съдържа злонамерен софтуер.</translation>
-<translation id="6529597483902964581">Файлът <ph name="FILE_NAME"/> може да е опасен. Искате ли да го изпратите до програмата на Gab AI Inc за разширена защита, за да бъде сканиран?</translation>
+<translation id="6529597483902964581">Файлът <ph name="FILE_NAME"/> може да е опасен. Искате ли да го изпратите до програмата на Fulldive за разширена защита, за да бъде сканиран?</translation>
 <translation id="4907161631261076876">Този файл обикновено не се изтегля и може да е опасен.</translation>
 <translation id="6102043788063419338">Този файл бе блокиран от функцията за разширена защита.</translation>
 <translation id="2773802008104670137">Този тип файл може да навреди на компютъра ви.</translation>
@@ -403,7 +403,7 @@
 <translation id="6577284282025554716">Изтеглянето е анулирано: <ph name="FILE_NAME"/></translation>
 <translation id="3340620525920140773">Изтеглянето завърши: <ph name="FILE_NAME"/>.</translation>
 <translation id="4110490973560452005">Изтеглянето завърши: <ph name="FILE_NAME"/>. Натиснете Shift + F6, за да преминете към лентата на изтеглянето.</translation>
-<translation id="7033965027041115562">Файлът <ph name="FILE_NAME"/> може да е опасен. Искате ли да го изпратите до програмата на Gab AI Inc за разширена защита, за да бъде сканиран? Натиснете Shift + F6, за да преминете към лентата на изтеглянето.</translation>
+<translation id="7033965027041115562">Файлът <ph name="FILE_NAME"/> може да е опасен. Искате ли да го изпратите до програмата на Fulldive за разширена защита, за да бъде сканиран? Натиснете Shift + F6, за да преминете към лентата на изтеглянето.</translation>
 <translation id="2743387203779672305">Копиране в буферната памет</translation>
 <translation id="883911313571074303">Добавяне на пояснение към изображението</translation>
 <translation id="6291953229176937411">&amp;Показване във Finder</translation>
@@ -831,7 +831,7 @@
 <translation id="1545775234664667895">Инсталирана тема: <ph name="THEME_NAME"/></translation>
 <translation id="2256115617011615191">Рестартиране сега</translation>
 <translation id="4545028762441890696">За да го активирате, приемете новите разрешения:</translation>
-<translation id="3009487527589249344">Gab AI Inc сигнализира, че разширението <ph name="EXTENSION_NAME"/> е злонамерено, и инсталирането бе предотвратено</translation>
+<translation id="3009487527589249344">Fulldive сигнализира, че разширението <ph name="EXTENSION_NAME"/> е злонамерено, и инсталирането бе предотвратено</translation>
 <translation id="6790497603648687708">Разширението <ph name="EXTENSION_NAME"/> бе добавено отдалечено</translation>
 <translation id="1841705068325380214">Разширението <ph name="EXTENSION_NAME"/> е деактивирано</translation>
 <translation id="595959584676692139">Презаредете страницата, за да използвате това разширение</translation>
@@ -971,7 +971,7 @@
 <translation id="3584169441612580296">Четене и промяна на снимки, музика и друга мултимедия от компютъра ви</translation>
 <translation id="5457459357461771897">Четене и изтриване на снимки, музика и друга мултимедия от компютъра ви</translation>
 <translation id="3270965368676314374">Четене, промяна и изтриване на снимки, музика и друга мултимедия от компютъра ви</translation>
-<translation id="1285484354230578868">Съхраняване на данните в профила ви в Gab AI Inc Диск</translation>
+<translation id="1285484354230578868">Съхраняване на данните в профила ви в Fulldive Диск</translation>
 <translation id="378312418865624974">Четене на уникалния идентификатор на този компютър</translation>
 <translation id="5094721898978802975">Комуникация със съдействащи директно изпълнявани приложения</translation>
 <translation id="4876895919560854374">Заключване и отключване на екрана</translation>
@@ -1182,7 +1182,7 @@
 <translation id="8756969031206844760">Да се актуализира ли паролата?</translation>
 <translation id="8230134520748321204">Да се запази ли паролата за <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">Да се актуализира ли паролата за <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Паролите се запазват в профила ви в Gab AI Inc, за да можете да ги използвате на всяко устройство</translation>
+<translation id="8284000761603848448">Паролите се запазват в профила ви в Fulldive, за да можете да ги използвате на всяко устройство</translation>
 <translation id="8286036467436129157">Вход</translation>
 <translation id="8009225694047762179">Управление на паролите</translation>
 <translation id="3950820424414687140">Вход</translation>
@@ -1190,10 +1190,10 @@
 <translation id="328571385944182268">Да се запазят ли паролите ви?</translation>
 <translation id="3753033997400164841">Съхранете веднъж. Използвайте навсякъде</translation>
 <translation id="1703331064825191675">Никога повече не се тревожете за паролите си</translation>
-<translation id="2341030170677284705">Паролите ви ще се съхраняват сигурно в профила ви в Gab AI Inc и няма да се налага да ги въвеждате отново</translation>
-<translation id="3913985461352963178">Осъществявайте достъп до паролите си винаги когато сте влезли в профила си в Gab AI Inc</translation>
-<translation id="4851124464356820177">За да запазвате пароли в профила си в Gab AI Inc, влезте в него и включете синхронизирането.</translation>
-<translation id="3229869963989850535">За да запазвате пароли в профила си в Gab AI Inc, включете синхронизирането.</translation>
+<translation id="2341030170677284705">Паролите ви ще се съхраняват сигурно в профила ви в Fulldive и няма да се налага да ги въвеждате отново</translation>
+<translation id="3913985461352963178">Осъществявайте достъп до паролите си винаги когато сте влезли в профила си в Fulldive</translation>
+<translation id="4851124464356820177">За да запазвате пароли в профила си в Fulldive, влезте в него и включете синхронизирането.</translation>
+<translation id="3229869963989850535">За да запазвате пароли в профила си в Fulldive, включете синхронизирането.</translation>
 <translation id="1056466516655540509">Актуализирано преди <ph name="MINUTES"/> мин</translation>
 <translation id="8743864605301774756">Актуализирано преди 1 ч</translation>
 <translation id="7363117941401515667">Актуализирано преди <ph name="HOURS"/> ч</translation>
@@ -1297,9 +1297,9 @@
 <translation id="1246905108078336582">Искате ли да премахнете предложението от буферната памет?</translation>
 <translation id="825238165904109940">Пълните URL адреси да се показват винаги</translation>
 <translation id="3416468988018290825">Пълните URL адреси да се показват винаги</translation>
-<translation id="2129873093718581193">Потърсете с Gab AI Inc или въведете URL адрес</translation>
-<translation id="6363797201514053536">Търсете с Gab AI Inc или въведете URL адрес</translation>
-<translation id="4888839742663123585">Търсете с Gab AI Inc</translation>
+<translation id="2129873093718581193">Потърсете с Fulldive или въведете URL адрес</translation>
+<translation id="6363797201514053536">Търсете с Fulldive или въведете URL адрес</translation>
+<translation id="4888839742663123585">Търсете с Fulldive</translation>
 <translation id="6078323886959318429">Добавяне на пряк път</translation>
 <translation id="6324916366299863871">Редактиране на прекия път</translation>
 <translation id="4405117686468554883">*.jpeg, *.jpg, *.png</translation>
@@ -1483,35 +1483,35 @@
 <translation id="6798578729981748444">За да завършите импортирането, затворете всички прозорци на Firefox.</translation>
 <translation id="6374469231428023295">Нов опит</translation>
 <translation id="8725066075913043281">Опитайте отново</translation>
-<translation id="4196805003686694274">Изпращане на отзиви до Gab AI Inc</translation>
+<translation id="4196805003686694274">Изпращане на отзиви до Fulldive</translation>
 <translation id="3424969259347320884">Опишете какво правехте, когато разделът претърпя срив</translation>
-<translation id="1892630320532151038">Изпращане на отзиви до Gab AI Inc</translation>
+<translation id="1892630320532151038">Изпращане на отзиви до Fulldive</translation>
 <translation id="2428510569851653187">Опишете какво правехте, когато разделът претърпя срив</translation>
 <translation id="5659593005791499971">Имейл</translation>
 <translation id="2982970937345031">Подаване на анонимен сигнал</translation>
 <translation id="6076448957780543068">Включване на тази екранна снимка</translation>
 <translation id="2865919525181940183">Екранна снимка на програмите на екрана</translation>
 <translation id="7052237160939977163">Да се изпратят данните от проследяването на ефективността</translation>
-<translation id="5526928694260255286">Прикачване на <ph name="BEGIN_LINK"/>регистрационните файлове за Bluetooth<ph name="END_LINK"/> (вътрешно за Gab AI Inc)</translation>
+<translation id="5526928694260255286">Прикачване на <ph name="BEGIN_LINK"/>регистрационните файлове за Bluetooth<ph name="END_LINK"/> (вътрешно за Fulldive)</translation>
 <translation id="3047644958362961983">Тази информация ни помага да разберем по-добре проблема, който срещате с Асистент. Тя се съхранява до 90 дни и достъпът до нея е ограничен до съответните инженерни екипи и екипи по отзивите.</translation>
-<translation id="8545590844135745781">За по-добра диагностика на проблемите с Bluetooth служителите на Gab AI Inc могат да включват в сигналите си с отзиви допълнителни регистрационни файлове за Bluetooth. Когато за тази опция е поставена отметка, сигналът ви ще съдържа регистрационните файлове за btsnoop и HCI от текущата ви сесия, като от тях ще бъде премахната възможно най-много информация, позволяваща лично идентифициране (PII). Достъпът до тези файлове ще бъде ограничен до мениджърите на групата за продукта Fulldive OS в Listnr. Файловете ще бъдат изтрити безвъзвратно след 90 дни.</translation>
+<translation id="8545590844135745781">За по-добра диагностика на проблемите с Bluetooth служителите на Fulldive могат да включват в сигналите си с отзиви допълнителни регистрационни файлове за Bluetooth. Когато за тази опция е поставена отметка, сигналът ви ще съдържа регистрационните файлове за btsnoop и HCI от текущата ви сесия, като от тях ще бъде премахната възможно най-много информация, позволяваща лично идентифициране (PII). Достъпът до тези файлове ще бъде ограничен до мениджърите на групата за продукта Fulldive OS в Listnr. Файловете ще бъдат изтрити безвъзвратно след 90 дни.</translation>
 <translation id="4206323443866416204">Сигнал с отзив</translation>
 <translation id="3681311097828166361">Благодарим ви за отзива. В момента сте офлайн, така че сигналът ви ще бъде изпратен по-късно.</translation>
 <translation id="8713570323158206935">Изпращане на <ph name="BEGIN_LINK1"/>системна информация<ph name="END_LINK1"/></translation>
 <translation id="6395423953133416962">Изпращане на <ph name="BEGIN_LINK1"/>системна информация<ph name="END_LINK1"/> и <ph name="BEGIN_LINK2"/>показатели<ph name="END_LINK2"/></translation>
 <translation id="6270770586500173387">Изпращане на <ph name="BEGIN_LINK1"/>информация за системата и приложенията<ph name="END_LINK1"/>, както и за <ph name="BEGIN_LINK2"/>показателите<ph name="END_LINK2"/></translation>
 <translation id="3894123633473837029">Включване на скорошната история в Асистент посредством Sherlog. Тя може да включва самоличността ви, местоположението и информация за отстраняване на грешки. <ph name="BEGIN_LINK"/>Научете повече<ph name="END_LINK"/></translation>
-<translation id="8329196515830093443">Файлът ще бъде изпратен до Gab AI Inc за отстраняване на грешки</translation>
+<translation id="8329196515830093443">Файлът ще бъде изпратен до Fulldive за отстраняване на грешки</translation>
 <translation id="8227119283605456246">Прикачване на файл</translation>
 <translation id="5367091008316207019">Файлът се чете...</translation>
 <translation id="2554553592469060349">Избраният файл е твърде голям (максимален размер: 3 МБ).</translation>
 <translation id="4690091457710545971">&lt;Фърмуерът на Intel за Wi-Fi генерира четири файла: csr.lst, fh_regs.lst, radio_reg.lst и monitor.lst.sysmon. Първите три са двоични файлове с копия на данни от системния регистър и според Intel не съдържат лични данни или информация, идентифицираща устройството. Последният е файл за трасиране на изпълнението от фърмуера на Intel. Личните данни и идентифициращата устройството информация са премахнати от него, но той е твърде голям, за да бъде показан тук. Тези файлове са генерирани поради скорошните проблеми с Wi-Fi на устройството ви и ще бъдат споделени с Intel с цел по-лесното им отстраняване.&gt;</translation>
-<translation id="6972420083546794501">Отворете <ph name="BEGIN_LINK1"/>страницата за правна помощ<ph name="END_LINK1"/>, за да заявите промени в съдържанието по причини от правен характер. До Gab AI Inc може да бъде изпратена информация за профила и системата. Ще използваме предоставените от вас данни за отстраняване на технически проблеми и за подобряване на услугите ни в съответствие с <ph name="BEGIN_LINK2"/>Декларацията за поверителност<ph name="END_LINK2"/> и <ph name="BEGIN_LINK3"/>Общите ни условия<ph name="END_LINK3"/>.</translation>
+<translation id="6972420083546794501">Отворете <ph name="BEGIN_LINK1"/>страницата за правна помощ<ph name="END_LINK1"/>, за да заявите промени в съдържанието по причини от правен характер. До Fulldive може да бъде изпратена информация за профила и системата. Ще използваме предоставените от вас данни за отстраняване на технически проблеми и за подобряване на услугите ни в съответствие с <ph name="BEGIN_LINK2"/>Декларацията за поверителност<ph name="END_LINK2"/> и <ph name="BEGIN_LINK3"/>Общите ни условия<ph name="END_LINK3"/>.</translation>
 <translation id="7915471803647590281">Моля, кажете ни какво става, преди да изпратите отзивите.</translation>
 <translation id="6885771755599377173">Преглед на системната информация</translation>
 <translation id="1016566241875885511">Допълнителна информация (незадължително)</translation>
 <translation id="8026334261755873520">Изчистване на данните за сърфирането</translation>
-<translation id="4718442817388594217">Избраните данни са премахнати от Fulldive и синхронизираните устройства. Възможно е в профила ви в Gab AI Inc да има други видове история на сърфиране, съхранявани на адрес <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> – например търсения и активност от други наши услуги.</translation>
+<translation id="4718442817388594217">Избраните данни са премахнати от Fulldive и синхронизираните устройства. Възможно е в профила ви в Fulldive да има други видове история на сърфиране, съхранявани на адрес <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> – например търсения и активност от други наши услуги.</translation>
 <translation id="7814200940910057384">Данните в Fulldive са изчистени</translation>
 <translation id="7346909386216857016">Добре, разбрах</translation>
 <translation id="8493236660459102203">Микрофон:</translation>
@@ -1534,7 +1534,7 @@
 <translation id="284805635805850872">Да се премахне ли опасният софтуер?</translation>
 <translation id="489985760463306091">За да завършите премахването на опасния софтуер, рестартирайте компютъра си</translation>
 <translation id="7598466960084663009">Рестартирайте компютъра</translation>
-<translation id="2819091349626575960">Изпращане на подробностите до Gab AI Inc</translation>
+<translation id="2819091349626575960">Изпращане на подробностите до Fulldive</translation>
 <translation id="4099060993766194518">Да се възстанови ли основната търсеща машина?</translation>
 <translation id="138784436342154190">Да се възстанови ли стандартната страница при стартиране?</translation>
 <translation id="5086874064903147617">Да се възстанови ли стандартната начална страница?</translation>
@@ -1644,10 +1644,10 @@
 <translation id="3693415264595406141">Парола:</translation>
 <translation id="9111102763498581341">Отключване</translation>
 <translation id="2190355936436201913">(празно)</translation>
-<translation id="9079153198295609735">Автоматично изпращане до Gab AI Inc на статистически данни за използването на Fulldive и сигнали за сривове</translation>
+<translation id="9079153198295609735">Автоматично изпращане до Fulldive на статистически данни за използването на Fulldive и сигнали за сривове</translation>
 <translation id="7136984461011502314">Добре дошли в <ph name="PRODUCT_NAME"/></translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME"/> е готов да завърши инсталирането</translation>
-<translation id="4711067597921221305">Помогнете ни да подобрим <ph name="PRODUCT_NAME"/> като автоматично изпращате на Gab AI Inc статистически данни за използването му и сигнали за сривове</translation>
+<translation id="4711067597921221305">Помогнете ни да подобрим <ph name="PRODUCT_NAME"/> като автоматично изпращате на Fulldive статистически данни за използването му и сигнали за сривове</translation>
 <translation id="5972826969634861500">Стартиране на <ph name="PRODUCT_NAME"/></translation>
 <translation id="4876273079589074638">Помогнете на инженерите ни да открият и отстранят причината за този срив. Ако е възможно, посочете точните стъпки. Всяка подробност е важна!</translation>
 <translation id="5418694430960033386">Или Fulldive няма достатъчно памет, или процесът за уеб страницата бе прекратен по друга причина. За да продължите, презаредете или отворете друга страница.</translation>
@@ -1660,7 +1660,7 @@
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Платформа</translation>
 <translation id="7022562585984256452">Началната ви страница е зададена.</translation>
-<translation id="8069615408251337349">Gab AI Inc Отпечатване в облак</translation>
+<translation id="8069615408251337349">Fulldive Отпечатване в облак</translation>
 <translation id="4973307593867026061">Добавяне на принтери</translation>
 <translation id="9052208328806230490">Регистрирахте принтерите си в <ph name="CLOUD_PRINT_NAME"/>, използвайки профила <ph name="EMAIL"/></translation>
 <translation id="3792890930871100565">Прекъсване на връзката с принтерите</translation>
@@ -1694,7 +1694,7 @@
 <translation id="7063129466199351735">Преките пътища се обработват...</translation>
 <translation id="8987927404178983737">Месец</translation>
 <translation id="6015796118275082299">Година</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Използване на системната заглавна лента и контурите</translation>
 <translation id="3293644607209440645">Изпращане на тази страница</translation>
 <translation id="1521774566618522728">Активно днес</translation>
@@ -1748,7 +1748,7 @@
 <translation id="8930351635855238750">Новите настройки за „бисквитките“ ще влязат в сила след презареждането на страницата</translation>
 <translation id="2568774940984945469">Контейнер на инфолента</translation>
 <translation id="7282992757463864530">Информационна лента</translation>
-<translation id="1805077115206898822">Вашите отметки, история и други настройки ще се синхронизират с профила ви в Gab AI Inc.</translation>
+<translation id="1805077115206898822">Вашите отметки, история и други настройки ще се синхронизират с профила ви в Fulldive.</translation>
 <translation id="1974060860693918893">Разширени</translation>
 <translation id="2445484935443597917">Създаване на нов потребителски профил</translation>
 <translation id="2606246518223360146">Свързване на данните</translation>
@@ -1835,7 +1835,7 @@
 <translation id="6387674443318562538">Вертикално разделяне</translation>
 <translation id="1231733316453485619">Да се включи ли синхронизирането?</translation>
 <translation id="4736292055110123391">Синхронизиране на вашите отметки, пароли, история и др. на всичките ви устройства</translation>
-<translation id="5736731321935944068">Възможно е да използваме историята ви, за да персонализираме търсенето, рекламите и други услуги на Gab AI Inc</translation>
+<translation id="5736731321935944068">Възможно е да използваме историята ви, за да персонализираме търсенето, рекламите и други услуги на Fulldive</translation>
 <translation id="4201546031411513170">Винаги можете да изберете какво да се синхронизира от настройките.</translation>
 <translation id="2497852260688568942">Синхронизирането е деактивирано от администратора ви</translation>
 <translation id="562935524653278697">Администраторът ви е деактивирал синхронизирането на вашите отметки, история, пароли и други настройки.</translation>
@@ -1914,10 +1914,10 @@
 <translation id="6198102561359457428">Излезте от профила си и влезте отново...</translation>
 <translation id="4634771451598206121">Влизане отново...</translation>
 <translation id="7117247127439884114">Влизане отново...</translation>
-<translation id="4251909665067750757">Влезте в профила си, за да получите своите отметки, история, пароли и други настройки на всичките си устройства. Също така ще влезете автоматично в използваните от вас услуги на Gab AI Inc.</translation>
+<translation id="4251909665067750757">Влезте в профила си, за да получите своите отметки, история, пароли и други настройки на всичките си устройства. Също така ще влезете автоматично в използваните от вас услуги на Fulldive.</translation>
 <translation id="2749756011735116528">Вход в <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Синхронизирането е деактивирано от администратора ви.</translation>
-<translation id="5462539695964427820">Синхронизирането е спряно чрез Gab AI Inc Табло за управление.</translation>
+<translation id="5462539695964427820">Синхронизирането е спряно чрез Fulldive Табло за управление.</translation>
 <translation id="8805140816472474147">За да стартирате синхронизирането, потвърдете съответните настройки.</translation>
 <translation id="5771816112378578655">Извършва се настройка...</translation>
 <translation id="3492788708641132712">Синхронизирането не работи. Опитайте отново да влезете в профила си.</translation>
@@ -1931,16 +1931,16 @@
 <translation id="1877520246462554164">Получаването на означение за удостоверяване не бе успешно. Моля, излезте от профила си и влезте отново в него, за да опитате пак.</translation>
 <translation id="9100765901046053179">Разширени настройки</translation>
 <translation id="2731700343119398978">Моля, изчакайте...</translation>
-<translation id="7218743184834293955">Данните са шифровани с пропуска ви за синхронизиране. Това не включва начините на плащане и адресите от Gab AI Inc Pay.</translation>
+<translation id="7218743184834293955">Данните са шифровани с пропуска ви за синхронизиране. Това не включва начините на плащане и адресите от Fulldive Pay.</translation>
 <translation id="7158251077901880179">Данните бяха шифровани с пропуска ви за синхронизиране на
-<ph name="TIME"/>. Това не включва начините на плащане и адресите от Gab AI Inc Pay.</translation>
-<translation id="1171389789873508468">Данните бяха шифровани с паролата ви за Gab AI Inc от
-<ph name="TIME"/>. Това не включва начините на плащане и адресите от Gab AI Inc Pay.</translation>
+<ph name="TIME"/>. Това не включва начините на плащане и адресите от Fulldive Pay.</translation>
+<translation id="1171389789873508468">Данните бяха шифровани с паролата ви за Fulldive от
+<ph name="TIME"/>. Това не включва начините на плащане и адресите от Fulldive Pay.</translation>
 <translation id="2562743677925229011">Не сте влезли в <ph name="SHORT_PRODUCT_NAME"/></translation>
 <translation id="4027804175521224372">(Изпускате – <ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">вход</translation>
 <translation id="237828693408258535">Да се преведе ли тази страница?</translation>
-<translation id="4613765529964435709">Искате ли Gab AI Inc да преведе тази страница от <ph name="SOURCE_LANGUAGE"/> на <ph name="TARGET_LANGUAGE"/>?</translation>
+<translation id="4613765529964435709">Искате ли Fulldive да преведе тази страница от <ph name="SOURCE_LANGUAGE"/> на <ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="5990386583461751448">Преведено</translation>
 <translation id="5659833766619490117">Тази страница не можа да бъде преведена</translation>
 <translation id="969096075394517431">Промяна на езиците</translation>
@@ -2119,7 +2119,7 @@
 <translation id="6309510305002439352">Микрофонът е изключен</translation>
 <translation id="1322046419516468189">Преглеждайте и управлявайте запазените пароли в <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Паролата е запазена. Преглеждайте и управлявайте запазените пароли в <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Профил в Gab AI Inc</translation>
+<translation id="5713644099811900409">Профил в Fulldive</translation>
 <translation id="3785727820640310185">Запазени пароли за този сайт</translation>
 <translation id="3404065873681873169">Няма запазени пароли за този сайт</translation>
 <translation id="8470513973197838199">Запазени пароли за <ph name="ORIGIN"/></translation>
@@ -2232,7 +2232,7 @@
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{Екран #}other{Екран #}}</translation>
 <translation id="839736845446313156">Регистриране</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{Нов принтер в мрежата ви}other{Нови принтери в мрежата ви}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Добавете принтера към Gab AI Inc Отпечатване в облак, за да можете да печатате от всяко място.}other{Добавете # принтера към Gab AI Inc Отпечатване в облак, за да можете да печатате от всяко място.}}</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Добавете принтера към Fulldive Отпечатване в облак, за да можете да печатате от всяко място.}other{Добавете # принтера към Fulldive Отпечатване в облак, за да можете да печатате от всяко място.}}</translation>
 <translation id="409579654357498729">Добавяне към Отпечатване в облак</translation>
 <translation id="4628757576491864469">Устройства</translation>
 <translation id="6915804003454593391">Потребител:</translation>
@@ -2242,8 +2242,8 @@
 <translation id="1895934970388272448">За да завършите този процес, трябва да потвърдите регистрацията от принтера си – проверете го сега.</translation>
 <translation id="551752069230578406">Принтерът се добавя в профила ви. Това може да отнеме известно време...</translation>
 <translation id="2384436799579181135">Възникна грешка. Моля, проверете принтера си и опитайте отново.</translation>
-<translation id="1327074568633507428">Принтер в Gab AI Inc Отпечатване в облак</translation>
-<translation id="6782994146626179935">Устройство в Gab AI Inc Cloud Devices</translation>
+<translation id="1327074568633507428">Принтер в Fulldive Отпечатване в облак</translation>
+<translation id="6782994146626179935">Устройство в Fulldive Cloud Devices</translation>
 <translation id="7140928199327930795">Няма други налични устройства.</translation>
 <translation id="8213577208796878755">Още едно налично устройство.</translation>
 <translation id="1495486559005647033">Още <ph name="NUM_PRINTERS"/> налични устройства.</translation>
@@ -2259,7 +2259,7 @@
 <translation id="715118844758971915">Традиционни принтери</translation>
 <translation id="4263757076580287579">Регистрацията на принтера е анулирана.</translation>
 <translation id="8152091997436726702">Времето за изчакване на регистрацията на принтера изтече. За да я извършите, трябва да я потвърдите на принтера.</translation>
-<translation id="2624930408905606513">Документите <ph name="BEGIN_LINK_HELP"/>се изпращат до Gab AI Inc<ph name="END_LINK_HELP"/> с цел подготовката им за отпечатване. Преглеждайте, редактирайте и управлявайте принтерите си и историята им от <ph name="BEGIN_LINK_DASHBOARD"/>таблото за управление на Gab AI Inc Отпечатване в облак<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513">Документите <ph name="BEGIN_LINK_HELP"/>се изпращат до Fulldive<ph name="END_LINK_HELP"/> с цел подготовката им за отпечатване. Преглеждайте, редактирайте и управлявайте принтерите си и историята им от <ph name="BEGIN_LINK_DASHBOARD"/>таблото за управление на Fulldive Отпечатване в облак<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">Този раздел използва камерата или микрофона ви.</translation>
 <translation id="3578594933904494462">Съдържанието на този раздел се споделя.</translation>
 <translation id="4449996769074858870">В този раздел се възпроизвежда звук.</translation>
@@ -2386,14 +2386,14 @@
 <translation id="7055152154916055070">Блокирано бе пренасочване:</translation>
 <translation id="6777817260680419853">Блокирано бе пренасочване</translation>
 <translation id="694592694773692225">На тази страница бе блокирано пренасочване.</translation>
-<translation id="8945142681652245463">Сърфирайте бързо с Gab AI Inc Fulldive</translation>
-<translation id="2618024864038703735">Сърфирайте безопасно с Gab AI Inc Fulldive</translation>
+<translation id="8945142681652245463">Сърфирайте бързо с Fulldive Fulldive</translation>
+<translation id="2618024864038703735">Сърфирайте безопасно с Fulldive Fulldive</translation>
 <translation id="8142180567942285208">Сърфирайте интелигентно с Fulldive</translation>
 <translation id="8862003515646449717">Преминете към бърз браузър</translation>
 <translation id="8438328416656800239">Преминете към интелигентен браузър</translation>
 <translation id="491691592645955587">Преминете към сигурен браузър</translation>
 <translation id="683373380308365518">Преминете към интелигентен и сигурен браузър</translation>
-<translation id="989239400026154074">Gab AI Inc препоръчва Fulldive</translation>
+<translation id="989239400026154074">Fulldive препоръчва Fulldive</translation>
 <translation id="6676231621615806698">Отваряне на Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> използва местоположението ви, за да ви предоставя местно съдържание. Можете да промените това от <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Изтеглените от вас неща ще се показват тук</translation>
@@ -2559,7 +2559,7 @@
 <translation id="2878782256107578644">Файлът се сканира. Да се отвори ли сега?</translation>
 <translation id="6098793583803863900">Неизвестен файл се сканира за опасно съдържание.</translation>
 <translation id="7584578941316704630">Да се сканира ли файлът, преди да го отворите?</translation>
-<translation id="4467402456678825062">Избраният файл е неизвестен и може да бъде опасен. Искате ли да го изпратите до програмата на Gab AI Inc за разширена защита, за да бъде сканиран?</translation>
+<translation id="4467402456678825062">Избраният файл е неизвестен и може да бъде опасен. Искате ли да го изпратите до програмата на Fulldive за разширена защита, за да бъде сканиран?</translation>
 <translation id="2587922766792651800">Времето за изчакване изтече</translation>
 <translation id="4404136731284211429">Повторно сканиране</translation>
 <translation id="6428450836711225518">Потвърдете телефонния си номер</translation>
@@ -2567,7 +2567,7 @@
 <translation id="6518133107902771759">Потвърждаване</translation>
 <translation id="4379281552162875326">Да се деинсталира ли <ph name="APP_NAME"/>?</translation>
 <translation id="8812593354822910461">Също така изчистване на данните за сърфирането (<ph name="URL"/>), при което ще бъде прекратена сесията ви в(ъв) <ph name="DOMAIN"/>. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Също така изчистване на данните за сърфирането (<ph name="URL"/>), при което може да бъде прекратена сесията ви в Gab AI Inc.com. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Също така изчистване на данните за сърфирането (<ph name="URL"/>), при което може да бъде прекратена сесията ви в Fulldive.com. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Научете повече</translation>
 <translation id="2346953515226895098">Услуга SODA</translation>
 <translation id="7516981202574715431"><ph name="APP_NAME"/> е на пауза</translation>
@@ -2729,7 +2729,7 @@
 <translation id="4144218403971135344">Гледайте видео с по-добро качество и удължете живота на батерията. Видеото ще се възпроизвежда само на екрана ви, поддържащ Cast.</translation>
 <translation id="236117173274098341">Оптимизиране</translation>
 <translation id="8538358978858059843">Да се активират ли услугите в облака за Cast?</translation>
-<translation id="3856595552313160385">Използването на Hangouts и Cast for Education се урежда от Декларацията за поверителност на Gab AI Inc.</translation>
+<translation id="3856595552313160385">Използването на Hangouts и Cast for Education се урежда от Декларацията за поверителност на Fulldive.</translation>
 <translation id="3435896845095436175">Активиране</translation>
 <translation id="3700888195348409686">Представя се (<ph name="PAGE_ORIGIN"/>)</translation>
 <translation id="5285635972691565180">Екран <ph name="DISPLAY_ID"/></translation>
@@ -2973,9 +2973,9 @@
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> и още 1 профил}other{<ph name="EMAIL"/> и още <ph name="EXTRA_ACCOUNTS"/> профила}}</translation>
 <translation id="7434635829372401939">Синхронизиране на настройките ви</translation>
 <translation id="1036348656032585052">Изключване</translation>
-<translation id="3267705913905916810">Приложенията и настройките ви ще се синхронизират с всички устройства с Fulldive OS, в които сте влезли в профила си в Gab AI Inc. За да намерите опциите за синхронизиране на браузъра, отворете <ph name="LINK_BEGIN"/>настройките на Fulldive<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Приложенията и настройките ви ще се синхронизират с всички устройства с Fulldive OS, в които сте влезли в профила си в Fulldive. За да намерите опциите за синхронизиране на браузъра, отворете <ph name="LINK_BEGIN"/>настройките на Fulldive<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Принтери</translation>
-<translation id="8418661265246754237">Профили в Gab AI Inc</translation>
+<translation id="8418661265246754237">Профили в Fulldive</translation>
 <translation id="3953834000574892725">Моите профили</translation>
 <translation id="6011193465932186973">Отпечатък</translation>
 <translation id="3707212204259470604">Управление на други профили</translation>
@@ -3017,16 +3017,16 @@
 <translation id="5916664084637901428">Включено</translation>
 <translation id="5860033963881614850">Изключено</translation>
 <translation id="5515923816438946203">Изберете какво да се показва на екрана</translation>
-<translation id="2187700606737131818">Gab AI Inc Снимки</translation>
+<translation id="2187700606737131818">Fulldive Снимки</translation>
 <translation id="1827738518074806965">Художествена галерия</translation>
 <translation id="9137157311132182254">Предпочитана търсеща машина</translation>
 <translation id="7423118389528876103">Използва се от браузъра Fulldive и стартовия панел на <ph name="DEVICE_TYPE"/></translation>
-<translation id="2862205630718215619">Gab AI Inc Асистент</translation>
+<translation id="2862205630718215619">Fulldive Асистент</translation>
 <translation id="8959699239363253085">Включено</translation>
 <translation id="971479617738309149">Изключено</translation>
 <translation id="7807067443225230855">Търсене и Асистент</translation>
 <translation id="1293556467332435079">Файлове</translation>
-<translation id="6474884162850599008">Прекратяване на връзката с профила в Gab AI Inc Диск</translation>
+<translation id="6474884162850599008">Прекратяване на връзката с профила в Fulldive Диск</translation>
 <translation id="3653160965917900914">Споделени хранилища в мрежата</translation>
 <translation id="4906490889887219338">Настройване или управление на споделени хранилища в мрежата. <ph name="LINK_BEGIN"/>Научете повече<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Добавяне на споделено хранилище</translation>
@@ -3077,7 +3077,7 @@
 <translation id="5511379779384092781">Много нисък</translation>
 <translation id="2765217105034171413">Малък</translation>
 <translation id="7409549334477097887">Много висок</translation>
-<translation id="1800308196794859773">Изпращане на гласа ви до Gab AI Inc, за да можете да диктувате във всяко текстово поле.</translation>
+<translation id="1800308196794859773">Изпращане на гласа ви до Fulldive, за да можете да диктувате във всяко текстово поле.</translation>
 <translation id="8758418656925882523">Активиране на режима на диктуване (въвеждане чрез говор)</translation>
 <translation id="1330145147221172764">Активиране на екранната клавиатура</translation>
 <translation id="7580671184200851182">Възпроизвеждане на един и същ звук през всички високоговорители (моно)</translation>
@@ -3140,7 +3140,7 @@
 <translation id="6902066522699286937">Глас за изпробване</translation>
 <translation id="304747341537320566">Машини за синтезиран говор</translation>
 <translation id="2755367719610958252">Управление на функциите за достъпност</translation>
-<translation id="1203953622051744249">Управлявайте профилите, в които сте влезли. В зависимост от разрешенията уебсайтовете, приложенията и разширенията в Fulldive и Gab AI Inc Play може да използват тези профили, за да персонализират практическата ви работа. <ph name="LINK_BEGIN"/>Научете повече<ph name="LINK_END"/></translation>
+<translation id="1203953622051744249">Управлявайте профилите, в които сте влезли. В зависимост от разрешенията уебсайтовете, приложенията и разширенията в Fulldive и Fulldive Play може да използват тези профили, за да персонализират практическата ви работа. <ph name="LINK_BEGIN"/>Научете повече<ph name="LINK_END"/></translation>
 <translation id="762068974690945752">Добавете профил от учебно заведение или управлявайте профилите на деца оттук. <ph name="LINK_BEGIN"/>Научете повече<ph name="LINK_END"/></translation>
 <translation id="1987317783729300807">Профили</translation>
 <translation id="6597148444736186483">За да излезете от основния профил на това устройство, кликнете върху часа на екрана. В менюто, което се показва, кликнете върху „Изход“.</translation>
@@ -3149,8 +3149,8 @@
 <translation id="2923234477033317484">Премахване на този профил</translation>
 <translation id="7665369617277396874">Добавяне на профил</translation>
 <translation id="8428271547607112339">Нов училищен профил</translation>
-<translation id="4920274951865016604">Администраторът ви е деактивирал функцията за добавяне на профили в Gab AI Inc</translation>
-<translation id="8845742957886589229">Функцията за добавяне на профили в Gab AI Inc е деактивирана</translation>
+<translation id="4920274951865016604">Администраторът ви е деактивирал функцията за добавяне на профили в Fulldive</translation>
+<translation id="8845742957886589229">Функцията за добавяне на профили в Fulldive е деактивирана</translation>
 <translation id="5021750053540820849">Още не е актуализиран</translation>
 <translation id="3448492834076427715">Актуализиране на профила</translation>
 <translation id="2458379781610688953">Актуализиране на профила <ph name="EMAIL"/></translation>
@@ -3185,7 +3185,7 @@
 <translation id="3661172646479098821">Понастоящем се поддържат само устройства с Android.</translation>
 <translation id="3201422919974259695">Наличните USB устройства ще се показват тук.</translation>
 <translation id="2629227353894235473">Разработване на приложения за Android</translation>
-<translation id="1669729672557072907">За да създавате и тествате приложения, активирайте моста на Android за отстраняване на грешки (ADB). Обърнете внимание, че това действие позволява инсталирането на приложения за Android, които не са удостоверени от Gab AI Inc. За деактивирането на ADB е необходимо да бъдат възстановени фабричните настройки.</translation>
+<translation id="1669729672557072907">За да създавате и тествате приложения, активирайте моста на Android за отстраняване на грешки (ADB). Обърнете внимание, че това действие позволява инсталирането на приложения за Android, които не са удостоверени от Fulldive. За деактивирането на ADB е необходимо да бъдат възстановени фабричните настройки.</translation>
 <translation id="4638930039313743000">Активиране на отстраняването на грешки през ADB</translation>
 <translation id="1630768113285622200">Рестартиране и продължаване</translation>
 <translation id="1005333234656240382">Да се активира ли отстраняването на грешки през ADB?</translation>
@@ -3222,17 +3222,17 @@
 <translation id="1870629042957780127">Предоставяне на достъп до микрофона</translation>
 <translation id="1392232653471491344">Изисква се рестартиране на Linux</translation>
 <translation id="1064552680598333868">Промените за микрофона ще влязат в сила при следващото рестартиране на Linux.</translation>
-<translation id="2714393097308983682">Gab AI Inc Play Магазин</translation>
+<translation id="2714393097308983682">Fulldive Play Магазин</translation>
 <translation id="2966937470348689686">Управление на предпочитанията за Android</translation>
-<translation id="6398715114293939307">Премахване на Gab AI Inc Play Магазин</translation>
+<translation id="6398715114293939307">Премахване на Fulldive Play Магазин</translation>
 <translation id="2792290659606763004">Да се премахнат ли приложенията за Android?</translation>
 <translation id="492299503953721473">Премахване на приложенията за Android</translation>
-<translation id="7566118625369982896">Управление на връзките към приложения в Gab AI Inc Play</translation>
+<translation id="7566118625369982896">Управление на връзките към приложения в Fulldive Play</translation>
 <translation id="8785622406424941542">Писалка</translation>
 <translation id="5862109781435984885">Показване на инструментите за писане в лавицата</translation>
 <translation id="4673442866648850031">Отваряне на инструментите за писане при изваждане на писалката</translation>
 <translation id="4244238649050961491">Намиране на още приложения за писалка</translation>
-<translation id="668599234725812620">Отваряне на Gab AI Inc Play</translation>
+<translation id="668599234725812620">Отваряне на Fulldive Play</translation>
 <translation id="9116799625073598554">Приложение за водене на бележки</translation>
 <translation id="203574396658008164">Активиране на функцията за водене на бележки от заключения екран</translation>
 <translation id="6238923052227198598">Запазване на най-новата бележка на заключения екран</translation>
@@ -3378,7 +3378,7 @@
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> – <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Активиране на мобилните данни</translation>
 <translation id="7378812711085314936">Получаване на връзка за пренос на данни</translation>
-<translation id="3483333858382889684">Позволете на това устройство да намира други устройства с профила ви в Gab AI Inc, които имат връзка за пренос на мобилни данни</translation>
+<translation id="3483333858382889684">Позволете на това устройство да намира други устройства с профила ви в Fulldive, които имат връзка за пренос на мобилни данни</translation>
 <translation id="1572266655485775982">Активиране на Wi-Fi</translation>
 <translation id="7078120482318506217">Всички мрежи</translation>
 <translation id="1235458158152011030">Известни мрежи</translation>
@@ -3410,13 +3410,13 @@
 <translation id="4421167684395067330">Има проблеми със свързването. Моля, обърнете се към <ph name="CARRIER_NAME"/> за съдействие.</translation>
 <translation id="7780252971640011240">Има проблеми със свързването. Моля, обърнете се към оператора си за съдействие.</translation>
 <translation id="161460670679785907">Телефонът ви не може да бъде намерен</translation>
-<translation id="778480864305029524">За да използвате незабавен тетъринг, включете известията за услугите за Gab AI Inc Play.</translation>
+<translation id="778480864305029524">За да използвате незабавен тетъринг, включете известията за услугите за Fulldive Play.</translation>
 <translation id="7696063401938172191">На своя <ph name="PHONE_NAME"/>:</translation>
 <translation id="3423463006624419153">На устройствата си <ph name="PHONE_NAME_1"/> и <ph name="PHONE_NAME_2"/>:</translation>
 <translation id="6997707937646349884">На устройствата си:</translation>
 <translation id="7531779363494549572">Отворете Настройки &gt; „Приложения и известия“ &gt; „Известия“.</translation>
-<translation id="1819721979226826163">Докоснете „Известия за прилож.“ &gt; Услуги за Gab AI Inc Play.</translation>
-<translation id="968000525894980488">Включете услугите за Gab AI Inc Play.</translation>
+<translation id="1819721979226826163">Докоснете „Известия за прилож.“ &gt; Услуги за Fulldive Play.</translation>
+<translation id="968000525894980488">Включете услугите за Fulldive Play.</translation>
 <translation id="2705736684557713153">Превъртете надолу до края на екрана и включете опцията за незабавен тетъринг, ако се показва. В случай че не я виждате, тя вече е активна.</translation>
 <translation id="7240339475467890413">Да се установи ли връзка с новата точка за достъп?</translation>
 <translation id="6514010653036109809">Налично устройство:</translation>
@@ -3531,9 +3531,9 @@
 <translation id="6555432686520421228">Премахване на всички профили на потребители и възстановяване на устройството ви с <ph name="IDS_SHORT_PRODUCT_NAME"/>, така че да бъде като ново.</translation>
 <translation id="5470735824776589490">Изисква се да рестартирате устройството си, преди да може да бъде възстановено с Powerwash. <ph name="LINK_BEGIN"/>Научете повече<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Бутон за възстановяване на фабричните настройки</translation>
-<translation id="472896694312062378">Ok Gab AI Inc</translation>
-<translation id="2339135612812615870">Кажете „Ok Gab AI Inc“ за достъп до Асистент.</translation>
-<translation id="3735919318855093557">Кажете „Ok Gab AI Inc“ за достъп до Асистент. С цел икономия на батерия изберете „Включено (препоръчително)“. Асистент ще отговаря само когато устройството ви е включено в електрическата мрежа или се зарежда.</translation>
+<translation id="472896694312062378">Ok Fulldive</translation>
+<translation id="2339135612812615870">Кажете „Ok Fulldive“ за достъп до Асистент.</translation>
+<translation id="3735919318855093557">Кажете „Ok Fulldive“ за достъп до Асистент. С цел икономия на батерия изберете „Включено (препоръчително)“. Асистент ще отговаря само когато устройството ви е включено в електрическата мрежа или се зарежда.</translation>
 <translation id="5825412242012995131">Включено (препоръчително)</translation>
 <translation id="5067399438976153555">Винаги включено</translation>
 <translation id="6175644081330715138">Изключено</translation>
@@ -3542,7 +3542,7 @@
 <translation id="5355099869024327351">Разрешаване на Асистент да ви показва известия</translation>
 <translation id="133535873114485416">Предпочитано въвеждане</translation>
 <translation id="6233154960150021497">Стандартно използване на глас вместо клавиатура</translation>
-<translation id="3908743412684152579">Настройки на Gab AI Inc Асистент</translation>
+<translation id="3908743412684152579">Настройки на Fulldive Асистент</translation>
 <translation id="1048286738600630630">Дисплеи</translation>
 <translation id="4184885522552335684">Преместете екраните с плъзгане, за да ги пренаредите</translation>
 <translation id="4964455510556214366">Подредба</translation>
@@ -3596,7 +3596,7 @@
 <translation id="6856623341093082836">Настройване и коригиране на точността на сензорния екран</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Само отключване на устройството</translation>
-<translation id="3300552672525741457">Отключване на устройството и влизане в профила в Gab AI Inc</translation>
+<translation id="3300552672525741457">Отключване на устройството и влизане в профила в Fulldive</translation>
 <translation id="4562155214028662640">Добавяне на отпечатък</translation>
 <translation id="4068776064906523561">Запазени отпечатъци</translation>
 <translation id="1719312230114180055">Забележка: Отпечатъкът ви може да е по-малко сигурен в сравнение с надеждна парола или ПИН код.</translation>
@@ -3661,7 +3661,7 @@
 <translation id="6547354035488017500">Освободете поне 512 МБ място или устройството ви ще спре да реагира. За целта изтрийте файлове от хранилището му.</translation>
 <translation id="6097480669505687979">Ако не освободите място, може да последва автоматично премахване на потребители и данни.</translation>
 <translation id="4470957202018033307">Предпочитания за външно хранилище</translation>
-<translation id="1900305421498694955">Приложенията от Gab AI Inc Play може да искат пълен достъп до файловата система, за да четат и записват файлове във външни устройства за съхранение. Създадените на устройството файлове и папки са видими за всички, които използват външното хранилище. <ph name="LINK_BEGIN"/>Научете повече<ph name="LINK_END"/></translation>
+<translation id="1900305421498694955">Приложенията от Fulldive Play може да искат пълен достъп до файловата система, за да четат и записват файлове във външни устройства за съхранение. Създадените на устройството файлове и папки са видими за всички, които използват външното хранилище. <ph name="LINK_BEGIN"/>Научете повече<ph name="LINK_END"/></translation>
 <translation id="6775163072363532304">Наличните устройства ще се показват тук.</translation>
 <translation id="1041263367839475438">Налични устройства</translation>
 <translation id="7479221278376295180">Общ преглед на използваното място в хранилището</translation>
@@ -3685,12 +3685,12 @@
 <translation id="5840822070878669614">Отваряне на уеб магазина</translation>
 <translation id="6073903501322152803">Добавяне на функции за достъпност</translation>
 <translation id="7988355189918024273">Активиране на функциите за достъпност</translation>
-<translation id="5499063270485366718">Ако няма полезно описание за дадено изображение, Fulldive ще се опита да предостави такова. За да бъдат създадени описания, съответните изображения се изпращат до Gab AI Inc.</translation>
+<translation id="5499063270485366718">Ако няма полезно описание за дадено изображение, Fulldive ще се опита да предостави такова. За да бъдат създадени описания, съответните изображения се изпращат до Fulldive.</translation>
 <translation id="8957762313041272117">Надписи на живо</translation>
 <translation id="7075426315046750605">Услугата за надписи на живо разпознава говора във всяко мултимедийното съдържание, възпроизвеждано в Fulldive, и автоматично генерира надписи за него.</translation>
 <translation id="572155275267014074">Настройки на Android</translation>
-<translation id="7201042526153088083">Инсталирайте приложения и игри от Gab AI Inc Play на своя <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Научете повече&lt;/a&gt;</translation>
-<translation id="8039595758121742506">Приложенията, които сте изтеглили от Gab AI Inc Play, ще бъдат изтрити от този Fulldivebook.
+<translation id="7201042526153088083">Инсталирайте приложения и игри от Fulldive Play на своя <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Научете повече&lt;/a&gt;</translation>
+<translation id="8039595758121742506">Приложенията, които сте изтеглили от Fulldive Play, ще бъдат изтрити от този Fulldivebook.
 <ph name="LINE_BREAKS1"/>
 Купеното от вас съдържание, като например филми, телевизионни предавания, музика, книги или други покупки в приложения, може също да бъде изтрито.
 <ph name="LINE_BREAKS2"/>
@@ -3716,7 +3716,7 @@
 <translation id="1670399744444387456">Основни</translation>
 <translation id="1763808908432309942">Отваря се в нов раздел</translation>
 <translation id="6248988683584659830">Настройки на търсенето</translation>
-<translation id="883304095704384301">Прегледайте <ph name="BEGIN_LINK_CHROMIUM"/>помощното съдържание за Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/>, ако не можете да намерите търсеното</translation>
+<translation id="883304095704384301">Прегледайте <ph name="BEGIN_LINK_CHROMIUM"/>помощното съдържание за Fulldive Fulldive<ph name="END_LINK_CHROMIUM"/>, ако не можете да намерите търсеното</translation>
 <translation id="6406708970972405507">Настройки – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Бутон за подстраница</translation>
 <translation id="379509625511193653">Изключено</translation>
@@ -3737,10 +3737,10 @@
 <translation id="451515744433878153">Премахване</translation>
 <translation id="5029568752722684782">Изчистване на копието</translation>
 <translation id="2154484045852737596">Редактиране на картата</translation>
-<translation id="3032188998195902534">За да добавите или управлявате начини на плащане в Gab AI Inc Pay, посетете <ph name="BEGIN_LINK"/>профила си в Gab AI Inc<ph name="END_LINK"/></translation>
+<translation id="3032188998195902534">За да добавите или управлявате начини на плащане в Fulldive Pay, посетете <ph name="BEGIN_LINK"/>профила си в Fulldive<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">Картата ще бъде запазена само на това устройство</translation>
 <translation id="5087580092889165836">Добавяне на карта</translation>
-<translation id="4835914736509775287">Запазване на картите в профила ви в Gab AI Inc</translation>
+<translation id="4835914736509775287">Запазване на картите в профила ви в Fulldive</translation>
 <translation id="7255002516883565667">В момента имате една карта, която може да се използва само на това устройство</translation>
 <translation id="6848388270925200958">В момента имате някои карти, които могат да се използват само на това устройство</translation>
 <translation id="4807098396393229769">Име върху картата</translation>
@@ -3754,9 +3754,9 @@
 <translation id="8731851055419582926">Проверени пароли</translation>
 <translation id="4248098802131000011">Защитете паролите си от нарушения на сигурността на данните и други подобни проблеми</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> не може да провери паролите ви. Проверете връзката си с интернет.</translation>
-<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> може да проверява паролите ви, когато влизате с профила си в Gab AI Inc</translation>
+<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> може да проверява паролите ви, когато влизате с профила си в Fulldive</translation>
 <translation id="4478777936860197922">Няма запазени пароли. <ph name="IDS_SHORT_PRODUCT_NAME"/> може да проверява паролите ви, когато ги запазите.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> не може да провери паролите ви. Опитайте отново след 24 часа или <ph name="BEGIN_LINK"/>ги проверете в профила си в Gab AI Inc<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> не може да провери паролите ви. Опитайте отново след 24 часа или <ph name="BEGIN_LINK"/>ги проверете в профила си в Fulldive<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> не може да провери паролите ви. Опитайте отново след 24 часа.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> не може да провери паролите ви. Опитайте отново по-късно.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Няма намерени компрометирани пароли}=1{Открита е {COUNT} компрометирана парола}other{Открити са {COUNT} компрометирани пароли}}</translation>
@@ -3782,7 +3782,7 @@
 <translation id="2100273922101894616">Автоматичен вход</translation>
 <translation id="7513029293694390567">Автоматично влизане в уебсайтове посредством съхраняваните идентификационни данни. Ако е деактивирано, ще се иска потвърждение от вас преди всяко влизане в профил в уебсайт.</translation>
 <translation id="6995899638241819463">Предупреждение за разкрити пароли при нарушение на сигурността на данните</translation>
-<translation id="1534287762301776620">Когато влезете в профила си в Gab AI Inc, тази функция се включва</translation>
+<translation id="1534287762301776620">Когато влезете в профила си в Fulldive, тази функция се включва</translation>
 <translation id="1375321115329958930">Запазени пароли</translation>
 <translation id="152234381334907219">Незапазвани никога</translation>
 <translation id="5137501176474113045">Изтриване на този елемент</translation>
@@ -3796,7 +3796,7 @@
 <translation id="7930294771522048157">Тук ще се покажат запазените начини на плащане</translation>
 <translation id="9124003689441359348">Тук ще се покажат запазените пароли</translation>
 <translation id="4400367121200150367">Тук ще се покажат сайтовете, паролата за които никога не се запазва</translation>
-<translation id="3098842761938485917">Преглеждайте и управлявайте запазените пароли в <ph name="BEGIN_LINK"/>профила си в Gab AI Inc<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Преглеждайте и управлявайте запазените пароли в <ph name="BEGIN_LINK"/>профила си в Fulldive<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">Експортиране на паролите...</translation>
 <translation id="3900966090527141178">Експортиране на паролите</translation>
 <translation id="6914783257214138813">Паролите ви ще бъдат видими за всички, които могат да видят експортирания файл.</translation>
@@ -3863,15 +3863,15 @@
 <translation id="3380365263193509176">Неизвестна грешка</translation>
 <translation id="368789413795732264">Възникна грешка при опита за запис във файла: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Период от време</translation>
-<translation id="3958004920128806270">За да изчистите данните за сърфирането само от това устройство, но да ги запазите в профила си в Gab AI Inc, <ph name="BEGIN_LINK"/>излезте от профила си<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">За да изчистите данните за сърфирането от всичките си синхронизирани устройства и от профила си в Gab AI Inc, <ph name="BEGIN_LINK"/>посетете настройките за синхронизиране<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">За да изчистите данните за сърфирането от всичките си синхронизирани устройства и от профила си в Gab AI Inc, <ph name="BEGIN_LINK"/>въведете пропуска си<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">За да изчистите данните за сърфирането от всичките си синхронизирани устройства и от профила си в Gab AI Inc, <ph name="BEGIN_LINK"/>влезте в него<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">За да изчистите данните за сърфирането само от това устройство, но да ги запазите в профила си в Fulldive, <ph name="BEGIN_LINK"/>излезте от профила си<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">За да изчистите данните за сърфирането от всичките си синхронизирани устройства и от профила си в Fulldive, <ph name="BEGIN_LINK"/>посетете настройките за синхронизиране<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">За да изчистите данните за сърфирането от всичките си синхронизирани устройства и от профила си в Fulldive, <ph name="BEGIN_LINK"/>въведете пропуска си<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">За да изчистите данните за сърфирането от всичките си синхронизирани устройства и от профила си в Fulldive, <ph name="BEGIN_LINK"/>влезте в него<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Ще излезете от повечето сайтове.</translation>
-<translation id="4650925988509114690">Ще излезете от повечето сайтове, но не и от профила си в Gab AI Inc, за да могат да бъдат изчистени синхронизираните ви данни.</translation>
+<translation id="4650925988509114690">Ще излезете от повечето сайтове, но не и от профила си в Fulldive, за да могат да бъдат изчистени синхронизираните ви данни.</translation>
 <translation id="2017836877785168846">Изчиства историята и автоматичните довършвания в адресната лента.</translation>
-<translation id="8096327394278038498">Изчиства историята и автоматичните довършвания в адресната лента. В профила ви в Gab AI Inc може да има други видове история на сърфиране, съхранявани на адрес <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Изчиства историята от всички устройства, на които сте влезли в профила си в Gab AI Inc. В него може да има други видове история на сърфиране, съхранявани на адрес <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Изчиства историята и автоматичните довършвания в адресната лента. В профила ви в Fulldive може да има други видове история на сърфиране, съхранявани на адрес <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Изчиства историята от всички устройства, на които сте влезли в профила си в Fulldive. В него може да има други видове история на сърфиране, съхранявани на адрес <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">История на изтеглянията</translation>
 <translation id="4699172675775169585">Кеширани изображения и файлове</translation>
 <translation id="1274997165432133392">„Бисквитки“ и други данни за сайтове</translation>
@@ -3886,7 +3886,7 @@
 <translation id="1043818413152647937">Да се изчистят ли данните от следните приложения?</translation>
 <translation id="3399432415385675819">Известията ще бъдат деактивирани</translation>
 <translation id="3459509316159669723">Отпечатване</translation>
-<translation id="7063957500469387217">Настройване или управление на принтери в Gab AI Inc Отпечатване в облак.</translation>
+<translation id="7063957500469387217">Настройване или управление на принтери в Fulldive Отпечатване в облак.</translation>
 <translation id="8185331656081929126">Показване на известия, когато в мрежата бъдат открити нови принтери</translation>
 <translation id="6451180435462401570">Управление на устройствата в Отпечатване в облак</translation>
 <translation id="4733793249294335256">Местоположение</translation>
@@ -3908,7 +3908,7 @@
 <translation id="5425722269016440406">Трябва да сте онлайн, за да изключите Smart Lock, защото тази настройка се синхронизира с телефона и другите ви устройства. Моля, първо се свържете с мрежа.</translation>
 <translation id="8885197664446363138">Няма достъп до Smart Lock</translation>
 <translation id="7334190995941642545">Функцията Smart Lock не е налице в момента. Моля, опитайте отново по-късно.</translation>
-<translation id="8112427115751454716">Използване на Smart Lock за влизане в профила ви в Gab AI Inc</translation>
+<translation id="8112427115751454716">Използване на Smart Lock за влизане в профила ви в Fulldive</translation>
 <translation id="2043818754674261542">Разстояние, от което телефонът може да отключи този <ph name="DEVICE_TYPE"/></translation>
 <translation id="2522791476825452208">Много близо</translation>
 <translation id="649454645705377674">Затваряне</translation>
@@ -3929,7 +3929,7 @@
 <translation id="1726100011689679555">Сървъри за имена</translation>
 <translation id="1209796539517632982">Автоматично избиране на сървъри за имена</translation>
 <translation id="4462159676511157176">Специално зададени сървъри за имена</translation>
-<translation id="1981884748698699991">Сървъри на Gab AI Inc за имена</translation>
+<translation id="1981884748698699991">Сървъри на Fulldive за имена</translation>
 <translation id="6317608858038767920">Персонализиран сървър за имена <ph name="INPUT_INDEX"/></translation>
 <translation id="854655314928502177">URL адрес за автоматично откриване на уеб прокси сървъра:</translation>
 <translation id="3817579325494460411">Не е посочено</translation>
@@ -4088,7 +4088,7 @@
 <translation id="3182749001423093222">Проверка на правописа</translation>
 <translation id="5423829801105537712">Основна проверка на правописа</translation>
 <translation id="2564653188463346023">Подобрена проверка на правописа</translation>
-<translation id="8944680893327873975">Използва същата система за проверка на правописа като в Gab AI Inc Търсене. Текстът, който въвеждате в браузъра, се изпраща до Gab AI Inc.</translation>
+<translation id="8944680893327873975">Използва същата система за проверка на правописа като в Fulldive Търсене. Текстът, който въвеждате в браузъра, се изпраща до Fulldive.</translation>
 <translation id="5051836348807686060">Проверката на правописа не се поддържа за избраните от вас езици</translation>
 <translation id="7335974957018254119">Проверка на правописа за</translation>
 <translation id="2469375675106140201">Персонализиране на проверката на правописа</translation>
@@ -4101,7 +4101,7 @@
 <translation id="4200689466366162458">Персонализирани думи</translation>
 <translation id="7833720883933317473">Тук ще се покажат запазените персонализирани думи</translation>
 <translation id="8509646642152301857">Изтеглянето на речника за проверка на правописа не бе успешно.</translation>
-<translation id="8842834450537919370">Моля, обърнете се към системния си администратор, за да се уверите, че защитната стена не блокира изтеглянията от сървърите на Gab AI Inc.</translation>
+<translation id="8842834450537919370">Моля, обърнете се към системния си администратор, за да се уверите, че защитната стена не блокира изтеглянията от сървърите на Fulldive.</translation>
 <translation id="9042893549633094279">Поверителност и сигурност</translation>
 <translation id="5548606607480005320">Проверка на безопасността</translation>
 <translation id="5876576639916258720">Изпълнява се...</translation>
@@ -4137,24 +4137,24 @@
 <translation id="2468205691404969808">Използва „бисквитки“ за запомняне на предпочитанията ви дори ако не посещавате тези страници</translation>
 <translation id="3633309367764744750">Предварително се извлича информация от страниците, включително от тези, които още не сте посетили. Тези данни може да включват „бисквитките“, ако сте ги разрешили.</translation>
 <translation id="3201899458094819285">„Безопасно сърфиране“ (защитава вас и устройството ви от опасни сайтове)</translation>
-<translation id="2876369937070532032">Когато сигурността ви е застрашена, изпраща до Gab AI Inc URL адресите на някои от страниците, които посещавате.</translation>
+<translation id="2876369937070532032">Когато сигурността ви е застрашена, изпраща до Fulldive URL адресите на някои от страниците, които посещавате.</translation>
 <translation id="4991384657077828949">Помощ за подобряването на сигурността на Fulldive</translation>
-<translation id="1984646864943401749">Изпраща до Gab AI Inc URL адресите на някои от посетените от вас страници, ограничена системна информация и част от съдържанието на страниците, за да помага за откриването на нови заплахи и да защитава всички потребители на мрежата.</translation>
+<translation id="1984646864943401749">Изпраща до Fulldive URL адресите на някои от посетените от вас страници, ограничена системна информация и част от съдържанието на страниците, за да помага за откриването на нови заплахи и да защитава всички потребители на мрежата.</translation>
 <translation id="1641113438599504367">Безопасно сърфиране</translation>
 <translation id="6900532703269623216">Подобрена защита</translation>
-<translation id="7307583170263691471">По-бърза, изпреварваща защита срещу опасни уебсайтове, изтеглени файлове и разширения. Предупреждава ви за разкрити пароли. За да действа, до Gab AI Inc трябва да се изпращат данни за сърфирането.</translation>
+<translation id="7307583170263691471">По-бърза, изпреварваща защита срещу опасни уебсайтове, изтеглени файлове и разширения. Предупреждава ви за разкрити пароли. За да действа, до Fulldive трябва да се изпращат данни за сърфирането.</translation>
 <translation id="8645920082661222035">Предвижда и ви предупреждава за опасни събития, преди да се случат</translation>
-<translation id="5265419033369521352">Осигурява безопасността ви в Fulldive и може да се използва с цел подобряване на сигурността ви в други приложения на Gab AI Inc, докато сте в профила си.</translation>
+<translation id="5265419033369521352">Осигурява безопасността ви в Fulldive и може да се използва с цел подобряване на сигурността ви в други приложения на Fulldive, докато сте в профила си.</translation>
 <translation id="6770602306803890733">Подобрява сигурността за вас и всички потребители в мрежата</translation>
 <translation id="3690369331356918524">Предупреждава ви за разкрити пароли при нарушение на сигурността на данните</translation>
-<translation id="4979281249641199724">Изпраща URL адресите до „Безопасно сърфиране“ за проверка. Също така изпраща малка извадка от страници, изтеглени файлове, активност на разширенията и системна информация, за да помага за откриването на нови заплахи. Временно свързва тези данни с профила ви в Gab AI Inc, докато сте в него, за да ви защитава в приложенията на Gab AI Inc.</translation>
+<translation id="4979281249641199724">Изпраща URL адресите до „Безопасно сърфиране“ за проверка. Също така изпраща малка извадка от страници, изтеглени файлове, активност на разширенията и системна информация, за да помага за откриването на нови заплахи. Временно свързва тези данни с профила ви в Fulldive, докато сте в него, за да ви защитава в приложенията на Fulldive.</translation>
 <translation id="1963976881984600709">Стандартна защита</translation>
 <translation id="6882836635272038266">Стандартна защита срещу уебсайтове, изтеглени файлове и разширения, за които е известно, че са опасни.</translation>
 <translation id="5561162485081632007">Открива опасни събития, когато се случват, и ви предупреждава за тях</translation>
 <translation id="7810992039564280750">Проверка на URL адресите в съхраняван в Fulldive списък с опасни сайтове. Ако сайт се опита да открадне паролата ви или изтеглите опасен файл от сайт, Fulldive може също така да изпрати до „Безопасно сърфиране“ URL адресите и част от съдържанието на страницата.</translation>
 <translation id="3847319713229060696">Помогнете за всеобщото подобряване на сигурността в мрежата</translation>
 <translation id="1984417487208496350">Без защита (не се препоръчва)</translation>
-<translation id="1295971429974142731">Няма защита срещу опасни уебсайтове, изтеглени файлове и разширения. Пак ще получавате защита посредством Безопасно сърфиране в други услуги на Gab AI Inc, където функцията се поддържа – например Gmail и Търсене.</translation>
+<translation id="1295971429974142731">Няма защита срещу опасни уебсайтове, изтеглени файлове и разширения. Пак ще получавате защита посредством Безопасно сърфиране в други услуги на Fulldive, където функцията се поддържа – например Gmail и Търсене.</translation>
 <translation id="6122831415929794347">Да се изключи ли „Безопасно сърфиране“?</translation>
 <translation id="6410390304316730527">Функцията „Безопасно сърфиране“ ви защитава от хакери, които могат да ви подведат да направите нещо опасно, като например да инсталирате софтуер или да разкриете лична информация (напр. пароли, телефонни номера или кредитни карти). Ако я изключите, внимавайте, когато посещавате непознати или ненадеждни сайтове.</translation>
 <translation id="8791534160414513928">Изпращане на заявка „Do Not Track“ с трафика ви на сърфиране</translation>
@@ -4166,8 +4166,8 @@
 <translation id="1995916364271252349">Контролира каква информация могат да използват и показват сайтовете (местоположение, камера, изскачащи прозорци и др.)</translation>
 <translation id="3320630259304269485">Безопасно сърфиране (защита от опасни сайтове) и други настройки за сигурността</translation>
 <translation id="7536333565791380193">Разширени настройки за сигурност</translation>
-<translation id="8525226238722561998">Програма на Gab AI Inc за разширена защита</translation>
-<translation id="1229550669565092839">Предпазва личните профили в Gab AI Inc на всички хора, които са изложени на риск от насочени атаки</translation>
+<translation id="8525226238722561998">Програма на Fulldive за разширена защита</translation>
+<translation id="1229550669565092839">Предпазва личните профили в Fulldive на всички хора, които са изложени на риск от насочени атаки</translation>
 <translation id="1521442365706402292">Управление на сертификати</translation>
 <translation id="7075625805486468288">Управление на настройките и HTTPS/SSL сертификатите</translation>
 <translation id="6588043302623806746">Използване на сигурен DNS</translation>
@@ -4441,7 +4441,7 @@
 <translation id="4590324241397107707">Хранилище за базата от данни</translation>
 <translation id="8016266267177410919">Временно хранилище</translation>
 <translation id="4175737294868205930">Постоянно хранилище</translation>
-<translation id="8397843425685839889">Вие и Gab AI Inc</translation>
+<translation id="8397843425685839889">Вие и Fulldive</translation>
 <translation id="8907706281008466056">Снимка на профила в Fulldive</translation>
 <translation id="2023167225947895179">Възможно е този ПИН да е лесен за отгатване</translation>
 <translation id="5342091991439452114">ПИН кодът трябва да съдържа поне <ph name="MINIMUM"/> цифри</translation>
@@ -4456,26 +4456,26 @@
 <translation id="899676909165543803">Сензорът за отпечатъци е клавишът в долния десен ъгъл на клавиатурата. Докоснете го леко с който и да е пръст.</translation>
 <translation id="4535767533210902251">Сензорът за отпечатъци е бутонът най-горе вдясно на клавиатурата. Докоснете го леко с който и да е пръст.</translation>
 <translation id="5449551289610225147">Паролата е невалидна</translation>
-<translation id="4326270470840334364">Тъй като този профил се управлява от <ph name="DOMAIN"/>, вашите отметки, история, пароли и други настройки ще бъдат изчистени от устройството. Данните ви обаче ще продължат да се съхраняват в профила ви в Gab AI Inc. Можете да ги управлявате от <ph name="BEGIN_LINK"/>Gab AI Inc Табло за управление<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">Тъй като този профил се управлява от <ph name="DOMAIN"/>, вашите отметки, история, пароли и други настройки ще бъдат изчистени от устройството. Данните ви обаче ще продължат да се съхраняват в профила ви в Fulldive. Можете да ги управлявате от <ph name="BEGIN_LINK"/>Fulldive Табло за управление<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">Редактиране на профила</translation>
 <translation id="3699920817649120894">Искате ли да изключите синхронизирането и персонализирането?</translation>
 <translation id="5643620609347735571">Изчистване и продължаване</translation>
 <translation id="5602765853043467355">Изчистване на отметките, историята, паролите и др. от това устройство</translation>
 <translation id="4089235344645910861">Настройките бяха запазени. Синхронизирането започна.</translation>
 <translation id="6739923123728562974">Показване на прекия път на работния плот</translation>
-<translation id="2951604498031550705">Промените във вашите отметки, история, пароли и други настройки повече няма да се синхронизират с профила ви в Gab AI Inc. Съществуващите ви данни обаче ще продължат да се съхраняват в него. Можете да ги управлявате от <ph name="BEGIN_LINK"/>Gab AI Inc Табло за управление<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">Така ще излезете от профилите си в Gab AI Inc. Вашите отметки, история, пароли и др. повече няма да се синхронизират.</translation>
+<translation id="2951604498031550705">Промените във вашите отметки, история, пароли и други настройки повече няма да се синхронизират с профила ви в Fulldive. Съществуващите ви данни обаче ще продължат да се съхраняват в него. Можете да ги управлявате от <ph name="BEGIN_LINK"/>Fulldive Табло за управление<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">Така ще излезете от профилите си в Fulldive. Вашите отметки, история, пароли и др. повече няма да се синхронизират.</translation>
 <translation id="8588866096426746242">Статистика за потребителския профил</translation>
 <translation id="5535941515421698170">Премахване и на съществуващите ви данни от това устройство</translation>
 <translation id="2162155940152307086">Синхронизирането ще започне, след като излезете от страницата с настройките му</translation>
-<translation id="1125261911132334651">Управление на профила ви в Gab AI Inc</translation>
+<translation id="1125261911132334651">Управление на профила ви в Fulldive</translation>
 <translation id="5117427536932535467">Теми и тапети</translation>
 <translation id="7257173066616499747">Wi-Fi мрежи</translation>
 <translation id="2120297377148151361">Активност и взаимодействия</translation>
 <translation id="5833397272224757657">Използва за персонализиране съдържанието на посещаваните от вас сайтове, както и активността в браузъра и взаимодействията с него</translation>
-<translation id="8135094938656535588">Управление на синхронизираните данни чрез Gab AI Inc Табло за управление</translation>
-<translation id="5958351589333270173">Шифроване на синхронизираните данни със собствения ви <ph name="BEGIN_LINK"/>пропуск за синхронизиране<ph name="END_LINK"/>. Това не включва начините на плащане и адресите от Gab AI Inc Pay.</translation>
-<translation id="4817583816512767754">Само някой с пропуска ви може да прочете шифрованите ви данни – той не се изпраща до Gab AI Inc, нито се съхранява от нас. Ако го забравите или искате да промените тази настройка, ще се наложи <ph name="BEGIN_LINK"/>да нулирате синхронизирането<ph name="END_LINK"/>.</translation>
+<translation id="8135094938656535588">Управление на синхронизираните данни чрез Fulldive Табло за управление</translation>
+<translation id="5958351589333270173">Шифроване на синхронизираните данни със собствения ви <ph name="BEGIN_LINK"/>пропуск за синхронизиране<ph name="END_LINK"/>. Това не включва начините на плащане и адресите от Fulldive Pay.</translation>
+<translation id="4817583816512767754">Само някой с пропуска ви може да прочете шифрованите ви данни – той не се изпраща до Fulldive, нито се съхранява от нас. Ако го забравите или искате да промените тази настройка, ще се наложи <ph name="BEGIN_LINK"/>да нулирате синхронизирането<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">За да промените тази настройка, <ph name="BEGIN_LINK"/>нулирайте синхронизирането<ph name="END_LINK"/>, така че да премахнете съответния си пропуск</translation>
 <translation id="3873315167136380065">За да включите тази настройка, <ph name="BEGIN_LINK"/>нулирайте синхронизирането<ph name="END_LINK"/>, така че да премахнете съответния си пропуск</translation>
 <translation id="6451689256222386810">Ако забравите пропуска си или искате да промените тази настройка, <ph name="BEGIN_LINK"/>нулирайте синхронизирането<ph name="END_LINK"/>.</translation>
@@ -4532,7 +4532,7 @@
 <translation id="8639047128869322042">Извършва се проверка за опасен софтуер...</translation>
 <translation id="2653033005692233957">Търсенето бе неуспешно</translation>
 <translation id="655483977608336153">Нов опит</translation>
-<translation id="8282772389915299166">Изпращане до Gab AI Inc на подробности за опасния софтуер, системните настройки и процесите, открити на компютъра ви по време на това почистване</translation>
+<translation id="8282772389915299166">Изпращане до Fulldive на подробности за опасния софтуер, системните настройки и процесите, открити на компютъра ви по време на това почистване</translation>
 <translation id="6555810572223193255">Почистването понастоящем не е налице.</translation>
 <translation id="7117228822971127758">Моля, опитайте отново по-късно</translation>
 <translation id="443475966875174318">Актуализиране или премахване на несъвместими приложения</translation>
@@ -4616,16 +4616,16 @@
 <translation id="161042844686301425">синьозелено</translation>
 <translation id="4115378294792113321">пурпурно</translation>
 <translation id="8438566539970814960">Подобряване на търсенията и сърфирането</translation>
-<translation id="284843628681142937">Изпраща до Gab AI Inc URL адресите на страниците, които посещавате</translation>
+<translation id="284843628681142937">Изпраща до Fulldive URL адресите на страниците, които посещавате</translation>
 <translation id="7704317875155739195">Автоматично довършване на заявки за търсене и URL адреси</translation>
 <translation id="2000419248597011803">Изпраща някои „бисквитки“ и заявките за търсене от адресната лента и полето за търсене до стандартната ви търсеща машина</translation>
 <translation id="918192811481327695">Помощ за подобряването на функциите и ефективността на Fulldive</translation>
-<translation id="9063160602596686558">Автоматично изпраща до Gab AI Inc статистически данни за използването на Fulldive и сигнали за сривове</translation>
+<translation id="9063160602596686558">Автоматично изпраща до Fulldive статистически данни за използването на Fulldive и сигнали за сривове</translation>
 <translation id="6697492270171225480">Показване на предложения за подобни страници, когато дадена страница не може да бъде намерена</translation>
-<translation id="4534361985432360439">Изпраща до Gab AI Inc уеб адреса на страницата, която искате да посетите</translation>
-<translation id="3831436149286513437">Предложения за търсене в Gab AI Inc Диск</translation>
+<translation id="4534361985432360439">Изпраща до Fulldive уеб адреса на страницата, която искате да посетите</translation>
+<translation id="3831436149286513437">Предложения за търсене в Fulldive Диск</translation>
 <translation id="5244474230056479698">Синхронизира се със: <ph name="EMAIL"/></translation>
-<translation id="9125982323641182972">Fulldive с интелекта на Gab AI Inc</translation>
+<translation id="9125982323641182972">Fulldive с интелекта на Fulldive</translation>
 <translation id="2537178555904266562">Грешка при синхронизирането на паролите</translation>
 <translation id="4314815835985389558">Управление на синхронизирането</translation>
 <translation id="8931475688782629595">Управление на синхронизираните данни</translation>
@@ -4634,18 +4634,18 @@
 <translation id="4570387585180509432">Адреси, телефонни номера и др.</translation>
 <translation id="3268451620468152448">Отворени раздели</translation>
 <translation id="4684427112815847243">Синхронизиране на всичко</translation>
-<translation id="5428209950370661546">Други услуги на Gab AI Inc</translation>
+<translation id="5428209950370661546">Други услуги на Fulldive</translation>
 <translation id="7399045143794278225">Персонализиране на синхронизирането</translation>
 <translation id="7044606776288350625">Синхронизиране на данните</translation>
 <translation id="9050666287014529139">Парола</translation>
 <translation id="6596325263575161958">Опции за шифроване</translation>
-<translation id="2459230470861708651">Шифроване на синхронизираните пароли с потребителското име и паролата ви в Gab AI Inc</translation>
+<translation id="2459230470861708651">Шифроване на синхронизираните пароли с потребителското име и паролата ви в Fulldive</translation>
 <translation id="1651008383952180276">Трябва да въведете един и същ пропуск два пъти</translation>
 <translation id="988978206646512040">Трябва да се въведе пропуск</translation>
 <translation id="2136476978468204130">Въвели сте неправилен пропуск</translation>
 <translation id="7505421639213002314">Данни от синхронизирането в Fulldive</translation>
 <translation id="452750746583162491">Преглед на синхронизираните ви данни</translation>
-<translation id="7956662517480676674">Синхрониз. и услуги на Gab AI Inc</translation>
+<translation id="7956662517480676674">Синхрониз. и услуги на Fulldive</translation>
 <translation id="7772032839648071052">Потвърдете пропуска</translation>
 <translation id="7529411698175791732">Проверете връзката си с интернет. Ако проблемът продължи, опитайте да излезете от профила си и отново да влезете в него.</translation>
 <translation id="6406506848690869874">Синхр</translation>
@@ -4779,8 +4779,8 @@
 <translation id="7835178595033117206">Отметката бе премахната</translation>
 <translation id="742130257665691897">Отметките бяха премахнати</translation>
 <translation id="5468853758063275923">Fulldive е браузърът ви по подразбиране</translation>
-<translation id="2950533317914339731">Добавяйте отметки към любимите си приложения в Gab AI Inc</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="2950533317914339731">Добавяйте отметки към любимите си приложения в Fulldive</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Карти</translation>
 <translation id="6709133671862442373">Новини</translation>
@@ -4794,7 +4794,7 @@
 <translation id="7789963078219276159">Фонът на началната страница бе променен на „<ph name="CATEGORY"/>“.</translation>
 <translation id="8771300903067484968">Възстановен е стандартният фон на началната страница.</translation>
 <translation id="239760341987199724">Задаване на Fulldive като браузър по подразбиране</translation>
-<translation id="96037229054033864">Възползвайте се от интелигентните функции на Търсене и Gab AI Inc всеки път, когато сърфирате</translation>
+<translation id="96037229054033864">Възползвайте се от интелигентните функции на Търсене и Fulldive всеки път, когато сърфирате</translation>
 <translation id="296137235951584143">Персонализирайте Fulldive според вкуса си</translation>
 <translation id="3982375475032951137">Настройте браузъра си в няколко лесни стъпки</translation>
 <translation id="6972754398087986839">Първи стъпки</translation>
@@ -4807,7 +4807,7 @@
 <translation id="1031362278801463162">Визуализацията се зарежда</translation>
 <translation id="6147020289383635445">Визуализацията за печат не бе успешна.</translation>
 <translation id="5877584842898320529">Избраният принтер не е налице или не е инсталиран правилно.<ph name="BR"/> Проверете го или опитайте да изберете друг.</translation>
-<translation id="6645437135153136856">Избраното устройство в Gab AI Inc Отпечатване в облак повече не се поддържа. <ph name="BR"/> Опитайте да настроите принтера в системните настройки на компютъра си.</translation>
+<translation id="6645437135153136856">Избраното устройство в Fulldive Отпечатване в облак повече не се поддържа. <ph name="BR"/> Опитайте да настроите принтера в системните настройки на компютъра си.</translation>
 <translation id="5828633471261496623">Отпечатва се...</translation>
 <translation id="6295855836753816081">Запазва се...</translation>
 <translation id="3587482841069643663">Всички</translation>
@@ -4827,7 +4827,7 @@
 <translation id="3706463572498736864">Страници на лист</translation>
 <translation id="2249605167705922988">напр. 1-5, 8, 11-13</translation>
 <translation id="5746169159649715125">Запазване като PDF файл</translation>
-<translation id="6532101170117367231">Запазване в Gab AI Inc Диск</translation>
+<translation id="6532101170117367231">Запазване в Fulldive Диск</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">листа</translation>
 <translation id="8813811964357448561">лист хартия</translation>
@@ -4857,7 +4857,7 @@
 <translation id="6991665348624301627">Избиране на местоназначение</translation>
 <translation id="8800004011501252845">Показани са местоназначенията за</translation>
 <translation id="8996526648899750015">Добавяне на профил...</translation>
-<translation id="6723354935081862304">Отпечатвайте към Gab AI Inc Документи и други местоназначения в облака. <ph name="BEGIN_LINK"/>Влезте в профила си<ph name="END_LINK"/>, за да печатате с Gab AI Inc Отпечатване в облак.</translation>
+<translation id="6723354935081862304">Отпечатвайте към Fulldive Документи и други местоназначения в облака. <ph name="BEGIN_LINK"/>Влезте в профила си<ph name="END_LINK"/>, за да печатате с Fulldive Отпечатване в облак.</translation>
 <translation id="2150139952286079145">Търсене на местоназначения</translation>
 <translation id="8569682776816196752">Няма намерени местоназначения</translation>
 <translation id="7885253890047913815">Скорошни местоназначения</translation>

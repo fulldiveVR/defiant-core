@@ -17,7 +17,7 @@
 <translation id="8762452230727230396">Torは訪問サイトからあなたのIPアドレスを隠します。</translation>
 <translation id="8053096063396012732">Widevineをインストールする</translation>
 <translation id="4840334696217618631">Widevineを有効にするためにブラウザーを再起動する</translation>
-<translation id="8410111618231938546">Google WidevineはGab AI Incが所有しておらず、検査できないデジタル著作権管理（DRM）コードの1つです。Google Widevineのコードは弊社のサーバーではなくGoogleのサーバーから割り当てられます。このコードはこのオプションを有効にしている際にのみ読み込まれます。弊社はDRMの使用は推奨しませんがユーザーの選択を尊重しており、一部のFulldiveユーザーがGoogle Widevineを要求するサービスの利用を望んでいることは承知しております。
+<translation id="8410111618231938546">Google WidevineはFulldiveが所有しておらず、検査できないデジタル著作権管理（DRM）コードの1つです。Google Widevineのコードは弊社のサーバーではなくGoogleのサーバーから割り当てられます。このコードはこのオプションを有効にしている際にのみ読み込まれます。弊社はDRMの使用は推奨しませんがユーザーの選択を尊重しており、一部のFulldiveユーザーがGoogle Widevineを要求するサービスの利用を望んでいることは承知しております。
 
 この拡張をインストールすると、Google Widevineの使用条件に同意したことになります。Google Widevineの使用に関するいかなる損害や損失にもFulldiveは責任を負わないことをご了承ください。</translation>
 <translation id="410351446219883937">自動再生</translation>

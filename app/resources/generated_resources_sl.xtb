@@ -26,7 +26,7 @@
 <translation id="3700405816184340252">Zgodovina v Chromu</translation>
 <translation id="7602079150116086782">Ni zavihkov iz drugih naprav</translation>
 <translation id="4619615317237390068">Zavihki iz drugih naprav</translation>
-<translation id="82609232232243542">Prijava v Gab AI Inc Fulldive</translation>
+<translation id="82609232232243542">Prijava v Fulldive Fulldive</translation>
 <translation id="4627442949885028695">Nadaljevanje iz druge naprave</translation>
 <translation id="7253276740368043692">Če želite dostopati do zavihkov v drugih napravah, se prijavite v Fulldive.</translation>
 <translation id="6351063337294363751">Podatke o brskanju lahko izbrišete v tem meniju</translation>
@@ -831,7 +831,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
 <translation id="1545775234664667895">Nameščena tema »<ph name="THEME_NAME"/>«</translation>
 <translation id="2256115617011615191">Znova zaženi</translation>
 <translation id="4545028762441890696">Če jo želite znova omogočiti, sprejmite nova dovoljenja:</translation>
-<translation id="3009487527589249344">Gab AI Inc je z zastavico označil razširitev »<ph name="EXTENSION_NAME"/>« kot zlonamerno in preprečil namestitev</translation>
+<translation id="3009487527589249344">Fulldive je z zastavico označil razširitev »<ph name="EXTENSION_NAME"/>« kot zlonamerno in preprečil namestitev</translation>
 <translation id="6790497603648687708"><ph name="EXTENSION_NAME"/>: dodano na daljavo</translation>
 <translation id="1841705068325380214">Razširitev <ph name="EXTENSION_NAME"/> je onemogočena</translation>
 <translation id="595959584676692139">Znova naložite stran, če želite uporabljati to razširitev</translation>
@@ -971,7 +971,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
 <translation id="3584169441612580296">Branje in spreminjanje fotografij, glasbe in drugih predstavnosti v računalniku</translation>
 <translation id="5457459357461771897">Branje in izbris fotografij, glasbe in drugih predstavnosti v računalniku</translation>
 <translation id="3270965368676314374">Branje, spreminjanje in izbris fotografij, glasbe in drugih predstavnosti v računalniku</translation>
-<translation id="1285484354230578868">Shranjevanje podatkov v računu za Gab AI Inc Drive</translation>
+<translation id="1285484354230578868">Shranjevanje podatkov v računu za Fulldive Drive</translation>
 <translation id="378312418865624974">Branje enoličnega identifikatorja za ta računalnik</translation>
 <translation id="5094721898978802975">Komuniciranje s sodelujočimi izvornimi aplikacijami</translation>
 <translation id="4876895919560854374">Zaklepanje in odklepanje zaslona</translation>
@@ -1182,7 +1182,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8756969031206844760">Želite posodobiti geslo?</translation>
 <translation id="8230134520748321204">Želite shraniti geslo za <ph name="ORIGIN"/>?</translation>
 <translation id="9040661932550800571">Želite posodobiti geslo za <ph name="ORIGIN"/>?</translation>
-<translation id="8284000761603848448">Gesla so shranjena v Gab AI Inc Računu, da jih lahko uporabite v kateri koli napravi</translation>
+<translation id="8284000761603848448">Gesla so shranjena v Fulldive Računu, da jih lahko uporabite v kateri koli napravi</translation>
 <translation id="8286036467436129157">Prijava</translation>
 <translation id="8009225694047762179">Upravljanje gesel</translation>
 <translation id="3950820424414687140">Prijava</translation>
@@ -1190,10 +1190,10 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="328571385944182268">Želite shranjevati gesla?</translation>
 <translation id="3753033997400164841">Shranite enkrat. Uporabite kjer koli</translation>
 <translation id="1703331064825191675">Naj vas nikoli ne skrbi glede gesel</translation>
-<translation id="2341030170677284705">Varno shranjujte gesla v računu Gab AI Inc in vam jih ne bo treba več vnašati</translation>
-<translation id="3913985461352963178">Dostopajte do svojih gesel, ko ste prijavljeni v račun Gab AI Inc</translation>
-<translation id="4851124464356820177">Če želite shraniti gesla v račun Gab AI Inc, se prijavite in vklopite sinhronizacijo.</translation>
-<translation id="3229869963989850535">Če želite shraniti gesla v račun Gab AI Inc, vklopite sinhronizacijo.</translation>
+<translation id="2341030170677284705">Varno shranjujte gesla v računu Fulldive in vam jih ne bo treba več vnašati</translation>
+<translation id="3913985461352963178">Dostopajte do svojih gesel, ko ste prijavljeni v račun Fulldive</translation>
+<translation id="4851124464356820177">Če želite shraniti gesla v račun Fulldive, se prijavite in vklopite sinhronizacijo.</translation>
+<translation id="3229869963989850535">Če želite shraniti gesla v račun Fulldive, vklopite sinhronizacijo.</translation>
 <translation id="1056466516655540509">Posodobljeno pred <ph name="MINUTES"/> min</translation>
 <translation id="8743864605301774756">Posodobljeno pred 1 uro</translation>
 <translation id="7363117941401515667">Posodobljeno pred <ph name="HOURS"/> h</translation>
@@ -1297,7 +1297,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1246905108078336582">Ali želite odstraniti predlog iz odložišča?</translation>
 <translation id="825238165904109940">Vedno pokaži celotne URL-je</translation>
 <translation id="3416468988018290825">Vedno pokaži celotne URL-je</translation>
-<translation id="2129873093718581193">Iščite v Gab AI Inc ali vnesite URL</translation>
+<translation id="2129873093718581193">Iščite v Fulldive ali vnesite URL</translation>
 <translation id="6363797201514053536">Iščite v Googlu ali vnesite URL</translation>
 <translation id="4888839742663123585">Iščite v Googlu</translation>
 <translation id="6078323886959318429">Dodajanje bližnjice</translation>
@@ -1492,7 +1492,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6076448957780543068">Vključuje ta posnetek zaslona</translation>
 <translation id="2865919525181940183">Posnetek zaslona s programi, ki so trenutno na zaslon</translation>
 <translation id="7052237160939977163">Pošlji podatke za sledenje učinkovitosti delovanja</translation>
-<translation id="5526928694260255286">Priložite <ph name="BEGIN_LINK"/>Dnevnike za Bluetooth<ph name="END_LINK"/> (Gab AI Inc – interno)</translation>
+<translation id="5526928694260255286">Priložite <ph name="BEGIN_LINK"/>Dnevnike za Bluetooth<ph name="END_LINK"/> (Fulldive – interno)</translation>
 <translation id="3047644958362961983">S temi podatki si pomagamo pri razumevanju vaše težave s Pomočnikom. Shranjeni so do 90 dni in dostop je omogočen samo ustreznim skupinam inženirjev in skupinam za povratne informacije.</translation>
 <translation id="8545590844135745781">Googlovi uporabniki lahko za boljše diagnosticiranje težav z Bluetoothom v poročila s povratnimi informacijami vključijo dodatne dnevnike za Bluetooth. Če je označena ta možnost, bosta v vašem poročilu vključena dnevnika btsnoop in HCI iz trenutne seje, in sicer prečiščena tako, da je odstranjenih čim več podatkov, ki omogočajo osebno prepoznavo. Dostop do teh dnevnikov bo omejen na skrbnike skupine izdelkov OS Fulldive za Listnr. Dnevniki bodo trajno odstranjeni po 90 dneh.</translation>
 <translation id="4206323443866416204">Poročilo s povratnimi informacijami</translation>
@@ -1511,7 +1511,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6885771755599377173">Pregled informacij o sistemu</translation>
 <translation id="1016566241875885511">Dodatni podatki (izbirno)</translation>
 <translation id="8026334261755873520">Izbriši podatke brskanja</translation>
-<translation id="4718442817388594217">Izbrani podatki so bili odstranjeni iz Chroma in sinhroniziranih naprav. V Gab AI Inc Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejavnosti iz drugih Googlovih storitev, na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="4718442817388594217">Izbrani podatki so bili odstranjeni iz Chroma in sinhroniziranih naprav. V Fulldive Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejavnosti iz drugih Googlovih storitev, na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7814200940910057384">Chromovi podatki so izbrisani.</translation>
 <translation id="7346909386216857016">V redu, razumem</translation>
 <translation id="8493236660459102203">Mikrofon:</translation>
@@ -1660,7 +1660,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6280912520669706465">ARC</translation>
 <translation id="4728558894243024398">Okolje</translation>
 <translation id="7022562585984256452">Domača stran je nastavljena.</translation>
-<translation id="8069615408251337349">Gab AI Inc Tiskanje v oblaku</translation>
+<translation id="8069615408251337349">Fulldive Tiskanje v oblaku</translation>
 <translation id="4973307593867026061">Dodajte tiskalnike</translation>
 <translation id="9052208328806230490">Tiskalnike ste registrirali za uporabo storitve <ph name="CLOUD_PRINT_NAME"/> z računom <ph name="EMAIL"/>.</translation>
 <translation id="3792890930871100565">Prekinite povezave s tiskalniki</translation>
@@ -1694,7 +1694,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="7063129466199351735">Obdelava bližnjic ...</translation>
 <translation id="8987927404178983737">Mesec</translation>
 <translation id="6015796118275082299">Leto</translation>
-<translation id="5152275065296016556">Gab AI Inc Pay</translation>
+<translation id="5152275065296016556">Fulldive Pay</translation>
 <translation id="7671130400130574146">Uporabi sistemsko naslovno vrstico in obrobe</translation>
 <translation id="3293644607209440645">Pošlji to stran</translation>
 <translation id="1521774566618522728">Aktivno danes</translation>
@@ -1748,7 +1748,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8930351635855238750">Nove nastavitve za piškotke bodo začele veljati, ko znova naložite stran</translation>
 <translation id="2568774940984945469">Vsebnik informacijske vrstice</translation>
 <translation id="7282992757463864530">Informacijska vrstica</translation>
-<translation id="1805077115206898822">Vaši zaznamki, zgodovina in druge nastavitve bodo sinhronizirani z Gab AI Inc Računom.</translation>
+<translation id="1805077115206898822">Vaši zaznamki, zgodovina in druge nastavitve bodo sinhronizirani z Fulldive Računom.</translation>
 <translation id="1974060860693918893">Dodatno</translation>
 <translation id="2445484935443597917">Ustvari nov profil</translation>
 <translation id="2606246518223360146">Poveži podatke</translation>
@@ -1835,7 +1835,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6387674443318562538">Razdeli navpično</translation>
 <translation id="1231733316453485619">Želite vklopiti sinhronizacijo?</translation>
 <translation id="4736292055110123391">Sinhronizirajte zaznamke, gesla, zgodovino in druge podatke v vseh vaših napravah</translation>
-<translation id="5736731321935944068">Gab AI Inc lahko vašo zgodovino uporabi za prilagajanje Iskanja Gab AI Inc, oglasov in drugih Googlovih storitev</translation>
+<translation id="5736731321935944068">Fulldive lahko vašo zgodovino uporabi za prilagajanje Iskanja Fulldive, oglasov in drugih Googlovih storitev</translation>
 <translation id="4201546031411513170">V nastavitvah lahko kadar koli izberete, kaj želite sinhronizirati.</translation>
 <translation id="2497852260688568942">Sinhronizacijo je onemogočil skrbnik</translation>
 <translation id="562935524653278697">Skrbnik je onemogočil sinhroniziranje zaznamkov, zgodovine, gesel in drugih nastavitev.</translation>
@@ -1917,7 +1917,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="4251909665067750757">Prijavite se, če želite uporabljati zaznamke, zgodovino, gesla in druge nastavitve v vseh napravah. Prav tako boste samodejno prijavljeni v Googlove storitve.</translation>
 <translation id="2749756011735116528">Prijavite se v storitev <ph name="PRODUCT_NAME"/></translation>
 <translation id="2126167708562367080">Sinhronizacijo je onemogočil skrbnik.</translation>
-<translation id="5462539695964427820">Sinhronizacija je bila ustavljena prek Gab AI Inc Nadzorne plošče.</translation>
+<translation id="5462539695964427820">Sinhronizacija je bila ustavljena prek Fulldive Nadzorne plošče.</translation>
 <translation id="8805140816472474147">Potrdite nastavitve sinhronizacije, če želite začeti sinhronizacijo.</translation>
 <translation id="5771816112378578655">Poteka nastavitev ...</translation>
 <translation id="3492788708641132712">Sinhronizacija ne deluje. Poskusite se znova prijaviti.</translation>
@@ -1934,13 +1934,13 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="7218743184834293955">Podatki so šifrirani z vašim geslom za sinhronizacijo. To ne vključuje plačilnih sredstev in naslovov iz Googla Pay.</translation>
 <translation id="7158251077901880179">Podatki so bili šifrirani z geslom za sinhronizacijo
           <ph name="TIME"/>. To ne vključuje plačilnih sredstev in naslovov iz Googla Pay.</translation>
-<translation id="1171389789873508468">Podatki so bili šifrirani z vašim geslom za Gab AI Inc Račun z dnem
+<translation id="1171389789873508468">Podatki so bili šifrirani z vašim geslom za Fulldive Račun z dnem
           <ph name="TIME"/>. To ne vključuje plačilnih sredstev in naslovov iz Googla Pay.</translation>
 <translation id="2562743677925229011">Niste prijavljeni v <ph name="SHORT_PRODUCT_NAME"/></translation>
 <translation id="4027804175521224372">(Zamujate dogajanje – <ph name="IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK"/>)</translation>
 <translation id="3574210789297084292">prijava</translation>
 <translation id="237828693408258535">Želite prevod te strani?</translation>
-<translation id="4613765529964435709">Ali želite, da Gab AI Inc prevede to stran iz jezika <ph name="SOURCE_LANGUAGE"/> v jezik <ph name="TARGET_LANGUAGE"/>?</translation>
+<translation id="4613765529964435709">Ali želite, da Fulldive prevede to stran iz jezika <ph name="SOURCE_LANGUAGE"/> v jezik <ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="5990386583461751448">Prevedeno</translation>
 <translation id="5659833766619490117">Te strani ni bilo mogoče prevesti</translation>
 <translation id="969096075394517431">Spreminjanje jezikov</translation>
@@ -2119,7 +2119,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6309510305002439352">Mikrofon je izklopljen</translation>
 <translation id="1322046419516468189">Ogled in upravljanje shranjenih gesel tukaj: <ph name="SAVED_PASSWORDS_STORE"/></translation>
 <translation id="5297082477358294722">Geslo je shranjeno. Shranjena gesla si lahko ogledate in jih upravljate tukaj: <ph name="SAVED_PASSWORDS_STORE"/>.</translation>
-<translation id="5713644099811900409">Gab AI Inc Račun</translation>
+<translation id="5713644099811900409">Fulldive Račun</translation>
 <translation id="3785727820640310185">Shranjena gesla za to spletno mesto</translation>
 <translation id="3404065873681873169">Za to spletno mesto ni shranjenih gesel</translation>
 <translation id="8470513973197838199">Shranjena gesla za <ph name="ORIGIN"/></translation>
@@ -2232,8 +2232,8 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="2505324914378689427">{SCREEN_INDEX,plural, =1{Zaslon #}one{Zaslon #}two{Zaslon #}few{Zaslon #}other{Zaslon #}}</translation>
 <translation id="839736845446313156">Registracija</translation>
 <translation id="6285120908535925801">{NUM_PRINTER,plural, =1{Nov tiskalnik v vašem omrežju}one{Novi tiskalniki v vašem omrežju}two{Novi tiskalniki v vašem omrežju}few{Novi tiskalniki v vašem omrežju}other{Novi tiskalniki v vašem omrežju}}</translation>
-<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Dodajte tiskalnik v Gab AI Inc Tiskanje v oblaku, da boste lahko tiskali od koder koli.}one{Dodajte # tiskalnik v Gab AI Inc Tiskanje v oblaku, da boste lahko tiskali od koder koli.}two{Dodajte # tiskalnika v Gab AI Inc Tiskanje v oblaku, da boste lahko tiskali od koder koli.}few{Dodajte # tiskalnike v Gab AI Inc Tiskanje v oblaku, da boste lahko tiskali od koder koli.}other{Dodajte # tiskalnikov v Gab AI Inc Tiskanje v oblaku, da boste lahko tiskali od koder koli.}}</translation>
-<translation id="409579654357498729">Dodaj v Gab AI Inc Tiskanje v oblaku</translation>
+<translation id="1653526288038954982">{NUM_PRINTER,plural, =1{Dodajte tiskalnik v Fulldive Tiskanje v oblaku, da boste lahko tiskali od koder koli.}one{Dodajte # tiskalnik v Fulldive Tiskanje v oblaku, da boste lahko tiskali od koder koli.}two{Dodajte # tiskalnika v Fulldive Tiskanje v oblaku, da boste lahko tiskali od koder koli.}few{Dodajte # tiskalnike v Fulldive Tiskanje v oblaku, da boste lahko tiskali od koder koli.}other{Dodajte # tiskalnikov v Fulldive Tiskanje v oblaku, da boste lahko tiskali od koder koli.}}</translation>
+<translation id="409579654357498729">Dodaj v Fulldive Tiskanje v oblaku</translation>
 <translation id="4628757576491864469">Naprave</translation>
 <translation id="6915804003454593391">Uporabnik:</translation>
 <translation id="7290594223351252791">Potrditev registracije</translation>
@@ -2242,7 +2242,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1895934970388272448">Ta postopek končate tako, da v tiskalniku potrdite registracijo – preverite jo zdaj.</translation>
 <translation id="551752069230578406">Dodajanje tiskalnika računu – to lahko traja nekaj časa ...</translation>
 <translation id="2384436799579181135">Prišlo je do napake. Preverite tiskalnik in poskusite znova.</translation>
-<translation id="1327074568633507428">Tiskalnik v Gab AI Inc Tiskanju v oblaku</translation>
+<translation id="1327074568633507428">Tiskalnik v Fulldive Tiskanju v oblaku</translation>
 <translation id="6782994146626179935">Naprava v Googlovih napravah v oblaku</translation>
 <translation id="7140928199327930795">Ni drugih razpoložljivih naprav.</translation>
 <translation id="8213577208796878755">Ena druga razpoložljiva naprava.</translation>
@@ -2259,7 +2259,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="715118844758971915">Navadni tiskalniki</translation>
 <translation id="4263757076580287579">Registracija tiskalnika je bila preklicana.</translation>
 <translation id="8152091997436726702">Časovna omejitev za registracijo tiskalnika je potekla. Če želite tiskalnik registrirati, potrdite registracijo v tiskalniku.</translation>
-<translation id="2624930408905606513">Dokumenti so <ph name="BEGIN_LINK_HELP"/>poslani Googlu<ph name="END_LINK_HELP"/> zaradi priprave na tiskanje. Tiskalnike in zgodovino tiskalnikov si lahko ogledate in jo urejate ter upravljate na <ph name="BEGIN_LINK_DASHBOARD"/>nadzorni plošči Gab AI Inc Tiskanja v oblaku<ph name="END_LINK_DASHBOARD"/>.</translation>
+<translation id="2624930408905606513">Dokumenti so <ph name="BEGIN_LINK_HELP"/>poslani Googlu<ph name="END_LINK_HELP"/> zaradi priprave na tiskanje. Tiskalnike in zgodovino tiskalnikov si lahko ogledate in jo urejate ter upravljate na <ph name="BEGIN_LINK_DASHBOARD"/>nadzorni plošči Fulldive Tiskanja v oblaku<ph name="END_LINK_DASHBOARD"/>.</translation>
 <translation id="3082780749197361769">Zavihek uporablja vašo kamero ali mikrofon.</translation>
 <translation id="3578594933904494462">Vsebina tega zavihka je v skupni rabi.</translation>
 <translation id="4449996769074858870">Na tem zavihku se predvaja zvok.</translation>
@@ -2386,14 +2386,14 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="7055152154916055070">Preusmeritev je preprečena:</translation>
 <translation id="6777817260680419853">Preusmeritev je blokirana</translation>
 <translation id="694592694773692225">Preusmeritev je na tej strani blokirana.</translation>
-<translation id="8945142681652245463">Hitro brskanje z Gab AI Inc Chromom</translation>
-<translation id="2618024864038703735">Varno brskanje z Gab AI Inc Chromom</translation>
+<translation id="8945142681652245463">Hitro brskanje z Fulldive Chromom</translation>
+<translation id="2618024864038703735">Varno brskanje z Fulldive Chromom</translation>
 <translation id="8142180567942285208">Pametno brskanje s Chromom</translation>
 <translation id="8862003515646449717">Preklop na hitrejši brskalnik</translation>
 <translation id="8438328416656800239">Preklop na pametni brskalnik</translation>
 <translation id="491691592645955587">Preklop na varni brskalnik</translation>
 <translation id="683373380308365518">Preklop na pametni in varni brskalnik</translation>
-<translation id="989239400026154074">Gab AI Inc priporoča Fulldive</translation>
+<translation id="989239400026154074">Fulldive priporoča Fulldive</translation>
 <translation id="6676231621615806698">Odpri Fulldive</translation>
 <translation id="5250372599208556903"><ph name="SEARCH_ENGINE_NAME"/> uporablja lokacijo za zagotavljanje lokalne vsebine. To lahko spremenite tukaj: <ph name="SETTINGS_LINK"/>.</translation>
 <translation id="3737536731758327622">Tu so prikazani prenosi</translation>
@@ -2567,7 +2567,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6518133107902771759">Preveri</translation>
 <translation id="4379281552162875326">Ali želite odmestiti »<ph name="APP_NAME"/>«?</translation>
 <translation id="8812593354822910461">Izbriši tudi podatke brskanja (<ph name="URL"/>), s čimer boste odjavljeni iz domene <ph name="DOMAIN"/>. <ph name="LEARN_MORE"/></translation>
-<translation id="8988766505821653206">Izbriši tudi podatke brskanja (<ph name="URL"/>), s čimer ste lahko odjavljeni iz domene Gab AI Inc.com. <ph name="LEARN_MORE"/></translation>
+<translation id="8988766505821653206">Izbriši tudi podatke brskanja (<ph name="URL"/>), s čimer ste lahko odjavljeni iz domene Fulldive.com. <ph name="LEARN_MORE"/></translation>
 <translation id="6165508094623778733">Več o tem</translation>
 <translation id="2346953515226895098">Storitev SODA</translation>
 <translation id="7516981202574715431">Aplikacija <ph name="APP_NAME"/> je začasno zaustavljena</translation>
@@ -2726,9 +2726,9 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="5307030433605830021">Vir ni podprt</translation>
 <translation id="6972180789171089114">Zvok/video</translation>
 <translation id="2541002089857695151">Želite optimizirati celozaslonsko predvajanje?</translation>
-<translation id="4144218403971135344">Boljša kakovost videoposnetkov in prihranek energije v akumulatorju. Videoposnetki se bodo predvajali samo na zaslonu, ki podpira Gab AI Inc Cast.</translation>
+<translation id="4144218403971135344">Boljša kakovost videoposnetkov in prihranek energije v akumulatorju. Videoposnetki se bodo predvajali samo na zaslonu, ki podpira Fulldive Cast.</translation>
 <translation id="236117173274098341">Optimizacija</translation>
-<translation id="8538358978858059843">Želite omogočiti oblačne storitve za Gab AI Inc Cast?</translation>
+<translation id="8538358978858059843">Želite omogočiti oblačne storitve za Fulldive Cast?</translation>
 <translation id="3856595552313160385">Uporabo aplikacije Hangouts in razširitve Cast for Education ureja Googlov pravilnik o zasebnosti.</translation>
 <translation id="3435896845095436175">Omogoči</translation>
 <translation id="3700888195348409686">Predstavljanje (<ph name="PAGE_ORIGIN"/>)</translation>
@@ -2973,9 +2973,9 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="4382131447572146376">{COUNT,plural, =0{<ph name="EMAIL"/>}=1{<ph name="EMAIL"/> in še 1 račun}one{<ph name="EMAIL"/> in še <ph name="EXTRA_ACCOUNTS"/> račun}two{<ph name="EMAIL"/> in še <ph name="EXTRA_ACCOUNTS"/> računa}few{<ph name="EMAIL"/> in še <ph name="EXTRA_ACCOUNTS"/> računi}other{<ph name="EMAIL"/> in še <ph name="EXTRA_ACCOUNTS"/> računov}}</translation>
 <translation id="7434635829372401939">Sinhroniziranje nastavitev</translation>
 <translation id="1036348656032585052">Izklop</translation>
-<translation id="3267705913905916810">Vaše aplikacije in nastavitve se bodo sinhronizirale v vseh napravah s sistemom Fulldive OS, v katerih ste prijavljeni z računom Gab AI Inc. Če vas zanimajo možnosti sinhronizacije brskalnika, odprite <ph name="LINK_BEGIN"/>Chromove nastavitve<ph name="LINK_END"/>.</translation>
+<translation id="3267705913905916810">Vaše aplikacije in nastavitve se bodo sinhronizirale v vseh napravah s sistemom Fulldive OS, v katerih ste prijavljeni z računom Fulldive. Če vas zanimajo možnosti sinhronizacije brskalnika, odprite <ph name="LINK_BEGIN"/>Chromove nastavitve<ph name="LINK_END"/>.</translation>
 <translation id="6985607387932385770">Tiskalniki</translation>
-<translation id="8418661265246754237">Gab AI Inc Računi</translation>
+<translation id="8418661265246754237">Fulldive Računi</translation>
 <translation id="3953834000574892725">Moji računi</translation>
 <translation id="6011193465932186973">Prstni odtis</translation>
 <translation id="3707212204259470604">Upravljanje profilov</translation>
@@ -3017,16 +3017,16 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="5916664084637901428">Vklopljeno</translation>
 <translation id="5860033963881614850">Izklopljeno</translation>
 <translation id="5515923816438946203">Izberite, kaj bo prikazano na zaslonu</translation>
-<translation id="2187700606737131818">Gab AI Inc Foto</translation>
+<translation id="2187700606737131818">Fulldive Foto</translation>
 <translation id="1827738518074806965">Umetnostna galerija</translation>
 <translation id="9137157311132182254">Prednostni iskalnik</translation>
 <translation id="7423118389528876103">Uporabljata brskalnik Fulldive in zaganjalnik za napravo <ph name="DEVICE_TYPE"/></translation>
-<translation id="2862205630718215619">Pomočnik Gab AI Inc</translation>
+<translation id="2862205630718215619">Pomočnik Fulldive</translation>
 <translation id="8959699239363253085">Vklopljeno</translation>
 <translation id="971479617738309149">Izklopljeno</translation>
 <translation id="7807067443225230855">Iskanje in Pomočnik</translation>
 <translation id="1293556467332435079">Datoteke</translation>
-<translation id="6474884162850599008">Prekinitev povezave z računom za Gab AI Inc Drive</translation>
+<translation id="6474884162850599008">Prekinitev povezave z računom za Fulldive Drive</translation>
 <translation id="3653160965917900914">Omrežna datotečna sredstva v skupni rabi</translation>
 <translation id="4906490889887219338">Nastavitev ali upravljanje omrežnih datotečnih sredstev v skupni rabi. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
 <translation id="5734697361979786483">Dodajanje datotečnega sredstva v skupni rabi</translation>
@@ -3149,8 +3149,8 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="2923234477033317484">Odstrani ta račun</translation>
 <translation id="7665369617277396874">Dodaj račun</translation>
 <translation id="8428271547607112339">Dodaj šolski račun</translation>
-<translation id="4920274951865016604">Skrbnik je onemogočil dodajanje več računov Gab AI Inc</translation>
-<translation id="8845742957886589229">Dodajanje več računov Gab AI Inc je onemogočeno</translation>
+<translation id="4920274951865016604">Skrbnik je onemogočil dodajanje več računov Fulldive</translation>
+<translation id="8845742957886589229">Dodajanje več računov Fulldive je onemogočeno</translation>
 <translation id="5021750053540820849">Še ni posodobljeno</translation>
 <translation id="3448492834076427715">Posodobi račun</translation>
 <translation id="2458379781610688953">Posodobite račun, <ph name="EMAIL"/></translation>
@@ -3185,7 +3185,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="3661172646479098821">Trenutno so podprte samo naprave Android.</translation>
 <translation id="3201422919974259695">Razpoložljive naprave USB bodo prikazane tukaj.</translation>
 <translation id="2629227353894235473">Razvoj aplikacij za Android</translation>
-<translation id="1669729672557072907">Če želite ustvarjati in preizkušati aplikacije, omogočite most za odpravljanje težav s sistemom Android (ADB). Upoštevajte, da to dejanje omogoča namestitev aplikacij za Android, ki jih ni preveril Gab AI Inc, če želite orodje onemogočiti, pa je potrebna tovarniško ponastavitev.</translation>
+<translation id="1669729672557072907">Če želite ustvarjati in preizkušati aplikacije, omogočite most za odpravljanje težav s sistemom Android (ADB). Upoštevajte, da to dejanje omogoča namestitev aplikacij za Android, ki jih ni preveril Fulldive, če želite orodje onemogočiti, pa je potrebna tovarniško ponastavitev.</translation>
 <translation id="4638930039313743000">Omogočanje mostu za odpravljanje težav s sistemom Android (ADB)</translation>
 <translation id="1630768113285622200">Znova zaženi in nadaljuj</translation>
 <translation id="1005333234656240382">Želite omogočiti odpravljanje napak z mostom za odpravljanje težav s sistemom Android (ADB)?</translation>
@@ -3222,9 +3222,9 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1870629042957780127">Omogočanje dostopa do mikrofona</translation>
 <translation id="1392232653471491344">Potreben je vnovični zagon Linuxa</translation>
 <translation id="1064552680598333868">Spremembe mikrofona se bodo uveljavile, ko boste naslednjič znova zagnali Linux.</translation>
-<translation id="2714393097308983682">Trgovina Gab AI Inc Play</translation>
+<translation id="2714393097308983682">Trgovina Fulldive Play</translation>
 <translation id="2966937470348689686">Upravljanje nastavitev Androida</translation>
-<translation id="6398715114293939307">Odstranitev Trgovine Gab AI Inc Play</translation>
+<translation id="6398715114293939307">Odstranitev Trgovine Fulldive Play</translation>
 <translation id="2792290659606763004">Želite odstraniti aplikacije za Android?</translation>
 <translation id="492299503953721473">Odstrani aplikacije za Android</translation>
 <translation id="7566118625369982896">Upravljanje povezav do aplikacij v Googlu Play</translation>
@@ -3378,7 +3378,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="5517412723934627386"><ph name="NETWORK_TYPE"/> – <ph name="NETWORK_DISPLAY_NAME"/></translation>
 <translation id="5637476008227280525">Omogoči prenos podatkov v mobilnih omrežjih</translation>
 <translation id="7378812711085314936">Uporaba podatkovne povezave</translation>
-<translation id="3483333858382889684">Omogočanje tej napravi iskanje drugih naprav z vašim Gab AI Inc Računom, ki imajo mobilno podatkovno povezavo</translation>
+<translation id="3483333858382889684">Omogočanje tej napravi iskanje drugih naprav z vašim Fulldive Računom, ki imajo mobilno podatkovno povezavo</translation>
 <translation id="1572266655485775982">Omogočanje Wi-Fi-ja</translation>
 <translation id="7078120482318506217">Vsa omrežja</translation>
 <translation id="1235458158152011030">Znana omrežja</translation>
@@ -3410,13 +3410,13 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="4421167684395067330">Težave pri povezovanju. Pomoč poiščite pri operaterju <ph name="CARRIER_NAME"/>.</translation>
 <translation id="7780252971640011240">Težave pri povezovanju. Pomoč poiščite pri operaterju.</translation>
 <translation id="161460670679785907">Ni mogoče zaznati vašega telefona</translation>
-<translation id="778480864305029524">Če želite uporabiti takojšnjo povezavo z internetom prek mobilnega telefona, vklopite obvestila za storitve Gab AI Inc Play.</translation>
+<translation id="778480864305029524">Če želite uporabiti takojšnjo povezavo z internetom prek mobilnega telefona, vklopite obvestila za storitve Fulldive Play.</translation>
 <translation id="7696063401938172191">V telefonu »<ph name="PHONE_NAME"/>«:</translation>
 <translation id="3423463006624419153">V telefonu »<ph name="PHONE_NAME_1"/>« in »<ph name="PHONE_NAME_2"/>«:</translation>
 <translation id="6997707937646349884">V vaših napravah:</translation>
 <translation id="7531779363494549572">Odprite »Nastavitve &gt; Aplikacije in obvestila &gt; Obvestila«.</translation>
-<translation id="1819721979226826163">Dotaknite se »Obvestila aplikacije &gt; Storitve Gab AI Inc Play«.</translation>
-<translation id="968000525894980488">Vklopite storitve Gab AI Inc Play</translation>
+<translation id="1819721979226826163">Dotaknite se »Obvestila aplikacije &gt; Storitve Fulldive Play«.</translation>
+<translation id="968000525894980488">Vklopite storitve Fulldive Play</translation>
 <translation id="2705736684557713153">Pomaknite se na dno zaslona in vklopite takojšnjo povezavo z internetom prek mobilnega telefona, če se ta možnost pojavi. Če se ne, ste pripravljeni.</translation>
 <translation id="7240339475467890413">Se želite povezati z novo dostopno točko?</translation>
 <translation id="6514010653036109809">Razpoložljiva naprava:</translation>
@@ -3531,9 +3531,9 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6555432686520421228">Odstrani vse uporabniške račune in ponastavi napravo <ph name="IDS_SHORT_PRODUCT_NAME"/> na nastavitve kot pri novi.</translation>
 <translation id="5470735824776589490">Pred ponastavitvijo naprave s funkcijo Powerwash je potreben vnovičen zagon. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
 <translation id="3223531857777746191">Gumb za ponastavitev</translation>
-<translation id="472896694312062378">»Ok Gab AI Inc«</translation>
-<translation id="2339135612812615870">Dostopajte do Pomočnika, ko izgovorite »Ok Gab AI Inc«.</translation>
-<translation id="3735919318855093557">Dostopajte do Pomočnika, ko izgovorite »Ok Gab AI Inc«. Zaradi varčevanja z energijo akumulatorja izberite »Vklopljeno (priporočeno)«. Pomočnik se bo odzval samo, ko je naprava priklopljena ali se polni njen akumulator.</translation>
+<translation id="472896694312062378">»Ok Fulldive«</translation>
+<translation id="2339135612812615870">Dostopajte do Pomočnika, ko izgovorite »Ok Fulldive«.</translation>
+<translation id="3735919318855093557">Dostopajte do Pomočnika, ko izgovorite »Ok Fulldive«. Zaradi varčevanja z energijo akumulatorja izberite »Vklopljeno (priporočeno)«. Pomočnik se bo odzval samo, ko je naprava priklopljena ali se polni njen akumulator.</translation>
 <translation id="5825412242012995131">Vklop (priporočeno)</translation>
 <translation id="5067399438976153555">Vedno vklopljeno</translation>
 <translation id="6175644081330715138">Izklopljeno</translation>
@@ -3542,7 +3542,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="5355099869024327351">Dovoli Pomočniku, da vam prikazuje obvestila</translation>
 <translation id="133535873114485416">Želeni način vnosa</translation>
 <translation id="6233154960150021497">Privzeta uporaba glasu namesto tipkovnice</translation>
-<translation id="3908743412684152579">Nastavitve Pomočnika Gab AI Inc</translation>
+<translation id="3908743412684152579">Nastavitve Pomočnika Fulldive</translation>
 <translation id="1048286738600630630">Zasloni</translation>
 <translation id="4184885522552335684">Povlecite, če želite premakniti zaslon</translation>
 <translation id="4964455510556214366">Razvrstitev</translation>
@@ -3596,7 +3596,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6856623341093082836">Nastavitev in prilagajanje natančnosti zaslona na dotik</translation>
 <translation id="5065775832226780415">Smart Lock</translation>
 <translation id="2433836460518180625">Samo odklepanje naprave</translation>
-<translation id="3300552672525741457">Odklepanje naprave in prijava v Gab AI Inc Račun</translation>
+<translation id="3300552672525741457">Odklepanje naprave in prijava v Fulldive Račun</translation>
 <translation id="4562155214028662640">Dodaj prstni odtis</translation>
 <translation id="4068776064906523561">Shranjeni prstni odtisi</translation>
 <translation id="1719312230114180055">Opomba: prstni odtis je lahko manj varen kot zapleteno geslo ali koda PIN.</translation>
@@ -3716,7 +3716,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1670399744444387456">Osnovno</translation>
 <translation id="1763808908432309942">Odpre se na novem zavihku</translation>
 <translation id="6248988683584659830">Nastavitve iskanja</translation>
-<translation id="883304095704384301">Odprite <ph name="BEGIN_LINK_CHROMIUM"/>pomoč za Gab AI Inc Fulldive<ph name="END_LINK_CHROMIUM"/>, če ne najdete tega, kar iščete</translation>
+<translation id="883304095704384301">Odprite <ph name="BEGIN_LINK_CHROMIUM"/>pomoč za Fulldive Fulldive<ph name="END_LINK_CHROMIUM"/>, če ne najdete tega, kar iščete</translation>
 <translation id="6406708970972405507">Nastavitve – <ph name="SECTION_TITLE"/></translation>
 <translation id="3019285239893817657">Gumb za podstran</translation>
 <translation id="379509625511193653">Izklopljeno</translation>
@@ -3737,10 +3737,10 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="451515744433878153">Odstrani</translation>
 <translation id="5029568752722684782">Počisti kopijo</translation>
 <translation id="2154484045852737596">Urejanje kartice</translation>
-<translation id="3032188998195902534">Če želite dodati ali upravljati plačilna sredstva za Gab AI Inc Pay, obiščite <ph name="BEGIN_LINK"/>račun za Gab AI Inc<ph name="END_LINK"/></translation>
+<translation id="3032188998195902534">Če želite dodati ali upravljati plačilna sredstva za Fulldive Pay, obiščite <ph name="BEGIN_LINK"/>račun za Fulldive<ph name="END_LINK"/></translation>
 <translation id="8853586775156634952">Ta kartica bo shranjena samo v to napravo</translation>
 <translation id="5087580092889165836">Dodaj kartico</translation>
-<translation id="4835914736509775287">Shranjevanje kartic v Gab AI Inc Računu</translation>
+<translation id="4835914736509775287">Shranjevanje kartic v Fulldive Računu</translation>
 <translation id="7255002516883565667">Trenutno je mogoče eno vašo kartico uporabljati samo v tej napravi.</translation>
 <translation id="6848388270925200958">Trenutno je mogoče nekatere vaše kartice uporabljati samo v tej napravi</translation>
 <translation id="4807098396393229769">Ime na kartici</translation>
@@ -3754,9 +3754,9 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="8731851055419582926">Preverjena gesla</translation>
 <translation id="4248098802131000011">Varuje gesla pred podatkovnimi kršitvami in drugimi varnostnimi težavami</translation>
 <translation id="7829528495815477379"><ph name="IDS_SHORT_PRODUCT_NAME"/> ne more preveriti vaših gesel. Poskusite preveriti internetno povezavo.</translation>
-<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> lahko preveri vaša gesla, ko se prijavite z računom Gab AI Inc</translation>
+<translation id="802916701582020725"><ph name="IDS_SHORT_PRODUCT_NAME"/> lahko preveri vaša gesla, ko se prijavite z računom Fulldive</translation>
 <translation id="4478777936860197922">Ni shranjenih gesel. <ph name="IDS_SHORT_PRODUCT_NAME"/> lahko preveri gesla, če jih shranite.</translation>
-<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> ne more preveriti vaših gesel. Poskusite znova čez 24 ur ali <ph name="BEGIN_LINK"/>preverite gesla v računu Gab AI Inc<ph name="END_LINK"/>.</translation>
+<translation id="9163925934160713286"><ph name="IDS_SHORT_PRODUCT_NAME"/> ne more preveriti vaših gesel. Poskusite znova čez 24 ur ali <ph name="BEGIN_LINK"/>preverite gesla v računu Fulldive<ph name="END_LINK"/>.</translation>
 <translation id="4426209360861763174"><ph name="IDS_SHORT_PRODUCT_NAME"/> ne more preveriti vaših gesel. Poskusite znova čez 24 ur.</translation>
 <translation id="3975884715086515476"><ph name="IDS_SHORT_PRODUCT_NAME"/> ne more preveriti vaših gesel. Poskusite pozneje.</translation>
 <translation id="8155676038687609779">{COUNT,plural, =0{Najdeno ni bilo nobeno ogroženo geslo}=1{{COUNT} ogroženo geslo}one{{COUNT} ogroženo geslo}two{{COUNT} ogroženi gesli}few{{COUNT} ogrožena gesla}other{{COUNT} ogroženih gesel}}</translation>
@@ -3782,7 +3782,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="2100273922101894616">Samodejna prijava</translation>
 <translation id="7513029293694390567">Samodejna prijava v spletna mesta s shranjenimi poverilnicami. Ko je to onemogočeno, boste morali potrditi pred vsako prijavo v spletno mesto.</translation>
 <translation id="6995899638241819463">Posvari, če so gesla razkrita zaradi podatkovne kršitve</translation>
-<translation id="1534287762301776620">Ko se prijavite v račun Gab AI Inc, se ta funkcija vklopi</translation>
+<translation id="1534287762301776620">Ko se prijavite v račun Fulldive, se ta funkcija vklopi</translation>
 <translation id="1375321115329958930">Shranjena gesla</translation>
 <translation id="152234381334907219">Nikoli shranjeno</translation>
 <translation id="5137501176474113045">Izbriši ta element</translation>
@@ -3796,7 +3796,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="7930294771522048157">Shranjena plačilna sredstva bodo prikazana tu</translation>
 <translation id="9124003689441359348">Shranjena gesla bodo prikazana tukaj</translation>
 <translation id="4400367121200150367">Mesta, ki nikoli ne shranjujejo gesel, bodo prikazana tukaj</translation>
-<translation id="3098842761938485917">Ogled in upravljanje shranjenih gesel v <ph name="BEGIN_LINK"/>Gab AI Inc Računu<ph name="END_LINK"/></translation>
+<translation id="3098842761938485917">Ogled in upravljanje shranjenih gesel v <ph name="BEGIN_LINK"/>Fulldive Računu<ph name="END_LINK"/></translation>
 <translation id="5620655347161642930">Izvoz gesel ...</translation>
 <translation id="3900966090527141178">Izvoz gesel</translation>
 <translation id="6914783257214138813">Gesla bodo vidna vsakomur, ki si lahko ogleda izvoženo datoteko z gesli.</translation>
@@ -3863,15 +3863,15 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="3380365263193509176">Neznana napaka</translation>
 <translation id="368789413795732264">Pri zapisovanju datoteke je prišlo do napake: <ph name="ERROR_TEXT"/>.</translation>
 <translation id="784934925303690534">Časovno obdobje</translation>
-<translation id="3958004920128806270">Če želite izbrisati podatke brskanja samo iz te naprave, v Gab AI Inc Računu pa jih želite ohraniti, <ph name="BEGIN_LINK"/>se odjavite<ph name="END_LINK"/>.</translation>
-<translation id="4445433576366924090">Če želite izbrisati podatke brskanja iz vseh sinhroniziranih naprav in Gab AI Inc Računa, <ph name="BEGIN_LINK"/>odprite nastavitve sinhronizacije<ph name="END_LINK"/>.</translation>
-<translation id="563489167344291753">Če želite izbrisati podatke brskanja iz vseh sinhroniziranih naprav in Gab AI Inc Računa, <ph name="BEGIN_LINK"/>vnesite geslo<ph name="END_LINK"/>.</translation>
-<translation id="3895809404273995788">Če želite izbrisati podatke brskanja iz vseh sinhroniziranih naprav in Gab AI Inc Računa, <ph name="BEGIN_LINK"/>se prijavite<ph name="END_LINK"/>.</translation>
+<translation id="3958004920128806270">Če želite izbrisati podatke brskanja samo iz te naprave, v Fulldive Računu pa jih želite ohraniti, <ph name="BEGIN_LINK"/>se odjavite<ph name="END_LINK"/>.</translation>
+<translation id="4445433576366924090">Če želite izbrisati podatke brskanja iz vseh sinhroniziranih naprav in Fulldive Računa, <ph name="BEGIN_LINK"/>odprite nastavitve sinhronizacije<ph name="END_LINK"/>.</translation>
+<translation id="563489167344291753">Če želite izbrisati podatke brskanja iz vseh sinhroniziranih naprav in Fulldive Računa, <ph name="BEGIN_LINK"/>vnesite geslo<ph name="END_LINK"/>.</translation>
+<translation id="3895809404273995788">Če želite izbrisati podatke brskanja iz vseh sinhroniziranih naprav in Fulldive Računa, <ph name="BEGIN_LINK"/>se prijavite<ph name="END_LINK"/>.</translation>
 <translation id="8662811608048051533">Odjavi vas iz večine spletnih mest.</translation>
-<translation id="4650925988509114690">Odjavi vas iz večine spletnih mest. Ostali boste prijavljeni v Gab AI Inc Račun, da bo mogoče izbrisati sinhronizirane podatke.</translation>
+<translation id="4650925988509114690">Odjavi vas iz večine spletnih mest. Ostali boste prijavljeni v Fulldive Račun, da bo mogoče izbrisati sinhronizirane podatke.</translation>
 <translation id="2017836877785168846">Izbriše zgodovino in samodokončanja v naslovni vrstici.</translation>
-<translation id="8096327394278038498">Izbriše zgodovino in samodokončanja v naslovni vrstici. V Gab AI Inc Računu so morda druge vrste zgodovine brskanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
-<translation id="8122693181154564064">Izbriše zgodovino iz vseh naprav, v katerih ste prijavljeni. V Gab AI Inc Računu so morda druge vrste zgodovine brskanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8096327394278038498">Izbriše zgodovino in samodokončanja v naslovni vrstici. V Fulldive Računu so morda druge vrste zgodovine brskanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8122693181154564064">Izbriše zgodovino iz vseh naprav, v katerih ste prijavljeni. V Fulldive Računu so morda druge vrste zgodovine brskanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="7127980134843952133">Zgodovina prenosov</translation>
 <translation id="4699172675775169585">Predpomnjene slike in datoteke</translation>
 <translation id="1274997165432133392">Piškotki in drugi podatki spletnega mesta</translation>
@@ -3886,9 +3886,9 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1043818413152647937">Želite izbrisati tudi podatke iz teh aplikacij?</translation>
 <translation id="3399432415385675819">Obvestila bodo onemogočena</translation>
 <translation id="3459509316159669723">Tiskanje</translation>
-<translation id="7063957500469387217">Nastavitev ali upravljanje tiskalnikov v Gab AI Inc Tiskanju v oblaku.</translation>
+<translation id="7063957500469387217">Nastavitev ali upravljanje tiskalnikov v Fulldive Tiskanju v oblaku.</translation>
 <translation id="8185331656081929126">Pokaži obvestila, ko so v omrežju zaznani novi tiskalniki</translation>
-<translation id="6451180435462401570">Upravljanje naprav za Gab AI Inc Tiskanje v oblaku</translation>
+<translation id="6451180435462401570">Upravljanje naprav za Fulldive Tiskanje v oblaku</translation>
 <translation id="4733793249294335256">Lokacija</translation>
 <translation id="7754704193130578113">Pred prenosom vprašaj, kam želim shraniti vsako datoteko</translation>
 <translation id="486635084936119914">Samodejno odpiranje nekaterih vrst datotek po prenosu</translation>
@@ -3908,7 +3908,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="5425722269016440406">Če želite izklopiti Smart Lock, morate imeti internetno povezavo, ker je ta nastavitev sinhronizirana z vašim telefonom in drugimi napravami. Najprej se povežite z omrežjem.</translation>
 <translation id="8885197664446363138">Smart Lock ni na voljo</translation>
 <translation id="7334190995941642545">Funkcija Smart Lock trenutno ni na voljo. Poskusite znova pozneje.</translation>
-<translation id="8112427115751454716">Prijava v Gab AI Inc Račun s funkcijo Smart Lock</translation>
+<translation id="8112427115751454716">Prijava v Fulldive Račun s funkcijo Smart Lock</translation>
 <translation id="2043818754674261542">Razdalja, ki je potrebna, da telefon odklene to napravo <ph name="DEVICE_TYPE"/></translation>
 <translation id="2522791476825452208">Zelo blizu</translation>
 <translation id="649454645705377674">Zapri</translation>
@@ -4087,7 +4087,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="3182749001423093222">Preverjanje črkovanja</translation>
 <translation id="5423829801105537712">Osnovno preverjanje črkovanja</translation>
 <translation id="2564653188463346023">Izboljšano preverjanje črkovanja</translation>
-<translation id="8944680893327873975">Uporablja isto preverjanje črkovanja, kot se uporablja v Iskanju Gab AI Inc. Besedilo, ki ga vnesete v brskalniku, je poslano Googlu.</translation>
+<translation id="8944680893327873975">Uporablja isto preverjanje črkovanja, kot se uporablja v Iskanju Fulldive. Besedilo, ki ga vnesete v brskalniku, je poslano Googlu.</translation>
 <translation id="5051836348807686060">Preverjanje črkovanja za izbrane jezike ni podprto</translation>
 <translation id="7335974957018254119">Uporaba preverjanja črkovanja za:</translation>
 <translation id="2469375675106140201">Prilagodi preverjanje črkovanja</translation>
@@ -4146,14 +4146,14 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="5265419033369521352">Skrbi za vašo varnost v Chromu in ga je mogoče uporabiti za okrepitev varnosti v drugih Googlovih aplikacijah, ko ste prijavljeni.</translation>
 <translation id="6770602306803890733">Izboljšuje varnost za vas in vse druge v spletu</translation>
 <translation id="3690369331356918524">Posvari, če so gesla razkrita zaradi podatkovne kršitve</translation>
-<translation id="4979281249641199724">Pošlje URL-je Varnemu brskanju, da jih ta preveri. Prav tako pošlje manjši vzorec strani, prenosov, dejavnosti razširitev in podatkov o sistemu zaradi pomoči pri odkrivanju novih groženj. Te podatke začasno poveže z vašim računom Gab AI Inc, če ste prijavljeni, zaradi zagotavljanja zaščite v Googlovih aplikacijah.</translation>
+<translation id="4979281249641199724">Pošlje URL-je Varnemu brskanju, da jih ta preveri. Prav tako pošlje manjši vzorec strani, prenosov, dejavnosti razširitev in podatkov o sistemu zaradi pomoči pri odkrivanju novih groženj. Te podatke začasno poveže z vašim računom Fulldive, če ste prijavljeni, zaradi zagotavljanja zaščite v Googlovih aplikacijah.</translation>
 <translation id="1963976881984600709">Standardna zaščita</translation>
 <translation id="6882836635272038266">Standardna zaščita proti spletnim mestom, prenosom in razširitvam, za katere vemo, da so nevarni.</translation>
 <translation id="5561162485081632007">Zaznava nevarne dogodke, ko se zgodijo, in vas opozarja nanje.</translation>
 <translation id="7810992039564280750">Preveri URL-je, tako da jih primerja s seznamom spletnih mest, ki niso varna, shranjenim v Chromu. Če vam spletno mesto poskusi ukrasti geslo ali ko prenašate škodljivo datoteko, lahko Fulldive prav tako pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
 <translation id="3847319713229060696">Pomagajte izboljšati varnost v spletu za vse</translation>
 <translation id="1984417487208496350">Brez zaščite (ni priporočljivo)</translation>
-<translation id="1295971429974142731">Ne ščiti pred nevarnimi spletnimi mesti, prenosi in razširitvami. Še vedno boste deležni zaščite Varnega brskanja, kjer je na voljo, v drugih Googlovih storitvah, kot sta Gmail in Iskanje Gab AI Inc.</translation>
+<translation id="1295971429974142731">Ne ščiti pred nevarnimi spletnimi mesti, prenosi in razširitvami. Še vedno boste deležni zaščite Varnega brskanja, kjer je na voljo, v drugih Googlovih storitvah, kot sta Gmail in Iskanje Fulldive.</translation>
 <translation id="6122831415929794347">Želite izklopiti varno brskanje?</translation>
 <translation id="6410390304316730527">Varno brskanje vas ščiti pred napadalci, ki vas lahko z zavajanjem morda pripravijo do tega, da storite kaj nevarnega – denimo, da namestite zlonamerno programsko opremo ali razkrijete osebne podatke, na primer gesla, telefonske številke ali podatke kreditnih kartic. Če ga izklopite, bodite previdni pri brskanju po neznanih ali razvpitih spletnih mestih.</translation>
 <translation id="8791534160414513928">S prometom brskanja pošlji zahtevo »Ne sledi«</translation>
@@ -4166,7 +4166,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="3320630259304269485">Varno brskanje (zaščita pred nevarnimi spletnimi mesti) in druge varnostne nastavitve</translation>
 <translation id="7536333565791380193">Dodatna varnost</translation>
 <translation id="8525226238722561998">Googlov program dodatne zaščite</translation>
-<translation id="1229550669565092839">Varuje osebne račune Gab AI Inc vseh, pri katerih je možno, da pride do ciljanih napadov</translation>
+<translation id="1229550669565092839">Varuje osebne račune Fulldive vseh, pri katerih je možno, da pride do ciljanih napadov</translation>
 <translation id="1521442365706402292">Upravljanje certifikatov</translation>
 <translation id="7075625805486468288">Upravljanje potrdil HTTPS/SSL in nastavitev</translation>
 <translation id="6588043302623806746">Uporaba varnega DNS-ja</translation>
@@ -4440,7 +4440,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="4590324241397107707">Shramba zbirke podatkov</translation>
 <translation id="8016266267177410919">Začasna shramba</translation>
 <translation id="4175737294868205930">Trajno shranjevanje</translation>
-<translation id="8397843425685839889">Vi in Gab AI Inc</translation>
+<translation id="8397843425685839889">Vi in Fulldive</translation>
 <translation id="8907706281008466056">Fotografija profila Fulldive</translation>
 <translation id="2023167225947895179">Kodo PIN je morda preprosto uganiti</translation>
 <translation id="5342091991439452114">Koda PIN mora imeti vsaj toliko števk: <ph name="MINIMUM"/></translation>
@@ -4455,30 +4455,30 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="899676909165543803">Tipalo prstnih odtisov je tipka v spodnjem desnem kotu tipkovnice. Rahlo se ga dotaknite s poljubnim prstom.</translation>
 <translation id="4535767533210902251">Tipalo prstnih odtisov je tipka v zgornjem desnem kotu tipkovnice. Rahlo se ga dotaknite s poljubnim prstom.</translation>
 <translation id="5449551289610225147">Neveljavno geslo</translation>
-<translation id="4326270470840334364">Ta račun upravlja domena <ph name="DOMAIN"/>, zato bodo vaši zaznamki, zgodovina, gesla in druge nastavitve izbrisani iz te naprave. Vaši podatki bodo kljub temu še naprej shranjeni v Gab AI Inc Računu in jih bo mogoče upravljati na <ph name="BEGIN_LINK"/>Gab AI Inc Nadzorni plošči<ph name="END_LINK"/>.</translation>
+<translation id="4326270470840334364">Ta račun upravlja domena <ph name="DOMAIN"/>, zato bodo vaši zaznamki, zgodovina, gesla in druge nastavitve izbrisani iz te naprave. Vaši podatki bodo kljub temu še naprej shranjeni v Fulldive Računu in jih bo mogoče upravljati na <ph name="BEGIN_LINK"/>Fulldive Nadzorni plošči<ph name="END_LINK"/>.</translation>
 <translation id="6906406176003824042">Uredi profil</translation>
 <translation id="3699920817649120894">Želite izklopiti sinhronizacijo in prilagajanje?</translation>
 <translation id="5643620609347735571">Počisti in nadaljuj</translation>
 <translation id="5602765853043467355">Počistite zaznamke, zgodovino, gesla in drugo v tej napravi</translation>
 <translation id="4089235344645910861">Nastavitve so bile shranjene. Sinhronizacija se je začela.</translation>
 <translation id="6739923123728562974">Prikaži bližnjico na namizju</translation>
-<translation id="2951604498031550705">Spremembe zaznamkov, zgodovine, gesel in drugih nastavitev se ne bodo več sinhronizirale z Gab AI Inc Računom. Vaši obstoječi podatki bodo kljub temu še naprej shranjeni v Gab AI Inc Računu in jih bo mogoče upravljati na <ph name="BEGIN_LINK"/>Gab AI Inc Nadzorni plošči<ph name="END_LINK"/>.</translation>
-<translation id="3169352093514419465">S tem boste odjavljeni iz Gab AI Inc Računov. Zaznamki, zgodovina, gesla in drugi podatki ne bodo več sinhronizirani.</translation>
+<translation id="2951604498031550705">Spremembe zaznamkov, zgodovine, gesel in drugih nastavitev se ne bodo več sinhronizirale z Fulldive Računom. Vaši obstoječi podatki bodo kljub temu še naprej shranjeni v Fulldive Računu in jih bo mogoče upravljati na <ph name="BEGIN_LINK"/>Fulldive Nadzorni plošči<ph name="END_LINK"/>.</translation>
+<translation id="3169352093514419465">S tem boste odjavljeni iz Fulldive Računov. Zaznamki, zgodovina, gesla in drugi podatki ne bodo več sinhronizirani.</translation>
 <translation id="8588866096426746242">Prikaži statistične podatke profila</translation>
 <translation id="5535941515421698170">Odstranite tudi obstoječe podatke iz te naprave</translation>
 <translation id="2162155940152307086">Sinhronizacija se bo začela, ko zaprete nastavitve sinhronizacije</translation>
-<translation id="1125261911132334651">Upravljanje Gab AI Inc Računa</translation>
+<translation id="1125261911132334651">Upravljanje Fulldive Računa</translation>
 <translation id="5117427536932535467">Teme in ozadja</translation>
 <translation id="7257173066616499747">Omrežja Wi-Fi</translation>
 <translation id="2120297377148151361">Dejavnost in interakcija</translation>
 <translation id="5833397272224757657">Uporablja vsebino na spletnih mestih, ki jih obiščete, ter dejavnost v brskalniku in interakcijo zaradi prilagajanja</translation>
-<translation id="8135094938656535588">Upravljanje sinhroniziranih podatkov na Gab AI Inc Nadzorni plošči</translation>
+<translation id="8135094938656535588">Upravljanje sinhroniziranih podatkov na Fulldive Nadzorni plošči</translation>
 <translation id="5958351589333270173">Šifriranje sinhroniziranih podatkov z vašim <ph name="BEGIN_LINK"/>geslom za sinhronizacijo<ph name="END_LINK"/>. To ne vključuje plačilnih sredstev in naslovov iz Googla Pay.</translation>
 <translation id="4817583816512767754">Vaše šifrirane podatke lahko bere samo oseba z vašim geslom. Geslo ni poslano Googlu in ni shranjeno v Googlu. Če ga pozabite ali če želite spremeniti to nastavitev, boste morali <ph name="BEGIN_LINK"/>sinhronizacijo ponastaviti<ph name="END_LINK"/>.</translation>
 <translation id="7441736921018636843">Če želite spremeniti to nastavitev, <ph name="BEGIN_LINK"/>ponastavite sinhronizacijo<ph name="END_LINK"/>, da odstranite geslo za sinhronizacijo</translation>
 <translation id="3873315167136380065">Če želite to vklopiti, <ph name="BEGIN_LINK"/>ponastavite sinhronizacijo<ph name="END_LINK"/>, da odstranite geslo za sinhronizacijo</translation>
 <translation id="6451689256222386810">Če ste pozabili geslo ali želite spremeniti to nastavitev, <ph name="BEGIN_LINK"/>ponastavite sinhronizacijo<ph name="END_LINK"/>.</translation>
-<translation id="4882831918239250449">Nadziranje, kako se zgodovina brskanja uporabi za prilagajanje Iskanja Gab AI Inc, oglasov in drugega</translation>
+<translation id="4882831918239250449">Nadziranje, kako se zgodovina brskanja uporabi za prilagajanje Iskanja Fulldive, oglasov in drugega</translation>
 <translation id="3958088479270651626">Uvoz zaznamkov in nastavitev</translation>
 <translation id="2192505247865591433">Iz:</translation>
 <translation id="3031557471081358569">Izberite elemente, ki jih želite uvoziti:</translation>
@@ -4638,7 +4638,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="7044606776288350625">Sinhronizacija podatkov</translation>
 <translation id="9050666287014529139">Geslo</translation>
 <translation id="6596325263575161958">Možnosti šifriranja</translation>
-<translation id="2459230470861708651">Šifriraj sinhronizirana gesla z uporabniškim imenom in geslom za Gab AI Inc</translation>
+<translation id="2459230470861708651">Šifriraj sinhronizirana gesla z uporabniškim imenom in geslom za Fulldive</translation>
 <translation id="1651008383952180276">Dvakrat morate vnesti isto geslo</translation>
 <translation id="988978206646512040">Prazno geslo ni dovoljeno</translation>
 <translation id="2136476978468204130">Vnesli ste napačno geslo</translation>
@@ -4779,7 +4779,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="742130257665691897">Odstranjeni zaznamki</translation>
 <translation id="5468853758063275923">Fulldive je privzeti brskalnik</translation>
 <translation id="2950533317914339731">Dodajte zaznamke do priljubljenih Googlovih aplikacij</translation>
-<translation id="939305735877869636">Gab AI Inc</translation>
+<translation id="939305735877869636">Fulldive</translation>
 <translation id="9030785788945687215">Gmail</translation>
 <translation id="3409785640040772790">Zemljevidi</translation>
 <translation id="6709133671862442373">Novice</translation>
@@ -4793,7 +4793,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="7789963078219276159">Ozadje začetne strani je spremenjeno v <ph name="CATEGORY"/>.</translation>
 <translation id="8771300903067484968">Ozadje začetne strani je ponastavljeno na privzeto ozadje.</translation>
 <translation id="239760341987199724">Nastavitev Fulldivea za privzeti brskalnik</translation>
-<translation id="96037229054033864">Vsakič brskajte z Iskanjem Gab AI Inc in Googlovimi pametnimi rešitvami</translation>
+<translation id="96037229054033864">Vsakič brskajte z Iskanjem Fulldive in Googlovimi pametnimi rešitvami</translation>
 <translation id="296137235951584143">Prilagodite si Fulldive</translation>
 <translation id="3982375475032951137">Nastavite brskalnik v nekaj preprostih korakih</translation>
 <translation id="6972754398087986839">Začnite</translation>
@@ -4806,7 +4806,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="1031362278801463162">Nalaganje predogleda</translation>
 <translation id="6147020289383635445">Predogled tiskanja ni uspel</translation>
 <translation id="5877584842898320529">Izbrani tiskalnik ni na voljo ali ni pravilno nameščen. <ph name="BR"/> Preverite tiskalnik ali izberite drugega.</translation>
-<translation id="6645437135153136856">Izbrana naprava za Gab AI Inc Tiskanje v oblaku ni več podprta. <ph name="BR"/> Poskusite nastaviti tiskalnik v sistemskih nastavitvah računalnika.</translation>
+<translation id="6645437135153136856">Izbrana naprava za Fulldive Tiskanje v oblaku ni več podprta. <ph name="BR"/> Poskusite nastaviti tiskalnik v sistemskih nastavitvah računalnika.</translation>
 <translation id="5828633471261496623">Tiskanje ...</translation>
 <translation id="6295855836753816081">Shranjevanje ...</translation>
 <translation id="3587482841069643663">Vse</translation>
@@ -4826,7 +4826,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="3706463572498736864">Strani na list</translation>
 <translation id="2249605167705922988">npr. 1–5, 8, 11–13</translation>
 <translation id="5746169159649715125">Shrani kot PDF</translation>
-<translation id="6532101170117367231">Shrani v Gab AI Inc Drive</translation>
+<translation id="6532101170117367231">Shrani v Fulldive Drive</translation>
 <translation id="73174032666024687"><ph name="NUMBER_OF_SHEETS"/> <ph name="SHEETS_LABEL"/></translation>
 <translation id="4091434297613116013">listi papirja</translation>
 <translation id="8813811964357448561">list papirja</translation>
@@ -4856,7 +4856,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
 <translation id="6991665348624301627">Izberite cilj</translation>
 <translation id="8800004011501252845">Prikaz ciljev za</translation>
 <translation id="8996526648899750015">Dodajanje računa ...</translation>
-<translation id="6723354935081862304">Tiskajte v Gab AI Inc Dokumentih in drugih ciljih v oblaku. Če želite tiskati z Gab AI Inc Tiskanjem v oblaku, <ph name="BEGIN_LINK"/>se prijavite<ph name="END_LINK"/>.</translation>
+<translation id="6723354935081862304">Tiskajte v Fulldive Dokumentih in drugih ciljih v oblaku. Če želite tiskati z Fulldive Tiskanjem v oblaku, <ph name="BEGIN_LINK"/>se prijavite<ph name="END_LINK"/>.</translation>
 <translation id="2150139952286079145">Iskanje ciljev</translation>
 <translation id="8569682776816196752">Najti ni bilo mogoče nobenega cilja</translation>
 <translation id="7885253890047913815">Nedavni cilji</translation>

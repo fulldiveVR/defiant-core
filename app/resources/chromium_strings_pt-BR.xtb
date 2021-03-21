@@ -10,7 +10,7 @@
 <translation id="4847979153841887006">Logotipo do Fulldive</translation>
 <translation id="7339898014177206373">Nova janela</translation>
 <translation id="5516268345616100622">Gerenciador de tarefas - Fulldive</translation>
-<translation id="7918740962659365265">Ajude a melhorar o Fulldive. Envie relatórios de erros e <ph name="UMA_LINK"/> para o Gab AI Inc</translation>
+<translation id="7918740962659365265">Ajude a melhorar o Fulldive. Envie relatórios de erros e <ph name="UMA_LINK"/> para o Fulldive</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - Login na rede - Fulldive</translation>
@@ -34,12 +34,12 @@
 <translation id="4065288863231444640">Permitir a execução do Fulldive em segundo plano</translation>
 <translation id="6797402139308059782">Permitir que o Fulldive seja executado em segundo plano</translation>
 <translation id="2585240446624043880">O Fulldive não pode ler e gravar neste diretório de dados: <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Opcional: Ajude a tornar o Fulldive melhor enviando automaticamente as estatísticas de uso e os relatórios de erros ao Gab AI Inc.</translation>
+<translation id="8417700129970341035">Opcional: Ajude a tornar o Fulldive melhor enviando automaticamente as estatísticas de uso e os relatórios de erros ao Fulldive.</translation>
 <translation id="1489465648257900784">Seu perfil não pode ser usado porque é de uma versão mais recente do Fulldive. Alguns recursos podem não estar disponíveis. Especifique outro diretório de perfil ou use uma versão mais recente do Fulldive.</translation>
 <translation id="1065672644894730302">Não foi possível ler suas preferências. Alguns recursos podem não estar disponíveis e as alterações nas preferências não serão salvas.</translation>
 <translation id="3403365884036456766">Seu arquivo de preferências foi corrompido ou não é válido. O Fulldive não conseguiu recuperar suas configurações.</translation>
 <translation id="1477146545787277177">O Fulldive travou. Reiniciar agora?</translation>
-<translation id="5785919770853225148">O Fulldive salvará essa senha na sua Conta do Gab AI Inc. Você não precisará se lembrar dela.</translation>
+<translation id="5785919770853225148">O Fulldive salvará essa senha na sua Conta do Fulldive. Você não precisará se lembrar dela.</translation>
 <translation id="8211837073776713955">O Fulldive avisa se suas senhas forem comprometidas</translation>
 <translation id="113959764510199339">O Fulldive está tentando mostrar senhas.</translation>
 <translation id="96347285368592620">O Fulldive está tentando copiar senhas.</translation>
@@ -80,7 +80,7 @@
 <translation id="9183662282810237335">Sair do Fulldive mesmo assim?</translation>
 <translation id="3834935463915107022">Sair do Fulldive mesmo assim?</translation>
 <translation id="8797356639448065696">O Fulldive está em modo de segundo plano.</translation>
-<translation id="2339258256897053758">As chaves da API do Gab AI Inc não foram encontradas. Algumas funcionalidades do Fulldive serão desativadas.</translation>
+<translation id="2339258256897053758">As chaves da API do Fulldive não foram encontradas. Algumas funcionalidades do Fulldive serão desativadas.</translation>
 <translation id="7861579472672677409">A extensão <ph name="EXTENSION_NAME"/> foi adicionada ao Fulldive</translation>
 <translation id="8516116288943000095">Limpar também os dados do Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Esconder no menu do Fulldive</translation>
@@ -104,8 +104,8 @@
 <translation id="2925193881330501265">Você estava conectado ao Fulldive como <ph name="USER_EMAIL_ADDRESS"/>. Use a mesma conta para fazer login novamente.</translation>
 <translation id="847561904663814268">Anteriormente, alguém fez login no Fulldive neste computador como <ph name="ACCOUNT_EMAIL_LAST"/>. Crie um novo usuário do Fulldive para manter suas informações separadas.</translation>
 <translation id="1853997773668795891">Vincular seus dados do Fulldive a esta conta?</translation>
-<translation id="1326766910007115955">Você está fazendo login com uma conta gerenciada e concedendo ao administrador da conta o controle sobre seu perfil do Fulldive. Seus dados do Fulldive, como aplicativos, favoritos, histórico, senhas e outras configurações serão permanentemente vinculados a <ph name="USER_NAME"/>. Você pode excluir esses dados pelo painel das Contas do Gab AI Inc, mas não pode associá-los a outra conta. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Você está fazendo login com uma conta gerenciada e concedendo ao administrador da conta o controle sobre seu perfil do Fulldive. Seus dados do Fulldive, como aplicativos, favoritos, histórico, senhas e outras configurações serão permanentemente vinculados a <ph name="USER_NAME"/>. Você pode excluir esses dados pelo painel das Contas do Gab AI Inc, mas não pode associá-los a outra conta. Você tem a opção de criar um novo perfil para manter seus dados existentes do Fulldive separados. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Você está fazendo login com uma conta gerenciada e concedendo ao administrador da conta o controle sobre seu perfil do Fulldive. Seus dados do Fulldive, como aplicativos, favoritos, histórico, senhas e outras configurações serão permanentemente vinculados a <ph name="USER_NAME"/>. Você pode excluir esses dados pelo painel das Contas do Fulldive, mas não pode associá-los a outra conta. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Você está fazendo login com uma conta gerenciada e concedendo ao administrador da conta o controle sobre seu perfil do Fulldive. Seus dados do Fulldive, como aplicativos, favoritos, histórico, senhas e outras configurações serão permanentemente vinculados a <ph name="USER_NAME"/>. Você pode excluir esses dados pelo painel das Contas do Fulldive, mas não pode associá-los a outra conta. Você tem a opção de criar um novo perfil para manter seus dados existentes do Fulldive separados. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">O administrador do seu sistema configurou o Fulldive para abrir um navegador alternativo para acessar <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">O administrador do seu sistema configurou o Fulldive para abrir o <ph name="ALTERNATIVE_BROWSER_NAME"/> ao acessar <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> estava usando o Fulldive anteriormente</translation>
@@ -120,7 +120,7 @@
 <translation id="9026991721384951619">O Fulldive OS não pôde sincronizar seus dados porque os detalhes de login da sua conta estão desatualizados.</translation>
 <translation id="7419046106786626209">O Fulldive OS não pôde sincronizar seus dados porque a sincronização não está disponível para seu domínio.</translation>
 <translation id="4480040274068703980">O Fulldive OS não pôde sincronizar seus dados devido a um erro durante o login.</translation>
-<translation id="300669147395456190">Aplicativos do Gab AI Inc Fulldive</translation>
+<translation id="300669147395456190">Aplicativos do Fulldive Fulldive</translation>
 <translation id="2398566204186296120"><ph name="DOMAIN"/> requer que você leia e aceite os Termos de Serviço a seguir antes de utilizar o serviço. Esses termos não ampliam, modificam nem limitam os Termos do Fulldive OS.</translation>
 <translation id="3293668930608086049">O Fulldive está usando sua câmera e seu microfone.</translation>
 <translation id="8919461291440820124">O Fulldive está usando seu microfone.</translation>
@@ -129,7 +129,7 @@
 <translation id="239760341987199724">Definir o Fulldive como seu navegador padrão</translation>
 <translation id="669092380621816981">Os dados de navegação dessa pessoa serão excluídos deste dispositivo. Para recuperar os dados, faça login no Fulldive como <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">O Fulldive ficou ainda melhor</translation>
-<translation id="7192666605334070839">Agora ficou mais fácil usar o Fulldive com sua Conta do Gab AI Inc e em computadores compartilhados.</translation>
+<translation id="7192666605334070839">Agora ficou mais fácil usar o Fulldive com sua Conta do Fulldive e em computadores compartilhados.</translation>
 <translation id="4100716194836114130">Este é seu Fulldive</translation>
 <translation id="3511996232906761537">Sua Web, seus favoritos e demais conteúdo do Fulldive estão aqui.</translation>
 <translation id="7406627712452599344">Convidados podem usar o Fulldive sem deixar nada para trás.</translation>
@@ -150,9 +150,9 @@
 <translation id="7272074097076644710">Regra de entrada para o Fulldive Beta para permitir o tráfego mDNS.</translation>
 <translation id="4991512282053949769">Regra de entrada para o Fulldive Nightly para permitir o tráfego mDNS.</translation>
 <translation id="3856641371299712128">Regra de entrada para o Fulldive Dev para permitir o tráfego do mDNS.</translation>
-<translation id="8207657266087451193">Se uma imagem não tiver uma descrição útil, o Fulldive tentará fornecer uma para você. As imagens serão enviadas ao Gab AI Inc para a criação de descrições. É possível desativar essa opção nas configurações a qualquer momento.</translation>
-<translation id="5499063270485366718">Se uma imagem não tiver uma descrição útil, o Fulldive tentará fornecer uma para você. As imagens serão enviadas ao Gab AI Inc para a criação de descrições.</translation>
-<translation id="215320507915280336">Esta opção usa o mesmo corretor ortográfico usado na Pesquisa Gab AI Inc. O texto digitado no navegador é enviado para o Gab AI Inc. É possível alterar esse comportamento nas configurações a qualquer momento.</translation>
+<translation id="8207657266087451193">Se uma imagem não tiver uma descrição útil, o Fulldive tentará fornecer uma para você. As imagens serão enviadas ao Fulldive para a criação de descrições. É possível desativar essa opção nas configurações a qualquer momento.</translation>
+<translation id="5499063270485366718">Se uma imagem não tiver uma descrição útil, o Fulldive tentará fornecer uma para você. As imagens serão enviadas ao Fulldive para a criação de descrições.</translation>
+<translation id="215320507915280336">Esta opção usa o mesmo corretor ortográfico usado na Pesquisa Fulldive. O texto digitado no navegador é enviado para o Fulldive. É possível alterar esse comportamento nas configurações a qualquer momento.</translation>
 <translation id="1807774211756215222">Abrir link em nova &amp;guia do Fulldive</translation>
 <translation id="4624945300945265642">Abrir link na janela &amp;sem rastros do Fulldive</translation>
 <translation id="7863882214613921971">Abrir link em nova &amp;guia do Fulldive</translation>
@@ -206,16 +206,16 @@
 <translation id="7573289029918943991">Para verificar se o dispositivo está atualizado, acesse as <ph name="LINK_BEGIN"/>Configurações do Fulldive OS<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Ajuda com o Fulldive OS</translation>
 <translation id="38898988211673781">Limpar cookies e dados de sites ao sair do Fulldive</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (copiado para o Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (copiado para o Fulldive)</translation>
 <translation id="5468853758063275923">O Fulldive é seu navegador padrão</translation>
 <translation id="1775322105159056176">O Fulldive não pode determinar ou definir o navegador padrão</translation>
 <translation id="6915252145142862992">Como esta é uma instalação secundária do Fulldive, ele não pode se tornar seu navegador padrão.</translation>
 <translation id="6235873178214143377">Se uma configuração não for exibida nesta página, verifique as <ph name="LINK_BEGIN"/>configurações de navegador do Fulldive<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Se uma configuração não for exibida nesta página, verifique as <ph name="LINK_BEGIN"/>configurações do Fulldive OS<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Para corrigir erros de ortografia, o Fulldive envia ao Gab AI Inc o texto que você digita nos campos de texto</translation>
+<translation id="2312399718665761438">Para corrigir erros de ortografia, o Fulldive envia ao Fulldive o texto que você digita nos campos de texto</translation>
 <translation id="8586264863973514035">Para que as alterações sejam aplicadas, reinicie o Fulldive</translation>
 <translation id="7021823858304886493">Permitir login no Fulldive</translation>
-<translation id="1649714546770135458">Desative essa opção para fazer login em sites do Gab AI Inc, como o Gmail, sem fazer login no Fulldive</translation>
+<translation id="1649714546770135458">Desative essa opção para fazer login em sites do Fulldive, como o Gmail, sem fazer login no Fulldive</translation>
 <translation id="2796517443093885402">O Fulldive pode ajudar a proteger você de violações de dados, extensões maliciosas e muito mais</translation>
 <translation id="428541510811554120">O Fulldive não pode verificar se há atualizações. Verifique sua conexão com a Internet.</translation>
 <translation id="2633397153656205379">A atualização do Fulldive não foi concluída. Algo deu errado. <ph name="BEGIN_LINK"/>Corrija as atualizações com falhas e os problemas de atualização do Fulldive<ph name="END_LINK"/>.</translation>

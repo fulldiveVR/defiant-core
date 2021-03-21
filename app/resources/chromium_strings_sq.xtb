@@ -10,7 +10,7 @@
 <translation id="4847979153841887006">Logoja e Fulldive</translation>
 <translation id="7339898014177206373">Dritare e re</translation>
 <translation id="5516268345616100622">Përgjegjës Punësh - Fulldive</translation>
-<translation id="7918740962659365265">Ndihmo në përmirësimin e Fulldive duke dërguar te Gab AI Inc raportet e ndërprerjeve aksidentale dhe <ph name="UMA_LINK"/></translation>
+<translation id="7918740962659365265">Ndihmo në përmirësimin e Fulldive duke dërguar te Fulldive raportet e ndërprerjeve aksidentale dhe <ph name="UMA_LINK"/></translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Fulldive</translation>
 <translation id="7830723774663008396">Fulldive - <ph name="PAGE_TITLE"/></translation>
 <translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - identifikimi në rrjet - Fulldive</translation>
@@ -19,7 +19,7 @@
 <translation id="1403270718080126244"><ph name="PAGE_TITLE"/> - Fulldive Beta</translation>
 <translation id="3943696263619956191"><ph name="PAGE_TITLE"/> - Fulldive Dev</translation>
 <translation id="6236814935154483927"><ph name="PAGE_TITLE"/> - Fulldive Canary</translation>
-<translation id="8992261409816268381">Gab AI Inc</translation>
+<translation id="8992261409816268381">Fulldive</translation>
 <translation id="8121009781989288430">Të drejtat e autorit <ph name="YEAR"/> Autorët e Fulldive. Të gjitha të drejtat të rezervuara.</translation>
 <translation id="6368958679917195344">Sistemi operativ Fulldive bëhet i mundur nga softueri shtesë <ph name="BEGIN_LINK_CROS_OSS"/>me burim të hapur<ph name="END_LINK_CROS_OSS"/>.</translation>
 <translation id="1662639173275167396">Fulldive OS mundësohet nga <ph name="BEGIN_LINK_CROS_OSS"/>softuerë shtesë me burim të hapur<ph name="END_LINK_CROS_OSS"/>, si p.sh. <ph name="BEGIN_LINK_LINUX_OSS"/>Linux (Beta)<ph name="END_LINK_LINUX_OSS"/>.</translation>
@@ -36,7 +36,7 @@
 <translation id="2585240446624043880">Fulldive nuk mund të lexojë dhe shkruajë në direktorinë e tij të të dhënave:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Opsionale: Ndihmo në përmirësimin e Fulldive duke i dërguar automatikisht Gab AI Inc statistika përdorimi dhe raporte të ndërprerjeve aksidentale.</translation>
+<translation id="8417700129970341035">Opsionale: Ndihmo në përmirësimin e Fulldive duke i dërguar automatikisht Fulldive statistika përdorimi dhe raporte të ndërprerjeve aksidentale.</translation>
 <translation id="1489465648257900784">Profili yt nuk mund të përdoret sepse është nga një version më i ri i Fulldive.
 
 Disa funksione mund të mos ofrohen. Specifiko një direktori tjetër profili ose përdor një version më të ri të Fulldive.</translation>
@@ -47,7 +47,7 @@ Disa funksione mund të mos ofrohen dhe ndryshimet në preferenca nuk do të ruh
 
 Fulldive nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="1477146545787277177">Fulldive pësoi një ndërprerje aksidentale. Dëshiron ta rinisësh tani?</translation>
-<translation id="5785919770853225148">Fulldive do ta ruajë këtë fjalëkalim në llogarinë tënde të Gab AI Inc. Nuk është nevoja ta mbash mend.</translation>
+<translation id="5785919770853225148">Fulldive do ta ruajë këtë fjalëkalim në llogarinë tënde të Fulldive. Nuk është nevoja ta mbash mend.</translation>
 <translation id="8211837073776713955">Fulldive të informon nëse fjalëkalimet e tua komprometohen ndonjëherë</translation>
 <translation id="113959764510199339">Fulldive-i po përpiqet të shfaqë fjalëkalime.</translation>
 <translation id="96347285368592620">Fulldive po përpiqet të kopjojë fjalëkalimet.</translation>
@@ -88,7 +88,7 @@ Fulldive nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="9183662282810237335">Dëshiron të dalësh nga Fulldive gjithsesi?</translation>
 <translation id="3834935463915107022">Dëshiron ta mbyllësh Fulldive gjithsesi?</translation>
 <translation id="8797356639448065696">Fulldive është në modalitetin e sfondit.</translation>
-<translation id="2339258256897053758">Çelësat API të Gab AI Inc mungojnë. Disa funksione të Fulldive do të çaktivizohen.</translation>
+<translation id="2339258256897053758">Çelësat API të Fulldive mungojnë. Disa funksione të Fulldive do të çaktivizohen.</translation>
 <translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> është shtuar te Fulldive</translation>
 <translation id="8516116288943000095">Pastro po ashtu të dhënat nga Fulldive (<ph name="URL"/>)</translation>
 <translation id="4054452651944170004">Fshih në menynë e Fulldive-it</translation>
@@ -112,8 +112,8 @@ Fulldive nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="2925193881330501265">Je identifikuar në Fulldive si <ph name="USER_EMAIL_ADDRESS"/>. Përdor të njëjtën llogari për t'u identifikuar sërish.</translation>
 <translation id="847561904663814268">Dikush është identifikuar më parë në Fulldive në këtë kompjuter si <ph name="ACCOUNT_EMAIL_LAST"/>. Krijo një përdorues të ri të Fulldive për t'i mbajtur të ndara informacionet e tua.</translation>
 <translation id="1853997773668795891">Të lidhen të dhënat tuaja Fulldive me këtë llogari?</translation>
-<translation id="1326766910007115955">Po identifikohesh me një llogari të menaxhuar dhe po i jep administratorit të saj kontroll mbi profilin tënd të Fulldive. Të dhënat e tua të Fulldive, siç janë aplikacionet, faqeshënuesit, fjalëkalimet dhe cilësime të tjera do të lidhen në mënyrë të përhershme me <ph name="USER_NAME"/>. Ti do të jesh në gjendje t'i fshish këto të dhëna përmes Panelit të llogarive të Gab AI Inc, por nuk do të jesh në gjendje t'i shoqërosh këto të dhëna me një llogari tjetër. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Po identifikohesh me një llogari të menaxhuar dhe po i jep administratorit të saj kontrollin mbi profilin tënd të Fulldive. Të dhënat e tua të Fulldive, si aplikacionet, faqeshënuesit, historiku, fjalëkalimet dhe cilësimet e tjera do të bëhen të lidhura përgjithmonë me <ph name="USER_NAME"/>. Do të mund t'i fshish këto të dhëna nëpërmjet "Panelit të llogarive të Gab AI Inc", por nuk do të mund t'i lidhësh këto të dhëna me një llogari tjetër. Mund të krijosh si opsion një profil të ri për t'i mbajtur më vete të dhënat ekzistuese të Fulldive. <ph name="LEARN_MORE"/></translation>
+<translation id="1326766910007115955">Po identifikohesh me një llogari të menaxhuar dhe po i jep administratorit të saj kontroll mbi profilin tënd të Fulldive. Të dhënat e tua të Fulldive, siç janë aplikacionet, faqeshënuesit, fjalëkalimet dhe cilësime të tjera do të lidhen në mënyrë të përhershme me <ph name="USER_NAME"/>. Ti do të jesh në gjendje t'i fshish këto të dhëna përmes Panelit të llogarive të Fulldive, por nuk do të jesh në gjendje t'i shoqërosh këto të dhëna me një llogari tjetër. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Po identifikohesh me një llogari të menaxhuar dhe po i jep administratorit të saj kontrollin mbi profilin tënd të Fulldive. Të dhënat e tua të Fulldive, si aplikacionet, faqeshënuesit, historiku, fjalëkalimet dhe cilësimet e tjera do të bëhen të lidhura përgjithmonë me <ph name="USER_NAME"/>. Do të mund t'i fshish këto të dhëna nëpërmjet "Panelit të llogarive të Fulldive", por nuk do të mund t'i lidhësh këto të dhëna me një llogari tjetër. Mund të krijosh si opsion një profil të ri për t'i mbajtur më vete të dhënat ekzistuese të Fulldive. <ph name="LEARN_MORE"/></translation>
 <translation id="2444257125841652328">Administratori i sistemit ka konfiguruar Fulldive që të hapë një shfletues alternativ për të pasur qasje te <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="5380963249588143069">Administratori i sistemit ka konfiguruar Fulldive që të hapë <ph name="ALTERNATIVE_BROWSER_NAME"/> për t'u qasur te <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> ka përdorur më parë Fulldive</translation>
@@ -137,7 +137,7 @@ Fulldive nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="239760341987199724">Caktoje Fulldive si shfletuesin tënd të parazgjedhur</translation>
 <translation id="669092380621816981">Të dhënat e shfletimit të këtij personi do të fshihen nga kjo pajisje. Për të rikuperuar të dhënat, identifikohu në Fulldive si <ph name="USER_EMAIL"/>.</translation>
 <translation id="2827121003398607864">Fulldive sapo është përmirësuar</translation>
-<translation id="7192666605334070839">Tani është më e lehtë të përdorësh Fulldive me llogarinë tënde të Gab AI Inc dhe në kompjuter të ndarë.</translation>
+<translation id="7192666605334070839">Tani është më e lehtë të përdorësh Fulldive me llogarinë tënde të Fulldive dhe në kompjuter të ndarë.</translation>
 <translation id="4100716194836114130">Ky është Fulldive-i juaj</translation>
 <translation id="3511996232906761537">Këtu janë materialet e tua të uebit, të faqeshënuesve dhe të tjera nga Fulldive.</translation>
 <translation id="7406627712452599344">Vizitorët mund të përdorin Fulldive pa lënë asgjë prapa.</translation>
@@ -158,9 +158,9 @@ Fulldive nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="7272074097076644710">Rregull në hyrje për Fulldive Beta për të lejuar trafik mDNS</translation>
 <translation id="4991512282053949769">Rregull në hyrje për Fulldive Natën për të lejuar trafic mDNS</translation>
 <translation id="3856641371299712128">Rregull në hyrje për Fulldive Programuesit për të lejuar trafic mDNS</translation>
-<translation id="8207657266087451193">Nëse një imazh nuk ka një përshkrim të dobishëm, Fulldive do të përpiqet të të japë një përshkrim. Për të krijuar përshkrime, imazhet dërgohen te Gab AI Inc. Këtë mund ta çaktivizosh te cilësimet në çdo moment.</translation>
-<translation id="5499063270485366718">Nëse një imazh nuk ka një përshkrim të dobishëm, Fulldive do të përpiqet të të japë një përshkrim. Për të krijuar përshkrime, imazhet dërgohen te Gab AI Inc.</translation>
-<translation id="215320507915280336">Kjo përdor të njëjtin kontrollues drejtshkrimor që përdoret në kërkimin e Gab AI Inc. Teksti që shkruan në shfletues dërgohet te Gab AI Inc. Mund ta ndryshosh këtë sjellje gjithmonë te cilësimet.</translation>
+<translation id="8207657266087451193">Nëse një imazh nuk ka një përshkrim të dobishëm, Fulldive do të përpiqet të të japë një përshkrim. Për të krijuar përshkrime, imazhet dërgohen te Fulldive. Këtë mund ta çaktivizosh te cilësimet në çdo moment.</translation>
+<translation id="5499063270485366718">Nëse një imazh nuk ka një përshkrim të dobishëm, Fulldive do të përpiqet të të japë një përshkrim. Për të krijuar përshkrime, imazhet dërgohen te Fulldive.</translation>
+<translation id="215320507915280336">Kjo përdor të njëjtin kontrollues drejtshkrimor që përdoret në kërkimin e Fulldive. Teksti që shkruan në shfletues dërgohet te Fulldive. Mund ta ndryshosh këtë sjellje gjithmonë te cilësimet.</translation>
 <translation id="1807774211756215222">Hape lidhjen në një &amp;skedë të re të Fulldive</translation>
 <translation id="4624945300945265642">Hape lidhjen në një dritare të fshe&amp;htë të Fulldive</translation>
 <translation id="7863882214613921971">Hape lidhjen në një &amp;skedë të re të Fulldive</translation>
@@ -214,7 +214,7 @@ Fulldive nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="7573289029918943991">Për të parë nëse pajisja jote është e përditësuar, shko te <ph name="LINK_BEGIN"/>Cilësimet e sistemit operativ Fulldive<ph name="LINK_END"/></translation>
 <translation id="3395323229510056640">Merr ndihmë me Fulldive OS</translation>
 <translation id="38898988211673781">Pastro kukit dhe të dhënat e sajteve kur të mbyllësh Fulldive</translation>
-<translation id="5253815230176279256">Gab AI Inc Pay (kopjuar në Fulldive)</translation>
+<translation id="5253815230176279256">Fulldive Pay (kopjuar në Fulldive)</translation>
 <translation id="5468853758063275923">Fulldive është shfletuesi yt i parazgjedhur</translation>
 <translation id="1775322105159056176">Fulldive nuk mund të përcaktojë ose caktojë shfletuesin e parazgjedhur</translation>
 <translation id="6915252145142862992">Ky është instalim dytësor i Fulldive dhe nuk mund të bëhet shfletuesi yt i parazgjedhur.</translation>
@@ -222,10 +222,10 @@ Fulldive nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
       cilësimet e shfletuesit të Fulldive<ph name="LINK_END"/></translation>
 <translation id="5657226924540934362">Nëse cilësimi nuk shfaqet në këtë faqe, shiko te <ph name="LINK_BEGIN"/>
       cilësimet e sistemit operativ të Fulldive<ph name="LINK_END"/></translation>
-<translation id="2312399718665761438">Për të korrigjuar gabimet drejtshkrimore, Fulldive e dërgon te Gab AI Inc tekstin që ti shkruan në fushat e tekstit</translation>
+<translation id="2312399718665761438">Për të korrigjuar gabimet drejtshkrimore, Fulldive e dërgon te Fulldive tekstin që ti shkruan në fushat e tekstit</translation>
 <translation id="8586264863973514035">Për të zbatuar ndryshimet, rinis Fulldive</translation>
 <translation id="7021823858304886493">Lejo identifikimin në Fulldive</translation>
-<translation id="1649714546770135458">Duke çaktivizuar këtë, mund të identifikohesh në sajtet e Gab AI Inc si Gmail pa u identifikuar në Fulldive</translation>
+<translation id="1649714546770135458">Duke çaktivizuar këtë, mund të identifikohesh në sajtet e Fulldive si Gmail pa u identifikuar në Fulldive</translation>
 <translation id="2796517443093885402">Fulldive mund të të ndihmojë të qëndrosh i sigurt nga nxjerrjet e paautorizuara të të dhënave, shtesat e papërshtatshme etj.</translation>
 <translation id="428541510811554120">Fulldive nuk mund të kontrollojë për përditësime. Provo të kontrollosh lidhjen e internetit.</translation>
 <translation id="2633397153656205379">Fulldive nuk u përditësua. Ndodhi një gabim. <ph name="BEGIN_LINK"/>Rregullo problemet e përditësimit të Fulldive dhe përditësimet e dështuara.<ph name="END_LINK"/></translation>
