@@ -7,7 +7,7 @@ index 358dbff5bc2bbfd8887b06b3170d4727ed842648..6e01e6ad766513c6d8e70724659a905f
  # Chrome Application dir entries, sorted alphabetically.
  #
 -chrome.exe: %(ChromeDir)s\
-+brave.exe: %(ChromeDir)s\
++fulldive.exe: %(ChromeDir)s\
  chrome_proxy.exe: %(ChromeDir)s\
  #
  # Chrome version dir assembly manifest.
@@ -15,7 +15,7 @@ index 358dbff5bc2bbfd8887b06b3170d4727ed842648..6e01e6ad766513c6d8e70724659a905f
  #
  # Chrome version dir entries, sorted alphabetically.
  #
-+brave.exe.sig: %(VersionDir)s\
++fulldive.exe.sig: %(VersionDir)s\
  chrome.dll: %(VersionDir)s\
 +chrome.dll.sig: %(VersionDir)s\
 +brave_resources.pak: %(VersionDir)s\

@@ -20,7 +20,7 @@ index b5b10b26ff05ce8a5e6f16b0273ba1d0927a44c5..c9e0a1ee7341047119e4c62c8628222f
  
  // Copied from util_constants.cc.
 +#if defined(BRAVE_CHROMIUM_BUILD)
-+const wchar_t kChromeExe[] = L"brave.exe";
++const wchar_t kChromeExe[] = L"fulldive.exe";
 +#else
  const wchar_t kChromeExe[] = L"chrome.exe";
 +#endif
