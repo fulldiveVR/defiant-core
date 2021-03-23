@@ -8,7 +8,7 @@ index b5b10b26ff05ce8a5e6f16b0273ba1d0927a44c5..c9e0a1ee7341047119e4c62c8628222f
  const wchar_t kSxSBrowserAppGuid[] = L"{4ea16ac7-fd5a-47c3-875b-dbf4a2008c20}";
 +#elif defined(BRAVE_CHROMIUM_BUILD) && defined(OFFICIAL_BUILD)
 +const wchar_t kInstallationRegKey[] =
-+    L"Software\\BraveSoftware\\Update\\ClientState";
++    L"Software\\Fulldive\\Update\\ClientState";
 +// Copied from
 +// brave/chromium_src/chrome_install_static/chromium_install_modes.cc
 +const wchar_t kBinariesAppGuid[] = L"{F7526127-0B8A-406F-8998-282BEA40103A}";

@@ -12,18 +12,18 @@
 
 #define BRAVE_INSTALL_MODES                                                 \
   std::wstring GetClientsKeyPathForApp(const wchar_t* app_guid) {           \
-    return std::wstring(L"Software\\BraveSoftware\\Update\\Clients\\")      \
+    return std::wstring(L"Software\\Fulldive\\Update\\Clients\\")      \
         .append(app_guid);                                                  \
   }                                                                         \
                                                                             \
   std::wstring GetClientStateKeyPathForApp(const wchar_t* app_guid) {       \
-    return std::wstring(L"Software\\BraveSoftware\\Update\\ClientState\\")  \
+    return std::wstring(L"Software\\Fulldive\\Update\\ClientState\\")  \
         .append(app_guid);                                                  \
   }                                                                         \
                                                                             \
   std::wstring GetClientStateMediumKeyPathForApp(const wchar_t* app_guid) { \
     return std::wstring(                                                    \
-               L"Software\\BraveSoftware\\Update\\ClientStateMedium\\")     \
+               L"Software\\Fulldive\\Update\\ClientStateMedium\\")     \
         .append(app_guid);                                                  \
   }
 
