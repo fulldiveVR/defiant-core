@@ -1,8 +1,24 @@
 diff --git a/chrome/browser/resources/settings/about_page/about_page.js b/chrome/browser/resources/settings/about_page/about_page.js
-index f1fee25e8a512e3c1752de61ddca78987e0eda86..2356179a10a353cefa6d3027630c234252212236 100644
+index f1fee25e8a51..2cbe3d180256 100644
 --- a/chrome/browser/resources/settings/about_page/about_page.js
 +++ b/chrome/browser/resources/settings/about_page/about_page.js
-@@ -173,7 +173,14 @@ Polymer({
+@@ -97,12 +97,15 @@ Polymer({
+         settings.LifetimeBrowserProxyImpl.getInstance();
+ 
+     // <if expr="not chromeos">
++    // Disabled for Fulldive.
++    /*
+     this.startListening_();
+     if (settings.Router.getInstance().getQueryParameters().get(
+             'checkForUpdate') == 'true') {
+       this.onUpdateStatusChanged_({status: UpdateStatus.CHECKING});
+       this.aboutBrowserProxy_.requestUpdate();
+     }
++    */
+     // </if>
+   },
+ 
+@@ -173,7 +176,14 @@ Polymer({
  
    /** @private */
    onRelaunchTap_() {
