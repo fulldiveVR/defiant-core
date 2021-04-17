@@ -12,7 +12,6 @@ import { Page, Panel, SlideContent } from '../components'
 // Component groups
 import WelcomeBox from './screens/welcomeBox'
 import ImportBox from './screens/importBox'
-import RewardsBox from './screens/rewardsBox'
 import SearchBox from './screens/searchBox'
 import ShieldsBox from './screens/shieldsBox'
 import FooterBox from './screens/footerBox'
@@ -40,7 +39,7 @@ export interface State {
   shouldUpdateElementOverflow: boolean
 }
 
-const totalScreensSize = 5
+const totalScreensSize = 4
 
 export class WelcomePage extends React.Component<Props, State> {
   constructor (props: Props) {
@@ -135,7 +134,6 @@ export class WelcomePage extends React.Component<Props, State> {
                 changeDefaultSearchProvider={actions.changeDefaultSearchProvider}
                 searchProviders={welcomeData.searchProviders}
               />
-              <RewardsBox index={5} currentScreen={this.currentScreen} onClick={this.onClickRewardsGetStarted} />
             </SlideContent>
             <FooterBox
               totalScreensSize={totalScreensSize}
